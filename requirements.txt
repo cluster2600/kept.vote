@@ -1,0 +1,26 @@
+# Web framework & server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Database (async SQLAlchemy + asyncpg driver).
+# The app is async end-to-end and uses asyncpg; psycopg2 is intentionally not
+# required. If you need a sync driver for tooling (e.g. Alembic offline), add
+# `psycopg[binary]` — it ships wheels for current Python versions.
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+
+# Validation & config
+pydantic==2.10.4
+python-dotenv==1.0.1
+
+# Multipart form parsing (required by FastAPI for file uploads)
+python-multipart==0.0.20
+
+# Claude API.
+# NOTE: bumped from the originally-requested 0.15.1 — that release predates the
+# `claude-opus-4-8` model and adaptive thinking used by claude_service.py.
+anthropic==0.69.0
+
+# Document processing
+PyPDF2==3.0.1
+python-docx==1.1.2
