@@ -1,0 +1,15 @@
+[
+  {
+    "id": "stk-1",
+    "holding": "Securities / listed shares / financial instruments (valeurs mobilières)",
+    "type": "equities / financial instruments",
+    "value": "None declared",
+    "as_of": "2022 HATVP declaration",
+    "detail": "Marine Le Pen declared NO stock or securities portfolio: no listed shares, no financial instruments, and no unlisted securities or miscellaneous movable property valued at or above EUR 10,000. This is an explicit 'none declared' finding, in contrast to other 2022 candidates who declared equity holdings.",
+    "status": "none_declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine",
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "fin-1",
+    "year": "2022",
+    "type": "net_worth_declared",
+    "label": "HATVP déclaration de patrimoine (presidential candidate)",
+    "amount": "EUR 1,188,484",
+    "detail": "Declared net assets in her 29 March 2022 candidate declaration to the HATVP — her most recent published patrimony declaration. Composed mainly of real-estate/SCI shares plus modest liquid assets. DECLARED.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "fin-2",
+    "year": "2022",
+    "type": "asset_breakdown",
+    "label": "Real estate / SCI shares (2022 declaration)",
+    "amount": "~EUR 1,294,000 (gross, across SCI shares)",
+    "detail": "Public Sénat read the declaration as two declared properties worth EUR 677,684 plus EUR 616,800 in an SCI (Montretout). L'Essentiel de l'Éco itemised three SCI participations: 12.5% SCI Montretout = EUR 616,800; 28.5% SCI (≈120 m² house) = EUR 111,883; 25% SCI (≈382 m² house) = EUR 565,801. Framings are reconcilable. DECLARED. FLAG: reconcile SCI names against the raw HATVP PDF.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "fin-3",
+    "year": "2022",
+    "type": "asset",
+    "label": "Life insurance (assurance-vie) and bank accounts",
+    "amount": "EUR 41,165 (assurance-vie) + EUR 52,980 (bank accounts) ≈ EUR 94,145",
+    "detail": "Liquid assets in the 2022 declaration. DECLARED.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "fin-4",
+    "year": "2022",
+    "type": "asset",
+    "label": "Motor vehicles",
+    "amount": "None declared",
+    "detail": "No motor vehicle declared in the 2022 patrimony declaration. DECLARED 'none'.",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "fin-5",
+    "year": "2017",
+    "type": "net_worth_declared",
+    "label": "HATVP patrimony declaration (revaluation, 2017 candidacy)",
+    "amount": "SCI Montretout share revalued to EUR 312,500",
+    "detail": "In her 2017 candidate filing she revalued her 12.5% SCI Montretout share to EUR 312,500 (up from ~EUR 225,000 declared in 2014) and declared the Millas property (50% via SCI, shared with Louis Aliot) at EUR 36,619. HISTORICAL / DECLARED.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/marine-le-pen-reevalue-legerement-son-patrimoine-57658",
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "fin-6",
+    "year": "2015",
+    "type": "valuation_dispute",
+    "label": "HATVP / tax administration counter-estimate of real estate",
+    "amount": "~EUR 1,350,000 (vs. ~EUR 611,832 declared)",
+    "detail": "The HATVP referred her 2014 (MEP) declaration to the financial prosecutor for manifest undervaluation of real estate (~60% understatement). The Conseil d'État upheld the HATVP's 'insincere/inexact' finding on 19 July 2019. ESTIMATED (HATVP/fisc). Administrative finding, not a criminal conviction.",
+    "source_url": [
+      "https://www.conseil-etat.fr/actualites/declaration-de-patrimoine-de-marine-le-pen",
+      "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000038801243/",
+      "https://www.hatvp.fr/presse/decisions-de-la-haute-autorite-relatives-aux-declarations-de-situation-patrimoniales-de-m-jean-marie-le-pen-et-mme-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "fin-7",
+    "year": "2017",
+    "type": "income",
+    "label": "MEP remuneration (European Parliament, through June 2017)",
+    "amount": "~EUR 6,200 net/month base salary (package incl. allowances ~EUR 11,000/month gross)",
+    "detail": "Standard MEP remuneration while she held the European mandate. From February 2017 the Parliament withheld part of her indemnity and her general-expenses allowance pending the fictitious-assistants investigation. DECLARED/reported.",
+    "source_url": [
+      "https://www.europe1.fr/politique/Marine-Le-Pen-touche-t-elle-11-000-euros-par-mois-de-la-part-de-l-Europe-594880"
+    ]
+  },
+  {
+    "id": "fin-8",
+    "year": "2023",
+    "type": "income",
+    "label": "Deputy's parliamentary indemnity (indemnité parlementaire)",
+    "amount": "EUR 42,671 net (2022); EUR 73,698 net (2023); EUR 37,278 net (2024)",
+    "detail": "Net parliamentary indemnity reported in her HATVP deputy declaration. DECLARED.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/le-pen-marine-diam32896-depute-62.pdf"
+    ]
+  },
+  {
+    "id": "fin-9",
+    "year": "2021",
+    "type": "income",
+    "label": "Party remuneration as RN president",
+    "amount": "EUR 60,000",
+    "detail": "Declared income of EUR 60,000 as RN president, maintained in 2021 even after Bardella became interim president. DECLARED.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "fin-10",
+    "year": "2018",
+    "type": "liability_obligation",
+    "label": "Repayment ordered to the European Parliament",
+    "amount": "~EUR 300,000–330,000",
+    "detail": "The European Parliament ordered her to repay sums tied to the fictitious-assistants matter; she repaid close to EUR 330,000. HISTORICAL. Distinct from the criminal case.",
+    "source_url": [
+      "https://www.touteleurope.eu/institutions/soupcons-d-emplois-fictifs-au-parlement-europeen-marine-le-pen-a-rembourse-pres-de-330-000-euros/",
+      "https://www.lejdd.fr/Politique/assistants-parlementaires-marine-le-pen-devra-bien-rembourser-300000-euros-au-parlement-europeen-3900398"
+    ]
+  },
+  {
+    "id": "fin-11",
+    "year": "2024",
+    "type": "asset_event",
+    "label": "Proceeds from sale of inherited Cannes apartment (SCI Santa Monica)",
+    "amount": "EUR 1,094,886.68 (net proceeds)",
+    "detail": "Marine Le Pen became universal legatee of a 102 m² Cannes apartment (testament dated 5 Oct 2023); the SCI Santa Monica was dissolved in April 2024 and the apartment sold on 5 April 2024, with net proceeds credited to her personal account on 12 April 2024. Reported by Le Monde. Not reflected in her last published HATVP declaration. DECLARED via reporting / post-declaration event.",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "fin-12",
+    "year": "2025",
+    "type": "estimate",
+    "label": "Estimated available patrimony (post-Cannes sale, post-inheritance)",
+    "amount": "~EUR 2,280,000 (estimate)",
+    "detail": "L'Essentiel de l'Éco estimated her available patrimony at ~EUR 2.28M in 2025 after the Cannes sale and her father's January 2025 estate; a higher ~EUR 4.3M figure circulates but is rejected by that source. ESTIMATED — not a HATVP declaration. FLAG: estimate only.",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  }
+]

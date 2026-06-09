@@ -1,0 +1,37 @@
+[
+  {
+    "id": "edu-1",
+    "institution": "Lycée Florent Schmitt, Saint-Cloud",
+    "qualification": "Baccalauréat (secondary education)",
+    "field": "General secondary",
+    "years": "to 1986",
+    "detail": "Secondary schooling in Saint-Cloud, the commune adjacent to the family's Montretout estate. Date thinly sourced (biographical accounts).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "edu-2",
+    "institution": "Université Paris II Panthéon-Assas",
+    "qualification": "Maîtrise en droit (Master of Laws)",
+    "field": "Law",
+    "years": "to 1991",
+    "detail": "Completed a law degree at Panthéon-Assas. Her status as 'avocate' (lawyer) is confirmed on her official Assemblée nationale profile.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+      "https://www.britannica.com/biography/Marine-Le-Pen"
+    ]
+  },
+  {
+    "id": "edu-3",
+    "institution": "Université Paris II Panthéon-Assas",
+    "qualification": "DEA (postgraduate diploma / advanced studies)",
+    "field": "Criminal law (droit pénal)",
+    "years": "1992",
+    "detail": "Postgraduate diploma in criminal law. She subsequently obtained the lawyer's professional certificate (CAPA) and practised at the Paris bar; the exact CAPA record and precise bar years are reported by biographical sources rather than a primary bar-association record (thinly sourced).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  }
+]

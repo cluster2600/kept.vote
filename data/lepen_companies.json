@@ -1,0 +1,77 @@
+[
+  {
+    "id": "co-1",
+    "entity": "SCI Montretout",
+    "role": "Co-owner (associée)",
+    "ownership_stake": "12.5%",
+    "period": "declared through 2022",
+    "status": "active (family real-estate holding company)",
+    "detail": "Société civile immobilière holding the Montretout family estate in Saint-Cloud. Her 12.5% share was declared at EUR 616,800 in 2022.",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/",
+      "https://www.publicsenat.fr/actualites/non-classe/marine-le-pen-reevalue-legerement-son-patrimoine-57658"
+    ]
+  },
+  {
+    "id": "co-2",
+    "entity": "Two further SCIs (≈382 m² and ≈120 m² houses)",
+    "role": "Co-owner (associée)",
+    "ownership_stake": "25% and 28.5%",
+    "period": "declared 2022",
+    "status": "active (real-estate holding companies)",
+    "detail": "Two additional property-holding SCIs itemised in the 2022 declaration (shares valued at EUR 565,801 and EUR 111,883). FLAG: exact SCI names to be confirmed against the raw HATVP PDF.",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "co-3",
+    "entity": "SCI Santa Monica (Cannes apartment)",
+    "role": "Universal legatee; associée until dissolution",
+    "ownership_stake": "via inheritance",
+    "period": "2023–2024",
+    "status": "dissolved (April 2024)",
+    "detail": "SCI holding the inherited Cannes apartment; dissolved in April 2024 and the property sold for net proceeds of EUR 1,094,886.68.",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "co-4",
+    "entity": "Jeanne (micro-parti / political financing association)",
+    "role": "Founder / linked figure",
+    "ownership_stake": "n/a (association, not a commercial company)",
+    "period": "2010–",
+    "status": "subject of judicial investigation ('affaire Jeanne'); current final disposition unverified",
+    "detail": "A micro-party created in November 2010 by Le Pen associates to finance her campaigns independently of her father's structures. It became the focus of a judicial investigation (opened 3 April 2014) into alleged illegal campaign financing / overpriced 'campaign kits' sold to FN candidates. FLAG: investigation confirmed; a definitive recent judicial outcome was not confirmed from primary press.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Jeanne_(micro-parti)",
+      "https://fr.wikipedia.org/wiki/Affaire_Jeanne",
+      "https://www.lejdd.fr/Politique/Le-micro-parti-de-Marine-Le-Pen-dans-le-viseur-de-la-justice-639955"
+    ]
+  },
+  {
+    "id": "co-5",
+    "entity": "Cotelec (financing micro-parti)",
+    "role": "Not her entity (Jean-Marie Le Pen's financing vehicle); contextual",
+    "ownership_stake": "n/a",
+    "period": "context 2010s",
+    "status": "investigated alongside Jeanne",
+    "detail": "Jean-Marie Le Pen's financing micro-party, which lent money to the FN/RN (reportedly ~EUR 6M in 2017). Included here for context; it is not Marine Le Pen's entity.",
+    "source_url": [
+      "https://www.lejdd.fr/Politique/Le-micro-parti-de-Marine-Le-Pen-dans-le-viseur-de-la-justice-639955"
+    ]
+  },
+  {
+    "id": "co-6",
+    "entity": "Cat-breeding (cattery) activity",
+    "role": "Owner / breeder (declared outside activity)",
+    "ownership_stake": "n/a",
+    "period": "since February 2021",
+    "status": "active (declared to HATVP)",
+    "detail": "Declared outside activity (cat breeding) in her HATVP déclaration d'intérêts. A personal, non-political activity.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine"
+    ]
+  }
+]

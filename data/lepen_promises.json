@@ -1,0 +1,197 @@
+[
+  {
+    "id": "prom-1",
+    "title": "Referendum on EU membership and exit from the euro ('Frexit')",
+    "description": "In her 2017 manifesto ('144 engagements'), Engagement #1 was to restore monetary, legislative, territorial and economic sovereignty, negotiate with EU partners and then hold a referendum on EU membership, including a return to a national currency alongside the euro.",
+    "date_made": "2017-02-05",
+    "category": "European Union / sovereignty",
+    "status": "no_action",
+    "confidence_score": 0.95,
+    "reasoning": "Le Pen never held executive power, so this pledge could never be implemented from office. It is recorded as no_action rather than broken. Notably, she herself abandoned the plank after the 2017 defeat: the euro-exit proposal was dropped as 'anxiogène' and the EU-membership referendum was shelved in 2019; by 2022 she explicitly denied seeking any 'Frexit', proposing instead to reform the EU from within.",
+    "key_evidence": [
+      "2017 manifesto Engagement #1 (sovereignty + EU referendum + national currency)",
+      "Post-2017 abandonment of euro exit; 2019 shelving of EU-membership referendum",
+      "2022 repositioning toward 'alliance européenne des nations'"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/sur-l-europe-marine-le-pen-a-t-elle-vraiment-change-202482",
+      "https://www.europe1.fr/politique/au-fn-lhypothese-du-frexit-est-definitivement-enterree-3462797",
+      "https://www.euractiv.fr/section/elections/news/marine-le-pen-peine-a-convaincre-de-son-revirement-sur-lue/"
+    ]
+  },
+  {
+    "id": "prom-2",
+    "title": "Drastically cut legal immigration and abolish birthright citizenship (droit du sol)",
+    "description": "Cut net immigration to around 10,000 per year, exit the Schengen area and restore national border controls, abolish automatic acquisition of nationality by birth on French soil, and halt regularisations and naturalisations of irregular migrants (2017, reaffirmed 2022).",
+    "date_made": "2017-02-05",
+    "category": "immigration",
+    "status": "no_action",
+    "confidence_score": 0.95,
+    "reasoning": "A signature, recurring pledge across her campaigns, but never implementable as she never governed. Recorded as no_action. A diluted echo of the 'national priority' idea appeared in the 2023 immigration law (which she did not author), several provisions of which were later struck down by the Conseil constitutionnel.",
+    "key_evidence": [
+      "2017 manifesto immigration planks (~10,000/yr, exit Schengen, abolish droit du sol)",
+      "Reaffirmed and detailed in 2022 programme"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/les-principales-mesures-du-programme-de-marine-le-pen-54228",
+      "https://www.touteleurope.eu/vie-politique-des-etats-membres/emmanuel-macron-marine-le-pen-quelles-sont-leurs-propositions-en-matiere-d-immigration-et-d-asile/"
+    ]
+  },
+  {
+    "id": "prom-3",
+    "title": "Constitutionalise 'national priority' (priorité nationale) via referendum",
+    "description": "Hold a referendum (under Article 11) to inscribe in the Constitution a 'national priority' for French citizens in access to employment, housing and welfare, bypassing Parliament (2017 and 2022).",
+    "date_made": "2022-01-01",
+    "category": "immigration / institutions",
+    "status": "no_action",
+    "confidence_score": 0.9,
+    "reasoning": "Could not be enacted without the presidency and the power to call a referendum; never in office. Recorded as no_action.",
+    "key_evidence": [
+      "2022 referendum-on-immigration proposal under Article 11",
+      "'Priorité nationale' as a constitutional objective"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-pourquoi-le-programme-de-marine-le-pen-reste-ancre-a-l-extreme-droite-malgre-la-dediabolisation_5081860.html",
+      "https://www.publicsenat.fr/actualites/non-classe/les-principales-mesures-du-programme-de-marine-le-pen-54228"
+    ]
+  },
+  {
+    "id": "prom-4",
+    "title": "Cut VAT on energy from 20% to 5.5%",
+    "description": "Centrepiece cost-of-living measure of the 2022 campaign: reduce VAT from 20% to 5.5% on fuels, electricity, gas and heating oil. Costed by the Institut Montaigne at roughly EUR 10.3bn/yr in lost revenue.",
+    "date_made": "2022-01-01",
+    "category": "economy / purchasing power",
+    "status": "no_action",
+    "confidence_score": 0.95,
+    "reasoning": "Never implementable as she did not win the presidency. Recorded as no_action.",
+    "key_evidence": [
+      "2022 manifesto VAT-cut pledge",
+      "Institut Montaigne costing (~EUR 10.3bn/yr)"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/presidentielle-2022/legislatives-2022/rassemblement-national/baisser-la-tva-de-20-a-55-pour-les-carburants-lelectricite-le-gaz-et-le-fioul-domestique-2/",
+      "https://www.institutmontaigne.org/expressions/les-quatre-points-retenir-du-programme-de-marine-le-pen"
+    ]
+  },
+  {
+    "id": "prom-5",
+    "title": "Exempt under-30s from income tax",
+    "description": "Exempt people under 30 from income tax, alongside exempting employer contributions on pay rises of up to 10% for salaries below three times the minimum wage (2022).",
+    "date_made": "2022-01-01",
+    "category": "economy",
+    "status": "no_action",
+    "confidence_score": 0.9,
+    "reasoning": "Never implementable; she did not hold office. Recorded as no_action.",
+    "key_evidence": [
+      "2022 manifesto fiscal measures for under-30s and on pay rises"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/expressions/les-quatre-points-retenir-du-programme-de-marine-le-pen"
+    ]
+  },
+  {
+    "id": "prom-6",
+    "title": "Restore retirement at 60 (progressive scheme) and raise the minimum old-age pension",
+    "description": "Allow a full-rate pension at 60 with 40 annuities for those who began work before 20, on a sliding scale to 62 for those entering work at 20–25; raise the minimum old-age pension toward EUR 1,000 and reindex pensions on inflation (2022). Costed by the Institut Montaigne at ~EUR 26.5bn/yr. Note: this was a progressive scheme, not a flat 'retirement at 60 for all'.",
+    "date_made": "2022-01-01",
+    "category": "economy / pensions",
+    "status": "no_action",
+    "confidence_score": 0.9,
+    "reasoning": "Never implementable from office. Recorded as no_action. (Distinct from her later parliamentary opposition to the 2023 pension reform — captured separately as a parliamentary position.)",
+    "key_evidence": [
+      "2022 manifesto progressive retirement-at-60 scheme",
+      "Institut Montaigne costing (~EUR 26.5bn/yr)"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/restaurer-la-retraite-a-60-ans-a-taux-plein-avec-40-annuites-et-revaloriser-le-minimum-vieillesse/",
+      "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/reindexer-les-pensions-de-retraites-sur-linflation/"
+    ]
+  },
+  {
+    "id": "prom-7",
+    "title": "Ban the Islamic headscarf/veil in public spaces",
+    "description": "Proposed in the 2022 manifesto to ban the headscarf in public space as part of a wider anti-Islamism agenda. Partially walked back mid-campaign (16 April 2022), when she called it a 'complex problem' for parliamentary 'discussion and debate'.",
+    "date_made": "2022-01-01",
+    "category": "secularism / security",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "Never implementable as she did not govern; recorded as no_action. Note the mid-campaign softening of the commitment.",
+    "key_evidence": [
+      "2022 manifesto headscarf-ban proposal",
+      "16 April 2022 softening ('complex problem', for parliamentary debate)"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-pourquoi-le-programme-de-marine-le-pen-reste-ancre-a-l-extreme-droite-malgre-la-dediabolisation_5081860.html"
+    ]
+  },
+  {
+    "id": "prom-8",
+    "title": "Withdraw France from NATO's integrated command",
+    "description": "Pledged to withdraw France from NATO's integrated military command and pursue a more independent defence and foreign policy, while raising the defence budget toward EUR 55bn by 2027 (2022).",
+    "date_made": "2022-01-01",
+    "category": "defence / foreign policy",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "Never implementable; she did not hold office. Recorded as no_action. FLAG: the NATO integrated-command withdrawal pledge is thinly sourced (campaign clips); the EUR 55bn defence-budget companion pledge is better sourced.",
+    "key_evidence": [
+      "2022 NATO integrated-command withdrawal statements",
+      "Institut Montaigne costing of the EUR 55bn defence-budget pledge"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/porter-le-budget-de-la-defense-a-55-milliards-deuros-a-lhorizon-2027/"
+    ]
+  },
+  {
+    "id": "prom-9",
+    "title": "Opposition to the 2023 pension reform (parliamentary position)",
+    "description": "As RN group president, Le Pen opposed the Borne government's 2023 pension reform raising the retirement age from 62 to 64; on 15 February 2023 the RN filed a motion de censure (which did not pass) and later proposed abrogating the reform.",
+    "date_made": "2023-02-15",
+    "category": "parliamentary position (pensions)",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "This is a documented parliamentary position, not a presidential pledge. As an opposition deputy she could vote and file motions but lacked the majority to block the reform, which passed via Article 49.3. Recorded as no_action in the sense that the opposition did not change the outcome; the position itself is well documented.",
+    "key_evidence": [
+      "RN motion de censure against the Borne government (Feb 2023)",
+      "RN proposal to abrogate the reform (rejected in committee)"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-marine-le-pen-annonce-le-depot-d-une-motion-de-censure-par-les-deputes-du-rassemblement-national-contre-le-gouvernement_5660879.html",
+      "https://lcp.fr/actualites/reforme-des-retraites-le-rassemblement-national-a-depose-une-motion-de-censure-168410"
+    ]
+  },
+  {
+    "id": "prom-10",
+    "title": "Vote to topple the Barnier government (parliamentary position, December 2024)",
+    "description": "After Prime Minister Michel Barnier used Article 49.3 on the 2025 Social Security budget, Le Pen committed RN deputies to vote for the left's motion of no confidence; it passed with 331 votes on 4 December 2024, toppling the government — the first successful censure since 1962.",
+    "date_made": "2024-12-04",
+    "category": "parliamentary position (confidence votes)",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Unlike a presidential pledge, this was an action fully within her power as a sitting deputy and group leader. She announced RN would vote the censure and the RN's votes were decisive in passing it. Marked kept because the stated intention was carried out and achieved its immediate aim.",
+    "key_evidence": [
+      "RN's announced support for the NFP censure motion",
+      "Motion passed 331 votes on 4 December 2024, toppling the Barnier government"
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Motion_de_censure_du_4_d%C3%A9cembre_2024_en_France",
+      "https://www.publicsenat.fr/actualites/parlementaire/le-gouvernement-de-michel-barnier-renverse-apres-ladoption-de-la-motion-de-censure-du-nfp"
+    ]
+  },
+  {
+    "id": "prom-11",
+    "title": "First presidential candidacy and signature first-round score (2012)",
+    "description": "In her first presidential run (2012) she campaigned on sovereignty, immigration control, protectionism and 'national priority', positioning the FN as an anti-establishment force; she won 17.9% in the first round, a then-record for the party.",
+    "date_made": "2012-04-22",
+    "category": "presidential campaign (platform)",
+    "status": "no_action",
+    "confidence_score": 0.9,
+    "reasoning": "The 2012 platform was never implementable as she finished third and was eliminated. Recorded as no_action; included to capture her earliest national platform.",
+    "key_evidence": [
+      "2012 first-round result 17.9% (3rd place)"
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+      "https://www.slate.fr/france/53833/marine-le-pen-score-vote"
+    ]
+  }
+]

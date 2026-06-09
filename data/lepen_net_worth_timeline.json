@@ -1,0 +1,44 @@
+[
+  {
+    "id": "nw-1",
+    "year": "2014",
+    "declared_net_worth": "~EUR 611,832 (real estate as declared); HATVP/fisc counter-estimate ~EUR 1,350,000",
+    "note": "MEP declaration. The HATVP found this declaration undervalued her real estate by ~60% and referred it to the financial prosecutor; the Conseil d'État upheld the 'insincere' finding in 2019. Declared figure disputed.",
+    "status": "declared_disputed",
+    "source_url": [
+      "https://www.conseil-etat.fr/actualites/declaration-de-patrimoine-de-marine-le-pen",
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "nw-2",
+    "year": "2017",
+    "declared_net_worth": "SCI Montretout share revalued to EUR 312,500 (full net worth figure not isolated here)",
+    "note": "2017 presidential-candidate declaration; she revalued her Montretout share upward following the 2014 undervaluation controversy.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/marine-le-pen-reevalue-legerement-son-patrimoine-57658"
+    ]
+  },
+  {
+    "id": "nw-3",
+    "year": "2022",
+    "declared_net_worth": "EUR 1,188,484",
+    "note": "Last published HATVP patrimony declaration (presidential candidate, 29 March 2022). Real-estate/SCI shares plus ~EUR 94,000 liquid assets; no significant personal liabilities and no securities portfolio declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "nw-4",
+    "year": "2025",
+    "declared_net_worth": "~EUR 2,280,000 (estimate, not a HATVP declaration)",
+    "note": "Post-declaration estimate after the April 2024 Cannes apartment sale (~EUR 1.09M net) and her father's January 2025 estate. A higher ~EUR 4.3M figure circulates but is rejected by the cited source. Estimate only — no updated HATVP patrimony declaration published as of June 2026.",
+    "status": "estimated",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  }
+]

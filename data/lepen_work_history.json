@@ -1,0 +1,125 @@
+[
+  {
+    "id": "work-1",
+    "role": "Avocate (lawyer)",
+    "organization": "Barreau de Paris (Paris bar)",
+    "start_date": "1992",
+    "end_date": "1998",
+    "description": "Practised as a lawyer at the Paris bar after qualifying. The 'avocate' designation is confirmed on her official Assemblée nationale profile; the practice end-date (~1998, when she moved into full-time FN work) is reported by biographical sources rather than a primary record (thinly sourced).",
+    "category": "professional",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA720614",
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "work-2",
+    "role": "Director of the legal department (DGSJ)",
+    "organization": "Front National",
+    "start_date": "1998",
+    "end_date": "2004",
+    "description": "Headed the FN's legal affairs department. Start date reported by biographical sources (not independently confirmed via a primary FN record; thinly sourced).",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "work-3",
+    "role": "Regional councillor (conseillère régionale), Nord-Pas-de-Calais",
+    "organization": "Conseil régional du Nord-Pas-de-Calais",
+    "start_date": "1998",
+    "end_date": "2004",
+    "description": "First elected mandate, following the 1998 regional elections.",
+    "category": "elected_office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "work-4",
+    "role": "Regional councillor (conseillère régionale), Île-de-France",
+    "organization": "Conseil régional d'Île-de-France",
+    "start_date": "2004",
+    "end_date": "2010",
+    "description": "Regional councillor for Île-de-France following the 2004 regional elections.",
+    "category": "elected_office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "work-5",
+    "role": "Member of the European Parliament (MEP)",
+    "organization": "European Parliament",
+    "start_date": "2004-07-20",
+    "end_date": "2017-06",
+    "description": "Elected MEP in 2004 (Île-de-France constituency in the 6th legislature, then North-West France), re-elected in 2009 and 2014. Sat among non-attached members and briefly in the ITS group (Jan–Nov 2007). Held the mandate until her election to the French National Assembly in June 2017. This is the period at the centre of the parliamentary-assistants embezzlement case.",
+    "category": "elected_office",
+    "source_url": [
+      "https://www.europarl.europa.eu/meps/fr/28210/MARINE_LE+PEN/history/6",
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "work-6",
+    "role": "Municipal councillor, Hénin-Beaumont",
+    "organization": "Commune of Hénin-Beaumont (Pas-de-Calais)",
+    "start_date": "2008-03-23",
+    "end_date": "2011-02-24",
+    "description": "Opposition municipal councillor in Hénin-Beaumont, the Pas-de-Calais town that became her political base, after the 2008 municipal elections.",
+    "category": "elected_office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "work-7",
+    "role": "Regional councillor, Nord-Pas-de-Calais then Hauts-de-France",
+    "organization": "Conseil régional du Nord-Pas-de-Calais / Hauts-de-France",
+    "start_date": "2010",
+    "end_date": "2021",
+    "description": "Regional councillor following the 2010 and 2015 regional elections (the region was merged into Hauts-de-France in 2016).",
+    "category": "elected_office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "work-8",
+    "role": "President of the Front National / Rassemblement National",
+    "organization": "Front National (renamed Rassemblement National in 2018)",
+    "start_date": "2011-01-16",
+    "end_date": "2021-09",
+    "description": "Succeeded her father Jean-Marie Le Pen as party president at the January 2011 Tours congress. Led the party's 'dédiabolisation' (de-demonisation) strategy and oversaw its renaming to Rassemblement National at the March 2018 Lille congress. Stepped aside as president in September 2021 to focus on her presidential campaign; Jordan Bardella served as acting president and was formally elected party president in November 2022.",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+      "https://en.wikipedia.org/wiki/National_Rally"
+    ]
+  },
+  {
+    "id": "work-9",
+    "role": "Deputy (députée), Pas-de-Calais 11th constituency",
+    "organization": "Assemblée nationale",
+    "start_date": "2017-06",
+    "end_date": "present",
+    "description": "Member of the French National Assembly for the 11th constituency of the Pas-de-Calais, first elected in June 2017, re-elected in June 2022 and in the snap election of June/July 2024. Member of the Foreign Affairs Committee (Commission des affaires étrangères).",
+    "category": "elected_office",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA720614"
+    ]
+  },
+  {
+    "id": "work-10",
+    "role": "President of the Rassemblement National parliamentary group",
+    "organization": "Assemblée nationale",
+    "start_date": "2022-06",
+    "end_date": "present",
+    "description": "Chairs the RN group in the National Assembly, which became the largest single opposition group after the 2022 elections and grew further after the 2024 snap election.",
+    "category": "elected_office",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA720614"
+    ]
+  }
+]

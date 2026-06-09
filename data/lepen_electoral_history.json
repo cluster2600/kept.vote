@@ -1,0 +1,203 @@
+[
+  {
+    "id": "elec-1",
+    "election": "Regional election (Nord-Pas-de-Calais)",
+    "date": "1998-03-15",
+    "role_sought": "Regional councillor",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "Her first elected mandate. Outcome confirmed; exact list vote share not pinned to a primary Interior Ministry source (thinly sourced).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-2",
+    "election": "European Parliament election (Île-de-France constituency)",
+    "date": "2004-06-13",
+    "role_sought": "Member of the European Parliament",
+    "result": "Elected",
+    "vote_share": "8.58% (Île-de-France list)",
+    "opponent": null,
+    "detail": "Led the FN list in the Île-de-France constituency; elected MEP.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+      "https://www.europarl.europa.eu/meps/fr/28210/MARINE_LE+PEN/history/6"
+    ]
+  },
+  {
+    "id": "elec-3",
+    "election": "Legislative election (Pas-de-Calais, Hénin-Beaumont area)",
+    "date": "2007-06-17",
+    "role_sought": "Deputy (Assemblée nationale)",
+    "result": "Lost (second round)",
+    "vote_share": null,
+    "opponent": "Socialist (PS) candidate",
+    "detail": "Led the first round in the Hénin-Beaumont constituency but lost the runoff. Outcome confirmed; exact percentages not pinned to a primary source (thinly sourced). Note: she was NOT a presidential candidate in 2007 — her father Jean-Marie Le Pen was the FN's presidential candidate that year.",
+    "source_url": [
+      "https://www.europe1.fr/politique/legislatives-marine-le-pen-en-tete-dans-son-fief-dhenin-beaumont-mais-pas-encore-elue-4117187",
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-4",
+    "election": "Municipal election (Hénin-Beaumont)",
+    "date": "2008-03",
+    "role_sought": "Mayor / municipal council",
+    "result": "Elected councillor; did not win mayoralty",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "Won a seat on the municipal council but the FN did not take the town hall. Outcome confirmed; exact list result not pinned to a primary source (thinly sourced).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-5",
+    "election": "European Parliament election (North-West France constituency)",
+    "date": "2009-06-07",
+    "role_sought": "Member of the European Parliament",
+    "result": "Elected (re-elected)",
+    "vote_share": "10.18% (North-West list)",
+    "opponent": null,
+    "detail": "Led the FN list in the North-West constituency; re-elected MEP.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-6",
+    "election": "Regional election (Nord-Pas-de-Calais)",
+    "date": "2010-03",
+    "role_sought": "Regional councillor",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "Elected regional councillor for the 2010–2015 term.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-7",
+    "election": "French presidential election",
+    "date": "2012-04-22",
+    "role_sought": "President of the French Republic",
+    "result": "Eliminated in first round (3rd place)",
+    "vote_share": "17.90% (first round)",
+    "opponent": "François Hollande (PS), Nicolas Sarkozy (UMP)",
+    "detail": "Her first presidential candidacy; ~6.4 million votes, a then-record first-round score for the FN. Hollande (28.6%) and Sarkozy (27.2%) advanced to the runoff.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012",
+      "https://www.slate.fr/france/53833/marine-le-pen-score-vote"
+    ]
+  },
+  {
+    "id": "elec-8",
+    "election": "European Parliament election (North-West France constituency)",
+    "date": "2014-05-25",
+    "role_sought": "Member of the European Parliament",
+    "result": "Elected (re-elected)",
+    "vote_share": "~33.6% (constituency); FN first nationally with 24.9%",
+    "opponent": null,
+    "detail": "Led the FN list as the party finished first nationally for the first time in a European election. She held the MEP mandate until her election to the National Assembly in 2017.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-9",
+    "election": "Regional election (Nord-Pas-de-Calais-Picardie)",
+    "date": "2015-12-13",
+    "role_sought": "President of the regional council",
+    "result": "Lost (second round)",
+    "vote_share": "~40.6% (runoff)",
+    "opponent": "Xavier Bertrand (Les Républicains)",
+    "detail": "Led the first round comfortably but lost the runoff to Xavier Bertrand after the left withdrew its list to block the FN ('front républicain'). She remained a regional councillor.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+      "https://www.britannica.com/biography/Marine-Le-Pen"
+    ]
+  },
+  {
+    "id": "elec-10",
+    "election": "French presidential election",
+    "date": "2017-04-23",
+    "role_sought": "President of the French Republic",
+    "result": "Reached second round; lost runoff",
+    "vote_share": "~21.3% (first round); 33.90% (runoff, 7 May 2017)",
+    "opponent": "Emmanuel Macron (En Marche)",
+    "detail": "Reached the runoff and lost to Emmanuel Macron (66.1% to 33.9%). The 3 May 2017 televised debate was widely seen as a poor performance, which she later called a strategic error.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+      "https://www.ina.fr/ina-eclaire-actu/presidentielle-2017-le-debat-entre-marine-le-pen-et-emmanuel-macron"
+    ]
+  },
+  {
+    "id": "elec-11",
+    "election": "Legislative election (Pas-de-Calais, 11th constituency)",
+    "date": "2017-06-18",
+    "role_sought": "Deputy (Assemblée nationale)",
+    "result": "Elected",
+    "vote_share": "46.02% (first round); 58.60% (runoff)",
+    "opponent": "Anne Roquet (La République En Marche)",
+    "detail": "Won her first seat in the National Assembly, becoming a deputy for the Pas-de-Calais.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-12",
+    "election": "Regional election (Hauts-de-France)",
+    "date": "2021-06",
+    "role_sought": "Regional council (RN list)",
+    "result": "RN underperformed; did not win region",
+    "vote_share": null,
+    "opponent": "Xavier Bertrand (incumbent)",
+    "detail": "The RN's score fell sharply versus 2015, a setback a year before the presidential election. Le Pen was not the lead regional candidate in this cycle.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/regionales/resultats-des-elections-regionales-le-mauvais-score-du-rassemblement-national-freine-marine-le-pen-a-un-an-de-la-presidentielle_4677725.html"
+    ]
+  },
+  {
+    "id": "elec-13",
+    "election": "French presidential election",
+    "date": "2022-04-10",
+    "role_sought": "President of the French Republic",
+    "result": "Reached second round; lost runoff",
+    "vote_share": "23.15% (first round); 41.45% (runoff, 24 April 2022)",
+    "opponent": "Emmanuel Macron (incumbent)",
+    "detail": "Her third presidential run and second runoff against Macron. Her 41.45% was the highest second-round score ever for a far-right candidate in France.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/presidentielle/resultats-presidentielle-2022-avec-41-8-marine-le-pen-realise-le-score-le-plus-eleve-de-l-extreme-droite-lors-d-un-second-tour_5100280.html"
+    ]
+  },
+  {
+    "id": "elec-14",
+    "election": "Legislative election (Pas-de-Calais, 11th constituency)",
+    "date": "2022-06-19",
+    "role_sought": "Deputy (Assemblée nationale)",
+    "result": "Elected (re-elected)",
+    "vote_share": "53.96% (first round); 61.03% (runoff)",
+    "opponent": "Marine Tondelier (EELV / NUPES)",
+    "detail": "Re-elected; the RN became the largest single opposition group in the Assembly with 89 seats.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "elec-15",
+    "election": "Legislative election (Pas-de-Calais, 11th constituency)",
+    "date": "2024-06-30",
+    "role_sought": "Deputy (Assemblée nationale)",
+    "result": "Elected in the first round",
+    "vote_share": "57.88% (first round)",
+    "opponent": "Samira Laal (Nouveau Front Populaire) 25.83%; Dorian Lamy (Ensemble) 7.72%",
+    "detail": "Re-elected outright in the first round of the snap election called after Macron dissolved the Assembly; the RN posted a historic national score.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/legislatives-2024-le-rn-realise-un-score-historique-avec-34-des-voix-marine-le-pen-elue-des-le-premier-tour",
+      "https://www.franceinfo.fr/elections/legislatives/reportage-c-est-du-nouveau-ca-fait-du-bien-a-henin-beaumont-les-electeurs-celebrent-la-reelection-de-marine-le-pen_6638382.html"
+    ]
+  }
+]

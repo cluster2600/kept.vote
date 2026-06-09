@@ -1,0 +1,68 @@
+[
+  {
+    "id": "re-1",
+    "property": "Montretout estate ('le paquebot'), via SCI",
+    "location": "Saint-Cloud (Hauts-de-Seine)",
+    "transaction_type": "Co-ownership via SCI (inherited family estate)",
+    "date": "declared 2014/2017/2022",
+    "value": "Marine's 12.5% share declared at EUR 616,800 (2022); EUR 312,500 (2017)",
+    "detail": "The large Le Pen family estate in the private Montretout park, held through an SCI. Ownership long split Jean-Marie Le Pen 75% / Marine 12.5% / sister Yann 12.5%. The family fortune traces historically to the 1976 bequest of cement heir Hubert Lambert to Jean-Marie Le Pen (well-established historical context; re-cite from a primary biography before publishing). After Jean-Marie Le Pen's death in January 2025, the Montretout usufruct was reported attributed to his widow Jany.",
+    "status": "declared / family co-ownership",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/marine-le-pen-reevalue-legerement-son-patrimoine-57658",
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "re-2",
+    "property": "House (~382 m²) via SCI",
+    "location": "La Celle-Saint-Cloud area (Yvelines)",
+    "transaction_type": "Co-ownership via SCI (25% share)",
+    "date": "declared 2022",
+    "value": "EUR 565,801 (25% share)",
+    "detail": "Corresponds to her residence in the La Celle-Saint-Cloud area, held via an SCI. DECLARED. FLAG: SCI name to be confirmed against the raw HATVP PDF.",
+    "status": "declared",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "re-3",
+    "property": "House (~120 m²) via SCI",
+    "location": "(SCI, region per HATVP filing)",
+    "transaction_type": "Co-ownership via SCI (28.5% share)",
+    "date": "declared 2022",
+    "value": "EUR 111,883 (28.5% share)",
+    "detail": "Third SCI participation itemised in the 2022 declaration reading. DECLARED. FLAG: SCI name/location to be confirmed against the raw HATVP PDF.",
+    "status": "declared",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "re-4",
+    "property": "Apartment in Millas / Perpignan area, via SCI",
+    "location": "Pyrénées-Orientales",
+    "transaction_type": "Co-ownership via SCI (50%, shared with Louis Aliot)",
+    "date": "declared 2014/2017",
+    "value": "~EUR 36,619 (50% share)",
+    "detail": "Modest property co-owned with her then-partner Louis Aliot, declared in her 2014 and 2017 filings. HISTORICAL.",
+    "status": "historical / declared",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "re-5",
+    "property": "Apartment (102 m²), via SCI Santa Monica (inherited, then sold)",
+    "location": "Cannes (Alpes-Maritimes)",
+    "transaction_type": "Inheritance (universal legatee) then sale",
+    "date": "2024-04-05 (sale)",
+    "value": "EUR 1,094,886.68 (net sale proceeds)",
+    "detail": "Marine Le Pen became universal legatee under a testament dated 5 Oct 2023; the SCI was dissolved in April 2024 and the apartment sold on 5 April 2024, with net proceeds credited to her account on 12 April 2024. Reported by Le Monde. Post-dates her last published HATVP declaration.",
+    "status": "sold (post-declaration event)",
+    "source_url": [
+      "https://lessentieldeleco.fr/3780-quel-est-le-vrai-patrimoine-de-marine-le-pen/"
+    ]
+  }
+]

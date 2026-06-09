@@ -1,0 +1,62 @@
+[
+  {
+    "id": "int-1",
+    "item": "President of the Rassemblement National parliamentary group (Assemblée nationale)",
+    "type": "political function",
+    "period": "January 2017 (group function) / June 2022–June 2024 and ongoing",
+    "value": "remunerated as deputy (parliamentary indemnity)",
+    "detail": "Declared function as chair of the RN group in the National Assembly. DECLARED (déclaration d'intérêts).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine"
+    ]
+  },
+  {
+    "id": "int-2",
+    "item": "Member of the Rassemblement National executive bureau",
+    "type": "party function",
+    "period": "ongoing",
+    "value": "party function",
+    "detail": "Declared membership of the RN's executive bureau (board). DECLARED.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine"
+    ]
+  },
+  {
+    "id": "int-3",
+    "item": "President of the Front National / Rassemblement National (historical)",
+    "type": "party function",
+    "period": "2011–2021",
+    "value": "EUR 60,000/yr (declared, maintained 2021)",
+    "detail": "Former party president; declared remuneration of EUR 60,000 as RN president, maintained in 2021. HISTORICAL / DECLARED.",
+    "status": "historical",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "int-4",
+    "item": "Cat breeding (cattery)",
+    "type": "outside activity (non-professional)",
+    "period": "since February 2021",
+    "value": "declared activity",
+    "detail": "Declared personal outside activity. DECLARED.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine"
+    ]
+  },
+  {
+    "id": "int-5",
+    "item": "Most recent HATVP filing (substantial-modification declaration)",
+    "type": "filing record",
+    "period": "30 January 2026",
+    "value": "n/a",
+    "detail": "Her most recent HATVP declaration on file is a substantial-modification declaration dated 30 January 2026. No corporate board memberships or commercial directorships beyond the real-estate SCIs were surfaced. FLAG: confirm against the full déclaration d'intérêts PDF.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine"
+    ]
+  }
+]

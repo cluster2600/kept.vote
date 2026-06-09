@@ -1,0 +1,157 @@
+[
+  {
+    "id": "pol-1",
+    "title": "European Parliament parliamentary-assistants embezzlement case ('fake jobs')",
+    "period": "2004–2016 (facts); conviction 31 March 2025; appeal verdict scheduled 7 July 2026",
+    "category": "criminal",
+    "description": "Marine Le Pen and other FN/RN figures were prosecuted for détournement de fonds publics (embezzlement of public funds): people contracted as European Parliament assistants to FN MEPs between 2004 and 2016 were found to have worked for the party rather than on parliamentary duties. Prosecutors characterised the diversion scheme as up to ~EUR 4.6 million; the court's fraud finding was put at ~EUR 2.9 million, and the party had paid EUR 3.5 million in damages to the Parliament.\n\nFIRST INSTANCE — Paris tribunal correctionnel, 31 March 2025: Le Pen was CONVICTED and sentenced to 4 years' imprisonment (2 years firm, to be served under electronic monitoring, and 2 years suspended), a EUR 100,000 fine, and — critically — 5 years of ineligibility (inéligibilité) WITH PROVISIONAL EXECUTION (exécution provisoire), i.e. immediately enforceable despite appeal. The provisional execution triggered the immediate loss of her departmental councillor mandate (confirmed by the Conseil d'État) and, as things stand, bars her from the 2027 presidential election. In total 25 defendants were convicted (including 9 former MEPs); the RN as a legal entity was fined EUR 2 million (EUR 1M firm) plus EUR 1M confiscation.\n\nAPPEAL — Paris Court of Appeal: Le Pen appealed (11 April 2025). The court expedited the case to allow a ruling before the 2027 race; the appeal trial ran 13 January–12 February 2026. The Parquet général requested confirmation of the conviction and 5 years of ineligibility but — unlike at first instance — explicitly did NOT request provisional execution; reports put the requested custodial element at around 4 years with most of it suspended. The defence sought acquittal or a reduced sentence.\n\nCURRENT STATUS AS OF JUNE 2026: The appeal verdict is scheduled for 7 JULY 2026 (announced for 13:30). No appeal ruling has yet been issued. Le Pen therefore remains convicted at first instance and currently ineligible under provisional execution. The 7 July 2026 ruling is decisive: if the conviction and ineligibility are confirmed she cannot run in 2027; if she is acquitted or the ineligibility is lifted/declined provisional execution, her candidacy could be revived. She has floated Jordan Bardella as the RN's alternative candidate.",
+    "status": "judicial",
+    "confidence_score": 0.97,
+    "key_facts": [
+      "Offence: détournement de fonds publics (embezzlement of EU Parliament funds), 2004–2016",
+      "First-instance conviction: Paris tribunal correctionnel, 31 March 2025",
+      "Sentence: 4 years prison (2 firm under electronic monitoring, 2 suspended); EUR 100,000 fine; 5 years ineligibility WITH provisional execution",
+      "Provisional execution applied immediately, costing her a local mandate and barring 2027 candidacy pending appeal (Conseil d'État confirmed the automatic resignation)",
+      "25 defendants convicted in total; RN as a party fined EUR 2M (EUR 1M firm) + EUR 1M confiscation",
+      "Appeal trial: Paris Court of Appeal, 13 January–12 February 2026",
+      "Prosecution on appeal requested 5 years ineligibility but WITHOUT provisional execution",
+      "Appeal verdict scheduled for 7 July 2026 (13:30) — NOT yet delivered as of June 2026",
+      "Outcome will determine eligibility for the 2027 presidential election"
+    ],
+    "source_url": [
+      "https://lcp.fr/actualites/justice-marine-le-pen-condamnee-a-cinq-ans-d-ineligibilite-avec-execution-immediate-pour",
+      "https://www.conseil-etat.fr/actualites/execution-provisoire-d-une-peine-d-ineligibilite-le-conseil-d-etat-confirme-la-demission-d-office-de-mme-marine-le-pen-de-son-mandat-de-conseille",
+      "https://www.publicsenat.fr/actualites/politique/marine-le-pen-sera-jugee-en-appel-du-13-janvier-au-12-fevrier-2026-dans-laffaire-des-assistants-parlementaires-du-fn",
+      "https://www.france24.com/fr/france/20260211-proc%C3%A8s-rn-marine-le-pen-dans-l-attente-de-la-date-de-la-d%C3%A9cision-en-appel",
+      "https://www.franceinfo.fr/politique/marine-le-pen/proces-en-appel-de-marine-le-pen-la-decision-de-la-cour-qui-se-prononcera-sur-l-ineligibilite-de-la-leader-du-rn-sera-rendue-le-7-juillet_7799435.html",
+      "https://www.touteleurope.eu/institutions/proces-en-appel-des-assistants-du-rn-le-parquet-requiert-la-confirmation-des-condamnations-et-des-peines-d-ineligibilite/"
+    ]
+  },
+  {
+    "id": "pol-2",
+    "title": "Tweeting graphic ISIS execution images (2015) — acquitted",
+    "period": "December 2015 (facts); acquitted 4 May 2021",
+    "category": "judicial",
+    "description": "In December 2015, after the November 2015 Paris attacks, Le Pen posted three graphic photos of ISIS atrocities on Twitter. She was prosecuted for the circulation of violent images (diffusion d'images violentes accessible to minors / undermining human dignity); the European Parliament lifted her immunity in 2017 and she was charged in 2018. On 4 May 2021 the Nanterre tribunal correctionnel ACQUITTED (relaxa) her and co-defendant Gilbert Collard, citing freedom of expression and an informational/political purpose. (During the investigation, an investigating judge had ordered a psychiatric evaluation, which she publicly refused; that order was procedural within the case that ended in acquittal.)",
+    "status": "resolved",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Posted graphic ISIS images on Twitter in December 2015",
+      "EP lifted her immunity (2017); charged 2018",
+      "Acquitted (relaxée) by Nanterre tribunal correctionnel on 4 May 2021",
+      "Ordered psychiatric evaluation during the investigation; she refused"
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/infos/faits-divers-justice/marine-le-pen-et-gilbert-collard-relaxes-dans-l-affaire-des-photos-d-exactions-de-daech-1620131450",
+      "https://time.com/5402684/marine-le-pen-psychiatric-test-isis-tweet/"
+    ]
+  },
+  {
+    "id": "pol-3",
+    "title": "Comparing Muslim street prayers to the Nazi Occupation (2010) — acquitted",
+    "period": "December 2010 (statement); acquitted 15 December 2015",
+    "category": "judicial",
+    "description": "At a December 2010 meeting in Lyon, Le Pen compared Muslim 'street prayers' (prières de rue) to the Nazi Occupation of France. A judicial investigation opened in 2012 and she was tried for incitement to discrimination, hatred or violence. On 15 December 2015 the Lyon tribunal correctionnel ACQUITTED (relaxa) her, accepting her argument that she had referred to 'occupation' without invoking Nazism.",
+    "status": "resolved",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "December 2010 'street prayers / Occupation' comparison in Lyon",
+      "Tried for incitement to hatred",
+      "Acquitted by the Lyon tribunal correctionnel on 15 December 2015"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/20151215-marine-le-pen-relaxe-prieres-rue-musulman-occupation-nazie-france",
+      "https://www.france24.com/fr/20150922-priere-rue-occupation-nazie-marine-le-pen-tribunal-justice-islam-provocation-discrimination"
+    ]
+  },
+  {
+    "id": "pol-4",
+    "title": "HATVP undervaluation of patrimony — Conseil d'État 2019 ruling",
+    "period": "2014 declaration; Conseil d'État ruling 19 July 2019",
+    "category": "judicial",
+    "description": "The Haute Autorité pour la transparence de la vie publique (HATVP) found that Le Pen's patrimony declaration (filed as an MEP/elected official) was 'not exhaustive, exact and sincere', notably undervaluing her real estate by an estimated ~60%, and referred it to the financial prosecutor. She challenged the HATVP assessment; the Conseil d'État rejected her appeal on 19 July 2019, upholding the 'insincere' finding. This is an administrative finding, not a criminal conviction.",
+    "status": "resolved",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "HATVP found her declaration 'insincère' (undervalued real estate)",
+      "Referred to the financial prosecutor (PNF)",
+      "Conseil d'État rejected her challenge on 19 July 2019",
+      "Administrative finding, not a criminal conviction"
+    ],
+    "source_url": [
+      "https://www.conseil-etat.fr/actualites/declaration-de-patrimoine-de-marine-le-pen",
+      "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000038801243/",
+      "https://www.hatvp.fr/presse/decisions-de-la-haute-autorite-relatives-aux-declarations-de-situation-patrimoniales-de-m-jean-marie-le-pen-et-mme-marine-le-pen/"
+    ]
+  },
+  {
+    "id": "pol-5",
+    "title": "'Affaire Jeanne' / Cotelec campaign-financing investigation",
+    "period": "facts 2012 onward; investigation opened 3 April 2014",
+    "category": "judicial",
+    "description": "A judicial investigation (opened 3 April 2014) examined alleged illegal campaign financing involving the micro-party 'Jeanne' (created in 2010 by Le Pen associates) and Jean-Marie Le Pen's financing association 'Cotelec' — centred on allegations that overpriced 'campaign kits' sold to FN candidates were used to funnel money, with suspected offences including organised fraud, forgery and abuse of corporate assets. The existence and scope of the investigation are confirmed; a definitive recent judicial outcome was not confirmed from primary press in this research.",
+    "status": "ongoing",
+    "confidence_score": 0.6,
+    "key_facts": [
+      "Micro-party 'Jeanne' founded 2010; 'Cotelec' was Jean-Marie Le Pen's financing vehicle",
+      "Investigation opened 3 April 2014 into alleged illegal campaign financing / 'campaign kits'",
+      "FLAG: current/final disposition not confirmed from primary press"
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Affaire_Jeanne",
+      "https://www.lejdd.fr/Politique/Le-micro-parti-de-Marine-Le-Pen-dans-le-viseur-de-la-justice-639955"
+    ]
+  },
+  {
+    "id": "pol-6",
+    "title": "Vél d'Hiv comments denying France's responsibility (2017)",
+    "period": "April 2017",
+    "category": "political",
+    "description": "During the 2017 presidential campaign (9–10 April 2017), Le Pen said France was 'not responsible' for the July 1942 Vél d'Hiv roundup, in which French police arrested more than 13,000 Jews for deportation. This broke with the official acknowledgement of French responsibility made by President Chirac in 1995 and reaffirmed by his successors, and was condemned by Jewish organisations (CRIF, UEJF) as revisionist. No legal proceedings; a major political controversy.",
+    "status": "political",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Said France was 'not responsible' for the 1942 Vél d'Hiv roundup",
+      "Broke with the position acknowledged by Chirac (1995) and successors",
+      "Condemned by CRIF and UEJF; no legal proceedings"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/20170410-marine-le-pen-france-pas-responsable-rafle-vel-dhiv-juifs-deportation-shoah",
+      "https://www.lejdd.fr/Politique/Marine-Le-Pen-la-France-n-est-pas-responsable-du-Vel-d-Hiv-859286"
+    ]
+  },
+  {
+    "id": "pol-7",
+    "title": "Expulsion of Jean-Marie Le Pen and the 'dédiabolisation' strategy",
+    "period": "2011–2015",
+    "category": "political",
+    "description": "Marine Le Pen's 'dédiabolisation' (de-demonisation) strategy sought to broaden the party's appeal and distance it from its founder's most inflammatory positions. The clash with her father — over his repeated Holocaust-minimising remarks (the 'détail de l'histoire' comment) and defence of Pétain — culminated in his suspension in May 2015 and exclusion from the FN by the executive bureau on 20 August 2015, a major and bitter internal rupture.",
+    "status": "resolved",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "'Dédiabolisation' strategy to detoxify the party's image",
+      "Conflict with Jean-Marie Le Pen over Holocaust-minimising remarks",
+      "He was suspended (May 2015) and excluded from the FN (20 August 2015)"
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/D%C3%A9diabolisation_du_Front_national",
+      "https://www.france24.com/fr/20161005-nouveau-bras-fer-judiciaire-entre-jean-marie-le-pen-fn-marine-exclusion"
+    ]
+  },
+  {
+    "id": "pol-8",
+    "title": "2017 runoff debate against Emmanuel Macron",
+    "period": "3 May 2017",
+    "category": "political",
+    "description": "The sole runoff debate of the 2017 presidential campaign, watched by around 16.5 million viewers, was widely judged a poor and aggressive performance by Le Pen. She later described it as a 'failed' debate and a strategic error, and it is often cited as a turning point that hurt her in the runoff she lost to Macron.",
+    "status": "resolved",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Runoff debate 3 May 2017, ~16.5 million viewers",
+      "Widely judged a poor performance; she later called it a strategic error"
+    ],
+    "source_url": [
+      "https://www.ina.fr/ina-eclaire-actu/presidentielle-2017-le-debat-entre-marine-le-pen-et-emmanuel-macron"
+    ]
+  }
+]

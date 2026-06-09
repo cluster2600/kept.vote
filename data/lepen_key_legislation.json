@@ -1,0 +1,32 @@
+[
+  {
+    "id": "leg-1",
+    "title": "No law authored by Marine Le Pen has been enacted",
+    "role": "Opposition deputy (author of propositions de loi, none adopted)",
+    "date": "2017–present",
+    "category": "legislative record (none enacted)",
+    "description": "As an opposition MP whose party has never held a governing majority, Marine Le Pen has not had any bill she authored adopted into law. Parliamentary-tracking records list dozens of propositions de loi she has signed (e.g., a constitutional bill on 'citoyenneté-identité-immigration', a bill to ease expulsion of foreigners, and a bill for free off-peak rail travel) and no rapports; none of her authored bills are recorded as adopted. FLAG: the explicit 'zero laws enacted' characterisation is inferred from her opposition status plus the legislative-tracking record rather than a single press statement.",
+    "source_url": [
+      "https://www.nosdeputes.fr/marine-le-pen/documents/loi",
+      "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720614"
+    ],
+    "law_name": "No law authored by Marine Le Pen has been enacted",
+    "year": "2017–present",
+    "area": "legislative record (none enacted)"
+  },
+  {
+    "id": "leg-2",
+    "title": "Influence on the 2023 immigration law (loi Darmanin) — not authored, but claimed as an 'ideological victory'",
+    "role": "RN group president; RN voted for the final text",
+    "date": "2023-12-19",
+    "category": "legislative influence (contextual)",
+    "description": "Le Pen did not author the December 2023 immigration law, but as RN group leader she described its final version as an 'ideological victory' for the RN, citing provisions on priority for French citizens in access to certain social benefits. Several RN-favourable provisions were subsequently struck down by the Conseil constitutionnel in January 2024. Included as context, not as legislation she enacted.",
+    "source_url": [
+      "https://www.france24.com/fr/info-en-continu/20231219-france-le-parlement-adopte-d%C3%A9finitivement-le-projet-de-loi-immigration",
+      "https://www.france24.com/fr/france/20231220-avec-ou-sans-les-voix-du-rassemblement-national-comment-la-loi-immigration-a-pu-%C3%AAtre-vot%C3%A9e"
+    ],
+    "law_name": "Influence on the 2023 immigration law (loi Darmanin) — not authored, but claimed as an 'ideological victory'",
+    "year": "2023-12-19",
+    "area": "legislative influence (contextual)"
+  }
+]

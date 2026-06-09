@@ -1,0 +1,33 @@
+[
+  {
+    "id": "hon-1",
+    "honor": "No French state decorations documented (Légion d'honneur / Ordre national du mérite)",
+    "awarded_by": "n/a",
+    "year": null,
+    "detail": "No evidence that Marine Le Pen holds the Légion d'honneur or the Ordre national du mérite. This is a negative finding (absence of evidence rather than an explicit denial). She has herself criticised certain Légion d'honneur awards. Marked 'none documented'.",
+    "source_url": [
+      "https://www.franceinfo.fr/culture/musique/rock/marine-le-pen-serait-choquee-que-bob-dylan-obtienne-la-legion-d-honneur_3310987.html"
+    ]
+  },
+  {
+    "id": "hon-2",
+    "honor": "TIME 100 Most Influential People",
+    "awarded_by": "TIME magazine",
+    "year": "2011",
+    "detail": "Listed among TIME's 100 most influential people in 2011 (and again in 2015). A media recognition, not a state honour.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "hon-3",
+    "honor": "TIME 100 Most Influential People",
+    "awarded_by": "TIME magazine",
+    "year": "2015",
+    "detail": "Listed again in 2015 and attended the TIME 100 gala in New York. A media recognition, not a state honour.",
+    "source_url": [
+      "https://time.com/collection-post/3823288/marine-le-pen-2015-time-100/",
+      "https://www.france24.com/en/20150422-france-far-right-le-pen-time-gala-100-most-influential-people"
+    ]
+  }
+]
