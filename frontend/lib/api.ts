@@ -427,10 +427,19 @@ function deriveStatusMeta(status: string): PolemicStatusMeta {
   const s = status.toLowerCase();
   if (s.includes("victim") || s.includes("victime"))
     return { label: "Victim", badge: SKY_BADGE, dot: "bg-sky-500" };
+  // A pending/ongoing matter (incl. a non-lieu only *requested*, not yet
+  // granted) is "Under investigation" — checked before the concluded
+  // no-charges case so we never prematurely read as cleared.
+  const pending =
+    /requis|requested|pending|non rendue|ouverte|en cours/.test(s) &&
+    /non-lieu|information judiciaire|enqu[eê]te|investigation/.test(s);
+  if (
+    pending ||
+    /investigation|enqu[eê]te|information judiciaire|judicial inquiry|preliminary|mise en examen/.test(s)
+  )
+    return { label: "Under investigation", badge: AMBER_BADGE, dot: "bg-amber-500" };
   if (s.includes("non-lieu") || s.includes("no charges"))
     return { label: "No charges", badge: EMERALD_BADGE, dot: "bg-emerald-500" };
-  if (/investigation|enqu[eê]te|information judiciaire|judicial inquiry|preliminary|mise en examen/.test(s))
-    return { label: "Under investigation", badge: AMBER_BADGE, dot: "bg-amber-500" };
   if (s.includes("party") || s.includes("disciplinary") || s.includes("suspension") || s.includes("expulsion"))
     return { label: "Party matter", badge: SLATE_BADGE, dot: "bg-slate-400" };
   if (s.includes("no legal proceedings") || s.includes("political") || s.includes("communication"))

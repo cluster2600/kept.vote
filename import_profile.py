@@ -271,10 +271,22 @@ def _net_worth_fields(e: dict) -> dict:
     }
 
 
+def _has_source(entry: dict) -> bool:
+    """True if the record carries at least one non-empty source URL."""
+    return bool(_as_list(entry.get("source_url")))
+
+
 async def main() -> None:
     work = _load("work_history")
     finances = _load("finances")
-    polemics = _load("polemics")
+    # Editorial rule: never publish an unsourced allegation. Drop any polemic
+    # whose source_url array is empty/missing.
+    polemics_raw = _load("polemics")
+    polemics = [p for p in polemics_raw if _has_source(p)]
+    dropped = [p for p in polemics_raw if not _has_source(p)]
+    if dropped:
+        titles = "; ".join((p.get("title") or "(untitled)")[:60] for p in dropped)
+        print(f"Dropped {len(dropped)} unsourced polemic(s): {titles}")
     stocks = _load("stocks_portfolio")
     real_estate = _load("real_estate")
     companies = _load("companies")
