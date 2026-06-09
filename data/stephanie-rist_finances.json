@@ -1,0 +1,74 @@
+[
+  {
+    "id": "stephanie-rist-fin-1",
+    "year": "2024",
+    "type": "indemnité parlementaire",
+    "label": "Indemnité de députée (Assemblée nationale)",
+    "amount": "88 667 €",
+    "detail": "Rémunération nette du mandat de députée pour 2024, déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-fin-2",
+    "year": "2023",
+    "type": "indemnité parlementaire",
+    "label": "Indemnité de députée (Assemblée nationale)",
+    "amount": "81 340 €",
+    "detail": "Rémunération nette du mandat de députée pour 2023, déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-fin-3",
+    "year": "2022",
+    "type": "indemnité parlementaire",
+    "label": "Indemnité de députée (Assemblée nationale)",
+    "amount": "84 737 €",
+    "detail": "Rémunération nette du mandat de députée pour 2022, déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-fin-4",
+    "year": "2025",
+    "type": "indemnité parlementaire",
+    "label": "Indemnité de députée (Assemblée nationale, janvier-octobre 2025)",
+    "amount": "62 730 €",
+    "detail": "Rémunération nette du mandat de députée pour la partie de l'année 2025 antérieure à sa nomination au gouvernement, déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-fin-5",
+    "year": "2024",
+    "type": "salaire (activité médicale)",
+    "label": "Rémunération de médecin attachée en rhumatologie (CHU d'Orléans)",
+    "amount": "4 612 €",
+    "detail": "Rémunération nette d'activité de praticien hospitalier attaché en rhumatologie au CHR/CHU d'Orléans pour 2024, cumul de deux périodes déclarées à la HATVP (2 304 € + 2 308 €).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-fin-6",
+    "year": "2023",
+    "type": "salaire (activité médicale)",
+    "label": "Rémunération de médecin attachée (CHR d'Orléans)",
+    "amount": "4 536 €",
+    "detail": "Rémunération nette d'activité d'attachée au CHR d'Orléans pour 2023, déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-fin-7",
+    "year": "2025",
+    "type": "salaire (activité médicale)",
+    "label": "Rémunération de médecin attaché en rhumatologie (CHU d'Orléans)",
+    "amount": "3 841 €",
+    "detail": "Rémunération nette d'activité de praticien hospitalier attaché en rhumatologie au CHU d'Orléans pour 2025 (jusqu'à octobre 2025), déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-fin-8",
+    "year": "2024",
+    "type": "indemnité d'élu local",
+    "label": "Indemnités de conseillère municipale d'Orléans et de conseillère d'Orléans Métropole",
+    "amount": "3 675 €",
+    "detail": "Cumul des indemnités nettes 2024 de conseillère municipale d'Orléans (986 €) et de conseillère d'Orléans Métropole (2 689 €), déclarées à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  }
+]

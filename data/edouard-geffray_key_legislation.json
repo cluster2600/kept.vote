@@ -1,0 +1,47 @@
+[
+  {
+    "id": "edouard-geffray-leg-1",
+    "law_name": "Mise en œuvre de la réforme du lycée et du baccalauréat",
+    "year": "2019-2021",
+    "area": "Éducation - enseignement scolaire",
+    "description": "Comme DGESCO, Édouard Geffray a piloté la mise en œuvre opérationnelle de la réforme du lycée général et technologique et du nouveau baccalauréat (fin des séries, spécialités, contrôle continu, Grand oral) engagée sous le ministre Jean-Michel Blanquer.",
+    "significance": "Réforme structurante du lycée et du baccalauréat. Sa mise en œuvre a été marquée par les perturbations de la pandémie de Covid-19. Geffray a agi comme directeur d'administration centrale, non comme auteur de la loi.",
+    "source_url": ["https://www.lefigaro.fr/politique/education-nationale-l-enarque-edouard-geffray-prend-la-tete-du-ministere-dont-il-fut-le-numero-deux-pendant-cinq-ans-20251013", "https://en.wikipedia.org/wiki/%C3%89douard_Geffray"]
+  },
+  {
+    "id": "edouard-geffray-leg-2",
+    "law_name": "Gestion de la crise du Covid-19 dans les écoles (protocoles sanitaires, continuité pédagogique)",
+    "year": "2020-2022",
+    "area": "Éducation - santé publique",
+    "description": "Comme DGESCO, il a coordonné l'élaboration des protocoles sanitaires successifs, la fermeture puis la réouverture des écoles et la continuité pédagogique pendant la pandémie de Covid-19.",
+    "significance": "Gestion administrative majeure d'une crise inédite touchant l'ensemble du système scolaire français.",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89douard_Geffray"]
+  },
+  {
+    "id": "edouard-geffray-leg-3",
+    "law_name": "Mise en place des « groupes de besoins / groupes de niveau » (« Choc des savoirs »)",
+    "year": "2024",
+    "area": "Éducation - collège",
+    "description": "Comme DGESCO sous le ministre Gabriel Attal, il a élaboré et déployé les « groupes de niveau » (rebaptisés « groupes de besoins ») en français et mathématiques en 6e et 5e, mesure phare du plan « Choc des savoirs ».",
+    "significance": "Réforme très contestée par les syndicats, parents et chercheurs. Devenue ministre, Geffray a lui-même rendu ces groupes facultatifs puis officialisé en mars 2026 l'abandon de leur caractère obligatoire, deux ans après leur lancement.",
+    "source_url": ["https://www.cafepedagogique.net/2026/03/16/fin-des-groupes-de-niveau-la-mesure-du-choc-des-savoirs-officiellement-abandonnee/", "https://www.vousnousils.fr/2026/01/12/groupes-besoin-etablissements-possibilite-conserver-moyens-maintenus-699432"]
+  },
+  {
+    "id": "edouard-geffray-leg-4",
+    "law_name": "Rapport « Offrir à chaque élève une éducation au cinéma et à l'image de qualité »",
+    "year": "2025",
+    "area": "Éducation artistique et culturelle",
+    "description": "Rapport remis le 8 septembre 2025 aux ministres de l'Éducation et de la Culture, formulant 19 propositions pour moderniser le dispositif « Ma classe au cinéma » et l'éducation à l'image, sur la base de plus de 70 auditions.",
+    "significance": "Rapport de référence sur l'éducation aux images, produit lors de son passage au Conseil d'État avant sa nomination ministérielle.",
+    "source_url": ["https://www.culture.gouv.fr/presse/communiques-de-presse/publication-du-rapport-offrir-une-education-au-cinema-et-a-l-image-de-qualite-confie-a-monsieur-edouard-geffray", "https://www.cnc.fr/professionnels/actualites/rapport-edouard-geffray--19-propositions-pour-une--education-au-cinema-et-a-limage-de-qualite_2456959"]
+  },
+  {
+    "id": "edouard-geffray-leg-5",
+    "law_name": "Plan « Collèges en progrès » et concours général des collèges",
+    "year": "2026",
+    "area": "Éducation - collège",
+    "description": "Comme ministre, lancement en janvier 2026 du plan « Collèges en progrès » visant à accompagner environ 800 collèges en difficulté, et création (avril 2026) d'un concours général des collèges destiné aux élèves de 4e.",
+    "significance": "Mesures emblématiques de son ministère, contestées par plusieurs syndicats qui dénoncent un « coup de communication » et une vision élitiste de l'école.",
+    "source_url": ["https://www.franceinfo.fr/societe/education/il-ne-repond-a-aucun-besoin-du-systeme-educatif-les-syndicats-denoncent-le-nouveau-concours-general-des-colleges-voulu-par-le-ministre-de-l-education_8002223.html", "https://www.sudeducation.org/communiques/college-en-progres-concours-general-des-mesures-inadaptees-aux-besoins-des-eleves-et-des-personnels/"]
+  }
+]

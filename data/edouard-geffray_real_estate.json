@@ -1,0 +1,46 @@
+[
+  {
+    "id": "edouard-geffray-re-1",
+    "property": "Maison individuelle (170 m², terrain 1 329 m²)",
+    "location": "Département du Val-d'Oise (95)",
+    "transaction_type": "Acquisition (résidence)",
+    "date": "2015",
+    "value": "Prix d'acquisition €672,000 ; valeur vénale déclarée €450,000 (quote-part 50%)",
+    "detail": "Bien indivis, pleine propriété, quote-part 50%. Travaux déclarés : 15 000 €. Financée par un emprunt immobilier de 166 306 € (Crédit agricole, novembre 2015). Source : déclaration de patrimoine HATVP.",
+    "status": "Déclaré (HATVP, déclaration déposée le 8 décembre 2025)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-re-2",
+    "property": "Appartement (44 m²)",
+    "location": "Département du Bas-Rhin (67)",
+    "transaction_type": "Acquisition",
+    "date": "2022",
+    "value": "Prix d'acquisition €249,000 ; valeur vénale déclarée €124,500 (quote-part 50%)",
+    "detail": "Bien indivis, pleine propriété, quote-part 50%. Acquisition financée notamment par un emprunt immobilier de 103 007 € (Crédit agricole, décembre 2022). Source : déclaration de patrimoine HATVP.",
+    "status": "Déclaré (HATVP, déclaration déposée le 8 décembre 2025)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-re-3",
+    "property": "Appartement (50 m²)",
+    "location": "Département d'Ille-et-Vilaine (35)",
+    "transaction_type": "Acquisition (nue-propriété)",
+    "date": "2021",
+    "value": "Prix d'acquisition €194,000 ; valeur vénale déclarée €97,000 (quote-part 50%)",
+    "detail": "Bien indivis, nue-propriété, quote-part 50%. Acquisition financée notamment par un emprunt bancaire de 65 224 € (Crédit agricole, juin 2021). Source : déclaration de patrimoine HATVP.",
+    "status": "Déclaré (HATVP, déclaration déposée le 8 décembre 2025)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-re-4",
+    "property": "Appartement (23 m²)",
+    "location": "Département du Val-d'Oise (95)",
+    "transaction_type": "Acquisition",
+    "date": "2010",
+    "value": "Prix d'acquisition €95,000 ; valeur vénale déclarée €47,500 (quote-part 50%)",
+    "detail": "Bien indivis, pleine propriété, quote-part 50%. Source : déclaration de patrimoine HATVP.",
+    "status": "Déclaré (HATVP, déclaration déposée le 8 décembre 2025)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  }
+]

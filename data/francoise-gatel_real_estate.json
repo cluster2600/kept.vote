@@ -1,0 +1,57 @@
+[
+  {
+    "id": "francoise-gatel-re-1",
+    "property": "Appartement (52 m²)",
+    "location": "Département 35 (Ille-et-Vilaine)",
+    "transaction_type": "Acquisition",
+    "date": "2011",
+    "value": "183 500 € (prix d'acquisition et valeur vénale déclarée)",
+    "detail": "Bien commun, pleine propriété, quote-part 100 %. Localisation précise non publiée par la HATVP.",
+    "status": "Déclaré à la HATVP (DSP modification substantielle, 13/02/2026)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-re-2",
+    "property": "Maison individuelle (180 m², ~0,7 ha de terrain)",
+    "location": "Département 35 (Ille-et-Vilaine)",
+    "transaction_type": "Donation",
+    "date": "1980",
+    "value": "400 000 € (valeur vénale déclarée ; prix d'acquisition 0 €)",
+    "detail": "Bien commun reçu par donation en 1980, pleine propriété, quote-part 100 %.",
+    "status": "Déclaré à la HATVP (DSP modification substantielle, 13/02/2026)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-re-3",
+    "property": "Appartement (39 m²)",
+    "location": "Département 44 (Loire-Atlantique)",
+    "transaction_type": "Acquisition",
+    "date": "2016",
+    "value": "152 000 € (valeur vénale ; prix d'acquisition 147 867 €)",
+    "detail": "Bien commun, pleine propriété, quote-part 100 %.",
+    "status": "Déclaré à la HATVP (DSP modification substantielle, 13/02/2026)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-re-4",
+    "property": "Terrains non bâtis (plusieurs parcelles)",
+    "location": "Département 56 (Morbihan)",
+    "transaction_type": "Succession",
+    "date": "2017",
+    "value": "Environ 2 700 € au total (valeurs vénales cumulées des parcelles)",
+    "detail": "Ensemble de parcelles de terrain non bâti détenues en indivision (quote-part 50 % chacune), reçues par succession en 2017.",
+    "status": "Déclaré à la HATVP (DSP modification substantielle, 13/02/2026)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-re-5",
+    "property": "Terrain non bâti (~0,0137 ha)",
+    "location": "Département 35 (Ille-et-Vilaine)",
+    "transaction_type": "Succession",
+    "date": "2025",
+    "value": "50 € (valeur vénale déclarée)",
+    "detail": "Bien commun, pleine propriété, quote-part déclarée 10 %, reçu par succession en 2025.",
+    "status": "Déclaré à la HATVP (DSP modification substantielle, 13/02/2026)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  }
+]

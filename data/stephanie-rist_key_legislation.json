@@ -1,0 +1,29 @@
+[
+  {
+    "id": "stephanie-rist-leg-1",
+    "law_name": "Loi n° 2021-502 du 26 avril 2021 visant à améliorer le système de santé par la confiance et la simplification (« loi Rist 1 »)",
+    "year": "2021",
+    "area": "Santé / organisation du système de soins",
+    "description": "Proposition de loi déposée le 22 octobre 2020 par Stéphanie Rist et plusieurs collègues, dans le prolongement du Ségur de la santé. Le texte rénove la gouvernance hospitalière en remettant le service et le chef de service au cœur de l'hôpital, élargit les compétences et capacités de prescription de plusieurs professions paramédicales (sages-femmes, masseurs-kinésithérapeutes, ergothérapeutes, orthophonistes), permet aux préparateurs en pharmacie d'administrer certains vaccins, reconnaît les assistants de régulation médicale (ARM) comme profession paramédicale, et facilite le déploiement des services d'accès aux soins (SAS) et de la plateforme « Mon Parcours Handicap ».",
+    "significance": "Première loi portant le nom de Stéphanie Rist ; texte structurant de la transformation du système de santé post-Ségur, marquant son rôle de spécialiste des questions de santé à l'Assemblée. Texte adopté mais dont certaines dispositions ont été restreintes au cours du débat parlementaire.",
+    "source_url": ["https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043421566", "https://www.vie-publique.fr/loi/277465-loi-rist-26-avril-2021-ameliorer-le-systeme-de-sante-par-la-confiance"]
+  },
+  {
+    "id": "stephanie-rist-leg-2",
+    "law_name": "Loi n° 2023-379 du 19 mai 2023 portant amélioration de l'accès aux soins par la confiance aux professionnels de santé (« loi Rist 2 »)",
+    "year": "2023",
+    "area": "Santé / accès aux soins / professions paramédicales",
+    "description": "Loi promulguée le 19 mai 2023 (publiée le 20 mai 2023) instaurant, sous conditions, un accès direct des patients — sans passage préalable par un médecin — à certaines professions : infirmiers en pratique avancée (IPA), masseurs-kinésithérapeutes et orthophonistes, exerçant en établissement de santé, en établissement médico-social ou dans des structures d'exercice coordonné. Pour les kinésithérapeutes, l'accès direct est limité à huit séances en l'absence de diagnostic médical préalable ; les professionnels intervenant sans prescription doivent systématiquement transmettre un compte rendu au médecin traitant. Pour les IPA et kinésithérapeutes en CPTS, l'accès direct fait l'objet d'une expérimentation de cinq ans dans six départements.",
+    "significance": "Deuxième « loi Rist », emblématique de l'objectif d'amélioration de l'accès aux soins face aux déserts médicaux. Texte fortement débattu : les syndicats de médecins ont obtenu un encadrement strict de l'accès direct, qu'une partie de la profession a dénoncé comme une fragmentation du parcours de soins.",
+    "source_url": ["https://www.banquedesterritoires.fr/acces-aux-soins-la-loi-rist-ete-promulguee", "https://www.santementale.fr/2023/05/par-la-loi-rist-adoptee-les-professions-paramedicales-gagnent-en-competences/", "https://www.lequotidiendumedecin.fr/liberal/exercice/acces-directs-aux-paramedicaux-competences-elargies-la-loi-rist-adoptee-les-medecins-ont-reduit-la"]
+  },
+  {
+    "id": "stephanie-rist-leg-3",
+    "law_name": "Loi de financement de la Sécurité sociale (rapporteure générale)",
+    "year": "2022",
+    "area": "Finances sociales / Sécurité sociale",
+    "description": "À partir de 2022, Stéphanie Rist exerce les fonctions de rapporteure générale de la commission des affaires sociales de l'Assemblée nationale, en charge notamment des projets de loi de financement de la Sécurité sociale (PLFSS). À ce titre, elle pilote l'examen des budgets annuels de la Sécurité sociale au cours de la 16e puis de la 17e législature.",
+    "significance": "Fonction parlementaire majeure plaçant Stéphanie Rist au centre de l'élaboration des budgets de la Sécurité sociale et confortant son expertise sur les finances de la santé, en amont de sa nomination comme ministre de la Santé.",
+    "source_url": ["https://en.wikipedia.org/wiki/St%C3%A9phanie_Rist", "https://www.assemblee-nationale.fr/dyn/deputes/PA720066"]
+  }
+]

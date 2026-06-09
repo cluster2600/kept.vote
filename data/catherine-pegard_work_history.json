@@ -1,0 +1,122 @@
+[
+  {
+    "id": "catherine-pegard-wh-1",
+    "role": "Journaliste",
+    "organization": "Quotidien J'informe",
+    "start_date": "1977",
+    "end_date": "1978",
+    "description": "Premier poste de journaliste, au quotidien J'informe.",
+    "category": "Journalisme",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2"]
+  },
+  {
+    "id": "catherine-pegard-wh-2",
+    "role": "Journaliste politique",
+    "organization": "Le Quotidien de Paris",
+    "start_date": "1978",
+    "end_date": "1982",
+    "description": "Journaliste au service politique du Quotidien de Paris.",
+    "category": "Journalisme",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2", "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard"]
+  },
+  {
+    "id": "catherine-pegard-wh-3",
+    "role": "Journaliste, grand reporter, puis rédactrice en chef adjointe puis rédactrice en chef (service politique)",
+    "organization": "Le Point",
+    "start_date": "1982-05",
+    "end_date": "2007-05",
+    "description": "Carrière de 25 ans à l'hebdomadaire Le Point, couvrant notamment l'actualité parlementaire. Rédactrice en chef du service politique à partir de 1995 et auteure d'un 'carnet' politique hebdomadaire nourri des coulisses du pouvoir.",
+    "category": "Journalisme",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2", "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard"]
+  },
+  {
+    "id": "catherine-pegard-wh-4",
+    "role": "Conseillère politique du président de la République (Nicolas Sarkozy)",
+    "organization": "Présidence de la République (Élysée)",
+    "start_date": "2007-05",
+    "end_date": "2011-10",
+    "description": "Conseillère du président Nicolas Sarkozy, à la tête à partir de mars 2008 de la 'cellule politique' regroupant les plus proches collaborateurs du chef de l'État ; chargée par la suite des questions culturelles.",
+    "category": "Cabinet ministériel / présidentiel",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2", "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard"]
+  },
+  {
+    "id": "catherine-pegard-wh-5",
+    "role": "Présidente",
+    "organization": "Établissement public du château, du musée et du domaine national de Versailles",
+    "start_date": "2011-10",
+    "end_date": "2024-03",
+    "description": "Présidente de l'établissement public de Versailles pendant plus de douze ans, succédant à Jean-Jacques Aillagon. Reconduite le 28 septembre 2016 puis le 2 octobre 2019. Plus de 10 000 m² d'espaces supplémentaires ont été ouverts au public et restaurés durant son mandat. Elle a assuré l'intérim après la fin officielle de son dernier mandat jusqu'à son remplacement par Christophe Leribault en 2024.",
+    "category": "Direction d'établissement public culturel",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2", "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard"]
+  },
+  {
+    "id": "catherine-pegard-wh-6",
+    "role": "Membre du Conseil d'orientation de l'action extérieure (COAE)",
+    "organization": "Ministère de l'Europe et des Affaires étrangères",
+    "start_date": "2018-04",
+    "end_date": "",
+    "description": "Membre du Conseil d'orientation de l'action extérieure du ministère de l'Europe et des Affaires étrangères.",
+    "category": "Conseil consultatif public",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2"]
+  },
+  {
+    "id": "catherine-pegard-wh-7",
+    "role": "Membre du comité d'orientation du Cycle des hautes études de la culture (CHEC)",
+    "organization": "Ministère de la Culture",
+    "start_date": "2019",
+    "end_date": "",
+    "description": "Membre du comité d'orientation du Cycle des hautes études de la culture.",
+    "category": "Conseil consultatif public",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2"]
+  },
+  {
+    "id": "catherine-pegard-wh-8",
+    "role": "Membre du conseil de l'ordre des Arts et des Lettres",
+    "organization": "Ministère de la Culture",
+    "start_date": "2021-10",
+    "end_date": "2024-10",
+    "description": "Membre du conseil de l'ordre des Arts et des Lettres.",
+    "category": "Conseil consultatif public",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2"]
+  },
+  {
+    "id": "catherine-pegard-wh-9",
+    "role": "Directrice du développement culturel et membre du comité exécutif",
+    "organization": "Agence française pour le développement d'AlUla (AFALULA)",
+    "start_date": "2024-10",
+    "end_date": "2025-09",
+    "description": "Directrice du développement culturel et membre du comité exécutif de l'AFALULA, agence chargée de la coopération avec les autorités saoudiennes pour le développement touristique et culturel du site archéologique d'AlUla (nord-ouest de l'Arabie saoudite).",
+    "category": "Coopération culturelle internationale",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2", "https://www.arabnews.fr/node/498220/culture"]
+  },
+  {
+    "id": "catherine-pegard-wh-10",
+    "role": "Chargée d'une mission gouvernementale (financement / mécénat de l'action extérieure)",
+    "organization": "Ministère de l'Europe et des Affaires étrangères",
+    "start_date": "2025-01",
+    "end_date": "",
+    "description": "Chargée par le ministre de l'Europe et des Affaires étrangères d'une mission gouvernementale sur la contribution des entreprises et des mécènes au financement ou cofinancement de l'action du ministère, de l'aide humanitaire aux enjeux globaux.",
+    "category": "Mission gouvernementale",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2"]
+  },
+  {
+    "id": "catherine-pegard-wh-11",
+    "role": "Conseillère spéciale culture à la présidence de la République (Emmanuel Macron)",
+    "organization": "Présidence de la République (Élysée)",
+    "start_date": "2025-09",
+    "end_date": "2026-02",
+    "description": "Conseillère spéciale chargée de la culture auprès du président Emmanuel Macron à l'Élysée.",
+    "category": "Cabinet ministériel / présidentiel",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2"]
+  },
+  {
+    "id": "catherine-pegard-wh-12",
+    "role": "Ministre de la Culture",
+    "organization": "Gouvernement Sébastien Lecornu",
+    "start_date": "2026-02-26",
+    "end_date": "",
+    "description": "Nommée ministre de la Culture par décret du président Emmanuel Macron le 26 février 2026, en remplacement de Rachida Dati, démissionnaire pour se consacrer aux élections municipales de Paris.",
+    "category": "Fonction ministérielle",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2", "https://www.info.gouv.fr/personnalite/catherine-pegard"]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "naima-moutchou-wh-1",
+    "role": "Avocate au barreau de Paris",
+    "organization": "Barreau de Paris (notamment cabinet Christian Charrière-Bournazel)",
+    "start_date": "2010",
+    "end_date": "2017",
+    "description": "Avocate exerçant en droit des affaires et droit des médias. Volontaire bénévole pour la Ligue internationale contre le racisme et l'antisémitisme (LICRA).",
+    "category": "Legal / Private sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou",
+      "https://www.lagazettefrance.fr/index.php/article/naima-moutchou-horizons-une-ancienne-avocate-ministre-des-outre-mer"
+    ]
+  },
+  {
+    "id": "naima-moutchou-wh-2",
+    "role": "Députée de la 4e circonscription du Val-d'Oise",
+    "organization": "Assemblée nationale (groupe LREM puis Horizons & Indépendants)",
+    "start_date": "2017-06-21",
+    "end_date": "2025-11-12",
+    "description": "Membre de la commission des Lois ; coordinatrice de son groupe au sein de cette commission (2017-2019). Mandat clos le 12 novembre 2025 à la suite de sa nomination au Gouvernement.",
+    "category": "Elected office",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA720908",
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou"
+    ]
+  },
+  {
+    "id": "naima-moutchou-wh-3",
+    "role": "Première vice-présidente du groupe La République en marche",
+    "organization": "Groupe LREM à l'Assemblée nationale",
+    "start_date": "2019-04",
+    "end_date": "2019-09",
+    "description": "Numéro deux du groupe LREM sous la présidence de Gilles Le Gendre, remplacée par Marie Lebec en septembre 2019.",
+    "category": "Parliamentary function",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou",
+      "https://www.lefigaro.fr/flash-actu/naima-moutchou-designee-comme-n02-du-groupe-des-deputes-lrem-20190430"
+    ]
+  },
+  {
+    "id": "naima-moutchou-wh-4",
+    "role": "Juge à la Cour de justice de la République",
+    "organization": "Cour de justice de la République",
+    "start_date": "2018",
+    "end_date": "2021",
+    "description": "L'une des six députés siégeant comme juges titulaires à la Cour de justice de la République.",
+    "category": "Judicial function",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou"
+    ]
+  },
+  {
+    "id": "naima-moutchou-wh-5",
+    "role": "Vice-présidente de l'Assemblée nationale",
+    "organization": "Assemblée nationale",
+    "start_date": "2022-06-29",
+    "end_date": "2025-10-01",
+    "description": "Membre du Bureau de l'Assemblée nationale comme vice-présidente sous la présidence de Yaël Braun-Pivet.",
+    "category": "Parliamentary function",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou",
+      "https://www.lefigaro.fr/politique/naima-moutchou-une-philippiste-aux-avant-postes-de-l-assemblee-20220915"
+    ]
+  },
+  {
+    "id": "naima-moutchou-wh-6",
+    "role": "Ministre de la Transformation de l'action publique, de la Fonction publique, de l'Intelligence artificielle et du Numérique",
+    "organization": "Gouvernement (premier gouvernement Sébastien Lecornu)",
+    "start_date": "2025-10-05",
+    "end_date": "2025-10-12",
+    "description": "Nommée dans le premier gouvernement Lecornu, formation éphémère démissionnaire dès le lendemain de sa composition.",
+    "category": "Government / Ministerial",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou",
+      "https://www.lefigaro.fr/politique/naima-moutchou-une-proche-d-edouard-philippe-a-la-fonction-publique-20251005"
+    ]
+  },
+  {
+    "id": "naima-moutchou-wh-7",
+    "role": "Ministre des Outre-mer",
+    "organization": "Gouvernement (second gouvernement Sébastien Lecornu)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Nommée ministre des Outre-mer, succédant à Manuel Valls. Dossiers majeurs : Nouvelle-Calédonie, vie chère, défiscalisation ultramarine et adaptation institutionnelle des territoires.",
+    "category": "Government / Ministerial",
+    "source_url": [
+      "https://www.outre-mer.gouv.fr/naima-moutchou-ministre-des-outre-mer",
+      "https://www.info.gouv.fr/personnalite/naima-moutchou"
+    ]
+  }
+]

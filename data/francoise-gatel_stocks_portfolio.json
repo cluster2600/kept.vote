@@ -1,0 +1,52 @@
+[
+  {
+    "id": "francoise-gatel-st-1",
+    "holding": "Compte-titres (CMB)",
+    "type": "Compte-titres / valeurs mobilières",
+    "value": "20 710 €",
+    "as_of": "2026-02-13",
+    "detail": "Compte-titres ouvert auprès du Crédit Mutuel de Bretagne (CMB), titulaire Françoise Gatel.",
+    "status": "Déclaré à la HATVP (DSP modification substantielle)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-st-2",
+    "holding": "Compte-titres (CMB, second compte)",
+    "type": "Compte-titres / valeurs mobilières",
+    "value": "4 047 €",
+    "as_of": "2026-02-13",
+    "detail": "Second compte-titres CMB (titulaire non publié).",
+    "status": "Déclaré à la HATVP (DSP modification substantielle)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-st-3",
+    "holding": "Plan d'épargne en actions (PEA, CMB)",
+    "type": "PEA",
+    "value": "8 729 €",
+    "as_of": "2026-02-13",
+    "detail": "Plan d'épargne en actions auprès du CMB (titulaire non publié).",
+    "status": "Déclaré à la HATVP (DSP modification substantielle)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-st-4",
+    "holding": "Détention directe (SANSO Longchamp AM)",
+    "type": "Instruments financiers (détention directe)",
+    "value": "50 000 €",
+    "as_of": "2026-02-13",
+    "detail": "Détention directe d'instruments financiers gérés par SANSO Longchamp AM (commentaire non publié).",
+    "status": "Déclaré à la HATVP (DSP modification substantielle)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-st-5",
+    "holding": "Contrats d'assurance-vie (CMB, LCL, UAF Life, APICIL, Oddo BHF)",
+    "type": "Assurance-vie",
+    "value": "Environ 280 569 € au total (six contrats)",
+    "as_of": "2026-02-13",
+    "detail": "Six contrats d'assurance-vie : CMB (66 735 € et 29 589 €), LCL (11 014 €), UAF Life patrimoine (70 124 €), APICIL (63 856 €), Oddo BHF (39 251 €).",
+    "status": "Déclaré à la HATVP (DSP modification substantielle)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  }
+]

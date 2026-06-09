@@ -1,0 +1,102 @@
+[
+  {
+    "id": "naima-moutchou-fin-1",
+    "year": "2020",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération de députée (mandat 11/2020-06/2022)",
+    "amount": "10 654 € (net)",
+    "detail": "Montant net déclaré à la HATVP au titre du mandat de députée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-2",
+    "year": "2021",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération de députée (mandat 11/2020-06/2022)",
+    "amount": "70 676 € (net)",
+    "detail": "Montant net déclaré à la HATVP au titre du mandat de députée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-3",
+    "year": "2022",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération de députée (mandats 11/2020-06/2022 et 06/2022-07/2024)",
+    "amount": "35 338 € + 58 740 € (net)",
+    "detail": "Deux montants nets déclarés à la HATVP correspondant à deux périodes de mandat sur l'année 2022.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-4",
+    "year": "2023",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération de députée (mandat 06/2022-07/2024)",
+    "amount": "85 856 € (net)",
+    "detail": "Montant net déclaré à la HATVP au titre du mandat de députée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-5",
+    "year": "2024",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération de députée (mandats 06/2022-07/2024 et 07/2024-11/2025)",
+    "amount": "48 753 € + 46 625 € (net)",
+    "detail": "Deux montants nets déclarés à la HATVP correspondant à deux périodes de mandat sur l'année 2024.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-6",
+    "year": "2025",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération de députée (mandat 07/2024-11/2025)",
+    "amount": "69 602 € (net)",
+    "detail": "Montant net déclaré à la HATVP au titre du mandat de députée, avant l'entrée au Gouvernement.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-7",
+    "year": "2026",
+    "type": "Actif (clientèle d'avocat)",
+    "label": "Fonds de commerce / clientèle d'activité d'avocate",
+    "amount": "Actif 112 527 € ; dernier résultat fiscal 40 042 €",
+    "detail": "Déclaré à la HATVP (déclaration de situation patrimoniale, modification substantielle du 5 mars 2026). Valeur d'actif liée à l'activité d'avocate.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-8",
+    "year": "2026",
+    "type": "Assurance-vie",
+    "label": "Contrat d'assurance-vie Generali (souscrit le 01/11/2012)",
+    "amount": "17 991 €",
+    "detail": "Valeur vénale déclarée à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-fin-9",
+    "year": "2026",
+    "type": "Passif (endettement)",
+    "label": "Ensemble des dettes déclarées (7 éléments de passif)",
+    "amount": "Environ 544 000 € de passif total (capital restant dû)",
+    "detail": "Sept éléments de passif déclarés à la HATVP : emprunts bancaires immobiliers et de travaux (CIC), prêt personnel (Société Générale, 70 000 €) et une dette personnelle. Plusieurs déclarations de presse évaluent le patrimoine total à environ 602 000 € d'actifs pour 544 000 € de passif.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima",
+      "https://www.cnews.fr/france/2026-04-22/patrimoine-des-ministres-diamant-appartements-plusieurs-millions-comptes"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "naima-moutchou-edu-1",
+    "institution": "Université de Cergy-Pontoise",
+    "qualification": "Études de droit",
+    "field": "Droit",
+    "years": "",
+    "detail": "Premier cycle d'études juridiques avant la poursuite à Paris.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou",
+      "https://la1ere.franceinfo.fr/naima-moutchou-est-la-nouvelle-ministre-des-outre-mers-1632281.html"
+    ]
+  },
+  {
+    "id": "naima-moutchou-edu-2",
+    "institution": "Université Panthéon-Assas (Paris II)",
+    "qualification": "Études de droit",
+    "field": "Droit",
+    "years": "",
+    "detail": "Poursuite des études de droit à Assas, préalablement à l'exercice de la profession d'avocate au barreau de Paris.",
+    "source_url": [
+      "https://la1ere.franceinfo.fr/naima-moutchou-est-la-nouvelle-ministre-des-outre-mers-1632281.html",
+      "https://www.lagazettefrance.fr/index.php/article/naima-moutchou-horizons-une-ancienne-avocate-ministre-des-outre-mer"
+    ]
+  }
+]

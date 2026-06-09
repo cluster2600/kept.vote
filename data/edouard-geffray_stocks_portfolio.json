@@ -1,0 +1,32 @@
+[
+  {
+    "id": "edouard-geffray-stk-1",
+    "holding": "Crédit Agricole (actions)",
+    "type": "Actions cotées / participation financière directe",
+    "value": "€96 (62 parts)",
+    "as_of": "2025-12-08",
+    "detail": "Participation financière directe déclarée : 62 parts Crédit agricole évaluées à 96 €, détenues sur un compte-titres au Crédit agricole. Aucun dividende déclaré pour l'année précédente. Seule valeur mobilière cotée déclarée. Source : déclaration HATVP (intérêts et patrimoine).",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-stk-2",
+    "holding": "Assurance-vie Crédit Agricole",
+    "type": "Assurance-vie",
+    "value": "€53,427",
+    "as_of": "2025-12-08",
+    "detail": "Contrat d'assurance-vie souscrit le 9 avril 2019 auprès du Crédit agricole. Valeur vénale déclarée 53 427 €. Source : déclaration de patrimoine HATVP.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-stk-3",
+    "holding": "Assurance-vie UFF Banque",
+    "type": "Assurance-vie",
+    "value": "€28,550",
+    "as_of": "2025-12-08",
+    "detail": "Contrat d'assurance-vie souscrit le 26 janvier 2021 auprès d'UFF Banque. Valeur vénale déclarée 28 550 €. Source : déclaration de patrimoine HATVP.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  }
+]

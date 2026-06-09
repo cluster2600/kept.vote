@@ -1,0 +1,35 @@
+[
+  {
+    "id": "francoise-gatel-eh-1",
+    "election": "Élections municipales de Châteaugiron",
+    "date": "2001",
+    "role_sought": "Maire de Châteaugiron",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Devient maire de Châteaugiron (Ille-et-Vilaine) à l'issue des municipales de 2001 ; réélue ensuite (2008, 2014).",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel", "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gatel"]
+  },
+  {
+    "id": "francoise-gatel-eh-2",
+    "election": "Élections sénatoriales en Ille-et-Vilaine",
+    "date": "2014-09-28",
+    "role_sought": "Sénatrice d'Ille-et-Vilaine",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue sénatrice d'Ille-et-Vilaine le 28 septembre 2014 (scrutin de liste par les grands électeurs), figurant sur une liste avec Dominique de Legge (UMP/LR).",
+    "source_url": ["https://www.senat.fr/senateur/gatel_francoise14231l.html"]
+  },
+  {
+    "id": "francoise-gatel-eh-3",
+    "election": "Élections sénatoriales en Ille-et-Vilaine",
+    "date": "2020-09-27",
+    "role_sought": "Sénatrice d'Ille-et-Vilaine",
+    "result": "Réélue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Réélue sénatrice d'Ille-et-Vilaine le 27 septembre 2020. Mandat terminé le 21 octobre 2024 du fait de son appartenance au Gouvernement.",
+    "source_url": ["https://www.senat.fr/senateur/gatel_francoise14231l.html"]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "catherine-pegard-edu-1",
+    "institution": "Université (non précisée)",
+    "qualification": "Licence",
+    "field": "Histoire",
+    "years": "",
+    "detail": "Licenciée d'histoire, selon la biographie officielle du ministère de la Culture.",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2"]
+  },
+  {
+    "id": "catherine-pegard-edu-2",
+    "institution": "Institut d'études politiques (Sciences Po)",
+    "qualification": "Maîtrise",
+    "field": "Sciences politiques",
+    "years": "",
+    "detail": "Titulaire d'une maîtrise de sciences politiques. La fiche Wikipédia mentionne Sciences Po comme établissement de formation ; l'établissement précis n'est pas confirmé par la source officielle, qui indique seulement une maîtrise de sciences politiques.",
+    "source_url": ["https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/catherine-pegard-ministre-de-la-culture2", "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard"]
+  }
+]

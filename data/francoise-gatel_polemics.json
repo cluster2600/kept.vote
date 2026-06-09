@@ -1,0 +1,34 @@
+[
+  {
+    "id": "francoise-gatel-pol-1",
+    "title": "Critiques de la « loi Gatel » sur les communes nouvelles",
+    "period": "2019-2020",
+    "category": "Débat de politique publique",
+    "description": "La loi du 1er août 2019 sur les communes nouvelles, portée par Françoise Gatel, a fait l'objet de critiques au moment des municipales de 2020 : certains élus ont estimé qu'elle compliquait la constitution des listes de candidats dans les communes nouvelles et risquait de favoriser un faible engagement. Il s'agit d'un débat sur les effets de la loi, et non d'une mise en cause personnelle ou judiciaire. Le maire de Baugé-en-Anjou, Philippe Chalopin, a notamment objecté que le problème ne tenait pas à la loi mais au recul de l'engagement civique.",
+    "status": "Débat public ; aucune procédure judiciaire ; controverse de politique publique",
+    "confidence_score": "0.7",
+    "key_facts": [
+      "Loi n° 2019-809 du 1er août 2019 sur les communes nouvelles.",
+      "Critiques formulées par certains élus locaux lors des municipales de 2020 sur la difficulté à former des listes.",
+      "Le maire de Baugé-en-Anjou a relativisé en pointant le recul de l'engagement civique plutôt que la loi.",
+      "Aucune dimension judiciaire ou éthique : il s'agit d'un débat sur l'efficacité de la loi."
+    ],
+    "source_url": ["https://www.ouest-france.fr/elections/municipales/municipales-2020-la-loi-gatel-l-amie-des-communes-nouvelles-6655258", "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gatel"]
+  },
+  {
+    "id": "francoise-gatel-pol-2",
+    "title": "Position sur le ZAN (zéro artificialisation nette) et la loi TRACE",
+    "period": "2024-2026",
+    "category": "Débat de politique publique",
+    "description": "Comme ministre, Françoise Gatel défend une application différenciée et assouplie de l'objectif « zéro artificialisation nette » (ZAN), jugé par de nombreux élus locaux trop rigide et appliqué de manière uniforme. Elle a soutenu la relance de la proposition de loi TRACE comme alternative au dispositif initial. Sans remettre en cause l'objectif de préservation des sols, sa position l'oppose à une partie des défenseurs d'une approche stricte de la lutte contre l'artificialisation, qui craignent un affaiblissement de l'ambition environnementale. Débat politique et environnemental, sans dimension judiciaire.",
+    "status": "Débat politique en cours ; aucune procédure judiciaire",
+    "confidence_score": "0.7",
+    "key_facts": [
+      "Gatel plaide pour un ZAN adapté aux réalités locales et regrette l'absence d'étude d'impact initiale.",
+      "Le Gouvernement a remis sur la table la proposition de loi TRACE comme alternative au ZAN jugé trop rigide.",
+      "Elle qualifie le ZAN d'« exemple même d'une idée extrêmement vertueuse » tout en demandant de la souplesse.",
+      "Des partisans d'une approche stricte craignent un recul de l'ambition environnementale."
+    ],
+    "source_url": ["https://www.batiactu.com/edito/zan-ministre-veut-relancer-debat-autour-projet-loi-72884.php", "https://www.batiactu.com/edito/zan-ministre-francois-gatel-pousse-idee-frugalite-72708.php", "https://www.aefinfo.fr/depeche/739957-decentralisation-agences-de-l-etat-zan-francoise-gatel-presente-les-grandes-orientations-de-son-ministere"]
+  }
+]

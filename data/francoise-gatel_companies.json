@@ -1,0 +1,72 @@
+[
+  {
+    "id": "francoise-gatel-co-1",
+    "entity": "Pluriel Atlantique",
+    "role": "Associée (participation au capital)",
+    "ownership_stake": "117 parts",
+    "period": "Détenue à la date de la déclaration (2026)",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "detail": "Participation financière directe évaluée à 9 059 €. Aucune rémunération perçue au cours de l'année précédente.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-co-2",
+    "entity": "Innovation Pluriel",
+    "role": "Associée (participation au capital)",
+    "ownership_stake": "117 parts",
+    "period": "Détenue à la date de la déclaration (2026)",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "detail": "Participation financière directe évaluée à 10 248 €. Aucune rémunération perçue au cours de l'année précédente.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-co-3",
+    "entity": "Nouvelles Parts Sociales B",
+    "role": "Détentrice de parts sociales",
+    "ownership_stake": "4 047 parts",
+    "period": "Détenue à la date de la déclaration (2026)",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "detail": "Participation évaluée à 4 047 €. Rémunération de 125 € au cours de l'année précédente.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-co-4",
+    "entity": "Groupements fonciers viticoles / forestiers (GFV / GFI, dénominations non publiées)",
+    "role": "Associée (parts non cotées)",
+    "ownership_stake": "Participations comprises entre ~1 % et ~2,6 % selon les groupements",
+    "period": "Détenue à la date de la déclaration (2026)",
+    "status": "Déclaré à la HATVP (déclarations d'intérêts et de patrimoine)",
+    "detail": "Plusieurs parts de groupements fonciers viticoles (GFV) et d'un groupement forestier (GFI), dont les dénominations sont non publiées par la HATVP. Valeurs vénales cumulées des parts non cotées d'environ 159 000 €. Petites rémunérations annuelles déclarées (88 €, 178 €, 181 €).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-co-5",
+    "entity": "Petites cités de caractère de Bretagne",
+    "role": "Présidente (fonction dans un organe dirigeant, non rémunérée)",
+    "ownership_stake": "Sans objet (association)",
+    "period": "01/2019 à ce jour",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "detail": "Présidence d'une association de valorisation du patrimoine, déclarée comme fonction dirigeante. Rémunération 0 € chaque année (2019-2025).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-co-6",
+    "entity": "Petites cités de caractère de France",
+    "role": "Présidente (fonction dans un organe dirigeant, non rémunérée)",
+    "ownership_stake": "Sans objet (association)",
+    "period": "01/2019 à ce jour",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "detail": "Présidence d'une fédération nationale de valorisation du patrimoine. Rémunération 0 € chaque année (2019-2025).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-co-7",
+    "entity": "France Patrimoines et territoires d'exception",
+    "role": "Vice-présidente et trésorière (organe dirigeant, non rémunérée)",
+    "ownership_stake": "Sans objet (association)",
+    "period": "01/2019 à ce jour",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "detail": "Fonction de vice-présidente et trésorière. Rémunération 0 € chaque année (2019-2025).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  }
+]

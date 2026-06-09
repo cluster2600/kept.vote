@@ -1,0 +1,40 @@
+[
+  {
+    "id": "naima-moutchou-pol-1",
+    "title": "Diffusion puis suppression d'un tweet contesté par la rapporteure de la loi « anti-fake news »",
+    "period": "2018-11",
+    "category": "Communication / désinformation",
+    "description": "Peu après l'adoption définitive de la loi contre la manipulation de l'information dont elle était rapporteure, Naïma Moutchou a relayé puis supprimé un tweet relatif à une vidéo de manifestation de Gilets jaunes, accusant un manifestant d'avoir fait un salut nazi. Plusieurs internautes et médias ont contesté cette interprétation des images. Le caractère ironique de l'épisode — la rapporteure d'une loi contre la désinformation diffusant une information contestée — a été relevé par la presse spécialisée.",
+    "status": "Controverse médiatique ; aucune procédure judiciaire connue. Tweet supprimé par l'intéressée.",
+    "confidence_score": "Moyenne-élevée (faits rapportés par plusieurs médias ; interprétation de la vidéo restée disputée)",
+    "key_facts": [
+      "Naïma Moutchou était rapporteure pour la commission des Lois de la loi contre la manipulation de l'information adoptée en 2018.",
+      "Quelques jours après l'adoption, elle a relayé un tweet accusant un Gilet jaune d'avoir fait un salut nazi.",
+      "L'interprétation des images a été contestée, certains estimant que le manifestant disait autre chose.",
+      "Le tweet a ensuite été supprimé."
+    ],
+    "source_url": [
+      "https://www.nextinpact.com/lebrief/37037/6744-quand-la-rapporteure-de-la-loi-contre-la-manipulation-de-l-information-diffuse-une---fake-news--",
+      "https://francais.rt.com/france/55915-rapporteur-lrem-loi-anti-fake-relaye-fake-news-salut-nazi-gilets-jaunes"
+    ]
+  },
+  {
+    "id": "naima-moutchou-pol-2",
+    "title": "Tensions avec les élus et acteurs économiques d'Outre-mer sur la défiscalisation (PLF 2026)",
+    "period": "2025-2026",
+    "category": "Politique budgétaire / Outre-mer",
+    "description": "Comme ministre des Outre-mer, Naïma Moutchou a été confrontée à de vives critiques d'élus calédoniens et d'acteurs économiques ultramarins au sujet du projet de loi de finances pour 2026, qui prévoyait un resserrement (estimé à environ 750 millions d'euros) des dispositifs d'aide aux entreprises (LODEOM et défiscalisation de l'investissement productif). Une visite en Nouvelle-Calédonie a été reportée à la demande du Premier ministre pour participer aux négociations budgétaires. Selon la presse locale, une rencontre avec le monde économique calédonien a déçu une partie des participants. La ministre a publiquement affirmé refuser que « les Outre-mer soient les oubliés de ce budget ».",
+    "status": "Controverse politique en cours ; pas de dimension judiciaire.",
+    "confidence_score": "Moyenne (faits rapportés par la presse régionale ; appréciations politiques contrastées)",
+    "key_facts": [
+      "Le PLF 2026 prévoyait un rabot d'environ 750 millions d'euros sur les dispositifs LODEOM et de défiscalisation de l'investissement productif Outre-mer.",
+      "Une visite de la ministre en Nouvelle-Calédonie a été reportée pour participer aux négociations budgétaires à Paris.",
+      "Des élus calédoniens, dont Philippe Dunoyer, ont vivement critiqué le projet gouvernemental.",
+      "La ministre a déclaré refuser que les Outre-mer soient « les oubliés de ce budget »."
+    ],
+    "source_url": [
+      "https://la1ere.franceinfo.fr/nouvellecaledonie/visite-reportee-de-la-ministre-des-outre-mer-la-defiscalisation-au-c-ur-des-tensions-budgetaires-1639138.html",
+      "https://la1ere.franceinfo.fr/nouvellecaledonie/naima-moutchou-en-caledonie-une-rencontre-decevante-pour-le-monde-economique-1642066.html"
+    ]
+  }
+]

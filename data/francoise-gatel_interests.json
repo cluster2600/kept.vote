@@ -1,0 +1,62 @@
+[
+  {
+    "id": "francoise-gatel-int-1",
+    "item": "Présidente de Petites cités de caractère de Bretagne",
+    "type": "Fonction dirigeante d'association (bénévole)",
+    "period": "01/2019 à ce jour",
+    "value": "0 € (non rémunérée)",
+    "detail": "Fonction de présidence déclarée au titre des participations aux organes dirigeants d'un organisme.",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-int-2",
+    "item": "Présidente de Petites cités de caractère de France",
+    "type": "Fonction dirigeante d'association (bénévole)",
+    "period": "01/2019 à ce jour",
+    "value": "0 € (non rémunérée)",
+    "detail": "Présidence de la fédération nationale, déclarée à la HATVP.",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-int-3",
+    "item": "Vice-présidente et trésorière de France Patrimoines et territoires d'exception",
+    "type": "Fonction dirigeante d'association (bénévole)",
+    "period": "01/2019 à ce jour",
+    "value": "0 € (non rémunérée)",
+    "detail": "Fonction déclarée au titre des participations aux organes dirigeants.",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-int-4",
+    "item": "Conseillère municipale (Châteaugiron)",
+    "type": "Mandat électif local",
+    "period": "01/2021 à ce jour",
+    "value": "0 € (non rémunéré déclaré)",
+    "detail": "Mandat de conseillère municipale déclaré au titre des fonctions et mandats électifs.",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-int-5",
+    "item": "Conseillère communautaire",
+    "type": "Mandat électif intercommunal",
+    "period": "01/2021 à ce jour",
+    "value": "0 € (non rémunéré déclaré)",
+    "detail": "Mandat de conseillère communautaire déclaré au titre des fonctions et mandats électifs.",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-int-6",
+    "item": "Activité professionnelle du conjoint",
+    "type": "Intérêt du conjoint",
+    "period": "À la date de la déclaration (2026)",
+    "value": "Sans objet",
+    "detail": "Conjoint déclaré comme retraité.",
+    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  }
+]

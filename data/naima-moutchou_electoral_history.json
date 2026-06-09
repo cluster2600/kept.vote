@@ -1,0 +1,43 @@
+[
+  {
+    "id": "naima-moutchou-eh-1",
+    "election": "Élections législatives 2017",
+    "date": "2017-06-18",
+    "role_sought": "Députée de la 4e circonscription du Val-d'Oise",
+    "result": "Élue",
+    "vote_share": "59,37 % au second tour (environ 16 081 voix)",
+    "opponent": "Candidats du second tour (circonscription comprenant Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt)",
+    "detail": "Première élection sous l'étiquette La République en marche, succédant au socialiste Gérard Sebaoun.",
+    "source_url": [
+      "http://www.eaubonneps.fr/archives/2017/06/19/35399608.html",
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou"
+    ]
+  },
+  {
+    "id": "naima-moutchou-eh-2",
+    "election": "Élections législatives 2022",
+    "date": "2022-06-19",
+    "role_sought": "Députée de la 4e circonscription du Val-d'Oise",
+    "result": "Réélue",
+    "vote_share": "environ 53,4 % au second tour",
+    "opponent": "Karine Lacouture (NUPES / La France insoumise)",
+    "detail": "Réélue sous l'étiquette Ensemble ! (Horizons), députée sortante.",
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/paris-ile-de-france/val-d-oise/carte-resultats-legislatives-2022-du-val-d-oise-2562816.html",
+      "https://www.ici.fr/infos/politique/second-tour-des-elections-legislatives-val-d-oise-1655655618"
+    ]
+  },
+  {
+    "id": "naima-moutchou-eh-3",
+    "election": "Élections législatives anticipées 2024",
+    "date": "2024-07-07",
+    "role_sought": "Députée de la 4e circonscription du Val-d'Oise",
+    "result": "Réélue",
+    "vote_share": "55,39 % au second tour (contre 44,61 %)",
+    "opponent": "Karine Lacouture (Nouveau Front populaire / La France insoumise)",
+    "detail": "Réélue sous l'étiquette Ensemble pour la République face à la candidate du Nouveau Front populaire.",
+    "source_url": [
+      "https://mesinfos.fr/ile-de-france/legislatives-2024-la-deputee-sortante-naima-moutchou-reelue-202720.html"
+    ]
+  }
+]

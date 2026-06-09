@@ -1,0 +1,42 @@
+[
+  {
+    "id": "stephanie-rist-int-1",
+    "item": "Membre du conseil d'administration de l'ARS Centre-Val de Loire",
+    "type": "participation à un organe dirigeant (organisme public)",
+    "period": "02/2025 - 10/2025",
+    "value": "0 € (non rémunéré)",
+    "detail": "Participation à un organe dirigeant d'un organisme public déclarée à la HATVP, sans rémunération. Susceptible d'être un point d'attention déontologique compte tenu de ses fonctions de ministre de la Santé (tutelle des ARS).",
+    "status": "déclaré (intérêt HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-int-2",
+    "item": "Membre du conseil de surveillance du CHU d'Orléans",
+    "type": "participation à un organe dirigeant (organisme public)",
+    "period": "11/2024 - 10/2025",
+    "value": "0 € (non rémunéré)",
+    "detail": "Participation au conseil de surveillance du CHU d'Orléans, déclarée à la HATVP, sans rémunération.",
+    "status": "déclaré (intérêt HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-int-3",
+    "item": "Activité de médecin attachée en rhumatologie au CHU d'Orléans",
+    "type": "activité professionnelle rémunérée (cinq dernières années)",
+    "period": "2019 - 10/2025",
+    "value": "rémunérations annuelles nettes comprises entre ~2 300 € et ~4 650 €",
+    "detail": "Activité professionnelle de praticien hospitalier attaché en rhumatologie déclarée au titre des cinq années précédant la nomination. Médecin de profession nommée ministre de la Santé, ce qui constitue un lien d'intérêt notable avec son portefeuille ministériel.",
+    "status": "déclaré (intérêt HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-int-4",
+    "item": "Activité professionnelle du conjoint (Centre National de Gestion)",
+    "type": "activité professionnelle du conjoint",
+    "period": "à la date de la nomination",
+    "value": "non publié",
+    "detail": "La déclaration d'intérêts mentionne l'employeur du conjoint comme étant le Centre National de Gestion (CNG), établissement public gérant notamment les carrières des praticiens hospitaliers et des directeurs hospitaliers. Données individuelles non publiées par la HATVP.",
+    "status": "déclaré (intérêt HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  }
+]

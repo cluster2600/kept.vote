@@ -1,0 +1,18 @@
+[
+  {
+    "id": "stephanie-rist-nw-1",
+    "year": "2026",
+    "declared_net_worth": "environ 600 000 €",
+    "note": "Patrimoine financier brut estimé à partir de la déclaration de modification substantielle de situation patrimoniale déposée le 21 février 2026 auprès de la HATVP : assurance-vie (~326 050 €), plan d'épargne en actions PEA (~173 633 €), compte-titres (~4 203 €) et soldes de comptes courants et produits d'épargne (~96 571 € au total). Aucun bien immobilier, aucune dette ni passif déclaré. Régime matrimonial : communauté légale réduite aux acquêts. Chiffre agrégé estimé par addition des postes déclarés ; non publié comme tel par la HATVP.",
+    "status": "déclaré (agrégat estimé)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie", "https://www.hatvp.fr/livraison/dossiers/rist-stephanie-dspm34828-gouvernement.pdf"]
+  },
+  {
+    "id": "stephanie-rist-nw-2",
+    "year": "2025",
+    "declared_net_worth": "non chiffré",
+    "note": "Déclaration de situation patrimoniale déposée le 1er novembre 2025 lors de l'entrée au gouvernement. Profil patrimonial proche de la déclaration de février 2026 : absence de bien immobilier, patrimoine constitué principalement d'une assurance-vie, d'un PEA, d'un compte-titres et de liquidités. Montant global non publié comme agrégat par la HATVP.",
+    "status": "déclaré",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie", "https://www.hatvp.fr/livraison/dossiers/rist-stephanie-dsp34827-gouvernement.pdf"]
+  }
+]

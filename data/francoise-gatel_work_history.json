@@ -1,0 +1,92 @@
+[
+  {
+    "id": "francoise-gatel-wh-1",
+    "role": "Responsable de projets",
+    "organization": "Chambre de commerce et d'industrie de Rennes",
+    "start_date": "1976",
+    "end_date": "",
+    "description": "Premier poste professionnel, chargée de projets à la CCI de Rennes avant son engagement en politique locale.",
+    "category": "Private/Professional",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel", "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gatel"]
+  },
+  {
+    "id": "francoise-gatel-wh-2",
+    "role": "Maire de Châteaugiron",
+    "organization": "Commune de Châteaugiron (Ille-et-Vilaine)",
+    "start_date": "2001",
+    "end_date": "2017",
+    "description": "Maire de la commune de Châteaugiron pendant trois mandats. Démissionne en septembre 2017 en raison de la loi sur le non-cumul des mandats, tout en restant conseillère municipale.",
+    "category": "Local government",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel", "https://www.ouest-france.fr/bretagne/chateaugiron-35410/chateaugiron-francoise-gatel-quitte-son-poste-de-maire-5243442"]
+  },
+  {
+    "id": "francoise-gatel-wh-3",
+    "role": "Présidente de l'Association des maires d'Ille-et-Vilaine",
+    "organization": "Association des maires d'Ille-et-Vilaine (AMF 35)",
+    "start_date": "2008",
+    "end_date": "2017",
+    "description": "Présidente de l'association départementale des maires d'Ille-et-Vilaine.",
+    "category": "Local government / Association",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel"]
+  },
+  {
+    "id": "francoise-gatel-wh-4",
+    "role": "Vice-présidente de l'Association des maires de France (AMF)",
+    "organization": "Association des maires de France et des présidents d'intercommunalité (AMF)",
+    "start_date": "2014-11",
+    "end_date": "",
+    "description": "Désignée vice-présidente de l'AMF lors du 97e congrès des maires (novembre 2014), alors sénatrice-maire de Châteaugiron.",
+    "category": "Association",
+    "source_url": ["https://www.amf.asso.fr/documents-les-nouvelles-instances-dirigeantes-amf/12915"]
+  },
+  {
+    "id": "francoise-gatel-wh-5",
+    "role": "Sénatrice d'Ille-et-Vilaine",
+    "organization": "Sénat (Groupe Union Centriste)",
+    "start_date": "2014-10-01",
+    "end_date": "2024-10-21",
+    "description": "Sénatrice d'Ille-et-Vilaine, membre de la commission des lois et secrétaire du Sénat. Mandat suspendu à compter de l'entrée au Gouvernement (septembre 2024) puis terminé le 21 octobre 2024 du fait de l'appartenance au Gouvernement.",
+    "category": "National legislature",
+    "source_url": ["https://www.senat.fr/senateur/gatel_francoise14231l.html"]
+  },
+  {
+    "id": "francoise-gatel-wh-6",
+    "role": "Présidente de la délégation sénatoriale aux collectivités territoriales et à la décentralisation",
+    "organization": "Sénat",
+    "start_date": "2020",
+    "end_date": "2024",
+    "description": "Présidente de la délégation aux collectivités territoriales et à la décentralisation, co-rapporteure du projet de loi 3DS (2021) et co-rapporteure de la proposition de loi portant statut de l'élu local (2024).",
+    "category": "National legislature",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel", "https://www.senat.fr/senateur/gatel_francoise14231l.html"]
+  },
+  {
+    "id": "francoise-gatel-wh-7",
+    "role": "Ministre déléguée chargée de la Ruralité, du Commerce et de l'Artisanat",
+    "organization": "Gouvernement (PM Michel Barnier)",
+    "start_date": "2024-09",
+    "end_date": "2024-12",
+    "description": "Ministre déléguée auprès de la ministre du Partenariat avec les territoires et de la Décentralisation, chargée de la Ruralité, du Commerce et de l'Artisanat, dans le gouvernement Barnier.",
+    "category": "Executive / Government",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel", "https://www.info.gouv.fr/personnalite/francoise-gatel"]
+  },
+  {
+    "id": "francoise-gatel-wh-8",
+    "role": "Ministre déléguée chargée de la Ruralité",
+    "organization": "Gouvernement (PM François Bayrou)",
+    "start_date": "2024-12",
+    "end_date": "2025-10",
+    "description": "Ministre déléguée auprès du ministre de l'Aménagement du territoire et de la Décentralisation, chargée de la Ruralité, dans le gouvernement Bayrou.",
+    "category": "Executive / Government",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel", "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gatel"]
+  },
+  {
+    "id": "francoise-gatel-wh-9",
+    "role": "Ministre de l'Aménagement du territoire et de la Décentralisation",
+    "organization": "Gouvernement (PM Sébastien Lecornu)",
+    "start_date": "2025-10",
+    "end_date": "",
+    "description": "Ministre de l'Aménagement du territoire et de la Décentralisation depuis octobre 2025 dans le second gouvernement Lecornu, fonction maintenue après le remaniement de février 2026. Pilote les chantiers décentralisation, ZAN/loi TRACE et finances locales.",
+    "category": "Executive / Government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/francoise-gatel", "https://www.ecologie.gouv.fr/francoise-gatel"]
+  }
+]

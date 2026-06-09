@@ -1,0 +1,38 @@
+[
+  {
+    "id": "naima-moutchou-int-1",
+    "item": "Activité professionnelle du conjoint : avocat (exercice en nom propre)",
+    "type": "Intérêt familial (conjoint)",
+    "period": "À la date de la nomination",
+    "value": "",
+    "detail": "Déclaré à la HATVP (déclaration d'intérêts, modification substantielle du 5 mars 2026), rubrique 5° activités professionnelles du conjoint/partenaire. Détails non publiés.",
+    "status": "Déclaré (HATVP)",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-int-2",
+    "item": "Mandat de députée de la 4e circonscription du Val-d'Oise",
+    "type": "Fonction et mandat électif",
+    "period": "2017-2025 (déclaré par périodes : 11/2020-06/2022, 06/2022-07/2024, 07/2024-11/2025)",
+    "value": "Rémunérations nettes annuelles déclarées (de 10 654 € à 85 856 € selon l'année)",
+    "detail": "Déclaré à la HATVP comme fonction et mandat électif. Activité de consultant : néant ; participations financières directes : néant.",
+    "status": "Déclaré (HATVP)",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-int-3",
+    "item": "Membre du conseil d'administration de l'INHESJ",
+    "type": "Participation à un organe d'organisme public (passée)",
+    "period": "2017-2020",
+    "value": "",
+    "detail": "Membre du conseil d'administration de l'Institut national des hautes études de la sécurité et de la justice (INHESJ).",
+    "status": "Historique (source presse / Wikipédia)",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Na%C3%AFma_Moutchou"
+    ]
+  }
+]

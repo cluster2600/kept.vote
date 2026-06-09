@@ -1,0 +1,41 @@
+[
+  {
+    "id": "naima-moutchou-re-1",
+    "property": "Appartement de 64 m²",
+    "location": "Département 93 (Seine-Saint-Denis)",
+    "transaction_type": "Acquisition",
+    "date": "2011",
+    "value": "Prix d'acquisition 265 000 € ; valeur vénale déclarée 260 000 €",
+    "detail": "Bien commun, pleine propriété, quote-part 100 %. Déclaré à la HATVP (déclaration de situation patrimoniale, modification substantielle du 5 mars 2026).",
+    "status": "Déclaré (HATVP)",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-re-2",
+    "property": "Maison individuelle de 65 m²",
+    "location": "Département 95 (Val-d'Oise)",
+    "transaction_type": "Acquisition",
+    "date": "2020",
+    "value": "Prix d'acquisition 300 000 € ; valeur vénale déclarée 300 000 €",
+    "detail": "Bien commun, pleine propriété, quote-part 100 %. Déclaré à la HATVP. Acquisition financée notamment par un emprunt CIC de 225 006 € (24/11/2020).",
+    "status": "Déclaré (HATVP)",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  },
+  {
+    "id": "naima-moutchou-re-3",
+    "property": "Créance liée à l'acquisition d'une maison (bien détenu à l'étranger)",
+    "location": "Localisation non publiée (rubrique « biens détenus à l'étranger »)",
+    "transaction_type": "Créance / projet d'acquisition",
+    "date": "",
+    "value": "Valeur vénale 410 000 €",
+    "detail": "Déclaré à la HATVP comme créance à l'égard d'une société (données non publiées) pour acquérir une maison, classée dans les biens et comptes détenus à l'étranger.",
+    "status": "Déclaré (HATVP)",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+    ]
+  }
+]

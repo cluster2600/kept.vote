@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stephanie-rist-wh-1",
+    "role": "Ministre de la Santé, des Familles, de l'Autonomie et des Personnes handicapées",
+    "organization": "Gouvernement français (gouvernement Sébastien Lecornu)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Nommée ministre de la Santé, des Familles, de l'Autonomie et des Personnes handicapées le 12 octobre 2025 dans le second gouvernement Lecornu. Fonction confirmée lors du remaniement du 26 février 2026, avec une ministre déléguée à l'Autonomie et aux Personnes handicapées (Camille Galliard-Minier) placée auprès d'elle.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/stephanie-rist", "https://en.wikipedia.org/wiki/St%C3%A9phanie_Rist", "https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/"]
+  },
+  {
+    "id": "stephanie-rist-wh-2",
+    "role": "Députée de la 1re circonscription du Loiret",
+    "organization": "Assemblée nationale",
+    "start_date": "2017-06-21",
+    "end_date": "2026-02-26",
+    "description": "Élue députée de la 1re circonscription du Loiret en juin 2017 (La République en marche), réélue en 2022, 2024 et lors d'une législative partielle en janvier 2026. Membre de la commission des affaires sociales, rapporteure générale du budget de la Sécurité sociale à partir de 2022. Mandat clos le 26 février 2026 du fait de sa nomination au gouvernement.",
+    "category": "elected_office",
+    "source_url": ["https://www.assemblee-nationale.fr/dyn/deputes/PA720066", "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720066"]
+  },
+  {
+    "id": "stephanie-rist-wh-3",
+    "role": "Conseillère municipale d'Orléans et conseillère métropolitaine (Orléans Métropole)",
+    "organization": "Ville d'Orléans / Orléans Métropole",
+    "start_date": "2020-05",
+    "end_date": "2025-10",
+    "description": "Conseillère municipale de la ville d'Orléans et conseillère communautaire d'Orléans Métropole à compter des municipales de 2020, mandats déclarés à la HATVP jusqu'en octobre 2025.",
+    "category": "elected_office",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-wh-4",
+    "role": "Médecin rhumatologue attachée",
+    "organization": "Centre hospitalier régional / CHU d'Orléans",
+    "start_date": "2005",
+    "end_date": "2025-10",
+    "description": "Rhumatologue hospitalière au Centre hospitalier régional (devenu CHU) d'Orléans à partir de 2005. A continué d'exercer comme médecin attachée en rhumatologie en parallèle de son mandat parlementaire (déclarations de rémunération HATVP de 2019 à 2025). A notamment dirigé le service de rhumatologie.",
+    "category": "professional",
+    "source_url": ["https://en.wikipedia.org/wiki/St%C3%A9phanie_Rist", "https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie", "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/la-rhumatologue-hospitaliere-stephanie-rist-nommee-ministre-de-la-sante"]
+  },
+  {
+    "id": "stephanie-rist-wh-5",
+    "role": "Médecin rhumatologue",
+    "organization": "Hôpital Louis-Mourier (Colombes, AP-HP)",
+    "start_date": "",
+    "end_date": "2005",
+    "description": "A débuté sa carrière hospitalière à l'hôpital Louis-Mourier de Colombes avant de rejoindre le CHR d'Orléans en 2005.",
+    "category": "professional",
+    "source_url": ["https://en.wikipedia.org/wiki/St%C3%A9phanie_Rist"]
+  },
+  {
+    "id": "stephanie-rist-wh-6",
+    "role": "Membre du conseil de surveillance",
+    "organization": "CHU d'Orléans",
+    "start_date": "2024-11",
+    "end_date": "2025-10",
+    "description": "Membre du conseil de surveillance du CHU d'Orléans (fonction non rémunérée), telle que déclarée à la HATVP.",
+    "category": "professional",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-wh-7",
+    "role": "Membre du conseil d'administration",
+    "organization": "Agence régionale de santé (ARS) Centre-Val de Loire",
+    "start_date": "2025-02",
+    "end_date": "2025-10",
+    "description": "Membre du conseil d'administration de l'ARS Centre-Val de Loire (fonction non rémunérée), telle que déclarée à la HATVP.",
+    "category": "professional",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  }
+]

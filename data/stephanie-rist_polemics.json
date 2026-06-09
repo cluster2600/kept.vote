@@ -1,0 +1,35 @@
+[
+  {
+    "id": "stephanie-rist-pol-1",
+    "title": "Opposition des médecins à la « loi Rist 2 » sur l'accès direct aux paramédicaux (2023)",
+    "period": "2022-2023",
+    "category": "controverse professionnelle / politique de santé",
+    "description": "La proposition de loi de Stéphanie Rist instaurant un accès direct des patients à certains professionnels paramédicaux (kinésithérapeutes, IPA, orthophonistes) sans passage préalable par un médecin a suscité une forte opposition des syndicats de médecins, qui y ont vu un risque de fragmentation du parcours de soins et de « médecine au rabais ». À l'approche d'un mouvement de grève, Stéphanie Rist a adressé une lettre ouverte aux médecins. Les médecins ont obtenu un encadrement plus strict du dispositif au cours de la navette parlementaire.",
+    "status": "controverse politique (débat parlementaire) ; aucune procédure judiciaire",
+    "confidence_score": "élevé",
+    "key_facts": [
+      "La loi du 19 mai 2023 ouvre, sous conditions, l'accès direct aux IPA, kinésithérapeutes et orthophonistes.",
+      "Les syndicats de médecins ont dénoncé un risque de fragmentation du parcours de soins.",
+      "L'accès direct a finalement été strictement encadré (ex. limite de huit séances de kinésithérapie sans diagnostic médical préalable, en CPTS, à titre expérimental dans six départements).",
+      "Stéphanie Rist a adressé une lettre ouverte aux médecins avant le mouvement de grève."
+    ],
+    "source_url": ["https://www.egora.fr/actus-pro/politiques/parlons-nous-quelques-jours-de-la-greve-stephanie-rist-adresse-une-lettre", "https://www.europe1.fr/sante/que-propose-la-loi-rist-examinee-par-le-senat-ce-mardi-4166895", "https://www.lequotidiendumedecin.fr/liberal/exercice/acces-directs-aux-paramedicaux-competences-elargies-la-loi-rist-adoptee-les-medecins-ont-reduit-la"]
+  },
+  {
+    "id": "stephanie-rist-pol-2",
+    "title": "Mobilisation des médecins contre les mesures du PLFSS 2026 et la loi anti-fraude",
+    "period": "2025-2026",
+    "category": "controverse politique / mouvement social",
+    "description": "En tant que ministre de la Santé, Stéphanie Rist a porté plusieurs mesures contestées par les médecins, internes et étudiants en médecine. Le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2026 prévoit notamment de limiter la durée des arrêts de travail à un mois pour une première prescription et d'autoriser le gouvernement à modifier les conditions de remboursement de certains actes. La loi de lutte contre les fraudes (adoptée au Sénat le 18 novembre 2025) a également cristallisé les tensions, des opposants y voyant l'instauration de quotas sur les arrêts de travail, ce que la ministre a contesté (« il n'y a pas de quotas sur les arrêts de travail »). Des grèves de médecins ont eu lieu en janvier 2026.",
+    "status": "controverse politique en cours / mouvement social ; aucune procédure judiciaire",
+    "confidence_score": "élevé",
+    "key_facts": [
+      "Le PLFSS 2026 prévoit de limiter à un mois la durée d'un premier arrêt de travail prescrit.",
+      "La loi anti-fraude défendue par Stéphanie Rist a été adoptée au Sénat le 18 novembre 2025.",
+      "Des grèves de médecins ont eu lieu en janvier 2026.",
+      "Stéphanie Rist a déclaré qu'« il n'y a pas de quotas sur les arrêts de travail » et a retiré certaines dispositions (mise sous objectifs) du projet de loi fraudes.",
+      "Une partie de la profession dénonce une remise en cause de l'autonomie de prescription des médecins."
+    ],
+    "source_url": ["https://www.franceinfo.fr/economie/greve/greve-des-medecins/greve-des-medecins-si-votre-rendez-vous-concerne-une-urgence-vous-serez-pris-en-charge-aujourd-hui-assure-stephanie-rist-ministre-de-la-sante_7721479.html", "https://www.aefinfo.fr/depeche/744293-arrets-de-travail-stephanie-rist-retire-la-mise-sous-objectifs-du-projet-de-loi-fraudes-et-generalise-sos-ij", "https://www.fmfpro.org/dapres-stephanie-rist-il-ny-a-pas-de-quotas-sur-les-arrets-de-travail/"]
+  }
+]

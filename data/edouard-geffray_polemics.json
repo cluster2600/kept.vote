@@ -1,0 +1,50 @@
+[
+  {
+    "id": "edouard-geffray-pol-1",
+    "title": "« Choc des savoirs » et groupes de niveau : architecte puis fossoyeur de sa propre réforme",
+    "period": "2024-2026",
+    "category": "Politique éducative / controverse syndicale",
+    "description": "Comme DGESCO, Geffray a conçu et déployé les « groupes de niveau » (« groupes de besoins ») en français et maths au collège, mesure phare du « Choc des savoirs » lancé par Gabriel Attal. La réforme, accusée de « tri social » des élèves, a suscité une forte mobilisation des enseignants, parents, syndicats et chercheurs, et n'a été appliquée que dans une minorité d'établissements (environ 1 collège sur 5 selon des enquêtes syndicales). Devenu ministre, Geffray a rendu ces groupes facultatifs début 2026 puis officialisé l'abandon de leur caractère obligatoire en mars 2026, ce qui lui a été reproché à la fois par les partisans (recul) et les opposants (responsabilité initiale).",
+    "status": "Controverse de politique publique ; aucune procédure judiciaire. Réforme officiellement abandonnée en mars 2026.",
+    "confidence_score": "Élevé",
+    "key_facts": [
+      "Geffray était DGESCO (2019-2024) lors de la conception des groupes de niveau du « Choc des savoirs ».",
+      "Selon des enquêtes syndicales, seul environ 1 collège sur 5 appliquait pleinement la réforme.",
+      "Devenu ministre, il a rendu les groupes facultatifs (janvier 2026) puis officialisé la fin de leur obligation (mars 2026).",
+      "La mesure a été critiquée par les syndicats, les parents d'élèves, des chercheurs et l'Inspection générale."
+    ],
+    "source_url": ["https://www.cafepedagogique.net/2026/03/16/fin-des-groupes-de-niveau-la-mesure-du-choc-des-savoirs-officiellement-abandonnee/", "https://www.cafepedagogique.net/2025/11/18/lechec-du-choc-des-savoirs-1-college-sur-5-applique-la-reforme-des-groupes-de-niveau/", "https://www.vousnousils.fr/2026/01/12/groupes-besoin-etablissements-possibilite-conserver-moyens-maintenus-699432"]
+  },
+  {
+    "id": "edouard-geffray-pol-2",
+    "title": "Concours général des collèges et plan « Collèges en progrès » : opposition syndicale",
+    "period": "2026",
+    "category": "Politique éducative / relations sociales",
+    "description": "La création d'un concours général des collèges (pour les élèves de 4e) et le plan « Collèges en progrès » ont provoqué la colère de plusieurs syndicats enseignants (SUD éducation, SNUDI-FO, etc.), qui ont boycotté une réunion de concertation en mai 2026 et dénoncé un « coup de communication » médiatique et une conception « élitiste, conservatrice et inégalitaire » de l'école. La contestation s'inscrit dans le contexte de la suppression annoncée d'environ 4 000 postes d'enseignants à la rentrée 2026.",
+    "status": "Conflit social et débat de politique publique en cours ; aucune procédure judiciaire.",
+    "confidence_score": "Élevé",
+    "key_facts": [
+      "Concours général des collèges annoncé en avril 2026 pour valoriser les meilleurs élèves de 4e.",
+      "Plusieurs syndicats ont boycotté la réunion de concertation du 13 mai 2026.",
+      "Les syndicats dénoncent une mesure « qui ne répond à aucun besoin du système éducatif ».",
+      "Contexte : suppression annoncée d'environ 4 000 postes d'enseignants à la rentrée 2026."
+    ],
+    "source_url": ["https://www.franceinfo.fr/societe/education/il-ne-repond-a-aucun-besoin-du-systeme-educatif-les-syndicats-denoncent-le-nouveau-concours-general-des-colleges-voulu-par-le-ministre-de-l-education_8002223.html", "https://www.sudeducation.org/communiques/college-en-progres-concours-general-des-mesures-inadaptees-aux-besoins-des-eleves-et-des-personnels/"]
+  },
+  {
+    "id": "edouard-geffray-pol-3",
+    "title": "Mesure de déport HATVP pour prévenir des conflits d'intérêts",
+    "period": "2026",
+    "category": "Déontologie / transparence",
+    "description": "Lors de la publication des déclarations des membres du gouvernement Lecornu (avril 2026), la HATVP a indiqué que des décrets de déport ont été publiés pour quatorze membres du gouvernement afin de prévenir tout risque de conflit d'intérêts. La déclaration d'intérêts de Geffray mentionne notamment que son épouse est professeure de lettres au sein du ministère de l'Éducation nationale qu'il dirige. Il s'agit d'une mesure de précaution déontologique et non d'une accusation de faute.",
+    "status": "Mesure de prévention déontologique ; aucune faute ni procédure. Statut : précautionnel.",
+    "confidence_score": "Moyen (le décret de déport visant nommément Geffray n'a pas été individuellement consulté ; information fondée sur le communiqué HATVP global et la déclaration d'intérêts).",
+    "key_facts": [
+      "La HATVP a publié des décrets de déport pour 14 membres du gouvernement Lecornu (avril 2026).",
+      "L'épouse de Geffray est professeure de lettres au ministère de l'Éducation nationale, déclarée comme intérêt potentiel.",
+      "Aucune faute n'est reprochée ; il s'agit d'une mesure de prévention des conflits d'intérêts.",
+      "La HATVP a relevé que Geffray est, après déduction des dettes, le ministre disposant de l'épargne la moins importante."
+    ],
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/", "https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains", "https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  }
+]

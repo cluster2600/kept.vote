@@ -1,0 +1,20 @@
+[
+  {
+    "id": "francoise-gatel-edu-1",
+    "institution": "Université (cursus d'anglais)",
+    "qualification": "Licence",
+    "field": "Anglais",
+    "years": "",
+    "detail": "Licence d'anglais obtenue avant son entrée dans la vie professionnelle.",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel", "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gatel"]
+  },
+  {
+    "id": "francoise-gatel-edu-2",
+    "institution": "Institut de gestion de Rennes",
+    "qualification": "DESS (Diplôme d'études supérieures spécialisées)",
+    "field": "Gestion des entreprises",
+    "years": "",
+    "detail": "DESS de gestion des entreprises délivré par l'Institut de gestion de Rennes.",
+    "source_url": ["https://www.ecologie.gouv.fr/francoise-gatel"]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "edouard-geffray-fin-1",
+    "year": "2024",
+    "type": "Rémunération - emploi public",
+    "label": "Directeur général de l'enseignement scolaire (DGESCO)",
+    "amount": "€127,449",
+    "detail": "Rémunération nette déclarée pour 2024 comme DGESCO (fonction quittée en juillet 2024). Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-2",
+    "year": "2023",
+    "type": "Rémunération - emploi public",
+    "label": "Directeur général de l'enseignement scolaire (DGESCO)",
+    "amount": "€176,107",
+    "detail": "Rémunération nette déclarée pour 2023 comme DGESCO. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-3",
+    "year": "2022",
+    "type": "Rémunération - emploi public",
+    "label": "Directeur général de l'enseignement scolaire (DGESCO)",
+    "amount": "€156,556",
+    "detail": "Rémunération nette déclarée pour 2022 comme DGESCO. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-4",
+    "year": "2021",
+    "type": "Rémunération - emploi public",
+    "label": "Directeur général de l'enseignement scolaire (DGESCO)",
+    "amount": "€155,971",
+    "detail": "Rémunération nette déclarée pour 2021 comme DGESCO. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-5",
+    "year": "2020",
+    "type": "Rémunération - emploi public",
+    "label": "Directeur général de l'enseignement scolaire (DGESCO)",
+    "amount": "€153,465",
+    "detail": "Rémunération nette déclarée pour 2020 comme DGESCO. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-6",
+    "year": "2025",
+    "type": "Rémunération - emploi public",
+    "label": "Conseiller d'État (assesseur, section du contentieux)",
+    "amount": "€113,518",
+    "detail": "Rémunération nette déclarée pour 2025 au titre de ses fonctions au Conseil d'État (jusqu'à sa nomination ministérielle en octobre 2025). Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-7",
+    "year": "2024",
+    "type": "Rémunération - emploi public",
+    "label": "Conseiller d'État (assesseur, section du contentieux)",
+    "amount": "€58,735",
+    "detail": "Rémunération nette déclarée pour 2024 au Conseil d'État (à compter d'août 2024). Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-8",
+    "year": "2018",
+    "type": "Rémunération - emploi public",
+    "label": "Directeur général des ressources humaines (DGRH)",
+    "amount": "€122,186",
+    "detail": "Rémunération nette déclarée pour 2018 comme DGRH des ministères de l'Éducation nationale et de l'Enseignement supérieur. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-9",
+    "year": "2019-2025",
+    "type": "Rémunération accessoire - enseignement",
+    "label": "Vacations d'enseignement à l'ENA (légistique, culture générale)",
+    "amount": "€35,112 (cumul 2019-2025)",
+    "detail": "Cumul des vacations nettes déclarées à l'ENA : 5 831 € (2019), 9 381 € (2020), 9 665 € (2021), 3 111 € (2022), 2 905 € (2023), 2 897 € (2024), 1 322 € (2025). Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  },
+  {
+    "id": "edouard-geffray-fin-10",
+    "year": "2025",
+    "type": "Rémunération accessoire - enseignement",
+    "label": "Enseignement à Sciences Po Paris",
+    "amount": "€1,464",
+    "detail": "Vacation nette déclarée pour un enseignement à l'Institut d'études politiques de Paris (février-juin 2025). Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  }
+]

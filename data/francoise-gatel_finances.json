@@ -1,0 +1,83 @@
+[
+  {
+    "id": "francoise-gatel-fin-1",
+    "year": "2018",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération nette de sénatrice (Sénat)",
+    "amount": "72 674 €",
+    "detail": "Indemnité nette de sénatrice déclarée à la HATVP (déclaration d'intérêts, modification substantielle déposée le 13 février 2026).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-2",
+    "year": "2019",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération nette de sénatrice (Sénat)",
+    "amount": "74 981 €",
+    "detail": "Indemnité nette de sénatrice déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-3",
+    "year": "2020",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération nette de sénatrice (Sénat)",
+    "amount": "77 083 €",
+    "detail": "Indemnité nette de sénatrice déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-4",
+    "year": "2021",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération nette de sénatrice (Sénat)",
+    "amount": "88 350 €",
+    "detail": "Indemnité nette de sénatrice déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-5",
+    "year": "2022",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération nette de sénatrice (Sénat)",
+    "amount": "89 896 €",
+    "detail": "Indemnité nette de sénatrice déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-6",
+    "year": "2023",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération nette de sénatrice (Sénat)",
+    "amount": "91 135 €",
+    "detail": "Indemnité nette de sénatrice déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-7",
+    "year": "2024",
+    "type": "Indemnité parlementaire",
+    "label": "Rémunération nette de sénatrice (Sénat, jusqu'à l'entrée au Gouvernement)",
+    "amount": "66 918 €",
+    "detail": "Indemnité nette de sénatrice perçue en 2024 jusqu'à la fin du mandat (octobre 2024), déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-8",
+    "year": "2024",
+    "type": "Rémunération ministérielle",
+    "label": "Traitement net de ministre (État)",
+    "amount": "29 585 €",
+    "detail": "Rémunération nette de membre du Gouvernement perçue en 2024 (à compter de septembre 2024), déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  },
+  {
+    "id": "francoise-gatel-fin-9",
+    "year": "2025",
+    "type": "Rémunération ministérielle",
+    "label": "Traitement net de ministre (État)",
+    "amount": "87 575 €",
+    "detail": "Rémunération nette de membre du Gouvernement perçue en 2025 (déclaration couvrant la période 09/2024 à 11/2025), déclarée à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+  }
+]

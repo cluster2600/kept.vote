@@ -1,0 +1,82 @@
+[
+  {
+    "id": "edouard-geffray-wh-1",
+    "role": "Ministre de l'Éducation nationale",
+    "organization": "Gouvernement de la République française (gouvernement Sébastien Lecornu)",
+    "start_date": "2025-10-12",
+    "end_date": "présent",
+    "description": "Nommé ministre de l'Éducation nationale dans le second gouvernement Lecornu le 12 octobre 2025, succédant à Élisabeth Borne. Maintenu à ce poste lors du remaniement du 26 février 2026.",
+    "category": "Gouvernement",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89douard_Geffray", "https://www.vie-publique.fr/en-bref/302256-remaniement-le-gouvernement-de-sebastien-lecornu-26-fevrier-2026"]
+  },
+  {
+    "id": "edouard-geffray-wh-2",
+    "role": "Conseiller d'État / Assesseur à la 1ère chambre (santé, social, urbanisme) de la section du contentieux",
+    "organization": "Conseil d'État",
+    "start_date": "2024-08",
+    "end_date": "2025-10",
+    "description": "Retour au Conseil d'État en septembre 2024 après son départ de la DGESCO. Assesseur à la section du contentieux. À ce titre, il a remis en septembre 2025 un rapport sur l'éducation au cinéma et à l'image (« Ma classe au cinéma ») commandé par les ministres de l'Éducation et de la Culture.",
+    "category": "Juridiction administrative",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399", "https://www.culture.gouv.fr/presse/communiques-de-presse/publication-du-rapport-offrir-une-education-au-cinema-et-a-l-image-de-qualite-confie-a-monsieur-edouard-geffray"]
+  },
+  {
+    "id": "edouard-geffray-wh-3",
+    "role": "Directeur général de l'enseignement scolaire (DGESCO)",
+    "organization": "Ministère de l'Éducation nationale et de la Jeunesse",
+    "start_date": "2019-08",
+    "end_date": "2024-07",
+    "description": "Numéro 2 de la rue de Grenelle de 2019 à 2024. A piloté la mise en œuvre de la réforme du lycée et du baccalauréat sous Jean-Michel Blanquer, la gestion de la pandémie de Covid-19 dans les écoles, puis la mise en place des « groupes de besoins/niveau » du « Choc des savoirs » sous Gabriel Attal. Nommé par décret du 24 juillet 2019.",
+    "category": "Haute administration",
+    "source_url": ["https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038813200", "https://www.lefigaro.fr/politique/education-nationale-l-enarque-edouard-geffray-prend-la-tete-du-ministere-dont-il-fut-le-numero-deux-pendant-cinq-ans-20251013"]
+  },
+  {
+    "id": "edouard-geffray-wh-4",
+    "role": "Directeur général des ressources humaines (DGRH)",
+    "organization": "Ministère de l'Éducation nationale et ministère de l'Enseignement supérieur et de la Recherche",
+    "start_date": "2017-09",
+    "end_date": "2019-07",
+    "description": "Directeur général des ressources humaines des ministères de l'Éducation nationale et de l'Enseignement supérieur de 2017 à 2019.",
+    "category": "Haute administration",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399", "https://en.wikipedia.org/wiki/%C3%89douard_Geffray"]
+  },
+  {
+    "id": "edouard-geffray-wh-5",
+    "role": "Directeur de cabinet du garde des Sceaux",
+    "organization": "Ministère de la Justice (cabinet de François Bayrou)",
+    "start_date": "2017-05",
+    "end_date": "2017-06",
+    "description": "Nommé directeur de cabinet du garde des Sceaux François Bayrou en 2017, fonction de courte durée du fait du départ rapide de Bayrou du gouvernement.",
+    "category": "Cabinet ministériel",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89douard_Geffray", "https://www.letudiant.fr/educpros/personnalites/edouard-geffray.html"]
+  },
+  {
+    "id": "edouard-geffray-wh-6",
+    "role": "Secrétaire général de la CNIL",
+    "organization": "Commission nationale de l'informatique et des libertés (CNIL)",
+    "start_date": "2012",
+    "end_date": "2017",
+    "description": "Directeur des affaires juridiques, internationales et de l'expertise (2012) puis secrétaire général de la CNIL de 2012 à 2017.",
+    "category": "Autorité administrative indépendante",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89douard_Geffray", "https://www.letudiant.fr/educpros/personnalites/edouard-geffray.html"]
+  },
+  {
+    "id": "edouard-geffray-wh-7",
+    "role": "Membre du Conseil d'État (rapporteur, rapporteur public)",
+    "organization": "Conseil d'État",
+    "start_date": "2005",
+    "end_date": "2012",
+    "description": "Entré au Conseil d'État à la sortie de l'ENA en 2005. Successivement rapporteur à la 10e sous-section, responsable du centre de recherches et de diffusion juridiques, puis rapporteur public, jusqu'en 2012.",
+    "category": "Juridiction administrative",
+    "source_url": ["https://www.letudiant.fr/educpros/personnalites/edouard-geffray.html", "https://en.wikipedia.org/wiki/%C3%89douard_Geffray"]
+  },
+  {
+    "id": "edouard-geffray-wh-8",
+    "role": "Chargé d'enseignement (légistique, culture générale)",
+    "organization": "ENA / Institut national du service public (INSP) et Sciences Po Paris",
+    "start_date": "2019-02",
+    "end_date": "2025-06",
+    "description": "Activités d'enseignement rémunérées à titre accessoire : cours de légistique et de culture générale à l'ENA (2019-2025) et enseignement à l'Institut d'études politiques de Paris (février-juin 2025), selon sa déclaration HATVP.",
+    "category": "Enseignement",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=geffray-edouard-11399"]
+  }
+]

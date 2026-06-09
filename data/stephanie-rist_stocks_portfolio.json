@@ -1,0 +1,32 @@
+[
+  {
+    "id": "stephanie-rist-sp-1",
+    "holding": "Plan d'épargne en actions (PEA) — BNP",
+    "type": "instrument financier (PEA)",
+    "value": "173 633 €",
+    "as_of": "2026-02-21",
+    "detail": "Plan d'épargne en actions détenu auprès de BNP, valeur vénale déclarée à la HATVP dans la déclaration de situation patrimoniale du 21 février 2026.",
+    "status": "déclaré",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-sp-2",
+    "holding": "Compte-titres — BNP",
+    "type": "instrument financier (compte-titres)",
+    "value": "4 203 €",
+    "as_of": "2026-02-21",
+    "detail": "Compte-titres détenu auprès de BNP, valeur vénale déclarée à la HATVP.",
+    "status": "déclaré",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-sp-3",
+    "holding": "Assurance-vie — Apicil",
+    "type": "contrat d'assurance-vie",
+    "value": "326 050 €",
+    "as_of": "2026-02-21",
+    "detail": "Contrat d'assurance-vie souscrit le 20 juin 1994 (établissement déclaré « Apical », vraisemblablement Apicil), valeur vénale déclarée à la HATVP. Poste patrimonial le plus important de la déclaration.",
+    "status": "déclaré",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  }
+]

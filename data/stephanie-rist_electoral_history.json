@@ -1,0 +1,57 @@
+[
+  {
+    "id": "stephanie-rist-eh-1",
+    "election": "Élections législatives 2017",
+    "date": "2017-06-18",
+    "role_sought": "Députée de la 1re circonscription du Loiret",
+    "result": "Élue",
+    "vote_share": "second tour",
+    "opponent": "Charles-Éric Lemaignen (Les Républicains)",
+    "detail": "Première élection sous l'étiquette La République en marche, dans le contexte de la vague macroniste de 2017. Arrivée en tête au premier tour, elle l'emporte au second tour face au candidat LR Charles-Éric Lemaignen. Elle succède au député sortant Olivier Carré.",
+    "source_url": ["https://en.wikipedia.org/wiki/St%C3%A9phanie_Rist", "https://www.ici.fr/infos/politique/legislatives-qui-est-stephanie-rist-la-nouvelle-deputee-en-marche-de-la-1ere-circonscription-du-loiret-1497517166"]
+  },
+  {
+    "id": "stephanie-rist-eh-2",
+    "election": "Élections municipales 2020 (Orléans)",
+    "date": "2020-03",
+    "role_sought": "Conseillère municipale d'Orléans / conseillère métropolitaine",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue conseillère municipale d'Orléans et conseillère communautaire d'Orléans Métropole à l'issue des élections municipales de 2020, mandats déclarés à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+  },
+  {
+    "id": "stephanie-rist-eh-3",
+    "election": "Élections législatives 2022",
+    "date": "2022-06-19",
+    "role_sought": "Députée de la 1re circonscription du Loiret",
+    "result": "Réélue",
+    "vote_share": "57,21 %",
+    "opponent": "Ghislaine Kounowski (NUPES / Parti socialiste)",
+    "detail": "Réélue au second tour le 19 juin 2022 avec environ 57,21 % des suffrages exprimés face à la candidate de la NUPES (PS) Ghislaine Kounowski. Début de mandat le 22 juin 2022.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie", "https://www.apmnews.com/depeche/1/432585/stephanie-rist-reelue-deputee"]
+  },
+  {
+    "id": "stephanie-rist-eh-4",
+    "election": "Élections législatives anticipées 2024",
+    "date": "2024-07-07",
+    "role_sought": "Députée de la 1re circonscription du Loiret",
+    "result": "Réélue",
+    "vote_share": "67,7 %",
+    "opponent": "Tiffanie Rabault (Rassemblement national)",
+    "detail": "Réélue au second tour des législatives anticipées de 2024 avec environ 67,7 % des suffrages (34 909 voix) face à Tiffanie Rabault (RN). Au premier tour du 30 juin 2024, arrivée en tête avec environ 31,6 %, devant Ghislaine Kounowski (PS/NFP, ~31,47 %, qui s'était désistée pour faire barrage au RN) et Tiffanie Rabault (RN, ~28 %).",
+    "source_url": ["https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/direct-resultats-legislative-partielle-dans-le-loiret-decouvrez-quelle-candidate-remporte-le-second-tour-3287178.html", "https://datan.fr/deputes/loiret-45/depute_stephanie-rist"]
+  },
+  {
+    "id": "stephanie-rist-eh-5",
+    "election": "Élection législative partielle 2026 (1re circonscription du Loiret)",
+    "date": "2026-01-25",
+    "role_sought": "Députée de la 1re circonscription du Loiret",
+    "result": "Réélue",
+    "vote_share": "62,14 %",
+    "opponent": "Tiffanie Rabault (Rassemblement national)",
+    "detail": "Réélue au second tour de la législative partielle le 25 janvier 2026 avec 62,14 % des suffrages face à Tiffanie Rabault (RN), dans un contexte de forte abstention (proche de 70 %). Au premier tour du 18 janvier 2026, arrivée en tête avec environ 33,9 %, devant Tiffanie Rabault (RN, ~27,2 %), cette dernière devançant de 11 voix la candidate socialiste Ghislaine Kounowski. Étant ministre, elle ne siège pas elle-même ; sa suppléante Marie-Philippe Lubet siège à l'Assemblée.",
+    "source_url": ["https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/legislative-partielle-dans-le-loiret-la-ministre-de-la-sante-stephanie-rist-l-emporte-au-second-tour-face-au-rn_7764527.html", "https://lcp.fr/actualites/legislative-partielle-la-ministre-stephanie-rist-reelue-dans-le-loiret-sa-suppleante", "https://www.francebleu.fr/infos/politique/direct-qui-de-stephanie-rist-renaissance-ou-tiffanie-rabault-rn-sera-elue-deputee-du-loiret-1646928"]
+  }
+]

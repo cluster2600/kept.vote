@@ -1,0 +1,29 @@
+[
+  {
+    "id": "edouard-geffray-edu-1",
+    "institution": "École nationale d'administration (ENA)",
+    "qualification": "Diplômé de l'ENA",
+    "field": "Administration publique",
+    "years": "2003-2005",
+    "detail": "Promotion Romain Gary (2005). Sortie dans le corps du Conseil d'État.",
+    "source_url": ["https://www.letudiant.fr/educpros/personnalites/edouard-geffray.html", "https://en.wikipedia.org/wiki/%C3%89douard_Geffray"]
+  },
+  {
+    "id": "edouard-geffray-edu-2",
+    "institution": "Institut d'études politiques de Paris (Sciences Po)",
+    "qualification": "Diplôme de Sciences Po",
+    "field": "Sciences politiques",
+    "years": "non précisé",
+    "detail": "Diplômé de l'Institut d'études politiques de Paris.",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89douard_Geffray", "https://www.letudiant.fr/educpros/personnalites/edouard-geffray.html"]
+  },
+  {
+    "id": "edouard-geffray-edu-3",
+    "institution": "Université Paris-Sorbonne",
+    "qualification": "Maîtrise (master) d'histoire",
+    "field": "Histoire",
+    "years": "non précisé",
+    "detail": "Titulaire d'une maîtrise d'histoire.",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89douard_Geffray", "https://www.letudiant.fr/educpros/personnalites/edouard-geffray.html"]
+  }
+]
