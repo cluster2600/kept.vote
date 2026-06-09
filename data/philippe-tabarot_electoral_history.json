@@ -1,0 +1,46 @@
+[
+  {
+    "id": "senatoriales-2020",
+    "election": "French Senate election (senatoriales)",
+    "date": "2020-09-27",
+    "role_sought": "Senator for Alpes-Maritimes",
+    "result": "Elected",
+    "vote_share": "not verified (indirect election by grands electeurs)",
+    "opponent": "not applicable",
+    "detail": "Elected senator for Alpes-Maritimes on 27 September 2020. Mandate ended 23 January 2025 upon entering government.",
+    "source_url": ["https://www.senat.fr/senateur/tabarot_philippe20136b.html"]
+  },
+  {
+    "id": "municipales-cannes-2014",
+    "election": "French municipal election (Cannes)",
+    "date": "2014-03-30",
+    "role_sought": "Mayor of Cannes",
+    "result": "Defeated (second place)",
+    "vote_share": "not verified",
+    "opponent": "David Lisnard (UMP)",
+    "detail": "Candidate for mayor of Cannes in the 2014 municipal elections, finishing second to David Lisnard.",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Tabarot", "https://www.lepoint.fr/politique/municipales-les-resultats-du-second-tour-a-cannes-28-03-2014-1806789_20.php"]
+  },
+  {
+    "id": "regionales-paca-2015",
+    "election": "French regional election (PACA)",
+    "date": "2015-12",
+    "role_sought": "Regional councillor of Provence-Alpes-Cote d'Azur",
+    "result": "Elected",
+    "vote_share": "not verified",
+    "opponent": "not applicable",
+    "detail": "Elected to the PACA regional council; served as vice-president in charge of transport (2015-2021).",
+    "source_url": ["https://www.info.gouv.fr/personnalite/philippe-tabarot"]
+  },
+  {
+    "id": "cantonales-cannes-centre-2001",
+    "election": "French cantonal/departmental elections (Cannes-Centre)",
+    "date": "2001",
+    "role_sought": "Conseiller general of Alpes-Maritimes (canton Cannes-Centre)",
+    "result": "Elected",
+    "vote_share": "not verified",
+    "opponent": "not applicable",
+    "detail": "Elected conseiller general for the canton of Cannes-Centre; held the seat from 2001 to 2015.",
+    "source_url": ["https://www.info.gouv.fr/personnalite/philippe-tabarot"]
+  }
+]

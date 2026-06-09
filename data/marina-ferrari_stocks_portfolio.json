@@ -1,0 +1,22 @@
+[
+  {
+    "id": "caisse-epargne-parts-sociales",
+    "holding": "Caisse d'Épargne - parts sociales (cooperative shares)",
+    "type": "Cooperative shares (non-listed)",
+    "value": "200 EUR (10 parts)",
+    "as_of": "2025 (HATVP declaration filed 30 Nov 2025)",
+    "detail": "Direct holding of 10 cooperative shares in the Caisse d'Épargne; dividend of 3.49 EUR received in 2024. The only securities/financial instrument declared.",
+    "status": "declared (HATVP)",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-dsp34850-gouvernement.pdf", "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "cic-assurance-vie",
+    "holding": "CIC life-insurance contract (assurance-vie)",
+    "type": "Life-insurance policy",
+    "value": "3,397 EUR (surrender value)",
+    "as_of": "2025 (HATVP declaration filed 30 Nov 2025)",
+    "detail": "Life-insurance contract subscribed with CIC on 24 June 2006. No listed-equity portfolio declared.",
+    "status": "declared (HATVP)",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-dsp34850-gouvernement.pdf"]
+  }
+]

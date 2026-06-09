@@ -1,0 +1,29 @@
+[
+  {
+    "id": "loi-surete-transports-2025",
+    "law_name": "LOI n. 2025-379 du 28 avril 2025 relative au renforcement de la surete dans les transports (loi Tabarot)",
+    "year": "2025",
+    "area": "Transport security",
+    "description": "Senate bill (text n. 235, 2023-2024) authored by Senator Tabarot and colleagues, filed 28 December 2023; he was its rapporteur. Adopted by the Senate on 13 February 2024, definitively adopted by Parliament on 18 March 2025, partially validated by the Conseil constitutionnel on 24 April 2025 and promulgated on 28 April 2025. It authorises SNCF and RATP security agents to carry out pat-downs, creates an offence of train/bus surfing, strengthens sanctions for abandoned baggage and extends the 'security continuum' in public transport.",
+    "significance": "His signature legislative achievement, widely referred to as the 'loi Tabarot'; framed partly around securing transport for the 2024 Olympic and Paralympic Games. It substantially expanded the legal powers of transport security services.",
+    "source_url": ["https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051528207", "https://www.senat.fr/dossier-legislatif/ppl23-235.html", "https://www.vie-publique.fr/loi/293022-securite-dans-les-transports-loi-tabarot-du-28-avril-2025"]
+  },
+  {
+    "id": "rapport-concurrence-ferroviaire-2019",
+    "law_name": "Senate information report 'Reforme ferroviaire: garantir une ouverture a la concurrence reussie' (rapport n. 87, 2019-2020)",
+    "year": "2019",
+    "area": "Rail / competition policy",
+    "description": "Senate report on preparing a successful opening of rail services to competition. Tabarot was a long-standing advocate of opening regional rail (TER) to competition, both in the PACA region and in the Senate, building on the loi pour un nouveau pacte ferroviaire of 2018.",
+    "significance": "Reflects his central role and expertise on rail competition policy; not a statute he authored but a key part of his transport legislative record.",
+    "source_url": ["https://www.senat.fr/rap/r19-087/r19-087_mono.html"]
+  },
+  {
+    "id": "projet-loi-cadre-transports-2026",
+    "law_name": "Projet de loi-cadre relatif au developpement des transports (first-reading Senate adoption)",
+    "year": "2026",
+    "area": "Transport infrastructure and development",
+    "description": "Framework government bill on the development of transport, presented while Tabarot was Minister of Transport and adopted by a large majority in first reading at the Senate. Part of the 'Ambition France Transports' agenda.",
+    "significance": "Major ministerial legislative initiative on long-term transport development; still in the legislative process as of mid-2026.",
+    "source_url": ["https://www.ecologie.gouv.fr/presse/philippe-tabarot-se-felicite-tres-large-adoption-premiere-lecture-senat-du-projet-loi-cadre", "https://www.info.gouv.fr/dossier-de-presse/ambition-france-transports"]
+  }
+]

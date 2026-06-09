@@ -1,0 +1,74 @@
+[
+  {
+    "id": "salaire-cnrs-2020",
+    "year": "2020",
+    "type": "Revenu d'activité",
+    "label": "Directeur de recherche, CNRS",
+    "amount": "45 521 €",
+    "detail": "Rémunération nette déclarée comme directeur de recherche au CNRS (01/2020-10/2020). Source : déclaration d'intérêts HATVP déposée le 2 novembre 2025.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "salaire-bcg-2020",
+    "year": "2020",
+    "type": "Revenu d'activité (consultant)",
+    "label": "Partner and director, Boston Consulting Group",
+    "amount": "30 443 €",
+    "detail": "Rémunération nette déclarée comme associé du BCG (activité de consultant, 11/2020-04/2021). Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "salaire-bcg-2021",
+    "year": "2021",
+    "type": "Revenu d'activité (consultant)",
+    "label": "Partner and director, Boston Consulting Group",
+    "amount": "79 962 €",
+    "detail": "Rémunération nette déclarée comme associé du BCG. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "salaire-cnes-2021",
+    "year": "2021",
+    "type": "Revenu d'activité",
+    "label": "PDG du CNES",
+    "amount": "138 171 €",
+    "detail": "Rémunération nette déclarée comme président-directeur général du CNES. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "salaire-cnes-2022",
+    "year": "2022",
+    "type": "Revenu d'activité",
+    "label": "PDG du CNES",
+    "amount": "219 184 €",
+    "detail": "Rémunération nette déclarée comme PDG du CNES. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "salaire-cnes-2023",
+    "year": "2023",
+    "type": "Revenu d'activité",
+    "label": "PDG du CNES",
+    "amount": "230 839 €",
+    "detail": "Rémunération nette déclarée comme PDG du CNES. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "salaire-cnes-2024",
+    "year": "2024",
+    "type": "Revenu d'activité",
+    "label": "PDG du CNES",
+    "amount": "234 654 €",
+    "detail": "Rémunération nette déclarée comme PDG du CNES. Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "salaire-ministre-2025",
+    "year": "2025",
+    "type": "Revenu d'activité",
+    "label": "Ministre chargé de l'Enseignement supérieur et de la Recherche",
+    "amount": "94 906 €",
+    "detail": "Rémunération nette déclarée comme ministre (12/2024-10/2025 ; 0 € au titre de 2024). Source : déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  }
+]

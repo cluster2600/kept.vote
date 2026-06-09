@@ -1,0 +1,22 @@
+[
+  {
+    "id": "life-insurance-carel-2019",
+    "holding": "Life-insurance policy (assurance vie), Carel",
+    "type": "Life insurance",
+    "value": "19,779 EUR (declared venal value)",
+    "as_of": "2025-10-22",
+    "detail": "Policy subscribed 31 May 2019, subscriber Vincent Jeanbrun. Declared to HATVP.",
+    "status": "declared (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "no-financial-instruments",
+    "holding": "Listed/financial instruments and unlisted securities",
+    "type": "Securities",
+    "value": "none declared",
+    "as_of": "2025-10-22",
+    "detail": "HATVP declaration of patrimony records no financial instruments (heading 4: Neant) and no unlisted securities (heading 3: Neant). He holds ordinary bank and savings accounts only (Societe Generale, BNP Paribas, Boursobank, Bourse Direct), the largest being a 140,000 EUR savings account and a 24,128 EUR Livret A.",
+    "status": "declared (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  }
+]

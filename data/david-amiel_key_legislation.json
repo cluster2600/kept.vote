@@ -1,0 +1,20 @@
+[
+  {
+    "id": "proposition-loi-renovation-energetique",
+    "law_name": "Travaux parlementaires sur le logement et la rénovation énergétique des bâtiments",
+    "year": "2023",
+    "area": "Logement / transition énergétique",
+    "description": "Au sein de la commission des finances, David Amiel s'est particulièrement investi sur les questions de logement et de rénovation thermique des bâtiments, notamment pour pousser les banques à financer l'effort de rénovation.",
+    "significance": "Illustre son orientation parlementaire sur le logement et le financement de la rénovation énergétique.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel", "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1332_proposition-loi"]
+  },
+  {
+    "id": "proposition-resolution-antisionisme",
+    "law_name": "Proposition de résolution relative à la lutte contre l'antisémitisme (n° 2403)",
+    "year": "2024",
+    "area": "Libertés publiques / lutte contre l'antisémitisme",
+    "description": "Investissement sur la pénalisation des discours appelant à la 'négation d'un État' ou présentant des actes terroristes comme une 'résistance légitime', et sur la distinction entre antisionisme et antisémitisme.",
+    "significance": "Reflète son engagement public sur les questions liées à l'antisémitisme et au sionisme.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel", "https://www.assemblee-nationale.fr/dyn/15/textes/l15b2403_proposition-resolution"]
+  }
+]

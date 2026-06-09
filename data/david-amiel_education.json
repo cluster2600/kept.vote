@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lycee-louis-le-grand",
+    "institution": "Lycée Louis-le-Grand (Paris)",
+    "qualification": "Études secondaires / Baccalauréat",
+    "field": "Enseignement secondaire",
+    "years": "jusqu'à 2010",
+    "detail": "Effectue ses études secondaires au lycée Louis-le-Grand à Paris.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel"]
+  },
+  {
+    "id": "lycee-henri-iv-hypokhagne",
+    "institution": "Lycée Henri-IV (Paris)",
+    "qualification": "Classe préparatoire (hypokhâgne)",
+    "field": "Lettres et sciences humaines",
+    "years": "après le baccalauréat",
+    "detail": "Suit une hypokhâgne au lycée Henri-IV avant d'intégrer l'École normale supérieure.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel"]
+  },
+  {
+    "id": "ecole-normale-superieure",
+    "institution": "École normale supérieure (ENS)",
+    "qualification": "Diplômé de l'ENS (normalien)",
+    "field": "Économie / sciences sociales",
+    "years": "2011",
+    "detail": "Normalien, diplômé de l'École normale supérieure. Formation d'économiste.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel", "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/normalien-macroniste-historique-depute-a-29-ans-qui-est-david-amiel-le-nouveau-ministre-des-comptes-publics_7822934.html"]
+  },
+  {
+    "id": "princeton-university",
+    "institution": "Princeton University (États-Unis)",
+    "qualification": "Études supérieures en économie",
+    "field": "Économie",
+    "years": "années 2010",
+    "detail": "Poursuit ses études à l'université de Princeton, où il côtoie notamment l'économiste Paul Krugman.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel"]
+  }
+]

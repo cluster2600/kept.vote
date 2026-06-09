@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lr-party-membership-suspended",
+    "item": "Les Republicains party membership (suspended)",
+    "type": "Political party affiliation",
+    "period": "1997 PR/DL, 2002 UMP, LR since 2015; suspended October 2025",
+    "value": "not applicable",
+    "detail": "Long-standing member of the French centre-right (PR until 1997, DL 1997-2002, UMP 2002-2015, LR since 2015). In October 2025 the LR political bureau suspended him from party functions over his participation in the Lecornu government; he confirmed having stepped back from all party functions. He may rejoin the party once he is no longer a minister.",
+    "status": "membership suspended while in government",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Tabarot", "https://lcp.fr/actualites/lecornu-2-les-ministres-les-republicains-entres-au-gouvernement-exclus-de-leur-parti"]
+  },
+  {
+    "id": "family-michele-tabarot",
+    "item": "Family link to LR deputy Michele Tabarot (sister)",
+    "type": "Family / political relationship",
+    "period": "ongoing",
+    "value": "not applicable",
+    "detail": "Sister Michele Tabarot is an LR deputy and former mayor of Le Cannet. The PNF preliminary investigation concerns local posts held by Philippe Tabarot in Le Cannet structures during her mayoralty (2018-2020). His late father Pierre Tabarot was also a local political figure.",
+    "status": "declared / public knowledge",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Tabarot", "https://www.lexpress.fr/politique/les-tabarot-une-saga-politico-familiale_1269224.html"]
+  },
+  {
+    "id": "regional-rail-competition-advocacy",
+    "item": "Advocacy for opening regional rail (TER) to competition",
+    "type": "Policy interest / professional record",
+    "period": "2015-present",
+    "value": "not applicable",
+    "detail": "As PACA vice-president for transport, he was a leading promoter of opening regional rail services to competition (notably Marseille-Nice), a policy he continued to champion as senator and as Minister of Transport.",
+    "status": "public record",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Tabarot", "https://www.senat.fr/rap/r19-087/r19-087_mono.html"]
+  }
+]

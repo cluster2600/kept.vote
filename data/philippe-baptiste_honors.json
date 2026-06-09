@@ -1,0 +1,26 @@
+[
+  {
+    "id": "legion-honneur-2022",
+    "honor": "Chevalier de la Légion d'honneur",
+    "awarded_by": "République française (décret du 29 décembre 2022)",
+    "year": "2022",
+    "detail": "Nommé dans l'ordre national de la Légion d'honneur par décret du 29 décembre 2022, au titre de sa carrière d'ingénieur et de président du CNES (28 ans de services).",
+    "source_url": ["https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046850463"]
+  },
+  {
+    "id": "prix-robert-faure-1999",
+    "honor": "Prix Robert Faure",
+    "awarded_by": "Société française de recherche opérationnelle et d'aide à la décision (ROADEF)",
+    "year": "1999",
+    "detail": "Prix décerné par la ROADEF aux jeunes chercheurs (moins de 36 ans) en recherche opérationnelle, en hommage au professeur Robert Faure, attribué tous les trois ans.",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://www.roadef.org/roadef-prix-robert-faure"]
+  },
+  {
+    "id": "ercim-cor-baayen-2000",
+    "honor": "ERCIM Cor Baayen Award",
+    "awarded_by": "European Research Consortium for Informatics and Mathematics (ERCIM)",
+    "year": "2000",
+    "detail": "Prix récompensant en novembre 2000 la qualité de sa thèse de doctorat et de ses travaux, décerné à un jeune chercheur d'un pays membre de l'ERCIM.",
+    "source_url": ["https://www.ercim.eu/news/498-philippe-baptiste-former-ercim-cor-baayen-award-winner-appointed-cnes-president", "https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  }
+]

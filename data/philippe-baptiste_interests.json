@@ -1,0 +1,32 @@
+[
+  {
+    "id": "conseil-scientifique-esiee",
+    "item": "Membre du conseil scientifique de l'ESIEE Paris",
+    "type": "Fonction bénévole",
+    "period": "jusqu'en 2025-01",
+    "value": "non rémunérée",
+    "detail": "Fonction bénévole déclarée susceptible de faire naître un conflit d'intérêts ; démission déposée et acceptée en janvier 2025. Déclaration d'intérêts HATVP.",
+    "status": "ended",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "advisory-board-lorraine",
+    "item": "Membre de l'advisory board de Lorraine Université d'Excellence",
+    "type": "Fonction bénévole",
+    "period": "jusqu'en 2024",
+    "value": "non rémunérée",
+    "detail": "Fonction bénévole déclarée ; démission envoyée et acceptée en 2024. Déclaration d'intérêts HATVP.",
+    "status": "ended",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "conjoint-prag-universite",
+    "item": "Activité professionnelle du conjoint : PRAG (professeur agrégé) à l'université",
+    "type": "Intérêt familial déclaré",
+    "period": "à la date de la nomination",
+    "value": "not applicable",
+    "detail": "Activité du conjoint déclarée au titre du 5° de la déclaration d'intérêts (employeur : université, données non publiées).",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  }
+]

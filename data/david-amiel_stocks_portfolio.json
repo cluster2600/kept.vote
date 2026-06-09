@@ -1,0 +1,12 @@
+[
+  {
+    "id": "none-declared",
+    "holding": "none declared",
+    "type": "not applicable",
+    "value": "not applicable",
+    "as_of": "not applicable",
+    "detail": "Aucun portefeuille d'actions ou d'instruments financiers cotés n'a été détaillé dans les sources publiques consultées. La déclaration d'instruments financiers déposée auprès de la HATVP n'a pas été reprise dans le détail.",
+    "status": "not disclosed in consulted sources",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=amiel-david"]
+  }
+]

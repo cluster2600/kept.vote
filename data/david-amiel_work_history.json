@@ -1,0 +1,102 @@
+[
+  {
+    "id": "intern-cabinet-macron-bercy-2015",
+    "role": "Stagiaire / collaborateur au cabinet",
+    "organization": "Ministère de l'Économie et des Finances (cabinet d'Emmanuel Macron)",
+    "start_date": "2015",
+    "end_date": "2015",
+    "description": "Travaille au cabinet d'Emmanuel Macron, alors ministre de l'Économie et des Finances.",
+    "category": "public-service",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel"]
+  },
+  {
+    "id": "conseiller-elysee-2017",
+    "role": "Conseiller à la présidence de la République",
+    "organization": "Présidence de la République (Élysée)",
+    "start_date": "2017-05",
+    "end_date": "2019-03",
+    "description": "Conseiller d'Emmanuel Macron à l'Élysée, chargé notamment de la coordination des conseillers techniques. Considéré comme l'un des plumes et idéologues de la macronie.",
+    "category": "public-service",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel", "https://www.lexpress.fr/actualite/qui-est-david-amiel-le-conseiller-de-macron-qui-quitte-l-elysee_2066025.html"]
+  },
+  {
+    "id": "essayiste-2019",
+    "role": "Co-auteur / essayiste",
+    "organization": "Éditions Fayard",
+    "start_date": "2019",
+    "end_date": "2019",
+    "description": "Co-écrit avec Ismaël Emelien l'essai 'Le progrès ne tombe pas du ciel' (Fayard, 2019), tentative de théorisation du macronisme.",
+    "category": "other",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel", "https://www.lemonde.fr/politique/article/2019/03/26/quand-ismael-emelien-et-david-amiel-tentent-de-definir-le-corpus-du-macronisme_5441428_823448.html"]
+  },
+  {
+    "id": "equipe-griveaux-2019",
+    "role": "Membre de l'équipe de campagne",
+    "organization": "Campagne de Benjamin Griveaux (municipales de Paris 2020)",
+    "start_date": "2019",
+    "end_date": "2020",
+    "description": "Rejoint l'équipe de Benjamin Griveaux en vue des élections municipales de 2020 à Paris.",
+    "category": "political",
+    "source_url": ["https://www.lefigaro.fr/politique/david-amiel-l-etoile-montante-de-la-macronie-integre-l-equipe-griveaux-20191027"]
+  },
+  {
+    "id": "conseiller-paris-15e-2020",
+    "role": "Conseiller de Paris (opposition)",
+    "organization": "Conseil de Paris / Mairie du 15e arrondissement",
+    "start_date": "2020",
+    "end_date": "2022",
+    "description": "Siège dans l'opposition au Conseil de Paris, représentant le 15e arrondissement, après la défaite de la majorité présidentielle à Paris.",
+    "category": "political",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel", "https://www.lemonde.fr/election-presidentielle-2022/article/2022/03/29/election-presidentielle-2022-le-retour-de-david-amiel-derriere-le-projet-du-candidat-macron_6119625_6059010.html"]
+  },
+  {
+    "id": "directeur-strategie-la-poste-2021",
+    "role": "Directeur de la stratégie (branche Grand Public et Numérique)",
+    "organization": "La Poste",
+    "start_date": "2021",
+    "end_date": "2022",
+    "description": "Directeur de la stratégie de la branche Grand Public et Numérique du groupe La Poste, poste à l'origine d'une mesure de déport une fois ministre.",
+    "category": "private-sector",
+    "source_url": ["https://www.aefinfo.fr/depeche/740689-une-mesure-de-deport-et-plusieurs-nominations-au-cabinet-du-ministre-de-la-fonction-publique-david-amiel"]
+  },
+  {
+    "id": "campagne-macron-2022",
+    "role": "Conseiller / co-architecte du programme",
+    "organization": "Campagne présidentielle d'Emmanuel Macron (2022)",
+    "start_date": "2022",
+    "end_date": "2022",
+    "description": "Quitte La Poste pour rejoindre la campagne de réélection d'Emmanuel Macron, dont il est l'un des architectes du programme.",
+    "category": "political",
+    "source_url": ["https://www.lemonde.fr/election-presidentielle-2022/article/2022/03/29/election-presidentielle-2022-le-retour-de-david-amiel-derriere-le-projet-du-candidat-macron_6119625_6059010.html"]
+  },
+  {
+    "id": "depute-paris-13e-2022",
+    "role": "Député de la 13e circonscription de Paris",
+    "organization": "Assemblée nationale",
+    "start_date": "2022-06-22",
+    "end_date": "2025-11-12",
+    "description": "Député (Ensemble! / Renaissance), membre de la commission des finances. Travaille notamment sur le logement et la rénovation énergétique des bâtiments. Mandat suspendu puis clos après son entrée au gouvernement.",
+    "category": "political",
+    "source_url": ["https://www.assemblee-nationale.fr/dyn/deputes/PA795950", "https://www.nosdeputes.fr/david-amiel"]
+  },
+  {
+    "id": "ministre-delegue-fonction-publique-2025",
+    "role": "Ministre délégué chargé de la Fonction publique et de la Réforme de l'État",
+    "organization": "Gouvernement Sébastien Lecornu",
+    "start_date": "2025-10-12",
+    "end_date": "2026-02-21",
+    "description": "Ministre délégué auprès de la ministre de l'Action et des Comptes publics Amélie de Montchalin.",
+    "category": "government",
+    "source_url": ["https://www.liberation.fr/politique/sebastien-amiel-un-bebe-macron-a-la-fonction-publique-et-la-reforme-de-letat-20251012_QXFS7BAA7JAKPOJFGEEOY4BTVA/", "https://www.info.gouv.fr/personnalite/david-amiel"]
+  },
+  {
+    "id": "ministre-action-comptes-publics-2026",
+    "role": "Ministre de l'Action et des Comptes publics",
+    "organization": "Gouvernement Sébastien Lecornu",
+    "start_date": "2026-02-22",
+    "end_date": "en fonction",
+    "description": "Nommé ministre de l'Action et des Comptes publics, succédant à Amélie de Montchalin (nommée Première présidente de la Cour des comptes). Plus jeune membre du gouvernement.",
+    "category": "government",
+    "source_url": ["https://www.elysee.fr/emmanuel-macron/2026/02/22/nomination-de-david-amiel-ministre-de-laction-et-des-comptes-publics", "https://www.info.gouv.fr/personnalite/david-amiel"]
+  }
+]

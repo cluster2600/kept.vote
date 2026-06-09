@@ -1,0 +1,24 @@
+[
+  {
+    "id": "apartment-savoie-73-2011",
+    "property": "Apartment, 116 sqm",
+    "location": "Département de la Savoie (73)",
+    "transaction_type": "Acquisition (purchase)",
+    "date": "2011",
+    "value": "270,000 EUR (declared venal value)",
+    "detail": "Undivided property (bien indivis); full ownership of a 60% share. Acquisition price 300,000 EUR plus 15,100 EUR of works. Financed in part by two CERA mortgages dated January 2011.",
+    "status": "declared (HATVP DSP, 30 Nov 2025)",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-dsp34850-gouvernement.pdf"]
+  },
+  {
+    "id": "house-savoie-73-1996",
+    "property": "Individual house, 180 sqm (0.61 ha of land)",
+    "location": "Département de la Savoie (73)",
+    "transaction_type": "Donation (gift)",
+    "date": "1996",
+    "value": "150,000 EUR (declared venal value)",
+    "detail": "Undivided property (bien indivis); bare ownership (nue-propriété) of a 50% share, received by donation in 1996. Declared acquisition value 65,000 EUR.",
+    "status": "declared (HATVP DSP, 30 Nov 2025)",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-dsp34850-gouvernement.pdf"]
+  }
+]

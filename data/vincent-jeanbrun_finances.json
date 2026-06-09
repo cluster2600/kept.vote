@@ -1,0 +1,56 @@
+[
+  {
+    "id": "income-mayor-2023",
+    "year": "2023",
+    "type": "Elected-office remuneration",
+    "label": "Net indemnity as Mayor of L'Hay-les-Roses",
+    "amount": "56874 EUR",
+    "detail": "Net annual mayoral indemnity declared to HATVP (2020: 47,004; 2021: 55,079; 2022: 55,820; 2023: 56,874; 2024: 30,666 EUR partial year).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "income-deputy-2025",
+    "year": "2025",
+    "type": "Elected-office remuneration",
+    "label": "Net indemnity as Member of the National Assembly",
+    "amount": "55429 EUR",
+    "detail": "Net parliamentary indemnity declared to HATVP for 2025 (2024 partial: 34,125 EUR). Deputy mandate July 2024-November 2025.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "income-regional-councillor-2025",
+    "year": "2025",
+    "type": "Elected-office remuneration",
+    "label": "Net indemnity as Regional Councillor of Ile-de-France",
+    "amount": "27756 EUR",
+    "detail": "Net regional-councillor indemnity declared to HATVP (2021: 12,929; 2022: 12,621; 2023: 10,566; 2024: 12,917; 2025: 27,756 EUR).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "income-syndicat-cimetiere-2024",
+    "year": "2024",
+    "type": "Intercommunal-office remuneration",
+    "label": "Net indemnity, President of the intercommunal cemetery syndicate",
+    "amount": "12593 EUR",
+    "detail": "Net annual indemnity declared to HATVP (range approx. 11,936-12,593 EUR per year, 2020-2024).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "income-syndicat-geothermie-2024",
+    "year": "2024",
+    "type": "Intercommunal-office remuneration",
+    "label": "Net indemnity, President of the intercommunal geothermal syndicate",
+    "amount": "11740 EUR",
+    "detail": "Net annual indemnity declared to HATVP (range approx. 11,740-12,600 EUR per year, 2020-2024).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "income-book-royalties-2023",
+    "year": "2023",
+    "type": "Private income (royalties)",
+    "label": "Author remuneration, Editions Albin Michel",
+    "amount": "33587 EUR",
+    "detail": "Net remuneration as author of a book published by Albin Michel, declared to HATVP for the period September-December 2023.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  }
+]

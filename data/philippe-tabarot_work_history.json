@@ -1,0 +1,82 @@
+[
+  {
+    "id": "minister-transport-2024",
+    "role": "Minister of Transport / Minister in charge of Transport",
+    "organization": "Government of France (Bayrou, then Lecornu)",
+    "start_date": "2024-12-23",
+    "end_date": "present",
+    "description": "Appointed minister attached to the Minister of Territorial Planning and Decentralisation, in charge of Transport, on 23 December 2024; portfolio renamed Minister of Transport on 12 October 2025 and confirmed in the cabinet formed after the 26 February 2026 reshuffle. Based at the Hotel de Roquelaure, oversees rail, road, maritime, air and active mobility policy.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/philippe-tabarot", "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053586369"]
+  },
+  {
+    "id": "senator-alpes-maritimes-2020",
+    "role": "Senator for Alpes-Maritimes",
+    "organization": "Senate of France",
+    "start_date": "2020-10-01",
+    "end_date": "2025-01-23",
+    "description": "Elected 27 September 2020; member of the Committee on Territorial Planning and Sustainable Development (first vice-president), Secretary of the Senate bureau. Mandate ended 23 January 2025 because of his entry into government. Specialist in transport and rail policy.",
+    "category": "legislature",
+    "source_url": ["https://www.senat.fr/senateur/tabarot_philippe20136b.html"]
+  },
+  {
+    "id": "shadow-transport-secretary-2023",
+    "role": "Transport secretary, LR shadow cabinet",
+    "organization": "Les Republicains (contre-gouvernement d'Eric Ciotti)",
+    "start_date": "2023",
+    "end_date": "2024",
+    "description": "Designated as the official in charge of the transport portfolio in the LR shadow cabinet set up by party president Eric Ciotti.",
+    "category": "party",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Tabarot"]
+  },
+  {
+    "id": "regional-councillor-paca-2015",
+    "role": "Regional councillor and vice-president for transport",
+    "organization": "Regional Council of Provence-Alpes-Cote d'Azur (PACA)",
+    "start_date": "2015",
+    "end_date": "2021",
+    "description": "Vice-president of the PACA region in charge of transport; led the region's pioneering opening of regional rail (TER) services to competition, notably on the Marseille-Nice line.",
+    "category": "local-government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/philippe-tabarot", "https://en.wikipedia.org/wiki/Philippe_Tabarot"]
+  },
+  {
+    "id": "departmental-councillor-06-2001",
+    "role": "Conseiller general (departmental councillor)",
+    "organization": "Departmental Council of Alpes-Maritimes",
+    "start_date": "2001",
+    "end_date": "2015",
+    "description": "Conseiller general for the canton of Cannes-Centre; served as vice-president of the departmental council.",
+    "category": "local-government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/philippe-tabarot"]
+  },
+  {
+    "id": "cannes-municipal-councillor",
+    "role": "Municipal councillor",
+    "organization": "City of Cannes",
+    "start_date": "not verified",
+    "end_date": "not verified",
+    "description": "Member of the municipal council of Cannes; candidate for mayor of Cannes in the 2014 municipal elections, finishing second to David Lisnard.",
+    "category": "local-government",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Tabarot"]
+  },
+  {
+    "id": "gip-le-cannet-director",
+    "role": "Director of a tourism and cultural groupement d'interet public (GIP) and communications adviser",
+    "organization": "Commune of Le Cannet / local GIP (Alpes-Maritimes)",
+    "start_date": "2018",
+    "end_date": "2020",
+    "description": "Held posts as director of a tourism/cultural GIP and as communications adviser for the commune of Le Cannet (then led by his sister Michele Tabarot). These remunerations (2018-2020) are the subject of a PNF preliminary investigation; no charges brought.",
+    "category": "local-government",
+    "source_url": ["https://www.franceinfo.fr/enquetes-franceinfo/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-prise-illegale-d-interets_7011494.html"]
+  },
+  {
+    "id": "juriste-selarl-clerc",
+    "role": "Juriste (legal professional)",
+    "organization": "SELARL Philippe Clerc",
+    "start_date": "not verified",
+    "end_date": "not verified",
+    "description": "Listed in his HATVP patrimonial declaration as a professional legal activity (juriste). Official profession of record: charge de mission.",
+    "category": "private-sector",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=tabarot-philippe"]
+  }
+]

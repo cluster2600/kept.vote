@@ -1,0 +1,22 @@
+[
+  {
+    "id": "selarl-philippe-clerc",
+    "entity": "SELARL Philippe Clerc",
+    "role": "Juriste (legal professional activity)",
+    "ownership_stake": "none declared",
+    "period": "as declared 2025",
+    "status": "declared",
+    "detail": "Listed in the HATVP declaration as a professional legal activity (juriste). No ownership stake in the firm is indicated in the public sources consulted.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=tabarot-philippe"]
+  },
+  {
+    "id": "gip-tourism-cultural-le-cannet",
+    "entity": "Local tourism/cultural groupement d'interet public (GIP), Le Cannet area",
+    "role": "Director (2018-2020)",
+    "ownership_stake": "not applicable (public-interest grouping)",
+    "period": "2018-2020",
+    "status": "past; subject of PNF preliminary investigation, no charges",
+    "detail": "Directed a local tourism and cultural GIP between 2018 and 2020. Remuneration from this post is part of the PNF preliminary investigation into possible misuse of public funds; no charges have been brought.",
+    "source_url": ["https://www.franceinfo.fr/enquetes-franceinfo/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-prise-illegale-d-interets_7011494.html"]
+  }
+]

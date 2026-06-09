@@ -1,0 +1,42 @@
+[
+  {
+    "id": "modem-savoie-presidency",
+    "item": "Présidente de la fédération départementale du MoDem (Savoie)",
+    "type": "Party office",
+    "period": "since November 2020",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Unpaid leadership of the Savoie branch of the Mouvement Démocrate, declared in HATVP interests filing.",
+    "status": "declared (HATVP)",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "spouse-activity-adil74",
+    "item": "Spouse's professional activity (Directeur de l'ADIL 74 / agent immobilier indépendant)",
+    "type": "Family member professional activity",
+    "period": "as of 2025 declaration",
+    "value": "not applicable",
+    "detail": "HATVP declaration lists the spouse/partner as director of ADIL 74 (departmental housing-information agency) and as an independent real-estate agent. Disclosed for conflict-of-interest transparency.",
+    "status": "declared (HATVP)",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "no-consulting-activity",
+    "item": "Consulting activities",
+    "type": "Consulting",
+    "period": "5 years preceding 2025 declaration",
+    "value": "not applicable",
+    "detail": "Declared 'Néant' (none) for consulting activities in the HATVP declaration of interests.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "no-conflict-volunteer-roles",
+    "item": "Voluntary functions liable to create a conflict of interest",
+    "type": "Volunteer roles",
+    "period": "as of 2025 declaration",
+    "value": "not applicable",
+    "detail": "Declared 'Néant' (none) in the relevant HATVP category.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  }
+]

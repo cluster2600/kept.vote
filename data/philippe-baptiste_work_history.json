@@ -1,0 +1,112 @@
+[
+  {
+    "id": "researcher-cnrs-1999",
+    "role": "Chercheur",
+    "organization": "Centre national de la recherche scientifique (CNRS)",
+    "start_date": "1999",
+    "end_date": "2000",
+    "description": "Chercheur en recherche opérationnelle, optimisation combinatoire et algorithmique.",
+    "category": "research",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://cnes.fr/philippe-baptiste"]
+  },
+  {
+    "id": "researcher-ibm-watson-2000",
+    "role": "Chercheur",
+    "organization": "IBM T. J. Watson Research Center",
+    "start_date": "2000",
+    "end_date": "2001",
+    "description": "Chercheur au centre de recherche d'IBM aux États-Unis.",
+    "category": "research",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  },
+  {
+    "id": "professeur-polytechnique-2001",
+    "role": "Professeur et directeur de laboratoire",
+    "organization": "École polytechnique",
+    "start_date": "2001",
+    "end_date": "2012",
+    "description": "Professeur à l'École polytechnique pendant plus de dix ans ; auteur de plusieurs ouvrages et d'environ 150 publications scientifiques ; directeur du laboratoire d'informatique (LIX) ; créateur de l'Institut des sciences de l'information et de leurs interactions.",
+    "category": "academia",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://cnes.fr/philippe-baptiste"]
+  },
+  {
+    "id": "ddg-science-cnrs-2014",
+    "role": "Directeur général délégué à la science",
+    "organization": "Centre national de la recherche scientifique (CNRS)",
+    "start_date": "2014",
+    "end_date": "2016",
+    "description": "Directeur général délégué à la science du CNRS.",
+    "category": "research",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://www.letudiant.fr/educpros/personnalites/baptiste-philippe.html"]
+  },
+  {
+    "id": "cso-cto-total-2016",
+    "role": "Directeur scientifique puis directeur technique",
+    "organization": "Total (TotalEnergies)",
+    "start_date": "2016",
+    "end_date": "2017",
+    "description": "Chief Scientific Officer en 2016 puis Chief Technology Officer du groupe pétrolier et chimique Total.",
+    "category": "private-sector",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://totalenergies.com/media/news/press-releases/philippe-baptiste-appointed-senior-vice-president-scientific-development-total"]
+  },
+  {
+    "id": "dircab-vidal-2017",
+    "role": "Directeur de cabinet",
+    "organization": "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation",
+    "start_date": "2017",
+    "end_date": "2019",
+    "description": "Directeur de cabinet de la ministre de l'Enseignement supérieur, de la Recherche et de l'Innovation Frédérique Vidal.",
+    "category": "government-cabinet",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://cnes.fr/philippe-baptiste"]
+  },
+  {
+    "id": "conseiller-pm-philippe-2019",
+    "role": "Conseiller du Premier ministre",
+    "organization": "Cabinet du Premier ministre Édouard Philippe",
+    "start_date": "2019",
+    "end_date": "2020",
+    "description": "Conseiller du Premier ministre Édouard Philippe, en charge notamment de la politique spatiale.",
+    "category": "government-cabinet",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  },
+  {
+    "id": "partner-bcg-2020",
+    "role": "Partner and director",
+    "organization": "Boston Consulting Group (BCG)",
+    "start_date": "2020-11",
+    "end_date": "2021-04",
+    "description": "Associé (Partner and director) du bureau parisien du cabinet de conseil en stratégie Boston Consulting Group. Activité déclarée à la HATVP comme activité de consultant.",
+    "category": "private-sector",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "pdg-cnes-2021",
+    "role": "Président-directeur général",
+    "organization": "Centre national d'études spatiales (CNES)",
+    "start_date": "2021-04-14",
+    "end_date": "2025-01",
+    "description": "12e président-directeur général de l'agence spatiale française, nommé en conseil des ministres. À ce titre représentant de la France au conseil de l'Agence spatiale européenne (ESA) et président de CNES Participations. Succède à Jean-Yves Le Gall ; remplacé par Lionel Suchet (intérim).",
+    "category": "public-administration",
+    "source_url": ["https://cnes.fr/philippe-baptiste", "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436", "https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  },
+  {
+    "id": "ministre-delegue-esr-2024",
+    "role": "Ministre délégué chargé de l'Enseignement supérieur et de la Recherche",
+    "organization": "Gouvernement (Bayrou puis Lecornu)",
+    "start_date": "2024-12-23",
+    "end_date": "2025-10-12",
+    "description": "Ministre chargé de l'Enseignement supérieur et de la Recherche, d'abord auprès de la ministre Élisabeth Borne dans le gouvernement Bayrou, puis dans le gouvernement Lecornu. Succède à Patrick Hetzel.",
+    "category": "ministerial",
+    "source_url": ["https://www.enseignementsup-recherche.gouv.fr/fr/philippe-baptiste-ministre-de-l-enseignement-superieur-de-la-recherche-et-de-l-espace-100138", "https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  },
+  {
+    "id": "ministre-esr-espace-2025",
+    "role": "Ministre de l'Enseignement supérieur, de la Recherche et de l'Espace",
+    "organization": "Gouvernement Sébastien Lecornu",
+    "start_date": "2025-10-12",
+    "end_date": "present",
+    "description": "Ministre de plein exercice de l'Enseignement supérieur, de la Recherche et de l'Espace. Maintenu lors du remaniement du 26 février 2026.",
+    "category": "ministerial",
+    "source_url": ["https://www.enseignementsup-recherche.gouv.fr/fr/philippe-baptiste-ministre-de-l-enseignement-superieur-de-la-recherche-et-de-l-espace-100138", "https://www.aefinfo.fr/depeche/738998-philippe-baptiste-nomme-ministre-de-lesr-et-de-lespace-dans-le-gouvernement-lecornu-ii"]
+  }
+]

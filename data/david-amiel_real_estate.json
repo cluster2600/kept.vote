@@ -1,0 +1,13 @@
+[
+  {
+    "id": "real-estate-not-detailed",
+    "property": "non détaillé publiquement",
+    "location": "not applicable",
+    "transaction_type": "not applicable",
+    "date": "not applicable",
+    "value": "not applicable",
+    "detail": "Le détail des biens immobiliers figurant dans la déclaration de patrimoine de David Amiel auprès de la HATVP n'a pas été repris dans les sources publiques consultées. Aucun bien immobilier précis ne peut être documenté à ce stade.",
+    "status": "not disclosed in consulted sources",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=amiel-david"]
+  }
+]

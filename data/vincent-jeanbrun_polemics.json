@@ -1,0 +1,68 @@
+[
+  {
+    "id": "car-ram-attack-home-2023",
+    "title": "Car-ramming attack on Jeanbrun's family home during the July 2023 riots (he and his family were the targets/victims)",
+    "period": "2023-07",
+    "category": "attack / security incident (subject as victim)",
+    "description": "On the night of 1-2 July 2023, during the nationwide riots that followed the killing of Nahel Merzouk by a police officer in Nanterre, the family home of Vincent Jeanbrun (then mayor of L'Hay-les-Roses) was attacked. A car loaded with incendiary material was rammed at speed into the property's gate and driven against the house at around 1:30 am while his wife and two young children (aged five and seven) were inside; Jeanbrun himself was at the town hall managing the unrest. His wife was injured fleeing the building (the Creteil prosecutor reported she fractured her tibia). Jeanbrun described it as an attempted assassination. The incident was widely condemned across the political spectrum and prompted Jeanbrun to be placed under judicial protection.",
+    "status": "Investigation opened by the Creteil prosecutor and a judicial inquiry (information judiciaire) for attempted assassination (tentative d'assassinat), plus destruction of property by a dangerous means in an organised gang and criminal-association charges; around twelve people were arrested and taken into custody in July 2023. Jeanbrun is the victim/target, not a suspect. A final trial verdict in this specific case was not confirmed in available public sources as of June 2026.",
+    "confidence_score": "0.95",
+    "key_facts": [
+      "Date: night of 1-2 July 2023, during the post-Nahel-Merzouk riots.",
+      "A burning/incendiary-laden car was rammed into Jeanbrun's home in L'Hay-les-Roses.",
+      "His wife and two young children were inside; his wife was injured (reported tibia fracture) fleeing.",
+      "Creteil prosecutor opened an investigation for attempted assassination.",
+      "Roughly twelve people were arrested and placed in custody in July 2023.",
+      "Jeanbrun was placed under judicial protection; widely condemned across the political class.",
+      "Jeanbrun is the victim/target of the attack, not an accused party."
+    ],
+    "source_url": [
+      "https://www.bbc.com/news/world-europe-66079408",
+      "https://www.france24.com/en/france/20230702-attempted-murder-investigation-opened-into-ramming-attack-on-french-mayor-s-house",
+      "https://france3-regions.franceinfo.fr/paris-ile-de-france/val-de-marne/ouverture-d-une-information-judiciaire-pour-tentative-d-assassinat-apres-l-attaque-du-domicile-du-maire-de-l-hay-les-roses-2816381.html",
+      "https://www.franceinfo.fr/faits-divers/attaque-contre-le-domicile-du-maire-de-l-hay-les-roses/val-de-marne-le-maire-de-l-hay-les-roses-place-sous-protection-judiciaire-apres-sa-tentative-d-assassinat_5926385.html"
+    ]
+  },
+  {
+    "id": "prise-illegale-interets-investigation-2024",
+    "title": "Judicial investigation for suspected illegal taking of interest (prise illegale d'interets) over housing allocations to staff",
+    "period": "2024-",
+    "category": "judicial investigation / probity (subject as suspect)",
+    "description": "In September 2024 the Creteil public prosecutor confirmed the opening of an investigation against Vincent Jeanbrun for prise illegale d'interets (illegal taking of interest) and recel de prise illegale d'interets. He is suspected of having allocated municipal housing to two of his close municipal collaborators (his cabinet director and chief of staff). The inquiry, entrusted to the financial-crime brigade (BRDE), followed a report (signalement) filed in mid-July 2024 by the anti-corruption association Anticor, after revelations by Mediapart. Jeanbrun stated he intends to demonstrate the legality and good faith of the allocations.",
+    "status": "Under investigation (enquete) as of the latest available reporting; no charges (mise en examen), trial or conviction confirmed in public sources as of June 2026. Presumption of innocence applies.",
+    "confidence_score": "0.85",
+    "key_facts": [
+      "Creteil prosecutor confirmed the investigation in September 2024.",
+      "Offences investigated: prise illegale d'interets and recel de prise illegale d'interets.",
+      "Allegation: allocation of municipal housing to two of his municipal collaborators.",
+      "Inquiry handled by the Brigade de repression de la delinquance economique (BRDE).",
+      "Triggered by an Anticor report (mid-July 2024) following Mediapart revelations.",
+      "Jeanbrun says he will demonstrate the legality and good faith of the decisions.",
+      "No mise en examen, trial or conviction confirmed in public sources as of June 2026; presumption of innocence applies."
+    ],
+    "source_url": [
+      "https://observatoire.anticor.org/2024/09/26/une-enquete-ouverte-contre-vincent-jeanbrun-le-maire-lr-de-lhay-les-roses-pour-prise-illegale-dinterets/",
+      "https://www.liberation.fr/societe/police-justice/une-enquete-ouverte-contre-vincent-jeanbrun-le-maire-lr-de-lhay-les-roses-pour-prise-illegale-dinterets-20240926_FFJFMKWLDZCCDCRJ56NFCJQSLI/",
+      "https://www.francebleu.fr/infos/faits-divers-justice/enquete-pour-prise-illegale-d-interets-vincent-jeanbrun-entend-demontrer-la-legalite-et-la-bonne-foi-1871926"
+    ]
+  },
+  {
+    "id": "lr-expulsion-government-2025",
+    "title": "Suspension/expulsion from Les Republicains for joining the second Lecornu government",
+    "period": "2025-10",
+    "category": "political controversy (party discipline)",
+    "description": "When Vincent Jeanbrun accepted the post of Minister of the City and Housing in the second Lecornu government on 12 October 2025, Les Republicains had officially refused to participate in the government. As a result, like other LR figures who joined, his LR membership was suspended/he was expelled from the party for taking the ministerial post against the party line.",
+    "status": "Party-disciplinary matter (no judicial dimension). Reported as a suspension/expulsion from Les Republicains in October 2025.",
+    "confidence_score": "0.9",
+    "key_facts": [
+      "LR officially declined to join the second Lecornu government in October 2025.",
+      "Jeanbrun accepted the City and Housing ministry on 12 October 2025.",
+      "He was suspended/expelled from Les Republicains as a consequence.",
+      "This was a party-discipline issue, not a legal proceeding."
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Vincent_Jeanbrun",
+      "https://www.leparisien.fr/politique/gouvernement-lecornu-2-vincent-jeanbrun-nomme-ministre-de-la-ville-et-du-logement-12-10-2025-UZ27VAWPO5DSHGLAXYMN4MKBUM.php"
+    ]
+  }
+]

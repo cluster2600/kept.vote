@@ -1,0 +1,10 @@
+[
+  {
+    "id": "net-worth-2025-hatvp",
+    "year": "2025",
+    "declared_net_worth": "approx. 350,000 EUR gross declared real-estate value before debt (see note)",
+    "note": "Derived from the HATVP declaration of assets (DSP) filed 30 November 2025 on appointment to government. Declared gross asset values: apartment in dept. 73, 116 sqm, 60% undivided full ownership, venal value 270,000 EUR; individual house in dept. 73, 180 sqm, 50% bare-ownership (nue-propriété), venal value 150,000 EUR; financial instruments (Caisse d'Épargne shares) 200 EUR; CIC life-insurance surrender value 3,397 EUR; bank/savings accounts totalling roughly 9,000 EUR. Declared liabilities: two CERA mortgages (outstanding 976 EUR and 70,670 EUR) plus three CIC reserve credits (outstanding 3,655 + 1,739 + 5,596 EUR). HATVP does not publish a single net-worth total; the figures above are as declared and are subject to undivided-ownership and bare-ownership adjustments.",
+    "status": "declared (HATVP)",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-dsp34850-gouvernement.pdf"]
+  }
+]

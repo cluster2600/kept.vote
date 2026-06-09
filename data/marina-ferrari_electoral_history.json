@@ -1,0 +1,46 @@
+[
+  {
+    "id": "legislative-savoie-2022",
+    "election": "Élections législatives 2022 (Savoie, 1re circonscription)",
+    "date": "2022-06-19",
+    "role_sought": "Députée (Member of the National Assembly)",
+    "result": "Elected",
+    "vote_share": "59.33% (second round)",
+    "opponent": "Christel Granata (NUPES-PCF), 40.67%",
+    "detail": "Ran under the presidential 'Ensemble!' coalition banner (MoDem) and won the 1st constituency of Savoie (Aix-les-Bains), a seat left open after outgoing deputy Typhanie Degois (LREM) did not seek re-election. First parliamentary mandate.",
+    "source_url": ["https://www.francebleu.fr/infos/politique/legislatives-2022-en-savoie-premier-mandat-de-deputee-pour-la-centriste-marina-ferrari-1655678999", "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/aix-les-bains/legislatives-2022-qui-est-marina-ferrari-la-nouvelle-deputee-de-la-savoie-2567368.html"]
+  },
+  {
+    "id": "legislative-savoie-2024",
+    "election": "Élections législatives anticipées 2024 (Savoie, 1re circonscription)",
+    "date": "2024-07-07",
+    "role_sought": "Députée (Member of the National Assembly)",
+    "result": "Elected (re-elected)",
+    "vote_share": "not verified",
+    "opponent": "not verified",
+    "detail": "Re-elected to the National Assembly at the snap legislative elections called after the June 2024 dissolution. HATVP records her deputy mandate resuming in July 2024 and again from December 2024. Precise vote share for this round not confirmed from a primary source consulted.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf", "https://www.assemblee-nationale.fr/dyn/deputes/PA795120"]
+  },
+  {
+    "id": "departmental-savoie-2015",
+    "election": "Élections départementales 2015 (Savoie, canton d'Aix-les-Bains)",
+    "date": "2015-03",
+    "role_sought": "Conseillère départementale",
+    "result": "Elected",
+    "vote_share": "not verified",
+    "opponent": "not verified",
+    "detail": "Elected departmental councillor for the Savoie department and later Vice-President of the departmental council, serving until June 2021 (mandate confirmed in HATVP filing). Precise vote share not confirmed from a primary source consulted.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "municipal-aix-les-bains-2008",
+    "election": "Élections municipales (Aix-les-Bains)",
+    "date": "2008-03",
+    "role_sought": "Conseillère municipale / Adjointe au maire",
+    "result": "Elected (subsequent mandates 2014, 2020)",
+    "vote_share": "not verified",
+    "opponent": "not verified",
+    "detail": "Long-standing member of the Aix-les-Bains municipal council, including deputy-mayor responsibilities. Mandate continuous through HATVP filing (conseillère municipale since December 2019). Precise per-election vote shares not confirmed from a primary source consulted.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf", "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/aix-les-bains/legislatives-2022-qui-est-marina-ferrari-la-nouvelle-deputee-de-la-savoie-2567368.html"]
+  }
+]

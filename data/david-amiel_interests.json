@@ -1,0 +1,32 @@
+[
+  {
+    "id": "deport-la-poste-2025",
+    "item": "Mesure de déport sur les dossiers relatifs à La Poste",
+    "type": "prévention de conflit d'intérêts (déport)",
+    "period": "2025-2026",
+    "value": "not applicable",
+    "detail": "En raison de ses anciennes fonctions de directeur de la stratégie de la branche Grand Public et Numérique de La Poste (2021-2022), un décret (du 6 novembre 2025) a délégué à la ministre Amélie de Montchalin, puis maintenu un déport, les attributions liées à La Poste. Mesure de prévention de conflit d'intérêts, sans soupçon d'infraction.",
+    "status": "active (mesure déontologique)",
+    "source_url": ["https://www.aefinfo.fr/depeche/740689-une-mesure-de-deport-et-plusieurs-nominations-au-cabinet-du-ministre-de-la-fonction-publique-david-amiel"]
+  },
+  {
+    "id": "commission-finances-2022",
+    "item": "Membre de la commission des finances de l'Assemblée nationale",
+    "type": "fonction parlementaire",
+    "period": "2022-2025",
+    "value": "not applicable",
+    "detail": "Siège à la commission des finances de l'Assemblée nationale pendant ses mandats de député.",
+    "status": "passé",
+    "source_url": ["https://www2.assemblee-nationale.fr/instances/fiche/OMC_PO59048"]
+  },
+  {
+    "id": "auteur-essai-2019",
+    "item": "Co-auteur de l'essai 'Le progrès ne tombe pas du ciel' (Fayard, 2019)",
+    "type": "activité d'auteur",
+    "period": "2019",
+    "value": "non renseigné (droits d'auteur non détaillés)",
+    "detail": "Essai co-écrit avec Ismaël Emelien, publié chez Fayard. Les droits d'auteur perçus ne sont pas détaillés dans les sources consultées.",
+    "status": "passé",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel"]
+  }
+]

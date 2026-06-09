@@ -1,0 +1,32 @@
+[
+  {
+    "id": "propos-bande-incompetents-erc",
+    "title": "Propos sur les universités et organismes \"en retard\" sur les financements européens (ERC)",
+    "period": "2025",
+    "category": "Controverse politique / propos publics",
+    "description": "Comme ministre, Philippe Baptiste a suscité la critique d'une partie de la communauté scientifique en estimant que les universités et organismes de recherche français étaient \"en retard\" dans la compétition pour les financements européens, notamment du Conseil européen de la recherche (ERC), des propos perçus comme dévalorisants par des organisations syndicales et universitaires.",
+    "status": "Polémique politique, aucune procédure judiciaire",
+    "confidence_score": "0.7",
+    "key_facts": [
+      "Critiques émanant d'organisations syndicales du secteur de la recherche et de l'enseignement supérieur.",
+      "Aucune procédure administrative ou judiciaire associée.",
+      "S'inscrit dans un contexte de tensions budgétaires sur le financement des universités."
+    ],
+    "source_url": ["https://snirs-cfecgc.fr/?p=4589", "https://www.campusmatin.com/vie-campus/strategies/cas-pensions-autonomie-propos-illegaux-les-chantiers-de-rentree-en-sursis-de-philippe-baptiste.html"]
+  },
+  {
+    "id": "propos-pas-zola-senat-2025",
+    "title": "Propos \"Ce n'est pas Zola\" sur la situation des universités",
+    "period": "2025-10",
+    "category": "Controverse politique / propos publics",
+    "description": "Lors d'une audition au Sénat en octobre 2025, le ministre a affirmé que la situation globale des universités françaises n'était pas \"systématiquement catastrophique\", ajoutant \"Ce n'est pas Zola non plus\", déclenchant de nombreuses critiques alors que la colère montait dans les établissements face aux difficultés budgétaires.",
+    "status": "Polémique politique, aucune procédure judiciaire",
+    "confidence_score": "0.7",
+    "key_facts": [
+      "Propos tenus lors d'une audition parlementaire au Sénat.",
+      "Critiques de présidents d'université et d'organisations du secteur.",
+      "Le ministre a ensuite annoncé l'organisation d'assises sur le financement des universités à partir de janvier 2026."
+    ],
+    "source_url": ["https://www.campusmatin.com/vie-campus/strategies/cas-pensions-autonomie-propos-illegaux-les-chantiers-de-rentree-en-sursis-de-philippe-baptiste.html", "https://www.publicsenat.fr/actualites/education/enseignement-superieur-le-ministre-annonce-des-assises-en-janvier-sur-le-financement-des-universites"]
+  }
+]

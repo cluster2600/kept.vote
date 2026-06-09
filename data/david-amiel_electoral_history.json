@@ -1,0 +1,35 @@
+[
+  {
+    "id": "municipales-paris-2020",
+    "election": "Élections municipales de Paris 2020",
+    "date": "2020",
+    "role_sought": "Conseiller de Paris (15e arrondissement)",
+    "result": "Élu (siège dans l'opposition)",
+    "vote_share": "non renseigné",
+    "opponent": "majorité d'Anne Hidalgo",
+    "detail": "Candidat sur la liste de Benjamin Griveaux; siège ensuite dans l'opposition au Conseil de Paris pour le 15e arrondissement.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel"]
+  },
+  {
+    "id": "legislatives-2022-paris-13e",
+    "election": "Élections législatives 2022",
+    "date": "2022-06",
+    "role_sought": "Député (13e circonscription de Paris)",
+    "result": "Élu au second tour",
+    "vote_share": "59,86%",
+    "opponent": "Aminata Niakaté (NUPES)",
+    "detail": "Candidat de la coalition Ensemble!, arrivé en tête au premier tour, élu au second tour avec 59,86% des voix.",
+    "source_url": ["https://en.wikipedia.org/wiki/David_Amiel"]
+  },
+  {
+    "id": "legislatives-2024-paris-13e",
+    "election": "Élections législatives anticipées 2024",
+    "date": "2024-07",
+    "role_sought": "Député (13e circonscription de Paris)",
+    "result": "Réélu au second tour",
+    "vote_share": "55,76%",
+    "opponent": "Aminata Niakaté (Nouveau Front populaire)",
+    "detail": "Réélu au second tour avec 55,76% des voix face à la candidate du Nouveau Front populaire (44,24%).",
+    "source_url": ["https://www.franceinfo.fr/elections/legislatives/resultats/2024/paris_75/paris_13eme-circonscription"]
+  }
+]

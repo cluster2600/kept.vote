@@ -1,0 +1,38 @@
+[
+  {
+    "id": "income-region-2019",
+    "year": "2019",
+    "type": "Public mandate remuneration",
+    "label": "Conseiller regional PACA indemnity",
+    "amount": "40081 EUR",
+    "detail": "Indemnity received in 2019 for his functions as regional councillor (PACA). Figure cited in the context of the PNF preliminary investigation reporting.",
+    "source_url": ["https://www.franceinfo.fr/enquetes-franceinfo/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-prise-illegale-d-interets_7011494.html"]
+  },
+  {
+    "id": "income-gip-2019",
+    "year": "2019",
+    "type": "Salary",
+    "label": "Director of tourism/cultural GIP (Le Cannet area)",
+    "amount": "82473 EUR",
+    "detail": "Remuneration in 2019 as director of a local groupement d'interet public. This post is part of the PNF preliminary investigation; no charges brought.",
+    "source_url": ["https://www.franceinfo.fr/enquetes-franceinfo/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-prise-illegale-d-interets_7011494.html"]
+  },
+  {
+    "id": "income-cannet-communications-2019",
+    "year": "2019",
+    "type": "Salary",
+    "label": "Communications adviser, commune of Le Cannet",
+    "amount": "15318 EUR",
+    "detail": "Remuneration in 2019 as charge de communication for the Le Cannet town hall (then led by his sister Michele Tabarot). Part of the PNF preliminary investigation; no charges brought.",
+    "source_url": ["https://www.franceinfo.fr/enquetes-franceinfo/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-prise-illegale-d-interets_7011494.html"]
+  },
+  {
+    "id": "hatvp-declaration-2025",
+    "year": "2025",
+    "type": "HATVP declaration",
+    "label": "Declaration de situation patrimoniale (ministerial)",
+    "amount": "see real_estate and net_worth files",
+    "detail": "Patrimonial declaration filed 3 December 2025; marital regime: separation de biens. Includes two houses in Alpes-Maritimes, modest bank balances and a large outstanding mortgage. Professional activity listed as juriste (SELARL Philippe Clerc).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=tabarot-philippe"]
+  }
+]

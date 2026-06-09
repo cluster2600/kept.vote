@@ -1,0 +1,65 @@
+[
+  {
+    "id": "salary-lunabee-2021",
+    "year": "2021",
+    "type": "Salary (private sector)",
+    "label": "Responsable administratif et RH, Lunabee Studio",
+    "amount": "27,179 EUR net",
+    "detail": "Net salary as administrative/HR manager at Lunabee Studio (highest of the declared 2019-2022 years; 2019: 12,664; 2020: 16,765; 2022: 17,952).",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "salary-secretary-state-digital-2024",
+    "year": "2024",
+    "type": "Ministerial remuneration",
+    "label": "Secrétaire d'État chargée du Numérique",
+    "amount": "49,676 EUR net",
+    "detail": "Net remuneration as Secretary of State for Digital Affairs (Feb-Sep 2024) per HATVP declaration of interests.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "salary-minister-delegate-tourism-2024",
+    "year": "2024",
+    "type": "Ministerial remuneration",
+    "label": "Ministre déléguée à l'Économie du tourisme",
+    "amount": "30,379 EUR net",
+    "detail": "Net remuneration as Minister-Delegate for the Tourism Economy (Sep-Dec 2024) per HATVP declaration of interests.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "indemnity-deputy-2023",
+    "year": "2023",
+    "type": "Parliamentary indemnity",
+    "label": "Députée (Savoie)",
+    "amount": "73,698 EUR net",
+    "detail": "Net parliamentary indemnity for 2023 (full year as deputy). Other years: 2022: 38,341 (partial); 2024: 7,662 (Jan-Feb) plus 13,255 (Jul-Sep) plus 20,917 (Dec); 2025: 51,154 (Jan-Oct, before government appointment).",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "indemnity-departmental-vp-2019",
+    "year": "2019",
+    "type": "Local mandate indemnity",
+    "label": "Vice-présidente du Département de la Savoie",
+    "amount": "24,559 EUR net",
+    "detail": "Net indemnity as departmental councillor/Vice-President for 2019 (2020: 20,217; 2021: 9,973 until June).",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "indemnity-local-aix-2019",
+    "year": "2019",
+    "type": "Local mandate indemnity",
+    "label": "Adjointe au maire / conseillère municipale, Aix-les-Bains",
+    "amount": "42,870 EUR net",
+    "detail": "Net indemnity for 2019 across Aix-les-Bains municipal functions (deputy mayor to Dec 2019); subsequent years declared at 0 EUR (no indemnity drawn).",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "dividend-caisse-epargne-2024",
+    "year": "2024",
+    "type": "Investment income",
+    "label": "Parts sociales Caisse d'Épargne (10 parts)",
+    "amount": "3.49 EUR",
+    "detail": "Dividend received in 2024 on 10 cooperative shares (parts sociales) in the Caisse d'Épargne, declared at 200 EUR capital value.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  }
+]

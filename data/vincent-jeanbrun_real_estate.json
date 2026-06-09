@@ -1,0 +1,35 @@
+[
+  {
+    "id": "house-val-de-marne-2017",
+    "property": "Detached house (maison individuelle), 160 sqm, plot approx. 0.07 ha",
+    "location": "Val-de-Marne (department 94), France",
+    "transaction_type": "Acquisition",
+    "date": "2017",
+    "value": "Acquisition price 615,000 EUR; declared venal value of his 42.5% quote-part: 294,000 EUR; declared works 55,000 EUR",
+    "detail": "Own property (bien propre), full ownership of a 42.5% share. Financed in part by a BNP Paribas real-estate loan taken 4 June 2017 (340,000 EUR, 240 months). Declared to HATVP.",
+    "status": "declared (HATVP, 22 Oct 2025)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "apartment-val-de-marne-2013",
+    "property": "Apartment (appartement), 75 sqm",
+    "location": "Val-de-Marne (department 94), France",
+    "transaction_type": "Acquisition",
+    "date": "2013",
+    "value": "Acquisition price 270,000 EUR; declared venal value of his 21% quote-part: 75,600 EUR",
+    "detail": "Own property (bien propre), full ownership of a 21% share. Declared to HATVP.",
+    "status": "declared (HATVP, 22 Oct 2025)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "agricultural-land-yonne-2024",
+    "property": "Agricultural land (terres agricoles), approx. 0.76 ha",
+    "location": "Yonne (department 89), France",
+    "transaction_type": "Acquisition",
+    "date": "2024",
+    "value": "Acquisition price 30,000 EUR; declared venal value 30,000 EUR (50% undivided share)",
+    "detail": "Undivided property (bien indivis), full ownership of a 50% share. Declared to HATVP.",
+    "status": "declared (HATVP, 22 Oct 2025)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  }
+]

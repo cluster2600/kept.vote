@@ -1,0 +1,12 @@
+[
+  {
+    "id": "no-securities-declared",
+    "holding": "none declared",
+    "type": "not applicable",
+    "value": "not applicable",
+    "as_of": "2025",
+    "detail": "No publicly reported stock or securities portfolio. The HATVP declaration of 3 December 2025 lists bank and savings accounts (current account, savings account, LDD, Caisse d'Epargne account) with modest balances rather than a securities portfolio. No equity holdings identified in the public sources consulted.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=tabarot-philippe"]
+  }
+]

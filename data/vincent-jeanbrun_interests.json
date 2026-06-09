@@ -1,0 +1,62 @@
+[
+  {
+    "id": "president-comite-bassin-emploi-sud-94",
+    "item": "President of the Comite de bassin d'emploi Sud 94 (association)",
+    "type": "Association leadership (unpaid)",
+    "period": "2018-2023",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Declared to HATVP among participations in governing bodies of public/private organisations.",
+    "status": "declared (HATVP interests)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "president-ccas-lhay",
+    "item": "President ex officio of the Centre communal d'action sociale (CCAS) of L'Hay-les-Roses",
+    "type": "Public-body leadership (unpaid, ex officio as mayor)",
+    "period": "2018-2024",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Mayor is president ex officio of the municipal social-action centre. Declared to HATVP.",
+    "status": "declared (HATVP interests)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "president-caisse-des-ecoles",
+    "item": "President of the board of the Caisse des ecoles (school fund)",
+    "type": "Public-body leadership (unpaid)",
+    "period": "2018-2024",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Declared to HATVP among participations in governing bodies.",
+    "status": "declared (HATVP interests)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "president-association-plus-belle-lhay",
+    "item": "President of the association 'Plus belle L'Hay'",
+    "type": "Association leadership (unpaid)",
+    "period": "2025-",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Local political/civic association. Declared to HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"],
+    "status": "declared (HATVP interests)"
+  },
+  {
+    "id": "president-association-idf-rassemblee",
+    "item": "President of the association 'Ile de France Rassemblee'",
+    "type": "Association leadership (unpaid)",
+    "period": "2020-2024",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Declared to HATVP.",
+    "status": "declared (HATVP interests)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "spouse-activity-soft-skills",
+    "item": "Spouse's professional activity: trainer in soft skills (formatrice en soft skills)",
+    "type": "Family member's professional activity",
+    "period": "as of nomination 2025",
+    "value": "not published",
+    "detail": "HATVP records the spouse as a soft-skills trainer; employer details not published. His wife, Melanie Nowak, has also held local elected office in Val-de-Marne.",
+    "status": "declared (HATVP interests)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  }
+]

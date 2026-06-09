@@ -1,0 +1,24 @@
+[
+  {
+    "id": "house-06-fully-owned",
+    "property": "Individual house, 178 sqm",
+    "location": "Alpes-Maritimes (dept 06), France",
+    "transaction_type": "Owned (full ownership)",
+    "date": "as declared 2025",
+    "value": "approx. 830000 EUR (declared venal value)",
+    "detail": "Detached house fully owned by the declarant; financed in part by a Caisse d'Epargne mortgage. Declared in the HATVP patrimonial declaration of 3 December 2025.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=tabarot-philippe"]
+  },
+  {
+    "id": "house-06-indivision",
+    "property": "Individual house, 203 sqm (one-third indivision share)",
+    "location": "Alpes-Maritimes (dept 06), France",
+    "transaction_type": "Owned (33% in indivision)",
+    "date": "as declared 2025",
+    "value": "approx. 270660 EUR (declared value of the 33% share)",
+    "detail": "One-third undivided (indivision) share in a 203 sqm house. Declared in the HATVP patrimonial declaration of 3 December 2025.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=tabarot-philippe"]
+  }
+]

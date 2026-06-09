@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pnf-investigation-public-funds",
+    "title": "PNF preliminary investigation into local remunerations (2018-2020)",
+    "period": "2021-present (probe reported January 2025)",
+    "category": "Judicial investigation",
+    "description": "France's Parquet national financier (PNF) opened a preliminary investigation, following a July 2021 referral by the HATVP, into posts held by Tabarot between 2018 and 2020: director of a local tourism/cultural GIP, communications adviser for the commune of Le Cannet (then led by his sister, deputy Michele Tabarot), and his regional councillor role. The probe examines suspicions of misappropriation of public funds (detournement de fonds publics) and unlawful taking of interest (prise illegale d'interets), notably whether his work justified his remuneration. In 2019 he reportedly received 15,318 EUR as Le Cannet communications adviser, 82,473 EUR as GIP director and 40,081 EUR as regional councillor.",
+    "status": "Preliminary investigation (enquete preliminaire); no charges brought, no conviction; presumption of innocence applies",
+    "confidence_score": "0.9",
+    "key_facts": [
+      "Preliminary investigation opened by the PNF after a HATVP referral of July 2021; publicly reported in January 2025.",
+      "Concerns suspected detournement de fonds publics and prise illegale d'interets over 2018-2020 local posts.",
+      "Involves a GIP and the Le Cannet town hall, then run by his sister Michele Tabarot.",
+      "No charges (mise en examen) or conviction reported as of mid-2026."
+    ],
+    "source_url": ["https://www.franceinfo.fr/enquetes-franceinfo/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-prise-illegale-d-interets_7011494.html", "https://www.reuters.com/world/europe/french-transport-minister-subject-financial-probe-2025-01-13/"]
+  },
+  {
+    "id": "sncf-suicide-comments-2024",
+    "title": "Criticism over comments on the suicide of an SNCF driver",
+    "period": "December 2024",
+    "category": "Public controversy / communication",
+    "description": "Days after taking office, Tabarot was criticised for his communication about the suicide of a 52-year-old TGV driver who jumped from his moving train on Christmas Eve 2024. Remarks suggesting the incident 'could have been worse' had the driver wanted to derail the train were condemned as 'cynical' and 'indecent', notably by the CGT-Cheminots union. He subsequently said some comments had been 'misinterpreted', called it 'above all a human tragedy' and pledged that the State and SNCF would stand with the family.",
+    "status": "Political/communication controversy; no legal proceedings",
+    "confidence_score": "0.85",
+    "key_facts": [
+      "Occurred within days of his December 2024 appointment as Minister of Transport.",
+      "CGT-Cheminots and others denounced the remarks as 'cynical' and 'indecent'.",
+      "Tabarot said his comments were 'misinterpreted' and expressed support for the family.",
+      "No legal consequences; a judicial inquiry was opened into the death itself."
+    ],
+    "source_url": ["https://www.boursorama.com/actualite-economique/actualites/cynisme-indecence-le-ministre-des-transports-philippe-tabarot-critique-pour-sa-communication-sur-le-suicide-d-un-conducteur-sncf-31d43469f16bf0201703b9a2bf02d0af", "https://www.lemonde.fr/economie/article/2024/12/27/un-suicide-et-un-tolle-les-premiers-pas-delicats-de-philippe-tabarot-nouveau-ministre-des-transports_6469467_3234.html"]
+  },
+  {
+    "id": "lr-party-sanction-2025",
+    "title": "Suspension from Les Republicains over participation in the Lecornu government",
+    "period": "October 2025",
+    "category": "Party discipline",
+    "description": "After the Lecornu II government was unveiled on 12 October 2025, LR president Bruno Retailleau initially announced the 'exclusion' of the six LR ministers, including Tabarot. The LR political bureau then formally decided their suspension and withdrawal from all party functions rather than outright expulsion; the ministers confirmed they had stepped back from party functions and may rejoin LR once they leave government. The dispute reflected internal LR divisions over cooperation with the Macron-aligned executive.",
+    "status": "Party sanction: membership suspended / functions withdrawn (not a criminal or legal matter)",
+    "confidence_score": "0.85",
+    "key_facts": [
+      "Six LR ministers affected: Tabarot, Rachida Dati, Annie Genevard, Vincent Jeanbrun, Sebastien Martin, Nicolas Forissier.",
+      "Retailleau first spoke of 'exclusion'; the LR bureau settled on suspension/withdrawal from functions.",
+      "Ministers confirmed stepping back from party functions and may rejoin once no longer ministers.",
+      "Reason: their participation in the Lecornu government, seen by LR leadership as incompatible with the party line."
+    ],
+    "source_url": ["https://lcp.fr/actualites/lecornu-2-les-ministres-les-republicains-entres-au-gouvernement-exclus-de-leur-parti", "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/les-ministres-lr-dont-philippe-tabarot-confirment-s-etre-mis-en-retrait-de-toute-fonction-au-sein-du-parti-3237697.html"]
+  }
+]

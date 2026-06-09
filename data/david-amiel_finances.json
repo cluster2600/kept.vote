@@ -1,0 +1,20 @@
+[
+  {
+    "id": "declaration-patrimoine-gouvernement-2026",
+    "year": "2026",
+    "type": "déclaration de patrimoine (HATVP)",
+    "label": "Patrimoine net déclaré comme membre du gouvernement",
+    "amount": "entre 1,5 et 2 millions d'euros (estimation presse à partir de la publication HATVP)",
+    "detail": "Patrimoine déclaré à la Haute Autorité pour la transparence de la vie publique dans le cadre de ses fonctions ministérielles, publié en avril 2026. Le détail (immobilier, comptes, instruments financiers) n'a pas été repris précisément dans les sources consultées.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=amiel-david", "https://contribuablesassocies.org/2026/04/23/la-hatvp-revele-le-nom-des-ministres-millionnaires-du-gouvernement-lecornu/"]
+  },
+  {
+    "id": "declaration-depute-2022",
+    "year": "2022",
+    "type": "déclarations de patrimoine et d'intérêts (HATVP)",
+    "label": "Déclarations déposées en tant que député",
+    "amount": "non détaillé publiquement dans les sources consultées",
+    "detail": "En tant que député élu en 2022 puis réélu en 2024, David Amiel a déposé des déclarations de situation patrimoniale et d'intérêts auprès de la HATVP. Le détail chiffré n'a pas été retranscrit dans les sources consultées.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=amiel-david"]
+  }
+]

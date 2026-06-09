@@ -1,0 +1,72 @@
+[
+  {
+    "id": "parliamentary-assistant-pecresse-2012",
+    "role": "Parliamentary assistant (assistant parlementaire)",
+    "organization": "Office of Valerie Pecresse (member of the National Assembly)",
+    "start_date": "2012",
+    "end_date": "2014",
+    "description": "Worked as parliamentary assistant to Valerie Pecresse; noticed earlier by Roger Karoutchi within the UMP.",
+    "category": "political-staff",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun", "https://www.lejournaldugrandparis.fr/vincent-jeanbrun-la-politique-sinon-rien/"]
+  },
+  {
+    "id": "mayor-lhay-les-roses-2014",
+    "role": "Mayor (Maire)",
+    "organization": "Commune of L'Hay-les-Roses (Val-de-Marne)",
+    "start_date": "2014-03-30",
+    "end_date": "2024-10-11",
+    "description": "Elected mayor in March 2014 and re-elected in 2020. Resigned in October 2024 following the rules on the cumul des mandats after becoming a deputy. Per HATVP, mandate recorded 03/2020-10/2024 for the re-elected term.",
+    "category": "elected-office-local",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun", "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "president-syndicat-cimetiere-2020",
+    "role": "President (President)",
+    "organization": "Syndicat intercommunal du cimetiere (intercommunal cemetery syndicate)",
+    "start_date": "2020-03",
+    "end_date": "2024-12",
+    "description": "President of the intercommunal cemetery syndicate; remunerated function declared to HATVP.",
+    "category": "intercommunal",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "president-syndicat-geothermie-2020",
+    "role": "President (President)",
+    "organization": "Syndicat intercommunal de la Geothermie (intercommunal geothermal syndicate)",
+    "start_date": "2020-03",
+    "end_date": "2024-12",
+    "description": "President of the intercommunal geothermal syndicate; remunerated function declared to HATVP.",
+    "category": "intercommunal",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "deputy-val-de-marne-2024",
+    "role": "Member of the National Assembly (Depute)",
+    "organization": "National Assembly of France (Val-de-Marne 7th constituency)",
+    "start_date": "2024-07-08",
+    "end_date": "2025-11-12",
+    "description": "Deputy for Val-de-Marne's 7th constituency. Sat on the Committee on Foreign Affairs (2024-2025). Served as spokesperson of the Droite Republicaine group. Seat ended upon entering government (succeeded by his substitute Nicolas Tryzna).",
+    "category": "elected-office-national",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun", "https://www.assemblee-nationale.fr/dyn/deputes/PA842117"]
+  },
+  {
+    "id": "minister-city-housing-2025",
+    "role": "Minister of the City and Housing (Ministre de la Ville et du Logement)",
+    "organization": "Government of France (second Lecornu government)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Appointed full minister of the City and Housing in the second Lecornu government on 12 October 2025; retained the portfolio in the 26 February 2026 reshuffle. Associated with the 'statut du bailleur prive' rental-investment incentive (dispositif Jeanbrun).",
+    "category": "government-minister",
+    "source_url": ["https://www.info.gouv.fr/actualite/la-nouvelle-composition-du-gouvernement-de-sebastien-lecornu", "https://www.leparisien.fr/politique/gouvernement-lecornu-2-vincent-jeanbrun-nomme-ministre-de-la-ville-et-du-logement-12-10-2025-UZ27VAWPO5DSHGLAXYMN4MKBUM.php"]
+  },
+  {
+    "id": "author-albin-michel-2023",
+    "role": "Author (Auteur de livre)",
+    "organization": "Editions Albin Michel",
+    "start_date": "2023-09",
+    "end_date": "2023-12",
+    "description": "Author of a book published by Albin Michel; HATVP declares net remuneration of 33,587 EUR for 2023.",
+    "category": "other-private",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ines-plateforme-formation-2019",
+    "entity": "INES (Institut National de l'Énergie Solaire) - plateforme formation",
+    "role": "Présidente de l'association / membre du conseil d'administration",
+    "ownership_stake": "not applicable (non-profit association)",
+    "period": "2019-2023",
+    "status": "Past; unremunerated (0 EUR declared)",
+    "detail": "President of the INES training-platform association (Jan 2019-Jun 2021), then board member of INES training/evaluation platform (Jul 2021-Jun 2023). Solar-energy institute based in Le Bourget-du-Lac (Savoie).",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "agate-agence-alpine-2019",
+    "entity": "AGATE - Agence Alpine des Territoires",
+    "role": "Membre du conseil d'administration",
+    "ownership_stake": "not applicable",
+    "period": "2019-2024",
+    "status": "Past; unremunerated (0 EUR declared)",
+    "detail": "Board member of the Alpine Territories Agency until February 2024.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "universite-savoie-mont-blanc-2019",
+    "entity": "Université Savoie Mont Blanc / Fondation USMB",
+    "role": "Membre du conseil d'administration",
+    "ownership_stake": "not applicable",
+    "period": "2019-2024",
+    "status": "Past; unremunerated (0 EUR declared)",
+    "detail": "Board member of the University Savoie Mont Blanc (2019-2021) and of its Foundation (2021-2024).",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  },
+  {
+    "id": "tenerrdis-asder-conservatoire-2019",
+    "entity": "TENERRDIS, ASDER, Conservatoire du Littoral, SPL-S de la Savoie",
+    "role": "Membre du conseil d'administration",
+    "ownership_stake": "not applicable",
+    "period": "2019-2021",
+    "status": "Past; unremunerated (0 EUR declared)",
+    "detail": "Board memberships (2019-2021) in regional bodies: TENERRDIS energy-transition competitiveness cluster, ASDER (Savoyard renewable-energy association), Conservatoire du Littoral, and the SPL-S de la Savoie (local public company).",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+  }
+]

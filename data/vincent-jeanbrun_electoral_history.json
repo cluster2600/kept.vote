@@ -1,0 +1,90 @@
+[
+  {
+    "id": "cantonal-hauts-de-seine-2011",
+    "election": "2011 French cantonal elections",
+    "date": "2011",
+    "role_sought": "General Councillor, canton of Nanterre-Sud-Est (Hauts-de-Seine)",
+    "result": "Not elected (placed 5th in the first round)",
+    "vote_share": "not verified",
+    "opponent": "multiple candidates",
+    "detail": "Early candidacy under the UMP label; finished fifth in the first round.",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun"]
+  },
+  {
+    "id": "municipal-lhay-les-roses-2014",
+    "election": "2014 French municipal elections",
+    "date": "2014-03",
+    "role_sought": "Mayor of L'Hay-les-Roses",
+    "result": "Elected mayor",
+    "vote_share": "not verified",
+    "opponent": "incumbent left-wing list (succeeded Pierre Coilbault)",
+    "detail": "Won at age 29, becoming one of the youngest mayors of a French town of over 30,000 inhabitants. Ran on the UMP label.",
+    "source_url": ["https://www.leparisien.fr/val-de-marne-94/a-l-hay-vincent-jeanbrun-ump-sera-le-plus-jeune-maire-du-departement-25-03-2014-3705801.php", "https://en.wikipedia.org/wiki/Vincent_Jeanbrun"]
+  },
+  {
+    "id": "departmental-val-de-marne-2015",
+    "election": "2015 French departmental elections",
+    "date": "2015-03",
+    "role_sought": "Departmental Councillor, canton of L'Hay-les-Roses (Val-de-Marne)",
+    "result": "Elected",
+    "vote_share": "not verified",
+    "opponent": "not verified",
+    "detail": "Elected to the Departmental Council of Val-de-Marne; held the seat from April until his resignation in December 2015 when he moved to the Ile-de-France regional council.",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun"]
+  },
+  {
+    "id": "regional-ile-de-france-2015",
+    "election": "2015 French regional elections (Ile-de-France)",
+    "date": "2015-12",
+    "role_sought": "Regional Councillor of Ile-de-France",
+    "result": "Elected",
+    "vote_share": "not verified",
+    "opponent": "not verified",
+    "detail": "Elected on Valerie Pecresse's winning regional list; re-elected in 2021. Became president of the majority coalition group in the regional council in 2021. HATVP records the regional-councillor mandate as running from 06/2021.",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun", "https://www.iledefrance.fr/jeanbrun-vincent"]
+  },
+  {
+    "id": "municipal-lhay-les-roses-2020",
+    "election": "2020 French municipal elections",
+    "date": "2020-03",
+    "role_sought": "Mayor of L'Hay-les-Roses (re-election)",
+    "result": "Re-elected mayor",
+    "vote_share": "not verified",
+    "opponent": "not verified",
+    "detail": "Re-elected mayor for a second term; HATVP records the mandate as 03/2020-10/2024.",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun", "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+  },
+  {
+    "id": "regional-ile-de-france-2021",
+    "election": "2021 French regional elections (Ile-de-France)",
+    "date": "2021-06",
+    "role_sought": "Regional Councillor of Ile-de-France (re-election)",
+    "result": "Re-elected",
+    "vote_share": "not verified",
+    "opponent": "not verified",
+    "detail": "Re-elected on Valerie Pecresse's list; elected president of the majority coalition group in the regional council.",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun", "https://www.iledefrance.fr/jeanbrun-vincent"]
+  },
+  {
+    "id": "legislative-val-de-marne-2022",
+    "election": "2022 French legislative election",
+    "date": "2022-06",
+    "role_sought": "Member of the National Assembly, Val-de-Marne 7th constituency",
+    "result": "Not elected (eliminated in the first round, 3rd place)",
+    "vote_share": "18.32% first round",
+    "opponent": "Rachel Keke (LFI/NUPES) and Roxana Maracineanu (Ensemble)",
+    "detail": "Came third in the first round with 18.32% (5,514 votes), behind Rachel Keke and Roxana Maracineanu; Keke went on to win the seat.",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun"]
+  },
+  {
+    "id": "legislative-val-de-marne-2024",
+    "election": "2024 French legislative election (snap election)",
+    "date": "2024-07-07",
+    "role_sought": "Member of the National Assembly, Val-de-Marne 7th constituency",
+    "result": "Elected",
+    "vote_share": "50.67% second round",
+    "opponent": "Rachel Keke (LFI/NFP)",
+    "detail": "Won the second round with 50.67% against incumbent Rachel Keke, a margin of about 545 votes.",
+    "source_url": ["https://en.wikipedia.org/wiki/Vincent_Jeanbrun", "https://mesinfos.fr/ile-de-france/legislatives-2024-vincent-jeanbrun-maire-de-l-hay-les-roses-elu-depute-202715.html"]
+  }
+]

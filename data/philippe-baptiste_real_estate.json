@@ -1,0 +1,35 @@
+[
+  {
+    "id": "appartement-yvelines-2012",
+    "property": "Appartement, 200 m²",
+    "location": "Yvelines (département 78)",
+    "transaction_type": "Acquisition",
+    "date": "2012",
+    "value": "1 180 000 € (prix d'acquisition et valeur vénale déclarée ; 30 000 € de travaux)",
+    "detail": "Bien commun, pleine propriété, quote-part 100 %. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "remise-yvelines-2017",
+    "property": "Remise, 30 m²",
+    "location": "Yvelines (département 78)",
+    "transaction_type": "Acquisition",
+    "date": "2017",
+    "value": "Prix d'acquisition 50 000 € ; valeur vénale 52 000 € (25 000 € de travaux)",
+    "detail": "Bien commun, pleine propriété, quote-part 100 %. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "maison-savoie-2024",
+    "property": "Maison individuelle, 160 m² (terrain 3 ha)",
+    "location": "Savoie (département 73)",
+    "transaction_type": "Acquisition (usufruit)",
+    "date": "2024",
+    "value": "Prix d'acquisition 580 500 € ; valeur vénale de la quote-part 145 125 €",
+    "detail": "Bien indivis, droit réel d'usufruit, quote-part détenue 50 %. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  }
+]

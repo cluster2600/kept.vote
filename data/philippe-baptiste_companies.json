@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cnes-participations-president",
+    "entity": "CNES Participations",
+    "role": "Président",
+    "ownership_stake": "not applicable (fonction ès qualités de PDG du CNES)",
+    "period": "2021-04 à 2024-12",
+    "status": "ended",
+    "detail": "Présidence de la structure de participations du CNES, exercée ès qualités de président-directeur général du CNES, sans rémunération. Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "esa-delegation-france",
+    "entity": "Agence spatiale européenne (ESA)",
+    "role": "Chef de la délégation française au conseil de l'ESA",
+    "ownership_stake": "not applicable",
+    "period": "2021-04 à 2024-12",
+    "status": "ended",
+    "detail": "Le président du CNES est le représentant de la France au conseil de l'ESA. Fonction non rémunérée. Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "musee-air-espace-ca",
+    "entity": "Musée de l'air et de l'espace",
+    "role": "Membre du conseil d'administration",
+    "ownership_stake": "not applicable",
+    "period": "2024-09 à 2024-12",
+    "status": "ended",
+    "detail": "Membre du conseil d'administration, fonction non rémunérée. Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "bcg-partner",
+    "entity": "Boston Consulting Group (BCG)",
+    "role": "Partner and director (bureau de Paris)",
+    "ownership_stake": "non déclarée",
+    "period": "2020-11 à 2021-04",
+    "status": "ended",
+    "detail": "Associé du cabinet de conseil en stratégie BCG. Déclaré comme activité de consultant à la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436", "https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  }
+]

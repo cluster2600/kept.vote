@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ecole-des-mines-nancy",
+    "institution": "École des mines de Nancy",
+    "qualification": "Diplôme d'ingénieur civil des mines",
+    "field": "Ingénierie",
+    "years": "non vérifié",
+    "detail": "Diplômé ingénieur civil de l'École des mines de Nancy.",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://cnes.fr/philippe-baptiste"]
+  },
+  {
+    "id": "university-of-strathclyde-msc",
+    "institution": "University of Strathclyde, Glasgow",
+    "qualification": "MSc",
+    "field": "non vérifié",
+    "years": "non vérifié",
+    "detail": "Master of Science obtenu à l'université de Strathclyde, Glasgow.",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  },
+  {
+    "id": "sorbonne-dea",
+    "institution": "Université de la Sorbonne",
+    "qualification": "DEA (diplôme d'études approfondies)",
+    "field": "non vérifié",
+    "years": "non vérifié",
+    "detail": "Diplôme d'études approfondies obtenu à la Sorbonne.",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+  },
+  {
+    "id": "utc-doctorat",
+    "institution": "Université de technologie de Compiègne (UTC)",
+    "qualification": "Doctorat (PhD)",
+    "field": "Informatique / recherche opérationnelle",
+    "years": "non vérifié",
+    "detail": "Doctorat en informatique. Thèse récompensée en 2000 par le prix ERCIM Cor Baayen. Titulaire d'une habilitation à diriger des recherches (directeur de recherche).",
+    "source_url": ["https://en.wikipedia.org/wiki/Philippe_Baptiste", "https://www.ercim.eu/news/498-philippe-baptiste-former-ercim-cor-baayen-award-winner-appointed-cnes-president"]
+  }
+]

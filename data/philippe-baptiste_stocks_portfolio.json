@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bpifrance-detention-directe",
+    "holding": "BPIFRANCE (détention directe)",
+    "type": "Instrument financier",
+    "value": "44 682 €",
+    "as_of": "2025-11 (déclaration HATVP)",
+    "detail": "Détention directe au nom de Philippe Baptiste. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "pea-lcl",
+    "holding": "PEA (plan d'épargne en actions) LCL",
+    "type": "Instrument financier / compte-titres",
+    "value": "30 €",
+    "as_of": "2025-11 (déclaration HATVP)",
+    "detail": "PEA détenu auprès de LCL. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "assurance-vie-prefon",
+    "holding": "Assurance-vie / épargne retraite Prefon",
+    "type": "Assurance-vie",
+    "value": "116 404 €",
+    "as_of": "2025-11 (déclaration HATVP)",
+    "detail": "Contrat souscrit le 25/04/2003. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "assurance-vie-amundi",
+    "holding": "Assurance-vie Amundi",
+    "type": "Assurance-vie",
+    "value": "46 365 €",
+    "as_of": "2025-11 (déclaration HATVP)",
+    "detail": "Contrat souscrit le 01/01/2021. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  },
+  {
+    "id": "assurance-vie-axa",
+    "holding": "Assurance-vie AXA",
+    "type": "Assurance-vie",
+    "value": "12 729 €",
+    "as_of": "2025-11 (déclaration HATVP)",
+    "detail": "Contrat souscrit le 01/04/2021. Déclaration de situation patrimoniale HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+  }
+]
