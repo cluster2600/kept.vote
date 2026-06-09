@@ -1,0 +1,92 @@
+[
+  {
+    "id": "wh-ministre-relations-parlement",
+    "role": "Minister-Delegate to the Prime Minister, in charge of Relations with Parliament",
+    "organization": "Government of France (Lecornu)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Appointed Minister-Delegate for Relations with Parliament in the second Lecornu government on 12 October 2025; retained in the post in the reshuffle confirmed by decree of 26 February 2026. Acts as liaison between the government and Parliament.",
+    "category": "government",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/laurent-panifous",
+      "https://en.wikipedia.org/wiki/Laurent_Panifous"
+    ]
+  },
+  {
+    "id": "wh-president-groupe-liot",
+    "role": "President of the LIOT group at the National Assembly",
+    "organization": "National Assembly (Groupe Libertés, Indépendants, Outre-mer et Territoires)",
+    "start_date": "2025-02-28",
+    "end_date": "2025-11",
+    "description": "Elected president of the LIOT parliamentary group in February 2025, succeeding Stéphane Lenormand. Stepped down on entering government in autumn 2025.",
+    "category": "politics",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/assemblee-nationale-laurent-panifous-designe-nouveau-president-du-groupe-liot-compose-de-deputes-independants_7086168.html",
+      "https://en.wikipedia.org/wiki/Laurent_Panifous"
+    ]
+  },
+  {
+    "id": "wh-depute-ariege",
+    "role": "Member of the National Assembly for Ariège's 2nd constituency",
+    "organization": "National Assembly of France",
+    "start_date": "2022-06-22",
+    "end_date": "2025-11-12",
+    "description": "Deputy for the 2nd constituency of Ariège, elected in 2022 and re-elected in 2024. His seat was suspended on 12 November 2025 (one month after his ministerial appointment), passed to his substitute.",
+    "category": "politics",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Laurent_Panifous",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "wh-administrateur-inca",
+    "role": "Administrator (board member)",
+    "organization": "Institut national du cancer (INCa)",
+    "start_date": "2023-01",
+    "end_date": "2024-06",
+    "description": "Served as an administrator (board member) of the Institut national du cancer; unremunerated (0 euros declared).",
+    "category": "public-body",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "wh-maire-le-fossat",
+    "role": "Mayor of Le Fossat",
+    "organization": "Commune of Le Fossat (Ariège)",
+    "start_date": "2014-03-30",
+    "end_date": "2022-07-28",
+    "description": "Mayor of Le Fossat from 2014 to 2022, succeeding Bernard Campmas. Resigned as mayor on becoming a deputy (cumul des mandats rules). Remained a municipal councillor afterwards (unremunerated).",
+    "category": "local-government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Laurent_Panifous",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "wh-president-cc-arize-leze",
+    "role": "President of the communauté de communes Arize-Lèze",
+    "organization": "Communauté de communes Arize-Lèze (Ariège)",
+    "start_date": "2017-01",
+    "end_date": "2022-07",
+    "description": "President of the communauté de communes Arize-Lèze from 2017 to 2022.",
+    "category": "local-government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Laurent_Panifous",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "wh-directeur-ehpad",
+    "role": "Director of health and social-care establishments (EHPAD)",
+    "organization": "EHPAD des Portes d'Ariège and other Ariège retirement homes",
+    "start_date": "2000",
+    "end_date": "2022-07",
+    "description": "Director of medico-social establishments (EHPAD retirement homes) in Ariège from 2000 to 2022. HATVP records the EHPAD des Portes d'Ariège as employer 08/2020-07/2022, with declared net pay of 22,134 euros (2020), 55,074 euros (2021) and 34,060 euros (2022).",
+    "category": "professional",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169",
+      "https://en.wikipedia.org/wiki/Laurent_Panifous"
+    ]
+  }
+]

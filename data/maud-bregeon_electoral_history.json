@@ -1,0 +1,30 @@
+[
+  {
+    "id": "legislatives-2022-hds13",
+    "election": "2022 French legislative election",
+    "date": "2022-06",
+    "role_sought": "Deputy, Hauts-de-Seine 13th constituency",
+    "result": "Elected",
+    "vote_share": "approx. 59% (second round, approx. 27,864 votes)",
+    "opponent": "Candidate of the left (NUPES)",
+    "detail": "Elected as a candidate of the presidential majority (Ensemble) in the second round.",
+    "source_url": [
+      "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795990",
+      "https://en.wikipedia.org/wiki/Maud_Bregeon"
+    ]
+  },
+  {
+    "id": "legislatives-2024-hds13",
+    "election": "2024 French snap legislative election",
+    "date": "2024-07",
+    "role_sought": "Deputy, Hauts-de-Seine 13th constituency",
+    "result": "Elected (re-elected)",
+    "vote_share": "56.12% (second round, 33,310 votes); 39.18% in the first round",
+    "opponent": "Brice Gaillard (Union of the Left, 43.88%)",
+    "detail": "Re-elected as a candidate of the presidential majority (Ensemble). She returned to the Assembly on 5 December 2024 after the fall of the Barnier government.",
+    "source_url": [
+      "https://www.elections-legislatives.fr/departement/92/circonscription/13",
+      "https://www.franceinfo.fr/elections/resultats/hauts-de-seine_92/hauts-de-seine_13eme-circonscription"
+    ]
+  }
+]

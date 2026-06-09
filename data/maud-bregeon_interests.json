@@ -1,0 +1,28 @@
+[
+  {
+    "id": "edf-former-employment",
+    "item": "Former employment at EDF (2014-2022)",
+    "type": "past professional activity",
+    "period": "2014-2022",
+    "value": "salaried employment (amount not public)",
+    "detail": "Worked as an engineer at EDF (Electricite de France), the state-controlled electricity utility, until her election to the National Assembly in 2022. She has stated she resigned from EDF after her election to avoid any conflict of interest. This past link to the energy sector she now oversees as Minister-Delegate for Energy is the principal interest noted in press coverage. No itemised HATVP declaration of interests is yet public.",
+    "status": "declared in press; HATVP declaration of interests publication pending",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.mediapart.fr/journal/politique/150123/questions-sur-maud-bregeon-la-deputee-edf"
+    ]
+  },
+  {
+    "id": "andra-board-member",
+    "item": "Member of the Board of Directors of ANDRA",
+    "type": "board/external mandate",
+    "period": "as deputy (16th legislature)",
+    "value": "non-remunerated mandate (per available sources)",
+    "detail": "Listed as a member of the Board of Directors of ANDRA (National Agency for the Management of Radioactive Waste), a designation linked to her parliamentary role on nuclear matters.",
+    "status": "declared",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA795990"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "iris-board-member",
+    "item": "Member of the Board of Directors, Institut de relations internationales et stratégiques (IRIS)",
+    "type": "Board membership (think tank)",
+    "period": "Declared 2024",
+    "value": "Unremunerated",
+    "detail": "Declared in sections (A) and (C) of her European Parliament Declaration of Private Interests as a board member of IRIS, a French international-relations and strategic-affairs think tank. Marked as generating no income.",
+    "status": "Declared (EP declaration of private interests)",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+    ]
+  },
+  {
+    "id": "breizh-lab-board-member",
+    "item": "Member of the Board of Directors, Breizh Lab",
+    "type": "Board membership (association)",
+    "period": "Declared 2024",
+    "value": "Unremunerated",
+    "detail": "Declared in sections (A) and (C) of her European Parliament Declaration of Private Interests as a board member of Breizh Lab. Marked as generating no income.",
+    "status": "Declared (EP declaration of private interests)",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+    ]
+  },
+  {
+    "id": "sci-europa-interest",
+    "item": "Co-manager and 33.33% holder of family SCI EUROPA (holds primary residence)",
+    "type": "Real-estate company participation",
+    "period": "Declared 2024",
+    "value": "Unremunerated; stake 33.33%",
+    "detail": "Declared in sections (A), (C), (D) and (G) of her European Parliament Declaration of Private Interests. A family non-trading real-estate company; she holds voting rights. Marked as generating no income.",
+    "status": "Declared (EP declaration of private interests)",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+    ]
+  },
+  {
+    "id": "modem-regional-coordinator",
+    "item": "Regional coordinator of the Mouvement Démocrate (Brittany)",
+    "type": "Political party role",
+    "period": "From September 2020",
+    "value": "Not specified",
+    "detail": "Stated on her own parliamentary website that she has been the regional coordinator of the Mouvement Démocrate since September 2020. Party role, not declared as a financial interest.",
+    "status": "Self-declared (own website)",
+    "source_url": [
+      "https://mp-vedrenne.eu/pages/5r12OnPabKWCgkknmhyhwB/portrait"
+    ]
+  }
+]

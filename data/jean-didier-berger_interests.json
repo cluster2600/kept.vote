@@ -1,0 +1,22 @@
+[
+  {
+    "id": "delegue-general-libres-interest",
+    "item": "Delegue general of the party Libres! (Soyons libres)",
+    "type": "Political party function",
+    "period": "August 2021 - April 2022",
+    "value": "Not specified",
+    "detail": "Listed among Berger's professional activities in HATVP-referenced records: general delegate of Valerie Pecresse's party Libres! Whether remunerated is not documented in accessible sources.",
+    "status": "Past activity",
+    "source_url": ["https://fr.wikipedia.org/wiki/Libres_!", "https://www.hatvp.fr/fiche-nominative/?declarant=berger-jean-didier"]
+  },
+  {
+    "id": "elected-mandates-interests",
+    "item": "Local and regional elected mandates (Clamart, Vallee Sud-Grand Paris, Ile-de-France region, Hauts-de-Seine department)",
+    "type": "Public elected functions",
+    "period": "2008 - 2025",
+    "value": "Statutory indemnities (not itemised here)",
+    "detail": "Concurrent elected functions giving rise to standard public indemnities. Detailed amounts are within the HATVP declaration d'interets, which is filed but marked publication forthcoming.",
+    "status": "Mostly concluded (mayoralty ended Jan 2025); municipal councillor retained",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=berger-jean-didier", "https://en.wikipedia.org/wiki/Jean-Didier_Berger"]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ep-mep-salary-2024",
+    "year": "2024",
+    "type": "Public office remuneration (declared)",
+    "label": "Salary as Member of the European Parliament",
+    "amount": "Public information (standard MEP salary; not itemised in declaration)",
+    "detail": "In her European Parliament Declaration of Private Interests (8 July 2024) she lists her MEP mandate as a source of monthly income, noted as 'public information'. The gross monthly parliamentary salary for MEPs in 2024 was approximately 10,075 EUR before EU tax (uniform across MEPs).",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+    ]
+  },
+  {
+    "id": "ep-outside-income-none",
+    "year": "2024",
+    "type": "Outside remunerated activity (declared)",
+    "label": "Outside paid activities above 5,000 EUR/year",
+    "amount": "None declared",
+    "detail": "In section (B) of her European Parliament Declaration of Private Interests, no outside remunerated activity exceeding 5,000 EUR gross per calendar year is declared. Her declared board memberships (IRIS, Breizh Lab) are marked as generating no income.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+    ]
+  },
+  {
+    "id": "hatvp-declarations",
+    "year": "2025",
+    "type": "HATVP declarations (national, as minister)",
+    "label": "Declarations of assets and interests filed with the HATVP",
+    "amount": "Not yet public at time of research",
+    "detail": "As a member of the government from October 2025, Vedrenne is required to file declarations of assets (déclaration de situation patrimoniale) and interests (déclaration d'intérêts) with France's High Authority for Transparency in Public Life (HATVP). Her HATVP nominative file exists; specific figures had not been published on the HATVP site at the time of research.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vedrenne-marie-pierre-16031"
+    ]
+  }
+]

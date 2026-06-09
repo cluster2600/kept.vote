@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sarl-prosonor",
+    "entity": "SARL PROSONOR",
+    "role": "Associée / détentrice de parts",
+    "ownership_stake": "30 %",
+    "period": "déclarée en 2024",
+    "status": "declared",
+    "detail": "Détention de 30 % des parts de la SARL PROSONOR, telle que déclarée dans la déclaration HATVP (membre du gouvernement).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "sarl-saxho",
+    "entity": "SARL SAXHO",
+    "role": "Associée / détentrice de parts",
+    "ownership_stake": "39 %",
+    "period": "déclarée en 2024",
+    "status": "declared",
+    "detail": "Détention de 39 % des parts de la SARL SAXHO, telle que déclarée dans la déclaration HATVP (membre du gouvernement).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  }
+]

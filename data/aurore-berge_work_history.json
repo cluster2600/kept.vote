@@ -1,0 +1,119 @@
+[
+  {
+    "id": "directrice-conseil-communication",
+    "role": "Directrice conseil en agences de communication",
+    "organization": "Agences de communication (secteur privé)",
+    "start_date": "2009",
+    "end_date": "2017",
+    "description": "Carrière dans le conseil en communication avant son entrée en politique nationale.",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.egalite-femmes-hommes.gouv.fr/biographie-daurore-berge-ministre-deleguee-chargee-de-legalite-entre-les-femmes-et-les-hommes-et-de-la-lutte-contre-les-discriminations",
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9"
+    ]
+  },
+  {
+    "id": "deputee-yvelines-10",
+    "role": "Députée de la 10e circonscription des Yvelines",
+    "organization": "Assemblée nationale",
+    "start_date": "2017-06",
+    "end_date": "2024-12",
+    "description": "Élue en 2017, réélue en 2022 et 2024. Mandats interrompus lors de ses nominations au gouvernement (remplacée par son suppléant). Membre de la Commission des affaires culturelles et de l'éducation (2017-2023).",
+    "category": "legislative",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA722046",
+      "https://www.egalite-femmes-hommes.gouv.fr/biographie-daurore-berge-ministre-deleguee-chargee-de-legalite-entre-les-femmes-et-les-hommes-et-de-la-lutte-contre-les-discriminations"
+    ]
+  },
+  {
+    "id": "conseillere-regionale-idf",
+    "role": "Conseillère régionale d'Île-de-France",
+    "organization": "Conseil régional d'Île-de-France",
+    "start_date": "2021-07",
+    "end_date": "",
+    "description": "Tête de liste LREM dans les Yvelines aux élections régionales de 2021, élue conseillère régionale sous la présidence de Valérie Pécresse.",
+    "category": "regional",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "presidente-groupe-renaissance-an",
+    "role": "Présidente du groupe Renaissance à l'Assemblée nationale",
+    "organization": "Assemblée nationale",
+    "start_date": "2022-06-21",
+    "end_date": "2023-07-20",
+    "description": "Présidente du groupe Renaissance (ex-LREM), succédant à Christophe Castaner et précédant Sylvain Maillard.",
+    "category": "legislative",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.egalite-femmes-hommes.gouv.fr/biographie-daurore-berge-ministre-deleguee-chargee-de-legalite-entre-les-femmes-et-les-hommes-et-de-la-lutte-contre-les-discriminations"
+    ]
+  },
+  {
+    "id": "ministre-solidarites-familles",
+    "role": "Ministre des Solidarités et des Familles",
+    "organization": "Gouvernement Élisabeth Borne",
+    "start_date": "2023-07-20",
+    "end_date": "2024-01-11",
+    "description": "Ministre de plein exercice des Solidarités et des Familles, succédant à Jean-Christophe Combe et précédant Catherine Vautrin.",
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.info.gouv.fr/personnalite/aurore-berge"
+    ]
+  },
+  {
+    "id": "ministre-deleguee-egalite-attal",
+    "role": "Ministre déléguée chargée de l'Égalité entre les femmes et les hommes et de la Lutte contre les discriminations",
+    "organization": "Gouvernement Gabriel Attal",
+    "start_date": "2024-01-11",
+    "end_date": "2024-09-21",
+    "description": "Première séquence à l'Égalité femmes-hommes, sous le gouvernement Attal. Précédée par Bérangère Couillard, suivie par Salima Saa.",
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.info.gouv.fr/personnalite/aurore-berge"
+    ]
+  },
+  {
+    "id": "ministre-deleguee-egalite-bayrou",
+    "role": "Ministre déléguée chargée de l'Égalité entre les femmes et les hommes et de la Lutte contre les discriminations",
+    "organization": "Gouvernement François Bayrou",
+    "start_date": "2024-12-23",
+    "end_date": "2025-09",
+    "description": "Reconduite à l'Égalité femmes-hommes auprès du Premier ministre François Bayrou, succédant à Salima Saa.",
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.info.gouv.fr/personnalite/aurore-berge"
+    ]
+  },
+  {
+    "id": "porte-parole-gouvernement-lecornu",
+    "role": "Porte-parole du gouvernement",
+    "organization": "Gouvernement Sébastien Lecornu",
+    "start_date": "2025-10-05",
+    "end_date": "2025-10-12",
+    "description": "Brièvement porte-parole du gouvernement lors de la première formation du gouvernement Lecornu, tout en restant ministre déléguée à l'Égalité.",
+    "category": "executive",
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2025/10/05/annonce-de-la-nomination-du-gouvernement-le-5-octobre-2025",
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/gouvernement-de-sebastien-lecornu-j-espere-que-les-republicains-vont-rester-je-n-imagine-pas-qu-ils-puissent-partir-reagit-aurore-berge-nommee-porte-parole-et-ministre-de-l-egalite-entre-les-hommes-et-les-femmes_7534963.html"
+    ]
+  },
+  {
+    "id": "ministre-deleguee-egalite-lecornu",
+    "role": "Ministre déléguée chargée de l'Égalité entre les femmes et les hommes et de la Lutte contre les discriminations",
+    "organization": "Gouvernement Sébastien Lecornu (et Lecornu II)",
+    "start_date": "2025-10",
+    "end_date": "",
+    "description": "Reconduite à l'Égalité entre les femmes et les hommes auprès du Premier ministre Sébastien Lecornu, puis maintenue lors du remaniement de février 2026 (gouvernement Lecornu II).",
+    "category": "executive",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/aurore-berge",
+      "https://www.aefinfo.fr/depeche/739013-aurore-berge-reconduite-comme-ministre-deleguee-chargee-de-legalite-entre-les-femmes-et-les-hommes-dans-le-gouvernement-lecornu-ii"
+    ]
+  }
+]

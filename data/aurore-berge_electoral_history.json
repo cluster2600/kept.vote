@@ -1,0 +1,70 @@
+[
+  {
+    "id": "municipales-2014-magny-les-hameaux",
+    "election": "Élections municipales 2014",
+    "date": "2014-03",
+    "role_sought": "Conseillère municipale de Magny-les-Hameaux",
+    "result": "Élue (conseillère municipale d'opposition)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue conseillère municipale d'opposition à Magny-les-Hameaux et conseillère de l'agglomération de Saint-Quentin-en-Yvelines, alors membre de l'UMP/LR.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9"
+    ]
+  },
+  {
+    "id": "legislatives-2017-yvelines-10",
+    "election": "Élections législatives 2017",
+    "date": "2017-06",
+    "role_sought": "Députée de la 10e circonscription des Yvelines",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "Jean-Frédéric Poisson (sortant, Parti chrétien-démocrate)",
+    "detail": "Première élection à l'Assemblée nationale, sous l'étiquette LREM, en battant le député sortant Jean-Frédéric Poisson.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA722046"
+    ]
+  },
+  {
+    "id": "regionales-2021-idf",
+    "election": "Élections régionales 2021 (Île-de-France)",
+    "date": "2021-06",
+    "role_sought": "Conseillère régionale d'Île-de-France",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Tête de liste LREM dans les Yvelines, élue conseillère régionale d'Île-de-France.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "legislatives-2022-yvelines-10",
+    "election": "Élections législatives 2022",
+    "date": "2022-06",
+    "role_sought": "Députée de la 10e circonscription des Yvelines",
+    "result": "Réélue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Réélue députée des Yvelines (Ensemble/Renaissance). Elle devient ensuite présidente du groupe Renaissance.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA722046"
+    ]
+  },
+  {
+    "id": "legislatives-2024-yvelines-10",
+    "election": "Élections législatives anticipées 2024",
+    "date": "2024-07-07",
+    "role_sought": "Députée de la 10e circonscription des Yvelines",
+    "result": "Réélue (second tour)",
+    "vote_share": "49,05 %",
+    "opponent": "Thomas du Chalard (RN, 32,19 %) ; Cédric Briolais (NFP, 18,76 %)",
+    "detail": "Réélue au second tour des législatives anticipées 2024 avec 49,05 % des voix dans une triangulaire. Elle quitte l'Assemblée fin 2024 à la suite de sa nomination au gouvernement.",
+    "source_url": [
+      "https://www.lejdd.fr/politique/second-tour-des-legislatives-aurore-berge-reelue-dans-les-yvelines-147252"
+    ]
+  }
+]

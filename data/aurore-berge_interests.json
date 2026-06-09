@@ -1,0 +1,38 @@
+[
+  {
+    "id": "interet-parts-prosonor",
+    "item": "Parts dans la SARL PROSONOR (30 %)",
+    "type": "Participation financière",
+    "period": "déclarée en 2024",
+    "value": "30 % des parts",
+    "detail": "Intérêt déclaré à la HATVP : détention de 30 % de la SARL PROSONOR.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "interet-parts-saxho",
+    "item": "Parts dans la SARL SAXHO (39 %)",
+    "type": "Participation financière",
+    "period": "déclarée en 2024",
+    "value": "39 % des parts",
+    "detail": "Intérêt déclaré à la HATVP : détention de 39 % de la SARL SAXHO.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "mandat-conseillere-regionale-idf",
+    "item": "Mandat de conseillère régionale d'Île-de-France",
+    "type": "Mandat électif",
+    "period": "depuis 2021",
+    "value": "",
+    "detail": "Mandat de conseillère régionale d'Île-de-France, déclaré comme intérêt/mandat dans la fiche HATVP.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  }
+]

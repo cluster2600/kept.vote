@@ -1,0 +1,82 @@
+[
+  {
+    "id": "minister-delegate-interior",
+    "role": "Minister-Delegate to the Minister of the Interior",
+    "organization": "Government of France (Lecornu III cabinet)",
+    "start_date": "2026-02-26",
+    "end_date": "",
+    "description": "Appointed Minister-Delegate (ministre delegue) to the Minister of the Interior in the third government of Prime Minister Sebastien Lecornu, in the wave of ministres delegues named after the 26 February 2026 reshuffle.",
+    "category": "Executive / government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/jean-didier-berger", "https://www.interieur.gouv.fr/ministres/jean-didier-berger", "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/"]
+  },
+  {
+    "id": "deputy-national-assembly-92-12",
+    "role": "Member of the National Assembly (depute), Hauts-de-Seine 12th constituency",
+    "organization": "Assemblee nationale (France)",
+    "start_date": "2024-07-18",
+    "end_date": "",
+    "description": "Elected deputy for the 12th constituency of Hauts-de-Seine (Clamart, Chatillon, Fontenay-aux-Roses, Le Plessis-Robinson) in the 2024 legislative elections, succeeding Jean-Louis Bourlanges. Member of the Committee on Economic Affairs. Mandate listed as closed/suspended upon entering government per cumul rules.",
+    "category": "Legislature",
+    "source_url": ["https://www.assemblee-nationale.fr/dyn/deputes/PA408578", "https://en.wikipedia.org/wiki/Jean-Didier_Berger"]
+  },
+  {
+    "id": "mayor-clamart",
+    "role": "Mayor of Clamart",
+    "organization": "Ville de Clamart (Hauts-de-Seine)",
+    "start_date": "2014",
+    "end_date": "2025-01",
+    "description": "Elected Mayor of Clamart in 2014 at the head of a union-of-the-right list and re-elected in 2020. Resigned the mayoralty in early January 2025 following his election as deputy (cumul des mandats); succeeded by his deputy Yves Coscas. Remained a municipal councillor.",
+    "category": "Local government",
+    "source_url": ["https://en.wikipedia.org/wiki/Jean-Didier_Berger", "https://www.contact92.com/hauts-de-seine-jean-didier-berger-passe-la-main-qui-est-le-nouveau-maire-de-clamart/", "https://www.clamart.fr/fr/annuaire-des-personnes/jean-didier-berger"]
+  },
+  {
+    "id": "president-vallee-sud-grand-paris",
+    "role": "President of the territorial public establishment Vallee Sud-Grand Paris",
+    "organization": "Etablissement public territorial Vallee Sud-Grand Paris (Metropole du Grand Paris)",
+    "start_date": "2016",
+    "end_date": "2025",
+    "description": "President of the Vallee Sud-Grand Paris territorial public establishment, a grouping of municipalities within the Metropole du Grand Paris.",
+    "category": "Local government / intercommunality",
+    "source_url": ["https://www.valleesud.fr/fr/annuaire-des-personnes/berger-jean-didier", "https://en.wikipedia.org/wiki/Jean-Didier_Berger"]
+  },
+  {
+    "id": "first-vice-president-idf-region",
+    "role": "First Vice-President of the Regional Council of Ile-de-France",
+    "organization": "Conseil regional d'Ile-de-France",
+    "start_date": "2021",
+    "end_date": "",
+    "description": "First vice-president of the Ile-de-France region under president Valerie Pecresse from 2021. Previously a regional councillor of Ile-de-France (2010-2015) and earlier vice-president.",
+    "category": "Regional government",
+    "source_url": ["https://en.wikipedia.org/wiki/Jean-Didier_Berger", "https://www.lejournaldugrandparis.fr/valerie-pecresse-reelue-a-la-presidence-de-la-region-jean-didier-berger-1er-vice-president/"]
+  },
+  {
+    "id": "vice-president-departement-92",
+    "role": "Vice-President of the Departmental Council of Hauts-de-Seine",
+    "organization": "Conseil departemental des Hauts-de-Seine",
+    "start_date": "2015",
+    "end_date": "2021",
+    "description": "Departmental councillor and vice-president of the Hauts-de-Seine departmental council.",
+    "category": "Departmental government",
+    "source_url": ["https://www.clamart.fr/fr/annuaire-des-personnes/jean-didier-berger", "https://data.projetarcadie.com/content/jean-didier-berger"]
+  },
+  {
+    "id": "delegue-general-libres",
+    "role": "Delegue general of the party Libres! (Soyons libres)",
+    "organization": "Soyons libres / Libres! (party founded by Valerie Pecresse)",
+    "start_date": "2021-08",
+    "end_date": "2022-04",
+    "description": "Served as delegue general (general delegate) of Valerie Pecresse's party Libres!; worked on Pecresse's team for the 2022 presidential election. Dates per HATVP-listed activity (Aug 2021 - Apr 2022).",
+    "category": "Political party",
+    "source_url": ["https://fr.wikipedia.org/wiki/Libres_!", "https://en.wikipedia.org/wiki/Jean-Didier_Berger"]
+  },
+  {
+    "id": "director-sempro",
+    "role": "Director of SEMPRO (local mixed-economy development company)",
+    "organization": "SEMPRO - Societe d'economie mixte d'amenagement et de construction de la ville du Plessis-Robinson",
+    "start_date": "",
+    "end_date": "",
+    "description": "Early-career private/parapublic role: directed SEMPRO, the mixed-economy development and construction company of Le Plessis-Robinson, specialising in urban planning and housing, after working with then-mayor Philippe Pemezec. Exact dates not confirmed in official sources.",
+    "category": "Career / parapublic",
+    "source_url": ["https://actulegales.fr/recherche/siren/332062140", "https://viadeo.journaldunet.com/p/jean-didier-berger-837144", "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/"]
+  }
+]

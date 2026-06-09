@@ -1,0 +1,46 @@
+[
+  {
+    "id": "hatvp-compte-epargne-bnp",
+    "year": "2024",
+    "type": "declared",
+    "label": "Compte d'épargne (BNP Paribas)",
+    "amount": "230 010 EUR",
+    "detail": "Montant d'épargne déclaré sur un compte BNP Paribas dans la déclaration de patrimoine HATVP (membre du gouvernement). Valeur déclarée par l'intéressée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "hatvp-emprunts-immobiliers",
+    "year": "2024",
+    "type": "declared",
+    "label": "Emprunts immobiliers (capital restant dû)",
+    "amount": "environ 567 060 EUR",
+    "detail": "Passif déclaré au titre de prêts immobiliers (capital restant dû) dans la déclaration HATVP. Valeur déclarée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "hatvp-parts-sarl-prosonor",
+    "year": "2024",
+    "type": "declared",
+    "label": "Participation dans la SARL PROSONOR (30 %)",
+    "amount": "non chiffré publiquement ici",
+    "detail": "Détention de 30 % des parts de la SARL PROSONOR, déclarée dans la déclaration d'intérêts/patrimoine HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "hatvp-parts-sarl-saxho",
+    "year": "2024",
+    "type": "declared",
+    "label": "Participation dans la SARL SAXHO (39 %)",
+    "amount": "non chiffré publiquement ici",
+    "detail": "Détention de 39 % des parts de la SARL SAXHO, déclarée dans la déclaration d'intérêts/patrimoine HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  }
+]

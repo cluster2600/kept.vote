@@ -1,0 +1,93 @@
+[
+  {
+    "id": "edf-nuclear-engineer",
+    "role": "Engineer (nuclear)",
+    "organization": "EDF (Electricite de France)",
+    "start_date": "2014",
+    "end_date": "2022",
+    "description": "Worked at EDF from 2014 to 2022. Began her career in nuclear within a unit created after the Fukushima disaster to handle severe accident situations at power plants; later specialised in contracts and crisis situations. She resigned from EDF upon her election to the National Assembly.",
+    "category": "private-sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.usinenouvelle.com/elles-et-ils-font-l-industrie/dirigeants/nomination/une-ingenieure-passee-par-edf-qui-est-maud-bregeon-la-nouvelle-ministre-deleguee-chargee-de-lenergie.NXKMI5SNSNEX5A3HKGCJ7OEEQM.html"
+    ]
+  },
+  {
+    "id": "lrem-spokesperson",
+    "role": "Co-spokesperson of the party",
+    "organization": "La Republique en Marche (LaREM / Renaissance)",
+    "start_date": "2020-11",
+    "end_date": "2022",
+    "description": "Appointed spokesperson for Emmanuel Macron's party La Republique en Marche in November 2020, jointly with Prisca Thevenot.",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon"
+    ]
+  },
+  {
+    "id": "deputy-hauts-de-seine-2022",
+    "role": "Member of the National Assembly (Deputy), Hauts-de-Seine 13th constituency",
+    "organization": "National Assembly of France",
+    "start_date": "2022-06-22",
+    "end_date": "2024-10-21",
+    "description": "Elected deputy for the 13th constituency of Hauts-de-Seine in June 2022. Served on the National Defence and Armed Forces Committee and the Economic Affairs Committee, and was a member of the Parliamentary Office for the Evaluation of Scientific and Technological Choices (OPECST). Seat ended in October 2024 on entering the Barnier government (replaced by her substitute).",
+    "category": "elected-office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA795990"
+    ]
+  },
+  {
+    "id": "spokesperson-barnier",
+    "role": "Spokesperson of the Government",
+    "organization": "Government of France (Barnier government)",
+    "start_date": "2024-09-21",
+    "end_date": "2024-12-05",
+    "description": "Appointed spokesperson of the Government in the Barnier government, succeeding Prisca Thevenot. Left office when the Barnier government fell in December 2024 (succeeded by Sophie Primas).",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050246032"
+    ]
+  },
+  {
+    "id": "deputy-hauts-de-seine-2024",
+    "role": "Member of the National Assembly (Deputy), Hauts-de-Seine 13th constituency",
+    "organization": "National Assembly of France",
+    "start_date": "2024-12-05",
+    "end_date": "",
+    "description": "Returned to the National Assembly as deputy for the 13th constituency of Hauts-de-Seine on 5 December 2024 following the fall of the Barnier government (re-elected in the 2024 snap legislative election). Member of the Ensemble pour la Republique group.",
+    "category": "elected-office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.elections-legislatives.fr/departement/92/circonscription/13"
+    ]
+  },
+  {
+    "id": "spokesperson-lecornu",
+    "role": "Spokesperson of the Government",
+    "organization": "Government of France (Lecornu government)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Reappointed spokesperson of the Government in the Lecornu government from 12 October 2025, succeeding Aurore Berge.",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.info.gouv.fr/personnalite/maud-bregeon"
+    ]
+  },
+  {
+    "id": "minister-delegate-energy-2026",
+    "role": "Minister-Delegate to the Prime Minister, Government spokesperson, in charge of Energy",
+    "organization": "Government of France (Lecornu government)",
+    "start_date": "2026-02-26",
+    "end_date": "",
+    "description": "Following the 26 February 2026 reshuffle, appointed Minister-Delegate to the Prime Minister, Government spokesperson, in charge of Energy (under the Minister of the Economy, Finance and industrial, energy and digital Sovereignty). Tasked with leading the major electrification-of-uses plan following adoption of the third multiannual energy programme (PPE 3).",
+    "category": "government",
+    "source_url": [
+      "https://www.economie.gouv.fr/ministres/maud-bregeon",
+      "https://www.info.gouv.fr/personnalite/maud-bregeon",
+      "https://attribmin.guide-legistique.fr/?p=3188"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "deputee-edf-conflict-of-interest",
+    "title": "The 'EDF deputy' conflict-of-interest questions",
+    "period": "2022-2023",
+    "category": "conflict of interest (alleged)",
+    "description": "After being elected in 2022 following an eight-year career at EDF (2014-2022), Bregeon served as rapporteure on the 'energy' part of the 2022 purchasing-power bill and then, from February 2023, as rapporteure of the nuclear acceleration law. A January 2023 Mediapart investigation by Jade Lindgaard, headlined 'Questions sur Maud Bregeon, la deputee EDF', and critics including environmental groups questioned whether her former employment at the state utility created a conflict of interest on nuclear legislation. Bregeon stated she had resigned from EDF after her election 'to have a free hand' and said she had consulted the National Assembly's ethics ombudsman (deontologue), who concluded she was not in a conflict-of-interest situation, having no remaining contractual or financial links with EDF.",
+    "status": "No formal finding of conflict of interest; the Assembly's ethics ombudsman concluded there was none. Allegation/criticism only; no legal proceedings reported.",
+    "confidence_score": "high",
+    "key_facts": [
+      "Worked at EDF 2014-2022; resigned upon election in 2022.",
+      "Rapporteure of the 2023 nuclear acceleration law.",
+      "January 2023 Mediapart investigation raised conflict-of-interest questions.",
+      "She consulted the Assembly's ethics ombudsman, who found no conflict of interest.",
+      "No legal proceedings; presumption of innocence applies to any allegation."
+    ],
+    "source_url": [
+      "https://www.mediapart.fr/journal/politique/150123/questions-sur-maud-bregeon-la-deputee-edf",
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://reporterre.net/La-pronucleaire-Maud-Bregeon-devient-ministre-deleguee-a-l-Energie"
+    ]
+  }
+]

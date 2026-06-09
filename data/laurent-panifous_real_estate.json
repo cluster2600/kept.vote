@@ -1,0 +1,67 @@
+[
+  {
+    "id": "re-appartement-09",
+    "property": "Apartment, 86 m2",
+    "location": "Ariège (Department 09), France",
+    "transaction_type": "Acquired by donation; owned 100% (pleine propriété)",
+    "date": "2000",
+    "value": "80000",
+    "detail": "Apartment entered the estate in 2000 by donation; 50,000 euros of works declared. Declared market value 80,000 euros.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "re-maison-principale-09",
+    "property": "Detached house, 163 m2 (0.19 ha land)",
+    "location": "Ariège (Department 09), France",
+    "transaction_type": "Acquisition; owned 100% (pleine propriété)",
+    "date": "2020",
+    "value": "350000",
+    "detail": "Detached house acquired in 2020, full ownership. Declared market value 350,000 euros. Financed in part by a Crédit Agricole home loan (272,863 euros, 199,890 euros remaining).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "re-maison-indivise-123-09",
+    "property": "Detached house, 123 m2 (0.8 ha land)",
+    "location": "Ariège (Department 09), France",
+    "transaction_type": "Donation; bare ownership (nue-propriété), 33% undivided share",
+    "date": "2016",
+    "value": "66666",
+    "detail": "House held in indivision; bare ownership (nue-propriété), 33% share, entered estate 2016 by donation. Declared value of the share 66,666 euros (acquisition price of whole 200,000 euros).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "re-maison-indivise-344-09",
+    "property": "Detached house, 344 m2 (0.45 ha land)",
+    "location": "Ariège (Department 09), France",
+    "transaction_type": "Donation; bare ownership (nue-propriété), 33% undivided share",
+    "date": "1998",
+    "value": "153615",
+    "detail": "House held in indivision; bare ownership (nue-propriété), 33% share, entered estate 1998 by donation. Declared value of the share 153,615 euros.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "re-terres-agricoles-11",
+    "property": "Agricultural land, 0.425 ha",
+    "location": "Aude (Department 11), France",
+    "transaction_type": "Acquisition; full ownership, 10% undivided share",
+    "date": "2022",
+    "value": "600",
+    "detail": "Agricultural land held in indivision, 10% share, acquired 2022 for 600 euros. Declared market value 600 euros.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pol-entree-gouvernement-criticism",
+    "title": "Criticism from the left over joining the Lecornu government",
+    "period": "2025-10",
+    "category": "political controversy",
+    "description": "Panifous's appointment as Minister-Delegate for Relations with Parliament in October 2025 drew sharp criticism, including from parts of the left and from within his own LIOT group, given his background as a Socialist and his self-described opposition to Macronism. In an internal message to his group he wrote: 'I'm not doing this to show off or for my CV, I'm risking rather excommunication and the end of my political career.' He justified the move as an attempt 'to try everything to avoid the political chaos' a government collapse would bring, while stating he did not share 'the ideas of Macronism'. This is a political/reputational controversy, not a legal matter.",
+    "status": "Political controversy; no legal proceedings. Allegations of inconsistency are political opinions, not findings.",
+    "confidence_score": "high",
+    "key_facts": [
+      "Appointed Minister-Delegate for Relations with Parliament on 12 October 2025.",
+      "Socialist Party dissident, suspended from the PS in 2022 for refusing the NUPES alliance.",
+      "Publicly acknowledged the 'destabilising' nature of his choice and risk to his career.",
+      "No legal or ethics proceedings associated with the controversy."
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/occitanie/ariege/foix/je-risque-la-fin-de-ma-carriere-politique-laurent-panifous-l-opposant-devenu-ministre-entree-choc-du-socialiste-dissident-au-gouvernement-sous-le-feu-des-critiques-3232121.html",
+      "https://france3-regions.franceinfo.fr/occitanie/ariege/foix/j-ai-conscience-de-l-aspect-destabilisant-de-mon-choix-laurent-panifous-se-justifie-apres-sa-nomination-au-gouvernement-3235766.html"
+    ]
+  },
+  {
+    "id": "pol-campagne-municipale-sourdine",
+    "title": "Low-profile local campaign as a sitting minister",
+    "period": "2026",
+    "category": "media coverage",
+    "description": "Local press reported that, as a sitting minister, Panifous ran a deliberately discreet ('en sourdine') local campaign in his small Ariège commune, in line with a reported request from Prime Minister Lecornu to ministers to avoid making waves. This is descriptive press coverage rather than an allegation of wrongdoing.",
+    "status": "No allegation of wrongdoing; descriptive press coverage.",
+    "confidence_score": "medium",
+    "key_facts": [
+      "Reported by France 3 Occitanie / franceinfo regional coverage.",
+      "Framed around ministerial guidance to keep a low local profile.",
+      "No legal or ethical issue involved."
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/occitanie/ariege/foix/pas-de-vagues-dans-un-village-de-900-habitants-un-ministre-fait-campagne-en-sourdine-comme-lecornu-le-demande-3315402.html"
+    ]
+  }
+]

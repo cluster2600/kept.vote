@@ -1,0 +1,50 @@
+[
+  {
+    "id": "int-administrateur-inca",
+    "item": "Board member (administrator), Institut national du cancer (INCa)",
+    "type": "Board membership / public body",
+    "period": "2023-01 to 2024-06",
+    "value": "0 euros (unremunerated)",
+    "detail": "Sat on the board of the Institut national du cancer; no remuneration declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "int-conjoint-infirmiere",
+    "item": "Spouse / partner professional activity: nurse (infirmière)",
+    "type": "Family interest",
+    "period": "as of declaration (2025-2026)",
+    "value": "",
+    "detail": "Declared spouse/partner occupation: nurse at a hospital centre (employer details not published by HATVP).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "int-mandats-intercommunaux-syndicats",
+    "item": "Local intercommunal and syndicate roles (PETR Ariège, SMIVAL, SMECTOM Plantaurel, Agence Ariège Attractivité)",
+    "type": "Local public-body mandates",
+    "period": "2018 to 2022",
+    "value": "0 euros (unremunerated)",
+    "detail": "Held various ex-officio roles in Ariège territorial bodies, water/flood management syndicate (GEMAPI), waste collection syndicate and economic development agency. All declared unremunerated.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "int-fonpel-pension",
+    "item": "FONPEL elected-officials pension contracts",
+    "type": "Pension / life-insurance holding",
+    "period": "subscribed 2021",
+    "value": "8,430 euros and 30,466 euros",
+    "detail": "Two FONPEL (local elected officials' optional pension fund) contracts declared as life-insurance-type holdings.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  }
+]

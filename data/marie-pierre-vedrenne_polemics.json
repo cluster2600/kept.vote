@@ -1,0 +1,40 @@
+[
+  {
+    "id": "clooney-naturalisation-comment",
+    "title": "Criticism of George Clooney's French naturalisation",
+    "period": "December 2025",
+    "category": "Political controversy / public statement",
+    "description": "After actor George Clooney, his wife Amal Alamuddin and their two children were granted French nationality by decree on 27 December 2025 (on the proposal of the Minister for Foreign Affairs, for distinguished service to France's international influence), Vedrenne, then Minister Delegate to the Interior, said on 31 December 2025 that this was 'not the right message being sent' and raised a question of fairness ('équité'), noting the naturalisation came shortly before tougher civic and language requirements took effect on 1 January 2026. Her comments drew media attention and debate.",
+    "status": "Public statement; no legal proceedings. Comment, not wrongdoing.",
+    "confidence_score": "high",
+    "key_facts": [
+      "George Clooney and family naturalised by decree dated 27 December 2025",
+      "Vedrenne stated on 31 December 2025 it was 'not the right message' and cited a fairness concern",
+      "Naturalisation was on the proposal of the Foreign Affairs Minister for service to France's influence",
+      "No legal or disciplinary consequence; this is a political/communications controversy"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/culture/cinema/george-clooney-obtient-la-nationalite-francaise-ce-n-est-pas-le-bon-message-qui-est-envoye-estime-la-ministre-deleguee-a-l-interieur_7712602.html",
+      "https://www.cnews.fr/culture/2025-12-31/naturalisation-de-george-clooney-une-ministre-denonce-un-mauvais-message-1794064"
+    ]
+  },
+  {
+    "id": "adviser-radicalisation-suspicion",
+    "title": "Removal of a ministerial adviser over radicalisation suspicions",
+    "period": "February 2026",
+    "category": "Cabinet / security clearance",
+    "description": "Europe 1 reported on 20 February 2026 that a close adviser to Vedrenne, who had joined her cabinet at the Interior Ministry in autumn 2025 and was aiming for the post of deputy chief of staff (requiring high-level security clearance), left after intelligence services declined to grant clearance. According to the report, the security review flagged concerns including ties in his entourage detected by the DGSI and that he allegedly pushed the minister toward rhetoric suggesting the state was Islamophobic. The official reason given for his departure was a resignation. The person concerned denied the reasons for the clearance refusal, stating such refusals are common in sovereign ministries and that he has always fought radicalisation. Vedrenne and the Interior Minister's office did not respond to Europe 1.",
+    "status": "Allegation reported by media; the individual denies the characterisation. Concerns a staff member, not the minister personally; no proceedings against Vedrenne. Presumption of innocence applies.",
+    "confidence_score": "medium",
+    "key_facts": [
+      "Single-source reporting by Europe 1 (William Molinié), 20 February 2026",
+      "Concerns an adviser/aspiring deputy chief of staff, not the minister herself",
+      "Security clearance reportedly refused; the adviser left the ministry",
+      "The individual denies the stated reasons; the minister's office did not comment",
+      "No legal proceedings reported"
+    ],
+    "source_url": [
+      "https://www.europe1.fr/politique/info-europe-1-soupconne-de-radicalisation-un-collaborateur-de-marie-pierre-vedrenne-evince-de-la-place-beauvau-900138"
+    ]
+  }
+]

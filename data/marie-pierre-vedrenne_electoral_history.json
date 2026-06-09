@@ -1,0 +1,31 @@
+[
+  {
+    "id": "european-2019",
+    "election": "2019 European Parliament election (France)",
+    "date": "2019-05-26",
+    "role_sought": "Member of the European Parliament",
+    "result": "Elected",
+    "vote_share": "France-wide LaREM/MoDem 'Renaissance' list led by Nathalie Loiseau obtained 22.42% (national list, single constituency)",
+    "opponent": "Rassemblement National list (Jordan Bardella) topped the poll at 23.34%",
+    "detail": "Vedrenne was elected for the first time on the Renaissance (La République En Marche / MoDem majority) list. France uses a single national constituency with proportional representation; individual candidates do not have a personal vote share.",
+    "source_url": [
+      "https://www.europarl.europa.eu/meps/en/197502/MARIE-PIERRE_VEDRENNE/history/9",
+      "https://en.wikipedia.org/wiki/Marie-Pierre_Vedrenne"
+    ]
+  },
+  {
+    "id": "european-2024",
+    "election": "2024 European Parliament election (France)",
+    "date": "2024-06-09",
+    "role_sought": "Member of the European Parliament",
+    "result": "Re-elected (3rd position on the list)",
+    "vote_share": "Besoin d'Europe (Renaissance) list led by Valérie Hayer obtained about 14.6% nationally",
+    "opponent": "Rassemblement National list (Jordan Bardella) won with about 31.4%",
+    "detail": "Vedrenne ran in third position on the Besoin d'Europe / Renaissance list (behind Valérie Hayer and Bernard Guetta) and was re-elected. France uses a single national constituency; there is no individual candidate vote share.",
+    "source_url": [
+      "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-qui-sont-les-candidats-de-la-liste-renaissance/",
+      "https://www.franceinfo.fr/elections/elections-europeennes-2024-bernard-guetta-marie-pierre-vedrenne-pascal-canfin-et-nathalie-loiseau-sur-la-liste-de-la-majorite_6523589.html",
+      "https://www.lemonde.fr/les-decodeurs/article/2024/06/10/europeennes-2024-qui-sont-les-81-deputes-francais-elus-au-parlement_6238406_4355770.html"
+    ]
+  }
+]

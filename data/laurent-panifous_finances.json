@@ -1,0 +1,46 @@
+[
+  {
+    "id": "fin-2023-revenu-depute",
+    "year": "2023",
+    "type": "salary",
+    "label": "Net parliamentary remuneration (deputy)",
+    "amount": "73698",
+    "detail": "Declared net deputy's pay for 2023 (full year), per HATVP interest declaration. Mandate June 2022 to June 2024.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "fin-2025-revenu-depute",
+    "year": "2025",
+    "type": "salary",
+    "label": "Net parliamentary remuneration (deputy)",
+    "amount": "54170",
+    "detail": "Declared net deputy's pay for 2025 (until the mandate was suspended in November 2025 on entering government), per HATVP. Subsequently ministerial remuneration applies.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "fin-2021-revenu-ehpad",
+    "year": "2021",
+    "type": "salary",
+    "label": "Net salary as director, EHPAD des Portes d'Ariège",
+    "amount": "55074",
+    "detail": "Declared net pay as director of the EHPAD des Portes d'Ariège for 2021. Also 22,134 euros (2020) and 34,060 euros (2022).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "fin-2021-indemnite-maire",
+    "year": "2021",
+    "type": "elected-allowance",
+    "label": "Net mayoral indemnity, Le Fossat",
+    "amount": "9458",
+    "detail": "Declared net mayoral indemnity for 2021. Annual mayoral indemnities ranged roughly 5,517-15,432 euros per year over 2017-2022, per HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  }
+]

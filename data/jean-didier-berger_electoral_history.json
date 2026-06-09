@@ -1,0 +1,57 @@
+[
+  {
+    "id": "legislatives-2024-92-12",
+    "election": "French legislative election (2024), Hauts-de-Seine 12th constituency",
+    "date": "2024-07-07",
+    "role_sought": "Member of the National Assembly (depute)",
+    "result": "Elected (second round)",
+    "vote_share": "Approx. 54.31% of votes cast in the constituency (second round); reported around 53.86% in Clamart",
+    "opponent": "Lounes Adjroud (left/NFP), who led in Fontenay-aux-Roses",
+    "detail": "Candidate of the 'ensemble' / right-of-centre coalition (Libres! of LR, MoDem, UDI, Renaissance, Horizons). Elected deputy, succeeding Jean-Louis Bourlanges; took his seat 18 July 2024.",
+    "source_url": ["https://www.nouvellesdefontenay.fr/elections-legislatives-dans-la-12e-circonscription-des-hauts-de-seine-clamart-chatillon-fontenay-aux-roses-et-le-plessis-robinson-jean-didier-berger-est-elu-5431-des-voix-mais-lounes-adjroud/", "https://www.elections-legislatives.fr/departement/92/circonscription/12", "https://en.wikipedia.org/wiki/Jean-Didier_Berger"]
+  },
+  {
+    "id": "municipales-2020-clamart",
+    "election": "Municipal election (2020), Clamart",
+    "date": "2020-06-28",
+    "role_sought": "Mayor of Clamart (list head, 'Clamart en toute serenite')",
+    "result": "Elected (re-elected mayor; led second round)",
+    "vote_share": "First round 45.87%; second round approx. 49.89% (list led, 34 seats)",
+    "opponent": "Didier Dincher ('Clamart Citoyenne', approx. 32.63%); Stephane Dehoche (approx. 17.46%)",
+    "detail": "Three-way second round on 28 June 2020. Berger's union-of-the-right list came first and won the council majority (34 of council seats).",
+    "source_url": ["https://www.clamart.fr/fr/actualites/resultats-du-second-tour-des-elections-municipales-2020-a-clamart", "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/municipales-2020/092/C2092023L005.php", "https://www.franceinfo.fr/elections/municipales/resultats/2020/hauts-de-seine_92/clamart_92140"]
+  },
+  {
+    "id": "municipales-2014-clamart",
+    "election": "Municipal election (2014), Clamart",
+    "date": "2014-03-23",
+    "role_sought": "Mayor of Clamart (list head, union of the right)",
+    "result": "Elected (first round)",
+    "vote_share": "More than 53% of votes cast (first round)",
+    "opponent": "Outgoing left-wing municipal majority (then-mayor's list)",
+    "detail": "Won the mayoralty for the first time at the head of a union-of-the-right list, elected in the first round with over 53%.",
+    "source_url": ["https://www.proxiti.info/election-municipale-2014.php?n=CLAMART&o=92023", "https://en.wikipedia.org/wiki/Jean-Didier_Berger"]
+  },
+  {
+    "id": "regionales-idf",
+    "election": "Regional elections, Ile-de-France (2010, 2015, 2021)",
+    "date": "",
+    "role_sought": "Regional councillor of Ile-de-France",
+    "result": "Elected",
+    "vote_share": "Not separately documented (list-based)",
+    "opponent": "",
+    "detail": "Regional councillor 2010-2015; later vice-president then first vice-president (since 2021) of the Ile-de-France region on Valerie Pecresse's list. Specific list vote shares not detailed here.",
+    "source_url": ["https://en.wikipedia.org/wiki/Jean-Didier_Berger", "https://www.lejournaldugrandparis.fr/valerie-pecresse-reelue-a-la-presidence-de-la-region-jean-didier-berger-1er-vice-president/"]
+  },
+  {
+    "id": "european-2024-not-verified",
+    "election": "European Parliament election (2024) - claimed MEP mandate not verified",
+    "date": "2024-06-09",
+    "role_sought": "Member of the European Parliament (claimed)",
+    "result": "Not verified / no evidence found of an MEP mandate",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "The research brief stated Berger was an MEP elected on the 2024 LR list. No official source (European Parliament register, Assemblee nationale, government records, Wikipedia) corroborates this; all sources show his elected national mandate is the French National Assembly (depute, 92-12). Recorded here transparently as unverified rather than asserted.",
+    "source_url": ["https://en.wikipedia.org/wiki/Jean-Didier_Berger", "https://www.assemblee-nationale.fr/dyn/deputes/PA408578"]
+  }
+]

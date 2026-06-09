@@ -1,0 +1,98 @@
+[
+  {
+    "id": "stk-amundi-serenite-pea",
+    "holding": "Amundi Serenite PEA P-C (fund)",
+    "type": "Mutual fund / ETF held in PEA",
+    "value": "15924",
+    "as_of": "2025-11-07 (declaration); modified interests 2026-02-21",
+    "detail": "150 units. Largest single line in the declared equity portfolio. Held within Crédit Agricole PEA accounts.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "stk-engie",
+    "holding": "Engie",
+    "type": "Listed equity share",
+    "value": "4934",
+    "as_of": "2025-11-07 / 2026-02-21",
+    "detail": "232 shares declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "stk-cpr-croissance-dynamique",
+    "holding": "CPR Croissance Dynamique P (fund)",
+    "type": "Mutual fund held in PEA",
+    "value": "4721",
+    "as_of": "2025-11-07 / 2026-02-21",
+    "detail": "33 units declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "stk-orange",
+    "holding": "Orange",
+    "type": "Listed equity share",
+    "value": "4231",
+    "as_of": "2025-11-07 / 2026-02-21",
+    "detail": "303 shares declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "stk-thales",
+    "holding": "Thales",
+    "type": "Listed equity share",
+    "value": "5247",
+    "as_of": "2025-11-07 / 2026-02-21",
+    "detail": "22 shares declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "stk-sg-actions-us",
+    "holding": "SG Actions US C FCP",
+    "type": "Mutual fund held in PEA",
+    "value": "5160",
+    "as_of": "2025-11-07 / 2026-02-21",
+    "detail": "10 units declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "stk-amundi-pea-eau",
+    "holding": "Amundi PEA Eau MSCI Water UCITS ETF",
+    "type": "ETF held in PEA",
+    "value": "5156",
+    "as_of": "2025-11-07 / 2026-02-21",
+    "detail": "170 units declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "stk-other-listed-holdings",
+    "holding": "Other listed equities and ETFs (Beneteau, Cellnex, Danone, Remy Cointreau, Sopra Steria, STMicroelectronics, Veolia, ArcelorMittal, Michelin, Solvay, Trigano, JCDecaux, ASML, Amundi Russell 2000 ETF, Amundi PEA Nasdaq-100, Amundi PEA Inde, Amundi PEA Em. Screen)",
+    "type": "Listed equities and ETFs held in PEA / compte-titres",
+    "value": "approx. 2,000-3,800 euros each line",
+    "as_of": "2025-11-07 / 2026-02-21",
+    "detail": "Remaining lines in a diversified declared portfolio of 24 listed participations, each valued roughly 1,686-3,756 euros. Held within Crédit Agricole PEA accounts.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  }
+]

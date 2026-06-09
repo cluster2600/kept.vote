@@ -1,0 +1,28 @@
+[
+  {
+    "id": "maison-eure-27",
+    "property": "Maison individuelle (environ 400 m²)",
+    "location": "Département de l'Eure (27)",
+    "transaction_type": "Acquisition",
+    "date": "2007",
+    "value": "750 000 EUR (valeur déclarée)",
+    "detail": "Maison individuelle d'environ 400 m² acquise en 2007, valeur déclarée à la HATVP. Valeur déclarée par l'intéressée, non vérifiée par une expertise indépendante.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "maison-yvelines-78",
+    "property": "Maison individuelle (environ 200 m²)",
+    "location": "Département des Yvelines (78)",
+    "transaction_type": "Acquisition",
+    "date": "2023",
+    "value": "695 000 EUR (valeur déclarée ; acquisition 575 000 EUR + environ 120 000 EUR de travaux)",
+    "detail": "Maison individuelle d'environ 200 m² acquise en 2023 pour 575 000 EUR, avec environ 120 000 EUR de travaux, valeur déclarée à environ 695 000 EUR dans la déclaration HATVP. Valeurs déclarées par l'intéressée.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  }
+]

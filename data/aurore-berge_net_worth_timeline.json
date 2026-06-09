@@ -1,0 +1,12 @@
+[
+  {
+    "id": "net-worth-2024-estimate",
+    "year": "2024",
+    "declared_net_worth": "Non communiqué sous forme d'un chiffre net agrégé officiel",
+    "note": "La HATVP publie le détail des actifs et passifs (deux biens immobiliers d'une valeur déclarée d'environ 750 000 EUR et 695 000 EUR, épargne d'environ 230 010 EUR, parts de deux SARL) et des emprunts immobiliers (capital restant dû d'environ 567 060 EUR), mais ne publie pas un patrimoine net agrégé unique. Tout chiffre net global serait une estimation et n'est pas reproduit ici pour éviter toute approximation.",
+    "status": "declared_components_only",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  }
+]

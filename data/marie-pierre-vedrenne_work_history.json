@@ -1,0 +1,91 @@
+[
+  {
+    "id": "maison-europe-rennes",
+    "role": "Director (Directrice); previously Chargée de mission",
+    "organization": "Maison de l'Europe de Rennes",
+    "start_date": "2016",
+    "end_date": "2019",
+    "description": "Headed the Maison de l'Europe de Rennes, a regional association promoting European awareness and citizenship, before entering electoral politics. Earlier she had worked there as chargée de mission.",
+    "category": "European affairs / civil society",
+    "source_url": [
+      "https://www.interieur.gouv.fr/ministres/marie-pierre-vedrenne",
+      "https://en.wikipedia.org/wiki/Marie-Pierre_Vedrenne"
+    ]
+  },
+  {
+    "id": "mep-9th-term",
+    "role": "Member of the European Parliament (9th term); Vice-Chair of the Committee on International Trade (INTA)",
+    "organization": "European Parliament (Renew Europe group)",
+    "start_date": "2019-07-02",
+    "end_date": "2024-07-15",
+    "description": "Elected on the Renaissance list at the May 2019 European elections. Sat with Renew Europe. Vice-Chair of the INTA committee (from 10 July 2019); also served on the Committee on Employment and Social Affairs (EMPL) and Committee on Petitions (PETI), and as Vice-Chair of the ACP-EU / Caribbean-EU delegations. Co-chaired the Renaissance European list with Valérie Hayer from October 2021.",
+    "category": "Elected office (EU)",
+    "source_url": [
+      "https://www.europarl.europa.eu/meps/en/197502/MARIE-PIERRE_VEDRENNE/history/9",
+      "https://en.wikipedia.org/wiki/Marie-Pierre_Vedrenne"
+    ]
+  },
+  {
+    "id": "mep-10th-term",
+    "role": "Member of the European Parliament (10th term); Member of the Bureau of the Renew Europe group; Vice-Chair role at committee level",
+    "organization": "European Parliament (Renew Europe group)",
+    "start_date": "2024-07-16",
+    "end_date": "2025-10-11",
+    "description": "Re-elected in 2024 in third position on the Besoin d'Europe (Renaissance) list. Member of the Bureau of the Renew Europe group and sole leader of the Renaissance MEPs within Renew Europe. Sat on the Committee on International Trade (INTA), Committee on Employment and Social Affairs (EMPL), and as substitute on Industry/Research/Energy (ITRE) and the Special Committee on the Housing Crisis. Her EP mandate ended on 11 October 2025 when she joined the government.",
+    "category": "Elected office (EU)",
+    "source_url": [
+      "https://www.europarl.europa.eu/meps/en/197502/MARIE-PIERRE_VEDRENNE/history/10"
+    ]
+  },
+  {
+    "id": "min-delegate-interior",
+    "role": "Minister Delegate to the Minister of the Interior",
+    "organization": "Government of France (second Lecornu government)",
+    "start_date": "2025-10-12",
+    "end_date": "2026-02-26",
+    "description": "Appointed Minister Delegate to the Minister of the Interior (under Laurent Nuñez) in the second Lecornu government.",
+    "category": "Executive (national government)",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marie-Pierre_Vedrenne",
+      "https://www.info.gouv.fr/personnalite/marie-pierre-vedrenne"
+    ]
+  },
+  {
+    "id": "min-delegate-citizenship",
+    "role": "Minister Delegate to the Minister of the Interior, in charge of Citizenship (Citoyenneté)",
+    "organization": "Government of France (Lecornu government)",
+    "start_date": "2026-02-26",
+    "end_date": "",
+    "description": "Following the 26 February 2026 reshuffle, named Minister Delegate to the Minister of the Interior in charge of Citizenship. Her attributions were fixed by Decree no. 2026-185 of 18 March 2026.",
+    "category": "Executive (national government)",
+    "source_url": [
+      "https://www.interieur.gouv.fr/ministres/marie-pierre-vedrenne",
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053700436/2026-03-21",
+      "https://www.info.gouv.fr/actualite/la-nouvelle-composition-du-gouvernement-de-sebastien-lecornu"
+    ]
+  },
+  {
+    "id": "iris-board",
+    "role": "Member of the Board of Directors",
+    "organization": "Institut de relations internationales et stratégiques (IRIS)",
+    "start_date": "",
+    "end_date": "",
+    "description": "Declared in her European Parliament Declaration of Private Interests (8 July 2024) as a member of the board of directors of IRIS; unremunerated.",
+    "category": "Board / non-profit (declared)",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+    ]
+  },
+  {
+    "id": "breizh-lab-board",
+    "role": "Member of the Board of Directors",
+    "organization": "Breizh Lab",
+    "start_date": "",
+    "end_date": "",
+    "description": "Declared in her European Parliament Declaration of Private Interests (8 July 2024) as a member of the board of the Breizh Lab association; unremunerated.",
+    "category": "Board / non-profit (declared)",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+    ]
+  }
+]

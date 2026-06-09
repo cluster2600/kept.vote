@@ -1,0 +1,43 @@
+[
+  {
+    "id": "eh-legislatives-2024-ariege-2",
+    "election": "2024 French legislative election",
+    "date": "2024-07-07",
+    "role_sought": "Member of the National Assembly, Ariège 2nd constituency",
+    "result": "Re-elected (won)",
+    "vote_share": "57.07% (second round)",
+    "opponent": "Michèle Alozy (Rassemblement National), 42.93%",
+    "detail": "Dissident socialist candidate. First round (30 June 2024): 48.25% vs 40.41% for Alozy. Won the run-off with 57.07% on 7 July 2024; second-round turnout 70.27%.",
+    "source_url": [
+      "https://pyreneesfm.com/legislatives-laurent-panifous-remporte-la-2eme-circonscription-de-lariege-avec-57-29-des-voix/",
+      "https://www.franceinfo.fr/elections/resultats/ariege_09/ariege_2eme-circonscription"
+    ]
+  },
+  {
+    "id": "eh-legislatives-2022-ariege-2",
+    "election": "2022 French legislative election",
+    "date": "2022-06-19",
+    "role_sought": "Member of the National Assembly, Ariège 2nd constituency",
+    "result": "Elected (won)",
+    "vote_share": "",
+    "opponent": "Michel Larive (NUPES / La France Insoumise, outgoing deputy)",
+    "detail": "Socialist Party dissident; suspended from the PS for refusing the NUPES alliance. Between the two rounds he benefited from the presidential majority's call to vote for him against the NUPES candidate Michel Larive. He pledged a 'responsible opposition' to President Macron.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Laurent_Panifous",
+      "https://france3-regions.francetvinfo.fr/occitanie/ariege/foix/direct-resultats-legislatives-2022-en-ariege-un-boulevard-pour-les-2-deputes-sortants-lfi-nupes-2564472.html"
+    ]
+  },
+  {
+    "id": "eh-municipales-2014-le-fossat",
+    "election": "Municipal election, Le Fossat",
+    "date": "2014-03-30",
+    "role_sought": "Mayor of Le Fossat",
+    "result": "Elected mayor",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Became mayor of Le Fossat on 30 March 2014, succeeding Bernard Campmas. Served until July 2022.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Laurent_Panifous"
+    ]
+  }
+]
