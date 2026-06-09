@@ -37,9 +37,20 @@ class Settings:
             "postgresql://postgres:postgres@localhost:5432/promises",
         )
         # SQLAlchemy's async engine needs an async driver. Transparently
-        # upgrade a plain `postgresql://` URL to use asyncpg so operators can
-        # keep using the canonical connection string.
-        self.database_url: str = self._normalize_async_dsn(raw_database_url)
+        # upgrade a plain `postgresql://` URL to use asyncpg, and strip libpq-only
+        # query params (sslmode/channel_binding) that asyncpg can't parse — these
+        # appear in managed-Postgres URLs like Neon's. SSL is applied via
+        # connect_args instead (see `db_ssl`).
+        self.database_url, ssl_from_url = self._normalize_async_dsn(
+            raw_database_url
+        )
+        # Whether to require TLS on the DB connection. Derived from the URL's
+        # sslmode (Neon uses sslmode=require), overridable via DB_SSL.
+        db_ssl_env = os.getenv("DB_SSL")
+        if db_ssl_env is not None:
+            self.db_ssl: bool = db_ssl_env.strip().lower() in {"1", "true", "yes", "require"}
+        else:
+            self.db_ssl = ssl_from_url
 
         # Connection-pool tuning (sensible production defaults).
         self.db_pool_size: int = int(os.getenv("DB_POOL_SIZE", "10"))
@@ -73,20 +84,45 @@ class Settings:
         )
 
     @staticmethod
-    def _normalize_async_dsn(dsn: str) -> str:
-        """Return a DSN that uses the asyncpg driver.
+    def _normalize_async_dsn(dsn: str) -> tuple[str, bool]:
+        """Return an asyncpg-ready DSN and whether SSL should be required.
 
-        ``postgresql://`` and ``postgres://`` are rewritten to
-        ``postgresql+asyncpg://``. URLs that already specify a driver are
-        returned unchanged.
+        - ``postgres://`` / ``postgresql://`` are rewritten to
+          ``postgresql+asyncpg://`` (driver-qualified URLs keep their driver).
+        - libpq-only query params asyncpg cannot parse — ``sslmode`` and
+          ``channel_binding`` — are stripped. A ``sslmode`` of ``require`` /
+          ``verify-ca`` / ``verify-full`` (or ``channel_binding=require``) means
+          SSL is required; that's returned as the second tuple element so the
+          engine can pass ``connect_args={"ssl": True}`` to asyncpg.
+
+        This makes managed-Postgres URLs (e.g. Neon's
+        ``postgresql://u:p@host/db?sslmode=require``) work out of the box.
         """
-        if dsn.startswith("postgresql+"):
-            return dsn
-        if dsn.startswith("postgresql://"):
-            return dsn.replace("postgresql://", "postgresql+asyncpg://", 1)
-        if dsn.startswith("postgres://"):
-            return dsn.replace("postgres://", "postgresql+asyncpg://", 1)
-        return dsn
+        from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+
+        parts = urlsplit(dsn)
+        scheme = parts.scheme
+        if scheme in ("postgres", "postgresql"):
+            scheme = "postgresql+asyncpg"
+
+        ssl_required = False
+        kept_params: list[tuple[str, str]] = []
+        for key, value in parse_qsl(parts.query, keep_blank_values=True):
+            lkey = key.lower()
+            if lkey == "sslmode":
+                if value.lower() in {"require", "verify-ca", "verify-full"}:
+                    ssl_required = True
+                continue  # drop — asyncpg doesn't accept sslmode
+            if lkey == "channel_binding":
+                if value.lower() == "require":
+                    ssl_required = True
+                continue  # drop — asyncpg doesn't accept channel_binding
+            kept_params.append((key, value))
+
+        normalized = urlunsplit(
+            (scheme, parts.netloc, parts.path, urlencode(kept_params), parts.fragment)
+        )
+        return normalized, ssl_required
 
 
 @lru_cache

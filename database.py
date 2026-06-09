@@ -54,6 +54,11 @@ settings = get_settings()
 # `create_async_engine` with an explicit pool gives us PostgreSQL connection
 # pooling out of the box. `pool_pre_ping` transparently recovers from dropped
 # connections (common behind cloud load balancers).
+#
+# Managed Postgres (Neon, Render, etc.) requires TLS. asyncpg takes SSL via a
+# connect arg, not the URL's `sslmode` param (which config strips), so pass
+# `ssl=True` when the connection string asked for it.
+_connect_args: dict = {"ssl": True} if settings.db_ssl else {}
 engine = create_async_engine(
     settings.database_url,
     echo=settings.debug,
@@ -62,6 +67,7 @@ engine = create_async_engine(
     pool_timeout=settings.db_pool_timeout,
     pool_recycle=settings.db_pool_recycle,
     pool_pre_ping=True,
+    connect_args=_connect_args,
 )
 
 # `expire_on_commit=False` keeps attributes accessible after commit so we can

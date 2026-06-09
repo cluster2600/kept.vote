@@ -29,4 +29,7 @@ USER appuser
 
 EXPOSE 8000
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Bind the platform-provided $PORT when present (Render injects it); fall back
+# to 8000 for local docker-compose. `exec` makes uvicorn PID 1 so it receives
+# SIGTERM for graceful shutdown.
+CMD ["sh", "-c", "exec uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}"]
