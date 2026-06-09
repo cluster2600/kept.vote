@@ -461,7 +461,9 @@ class Polemic(Base):
     )
     external_id: Mapped[str | None] = mapped_column(String(255), nullable=True, index=True)
     title: Mapped[str] = mapped_column(String(512), nullable=False)
-    period: Mapped[str | None] = mapped_column(String(64))
+    # Free text: a controversy's period can carry a verbatim legal timeline
+    # (e.g. "...conviction 31 March 2025; appeal verdict scheduled 7 July 2026").
+    period: Mapped[str | None] = mapped_column(Text)
     category: Mapped[str | None] = mapped_column(String(120), index=True)
     description: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str | None] = mapped_column(String(64), index=True)
@@ -551,7 +553,9 @@ class Company(Base):
     role: Mapped[str | None] = mapped_column(String(255))
     ownership_stake: Mapped[str | None] = mapped_column(String(255))
     period: Mapped[str | None] = mapped_column(String(64))
-    status: Mapped[str | None] = mapped_column(String(64), index=True)
+    # Free text: a company's status may carry a verbatim legal note
+    # (e.g. "subject of judicial investigation ...; disposition unverified").
+    status: Mapped[str | None] = mapped_column(Text, index=True)
     detail: Mapped[str | None] = mapped_column(Text)
     source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
