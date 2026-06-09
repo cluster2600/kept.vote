@@ -15,6 +15,13 @@ export default function PolemicsSection({ items }: { items: Polemic[] }) {
       </p>
       {items.map((item) => {
         const meta = polemicStatusMeta(item.status);
+        // When the raw status carries more than the concise badge label (e.g. a
+        // verbatim "preliminary investigation; presumption of innocence applies"
+        // sentence), show it in full so the exact legal framing isn't lost.
+        const statusLine =
+          item.status && item.status.trim().length > meta.label.length + 2
+            ? item.status.trim()
+            : null;
         return (
           <article
             key={item.id}
@@ -40,6 +47,15 @@ export default function PolemicsSection({ items }: { items: Polemic[] }) {
                 {meta.label}
               </span>
             </div>
+
+            {statusLine && (
+              <p className="mt-2 text-xs leading-relaxed text-slate-500">
+                <span className="font-semibold text-slate-600">
+                  Legal/political status:{" "}
+                </span>
+                {statusLine}
+              </p>
+            )}
 
             {item.description && (
               <p className="mt-3 text-sm leading-relaxed text-slate-700">

@@ -414,15 +414,45 @@ const POLEMIC_STATUS_META: Record<string, PolemicStatusMeta> = {
 };
 
 /** Resolve display meta for a polemic status string (with a safe fallback). */
+const SLATE_BADGE = "bg-slate-100 text-slate-600 ring-1 ring-inset ring-slate-500/20";
+const AMBER_BADGE = "bg-amber-50 text-amber-800 ring-1 ring-inset ring-amber-600/20";
+const SKY_BADGE = "bg-sky-50 text-sky-700 ring-1 ring-inset ring-sky-600/20";
+const EMERALD_BADGE = "bg-emerald-50 text-emerald-700 ring-1 ring-inset ring-emerald-600/20";
+
+/** Derive a concise, neutral badge from a free-text status sentence. The full
+ *  sentence is shown verbatim by the component; this only picks a short label
+ *  and tone. Order matters — "victim" and "no charges" must win over the
+ *  presence of investigation wording, to keep the framing accurate. */
+function deriveStatusMeta(status: string): PolemicStatusMeta {
+  const s = status.toLowerCase();
+  if (s.includes("victim") || s.includes("victime"))
+    return { label: "Victim", badge: SKY_BADGE, dot: "bg-sky-500" };
+  if (s.includes("non-lieu") || s.includes("no charges"))
+    return { label: "No charges", badge: EMERALD_BADGE, dot: "bg-emerald-500" };
+  if (/investigation|enqu[eê]te|information judiciaire|judicial inquiry|preliminary|mise en examen/.test(s))
+    return { label: "Under investigation", badge: AMBER_BADGE, dot: "bg-amber-500" };
+  if (s.includes("party") || s.includes("disciplinary") || s.includes("suspension") || s.includes("expulsion"))
+    return { label: "Party matter", badge: SLATE_BADGE, dot: "bg-slate-400" };
+  if (s.includes("no legal proceedings") || s.includes("political") || s.includes("communication"))
+    return { label: "Political", badge: SKY_BADGE, dot: "bg-sky-500" };
+  if (s.includes("convict"))
+    return { label: "Conviction", badge: SLATE_BADGE, dot: "bg-slate-400" };
+  return { label: "Noted", badge: SLATE_BADGE, dot: "bg-slate-400" };
+}
+
 export function polemicStatusMeta(status: string | null): PolemicStatusMeta {
   if (status && POLEMIC_STATUS_META[status]) return POLEMIC_STATUS_META[status];
-  return {
-    label: status
-      ? status.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())
-      : "Unknown",
-    badge: "bg-slate-100 text-slate-600 ring-1 ring-inset ring-slate-500/20",
-    dot: "bg-slate-400",
-  };
+  if (!status) return { label: "Unknown", badge: SLATE_BADGE, dot: "bg-slate-400" };
+  // Short unknown token: just title-case it. Long free-text status: derive a
+  // concise badge (the full sentence is rendered verbatim alongside it).
+  if (status.length <= 24) {
+    return {
+      label: status.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()),
+      badge: SLATE_BADGE,
+      dot: "bg-slate-400",
+    };
+  }
+  return deriveStatusMeta(status);
 }
 
 // Status styling for declared-asset entries. Muted/neutral tones; the point is
