@@ -1,0 +1,93 @@
+[
+  {
+    "id": "work-hudson-institute",
+    "role": "Fellow / Researcher in international relations",
+    "organization": "Hudson Institute (Washington, D.C.)",
+    "start_date": "2014",
+    "end_date": "2019",
+    "description": "Research fellow in a Washington-based think tank, working on transatlantic relations and European security. HATVP declaration records remuneration for this role over 2016-2019.",
+    "category": "think tank",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"
+    ]
+  },
+  {
+    "id": "work-atlantic-council",
+    "role": "Senior Director, Europe Center (Directeur Europe)",
+    "organization": "Atlantic Council (Washington, D.C.)",
+    "start_date": "2019-02",
+    "end_date": "2022-06",
+    "description": "Led the Atlantic Council's Europe Center, directing its work on transatlantic relations, European security and EU affairs.",
+    "category": "think tank",
+    "source_url": [
+      "https://www.atlanticcouncil.org/expert/benjamin-haddad/",
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"
+    ]
+  },
+  {
+    "id": "work-georgetown-instructor",
+    "role": "Instructor (Enseignant)",
+    "organization": "Georgetown University",
+    "start_date": "2020-01",
+    "end_date": "2021-06",
+    "description": "Adjunct instructor in international affairs. Recorded in HATVP declaration of interests.",
+    "category": "academia",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"
+    ]
+  },
+  {
+    "id": "work-sciencespo-lecturer",
+    "role": "Lecturer in international affairs",
+    "organization": "Sciences Po Paris",
+    "start_date": "",
+    "end_date": "",
+    "description": "Taught international affairs at Sciences Po Paris.",
+    "category": "academia",
+    "source_url": [
+      "https://www.atlanticcouncil.org/expert/benjamin-haddad/"
+    ]
+  },
+  {
+    "id": "work-tocqueville-board",
+    "role": "Member of the Board of Directors",
+    "organization": "Fondation Tocqueville (non-profit think tank)",
+    "start_date": "2020-06",
+    "end_date": "",
+    "description": "Unremunerated board membership of a non-profit think-tank foundation, declared to the HATVP (0 EUR remuneration each year).",
+    "category": "think tank",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254",
+      "https://tocquevillefoundation.org/team/benjamin-haddad-2/"
+    ]
+  },
+  {
+    "id": "work-deputy-national-assembly",
+    "role": "Member of the National Assembly (Deputy), Paris 14th constituency",
+    "organization": "Assemblee nationale (France)",
+    "start_date": "2022-06-22",
+    "end_date": "2024-10-21",
+    "description": "Deputy for Paris's 14th constituency. Sat on the Foreign Affairs Committee and the European Affairs Committee and chaired the French-Ukrainian parliamentary friendship group. Seat vacated on appointment to government.",
+    "category": "elected office",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA795958",
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad"
+    ]
+  },
+  {
+    "id": "work-minister-delegate-europe",
+    "role": "Minister Delegate for European Affairs (chargé de l'Europe)",
+    "organization": "Government of France (Ministry for Europe and Foreign Affairs)",
+    "start_date": "2024-09-21",
+    "end_date": "",
+    "description": "Minister Delegate for European Affairs under Foreign Minister Jean-Noel Barrot. First appointed in the Barnier government, retained in the Bayrou government and the successive Lecornu governments, including after the 26 February 2026 reshuffle.",
+    "category": "ministerial",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/benjamin-haddad",
+      "https://www.touteleurope.eu/vie-politique-des-etats-membres/nouveau-gouvernement-lecornu-europe/",
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "vosges-farmland-forest-inherited",
+    "property": "Agricultural and forest land parcels (terres agricoles et forestières)",
+    "location": "Vosges (department 88), France",
+    "transaction_type": "Inheritance (held since 1986)",
+    "date": "1986",
+    "value": "Modest; e.g. one farmland parcel of ~4.6 hectares valued at approximately 12,810 EUR, plus several small parcels (e.g. 120, 150, 90 EUR)",
+    "detail": "Fournier's HATVP patrimonial declaration lists agricultural and forest land parcels in the Vosges acquired by inheritance and held since 1986. Values declared are low, consistent with rural farmland and woodland. Other real estate (e.g. a primary residence) is not detailed in available open sources.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  }
+]

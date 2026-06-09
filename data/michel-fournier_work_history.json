@@ -1,0 +1,93 @@
+[
+  {
+    "id": "minister-delegate-rurality-2025",
+    "role": "Minister-Delegate for Rurality (Ministre délégué chargé de la Ruralité)",
+    "organization": "Government of France (Lecornu II / post-Feb 2026 government), under the Minister of Territorial Planning and Decentralisation",
+    "start_date": "2025-10-12",
+    "end_date": "present",
+    "description": "Appointed Minister-Delegate for Rurality on 12 October 2025, attached to the Minister of Territorial Planning and Decentralisation (Françoise Gatel). Retained the rurality portfolio in the government formed after the 26 February 2026 reshuffle. Sits without party affiliation.",
+    "category": "government",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/michel-fournier",
+      "https://www.info.gouv.fr/actualite/la-nouvelle-composition-du-gouvernement-de-sebastien-lecornu",
+      "https://www.aefinfo.fr/depeche/739068-michel-fournier-devient-ministre-delegue-a-la-ruralite-du-gouvernement-lecornu-ii"
+    ]
+  },
+  {
+    "id": "amrf-president-2020",
+    "role": "President of the Association des maires ruraux de France (AMRF)",
+    "organization": "Association des maires ruraux de France (AMRF)",
+    "start_date": "2020-11-14",
+    "end_date": "2025",
+    "description": "Elected national president of the AMRF on 14 November 2020, succeeding Vanik Berberian (who had led the association for 12 years and became special delegate / vice-president). Previously secretary-general and then first vice-president of the AMRF since 1993. Stepped down upon entering government in 2025.",
+    "category": "advocacy",
+    "source_url": [
+      "https://www.amrf.fr/lamrf/les-instances/",
+      "https://www.lejdd.fr/Politique/michel-fournier-nouveau-president-de-lassociation-des-maires-ruraux-de-france-4005645",
+      "https://www.courrierdesmaires.fr/article/michel-fournier-nouveau-visage-de-l-association-des-maires-ruraux-de-france.24767"
+    ]
+  },
+  {
+    "id": "anct-vice-president-2021",
+    "role": "Vice-president of the Agence nationale de la cohésion des territoires (ANCT)",
+    "organization": "Agence nationale de la cohésion des territoires (ANCT)",
+    "start_date": "2021",
+    "end_date": "2025",
+    "description": "Elected vice-president of the ANCT board, replacing Vanik Berberian. Served until his entry into government in 2025.",
+    "category": "public-body",
+    "source_url": [
+      "https://anct.gouv.fr/actualites/l-anct-elit-son-nouveau-vice-president",
+      "https://www.aefinfo.fr/depeche/654158-michel-fournier-president-de-l-amrf-elu-vice-president-de-l-anct-en-remplacement-de-vanik-berberian"
+    ]
+  },
+  {
+    "id": "epinal-agglo-vp-2017",
+    "role": "Vice-president of the Communauté d'agglomération d'Épinal",
+    "organization": "Communauté d'agglomération d'Épinal (Vosges)",
+    "start_date": "2017",
+    "end_date": "present",
+    "description": "Vice-president of the Épinal agglomeration community in charge of territorial cohesion, rurality and shared services.",
+    "category": "local-government",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/michel-fournier"
+    ]
+  },
+  {
+    "id": "amr-vosges-president-1992",
+    "role": "Founder and president of the Association des maires ruraux des Vosges",
+    "organization": "Association des maires ruraux des Vosges",
+    "start_date": "1992",
+    "end_date": "present",
+    "description": "Founded and became president of the departmental association of rural mayors of the Vosges in 1992.",
+    "category": "advocacy",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)",
+      "https://www.la-croix.com/France/Michel-Fournier-ambassadeur-ruralite-2019-02-16-1201002945"
+    ]
+  },
+  {
+    "id": "mayor-les-voivres-1989",
+    "role": "Mayor of Les Voivres",
+    "organization": "Commune of Les Voivres (Vosges)",
+    "start_date": "1989",
+    "end_date": "present",
+    "description": "Mayor of Les Voivres, a Vosges village of roughly 280 inhabitants, since 1989. First elected to the municipal council in 1983.",
+    "category": "local-government",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)",
+      "https://www.info.gouv.fr/personnalite/michel-fournier"
+    ]
+  },
+  {
+    "id": "commercial-agent-1972",
+    "role": "Multi-line commercial agent (agent commercial multicartes)",
+    "organization": "Self-employed (Les Voivres, Vosges)",
+    "start_date": "1972",
+    "end_date": "none declared",
+    "description": "Settled in Les Voivres in 1972 and worked as an independent multi-line commercial agent. Earlier worked as an agricultural labourer and shutter fitter, and passed the customs service exam in 1968.",
+    "category": "private-sector",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)"
+    ]
+  }
+]

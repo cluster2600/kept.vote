@@ -1,0 +1,112 @@
+[
+  {
+    "id": "minister-delegate-francophonie",
+    "role": "Minister-Delegate for Francophonie, International Partnerships and French Nationals Abroad",
+    "organization": "Government of France (Sébastien Lecornu)",
+    "start_date": "2025-10",
+    "end_date": "",
+    "description": "Minister-Delegate to the Minister for Europe and Foreign Affairs, in charge of Francophonie, international partnerships and French nationals abroad. Appointed October 2025 and retained in the 26 February 2026 reshuffle.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/eleonore-caroit", "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/eleonore-caroit"]
+  },
+  {
+    "id": "deputy-french-abroad-2024",
+    "role": "Member of the National Assembly, 2nd constituency for French residents abroad",
+    "organization": "National Assembly (France)",
+    "start_date": "2024-07",
+    "end_date": "2025-10",
+    "description": "Deputy for the 2nd constituency for French residents abroad (Latin America and the Caribbean) following the 2024 legislative election; vice-president of the Committee on Foreign Affairs. Mandate ended on appointment to government.",
+    "category": "elected office",
+    "source_url": ["https://www.assemblee-nationale.fr/dyn/deputes/PA795330/", "https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "deputy-french-abroad-2023",
+    "role": "Member of the National Assembly, 2nd constituency for French residents abroad",
+    "organization": "National Assembly (France)",
+    "start_date": "2023-04-17",
+    "end_date": "2024-06",
+    "description": "Returned to the National Assembly after the Constitutional Council annulled the 2022 result and ordered a re-run, which she won in 2023. Member, later vice-president, of the Committee on Foreign Affairs.",
+    "category": "elected office",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89l%C3%A9onore_Caroit", "https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "deputy-french-abroad-2022",
+    "role": "Member of the National Assembly, 2nd constituency for French residents abroad",
+    "organization": "National Assembly (France)",
+    "start_date": "2022-06-22",
+    "end_date": "2023-01-20",
+    "description": "First elected in the June 2022 legislative election; mandate ended in January 2023 after the Constitutional Council annulled the result over a technical failure in internet voting.",
+    "category": "elected office",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89l%C3%A9onore_Caroit"]
+  },
+  {
+    "id": "afd-supervisory-board",
+    "role": "Member of the supervisory board / board of directors",
+    "organization": "Agence Française de Développement (AFD)",
+    "start_date": "2022-09",
+    "end_date": "2025-10",
+    "description": "Member of the board of the French Development Agency (declared periods 09/2022–06/2024 and 10/2024–10/2025), unremunerated.",
+    "category": "board",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "business-france-board",
+    "role": "Member of the board of directors",
+    "organization": "Business France",
+    "start_date": "2024-03",
+    "end_date": "2024-06",
+    "description": "Member of the board of Business France, unremunerated.",
+    "category": "board",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "conseillere-afe",
+    "role": "Councillor of French Nationals Abroad (Conseillère des Français de l'étranger)",
+    "organization": "Assemblée des Français de l'étranger",
+    "start_date": "2021-05",
+    "end_date": "2022-07",
+    "description": "Elected councillor representing French nationals abroad prior to entering the National Assembly.",
+    "category": "elected office",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "renaissance-latin-america-referent",
+    "role": "Referent for Latin America (Référente Amérique latine)",
+    "organization": "Renaissance (party)",
+    "start_date": "2022-01",
+    "end_date": "2022-12",
+    "description": "Party referent for Latin America, unremunerated.",
+    "category": "party",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "lawyer-independent",
+    "role": "Independent lawyer (Avocate indépendante)",
+    "organization": "Self-employed (bars of Paris, New York, Geneva)",
+    "start_date": "2022-01",
+    "end_date": "",
+    "description": "Independent lawyer specialising in international litigation and arbitration with a focus on Latin America. Declared net income of 40,169 EUR in 2022; 0 EUR in 2023 and 2024.",
+    "category": "private sector",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "lawyer-bastion-avocats",
+    "role": "Salaried lawyer (Avocate salariée)",
+    "organization": "Bastion Avocats",
+    "start_date": "2020-08",
+    "end_date": "2021-12",
+    "description": "Salaried lawyer. Declared net remuneration of 43,809 EUR in 2020 and 113,400 EUR in 2021.",
+    "category": "private sector",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "lawyer-lalive",
+    "role": "Salaried lawyer (Avocate salariée)",
+    "organization": "LALIVE SA",
+    "start_date": "2020-01",
+    "end_date": "2020-03",
+    "description": "Salaried lawyer at the Geneva-based international arbitration firm LALIVE. Declared net remuneration of 34,347 EUR in 2020.",
+    "category": "private sector",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  }
+]

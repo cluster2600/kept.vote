@@ -1,0 +1,46 @@
+[
+  {
+    "id": "legislative-2024-2nd-constituency-abroad",
+    "election": "2024 French legislative election (2nd constituency for French residents abroad)",
+    "date": "2024-07",
+    "role_sought": "Member of the National Assembly",
+    "result": "Elected (re-elected)",
+    "vote_share": "53.27%",
+    "opponent": "Sergio Coronado (Nouveau Front populaire) — 46.73%",
+    "detail": "Won the second round against the left-wing coalition candidate in the constituency covering Latin America and the Caribbean.",
+    "source_url": ["https://lesfrancais.press/eleonore-caroit-reelue-deputee-pour-les-francais-damerique-latine-et-des-caraibes/", "https://www.francaisaletranger.fr/2024/07/08/les-resultats-des-elections-legislatives-2024-pour-les-francais-de-letranger/"]
+  },
+  {
+    "id": "legislative-2023-rerun-2nd-constituency-abroad",
+    "election": "2023 partial legislative election (re-run, 2nd constituency for French residents abroad)",
+    "date": "2023",
+    "role_sought": "Member of the National Assembly",
+    "result": "Elected",
+    "vote_share": "approx. 62% (2nd round)",
+    "opponent": "NUPES candidate — 37.65% (2nd round)",
+    "detail": "Re-run ordered by the Constitutional Council after the 2022 result was annulled over a technical failure in internet voting. Caroit won the re-run and returned to the Assembly on 17 April 2023.",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89l%C3%A9onore_Caroit", "https://www.caroit2023.fr/"]
+  },
+  {
+    "id": "legislative-2022-2nd-constituency-abroad",
+    "election": "2022 French legislative election (2nd constituency for French residents abroad)",
+    "date": "2022-06",
+    "role_sought": "Member of the National Assembly",
+    "result": "Elected (result later annulled)",
+    "vote_share": "54.7%",
+    "opponent": "",
+    "detail": "First elected in June 2022. The result was annulled by the Constitutional Council in January 2023 due to a technical fault in the internet voting system, triggering a 2023 re-run.",
+    "source_url": ["https://en.wikipedia.org/wiki/%C3%89l%C3%A9onore_Caroit"]
+  },
+  {
+    "id": "afe-councillor-2021",
+    "election": "Election of Councillors of French Nationals Abroad",
+    "date": "2021-05",
+    "role_sought": "Conseillère des Français de l'étranger",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "",
+    "detail": "Elected as a councillor of French nationals abroad, serving until July 2022.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "elec-2022-legislatives",
+    "election": "2022 French legislative election",
+    "date": "2022-06",
+    "role_sought": "Deputy, Paris 14th constituency",
+    "result": "Elected",
+    "vote_share": "53.2%",
+    "opponent": "Francis Szpiner (Les Republicains, mayor of the 16th arrondissement of Paris)",
+    "detail": "Led the first round with about 39.3% and won the second round with 53.2% against LR candidate Francis Szpiner.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad",
+      "https://www.resultats-elections.interieur.gouv.fr/legislatives-2022/075/07514056AR16.html"
+    ]
+  },
+  {
+    "id": "elec-2024-legislatives",
+    "election": "2024 French snap legislative election",
+    "date": "2024-07-07",
+    "role_sought": "Deputy, Paris 14th constituency",
+    "role_sought_note": "",
+    "result": "Re-elected",
+    "vote_share": "72.4%",
+    "opponent": "Louis Piquet (union of the right, LR-RN)",
+    "detail": "Led the first round with about 48% and won the second round with roughly 34,722 votes (around 72% of votes cast) against Louis Piquet. Vacated the seat on 21 October 2024 due to his government appointment; succeeded by his substitute Josephine Missoffe.",
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/resultats-des-legislatives-2024-a-paris-la-gauche-progresse-encore-3000896.html",
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA795958"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "re-foreign-property",
+    "property": "Built real estate held abroad (precise nature and location not published)",
+    "location": "Abroad (location withheld as [Donnees non publiees] in the public declaration)",
+    "transaction_type": "Holding",
+    "date": "2025-12-15",
+    "value": "€970,363",
+    "detail": "Declared under category 11 (property, assets and accounts held abroad) of the HATVP declaration of assets filed 15 December 2025. Venal value EUR 970,363. No domestic French real estate (category 1) and no SCI shares (category 2) were declared.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  }
+]

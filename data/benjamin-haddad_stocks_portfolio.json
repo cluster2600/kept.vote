@@ -1,0 +1,12 @@
+[
+  {
+    "id": "stocks-none-declared",
+    "holding": "No listed securities or financial instruments declared",
+    "type": "none",
+    "value": "€0",
+    "as_of": "2025-12-15",
+    "detail": "The HATVP declaration of assets filed 15 December 2025 records 'Neant' (none) for both listed securities/financial instruments (category 4) and other non-listed securities (category 3). No stock or investment portfolio is declared.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  }
+]

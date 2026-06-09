@@ -1,0 +1,13 @@
+[
+  {
+    "id": "real-estate-none-extracted",
+    "property": "none declared",
+    "location": "none declared",
+    "transaction_type": "none declared",
+    "date": "none declared",
+    "value": "none declared",
+    "detail": "No specific real-estate holdings were identified from public sources for this dataset. Any property holdings would appear in Forissier's HATVP declaration of assets; consult the official HATVP declarant file.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=forissier-nicolas"]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "networth-2024-appointment",
+    "year": "2024",
+    "declared_net_worth": "Not consolidated by HATVP",
+    "note": "On appointment as Minister Delegate for Europe (September 2024) Benjamin Haddad filed a declaration of assets (declaration de situation patrimoniale) with the HATVP. The HATVP does not publish a single consolidated net-worth figure; assets are itemised by category.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "networth-2025-declaration",
+    "year": "2025",
+    "declared_net_worth": "~€1,011,325 in itemised assets (no liabilities declared)",
+    "note": "Declaration of assets filed 15 December 2025 (separation-of-property regime). Itemised assets: foreign real estate valued at EUR 970,363; four current accounts (EUR 492 + EUR 509 + EUR 38,461 + EUR 0); a foreign Wells Fargo account valued at EUR 1,000. No securities, life insurance, vehicles, valuables over EUR 10,000, or liabilities were declared. This sum is an arithmetic total of declared line items, not an official HATVP net-worth figure.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  }
+]

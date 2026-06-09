@@ -1,0 +1,32 @@
+[
+  {
+    "id": "interest-regional-councillor",
+    "item": "Member of the Regional Council of Centre-Val de Loire",
+    "type": "Elected mandate",
+    "period": "2015-present",
+    "value": "none declared",
+    "detail": "Regional councillor of Centre-Val de Loire; a public mandate held alongside national office.",
+    "status": "declared",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://www.hatvp.fr/fiche-nominative/?declarant=forissier-nicolas"]
+  },
+  {
+    "id": "interest-friendship-groups",
+    "item": "President, France-Argentina Parliamentary Friendship Group (and former France-Mauritania, France-India groups)",
+    "type": "Parliamentary function",
+    "period": "2017-present (Argentina); earlier terms 2002-2004 and 2007-2009",
+    "value": "none declared",
+    "detail": "Long-standing leadership of parliamentary friendship groups, notably with Argentina.",
+    "status": "declared",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "interest-hatvp-other",
+    "item": "Other interests as declared to HATVP",
+    "type": "HATVP declaration of interests",
+    "period": "2025",
+    "value": "none declared",
+    "detail": "Additional interests, activities and remunerations would be itemised in Forissier's HATVP declaration of interests; not extracted in detail for this dataset.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=forissier-nicolas"]
+  }
+]

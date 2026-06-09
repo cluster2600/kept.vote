@@ -1,0 +1,20 @@
+[
+  {
+    "id": "hatvp-declaration-minister-2025",
+    "year": "2025",
+    "type": "HATVP declaration (member of government)",
+    "label": "Declaration of assets and declaration of interests as Minister-Delegate",
+    "amount": "none declared",
+    "detail": "As a member of the Lecornu government, Nicolas Forissier filed declarations of assets (declaration de situation patrimoniale) and of interests with the Haute Autorite pour la transparence de la vie publique (HATVP); the HATVP published declarations of members of the Lecornu government. Specific figures were not extracted for this dataset.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=forissier-nicolas", "https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/"]
+  },
+  {
+    "id": "hatvp-declaration-deputy",
+    "year": "2017",
+    "type": "HATVP declaration (member of parliament)",
+    "label": "Declaration of interests and assets as deputy for Indre",
+    "amount": "none declared",
+    "detail": "As a sitting deputy, Forissier is subject to HATVP declaration obligations; his declarant file is available on the HATVP website. Specific figures were not extracted for this dataset.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=forissier-nicolas"]
+  }
+]

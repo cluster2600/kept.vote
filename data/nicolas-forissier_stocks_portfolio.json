@@ -1,0 +1,12 @@
+[
+  {
+    "id": "stocks-none-declared",
+    "holding": "none declared",
+    "type": "none declared",
+    "value": "none declared",
+    "as_of": "none declared",
+    "detail": "No specific securities or financial-instrument holdings were identified from public sources for this dataset. Any such holdings would be reported in Forissier's HATVP declarations.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=forissier-nicolas"]
+  }
+]

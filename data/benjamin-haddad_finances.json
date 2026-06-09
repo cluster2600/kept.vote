@@ -1,0 +1,137 @@
+[
+  {
+    "id": "fin-hudson-2016",
+    "year": "2016",
+    "type": "employment income",
+    "label": "Hudson Institute - Fellow (net remuneration)",
+    "amount": "€45,800",
+    "detail": "Net remuneration as researcher in international relations (Fellow), Hudson Institute. Declared in HATVP declaration of interests.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-hudson-2017",
+    "year": "2017",
+    "type": "employment income",
+    "label": "Hudson Institute - Fellow (net remuneration)",
+    "amount": "€45,800",
+    "detail": "Net remuneration as Fellow, Hudson Institute.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-hudson-2018",
+    "year": "2018",
+    "type": "employment income",
+    "label": "Hudson Institute - Fellow (net remuneration)",
+    "amount": "€45,260",
+    "detail": "Net remuneration as Fellow, Hudson Institute.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-hudson-2019",
+    "year": "2019",
+    "type": "employment income",
+    "label": "Hudson Institute - Fellow (net remuneration)",
+    "amount": "€8,615",
+    "detail": "Partial-year net remuneration as Fellow, Hudson Institute.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-atlantic-council-2019",
+    "year": "2019",
+    "type": "employment income",
+    "label": "Atlantic Council - Directeur Europe (net remuneration)",
+    "amount": "€97,075",
+    "detail": "Net remuneration as Senior Director, Europe Center, Atlantic Council.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-atlantic-council-2020",
+    "year": "2020",
+    "type": "employment income",
+    "label": "Atlantic Council - Directeur Europe (net remuneration)",
+    "amount": "€129,500",
+    "detail": "Net remuneration as Senior Director, Europe Center, Atlantic Council.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-atlantic-council-2021",
+    "year": "2021",
+    "type": "employment income",
+    "label": "Atlantic Council - Directeur Europe (net remuneration)",
+    "amount": "€146,800",
+    "detail": "Net remuneration as Senior Director, Europe Center, Atlantic Council.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-atlantic-council-2022",
+    "year": "2022",
+    "type": "employment income",
+    "label": "Atlantic Council - Directeur Europe (net remuneration)",
+    "amount": "€76,400",
+    "detail": "Partial-year net remuneration as Senior Director, Europe Center, Atlantic Council (to June 2022).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-georgetown-2020",
+    "year": "2020",
+    "type": "employment income",
+    "label": "Georgetown University - Instructor (net remuneration)",
+    "amount": "€5,343",
+    "detail": "Net remuneration as instructor, Georgetown University.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-georgetown-2021",
+    "year": "2021",
+    "type": "employment income",
+    "label": "Georgetown University - Instructor (net remuneration)",
+    "amount": "€5,789",
+    "detail": "Net remuneration as instructor, Georgetown University.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-deputy-2022",
+    "year": "2022",
+    "type": "parliamentary income",
+    "label": "Deputy indemnity (net)",
+    "amount": "€38,341",
+    "detail": "Net parliamentary indemnity as deputy for Paris's 14th constituency.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-deputy-2023",
+    "year": "2023",
+    "type": "parliamentary income",
+    "label": "Deputy indemnity (net)",
+    "amount": "€73,698",
+    "detail": "Net parliamentary indemnity as deputy.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-deputy-2024",
+    "year": "2024",
+    "type": "parliamentary income",
+    "label": "Deputy indemnity (net)",
+    "amount": "€53,846",
+    "detail": "Net parliamentary indemnity as deputy (to September 2024).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-minister-2024",
+    "year": "2024",
+    "type": "ministerial income",
+    "label": "Minister Delegate for Europe (net remuneration)",
+    "amount": "€32,356",
+    "detail": "Net ministerial remuneration in 2024 (combined across the declared periods 09/2024-12/2024 of EUR 30,367 and 12/2024 onward of EUR 1,989).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "fin-minister-2025",
+    "year": "2025",
+    "type": "ministerial income",
+    "label": "Minister Delegate for Europe (net remuneration)",
+    "amount": "€80,702",
+    "detail": "Net ministerial remuneration in 2025 as Minister Delegate for Europe.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  }
+]

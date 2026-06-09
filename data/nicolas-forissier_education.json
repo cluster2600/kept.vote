@@ -1,0 +1,20 @@
+[
+  {
+    "id": "iep-paris-sciences-po",
+    "institution": "Institut d'etudes politiques de Paris (Sciences Po Paris)",
+    "qualification": "Diplome de l'IEP",
+    "field": "Political studies",
+    "years": "1983",
+    "detail": "Graduate of Sciences Po Paris.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  },
+  {
+    "id": "paris-sorbonne-history",
+    "institution": "Universite Paris-Sorbonne (Paris IV)",
+    "qualification": "Licence (bachelor's degree)",
+    "field": "History",
+    "years": "1981",
+    "detail": "Holds a degree (licence) in history.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  }
+]

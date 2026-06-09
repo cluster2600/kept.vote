@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lr-suspension-exclusion-2025",
+    "title": "Suspended and excluded from Les Republicains for joining the Lecornu government",
+    "period": "2025-10",
+    "category": "Party discipline / political controversy",
+    "description": "Les Republicains, under party president Bruno Retailleau, officially decided not to take part in Sebastien Lecornu's government. Despite that line, six LR figures - including Nicolas Forissier (Foreign Trade) alongside Annie Genevard, Rachida Dati, Vincent Jeanbrun, Philippe Tabarot and Sebastien Martin - accepted ministerial posts. On 22 October 2025 the party announced their suspension, stating they could no longer claim LR membership, must give up party responsibilities, and were no longer members. Press accounts described the move variously as suspension and as de facto exclusion. This is a political/party-discipline matter, not a legal proceeding, and involves no allegation of wrongdoing.",
+    "status": "Confirmed party sanction (suspension/exclusion); political dispute, no legal proceedings",
+    "confidence_score": "high",
+    "key_facts": [
+      "LR officially chose not to join the Lecornu government (line set by president Bruno Retailleau).",
+      "Six LR ministers, including Forissier, joined anyway.",
+      "On 22 October 2025 LR announced their suspension from the party.",
+      "Effect: loss of party membership and of internal party responsibilities.",
+      "This is a political/party-internal matter with no criminal or legal allegation."
+    ],
+    "source_url": ["https://fr.euronews.com/2025/10/13/lecornu-2-les-ministres-lr-exclus-du-parti-les-motions-de-censure-rn-et-lfi-deposees", "https://www.franceinfo.fr/politique/les-republicains/les-six-ministres-les-republicains-du-gouvernement-de-sebastien-lecornu-sont-suspendus-du-parti_7569013.html"]
+  }
+]

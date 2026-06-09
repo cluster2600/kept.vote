@@ -1,0 +1,26 @@
+[
+  {
+    "id": "edu-sciences-po",
+    "institution": "Institut d'etudes politiques de Paris (Sciences Po)",
+    "qualification": "Master of Arts (MA)",
+    "field": "International affairs",
+    "years": "",
+    "detail": "Graduate degree in international affairs.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad",
+      "https://www.atlanticcouncil.org/expert/benjamin-haddad/"
+    ]
+  },
+  {
+    "id": "edu-hec-paris",
+    "institution": "HEC Paris (HEC Ecole de Management)",
+    "qualification": "Master of Arts (MA)",
+    "field": "Financial economics",
+    "years": "",
+    "detail": "Graduate degree in financial economics.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad",
+      "https://www.atlanticcouncil.org/expert/benjamin-haddad/"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "municipal-les-voivres-2026",
+    "election": "Municipal elections, Les Voivres (Vosges)",
+    "date": "2026-03",
+    "role_sought": "Municipal councillor / Mayor of Les Voivres",
+    "result": "Elected (list re-elected without opposition)",
+    "vote_share": "100% (single list)",
+    "opponent": "None (only one list standing)",
+    "detail": "In the 2026 municipal elections, the list led by Michel Fournier was the only one standing in Les Voivres (a village of around 280 inhabitants) and won 100% of votes cast, taking all 11 municipal council seats. He was subsequently re-elected mayor.",
+    "source_url": [
+      "https://vosgesinfo.fr/epinalinfo/2026/03/elections-municipales-michel-fournier-reelu-sans-opposition-a-voivres/",
+      "https://www.ici.fr/grand-est/vosges-88/les-voivres/elections"
+    ]
+  },
+  {
+    "id": "municipal-les-voivres-2020",
+    "election": "Municipal elections, Les Voivres (Vosges)",
+    "date": "2020-03",
+    "role_sought": "Municipal councillor / Mayor of Les Voivres",
+    "result": "Elected; installed as mayor on 18 May 2020",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "Re-elected to the municipal council and installed as mayor of Les Voivres on 18 May 2020 following the 2020 municipal elections. Detailed vote figures for this small commune are not readily available.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)",
+      "https://www.datamairie.fr/les-voivres-88520"
+    ]
+  },
+  {
+    "id": "mayor-since-1989",
+    "election": "Municipal mandate, Les Voivres (Vosges) — successive elections since 1989",
+    "date": "1989",
+    "role_sought": "Mayor of Les Voivres",
+    "result": "Elected and re-elected continuously since 1989",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "First elected to the Les Voivres municipal council in 1983 and elected mayor in 1989. Has been continuously re-elected mayor across successive municipal terms. Detailed historical vote shares for this small rural commune are not publicly compiled.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)",
+      "https://www.info.gouv.fr/personnalite/michel-fournier"
+    ]
+  }
+]

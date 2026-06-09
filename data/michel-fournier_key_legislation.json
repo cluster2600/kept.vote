@@ -1,0 +1,36 @@
+[
+  {
+    "id": "advocacy-france-ruralites-villages-davenir",
+    "law_name": "France Ruralités plan / Villages d'Avenir programme (advocacy, not authored legislation)",
+    "year": "2023",
+    "area": "Rural development policy",
+    "description": "As AMRF president, Fournier publicly welcomed the government's France Ruralités plan and championed the Villages d'Avenir component, which deploys project officers to help small rural communes carry out local projects. He argued that rural communes had been left without an equivalent of the Action coeur de ville and Petites villes de demain urban programmes.",
+    "significance": "Advocacy position; Fournier was not a legislator. The position reflects his role lobbying for a dedicated state programme for rural villages, a theme he later carried into government as Minister-Delegate for Rurality.",
+    "source_url": [
+      "https://territorial.zepros.fr/actualites/amrf-donne-bonne-note-plan-france-ruralites",
+      "https://www.banquedesterritoires.fr/pour-michel-fournier-2024-est-lannee-ou-tout-peut-se-reussir-en-ruralite"
+    ]
+  },
+  {
+    "id": "advocacy-zrr-zonage",
+    "law_name": "Zones de revitalisation rurale (ZRR) reform (advocacy)",
+    "year": "2023",
+    "area": "Rural fiscal/territorial policy",
+    "description": "Fournier advocated extending and broadening the ZRR rural revitalisation zoning beyond a purely socio-economic approach to encompass issues such as school closures and access to doctors, and called for mapping at the commune level rather than the intercommunal level (aligning with the Senate's position).",
+    "significance": "Advocacy position taken as head of the AMRF, not authored legislation.",
+    "source_url": [
+      "https://www.banquedesterritoires.fr/zan-zrr-les-maires-ruraux-craignent-detre-brides-dans-leur-developpement"
+    ]
+  },
+  {
+    "id": "advocacy-zan-opposition",
+    "law_name": "Zéro artificialisation nette (ZAN) — opposition (advocacy)",
+    "year": "2023",
+    "area": "Land use / planning policy",
+    "description": "Fournier publicly criticised the application of the Zéro artificialisation nette (net zero land take) objective to rural communes, arguing that villages had consumed the least land yet risked bearing the cost, and that the rules rewarded those who had artificialised the most. He warned against an 'effet d'annonce' and demanded that villages be treated fairly.",
+    "significance": "Advocacy/critique position as AMRF president; not authored legislation.",
+    "source_url": [
+      "https://www.lemoniteur.fr/article/nos-villages-meritent-mieux-qu-un-effet-d-annonce-pour-se-demarquer-michel-fournier-president-de-l-association-des-maires-ruraux-de-france.2303157"
+    ]
+  }
+]

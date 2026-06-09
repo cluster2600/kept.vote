@@ -1,0 +1,83 @@
+[
+  {
+    "id": "income-deputy-2025",
+    "year": "2025",
+    "type": "Parliamentary remuneration",
+    "label": "Deputy salary (National Assembly)",
+    "amount": "40,346 EUR (net)",
+    "detail": "Net parliamentary remuneration declared for 2025 (mandate 07/2024–10/2025).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-deputy-2024-second-mandate",
+    "year": "2024",
+    "type": "Parliamentary remuneration",
+    "label": "Deputy salary (National Assembly), 07/2024 mandate",
+    "amount": "26,482 EUR (net)",
+    "detail": "Net parliamentary remuneration declared for the mandate beginning July 2024.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-deputy-2024-first-mandate",
+    "year": "2024",
+    "type": "Parliamentary remuneration",
+    "label": "Deputy salary (National Assembly), 04/2023 mandate",
+    "amount": "36,849 EUR (net)",
+    "detail": "Net parliamentary remuneration declared for the mandate of 04/2023–06/2024.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-deputy-2023",
+    "year": "2023",
+    "type": "Parliamentary remuneration",
+    "label": "Deputy salary (National Assembly)",
+    "amount": "52,202 EUR (net)",
+    "detail": "Net parliamentary remuneration declared for 2023 (mandate from 04/2023).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-lawyer-independent-2022",
+    "year": "2022",
+    "type": "Professional income",
+    "label": "Independent lawyer income",
+    "amount": "40,169 EUR (net)",
+    "detail": "Net income as independent lawyer declared for 2022; 0 EUR declared for 2023 and 2024.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-lawyer-bastion-2021",
+    "year": "2021",
+    "type": "Professional income",
+    "label": "Salaried lawyer income (Bastion Avocats)",
+    "amount": "113,400 EUR (net)",
+    "detail": "Net remuneration as salaried lawyer at Bastion Avocats declared for 2021.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-lawyer-bastion-2020",
+    "year": "2020",
+    "type": "Professional income",
+    "label": "Salaried lawyer income (Bastion Avocats)",
+    "amount": "43,809 EUR (net)",
+    "detail": "Net remuneration as salaried lawyer at Bastion Avocats declared for 2020.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-lawyer-lalive-2020",
+    "year": "2020",
+    "type": "Professional income",
+    "label": "Salaried lawyer income (LALIVE SA)",
+    "amount": "34,347 EUR (net)",
+    "detail": "Net remuneration as salaried lawyer at LALIVE SA (Geneva) declared for 2020.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "income-afe-councillor-2022",
+    "year": "2022",
+    "type": "Indemnity",
+    "label": "Councillor of French Nationals Abroad indemnity",
+    "amount": "2,486 EUR (net)",
+    "detail": "Net indemnity as councillor of French nationals abroad declared for 2022 (778 EUR declared for 2021).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  }
+]

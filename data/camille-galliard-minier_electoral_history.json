@@ -1,0 +1,31 @@
+[
+  {
+    "id": "legislative-partielle-isere-1-2025",
+    "election": "2025 partial legislative by-election, Isère 1st constituency",
+    "date": "2025-01-19",
+    "role_sought": "Member of the National Assembly (Députée)",
+    "result": "Elected (second round)",
+    "vote_share": "64.3% (second round)",
+    "opponent": "Lyes Louffok (La France insoumise / NFP)",
+    "detail": "By-election triggered by the October 2024 resignation of Hugo Prevost (LFI). First round (12 Jan 2025): Louffok led with 28.33% (8,495 votes) and Galliard-Minier second with 26.57% (7,966 votes); abstention reached a record 64.14%. She won the run-off with 64.3%, returning the seat to the presidential camp.",
+    "source_url": [
+      "https://lcp.fr/actualites/legislative-partielle-en-isere-camille-galliard-minier-renaissance-elue-deputee-lfi-perd",
+      "https://www.cnews.fr/france/2025-01-19/legislative-partielle-en-isere-lfi-annonce-la-defaite-de-son-candidat-lyes",
+      "https://www.rcf.fr/articles/actualite/legislative-partielle-camille-galliardminier-ens-elue-deputee-de-la-premiere"
+    ]
+  },
+  {
+    "id": "legislatives-2017-suppleante-isere-1",
+    "election": "2017 legislative elections, Isère 1st constituency",
+    "date": "2017-06-18",
+    "role_sought": "Substitute (suppléante) for Olivier Véran",
+    "result": "Elected as substitute; became deputy in March 2020 when Véran joined the government",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "Ran as Olivier Véran's substitute (LREM). She took up the deputy's seat in March 2020 after Véran was appointed Minister of Health, holding it until 2022.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Camille_Galliard-Minier",
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA719736"
+    ]
+  }
+]

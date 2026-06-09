@@ -1,0 +1,53 @@
+[
+  {
+    "id": "interest-amrf-president",
+    "item": "President of the Association des maires ruraux de France (AMRF)",
+    "type": "Volunteer / unpaid association function",
+    "period": "2020-2025",
+    "value": "Unpaid (bénévole)",
+    "detail": "Recorded in his HATVP interests declaration as an unpaid (volunteer) function. National presidency of the AMRF, the body representing rural mayors, held until entry into government in 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032",
+      "https://www.amrf.fr/lamrf/les-instances/"
+    ]
+  },
+  {
+    "id": "interest-mayor-les-voivres",
+    "item": "Mayor of Les Voivres (elected local mandate)",
+    "type": "Elected local office",
+    "period": "1989-present",
+    "value": "Mayoral indemnity (small commune)",
+    "detail": "Elected mandate as mayor of Les Voivres declared among his elected functions. Mayoral allowances in a commune of around 280 inhabitants are modest, set by statutory scales.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032",
+      "https://www.info.gouv.fr/personnalite/michel-fournier"
+    ]
+  },
+  {
+    "id": "interest-anct-vice-president",
+    "item": "Vice-president of the Agence nationale de la cohésion des territoires (ANCT)",
+    "type": "Public body governance function",
+    "period": "2021-2025",
+    "value": "none declared",
+    "detail": "Vice-presidency of the ANCT board, held until entry into government in 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://anct.gouv.fr/actualites/l-anct-elit-son-nouveau-vice-president",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "interest-epinal-agglo-vp",
+    "item": "Vice-president of the Communauté d'agglomération d'Épinal",
+    "type": "Intercommunal elected office",
+    "period": "2017-present",
+    "value": "Intercommunal indemnity",
+    "detail": "Vice-president of the Épinal agglomeration community responsible for territorial cohesion, rurality and shared services.",
+    "status": "declared",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/michel-fournier"
+    ]
+  }
+]

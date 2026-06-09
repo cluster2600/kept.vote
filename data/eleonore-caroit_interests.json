@@ -1,0 +1,52 @@
+[
+  {
+    "id": "afd-board-member",
+    "item": "Member of the board of directors, Agence Française de Développement (AFD)",
+    "type": "Public body board membership",
+    "period": "2022-09 to 2024-06; 2024-10 to 2025-10",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Declared board membership of the French Development Agency across two periods.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "business-france-board-member",
+    "item": "Member of the board of directors, Business France",
+    "type": "Public body board membership",
+    "period": "2024-03 to 2024-06",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Declared board membership of Business France.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "renaissance-referent",
+    "item": "Referent for Latin America, Renaissance party",
+    "type": "Party position",
+    "period": "2022-01 to 2022-12",
+    "value": "0 EUR (unremunerated)",
+    "detail": "Declared party position as referent for Latin America.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "spouse-lawyer",
+    "item": "Spouse's professional activity (independent lawyer)",
+    "type": "Spouse activity",
+    "period": "as of nomination",
+    "value": "[not published]",
+    "detail": "HATVP declaration records the spouse/partner's professional activity as independent lawyer; details not published.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  },
+  {
+    "id": "consultant-activities-none",
+    "item": "Consultancy activities",
+    "type": "Consultancy",
+    "period": "five years preceding declaration",
+    "value": "0 EUR",
+    "detail": "No consultancy activities declared (item 2: Néant). No volunteer roles liable to create a conflict of interest declared (item 6: Néant).",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  }
+]

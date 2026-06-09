@@ -1,0 +1,27 @@
+[
+  {
+    "id": "interest-fonds-sesame",
+    "item": "Founder of the Sesame endowment fund (fonds de dotation Sesame), Grenoble",
+    "type": "Non-profit / philanthropic activity",
+    "period": "2022-present",
+    "value": "none declared",
+    "detail": "Founded and is associated with the Grenoble endowment fund Sesame, which links local businesses to solidarity associations. Listed in her official ministerial biography. A formal HATVP declaration of interests has been filed but is not yet published, so the official itemised list of interests is not publicly available.",
+    "status": "declared",
+    "source_url": [
+      "https://solidarites.gouv.fr/biographie-de-camille-galliard-minier",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=galliard-minier-camille-18388"
+    ]
+  },
+  {
+    "id": "interest-avocate-barreau-grenoble",
+    "item": "Former lawyer at the Grenoble bar (2003-2017)",
+    "type": "Past professional activity",
+    "period": "2003-2017",
+    "value": "none declared",
+    "detail": "Practised law (family and criminal law) at the Grenoble bar before entering full-time politics; withdrawn from the bar roll at her own request in 2017.",
+    "status": "declared",
+    "source_url": [
+      "https://solidarites.gouv.fr/biographie-de-camille-galliard-minier"
+    ]
+  }
+]

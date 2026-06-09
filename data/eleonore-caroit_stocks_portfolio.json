@@ -1,0 +1,12 @@
+[
+  {
+    "id": "no-securities-declared",
+    "holding": "No listed or unlisted securities, financial instruments or life insurance",
+    "type": "none",
+    "value": "0 EUR",
+    "as_of": "2025-12-11",
+    "detail": "Declaration of patrimonial situation (HATVP) records no unlisted securities (item 3: Néant), no financial instruments (item 4: Néant) and no life insurance (item 5: Néant). Assets are limited to bank and savings accounts and two items of movable property.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+  }
+]

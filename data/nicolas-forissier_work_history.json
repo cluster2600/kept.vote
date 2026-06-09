@@ -1,0 +1,122 @@
+[
+  {
+    "id": "minister-delegate-foreign-trade-2025",
+    "role": "Minister-Delegate for Foreign Trade and Attractiveness",
+    "organization": "Government of France (Lecornu government), attached to the Minister for Europe and Foreign Affairs",
+    "start_date": "2025-10-12",
+    "end_date": "present",
+    "description": "Appointed Minister-Delegate in charge of Foreign Trade (Commerce exterieur) and Attractiveness on 12 October 2025; retained the post in the 26 February 2026 reshuffle. Succeeded Laurent Saint-Martin.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/nicolas-forissier", "https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://www.vie-publique.fr/en-bref/302256-remaniement-le-gouvernement-de-sebastien-lecornu-26-fevrier-2026"]
+  },
+  {
+    "id": "deputy-indre-2017",
+    "role": "Member of the National Assembly for Indre's 2nd constituency",
+    "organization": "French National Assembly",
+    "start_date": "2017-06-21",
+    "end_date": "present",
+    "description": "Elected in 2017, re-elected in 2022 and 2024. Member of the Foreign Affairs Committee (since 2020), previously Finance Committee; special rapporteur for Foreign Trade.",
+    "category": "elected-office",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://www.assemblee-nationale.fr/dyn/deputes/PA1327/fonctions?archive=oui"]
+  },
+  {
+    "id": "deputy-indre-2007-2012",
+    "role": "Member of the National Assembly for Indre's 2nd constituency",
+    "organization": "French National Assembly",
+    "start_date": "2007-06-20",
+    "end_date": "2012-06-19",
+    "description": "Returned to the National Assembly in 2007 after his ministerial term; member of the Finance Committee and rapporteur of the agricultural budget. Defeated in 2012.",
+    "category": "elected-office",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "deputy-indre-1993-2004",
+    "role": "Member of the National Assembly for Indre's 2nd constituency",
+    "organization": "French National Assembly",
+    "start_date": "1993-04-02",
+    "end_date": "2004-04-30",
+    "description": "First elected in 1993, re-elected in 1997 and 2002. Member of the Production Committee (1993-2002) then Finance Committee; rapporteur of the foreign-trade budget (1997-2003). Seat vacated on appointment to government.",
+    "category": "elected-office",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  },
+  {
+    "id": "secretary-state-agriculture-2004",
+    "role": "Secretary of State for Agriculture, Food, Fisheries and Rural Affairs",
+    "organization": "Government of France (3rd and 4th Raffarin governments)",
+    "start_date": "2004-03-31",
+    "end_date": "2005-05-31",
+    "description": "Junior minister (secretaire d'Etat) under Agriculture Ministers Herve Gaymard and Dominique Bussereau in the government of Prime Minister Jean-Pierre Raffarin.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  },
+  {
+    "id": "mayor-la-chatre-1995",
+    "role": "Mayor of La Chatre",
+    "organization": "Commune of La Chatre (Indre)",
+    "start_date": "1995-06-25",
+    "end_date": "2017-07-11",
+    "description": "Mayor of La Chatre for 22 years; named honorary mayor (maire honoraire) by the prefect of Indre in 2017. Previously deputy mayor / municipal councillor from 1989.",
+    "category": "elected-office",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://www.lanouvellerepublique.fr/la-chatre/nicolas-forissier-maire-honoraire"]
+  },
+  {
+    "id": "president-cc-la-chatre-2001",
+    "role": "President of the Communaute de communes de La Chatre et Sainte-Severe",
+    "organization": "Communaute de communes de La Chatre et Sainte-Severe",
+    "start_date": "2001-01-01",
+    "end_date": "2017-12-31",
+    "description": "Headed the inter-municipal cooperation body of the La Chatre area for roughly two decades.",
+    "category": "elected-office",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  },
+  {
+    "id": "regional-councillor-cvl-2015",
+    "role": "Member of the Regional Council of Centre-Val de Loire",
+    "organization": "Regional Council of Centre-Val de Loire",
+    "start_date": "2015-12-18",
+    "end_date": "present",
+    "description": "Elected regional councillor in 2015; led the centre-right opposition ticket in the 2021 regional election, finishing second behind incumbent president Francois Bonneau (PS).",
+    "category": "elected-office",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "president-cfce-ubifrance-2003",
+    "role": "Chairman of the board of directors",
+    "organization": "Centre francais du commerce exterieur / Ubifrance",
+    "start_date": "2003-01-01",
+    "end_date": "2004-12-31",
+    "description": "Chaired the board of the French foreign-trade promotion agency (then Centre francais du commerce exterieur, later Ubifrance).",
+    "category": "public-body",
+    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  },
+  {
+    "id": "national-mediator-farmers-2009",
+    "role": "National mediator for farmers (Mediateur national des agriculteurs)",
+    "organization": "Government of France",
+    "start_date": "2009-01-01",
+    "end_date": "2011-12-31",
+    "description": "Served as national mediator for farmers, a public-service mission on agricultural disputes.",
+    "category": "public-body",
+    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  },
+  {
+    "id": "ump-national-secretary-2002",
+    "role": "National Secretary (UMP), including for foreign trade",
+    "organization": "Union for a Popular Movement (UMP)",
+    "start_date": "2002-01-01",
+    "end_date": "2008-12-31",
+    "description": "National secretary of the UMP (2002-2005) and again national secretary in charge of foreign trade (2008).",
+    "category": "party",
+    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  },
+  {
+    "id": "press-printing-career-1988-2004",
+    "role": "Advertising / press and printing executive",
+    "organization": "Generale Medias, Le Figaro / Groupe Hersant, Imprimerie George Sand",
+    "start_date": "1988-01-01",
+    "end_date": "2004-01-01",
+    "description": "Sales role at Generale Medias (1988-1989); advertising manager at Le Figaro then advertising director of 'Business in the USSR' within the Hersant group (1989-1992); advertising director at the journal Profession politique; manager of the George Sand printing works in La Chatre (1992-2004).",
+    "category": "private-sector",
+    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf", "https://www.lemoci.com/nicolas-forissier-nouveau-ministre-delegue-au-commerce-exterieur/"]
+  }
+]

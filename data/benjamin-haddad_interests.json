@@ -1,0 +1,42 @@
+[
+  {
+    "id": "interest-tocqueville-board",
+    "item": "Board membership - Fondation Tocqueville",
+    "type": "governance role (unremunerated)",
+    "period": "2020-06 to present (as declared)",
+    "value": "€0",
+    "detail": "Member of the board of directors of the non-profit Fondation Tocqueville think tank, declared under category 3 of the HATVP declaration of interests.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "interest-spouse-tse",
+    "item": "Spouse / partner professional activity",
+    "type": "family interest",
+    "period": "as of declaration (December 2025)",
+    "value": "not published",
+    "detail": "Declared under category 5 (professional activity of spouse/partner): a doctorate (PhD) at the Toulouse School of Economics; further details withheld as [Donnees non publiees].",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "interest-consulting-none",
+    "item": "Consulting activities",
+    "type": "consulting",
+    "period": "five years preceding declaration",
+    "value": "€0",
+    "detail": "Category 2 (consultant activities) declared 'Neant' (none).",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  },
+  {
+    "id": "interest-capital-none",
+    "item": "Direct financial participation in company capital",
+    "type": "equity interest",
+    "period": "at time of nomination",
+    "value": "€0",
+    "detail": "Category 4 (direct financial participation in the capital of a company) declared 'Neant' (none).",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+  }
+]

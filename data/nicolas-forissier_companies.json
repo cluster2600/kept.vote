@@ -1,0 +1,22 @@
+[
+  {
+    "id": "imprimerie-george-sand",
+    "entity": "Imprimerie George Sand (La Chatre)",
+    "role": "Manager / director (gerant)",
+    "ownership_stake": "none declared",
+    "period": "1992-2004",
+    "status": "former",
+    "detail": "Managed the George Sand printing works in La Chatre before and during his early parliamentary career.",
+    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf", "https://www.lemoci.com/nicolas-forissier-nouveau-ministre-delegue-au-commerce-exterieur/"]
+  },
+  {
+    "id": "cfce-ubifrance-chair",
+    "entity": "Centre francais du commerce exterieur / Ubifrance",
+    "role": "Chairman of the board of directors",
+    "ownership_stake": "not applicable (public agency)",
+    "period": "2003-2004",
+    "status": "former",
+    "detail": "Chaired the board of the French public foreign-trade promotion agency.",
+    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "legislative-2024-indre",
+    "election": "2024 French legislative election",
+    "date": "2024-07-07",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Elected (2nd round)",
+    "vote_share": "approx. 53% (30,423 votes) in the second round",
+    "opponent": "Marc Siffert (Rassemblement National)",
+    "detail": "Trailed in the first round with 31.82% behind the RN candidate (41.71%) but won the run-off by roughly 4 points.",
+    "source_url": ["https://france3-regions.franceinfo.fr/centre-val-de-loire/eure-et-loir/carte-resultats-legislatives-2024-de-l-indre-chateauroux-issoudun-la-chatre-decouvrez-les-candidats-elus-par-commune-et-par-circonscription-2998433.html"]
+  },
+  {
+    "id": "legislative-2022-indre",
+    "election": "2022 French legislative election",
+    "date": "2022-06-19",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "Re-elected to the National Assembly for Indre's 2nd constituency.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "legislative-2017-indre",
+    "election": "2017 French legislative election",
+    "date": "2017-06-18",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "Isabelle Bruneau (outgoing deputy)",
+    "detail": "Regained the seat he had lost in 2012; took office 21 June 2017.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "regional-2021-centre-val-de-loire",
+    "election": "2021 French regional election (Centre-Val de Loire)",
+    "date": "2021-06-27",
+    "role_sought": "President of the Regional Council of Centre-Val de Loire (list leader)",
+    "result": "Defeated (2nd place)",
+    "vote_share": "none declared",
+    "opponent": "Francois Bonneau (Socialist Party, incumbent)",
+    "detail": "Led a joint centre-right/centrist ticket (LR, UDI, Mouvement de la ruralite, Les Centristes, Soyons libres); finished second behind incumbent president Francois Bonneau.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier", "https://www.ouest-france.fr/elections/regionales/regionales-2021-victoire-de-francois-bonneau-pour-les-elections-en-centre-val-de-loire-403248ea-d75e-11eb-a704-e95d7d746bc8"]
+  },
+  {
+    "id": "legislative-2012-indre",
+    "election": "2012 French legislative election",
+    "date": "2012-06-17",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Defeated",
+    "vote_share": "none declared",
+    "opponent": "Isabelle Bruneau (Socialist Party)",
+    "detail": "Lost the seat to the Socialist candidate.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "legislative-2007-indre",
+    "election": "2007 French legislative election",
+    "date": "2007-06-17",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "Returned to the National Assembly after his 2004-2005 ministerial term.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "legislative-2002-indre",
+    "election": "2002 French legislative election",
+    "date": "2002-06-16",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "Re-elected; seat vacated in 2004 on appointment as secretary of state.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "legislative-1997-indre",
+    "election": "1997 French legislative election",
+    "date": "1997-06-01",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "Re-elected to the National Assembly.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "legislative-1993-indre",
+    "election": "1993 French legislative election",
+    "date": "1993-03-28",
+    "role_sought": "Deputy, Indre 2nd constituency",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "Jean-Claude Blin (outgoing deputy)",
+    "detail": "First election to the National Assembly; took office 2 April 1993.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  },
+  {
+    "id": "municipal-la-chatre-1995",
+    "election": "1995 French municipal election (La Chatre)",
+    "date": "1995-06-18",
+    "role_sought": "Mayor of La Chatre",
+    "result": "Elected",
+    "vote_share": "none declared",
+    "opponent": "none declared",
+    "detail": "Elected mayor of La Chatre; re-elected through subsequent municipal elections until 2017.",
+    "source_url": ["https://en.wikipedia.org/wiki/Nicolas_Forissier"]
+  }
+]

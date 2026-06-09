@@ -1,0 +1,10 @@
+[
+  {
+    "id": "net-worth-2025",
+    "year": "2025",
+    "declared_net_worth": "none declared",
+    "note": "Forissier filed a declaration of assets with the HATVP on entering the Lecornu government (Oct 2025). A consolidated net-worth figure was not extracted for this dataset; consult the HATVP declarant file for the official declaration.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=forissier-nicolas", "https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/"]
+  }
+]
