@@ -3,6 +3,9 @@
 Backend for **[kept.vote](https://github.com/cluster2600/kept.vote)** — a website
 to track politician promises (EU / CH / NO).
 
+> Deployed via Vercel (frontend) + Render (API) + Neon (Postgres). See
+> [`DEPLOY.md`](./DEPLOY.md).
+
 A production-ready FastAPI backend that stores politicians, their promises,
 uploaded documents, and implemented policies — then uses **Claude** to analyze
 whether a given promise was fulfilled, returning a confidence score and detailed
