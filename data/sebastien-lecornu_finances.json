@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "year": 2026,
+    "type": "bank_account",
+    "label": "Current account (overdrawn)",
+    "amount": "-559 EUR",
+    "detail": "Declared a current bank account in overdraft of 559 euros; his other accounts, including a Livret A savings account, were reported as positive. From the HATVP declaration of assets published 20 April 2026.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien", "https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  },
+  {
+    "id": 2,
+    "year": 2026,
+    "type": "life_insurance",
+    "label": "Life insurance (two assurance-vie contracts)",
+    "amount": "just over 7,000 EUR",
+    "detail": "Holds two life-insurance contracts for a combined value of a little over 7,000 euros, per the HATVP declaration of assets.",
+    "source_url": ["https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  },
+  {
+    "id": 3,
+    "year": 2026,
+    "type": "savings",
+    "label": "Livret A savings account",
+    "amount": "positive (amount not specified in reporting)",
+    "detail": "A Livret A regulated savings account reported as in credit. Exact balance not specified in available press summaries of the HATVP declaration.",
+    "source_url": ["https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  },
+  {
+    "id": 4,
+    "year": 2026,
+    "type": "debt",
+    "label": "Outstanding loans (4 mortgage/consumer credits)",
+    "amount": "approx. 564,000 EUR",
+    "detail": "Took out four mortgage and consumer loans; total outstanding debt of about 564,000 euros, with combined monthly repayments exceeding 4,000 euros. From the HATVP declaration of assets.",
+    "source_url": ["https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "role": "Product manager, then Director of Marketing and Communication (France, then continental Europe)",
+    "organization": "CIGNA (American insurance group)",
+    "start_date": "1986",
+    "end_date": "1999",
+    "description": "Worked for 13 years in the private sector at insurer CIGNA, rising from product manager to director of marketing and communication.",
+    "category": "private_sector",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 2,
+    "role": "Deputy Director General",
+    "organization": "Regional Council of Champagne-Ardenne",
+    "start_date": "1999",
+    "end_date": "2002",
+    "description": "Left the private sector to become deputy director general in charge of operational directions and services at the regional council.",
+    "category": "public_administration",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 3,
+    "role": "Secretary of State for Integration and Equal Opportunities",
+    "organization": "Government of France (Raffarin government, under minister Jean-Louis Borloo)",
+    "start_date": "2004-03-31",
+    "end_date": "2004-10-28",
+    "description": "First government post, appointed under President Jacques Chirac.",
+    "category": "government",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 4,
+    "role": "Secretary of State for Senior Citizens",
+    "organization": "Government of France (Raffarin government)",
+    "start_date": "2004-10-28",
+    "end_date": "2005-06-02",
+    "description": "Junior ministerial post in charge of policy for the elderly.",
+    "category": "government",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 5,
+    "role": "Minister Delegate for Social Cohesion and Parity",
+    "organization": "Government of France (Villepin government)",
+    "start_date": "2005-06-02",
+    "end_date": "2007-05-15",
+    "description": "Ministerial role under Prime Minister Dominique de Villepin; led 2005 measures on French-language requirements for long-term residence permits and on housing for the homeless.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin", "https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants"]
+  },
+  {
+    "id": 6,
+    "role": "Vice-President of the National Assembly (later First Vice-President)",
+    "organization": "Assemblée nationale",
+    "start_date": "2008-10-01",
+    "end_date": "2017-06-20",
+    "description": "Elected vice-president of the Assemblée nationale in 2008; served as First Vice-President from 2011 and again after 2012, also chairing internal delegations (communication/press, then international activities).",
+    "category": "legislative",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin", "https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants"]
+  },
+  {
+    "id": 7,
+    "role": "National Treasurer of the UMP",
+    "organization": "Union pour un Mouvement Populaire (UMP)",
+    "start_date": "2012-12",
+    "end_date": "2015",
+    "description": "Appointed treasurer of the UMP under party chair Jean-François Copé.",
+    "category": "political_party",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin", "https://www.francebleu.fr/infos/politique/penalites-de-sarkozy-l-ex-tresoriere-de-l-ump-et-deputee-catherine-vautrin-mise-en-examen-1417704497"]
+  },
+  {
+    "id": 8,
+    "role": "President of the Communauté d'Agglomération Reims Métropole, then President of the Communauté urbaine du Grand Reims",
+    "organization": "Grand Reims",
+    "start_date": "2014-04",
+    "end_date": "2024-01-16",
+    "description": "Headed the Reims metropolitan intercommunal authority (Reims Métropole, becoming Grand Reims in 2017); re-elected in July 2020.",
+    "category": "local_government",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 9,
+    "role": "President",
+    "organization": "Agence Nationale pour la Rénovation Urbaine (ANRU)",
+    "start_date": "2022-08-31",
+    "end_date": "2024-01",
+    "description": "Appointed by presidential decree as president of the national urban renewal agency.",
+    "category": "public_body",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"]
+  },
+  {
+    "id": 10,
+    "role": "Minister of Labour, Health and Solidarity",
+    "organization": "Government of France (Attal government)",
+    "start_date": "2024-01-11",
+    "end_date": "2024-09-21",
+    "description": "Returned to national government under Prime Minister Gabriel Attal, heading a combined social super-ministry.",
+    "category": "government",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 11,
+    "role": "Minister of Partnership with Territories and Decentralisation",
+    "organization": "Government of France (Barnier government)",
+    "start_date": "2024-09-21",
+    "end_date": "2024-12-23",
+    "description": "Held the territories/decentralisation portfolio under Prime Minister Michel Barnier.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin", "https://www.lunion.fr/id642700/article/2024-09-21/gouvernement-barnier-catherine-vautrin-nommee-ministre-du-partenariat-avec-les"]
+  },
+  {
+    "id": 12,
+    "role": "Minister of Labour, Health, Solidarity and Families",
+    "organization": "Government of France (Bayrou government, then first Lecornu government)",
+    "start_date": "2024-12-23",
+    "end_date": "2025-10-12",
+    "description": "Headed the combined social super-ministry under Prime Minister François Bayrou; nominally reappointed in the short-lived first Lecornu government of 5-6 October 2025.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin", "https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants"]
+  },
+  {
+    "id": 13,
+    "role": "Minister of the Armed Forces and Veterans",
+    "organization": "Government of France (Lecornu government)",
+    "start_date": "2025-10-12",
+    "end_date": null,
+    "description": "Appointed Minister of the Armed Forces and Veterans under Prime Minister Sébastien Lecornu; retained the position in the 26 February 2026 reshuffle. Has championed an updated military programming law (+36 billion euros to 2030) and a 2026 defence budget of about 57.1 billion euros.",
+    "category": "government",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://www.info.gouv.fr/actualite/la-nouvelle-composition-du-gouvernement-de-sebastien-lecornu", "https://www.vie-publique.fr/en-bref/302256-remaniement-le-gouvernement-de-sebastien-lecornu-26-fevrier-2026"]
+  }
+]

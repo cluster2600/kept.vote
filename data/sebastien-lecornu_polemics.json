@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Inaccurate master's degree on official CV",
+    "period": "2016–2025",
+    "category": "political",
+    "description": "For years Lecornu's official biography described him as holding a master's degree in public law from Panthéon-Assas. In September 2025, after his appointment as Prime Minister, it emerged that he had only completed a maîtrise (first year of master, M1) and never validated the master's diploma. He acknowledged the inaccuracy and his official CV was amended to refer to 'law studies at Panthéon-Assas'. No legal proceedings are associated with this; it is a reputational/political controversy.",
+    "status": "resolved",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Official bios from c. 2016 described him as holding a master's in public law from Panthéon-Assas",
+      "He in fact completed only a maîtrise/M1 and did not validate the full master's",
+      "Lecornu acknowledged the inaccuracy in September 2025 and his CV was corrected",
+      "No judicial proceedings reported"
+    ],
+    "source_url": ["https://actu.orange.fr/politique/sebastien-lecornu-reconnait-avoir-menti-sur-son-cv-magic-CNT000002kMHGZ.html", "https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 2,
+    "title": "Resignation hours after naming first cabinet (October 2025)",
+    "period": "October 2025",
+    "category": "political",
+    "description": "Appointed Prime Minister on 9 September 2025, Lecornu unveiled his first government on 5 October 2025 and resigned the next morning, about fourteen hours later, amid objections from the Republicans (notably Bruno Retailleau) over the cabinet's composition and the inclusion of Bruno Le Maire. President Macron reappointed him on 10 October 2025 to form a second government. The episode was widely characterised as a symptom of acute political instability.",
+    "status": "resolved",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "First Lecornu government announced 5 October 2025, resignation accepted 6 October 2025",
+      "LR objections, including from Bruno Retailleau, over portfolios and Bruno Le Maire",
+      "Reappointed Prime Minister on 10 October 2025; second government named 12 October 2025"
+    ],
+    "source_url": ["https://www.vie-publique.fr/en-bref/300354-demission-du-gouvernement-de-sebastien-lecornu", "https://www.france24.com/fr/france/20251010-apr%C3%A8s-cinq-jours-crise-s%C3%A9bastien-lecornu-finalement-reconduit-comme-premier-ministre", "https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_II"]
+  },
+  {
+    "id": 3,
+    "title": "Use of Article 49.3 for the 2026 budget after pledging not to",
+    "period": "January 2026",
+    "category": "political",
+    "description": "On taking office, Lecornu publicly committed not to use Article 49.3 of the Constitution, in order to favour parliamentary debate and compromise. Faced with the impossibility of assembling a majority on the 2026 finance bill, he reversed course and invoked 49.3 several times, including a final one to adopt the overall text, while surviving motions of no confidence. Critics highlighted the broken commitment; Lecornu said he acted 'with regret and bitterness'.",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Initially pledged not to resort to Article 49.3",
+      "Invoked 49.3 multiple times on the 2026 budget in January 2026",
+      "Government survived associated motions of no confidence",
+      "Described the decision as taken 'with regret and bitterness'"
+    ],
+    "source_url": ["https://www.franceinfo.fr/economie/budget/budget-2026-le-premier-ministre-sebastien-lecornu-confirme-avoir-decide-avec-regret-et-amertume-le-recours-au-49-3_7751851.html", "https://www.publicsenat.fr/actualites/politique/budget-sebastien-lecornu-declenche-un-nouveau-49-3-apres-avoir-surmonte-deux-motions-de-censure"]
+  },
+  {
+    "id": 4,
+    "title": "Government response to the 'Lyhanna affair'",
+    "period": "June 2026",
+    "category": "political",
+    "description": "Following the death of an 11-year-old schoolgirl, Lyhanna, in the Gers and revelations about how prior reports and complaints against the suspect were handled, large public protests (reported at tens of thousands of demonstrators) criticised failures in the justice system's handling of child sexual abuse. As Prime Minister, Lecornu said he was 'shocked', ordered an administrative inquiry with first conclusions expected within about fifteen days, and proposed measures including life imprisonment for serial rapists and a three-month maximum investigation deadline for identified perpetrators of crimes against children. This is an ongoing policy controversy, not a personal legal matter for Lecornu.",
+    "status": "ongoing",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "Death of an 11-year-old (Lyhanna) in Fleurance, Gers; suspect under examination",
+      "Public anger over handling of earlier reports/complaints; large protests reported",
+      "Lecornu ordered an administrative inquiry and proposed tougher sentencing and faster investigations",
+      "Policy/government controversy; no allegation against Lecornu personally"
+    ],
+    "source_url": ["https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/sebastien-lecornu-se-dit-choque-par-l-affaire-lyhanna-et-attend-les-premieres-conclusions-de-l-enquete-administrative-sous-15-jours_8046911.html", "https://www.publicsenat.fr/actualites/politique/affaire-lyhanna-perpetuite-pour-les-viols-en-serie-3-mois-denquete-maximum-les-premieres-reponses-de-sebastien-lecornu"]
+  }
+]

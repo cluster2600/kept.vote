@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "declared_net_worth": "approx. 4.0 million EUR (gross assets approx. 4.07M; net of declared mortgage approx. 4.0M)",
+    "note": "Approximate aggregate of HATVP-declared assets (real estate market values 3,716,000 EUR; life insurance 246,183 EUR; bank/savings approx. 137,696 EUR; vehicle 28,000 EUR) less the declared HSBC mortgage balance of 65,785 EUR. HATVP does not publish a single net-worth figure; this is a sum derived from line items in the declaration de situation patrimoniale filed 19 October 2025. Some bank entries may include spouse/joint holdings under the marital community regime.",
+    "status": "declared (derived sum, not an official single figure)",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland",
+      "https://contribuablesassocies.org/2026/04/23/la-hatvp-revele-le-nom-des-ministres-millionnaires-du-gouvernement-lecornu/"
+    ]
+  }
+]

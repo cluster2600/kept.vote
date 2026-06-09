@@ -52,6 +52,20 @@ def parse_date(value: object) -> datetime.date | None:
     return None
 
 
+def slug_of(entry: dict) -> str | None:
+    """Return a string external-id slug for a record, or None if it has no id.
+
+    Datasets vary: some use string slugs (e.g. "corporate-tax-25"), others use
+    integer sequence ids (1, 2, 3). The DB stores external_id as text, so coerce
+    to str. Per-(politician, section) scoping keeps these unique for upsert.
+    """
+    value = entry.get("id")
+    if value is None:
+        return None
+    text = str(value).strip()
+    return text or None
+
+
 def as_list(value: object) -> list[str] | None:
     """Normalize a value that may be a string or list into a list of strings."""
     if isinstance(value, list):

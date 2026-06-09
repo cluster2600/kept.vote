@@ -87,6 +87,23 @@ export default function PromisesTab({
     });
   }
 
+  // No promises tracked (e.g. a sitting minister with no presidential
+  // platform): show a clear empty state instead of an empty filter/accordion UI.
+  if (promises.length === 0) {
+    return (
+      <div className="rounded-xl border border-dashed border-slate-300 bg-white p-6 text-sm leading-relaxed text-slate-600">
+        <p className="font-semibold text-slate-700">No tracked promises</p>
+        <p className="mt-1.5">
+          No presidential campaign promises are tracked for {politicianName} —
+          a government minister rather than a presidential candidate. Their
+          record is documented under <span className="font-medium">Background</span>,{" "}
+          <span className="font-medium">Key legislation</span> (within
+          Background), and <span className="font-medium">Controversies</span>.
+        </p>
+      </div>
+    );
+  }
+
   return (
     <div>
       {campaignOnly && (

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "property": "Apartment, 61 m2",
+    "location": "Department 75 (Paris)",
+    "transaction_type": "Acquisition (full ownership, joint marital property)",
+    "date": "2012",
+    "value": "650000 EUR (market value); acquired for 630,000 EUR + 70,000 EUR works",
+    "detail": "Pleine propriete, 100% share. Financed in part by the HSBC mortgage dated Oct 2012.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 2,
+    "property": "Apartment, 159 m2",
+    "location": "Department 75 (Paris)",
+    "transaction_type": "Acquisition (full ownership, joint marital property)",
+    "date": "2020",
+    "value": "2225000 EUR (market value); acquired for 2,175,000 EUR + 40,000 EUR works",
+    "detail": "Pleine propriete, 100% share.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 3,
+    "property": "Apartment, 55 m2 (bare ownership / nue-propriete)",
+    "location": "Department 29 (Finistere)",
+    "transaction_type": "Acquisition (bare ownership, joint marital property)",
+    "date": "2020",
+    "value": "70000 EUR (market value); acquired for 70,000 EUR",
+    "detail": "Nue-propriete, 100% share.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 4,
+    "property": "Detached house, 175 m2 (held in usufruct)",
+    "location": "Department 64 (Pyrenees-Atlantiques)",
+    "transaction_type": "Acquisition (usufruct, joint marital property)",
+    "date": "2023",
+    "value": "771000 EUR (market value); acquired for 533,671 EUR + 250,000 EUR works",
+    "detail": "Usufruit, 100% share; 0.1 ha of land.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  }
+]

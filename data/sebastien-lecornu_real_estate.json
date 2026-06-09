@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "property": "House (just over 250 m2)",
+    "location": "Eure (Normandy)",
+    "transaction_type": "Purchase (on credit)",
+    "date": "2018",
+    "value": "770,000 EUR",
+    "detail": "Property of a little over 250 m2 bought on credit in 2018, on which he launched significant renovation works. From the HATVP déclaration de patrimoine published 20 April 2026.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien", "https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  },
+  {
+    "id": 2,
+    "property": "House (89 m2)",
+    "location": "Eure (Normandy)",
+    "transaction_type": "Purchase",
+    "date": "2023",
+    "value": "138,000 EUR",
+    "detail": "An 89 m2 house bought for 138,000 euros in 2023. From the HATVP déclaration de patrimoine.",
+    "status": "declared",
+    "source_url": ["https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  },
+  {
+    "id": 3,
+    "property": "Plot of land",
+    "location": "Eure (Normandy)",
+    "transaction_type": "Ownership",
+    "date": "",
+    "value": "100,000 EUR",
+    "detail": "A plot of land valued at 100,000 euros in the Eure, declared to the HATVP.",
+    "status": "declared",
+    "source_url": ["https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  }
+]

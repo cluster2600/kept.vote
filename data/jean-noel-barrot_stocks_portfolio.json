@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "holding": "Liegey Muller Pons / eXplain ('Explain') - unlisted shares",
+    "type": "Unlisted equity (valeurs mobilières non cotées)",
+    "value": "EUR 40,356",
+    "as_of": "2026-02-25 (patrimoine declaration)",
+    "detail": "114 unlisted shares representing about 0.13% of the company's capital. Declared both as a participation financière directe and as a non-listed security.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "holding": "FCPR (fonds commun de placement à risques)",
+    "type": "Private-equity / venture fund unit",
+    "value": "EUR 10,136",
+    "as_of": "2026-02-25 (patrimoine declaration)",
+    "detail": "Holding in a risk-capital mutual fund, declared under section 4 'instruments financiers'.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "holding": "PEA and PEA-PME (equity savings plans)",
+    "type": "Equity savings plan (cash/securities account)",
+    "value": "Negligible (cash balances of EUR 45 and EUR 0-100 declared)",
+    "as_of": "2026-02-25 (patrimoine declaration)",
+    "detail": "Holds a PEA (Crédit Agricole) and a PEA-PME (CIC); declared balances are negligible (PEA cash account EUR 100, PEA-PME liquidity account EUR 45, PEA Crédit Agricole EUR 0). No material listed-equity portfolio is otherwise declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  }
+]

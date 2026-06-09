@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "Comments on 'bringing social media to heel' against foreign interference",
+    "period": "2026",
+    "category": "Political controversy / free speech",
+    "description": "Barrot stated that France should guard against foreign influence on the 2027 presidential election and referred to the need for a 'mise au pas' (bringing to heel) of social media. The remarks were criticised, notably by Rassemblement National president Jordan Bardella, as a threat to free public debate.",
+    "status": "political",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "Remarks framed around protecting the 2027 presidential election from foreign interference",
+      "Criticised by Jordan Bardella (RN) as an attack on freedom of debate",
+      "No legal proceedings reported; a political/free-speech controversy"
+    ],
+    "source_url": [
+      "https://www.aa.com.tr/fr/monde/france-pol%C3%A9mique-apr%C3%A8s-les-propos-de-jean-no%C3%ABl-barrot-sur-les-r%C3%A9seaux-sociaux-et-l-ing%C3%A9rence-%C3%A9trang%C3%A8re/3839307"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Defamation complaint by Xavier Moreau (Stratpol founder) - dismissed",
+    "period": "2024-2025",
+    "category": "Legal complaint (dismissed)",
+    "description": "Barrot had described Xavier Moreau, founder of the Stratpol site, as a 'relay of Kremlin propaganda'. Moreau filed a defamation complaint against the minister before the Cour de justice de la République (the court for ministerial offences). The CJR's commission des requêtes dismissed (classed) the complaint.",
+    "status": "no_charges",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Barrot publicly characterised Moreau as relaying Kremlin propaganda",
+      "Moreau lodged a defamation complaint with the Cour de justice de la République",
+      "The CJR commission des requêtes dismissed the complaint; no prosecution"
+    ],
+    "source_url": [
+      "https://francais.rt.com/france/134778-diffamation-quai-dorsay-justice-moreau"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Heated exchange with La France insoumise over Lebanon ('you spit in the faces of French soldiers')",
+    "period": "2024",
+    "category": "Parliamentary controversy",
+    "description": "Responding in the National Assembly to LFI deputy Arnaud Le Gall on France's policy toward the war in Lebanon, Barrot told the Insoumis they were 'spitting in the faces of French soldiers' standing alongside the Lebanese population. LFI deputies left the chamber in protest.",
+    "status": "resolved",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "Statement made during questions to the government on Lebanon",
+      "Prompted LFI deputies to walk out of the hemicycle",
+      "A political clash, no legal dimension"
+    ],
+    "source_url": [
+      "https://lcp.fr/actualites/guerre-au-liban-vous-crachez-aux-visages-des-militaires-francais-lance-jean-noel-barrot"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Quotation of Golda Meir on Israel framed as 'humanist and universalist ethics'",
+    "period": "2024-2025",
+    "category": "Diplomatic / political controversy",
+    "description": "In the Senate, Barrot quoted a well-known formula attributed to former Israeli PM Golda Meir ('We can forgive the Arabs for killing our children. We cannot forgive them for forcing us to kill their children'), presenting it as illustrating Israel's 'humanist and universalist ethics'. The remarks drew sharp criticism from pro-Palestinian voices and parts of the left.",
+    "status": "political",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "Quote delivered in the Senate in the context of the Israel-Gaza/Lebanon conflict",
+      "Criticised as one-sided framing of the conflict",
+      "Political and diplomatic controversy; no legal proceedings"
+    ],
+    "source_url": [
+      "https://orientxxi.info/Lettre-ouverte-a-Jean-Noel-Barrot"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Opposition to UN Special Rapporteur Francesca Albanese; call for her resignation",
+    "period": "2025-2026",
+    "category": "Diplomatic controversy",
+    "description": "Barrot wrote to the UN human-rights commissioner in April 2025 to oppose the automatic renewal of Francesca Albanese as UN Special Rapporteur on the Palestinian territories, and in February 2026 called for her resignation. UN staff associations publicly backed Albanese and condemned attacks by European ministers, generating controversy.",
+    "status": "ongoing",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "April 2025 letter opposing Albanese's renewal",
+      "11 February 2026: Barrot called for Albanese's resignation",
+      "UN staff bodies publicly criticised the European ministers' stance"
+    ],
+    "source_url": [
+      "https://www.aljazeera.com/news/2026/2/16/un-staffers-back-francesca-albanese-condemn-european-ministers-for-attacks",
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Inclusion among wealthiest ministers in HATVP patrimoine publication",
+    "period": "2026",
+    "category": "Transparency / wealth scrutiny",
+    "description": "When the HATVP published the Lecornu government's wealth declarations (22 April 2026), press coverage flagged Barrot as one of the wealthiest ministers (real estate, life insurance over EUR 1.6m, large cash balances). Barrot himself has publicly defended wealth-transparency for politicians 'so they do not enrich themselves while in office.' Not an allegation of wrongdoing.",
+    "status": "no_charges",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "HATVP declarations published 22 April 2026",
+      "Barrot listed among ministers with the highest declared assets",
+      "No allegation of impropriety; a matter of public scrutiny of declared wealth"
+    ],
+    "source_url": [
+      "https://www.cnews.fr/france/2026-04-22/patrimoine-des-ministres-diamant-appartements-plusieurs-millions-comptes",
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/transparence-du-patrimoine-des-responsables-politiques-necessaire-selon-jean-noel-barrot-afin-que-ceux-ci-ne-s-enrichissent-pas-dans-l-exercice-de-leur-mandat_7959245.html"
+    ]
+  }
+]

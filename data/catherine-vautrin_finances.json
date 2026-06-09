@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "type": "real_estate",
+    "label": "Detached house, Marne (Dept. 51), 300 m2, 50% indivision share",
+    "amount": "545450 EUR (full market value; 50% share held)",
+    "detail": "Acquired 2002; purchase price 205,806 EUR. Held in indivision, full ownership, 50% quote-part.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "type": "real_estate",
+    "label": "Garage, Marne (Dept. 51), 30 m2, 50% indivision share",
+    "amount": "30000 EUR (full market value; 50% share held)",
+    "detail": "Acquired 2004; purchase price 16,000 EUR.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 3,
+    "year": "2025",
+    "type": "sci_shares",
+    "label": "Shares in a Société Civile Immobilière (SCI), 50% capital (442 of 884 shares)",
+    "amount": "227055 EUR",
+    "detail": "Declared total market value of shares held. SCI assets include a detached house (400 m2) in Dept. 51 acquired in 1997 by donation; declared in bare ownership (nue-propriété). SCI liabilities: associate current account of 123 EUR.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 4,
+    "year": "2025",
+    "type": "unlisted_securities",
+    "label": "CVPConseil (unlisted company), 100% ownership",
+    "amount": "105674 EUR",
+    "detail": "Declared total market value of shares held; full ownership of the SAS.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 5,
+    "year": "2025",
+    "type": "financial_instrument",
+    "label": "PEA (equity savings plan), Société Générale",
+    "amount": "7500 EUR",
+    "detail": "Plan d'epargne en actions held in Catherine Vautrin's name.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 6,
+    "year": "2025",
+    "type": "life_insurance",
+    "label": "Life insurance (assurance vie), Société Générale",
+    "amount": "41983 EUR",
+    "detail": "Subscribed 1 April 2004 in Catherine Vautrin's name.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 7,
+    "year": "2025",
+    "type": "bank_account",
+    "label": "Current account, Société Générale (in her name)",
+    "amount": "25446 EUR",
+    "detail": "Declared balance.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 8,
+    "year": "2025",
+    "type": "bank_account",
+    "label": "Current account, BNP Paribas",
+    "amount": "5425 EUR",
+    "detail": "Declared balance (account holder name not published by HATVP).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 9,
+    "year": "2025",
+    "type": "vehicle",
+    "label": "Motor vehicle, Renault (2010)",
+    "amount": "1300 EUR (market value)",
+    "detail": "Purchase value 6,000 EUR; entered patrimony 2010.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 10,
+    "year": "2025",
+    "type": "vehicle",
+    "label": "Motor vehicle, Jeep (2024)",
+    "amount": "28000 EUR (market value)",
+    "detail": "Purchase value 28,000 EUR; entered patrimony 2024.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 11,
+    "year": "2025",
+    "type": "liabilities",
+    "label": "Liabilities / debts (including tax debts)",
+    "amount": "0 EUR (none declared)",
+    "detail": "Section 12 of the patrimony declaration: Neant (none).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  }
+]

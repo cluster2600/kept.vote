@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "property": "Appartement de 95 m²",
+    "location": "Nord (département 59), France",
+    "transaction_type": "Purchase / ownership",
+    "date": "2023",
+    "value": 225000,
+    "detail": "Apartment of 95 m² acquired in 2023 for 225,000 EUR, valued at 225,000 EUR, held in full ownership; financed in part by a La Banque Postale mortgage contracted 24 May 2023.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald", "https://france.news-pravda.com/france/2026/04/22/213577.html"]
+  }
+]

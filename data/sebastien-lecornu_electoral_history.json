@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "election": "2014 French municipal elections",
+    "date": "2014-03",
+    "role_sought": "Mayor of Vernon (Eure)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Won the Vernon town hall; took office on 5 April 2014. Stepped down as mayor on 4 December 2015 due to rules on combining executive mandates.",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 2,
+    "election": "2015 French departmental elections",
+    "date": "2015-03",
+    "role_sought": "Departmental councillor, canton of Vernon",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected councillor for the canton of Vernon (alongside Catherine Delalande); subsequently became President of the Departmental Council of the Eure.",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 3,
+    "election": "2020 French Senate elections",
+    "date": "2020-09",
+    "role_sought": "Senator for the Eure",
+    "result": "Elected (resigned seat after one month)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected senator for the Eure in September 2020 but, as announced beforehand, left his seat to substitute Nicole Duranton roughly one month after entering the Senate, in order to remain a government minister.",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 4,
+    "election": "2021 French departmental elections",
+    "date": "2021-06",
+    "role_sought": "Departmental councillor, canton of Vernon (re-election)",
+    "result": "Re-elected",
+    "vote_share": "58.74% (first round); 81.11% (second round)",
+    "opponent": "",
+    "detail": "Came first in the first round with 58.74% but high abstention prevented direct election; re-elected in the second round with 81.11%. He then resumed the presidency of the Eure department.",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 5,
+    "election": "2026 French municipal elections",
+    "date": "2026-03",
+    "role_sought": "Municipal council, Vernon (list head / first deputy mayor)",
+    "result": "List won",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "As sitting Prime Minister, Lecornu announced the victory of his list in Vernon in March 2026 and was named first deputy to the mayor. He also stated he would not seek renewal of a Senate mandate in the September 2026 senatorial elections.",
+    "source_url": ["https://www.france24.com/fr/info-en-continu/20260315-municipales-lecornu-annonce-la-victoire-de-sa-liste-%C3%A0-vernon-dans-l-eure", "https://www.ici.fr/normandie/eure-27/le-premier-ministre-sebastien-lecornu-ne-sera-pas-a-nouveau-candidat-aux-elections-senatoriales-dans-l-eure-1049100"]
+  }
+]

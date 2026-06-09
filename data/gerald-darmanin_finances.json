@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "year": 2026,
+    "type": "real_estate_asset",
+    "label": "Appartement (95 m²), Nord (dépt. 59)",
+    "amount": 225000,
+    "detail": "Apartment of 95 m² in the Nord department, acquired in 2023, declared/valued at 225,000 EUR, held in full ownership (DECLARED, HATVP déclaration de patrimoine).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald", "https://france.news-pravda.com/france/2026/04/22/213577.html"]
+  },
+  {
+    "id": 2,
+    "year": 2026,
+    "type": "bank_savings",
+    "label": "Liquidités / épargne",
+    "amount": 500,
+    "detail": "Approximately 500 EUR in savings declared (DECLARED, HATVP).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald", "https://france.news-pravda.com/france/2026/04/22/213577.html"]
+  },
+  {
+    "id": 3,
+    "year": 2026,
+    "type": "liability_loan",
+    "label": "Prêt immobilier La Banque Postale",
+    "amount": -185632,
+    "detail": "Housing loan from La Banque Postale, contracted 24 May 2023; original amount 193,733 EUR, monthly payment 998 EUR, 300-month term, outstanding balance reported at 185,632 EUR (DECLARED, HATVP; shown as a liability).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald", "https://france.news-pravda.com/france/2026/04/22/213577.html"]
+  }
+]

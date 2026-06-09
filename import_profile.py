@@ -44,6 +44,7 @@ from import_common import (
     as_list as _as_list,
     data_path,
     get_or_create_politician,
+    slug_of,
 )
 
 
@@ -81,7 +82,7 @@ async def _upsert_section(
 
     Returns ``(created, updated, pruned)``.
     """
-    incoming_slugs = {e["id"] for e in entries if e.get("id")}
+    incoming_slugs = {slug_of(e) for e in entries if slug_of(e)}
 
     existing = list(
         (
@@ -103,7 +104,9 @@ async def _upsert_section(
 
     created = updated = 0
     for entry in entries:
-        slug = entry.get("id")
+        slug = slug_of(entry)
+        if slug is None:
+            continue  # can't upsert without a stable id
         row = existing_by_slug.get(slug)
         if row is None:
             row = model(politician_id=politician_id, external_id=slug)
@@ -112,6 +115,14 @@ async def _upsert_section(
         else:
             updated += 1
         for column, value in field_map(entry).items():
+            # Some datasets use ints where the column is text (e.g. year=2026).
+            # Coerce scalars to str; leave lists/dicts (JSONB) and floats
+            # (confidence_score) untouched.
+            if (
+                value is not None
+                and not isinstance(value, (list, dict, float, bool))
+            ):
+                value = str(value)
             setattr(row, column, value)
     await session.flush()
     return created, updated, pruned

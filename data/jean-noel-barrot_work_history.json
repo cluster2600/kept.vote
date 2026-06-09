@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "role": "Minister for Europe and Foreign Affairs",
+    "organization": "Government of France (Barnier, Bayrou, Lecornu governments)",
+    "start_date": "2024-09-21",
+    "end_date": null,
+    "description": "Head of the Ministry for Europe and Foreign Affairs (Quai d'Orsay), retained across successive governments including after the 26 February 2026 reshuffle under PM Sébastien Lecornu.",
+    "category": "government",
+    "source_url": [
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot",
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "President of the Foreign Affairs Committee of the National Assembly",
+    "organization": "National Assembly (France)",
+    "start_date": "2024-07-20",
+    "end_date": "2024-09-21",
+    "description": "Chaired the Foreign Affairs Committee of the National Assembly following the 2024 snap legislative election, until his appointment as Foreign Minister.",
+    "category": "legislative",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "role": "Minister Delegate for European Affairs",
+    "organization": "Government of France (Attal government)",
+    "start_date": "2024-02-08",
+    "end_date": "2024-09-21",
+    "description": "Minister Delegate for European Affairs, attached to Foreign Minister Stéphane Séjourné.",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  },
+  {
+    "id": 4,
+    "role": "Minister Delegate for the Digital Transition and Telecommunications",
+    "organization": "Government of France (Borne government)",
+    "start_date": "2022-07-04",
+    "end_date": "2024-01-11",
+    "description": "Minister Delegate for the Digital Transition and Telecommunications; oversaw digital regulation including the loi visant à sécuriser et réguler l'espace numérique (SREN).",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.economie.gouv.fr/actualites/numerique-loi-protection-citoyens-entreprises-internet"
+    ]
+  },
+  {
+    "id": 5,
+    "role": "Member of the National Assembly (Député), Yvelines 2nd constituency",
+    "organization": "National Assembly (France)",
+    "start_date": "2017-06-21",
+    "end_date": null,
+    "description": "MP for the 2nd constituency of Yvelines, first elected in 2017 and re-elected in 2022 (and an October 2022 by-election) and 2024. Served as Vice-President of the Finance Committee. Mandate suspended while serving as a minister, with a substitute (suppléant) sitting in his place.",
+    "category": "legislative",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  },
+  {
+    "id": 6,
+    "role": "Member of the Regional Council of Île-de-France",
+    "organization": "Regional Council of Île-de-France",
+    "start_date": "2021-07-02",
+    "end_date": "2025-10",
+    "description": "Regional councillor elected on the La République En Marche! list led by Laurent Saint-Martin in the 2021 regional election. HATVP records the mandate ending in October 2025.",
+    "category": "regional",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 7,
+    "role": "Secretary General, then Vice-President, of the Mouvement Démocrate (MoDem)",
+    "organization": "Mouvement Démocrate (MoDem)",
+    "start_date": "2018-12-12",
+    "end_date": null,
+    "description": "Party spokesperson (2018), Secretary General of the MoDem (Dec 2018–July 2022) under François Bayrou, then Vice-President from July 2022.",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  },
+  {
+    "id": 8,
+    "role": "Departmental councillor of Haute-Loire (canton of Yssingeaux)",
+    "organization": "Departmental Council of Haute-Loire",
+    "start_date": "2015-04-02",
+    "end_date": "2017-06-27",
+    "description": "Departmental councillor for the canton of Yssingeaux, a seat his father Jacques Barrot had held until 2004; resigned in 2017.",
+    "category": "local",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 9,
+    "role": "Associate Professor of Finance (assistant then associate professor)",
+    "organization": "HEC Paris",
+    "start_date": "2017",
+    "end_date": "2022-07",
+    "description": "Faculty member in finance at HEC Paris (on leave of absence while in government). HATVP declaration records teaching/research income from HEC Paris through July 2022.",
+    "category": "academic",
+    "source_url": [
+      "https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/barrot-jean-noel",
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 10,
+    "role": "Research affiliate / faculty (finance)",
+    "organization": "MIT Sloan School of Management",
+    "start_date": "2013",
+    "end_date": "2017",
+    "description": "Taught finance at the MIT Sloan School of Management; research on finance, production networks and evaluation of business-support policies, published in journals including the Quarterly Journal of Economics, Journal of Financial Economics and Management Science.",
+    "category": "academic",
+    "source_url": [
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot",
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  }
+]

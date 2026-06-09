@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "law_name": "Loi visant à sécuriser et réguler l'espace numérique (loi SREN)",
+    "year": 2024,
+    "area": "Digital regulation / online safety",
+    "description": "As Minister Delegate for the Digital Transition, Barrot was the lead government sponsor of the SREN bill, transposing EU digital rules (DSA/DMA) and creating French measures on access to online pornography for minors, cyber-harassment, online scams and platform accountability. Definitively adopted 10 April 2024 and promulgated 21 May 2024.",
+    "significance": "Major French law structuring online-space regulation; presented by Barrot as a tool to protect French citizens online.",
+    "source_url": [
+      "https://www.economie.gouv.fr/actualites/numerique-loi-protection-citoyens-entreprises-internet",
+      "https://www.strategies.fr/actualites/culture-tech/LQ2454100C/l-assemblee-adopte-le-projet-de-loi-de-regulation-de-l-espace-numerique.html"
+    ]
+  },
+  {
+    "id": 2,
+    "law_name": "Loi visant à encadrer l'influence commerciale (régulation des influenceurs)",
+    "year": 2023,
+    "area": "Consumer protection / influencer marketing",
+    "description": "Barrot, as Digital Minister, supported and helped shape the law regulating commercial influence on social media, which legally defines influencers, requires labelling of retouched/AI-altered images and bans the promotion of certain products (e.g. cryptocurrencies, cosmetic surgery).",
+    "significance": "First French legal framework specifically regulating social-media influencers.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/regulation-des-influenceurs-avant-d-auditionner-magali-berdah-le-senat-entend"
+    ]
+  },
+  {
+    "id": 3,
+    "law_name": "Dispositif anti-CumEx / CumCum (lutte contre l'arbitrage de dividendes)",
+    "year": 2018,
+    "area": "Tax / anti-fraud (Finance Committee)",
+    "description": "As an MP and Vice-President of the Finance Committee, Barrot co-authored (with Bénédicte Peyrol) provisions adopted by the National Assembly in December 2018 to combat large-scale dividend-stripping tax-avoidance schemes (CumEx/CumCum), in the wake of the CumEx Files revelations.",
+    "significance": "Strengthened French rules against dividend-arbitrage tax avoidance.",
+    "source_url": [
+      "https://www.lemonde.fr/politique/article/2018/12/18/l-assemblee-nationale-adopte-un-dispositif-pour-lutter-contre-les-cumex_5399236_823448.html",
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 4,
+    "law_name": "Proposition de loi rétablissant le vote par correspondance (vote par correspondance)",
+    "year": 2020,
+    "area": "Electoral law",
+    "description": "As an MP, Barrot (with Patrick Mignola) proposed a bill to (re)introduce postal voting to facilitate voting during the COVID-19 health crisis, ahead of the 2021 regional elections. The proposal was contested and not adopted.",
+    "significance": "Notable but unsuccessful legislative proposal; illustrative of his parliamentary work, not enacted law.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/15/textes/l15b3039_proposition-loi",
+      "https://www.politico.eu/article/france-is-split-over-american-mail-in-ballots-2021-regional-election/"
+    ]
+  }
+]

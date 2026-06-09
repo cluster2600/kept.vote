@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "institution": "Sciences Po Lille (Institut d'études politiques de Lille)",
+    "qualification": "Diplôme de l'IEP",
+    "field": "Political science / Public affairs",
+    "years": "2002-2006",
+    "detail": "Graduated from Sciences Po Lille, his principal higher-education qualification.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 2,
+    "institution": "Institut Catholique de Paris (ICP)",
+    "qualification": "Classe préparatoire / première année",
+    "field": "History / preparation for IEP entrance",
+    "years": "2001-2002",
+    "detail": "Attended the ICP preparatory programme (including a first year of DEUG in History) for entrance to the Instituts d'études politiques.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "entity": "SAS CVPConseil",
+    "role": "President and sole shareholder",
+    "ownership_stake": "100% (100 of 100 shares)",
+    "period": "Company role declared 2019-2024; 100% ownership stated as of nomination",
+    "status": "declared",
+    "detail": "Wholly owned consultancy (SAS). Declared market value 105,674 EUR. She received 30,000 EUR in dividends in respect of the 2024 financial year. A related consulting activity (CVPConseil, consumer mediation) is listed for 01/2020-01/2025 with 0 EUR remuneration reported.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-di34799-gouvernement.pdf"]
+  },
+  {
+    "id": 2,
+    "entity": "Société Civile Immobilière (SCI) [name not published by HATVP]",
+    "role": "Manager (gerante) and 50% partner",
+    "ownership_stake": "50% (442 of 884 shares)",
+    "period": "2019-2024 (manager role declared)",
+    "status": "declared",
+    "detail": "Real-estate holding company; she was gerante and holds 50% of shares (declared value 227,055 EUR). No remuneration declared.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-di34799-gouvernement.pdf"]
+  }
+]

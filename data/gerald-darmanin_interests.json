@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "item": "Conflict-of-interest recusal (déport)",
+    "type": "ethics_obligation",
+    "period": "2025-2026",
+    "value": null,
+    "detail": "Following publication of ministers' declarations, the HATVP identified Darmanin among ministers asked to recuse themselves (déport) from certain matters to prevent conflicts of interest. Exact scope per HATVP; details thinly sourced in available press.",
+    "status": "declared",
+    "source_url": ["https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains", "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"]
+  },
+  {
+    "id": 2,
+    "item": "Author royalties (books published with éditions de l'Observatoire)",
+    "type": "intellectual_property_income",
+    "period": "2017-",
+    "value": null,
+    "detail": "Author of published essays (e.g. 'Le Séparatisme islamiste', 2021), which can generate royalty income; amounts not specified in available sources.",
+    "status": "estimated",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  }
+]

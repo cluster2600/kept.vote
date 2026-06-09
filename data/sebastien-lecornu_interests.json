@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "item": "President of the Departmental Council of the Eure",
+    "type": "elected_local_executive",
+    "period": "2015–2017 and 2021–2022",
+    "value": "",
+    "detail": "Local executive mandate as head of the Eure department, declared as part of his record of elective functions. He resumed the presidency in 2021 while a minister with presidential authorisation.",
+    "status": "declared",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu", "https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien"]
+  },
+  {
+    "id": 2,
+    "item": "Operational reserve, National Gendarmerie",
+    "type": "reserve_military_service",
+    "period": "since c. 2010s; appointed colonel (reserve specialist) in autumn 2017",
+    "value": "",
+    "detail": "Member of the National Gendarmerie operational reserve, initially with the rank of lieutenant, appointed reserve colonel (specialist) in 2017.",
+    "status": "declared",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 3,
+    "item": "HATVP recusal/déport obligations",
+    "type": "conflict_of_interest_management",
+    "period": "2025–2026",
+    "value": "",
+    "detail": "When the HATVP published the declarations of 30 members of the Lecornu government, 14 ministers were required to recuse themselves (se déporter) from certain matters to avoid conflicts of interest. Public reporting did not single out Lecornu himself as among those given specific déport instructions; the available summaries focus on his personal asset declaration (overdraft, houses, loans).",
+    "status": "declared",
+    "source_url": ["https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains", "https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/"]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "law_name": "Loi relative a l'industrie verte (Green Industry Law)",
+    "year": 2023,
+    "area": "Industry / energy transition / decarbonisation",
+    "description": "As Minister Delegate for Industry, Lescure was the government's lead figure carrying the Green Industry Law, co-constructed at Bercy from early 2023 through thematic working groups. Adopted in first reading by the National Assembly on 22 July 2023 (Senate adopted its version 22 June 2023).",
+    "significance": "Aimed to decarbonise existing French industry (about 18% of national CO2 emissions) and accelerate production of green technologies, including faster industrial-site permitting and green-investment incentives.",
+    "source_url": [
+      "https://www.economie.gouv.fr/industrie-verte",
+      "https://presse.economie.gouv.fr/22072023-le-projet-de-loi-industrie-verte-est-vote-en-premiere-lecture-par-le-parlement/",
+      "https://www.senat.fr/dossier-legislatif/pjl22-607.html"
+    ]
+  },
+  {
+    "id": 2,
+    "law_name": "Privatisation of Groupe ADP (Aeroports de Paris) - PACTE law provisions",
+    "year": 2019,
+    "area": "Public enterprise / privatisation",
+    "description": "As President of the National Assembly Economic Affairs Committee, Lescure served as parliamentary rapporteur on the planned privatisation of Groupe ADP, a flagship and contested element of the 2019 PACTE framework. The privatisation was ultimately shelved.",
+    "significance": "One of the most politically contested economic measures of the 2017-2022 legislature; opposition MPs launched a shared-initiative referendum (RIP) procedure against it.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure",
+      "https://www.lemonde.fr/economie/article/2019/04/09/privatisation-d-adp-des-parlementaires-d-opposition-rassemblent-197-signatures-pour-enclencher-un-referendum-d-initiative-partagee_5447884_3234.html"
+    ]
+  }
+]

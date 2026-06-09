@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "institution": "Ecole Polytechnique",
+    "qualification": "Engineering diploma (ingenieur)",
+    "field": "Science and engineering",
+    "years": "1987",
+    "detail": "Graduate of the Ecole Polytechnique (entered class of 1987 per ENSAE alumni records).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure",
+      "https://www.ensae.org/en/mobilites/roland-lescure-1992-appointed-minister-for-the-economy-finance-and-industrial-and-digital-sovereignty-1335"
+    ]
+  },
+  {
+    "id": 2,
+    "institution": "ENSAE (Ecole nationale de la statistique et de l'administration economique)",
+    "qualification": "Graduate diploma (statistics and economics)",
+    "field": "Statistics and economics",
+    "years": "1992",
+    "detail": "Graduated from ENSAE ParisTech in 1992.",
+    "source_url": [
+      "https://www.ensae.org/en/mobilites/roland-lescure-1992-appointed-minister-for-the-economy-finance-and-industrial-and-digital-sovereignty-1335",
+      "https://en.wikipedia.org/wiki/Roland_Lescure"
+    ]
+  },
+  {
+    "id": 3,
+    "institution": "London School of Economics (LSE)",
+    "qualification": "Master's degree in economics",
+    "field": "Economics",
+    "years": "",
+    "detail": "Holds a master's degree in economics from the London School of Economics.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure"
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "role": "Minister of the Economy, Finance and Industrial, Energy and Digital Sovereignty",
+    "organization": "Government of France (Lecornu I, then Lecornu II)",
+    "start_date": "2025-10-05",
+    "end_date": null,
+    "description": "Appointed Minister of the Economy and Finance in Sebastien Lecornu's first government on 5 October 2025; retained the portfolio (with the expanded title covering industrial, energy and digital sovereignty) in the 26 February 2026 reshuffle forming the Lecornu II government.",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure",
+      "https://www.vie-publique.fr/en-bref/302256-remaniement-le-gouvernement-de-sebastien-lecornu-26-fevrier-2026",
+      "https://www.economie.gouv.fr/ministres/roland-lescure"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Minister Delegate for Industry",
+    "organization": "Government of France (under Bruno Le Maire; PMs Elisabeth Borne and Gabriel Attal)",
+    "start_date": "2022-07-04",
+    "end_date": "2024-09-21",
+    "description": "Minister Delegate for Industry, attached to the Minister of the Economy and Finance. Carried the 2023 Green Industry Law (loi industrie verte).",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure",
+      "https://www.economie.gouv.fr/industrie-verte"
+    ]
+  },
+  {
+    "id": 3,
+    "role": "Member of the National Assembly (1st constituency for French residents overseas)",
+    "organization": "National Assembly of France",
+    "start_date": "2017-06-21",
+    "end_date": null,
+    "description": "Deputy for the first constituency for French residents overseas (Canada and the United States). In office 21 June 2017 to 4 August 2022, then re-elected and in office again from 8 July 2024; his seat was suspended during ministerial service.",
+    "category": "elected_office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure",
+      "https://datan.fr/deputes/francais-de-letranger/depute_roland-lescure"
+    ]
+  },
+  {
+    "id": 4,
+    "role": "President of the Economic Affairs Committee",
+    "organization": "National Assembly of France",
+    "start_date": "2017-06-29",
+    "end_date": "2022-06-21",
+    "description": "Chairman of the Committee on Economic Affairs; served as parliamentary rapporteur on the privatisation of Groupe ADP (Aeroports de Paris).",
+    "category": "elected_office",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure"
+    ]
+  },
+  {
+    "id": 5,
+    "role": "Executive Vice-President and Chief Investment Officer",
+    "organization": "Caisse de depot et placement du Quebec (CDPQ)",
+    "start_date": "2009",
+    "end_date": "2017",
+    "description": "Recruited as Executive Vice-President and Chief Investment Officer of CDPQ, one of the world's largest public pension and investment funds, reporting to president Michael Sabia. Left in 2017 to enter French politics.",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.lacaisse.com/en/news/pressreleases/appointment-roland-lescure",
+      "https://en.wikipedia.org/wiki/Roland_Lescure"
+    ]
+  },
+  {
+    "id": 6,
+    "role": "Money manager / asset management executive",
+    "organization": "Groupama Asset Management, Natixis (France)",
+    "start_date": "1990s",
+    "end_date": "2009",
+    "description": "Held leadership roles in the French financial sector, including at Groupama and Natixis, before moving to Canada in 2009.",
+    "category": "private_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Roland_Lescure",
+      "https://milkeninstitute.org/events/global-conference-2025/speakers/roland-lescure"
+    ]
+  }
+]

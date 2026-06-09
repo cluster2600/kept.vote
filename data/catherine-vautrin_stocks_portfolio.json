@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "holding": "PEA (Plan d'Epargne en Actions / equity savings plan)",
+    "type": "Equity savings plan (contents not itemised)",
+    "value": "7500 EUR",
+    "as_of": "2025-11-02 (declaration deposit date)",
+    "detail": "Held at Societe Generale in Catherine Vautrin's name. The HATVP declaration does not itemise individual equity holdings within the plan.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 2,
+    "holding": "Securities account (compte titres), held in bare ownership within the SCI",
+    "type": "Securities account (contents not itemised)",
+    "value": "144756 EUR (asset of the SCI)",
+    "as_of": "2025-11-02 (declaration deposit date)",
+    "detail": "Listed among the SCI's assets at Societe Generale, held in bare ownership (nue-propriete). This is an asset of the SCI rather than a directly held personal portfolio; individual securities are not itemised.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  }
+]

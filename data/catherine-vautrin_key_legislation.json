@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "law_name": "Updated military programming law (revision of the loi de programmation militaire 2024-2030)",
+    "year": "2025",
+    "area": "Defence / public finances",
+    "description": "As Minister of the Armed Forces, Vautrin defended a revision of the military programming law adding about 36 billion euros to the defence trajectory through 2030 in response to heightened threats. The bill was adopted at first reading in the National Assembly (reported 440 votes to 122, with support from the presidential camp, the National Rally and the Socialist Party).",
+    "significance": "Major acceleration of French defence spending; the 2026 defence budget was set at roughly 57.1 billion euros, an increase of about 6 billion euros year on year, prioritising air defence, anti-drone capability and space.",
+    "source_url": ["https://www.publicsenat.fr/actualites/international/loi-de-programmation-militaire-actualisee-36-milliards-de-plus-pour-repondre-aux-nouvelles-menaces-defend-catherine-vautrin", "https://www.vie-publique.fr/discours/300931-catherine-vautrin-alice-rufo-21102025-politique-de-la-defense"]
+  },
+  {
+    "id": 2,
+    "law_name": "Decree banning smoking in certain public spaces frequented by young people",
+    "year": "2025",
+    "area": "Public health",
+    "description": "During her tenure over the health portfolio, France adopted a ban on smoking in areas where young people gather, including beaches, parks, public gardens and the vicinity of schools and sports facilities, effective from July 2025.",
+    "significance": "Notable public-health measure extending France's tobacco-control framework to many outdoor public spaces.",
+    "source_url": ["https://www.politico.eu/article/france-bans-smoking-in-parks-beaches-and-school-zones-from-july/", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 3,
+    "law_name": "French-language requirement for long-term (10-year) residence permits",
+    "year": "2005",
+    "area": "Immigration / integration",
+    "description": "As Minister Delegate for Social Cohesion and Parity, Vautrin led 2005 efforts to introduce a French-language requirement for immigrants applying for a 10-year residence permit, part of the integration ('contrat d'accueil') policy of the period.",
+    "significance": "Early step in linking residence rights to language/integration requirements in France.",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin", "https://www.theguardian.com/world/2005/jul/23/france.jonhenley"]
+  }
+]

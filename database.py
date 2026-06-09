@@ -728,6 +728,38 @@ async def init_db() -> None:
                 "ADD COLUMN IF NOT EXISTS external_id VARCHAR(255)"
             )
         )
+        # Different source datasets pack variable-length text into short fields
+        # (e.g. a multi-term "period"). Widen every VARCHAR column in our content
+        # tables to TEXT — a lossless, metadata-only cast in Postgres — so no
+        # value can overflow a column length. Idempotent (no-op once TEXT).
+        await conn.execute(
+            text(
+                """
+                DO $$
+                DECLARE r record;
+                BEGIN
+                  FOR r IN
+                    SELECT table_name, column_name
+                    FROM information_schema.columns
+                    WHERE table_schema = 'public'
+                      AND data_type = 'character varying'
+                      AND table_name IN (
+                        'politicians','promises','verifications','documents',
+                        'policies','work_history','education','electoral_history',
+                        'finance_entries','net_worth_timeline','real_estate',
+                        'companies','stock_holdings','interests','honors',
+                        'key_legislation','polemics'
+                      )
+                  LOOP
+                    EXECUTE format(
+                      'ALTER TABLE %I ALTER COLUMN %I TYPE TEXT',
+                      r.table_name, r.column_name
+                    );
+                  END LOOP;
+                END $$;
+                """
+            )
+        )
 
 
 async def dispose_engine() -> None:

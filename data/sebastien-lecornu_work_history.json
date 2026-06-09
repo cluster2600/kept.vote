@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "role": "Parliamentary assistant",
+    "organization": "National Assembly (to MP Franck Gilard, Eure's 5th constituency)",
+    "start_date": "2005",
+    "end_date": "2008",
+    "description": "Worked as parliamentary assistant to UMP deputy Franck Gilard; reported at the time to be the youngest parliamentary assistant in the National Assembly.",
+    "category": "political_staff",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 2,
+    "role": "Adviser to the Secretary of State for European Affairs",
+    "organization": "Government of France (cabinet of Bruno Le Maire, Fillon government)",
+    "start_date": "2008",
+    "end_date": "2014",
+    "description": "Became at age 22 an adviser to Secretary of State for European Affairs Bruno Le Maire; later worked in Le Maire's entourage and in the Eure.",
+    "category": "political_staff",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 3,
+    "role": "Mayor of Vernon",
+    "organization": "Commune of Vernon (Eure)",
+    "start_date": "2014-04-05",
+    "end_date": "2015-12-04",
+    "description": "Elected mayor of Vernon in the 2014 municipal elections; gave up the mayoralty in December 2015 due to rules on combining executive mandates after becoming president of the Eure department.",
+    "category": "elected_local",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 4,
+    "role": "President of the Departmental Council of the Eure",
+    "organization": "Departmental Council of the Eure",
+    "start_date": "2015-04-02",
+    "end_date": "2017-07-10",
+    "description": "Became president of the Eure departmental council in 2015 following the departmental elections; first term as department head.",
+    "category": "elected_local",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 5,
+    "role": "Secretary of State to the Minister for the Ecological and Inclusive Transition",
+    "organization": "Government of France (Philippe government)",
+    "start_date": "2017-06-21",
+    "end_date": "2018-10-16",
+    "description": "Appointed by President Macron; handled sensitive energy files including the Fessenheim nuclear plant closure, the Flamanville EPR and the Bure (Cigéo) nuclear-waste project. His appointment led to his exclusion from the Republicans (LR) on 31 October 2017.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 6,
+    "role": "Minister for Local Authorities",
+    "organization": "Government of France (Philippe government)",
+    "start_date": "2018-10-16",
+    "end_date": "2020-07-06",
+    "description": "Minister attached to the Minister of Territorial Cohesion. In January 2019 he was tasked, with Emmanuelle Wargon, with co-leading the 'Grand Débat National' in response to the Yellow Vests crisis.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 7,
+    "role": "Minister of the Overseas",
+    "organization": "Government of France (Castex government)",
+    "start_date": "2020-07-06",
+    "end_date": "2022-05-20",
+    "description": "Handled crisis talks in Guadeloupe in late 2021 amid unrest linked to the COVID-19 pandemic and indicated openness to discussing autonomy for the territory.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 8,
+    "role": "President of the Departmental Council of the Eure (second term)",
+    "organization": "Departmental Council of the Eure",
+    "start_date": "2021-07",
+    "end_date": "2022",
+    "description": "Re-elected councillor for the canton of Vernon in 2021 and resumed the presidency of the Eure department while serving as Minister of the Overseas, with the authorisation of the President of the Republic.",
+    "category": "elected_local",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"]
+  },
+  {
+    "id": 9,
+    "role": "Minister of the Armed Forces",
+    "organization": "Government of France (Borne, Attal, Bayrou governments)",
+    "start_date": "2022-05-20",
+    "end_date": "2025-09",
+    "description": "Led the Ministry of the Armed Forces across successive governments; presented and steered the 2024–2030 Military Programming Law (LPM) providing for about 413 billion euros of defence spending. Title later extended to Minister of the Armed Forces and Veterans.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu", "https://www.defense.gouv.fr/actualites/lpm-2024-2030-precisions-sebastien-lecornu"]
+  },
+  {
+    "id": 10,
+    "role": "Prime Minister of France",
+    "organization": "Government of France (Matignon)",
+    "start_date": "2025-09-09",
+    "end_date": "present",
+    "description": "Appointed Prime Minister on 9 September 2025 after the fall of the Bayrou government. Resigned on 6 October 2025 hours after naming his first cabinet, then was reappointed on 10 October 2025 to form a second government. Used Article 49.3 to pass the 2026 budget and continued as PM after the 26 February 2026 reshuffle.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/sebastien-lecornu", "https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_II", "https://www.france24.com/fr/france/20251010-apr%C3%A8s-cinq-jours-crise-s%C3%A9bastien-lecornu-finalement-reconduit-comme-premier-ministre"]
+  }
+]

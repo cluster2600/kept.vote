@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "institution": "Lycée Henri-IV (Paris)",
+    "qualification": "Classe préparatoire",
+    "field": "Preparatory classes (grandes écoles)",
+    "years": "before 2004",
+    "detail": "Followed a classe préparatoire at the Lycée Henri-IV before entering HEC Paris.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 2,
+    "institution": "HEC Paris",
+    "qualification": "Master (grande école programme)",
+    "field": "Business / Management",
+    "years": "2007",
+    "detail": "Graduated from the HEC Paris grande école master's programme in 2007.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  },
+  {
+    "id": 3,
+    "institution": "Sciences Po (Paris)",
+    "qualification": "Master's degree",
+    "field": "Governance / Public affairs",
+    "years": "2008",
+    "detail": "Master's degree from Sciences Po, obtained in 2008.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  },
+  {
+    "id": 4,
+    "institution": "Paris School of Economics",
+    "qualification": "Master's degree",
+    "field": "Economics",
+    "years": "2008",
+    "detail": "Master's degree from the Paris School of Economics, obtained in 2008.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  },
+  {
+    "id": 5,
+    "institution": "HEC Paris",
+    "qualification": "PhD (Doctorate)",
+    "field": "Management / Finance",
+    "years": "2013",
+    "detail": "Doctorate (PhD) from HEC Paris, completed in 2013.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  }
+]

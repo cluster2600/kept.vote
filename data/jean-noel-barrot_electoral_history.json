@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "election": "2015 French departmental elections",
+    "date": "2015-03",
+    "role_sought": "Departmental councillor, canton of Yssingeaux (Haute-Loire)",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "Elected departmental councillor for the canton of Yssingeaux (serving with Madeleine Dubois); resigned in 2017 after his election to the National Assembly.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 2,
+    "election": "2017 French legislative election",
+    "date": "2017-06",
+    "role_sought": "Member of the National Assembly, Yvelines 2nd constituency",
+    "result": "Elected (1st term)",
+    "vote_share": "58.3% (second round)",
+    "opponent": "Pascal Thévenot (Les Républicains), outgoing deputy",
+    "detail": "Elected with the support of La République En Marche!, defeating outgoing LR deputy Pascal Thévenot with 58.3% in the second round.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+      "https://www.francebleu.fr/infos/politique/legislatives-2017-qui-est-jean-noel-barrot-le-nouveau-depute-rem-des-yvelines-1497440152"
+    ]
+  },
+  {
+    "id": 3,
+    "election": "2021 French regional elections",
+    "date": "2021-06",
+    "role_sought": "Member of the Regional Council of Île-de-France",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "Elected to the Regional Council of Île-de-France on the La République En Marche! list led by Laurent Saint-Martin.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 4,
+    "election": "2022 French legislative election",
+    "date": "2022-06",
+    "role_sought": "Member of the National Assembly, Yvelines 2nd constituency",
+    "result": "Re-elected (2nd term)",
+    "vote_share": "64.27% (second round)",
+    "opponent": null,
+    "detail": "Re-elected with 64.27% of the second-round vote. After being appointed minister, his substitute briefly sat in the Assembly.",
+    "source_url": [
+      "https://lcp.fr/actualites/legislative-partielle-dans-les-yvelines-jean-noel-barrot-reelu-la-majorite-conserve-la"
+    ]
+  },
+  {
+    "id": 5,
+    "election": "2022 French legislative by-election (partielle)",
+    "date": "2022-10",
+    "role_sought": "Member of the National Assembly, Yvelines 2nd constituency",
+    "result": "Elected",
+    "vote_share": "71.67% (second round)",
+    "opponent": "Maïté Carrive-Bedouani (NUPES) – 28.33%",
+    "detail": "By-election triggered by the resignation of his substitute Anne Grignon over a legal incompatibility; won with 71.67% against NUPES candidate Maïté Carrive-Bedouani.",
+    "source_url": [
+      "https://lcp.fr/actualites/legislative-partielle-dans-les-yvelines-jean-noel-barrot-reelu-la-majorite-conserve-la",
+      "https://www.lesechos.fr/pme-regions/ile-de-france/le-ministre-jean-noel-barrot-largement-reelu-depute-des-yvelines-1867610"
+    ]
+  },
+  {
+    "id": 6,
+    "election": "2024 French snap legislative election",
+    "date": "2024-07",
+    "role_sought": "Member of the National Assembly, Yvelines 2nd constituency",
+    "result": "Re-elected",
+    "vote_share": "72.69% (second round)",
+    "opponent": null,
+    "detail": "Re-elected under the Ensemble banner with 72.69% in the second round; subsequently elected chair of the Foreign Affairs Committee before being reappointed Foreign Minister.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/resultats/yvelines_78/yvelines_2eme-circonscription",
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  }
+]

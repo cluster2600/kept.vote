@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "2026 budget standoff with the Senate",
+    "period": "December 2025 - early 2026",
+    "category": "political",
+    "description": "As Economy and Finance Minister, Lescure publicly rejected the version of the 2026 budget passed by the Senate, calling it 'inacceptable'. The Senate text implied a public deficit of about 5.3% of GDP, against the Lecornu II government's target of capping the deficit at 4.7% with roughly 30 billion EUR of savings.",
+    "status": "political",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Minister described the Senate-voted budget as 'unacceptable'.",
+      "Senate text implied ~5.3% deficit vs government target of 4.7%.",
+      "Dispute occurred amid a fragile minority-government budget process."
+    ],
+    "source_url": [
+      "https://actu.orange.fr/politique/budget-2026-le-ministre-de-l-economie-desapprouve-le-texte-vote-par-le-senat-qu-il-juge-inacceptable-magic-CNT000002mcbvr.html"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Criticism over optimistic economic messaging vs INSEE data",
+    "period": "early-mid 2026",
+    "category": "political",
+    "description": "Lescure's statements that the French economy 'resists' drew criticism for being out of step with published indicators, as INSEE reported inflation rising to around 2.2% year-on-year in April 2026 and unemployment near 8.1%. Commentators and opposition voices accused him of downplaying economic difficulties.",
+    "status": "political",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "Repeated public framing that the economy 'resists'.",
+      "INSEE figures cited inflation ~2.2% (April 2026) and unemployment ~8.1%.",
+      "Criticism centred on tone/messaging rather than any wrongdoing."
+    ],
+    "source_url": [
+      "https://contrepoints.org/leconomie-francaise-resiste-selon-roland-lescure-a-quand-la-fin-des-mensonges/",
+      "https://www.vie-publique.fr/discours/302028-roland-lescure-10022026-france-2-politique-economique"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Public clash with Michel-Edouard Leclerc over inflation forecasts",
+    "period": "May 2026",
+    "category": "political",
+    "description": "Lescure responded sharply to retailer Michel-Edouard Leclerc's pessimistic inflation forecasts, characterising him as a 'prophete du malheur' (prophet of doom) and saying he was 'not in the right country', pointing to higher inflation in Spain and parts of the eurozone.",
+    "status": "resolved",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "Public war of words over France's inflation outlook.",
+      "Lescure used the phrase 'prophete du malheur'.",
+      "No legal or ethical dimension; a media/political exchange."
+    ],
+    "source_url": [
+      "https://www.boursorama.com/actualite-economique/actualites/un-prophete-du-malheur-roland-lescure-repond-a-michel-edouard-leclerc-et-ses-previsions-sur-l-inflation-4939be1f60f4882de74390e5dbfa6eef"
+    ]
+  }
+]

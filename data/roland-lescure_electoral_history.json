@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "election": "French legislative election 2017 (2nd round)",
+    "date": "2017-06-18",
+    "role_sought": "Deputy, 1st constituency for French residents overseas (Canada and USA)",
+    "result": "Elected",
+    "vote_share": "approx. 80% (19,650 votes)",
+    "opponent": "Not documented in sources reviewed",
+    "detail": "Won as a La Republique En Marche candidate in his first run for office.",
+    "source_url": [
+      "https://www.liberation.fr/politiques/2017/06/12/l-ascension-express-de-roland-lescure-en-tete-dans-la-circo-de-l-amerique-du-nord_1576225",
+      "https://en.wikipedia.org/wiki/Roland_Lescure"
+    ]
+  },
+  {
+    "id": 2,
+    "election": "French legislative election 2024 (1st round)",
+    "date": "2024-06-30",
+    "role_sought": "Deputy, 1st constituency for French residents overseas (Canada and USA)",
+    "result": "Led the first round",
+    "vote_share": "approx. 38.8%",
+    "opponent": "Oussama Laraichi (Nouveau Front Populaire), approx. 36.1%",
+    "detail": "Ran under the Ensemble pour la Republique (presidential majority) banner.",
+    "source_url": [
+      "https://www.frenchmorning.com/en-amerique-du-nord-roland-lescure-en-tete-devant-oussama-laraichi-au-1er-tour/",
+      "https://www.franceinfo.fr/elections/resultats/francais-de-l-etranger_99/francais-de-l-etranger_1ere-circonscription"
+    ]
+  },
+  {
+    "id": 3,
+    "election": "French legislative election 2024 (2nd round)",
+    "date": "2024-07-07",
+    "role_sought": "Deputy, 1st constituency for French residents overseas (Canada and USA)",
+    "result": "Elected",
+    "vote_share": "54.25%",
+    "opponent": "Oussama Laraichi (Nouveau Front Populaire), 45.75%",
+    "detail": "Re-elected to the National Assembly; took office 8 July 2024.",
+    "source_url": [
+      "https://lepetitjournal.com/new-york/actualite/roland-lescure-elu-second-tour-legislatives-2024-389244",
+      "https://www.franceinfo.fr/elections/resultats/francais-de-l-etranger_99/francais-de-l-etranger_1ere-circonscription"
+    ]
+  }
+]

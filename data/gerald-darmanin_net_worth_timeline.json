@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "year": 2026,
+    "declared_net_worth": 39868,
+    "note": "Net worth is not stated as a single figure by HATVP; this is an approximate net position derived from declared assets (apartment 225,000 EUR + savings ~500 EUR) minus the outstanding mortgage (185,632 EUR). Treat as an estimate based on the published déclaration de patrimoine, not an official HATVP net-worth figure.",
+    "status": "estimated",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald", "https://france.news-pravda.com/france/2026/04/22/213577.html"]
+  }
+]

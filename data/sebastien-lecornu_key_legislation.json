@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "law_name": "Loi de programmation militaire (LPM) 2024–2030",
+    "year": 2023,
+    "area": "Defence / public finance",
+    "description": "Multi-year military programming law presented by Lecornu as Minister of the Armed Forces, providing for about 413 billion euros of defence spending over 2024–2030, with the annual defence budget rising toward roughly 69 billion euros by 2030. It prioritised new domains of confrontation (space, cyber, seabed). Adopted by Parliament in 2023.",
+    "significance": "The flagship legislative achievement of his tenure at the Armed Forces, roughly doubling French defence funding compared with 2017 and shaping French military investment to 2030.",
+    "source_url": ["https://www.defense.gouv.fr/actualites/lpm-2024-2030-precisions-sebastien-lecornu", "https://www.assemblee-nationale.fr/dyn/16/organes/commissions-permanentes/defense/actualites/loi-de-programmation-militaire-2024-2030-audition-de-m.-sebastien-lecornu-ministre-des-armees"]
+  },
+  {
+    "id": 2,
+    "law_name": "Loi de finances pour 2026 (2026 Budget) — adopted via Article 49.3",
+    "year": 2026,
+    "area": "Public finance / state budget",
+    "description": "As Prime Minister, Lecornu secured passage of the 2026 state budget. After surviving motions of no confidence, his government invoked Article 49.3 of the Constitution to adopt the finance bill without a final vote in January 2026, including a final 49.3 on the overall text.",
+    "significance": "A defining act of his premiership: he had initially pledged not to use 49.3 to encourage compromise, then resorted to it 'with regret and bitterness', illustrating the difficulty of governing without a parliamentary majority.",
+    "source_url": ["https://www.france24.com/fr/france/20260130-budget-2026-sebastien-lecornu-degaine-un-dernier-49-3-pour-valider-ensemble-du-texte", "https://www.publicsenat.fr/actualites/politique/budget-sebastien-lecornu-declenche-un-nouveau-49-3-apres-avoir-surmonte-deux-motions-de-censure"]
+  }
+]

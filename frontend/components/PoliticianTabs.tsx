@@ -95,7 +95,9 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
     { key: "controversies", label: "Controversies", count: polemics.length },
     { key: "sources", label: "Sources", count: sources.total },
   ];
-  const tabs = allTabs.filter((t) => t.count > 0);
+  // Always keep the Promises tab (it shows an empty state for 0-promise
+  // politicians, e.g. sitting ministers); hide other tabs only when empty.
+  const tabs = allTabs.filter((t) => t.key === "promises" || t.count > 0);
 
   const [active, setActive] = useState<TabKey>(tabs[0]?.key ?? "promises");
 

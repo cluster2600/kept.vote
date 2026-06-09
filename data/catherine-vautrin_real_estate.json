@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "property": "Detached house, 300 m2 (50% indivision share, full ownership)",
+    "location": "Marne (Department 51), France",
+    "transaction_type": "Acquisition",
+    "date": "2002",
+    "value": "Market value 545,450 EUR (full); purchase price 205,806 EUR",
+    "detail": "Held in indivision (bien indivis), 50% quote-part, full ownership (pleine propriete). Built area 300 m2.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 2,
+    "property": "Garage, 30 m2 (50% indivision share, full ownership)",
+    "location": "Marne (Department 51), France",
+    "transaction_type": "Acquisition",
+    "date": "2004",
+    "value": "Market value 30,000 EUR (full); purchase price 16,000 EUR",
+    "detail": "Held in indivision, 50% quote-part, full ownership.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  },
+  {
+    "id": 3,
+    "property": "Detached house, 400 m2, held via an SCI (bare ownership / nue-propriete)",
+    "location": "Marne (Department 51), France",
+    "transaction_type": "Donation (into the SCI)",
+    "date": "1997",
+    "value": "Market value 340,000 EUR (SCI asset); purchase value 150,000 EUR",
+    "detail": "Asset of an SCI in which she holds 442 of 884 shares (50%). The SCI holds the property in bare ownership; she shares the bare ownership. Land area approx. 0.6 ha. Her SCI shares are valued at 227,055 EUR (see SCI shares entry in finances).",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dsp34797-gouvernement.pdf"]
+  }
+]

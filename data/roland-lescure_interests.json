@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "item": "Minister (Etat Francais)",
+    "type": "past_remunerated_public_office",
+    "period": "07/2022 - 01/2024",
+    "value": "Net: 52,750 EUR (2022); 108,106 EUR (2023); 7,371 EUR (2024)",
+    "detail": "Remuneration as Minister Delegate for Industry, declared in HATVP declaration d'interets (substantial modification filed 7 Feb 2026; initial declaration 8 Dec 2025).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland",
+      "https://www.hatvp.fr/livraison/dossiers/lescure-roland-dim34812-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "item": "Minister (Etat Francais)",
+    "type": "past_remunerated_public_office",
+    "period": "02/2024 - 09/2024",
+    "value": "Net: 56,425 EUR (2024)",
+    "detail": "Second ministerial spell as Minister Delegate for Industry under PM Gabriel Attal; declared in HATVP declaration d'interets.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 3,
+    "item": "Deputy (National Assembly)",
+    "type": "elective_mandate",
+    "period": "07/2024 - 10/2025",
+    "value": "Net: 36,519 EUR (2024); 67,006 EUR (2025)",
+    "detail": "Parliamentary remuneration as deputy, declared in HATVP declaration d'interets.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 4,
+    "item": "President of 'L'Amerique avec vous' (volunteer)",
+    "type": "voluntary_function",
+    "period": "ongoing as of declaration",
+    "value": "Unpaid",
+    "detail": "Listed under category 6 (volunteer functions potentially giving rise to conflict of interest) in the HATVP declaration d'interets.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 5,
+    "item": "Spouse's professional activity: yoga teacher (auto-entrepreneur)",
+    "type": "spouse_activity",
+    "period": "as of declaration",
+    "value": "Not specified",
+    "detail": "Declared under category 5 of the HATVP declaration d'interets (professional activity of spouse/partner).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 6,
+    "item": "Executive VP & Chief Investment Officer, Caisse de depot et placement du Quebec (CDPQ)",
+    "type": "prior_private_sector_role",
+    "period": "2009 - 2017",
+    "value": "Reportedly a senior, high-compensation role (Bloomberg 2017 cited a ~USD 2 million job he left)",
+    "detail": "Prior career role; pre-dates the 5-year HATVP reporting window so not itemised in the current declaration, but documented in press and CDPQ records. Listed here for transparency given his finance background.",
+    "status": "documented (press / CDPQ)",
+    "source_url": [
+      "https://www.lacaisse.com/en/news/pressreleases/appointment-roland-lescure",
+      "https://www.bloomberg.com/news/articles/2017-06-01/he-quit-a-2-million-job-to-help-run-france"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "year": 2026,
+    "declared_net_worth": "Real-estate assets approx. 1,008,000 EUR (two houses + land) against approx. 564,000 EUR of loans, plus modest financial savings; no single consolidated net-worth figure published",
+    "note": "Derived from the HATVP déclaration de patrimoine published 20 April 2026: a c.250 m2 house valued at 770,000 EUR, an 89 m2 house bought for 138,000 EUR, and land valued at 100,000 EUR, offset by about 564,000 EUR of outstanding mortgage and consumer debt. The HATVP does not publish a single net-worth headline number; figures here are component values from the declaration as reported by the press.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien", "https://france3-regions.franceinfo.fr/normandie/eure/declaration-d-interet-et-de-patrimoine-de-sebastien-lecornu-deux-maisons-un-terrain-et-un-decouvert-3339152.html"]
+  }
+]

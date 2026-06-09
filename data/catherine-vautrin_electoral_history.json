@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "election": "French legislative election",
+    "date": "2002-06",
+    "role_sought": "Member of the National Assembly, Marne's 2nd constituency",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected UMP deputy for Marne's 2nd constituency, succeeding Jean-Claude Étienne. Her seat passed to her substitute (Arnaud Robinet) when she entered government in 2004.",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 2,
+    "election": "French municipal election (Reims)",
+    "date": "2008-03",
+    "role_sought": "Mayor of Reims",
+    "result": "Defeated (second round)",
+    "vote_share": "25.19% (first round); 43.93% (second round)",
+    "opponent": "Adeline Hazan (Union of the Left)",
+    "detail": "Lost the Reims mayoral race to Adeline Hazan; subsequently sat as an opposition municipal councillor.",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 3,
+    "election": "French legislative election",
+    "date": "2007-06",
+    "role_sought": "Member of the National Assembly, Marne's 2nd constituency",
+    "result": "Elected",
+    "vote_share": "56.93%",
+    "opponent": "",
+    "detail": "Re-elected deputy for Marne's 2nd constituency.",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 4,
+    "election": "French legislative election",
+    "date": "2012-06",
+    "role_sought": "Member of the National Assembly, Marne's 2nd constituency",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected deputy for Marne; subsequently re-elected vice-president of the National Assembly.",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 5,
+    "election": "French legislative election",
+    "date": "2017-06",
+    "role_sought": "Member of the National Assembly, Marne's 2nd constituency",
+    "result": "Defeated",
+    "vote_share": "",
+    "opponent": "Aina Kuric",
+    "detail": "Lost her seat in the 2017 legislative election; succeeded by Aina Kuric.",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 6,
+    "election": "French municipal / intercommunal election (Reims / Grand Reims)",
+    "date": "2020-03",
+    "role_sought": "Municipal councillor (Reims) and president of Grand Reims",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the Reims municipal council and re-elected president of the Grand Reims urban community in July 2020 (held until January 2024). Per HATVP she also served as deputy mayor of Reims (adjointe au maire) during 2020-2024.",
+    "source_url": ["https://www.defense.gouv.fr/ministere/catherine-vautrin-ministre-armees-anciens-combattants", "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"]
+  }
+]

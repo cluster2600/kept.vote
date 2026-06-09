@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "type": "life_insurance",
+    "label": "Life insurance contract (assurance vie), HSBC, subscribed Oct 2009 (holder Roland Lescure)",
+    "amount": "143000 EUR",
+    "detail": "Declared market value (valeur venale). DECLARED in HATVP declaration de situation patrimoniale filed 19 Oct 2025.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland",
+      "https://www.hatvp.fr/livraison/dossiers/lescure-roland-dsp34809-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "type": "life_insurance",
+    "label": "Life insurance contract (assurance vie), HSBC, subscribed Oct 2009 (second contract)",
+    "amount": "103183 EUR",
+    "detail": "Declared market value (valeur venale). DECLARED in HATVP patrimoine declaration 19 Oct 2025.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 3,
+    "year": 2025,
+    "type": "bank_accounts",
+    "label": "Bank current accounts and savings products (9 accounts at CCF, Revolut, PayPal)",
+    "amount": "approx. 137696 EUR total",
+    "detail": "DECLARED. Includes current account 15,463 EUR; savings account 50,125 EUR; current account 1,211 EUR; Revolut 47 EUR; PayPal 0 EUR; Livret A 22,950 EUR; LDD 12,000 EUR; second Livret A 22,950 EUR; second LDD 12,000 EUR. Some entries may reflect joint/spouse holdings.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 4,
+    "year": 2025,
+    "type": "vehicle",
+    "label": "Renault motor vehicle (entered patrimony 2025)",
+    "amount": "28000 EUR market value (purchased 33,000 EUR)",
+    "detail": "DECLARED in HATVP patrimoine declaration.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 5,
+    "year": 2025,
+    "type": "liability",
+    "label": "Mortgage loan (emprunt immobilier), HSBC, dated 26 Oct 2012",
+    "amount": "-65785 EUR outstanding (original 380,000 EUR)",
+    "detail": "DECLARED liability. Monthly instalments 2,735 EUR; loan term 166 months; remaining balance 65,785 EUR.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  },
+  {
+    "id": 6,
+    "year": 2025,
+    "type": "real_estate_total",
+    "label": "Real estate portfolio (4 properties, declared market values)",
+    "amount": "3716000 EUR total",
+    "detail": "DECLARED. Sum of declared market values of one 61 m2 Paris flat (650,000 EUR), one 159 m2 Paris flat (2,225,000 EUR), a bare-ownership 55 m2 property in Finistere (70,000 EUR) and a 175 m2 house in Pyrenees-Atlantiques held in usufruct (771,000 EUR). See real_estate file for details.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland",
+      "https://contribuablesassocies.org/2026/04/23/la-hatvp-revele-le-nom-des-ministres-millionnaires-du-gouvernement-lecornu/"
+    ]
+  }
+]

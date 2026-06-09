@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "title": "Rape allegation by Sophie Patterson-Spatz (events alleged in 2009)",
+    "period": "2017-2023",
+    "category": "judicial",
+    "description": "Sophie Patterson-Spatz filed a criminal complaint in 2017 accusing Darmanin of rape over a 2009 encounter, alleging she felt pressured into a sexual relationship while seeking his help (as an official in the UMP legal-affairs service) to overturn a prior conviction. Darmanin acknowledged a sexual encounter took place but denied any rape or any quid pro quo, stating it was consensual. After the complaint was initially closed, an investigation was opened and reopened; he was heard as a 'témoin assisté' (assisted witness) and never charged. An investigating judge issued a non-lieu (dismissal / no grounds to prosecute) in July 2022, confirmed by the investigating chamber (chambre de l'instruction) in January 2023, and the Cour de cassation rejected the complainant's final appeal, making the dismissal definitive. This is an allegation that did not result in charges or conviction.",
+    "status": "no_charges",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Complaint filed 2017; alleged events date to March 2009.",
+      "Darmanin denied wrongdoing; acknowledged a sexual encounter but contested the rape characterization and any quid pro quo.",
+      "He was heard as a témoin assisté (assisted witness), never mis en examen (indicted).",
+      "Non-lieu (dismissal) issued July 2022.",
+      "Dismissal confirmed by the chambre de l'instruction in January 2023.",
+      "Cour de cassation rejected the complainant's appeal, making the non-lieu definitive.",
+      "No charges filed and no conviction; allegation, not proven fact."
+    ],
+    "source_url": [
+      "https://www.ici.fr/infos/faits-divers-justice/accusation-de-viol-la-cour-de-cassation-valide-le-non-lieu-en-faveur-de-gerald-darmanin-8765800",
+      "https://www.letemps.ch/monde/europe/accusations-de-viol-le-non-lieu-en-faveur-de-gerald-darmanin-est-valide-par-la-cour-de-cassation",
+      "https://www.lemonde.fr/police-justice/article/2020/12/14/vise-par-une-accusation-de-viol-gerald-darmanin-entendu-sous-le-statut-de-temoin-assiste_6063380_1653578.html",
+      "https://www.reuters.com/article/uk-france-rape-darmanin/french-court-orders-reopening-of-investigation-into-rape-allegation-against-minister-source-idUKKBN23I30M"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "\"Abus de faiblesse\" complaint (Tourcoing social-housing case)",
+    "period": "2018",
+    "category": "judicial",
+    "description": "In 2018 a second woman (known under the pseudonym 'Sarah'), a resident of Tourcoing, filed a complaint for 'abus de faiblesse' (abuse of a vulnerable person), alleging that while Darmanin was mayor she felt obliged to have sexual relations in exchange for help obtaining social housing and a job. Darmanin denied any wrongdoing. The investigation was closed without further action (classement sans suite) in May 2018, on the grounds that the complainant had not established an absence of consent. This is an allegation that did not result in charges or conviction.",
+    "status": "no_charges",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Complaint filed in 2018 for 'abus de faiblesse'.",
+      "Alleged events in Tourcoing while Darmanin was mayor (around 2015-2017).",
+      "Darmanin denied wrongdoing.",
+      "Investigation closed without action (classement sans suite) in May 2018.",
+      "Stated basis: complainant did not establish absence of consent.",
+      "Allegation, not proven; no charges or conviction."
+    ],
+    "source_url": [
+      "https://www.lemonde.fr/politique/article/2018/05/16/l-enquete-pour-abus-de-faiblesse-visant-gerald-darmanin-classee-sans-suite_5300048_823448.html",
+      "https://www.mediapart.fr/journal/france/250218/affaire-darmanin-la-deuxieme-plaignante-livre-son-recit"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "2022 UEFA Champions League final chaos (Stade de France)",
+    "period": "2022",
+    "category": "political",
+    "description": "As Interior Minister, Darmanin initially blamed the 28 May 2022 Champions League final crowd chaos at the Stade de France on alleged large-scale ticket fraud by Liverpool fans, an account disputed by eyewitnesses and journalists. A French Senate committee report (July 2022) faulted the state's crowd management and criticized the attempt to blame Liverpool supporters. Darmanin later apologized for the disproportionate use of tear gas and, in May 2025, formally apologized to Liverpool supporters, calling it 'a mistake and a failure'. No legal proceedings against him; a political/accountability controversy.",
+    "status": "resolved",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Event: 28 May 2022 Champions League final at Stade de France.",
+      "Darmanin initially blamed ticket fraud by Liverpool fans.",
+      "Senate committee report (July 2022) criticized state crowd management and the blaming of fans.",
+      "Polling found ~76% of the French public unconvinced by his explanation.",
+      "Darmanin formally apologized to Liverpool supporters in May 2025.",
+      "Political controversy; no legal proceedings against him."
+    ],
+    "source_url": [
+      "https://www.bbc.co.uk/news/world-europe-62146769",
+      "https://www.bbc.co.uk/news/articles/ckg2vyxzg3qo",
+      "https://www.france24.com/en/live-news/20220602-liverpool-dismayed-by-disgraceful-claims-from-french-interior-minister"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "\"Ensauvagement\" and far-right vocabulary controversy",
+    "period": "2020",
+    "category": "political",
+    "description": "In summer 2020 Darmanin used the term 'ensauvagement' (wilding) to describe part of society, language previously associated mainly with far-right groups. The remark drew criticism, including from members of his own parliamentary majority. A rhetoric/political controversy, not a legal matter.",
+    "status": "resolved",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Term used in an interview with Le Figaro in 2020.",
+      "Criticized for borrowing far-right vocabulary.",
+      "Fellow LREM MP Sacha Houlié publicly rebuked the wording.",
+      "Political/rhetorical controversy; no legal proceedings."
+    ],
+    "source_url": [
+      "https://www.nytimes.com/2020/09/04/world/europe/france-ensauvagement-far-right-racism.html"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Reported text messages in PSG tax affair (\"affaire PSG\")",
+    "period": "2024",
+    "category": "judicial",
+    "description": "In September 2024, Mediapart and Ouest-France reported that investigators had obtained text messages said to attest to Darmanin's involvement in matters relating to Paris Saint-Germain's tax affairs (from his time as minister responsible for public accounts). This concerns reporting on an investigation; as of the available sources there is no indication of charges against Darmanin personally. Status reflects an ongoing/unresolved journalistic-judicial matter rather than any proven conduct.",
+    "status": "ongoing",
+    "confidence_score": 0.6,
+    "key_facts": [
+      "Reported by Mediapart and Ouest-France in September 2024.",
+      "Concerns text messages relating to PSG's tax affairs.",
+      "No indication in available sources of charges against Darmanin personally.",
+      "Reporting on an investigation; facts and status not fully established in public sources."
+    ],
+    "source_url": [
+      "https://www.ouest-france.fr/sport/football/paris-sg/affaire-psg-la-justice-obtient-des-sms-de-gerald-darmanin-qui-confirment-son-implication-63e8061a-6ea7-11ef-ae01-eadd2e601b92"
+    ]
+  }
+]

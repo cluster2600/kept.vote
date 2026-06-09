@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "entity": "Family SCI (société civile immobilière) [name not published by HATVP]",
+    "role": "Gérant (manager) and associé",
+    "ownership_stake": "33.33% (750 parts in full ownership = 30% of capital, plus 250 parts in indivision = 10%)",
+    "period": "2020 (or earlier) - present",
+    "status": "declared",
+    "detail": "Manager and ~one-third owner of a family SCI that holds a 418 m2 house in Haute-Loire (dept. 43). Declared at a nominal valeur vénale of EUR 1; no remuneration drawn. The SCI carries a compte courant d'associés liability of about EUR 695,547.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf",
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "entity": "Liegey Muller Pons / eXplain (rebranded 'Explain')",
+    "role": "Minority shareholder (participation financière directe)",
+    "ownership_stake": "114 parts; ~0.13% of share capital",
+    "period": "held as at declaration (deposited Dec 2025 / Feb 2026)",
+    "status": "declared",
+    "detail": "Holds 114 shares (about 0.13% of capital) in the civic-tech / data company Liegey Muller Pons, now operating as eXplain ('Explain'), valued at EUR 40,356. No remuneration received.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf",
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "entity": "Entreprise individuelle Jean-Noël Barrot",
+    "role": "Sole proprietor (activity declared: 'Conseil pour les affaires')",
+    "ownership_stake": "100% (sole proprietorship)",
+    "period": "2020 - 2025",
+    "status": "declared",
+    "detail": "Sole proprietorship registered for business consulting ('Conseil pour les affaires'); HATVP records EUR 0 in remuneration for every year 2020-2025, i.e. no activity/income generated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  }
+]

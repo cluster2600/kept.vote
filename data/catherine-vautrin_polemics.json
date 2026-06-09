@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Placed under investigation in the UMP affair over Sarkozy's 2012 campaign penalties",
+    "period": "2014-2020",
+    "category": "Judicial / party finance",
+    "description": "As former UMP national treasurer, Vautrin was placed under formal investigation (mise en examen) on 4 December 2014 for breach of trust (abus de confiance) in the affair concerning campaign-overrun penalties owed by Nicolas Sarkozy after his 2012 presidential campaign accounts were rejected; the penalties were paid by the UMP rather than by Sarkozy personally. She had authorised, in autumn 2013, transfers of roughly 363,000 EUR and 153,000 EUR. On 8 July 2020 the public prosecutor requested a general dismissal (non-lieu), considering that the conditions for a trial were not met; her lawyer stated the investigating magistrates had expressly set aside any question about her personal probity.",
+    "status": "no_charges",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Mise en examen on 4 December 2014 for abus de confiance",
+      "Linked to UMP payment of penalties from Sarkozy's rejected 2012 campaign accounts",
+      "Authorised transfers of about 363,000 EUR and 153,000 EUR in autumn 2013 as treasurer",
+      "Prosecutor requested a general non-lieu (dismissal) on 8 July 2020",
+      "Status recorded as no_charges based on the prosecutor's dismissal request; the final ruling of the investigating judges should be verified independently"
+    ],
+    "source_url": ["https://www.france24.com/fr/20141204-penalites-sarkozy-ex-tresoriere-ump-catherine-vautrin-mise-examen", "https://france3-regions.franceinfo.fr/grand-est/affaire-des-penalites-de-sarkozy-payees-par-l-ump-catherine-vautrin-pourrait-beneficier-d-un-non-lieu-769789.html", "https://en.wikipedia.org/wiki/Catherine_Vautrin"]
+  },
+  {
+    "id": 2,
+    "title": "Opposition to same-sex marriage and LGBT associations' concerns over her ministerial appointments",
+    "period": "2012-2024",
+    "category": "Political / societal",
+    "description": "Vautrin took part in the 'Manif pour Tous' demonstrations and voted against the 2013 same-sex marriage law. When she was appointed to government over the health portfolio in January 2024, LGBT associations (including SOS Homophobie) voiced concern about her past positioning. Vautrin has since said she 'evolved' on the issue, expressing regret about her 2013 vote and describing same-sex marriage as 'a very good thing'; Prime Minister Gabriel Attal defended her as 'a woman of openness'. The controversy is political/reputational; no judicial dimension.",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Participated in 'Manif pour Tous' and voted against the 2013 same-sex marriage law",
+      "Her 2024 ministerial appointment prompted concern from LGBT associations",
+      "Later said she had 'evolved' and expressed regret over her 2013 vote",
+      "PM Gabriel Attal publicly defended her in 2024"
+    ],
+    "source_url": ["https://www.cnews.fr/france/2024-01-17/mariage-pour-tous-critiquee-par-les-associations-lgbt-catherine-vautrin-explique", "https://france3-regions.franceinfo.fr/grand-est/marne/le-premier-ministre-gabriel-attal-defend-sa-ministre-catherine-vautrin-attaquee-sur-le-mariage-pour-tous-c-est-une-femme-d-ouverture-2905967.html"]
+  }
+]

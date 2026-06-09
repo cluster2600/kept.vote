@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "law_name": "Loi du 26 janvier 2024 pour contrôler l'immigration, améliorer l'intégration (\"loi immigration\" / loi Darmanin)",
+    "year": 2024,
+    "area": "Immigration and asylum",
+    "description": "Immigration and asylum law championed by Darmanin as Interior Minister, aiming chiefly to intensify the removal of foreigners in an irregular situation and to tighten conditions for residence permits and integration. Partially censored by the Conseil constitutionnel (Decision no. 2023-863 DC of 25 January 2024), which struck down a number of provisions.",
+    "significance": "Described as one of the most restrictive immigration texts adopted in France in four decades; a central legislative achievement of Darmanin's tenure at the Interior.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Loi_du_26_janvier_2024_pour_contr%C3%B4ler_l'immigration,_am%C3%A9liorer_l'int%C3%A9gration", "https://www.conseil-constitutionnel.fr/en/decision/2024/2023863DC.htm", "https://www.senat.fr/dossier-legislatif/pjl22-304.html"]
+  },
+  {
+    "id": 2,
+    "law_name": "Loi du 24 août 2021 confortant le respect des principes de la République (\"loi séparatisme\")",
+    "year": 2021,
+    "area": "Secularism / counter-extremism",
+    "description": "Law reinforcing respect for the principles of the Republic, sponsored by Darmanin as Interior Minister, aimed at combating Islamist 'separatism' through stricter oversight of associations, places of worship, online hate content and education. Darmanin also published a related essay ('Le Séparatisme islamiste') in 2021.",
+    "significance": "Flagship security/secularism legislation of Macron's first term; used by Darmanin to justify dissolutions and closures of associations and websites.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 3,
+    "law_name": "Loi du 25 mai 2021 pour une sécurité globale préservant les libertés (\"sécurité globale\")",
+    "year": 2021,
+    "area": "Security / policing",
+    "description": "Global security law expanding policing powers (use of drones, body cameras, municipal police) and originally containing the contested Article 24 on filming police; supported by Darmanin as Interior Minister. Several provisions, including the original Article 24, were censored by the Conseil constitutionnel.",
+    "significance": "Major security legislation of Darmanin's Interior tenure; sparked large protests over press and civil-liberties concerns.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  }
+]

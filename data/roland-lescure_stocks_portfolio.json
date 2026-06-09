@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "holding": "Listed/financial instruments (instruments financiers)",
+    "type": "securities",
+    "value": "None declared",
+    "as_of": "2025-10-19",
+    "detail": "His HATVP declaration de situation patrimoniale (19 Oct 2025) reports 'Neant' (none) for category 4 'instruments financiers', category 3 'autres valeurs mobilieres non cotees', and category 11 'biens detenus a l'etranger'. No stock portfolio is declared.",
+    "status": "declared (none declared)",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"
+    ]
+  }
+]

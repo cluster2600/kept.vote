@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "item": "Teaching and research, HEC Paris",
+    "type": "Paid professional activity (academic)",
+    "period": "01/2020 - 07/2022",
+    "value": "Net: EUR 33,451 (2020); EUR 33,366 (2021); EUR 20,845 (2022)",
+    "detail": "Salaried teaching and research at HEC Paris before joining the government; declared in the déclaration d'intérêts (deposited 5 December 2025).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "item": "Conflict-of-interest recusal regarding Uber (sister's role)",
+    "type": "Declared abstention / déport",
+    "period": "since 2022",
+    "value": null,
+    "detail": "Barrot must recuse himself from files involving Uber because his sister Hélène Barrot held a senior communications/management role at Uber in Europe. The arrangement was noted when he became Digital Minister in 2022 and reflected in HATVP guidance.",
+    "status": "declared",
+    "source_url": [
+      "https://www.lesnumeriques.com/vie-du-net/jean-noel-barrot-nouveau-ministre-delegue-charge-de-la-transition-numerique-ne-pourra-pas-traiter-les-dossiers-lies-a-uber-n187417.html",
+      "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot"
+    ]
+  },
+  {
+    "id": 3,
+    "item": "Vice-President, then earlier Secretary General, of the Mouvement Démocrate (MoDem)",
+    "type": "Party leadership role (unpaid)",
+    "period": "Secretary General 12/2020-07/2022; Vice-President 07/2022 - present",
+    "value": "EUR 0 (no remuneration)",
+    "detail": "Leadership positions within the MoDem declared in the déclaration d'intérêts; no remuneration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 4,
+    "item": "Vice-President of the Mouvement Européen (European Movement)",
+    "type": "Association leadership role (unpaid)",
+    "period": "04/2020 - 07/2022",
+    "value": "EUR 0",
+    "detail": "Declared in the déclaration d'intérêts; no remuneration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 5,
+    "item": "Member of the strategic council, Sciences Po École d'Affaires Publiques",
+    "type": "Advisory body membership (unpaid)",
+    "period": "05/2022 - present",
+    "value": "EUR 0",
+    "detail": "Member of the strategic council of Sciences Po's School of Public Affairs; declared in the déclaration d'intérêts; no remuneration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 6,
+    "item": "Member of the board, Île-de-France Mobilités",
+    "type": "Public body board membership (unpaid)",
+    "period": "07/2021 - 08/2022",
+    "value": "EUR 0",
+    "detail": "Board member of the public transport authority Île-de-France Mobilités; declared in the déclaration d'intérêts.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 7,
+    "item": "Vice-President of the Finance Committee, then President of the Foreign Affairs Committee, National Assembly",
+    "type": "Parliamentary committee role (unpaid beyond MP salary)",
+    "period": "Finance VP 2020-05/2022; Foreign Affairs President 06/2024-09/2024",
+    "value": "EUR 0 (no additional remuneration)",
+    "detail": "Committee leadership roles in the National Assembly declared in the déclaration d'intérêts.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 8,
+    "item": "Spouse's occupation: sage-femme (midwife)",
+    "type": "Spouse's professional activity",
+    "period": "as at declaration",
+    "value": null,
+    "detail": "Barrot's spouse is declared as a midwife employed by the Conseil départemental des Yvelines. Marital regime: séparation de biens.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-di34824-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 9,
+    "item": "French-American Foundation Young Leaders programme (Class of 2020)",
+    "type": "Leadership programme / network membership",
+    "period": "2020",
+    "value": null,
+    "detail": "Selected as a French-American Foundation 'Young Leader', Class of 2020.",
+    "status": "declared",
+    "source_url": [
+      "https://frenchamerican.org/young-leader/jean-noel-barrot/",
+      "https://www.diplomatie.gouv.fr/en/the-ministry/ministers/jean-noel-barrot"
+    ]
+  }
+]

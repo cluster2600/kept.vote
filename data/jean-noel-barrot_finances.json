@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "year": 2026,
+    "type": "life_insurance",
+    "label": "Assurance vie - Crédit Agricole (souscrite 07/03/2018)",
+    "amount": 1623013,
+    "detail": "Largest single financial asset declared; valeur vénale of EUR 1,623,013. From the déclaration de situation patrimoniale (modification substantielle) deposited 25 February 2026.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf",
+      "https://www.hatvp.fr/pages_nominatives/barrot-jean-noel"
+    ]
+  },
+  {
+    "id": 2,
+    "year": 2026,
+    "type": "life_insurance",
+    "label": "Assurance vie - CIC (souscrite 22/12/2023)",
+    "amount": 61767,
+    "detail": "Valeur vénale EUR 61,767.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "year": 2026,
+    "type": "life_insurance",
+    "label": "Assurance vie - Axa (souscrite 02/12/1999)",
+    "amount": 4451,
+    "detail": "Valeur vénale EUR 4,451.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 4,
+    "year": 2026,
+    "type": "bank_account",
+    "label": "Compte courant - CIC",
+    "amount": 429347,
+    "detail": "Largest current account balance declared: EUR 429,347.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 5,
+    "year": 2026,
+    "type": "cash_holding",
+    "label": "Liquidités - Caisse des Règlements Pécuniaires des Avocats (CARPA)",
+    "amount": 313573,
+    "detail": "Declared under section 10 (espèces et autres biens >= EUR 10,000).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 6,
+    "year": 2026,
+    "type": "shareholder_loan",
+    "label": "Compte courant d'associés - SCI (loan to family SCI)",
+    "amount": 126567,
+    "detail": "Shareholder current-account claim against a family SCI, declared at EUR 126,567 (plus further associated balances of EUR 47,595 and EUR 16,468).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 7,
+    "year": 2026,
+    "type": "investment_fund",
+    "label": "FCPR (fonds commun de placement à risques)",
+    "amount": 10136,
+    "detail": "Private-equity fund unit held in his own name, valeur vénale EUR 10,136.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 8,
+    "year": 2026,
+    "type": "vehicle",
+    "label": "Véhicule Peugeot",
+    "amount": 11700,
+    "detail": "Peugeot vehicle acquired in 2024, purchase and current value EUR 11,700.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 9,
+    "year": 2026,
+    "type": "liability",
+    "label": "Emprunt immobilier - Crédit Agricole",
+    "amount": -310971,
+    "detail": "Mortgage taken 01/12/2018 for a property acquisition; original loan EUR 825,000 over 300 months, EUR 310,971 remaining to be repaid. Shown as a liability (negative).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 10,
+    "year": 2026,
+    "type": "loan_receivable",
+    "label": "Prêt entre vifs (loan receivable)",
+    "amount": 40000,
+    "detail": "A 'prêt entre vifs' receivable declared at EUR 40,000.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  }
+]

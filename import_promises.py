@@ -43,6 +43,7 @@ from import_common import (
     data_path,
     get_or_create_politician,
     parse_date as _parse_date,
+    slug_of,
 )
 
 JSON_PATH = os.getenv("PROMISES_JSON", data_path("promises"))
@@ -76,14 +77,23 @@ def _map_status(raw: object) -> VerificationStatus:
 
 async def main() -> None:
     with open(JSON_PATH, encoding="utf-8") as fh:
-        entries = json.load(fh)
-    if not isinstance(entries, list):
+        raw = json.load(fh)
+    if not isinstance(raw, list):
         raise SystemExit(f"{JSON_PATH} must contain a JSON array of promises.")
+
+    # Keep only real promises (those with a title). Some datasets — e.g. a
+    # government minister with no presidential platform — ship a single
+    # explanatory "note" record with no title; that yields zero promises, which
+    # the site renders as an empty state.
+    entries = [e for e in raw if isinstance(e, dict) and e.get("title")]
+    skipped = len(raw) - len(entries)
+    if skipped:
+        print(f"Skipped {skipped} non-promise note record(s).")
 
     # Ensure tables exist (no-op if the API already created them).
     await init_db()
 
-    incoming_slugs = {e["id"] for e in entries if e.get("id")}
+    incoming_slugs = {slug_of(e) for e in entries if slug_of(e)}
     now = datetime.datetime.now(datetime.timezone.utc)
 
     async with SessionLocal() as session:
@@ -117,7 +127,7 @@ async def main() -> None:
             s: 0 for s in VerificationStatus
         }
         for entry in entries:
-            slug = entry.get("id")
+            slug = slug_of(entry)
             promise = existing_by_slug.get(slug)
             if promise is None:
                 promise = Promise(politician_id=politician.id, external_id=slug)

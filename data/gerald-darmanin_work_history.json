@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "role": "Garde des Sceaux, Ministre de la Justice",
+    "organization": "Gouvernement français (Bayrou, puis Lecornu)",
+    "start_date": "2024-12-23",
+    "end_date": null,
+    "description": "Minister of Justice (Keeper of the Seals), appointed in the Bayrou government in December 2024 and kept in the role in the successive Lecornu governments, including after the 26 February 2026 reshuffle.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/gerald-darmanin", "https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 2,
+    "role": "Ministre de l'Intérieur et des Outre-mer",
+    "organization": "Gouvernement français (Castex, Borne, Attal)",
+    "start_date": "2020-07-06",
+    "end_date": "2024-09-21",
+    "description": "Minister of the Interior under Prime Ministers Jean Castex, Élisabeth Borne and Gabriel Attal; the brief was expanded to include Overseas Territories in July 2022.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 3,
+    "role": "Ministre de l'Action et des Comptes publics",
+    "organization": "Gouvernement français (Philippe I et II)",
+    "start_date": "2017-05-17",
+    "end_date": "2020-07-06",
+    "description": "Minister of Public Action and Accounts in the first and second Philippe governments, responsible for the budget, public accounts and tax administration.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 4,
+    "role": "Maire de Tourcoing",
+    "organization": "Ville de Tourcoing",
+    "start_date": "2014-04-04",
+    "end_date": "2017-09-09",
+    "description": "Mayor of Tourcoing (Nord). Re-elected in 2020 but resigned shortly after; resigned as mayor in 2017 upon joining the government (incompatibility rules).",
+    "category": "local_government",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 5,
+    "role": "Député de la 10e circonscription du Nord",
+    "organization": "Assemblée nationale",
+    "start_date": "2012-06-20",
+    "end_date": "2025-01-23",
+    "description": "Member of the National Assembly for Nord's 10th constituency across several non-consecutive terms (2012–2016, 2022, 2024–2025), with periods replaced by his substitute Vincent Ledoux when in government.",
+    "category": "legislature",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 6,
+    "role": "Conseiller régional des Hauts-de-France",
+    "organization": "Conseil régional des Hauts-de-France",
+    "start_date": "2016-01-04",
+    "end_date": "2020-07-06",
+    "description": "Member of the Regional Council of Hauts-de-France (previously Nord-Pas-de-Calais regional council from 2010 to 2014).",
+    "category": "local_government",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 7,
+    "role": "Directeur de cabinet du ministre des Sports",
+    "organization": "Cabinet de David Douillet",
+    "start_date": "2011-09-01",
+    "end_date": "2012-05-01",
+    "description": "Chief of staff to Sports Minister David Douillet under President Nicolas Sarkozy.",
+    "category": "advisory",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 8,
+    "role": "Collaborateur parlementaire / assistant",
+    "organization": "Isabelle Vasseur, puis Jacques Toubon",
+    "start_date": "2005-01-01",
+    "end_date": "2011-01-01",
+    "description": "Began his career as a parliamentary assistant to MP Isabelle Vasseur, then worked for former minister and MEP Jacques Toubon.",
+    "category": "advisory",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "election": "Élections législatives 2012",
+    "date": "2012-06-17",
+    "role_sought": "Député, 10e circonscription du Nord",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": "Christian Vanneste (outgoing deputy)",
+    "detail": "First election to the National Assembly; one of the youngest lawmakers at the time.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 2,
+    "election": "Élections municipales 2014 (Tourcoing)",
+    "date": "2014-03-30",
+    "role_sought": "Maire de Tourcoing",
+    "result": "Elected (won the mayoralty)",
+    "vote_share": null,
+    "opponent": "Michel-François Delannoy (incumbent, PS)",
+    "detail": "Won the mayoralty of Tourcoing, defeating the outgoing Socialist mayor.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 3,
+    "election": "Élections municipales 2020 (Tourcoing)",
+    "date": "2020-06-28",
+    "role_sought": "Maire de Tourcoing",
+    "result": "Re-elected (list won), resigned shortly afterwards",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "His list won the municipal election; he resigned as mayor soon after due to his ministerial role.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+    "id": 4,
+    "election": "Élections législatives 2022",
+    "date": "2022-06-12",
+    "role_sought": "Député, 10e circonscription du Nord",
+    "result": "Elected",
+    "vote_share": "39.10% (first round)",
+    "opponent": "Leslie Mortreux (NUPES)",
+    "detail": "Came first in the first round with 39.10%, ahead of NUPES candidate Leslie Mortreux (23.08%); elected, then replaced by substitute Vincent Ledoux when in government.",
+    "source_url": ["https://www.francebleu.fr/infos/politique/legislatives-le-ministre-de-l-interieur-gerald-darmanin-en-tete-dans-la-10e-circonscription-du-nord-1655064754"]
+  },
+  {
+    "id": 5,
+    "election": "Élections législatives 2024",
+    "date": "2024-07-07",
+    "role_sought": "Député, 10e circonscription du Nord",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "Re-elected as deputy for Nord's 10th constituency in the snap 2024 legislative election; his seat passed back to substitute Vincent Ledoux when he re-entered government.",
+    "source_url": ["https://en.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  }
+]

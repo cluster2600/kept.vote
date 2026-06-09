@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "property": "Maison individuelle (180 m2, on 0.03 ha)",
+    "location": "Yvelines (dept. 78), France",
+    "transaction_type": "Acquisition (2018); 57.85% quote-part",
+    "date": "2018",
+    "value": "EUR 922,400 (valeur vénale)",
+    "detail": "Primary residence; acquired 2018 for EUR 1,075,000 plus EUR 250,000 of works. Barrot holds 57.85% (bien indivis, full ownership). Financed by the EUR 825,000 Crédit Agricole mortgage.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "property": "Garage (Paris)",
+    "location": "Paris (dept. 75), France",
+    "transaction_type": "Donation (2022); 33.33% quote-part",
+    "date": "2022",
+    "value": "EUR 349,667 (valeur vénale)",
+    "detail": "Garage received by donation in 2022; Barrot holds 33.33% (bien indivis). Acquisition basis EUR 244,767.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "property": "Appartement (150 m2)",
+    "location": "Hauts-de-Seine (dept. 92), France",
+    "transaction_type": "Succession (2014); 25% quote-part",
+    "date": "2014",
+    "value": "EUR 368,021 (valeur vénale)",
+    "detail": "Inherited in 2014; Barrot holds 25% (bien indivis). Acquisition basis EUR 300,000.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 4,
+    "property": "Studio (37 m2)",
+    "location": "Hauts-de-Seine (dept. 92), France",
+    "transaction_type": "Succession (2014); 25% quote-part",
+    "date": "2014",
+    "value": "EUR 87,241 (valeur vénale)",
+    "detail": "Inherited in 2014; Barrot holds 25% (bien indivis). Acquisition basis EUR 67,500.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 5,
+    "property": "Appartement (25 m2)",
+    "location": "Paris (dept. 75), France",
+    "transaction_type": "Donation (2022); 33.33% quote-part",
+    "date": "2022",
+    "value": "EUR 71,667 (valeur vénale)",
+    "detail": "Received by donation in 2022; Barrot holds 33.33% (bien indivis). Acquisition basis EUR 50,167.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 6,
+    "property": "Local commercial (32 m2)",
+    "location": "Paris (dept. 75), France",
+    "transaction_type": "Donation (2022); 33.33% quote-part",
+    "date": "2022",
+    "value": "EUR 70,000 (valeur vénale)",
+    "detail": "Commercial premises received by donation in 2022; Barrot holds 33.33% (bien indivis). Acquisition basis EUR 49,000.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 7,
+    "property": "Appartement (126 m2)",
+    "location": "Loire (dept. 42), France",
+    "transaction_type": "Succession (2014); 25% quote-part",
+    "date": "2014",
+    "value": "EUR 33,750 (valeur vénale)",
+    "detail": "Inherited in 2014; Barrot holds 25% (bien indivis). Acquisition basis EUR 21,250.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 8,
+    "property": "Local commercial (203 m2)",
+    "location": "Loire (dept. 42), France",
+    "transaction_type": "Succession (2014); 12.5% quote-part",
+    "date": "2014",
+    "value": "EUR 21,250 (valeur vénale)",
+    "detail": "Commercial premises inherited in 2014; Barrot holds 12.5% (bien indivis). Acquisition basis EUR 22,500.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": 9,
+    "property": "Maison individuelle (418 m2, on 0.9 ha) held via family SCI",
+    "location": "Haute-Loire (dept. 43), France",
+    "transaction_type": "Held through a family SCI (Barrot holds 33.33% of the SCI)",
+    "date": "2011 (acquired by the SCI)",
+    "value": "EUR 627,000 (valeur vénale of the property, 100% owned by the SCI)",
+    "detail": "Property owned outright by a family SCI in which Barrot holds 33.33% of the parts (30% full ownership + 10% in indivision). The SCI carries a large compte courant d'associés liability (~EUR 695,547) and the house is not rented. The property is in Haute-Loire, his father's home department.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/barrot-jean-noel-dspm34823-gouvernement.pdf"
+    ]
+  }
+]
