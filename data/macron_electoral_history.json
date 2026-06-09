@@ -1,0 +1,72 @@
+[
+  {
+    "id": "no-prior-elected-office",
+    "election": "No elected office before 2017",
+    "date": "2017-05-07",
+    "role_sought": "n/a (context entry)",
+    "result": "n/a",
+    "vote_share": "n/a",
+    "opponent": "n/a",
+    "detail": "Macron had never held or won any elected office before the presidency; the 2017 presidential election was the first election he personally contested, an unusual path for a French head of state.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "2017-presidential-round-1",
+    "election": "2017 French presidential, 1st round",
+    "date": "2017-04-23",
+    "role_sought": "President of the Republic",
+    "result": "advanced (1st place)",
+    "vote_share": "24.01%",
+    "opponent": "Marine Le Pen (21.30%), François Fillon, Jean-Luc Mélenchon and others",
+    "detail": "Macron finished first in the first round, qualifying for the runoff against Marine Le Pen.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2017_French_presidential_election",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "2017-presidential-round-2",
+    "election": "2017 French presidential, 2nd round",
+    "date": "2017-05-07",
+    "role_sought": "President of the Republic",
+    "result": "won",
+    "vote_share": "66.10%",
+    "opponent": "Marine Le Pen (33.90%)",
+    "detail": "Macron won the runoff decisively, becoming the youngest president in French history at 39.",
+    "source_url": [
+      "https://www.europe1.fr/politique/presidentielle-resultats-definitifs-du-second-tour-emmanuel-macron-6610-et-marine-le-pen-3390-3323609",
+      "https://en.wikipedia.org/wiki/2017_French_presidential_election"
+    ]
+  },
+  {
+    "id": "2022-presidential-round-1",
+    "election": "2022 French presidential, 1st round",
+    "date": "2022-04-10",
+    "role_sought": "President of the Republic",
+    "result": "advanced (1st place)",
+    "vote_share": "27.85%",
+    "opponent": "Marine Le Pen (23.15%), Jean-Luc Mélenchon and others",
+    "detail": "Macron again finished first, setting up a second consecutive runoff against Marine Le Pen.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2022_French_presidential_election",
+      "https://www.touteleurope.eu/vie-politique-des-etats-membres/election-presidentielle-2022-les-resultats-definitifs-du-second-tour/"
+    ]
+  },
+  {
+    "id": "2022-presidential-round-2",
+    "election": "2022 French presidential, 2nd round",
+    "date": "2022-04-24",
+    "role_sought": "President of the Republic",
+    "result": "won",
+    "vote_share": "58.55%",
+    "opponent": "Marine Le Pen (41.45%)",
+    "detail": "Macron was re-elected with a narrower margin than in 2017, becoming the first incumbent re-elected outside cohabitation in 20 years.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/presidentielle/resultats-presidentielle-2022-emmanuel-macron-remporte-le-second-tour-avec-58-55-des-voix-selon-les-resultats-definitifs_5101504.html",
+      "https://www.touteleurope.eu/vie-politique-des-etats-membres/election-presidentielle-2022-les-resultats-definitifs-du-second-tour/"
+    ]
+  }
+]

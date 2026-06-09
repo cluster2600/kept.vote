@@ -54,6 +54,17 @@ class Settings:
         self.claude_model: str = os.getenv("CLAUDE_MODEL", "claude-opus-4-8")
         self.claude_max_tokens: int = int(os.getenv("CLAUDE_MAX_TOKENS", "4096"))
 
+        # ---- CORS ---------------------------------------------------------
+        # Comma-separated list of allowed browser origins for the frontend.
+        # Defaults cover local Next.js dev. Use "*" to allow any origin.
+        self.cors_origins: list[str] = [
+            origin.strip()
+            for origin in os.getenv(
+                "CORS_ORIGINS", "http://localhost:3000,http://127.0.0.1:3000"
+            ).split(",")
+            if origin.strip()
+        ]
+
         # ---- Uploads ------------------------------------------------------
         self.upload_dir: str = os.getenv("UPLOAD_DIR", "./uploads")
         # 25 MB default ceiling for uploaded documents.

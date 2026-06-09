@@ -1,0 +1,44 @@
+[
+  {
+    "id": "grand-master-legion-honneur",
+    "honor": "Grand Master of the Légion d'honneur",
+    "awarded_by": "Ex officio (French Republic)",
+    "year": "2017",
+    "detail": "By virtue of the office, the President of the Republic automatically becomes Grand Master of the Legion of Honour upon inauguration; Macron has held this since 14 May 2017. It is an office attached to the presidency, not a personally conferred decoration.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Legion_of_Honour",
+      "https://globalnews.ca/video/3450124/frances-macron-proclaimed-president-becomes-grand-master-of-legion-of-honour"
+    ]
+  },
+  {
+    "id": "grand-master-ordre-national-merite",
+    "honor": "Grand Master of the Ordre national du Mérite",
+    "awarded_by": "Ex officio (French Republic)",
+    "year": "2017",
+    "detail": "Like the Legion of Honour, the President is ex officio Grand Master of the National Order of Merit. This is a function of the office rather than a personal award.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "charlemagne-prize-2018",
+    "honor": "Charlemagne Prize (Karlspreis), Aachen",
+    "awarded_by": "City of Aachen, Germany",
+    "year": "2018",
+    "detail": "Macron received the 2018 Charlemagne Prize, awarded for contributions to European unity, in recognition of his pro-European agenda.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://en.wikipedia.org/wiki/Charlemagne_Prize"
+    ]
+  },
+  {
+    "id": "foreign-honours-not-itemised",
+    "honor": "Foreign state honours and honorary degrees (not comprehensively itemised)",
+    "awarded_by": "Various states / institutions",
+    "year": "various",
+    "detail": "As a serving head of state, Macron has received various foreign decorations and honorary distinctions on state visits. We do not list specific ones here without reliable per-item sourcing, to avoid attributing unverified honours.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_L%C3%A9gion_d%27Honneur_by_country"
+    ]
+  }
+]

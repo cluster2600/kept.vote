@@ -1,0 +1,64 @@
+[
+  {
+    "id": "declaration-interets-filed",
+    "item": "Declaration of interests and activities (déclaration d'intérêts et d'activités)",
+    "type": "other_interest",
+    "period": "2014, 2017, 2022",
+    "value": "n/a",
+    "detail": "Macron has filed declarations of interests with the HATVP (as minister in 2014 and as presidential candidate in 2017 and 2022); the 2022 candidate declarations were the first such interest declarations published. The HATVP found his 2014 declaration 'sincere and exact'.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DIA_EmmanuelMacron_accessible.pdf",
+      "https://www.hatvp.fr/presse/presidentielle-2022-le-role-de-la-haute-autorite/"
+    ]
+  },
+  {
+    "id": "no-outside-paid-roles-as-president",
+    "item": "Outside paid activities / consultancy while in office",
+    "type": "none",
+    "period": "2017-present",
+    "value": "None declared",
+    "detail": "As President, Macron declares no outside paid roles, consultancy, or commercial directorships; the office of President is incompatible with such activities. His declared interests centre on his public functions and past employment.",
+    "status": "none",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DIA_EmmanuelMacron_accessible.pdf"
+    ]
+  },
+  {
+    "id": "past-professional-interests",
+    "item": "Past professional activities (Inspection des finances, Rothschild, En Marche)",
+    "type": "outside_activity",
+    "period": "2004-2017",
+    "value": "n/a",
+    "detail": "His historical professional interests include the senior civil service, investment banking at Rothschild & Cie, and the founding/leadership of the En Marche! movement. These are past activities, captured in detail in the work-history dataset.",
+    "status": "historical",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DIA_EmmanuelMacron_accessible.pdf",
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "no-board-memberships-declared",
+    "item": "Corporate board memberships",
+    "type": "none",
+    "period": "2017-present",
+    "value": "None declared",
+    "detail": "No current corporate board memberships are declared. Any past public-body or governmental roles stem from his official functions, not private directorships.",
+    "status": "none",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DIA_EmmanuelMacron_accessible.pdf"
+    ]
+  },
+  {
+    "id": "gifts-hospitality-state-property",
+    "item": "Gifts and hospitality received as head of state",
+    "type": "gift_hospitality",
+    "period": "2017-present",
+    "value": "n/a (property of the State)",
+    "detail": "Under French practice, official gifts received by the President in the exercise of his functions are recorded and generally become property of the State rather than personal assets; no personal gifts/hospitality are recorded as declarable private interests. We found no reliably sourced itemised list to include here.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DIA_EmmanuelMacron_accessible.pdf"
+    ]
+  }
+]

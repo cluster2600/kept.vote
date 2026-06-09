@@ -1,0 +1,54 @@
+[
+  {
+    "id": "no-company-ownership-declared",
+    "entity": "Any company ownership or corporate stake",
+    "role": "none",
+    "ownership_stake": "None declared",
+    "period": "2017-present",
+    "status": "none",
+    "detail": "Macron's HATVP declarations list no company ownership, shareholding, or business participation (no SCI, no unlisted-company stake, no commercial directorship). His securities exposure is limited to PEAs and securities accounts holding unspecified listed instruments, not declared direct stakes in named companies.",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045682757"
+    ]
+  },
+  {
+    "id": "inspection-generale-des-finances-employment",
+    "entity": "Inspection générale des finances (French Ministry of Finance)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2004-2008",
+    "status": "historical",
+    "detail": "Macron worked as a finance inspector in the senior civil service. This was salaried public employment, not ownership of any entity.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.thelocal.fr/20170507/emmanuel-macron-the-banker-who-became-frances-youngest-president"
+    ]
+  },
+  {
+    "id": "rothschild-cie-employment-partner",
+    "entity": "Rothschild & Cie Banque",
+    "role": "employee",
+    "ownership_stake": "n/a (promoted to partner/associé-gérant in 2010; any equity interest not publicly quantified)",
+    "period": "2008-2012",
+    "status": "historical",
+    "detail": "Macron was an investment banker at Rothschild & Cie and was promoted to partner ('associé-gérant') in 2010. Partner status in such firms can carry an equity interest, but no specific ownership stake is publicly documented; he left the firm in 2012 and it does not appear in his later asset declarations.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.thelocal.fr/20170507/emmanuel-macron-the-banker-who-became-frances-youngest-president"
+    ]
+  },
+  {
+    "id": "en-marche-renaissance-political-movement",
+    "entity": "En Marche! / La République En Marche / Renaissance",
+    "role": "founder",
+    "ownership_stake": "n/a (political party, not a commercial company)",
+    "period": "2016-present",
+    "status": "historical",
+    "detail": "Macron founded the movement En Marche! in April 2016 (later renamed La République En Marche, then Renaissance). It is a political association/party, not a commercial enterprise, and confers no personal commercial ownership or profit stake.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "no-real-estate-declared-2022",
+    "property": "Any real-estate property owned by Emmanuel Macron",
+    "location": "France",
+    "transaction_type": "none_declared",
+    "date": "2022-03-01",
+    "value": "None declared",
+    "detail": "In his HATVP declarations of assets (2017 and 2022), Macron declared no real-estate property of his own. Reporting notes he has not bought any property since taking office in 2017. As president he lives in the official Élysée residence (a benefit in kind, not owned).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.france24.com/fr/france/20220309-pr%C3%A9sidentielle-ce-que-contient-la-d%C3%A9claration-de-patrimoine-des-candidats"
+    ]
+  },
+  {
+    "id": "villa-monejan-le-touquet-brigitte",
+    "property": "Villa Monéjan (seaside villa, ~250 m²)",
+    "location": "Le Touquet-Paris-Plage, France",
+    "transaction_type": "owned",
+    "date": "1980s-2025",
+    "value": "Valued ~€1.2m in 2016 couple declaration; sold for €3.6m in 2025",
+    "detail": "The Le Touquet villa was Brigitte Macron's own property, inherited from her parents in the 1980s (a 'bien propre'), which is why it does not appear as Emmanuel Macron's declarable real estate. It featured in the couple's 2016 declaration at about €1.2m before being revalued.",
+    "status": "historical",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Villa_Mon%C3%A9jan",
+      "https://www.grandsmeres.net/2025/11/villa-du-touquet-plus-value-macron-patrimoine-elus/"
+    ]
+  },
+  {
+    "id": "villa-monejan-sale-2025",
+    "property": "Sale of Villa Monéjan (Le Touquet)",
+    "location": "Le Touquet-Paris-Plage, France",
+    "transaction_type": "sale",
+    "date": "2025",
+    "value": "€3.6 million (excl. agency/notary fees ~€309,000)",
+    "detail": "Reporting indicates the Le Touquet villa was sold in 2025 for about €3.6 million. As Brigitte Macron's separate inherited property held for more than 30 years, the sale was reported to be exempt from capital-gains tax under French rules for long-held secondary residences.",
+    "status": "estimated",
+    "source_url": [
+      "https://www.grandsmeres.net/2025/11/villa-du-touquet-plus-value-macron-patrimoine-elus/",
+      "https://www.sudradio.fr/sud-radio/villa-macron-une-plus-value-qui-fait-jaser"
+    ]
+  },
+  {
+    "id": "no-paris-apartment-declared",
+    "property": "Paris apartment or other secondary residence",
+    "location": "Paris / France",
+    "transaction_type": "none_declared",
+    "date": "n/a",
+    "value": "None declared",
+    "detail": "There is no reliably sourced record of Emmanuel Macron currently declaring a Paris apartment or other personal real estate. His declarations report no real estate; we therefore record this as none declared rather than asserting a specific past sale, which is not clearly documented.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  }
+]

@@ -128,6 +128,7 @@ class ClaudeService:
             status=self._coerce_status(verdict.get("status")),
             confidence_score=self._coerce_confidence(verdict.get("confidence_score")),
             reasoning=verdict.get("reasoning"),
+            key_evidence=self._coerce_key_evidence(verdict.get("key_evidence")),
             claude_analysis=raw_analysis,
             verified_date=datetime.datetime.now(datetime.timezone.utc),
         )
@@ -276,6 +277,14 @@ class ClaudeService:
         except (TypeError, ValueError):
             return 0.0
         return max(0.0, min(1.0, score))
+
+    @staticmethod
+    def _coerce_key_evidence(value: object) -> list[str] | None:
+        """Normalize the model's ``key_evidence`` into a list of strings."""
+        if isinstance(value, list):
+            items = [str(item).strip() for item in value if str(item).strip()]
+            return items or None
+        return None
 
     @staticmethod
     def _resolve_policy_id(

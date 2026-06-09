@@ -15,6 +15,7 @@ from __future__ import annotations
 import uuid
 from contextlib import asynccontextmanager
 from typing import Annotated
+from urllib.parse import urlparse
 
 from fastapi import (
     Depends,
@@ -22,9 +23,11 @@ from fastapi import (
     File,
     Form,
     HTTPException,
+    Response,
     UploadFile,
     status,
 )
+from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import func, select, text
 from sqlalchemy.ext.asyncio import AsyncSession
 
@@ -36,11 +39,24 @@ from claude_service import (
     PromiseNotFoundError,
 )
 from database import (
+    Company,
     Document,
+    Education,
+    ElectoralHistory,
+    FinanceEntry,
+    Honor,
+    Interest,
+    KeyLegislation,
+    NetWorthTimeline,
     Policy,
     Politician,
+    Polemic,
     Promise,
+    RealEstate,
+    StockHolding,
     Verification,
+    VerificationStatus,
+    WorkHistory,
     dispose_engine,
     get_session,
     init_db,
@@ -51,17 +67,34 @@ from document_processor import (
     UnsupportedDocumentError,
 )
 from schemas import (
+    CompanyRead,
     DocumentRead,
+    EducationRead,
+    ElectoralHistoryRead,
+    FinanceEntryRead,
     HealthResponse,
+    HonorRead,
+    InterestRead,
+    KeyLegislationRead,
+    NetWorthTimelineRead,
+    PolemicRead,
     PolicyCreate,
     PolicyRead,
     PoliticianCreate,
     PoliticianRead,
+    PoliticianSummary,
     PromiseCreate,
     PromiseRead,
+    PromiseWithVerification,
+    RealEstateRead,
+    SourceRef,
+    SourcesResponse,
     StatusResponse,
+    StockHoldingRead,
+    VerificationCreate,
     VerificationRead,
     VerifyRequest,
+    WorkHistoryRead,
 )
 
 settings = get_settings()
@@ -89,10 +122,39 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Allow the browser-based frontend (Next.js) to call the API.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=settings.cors_origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
+async def _latest_verifications(
+    session: AsyncSession, promise_ids: list[uuid.UUID]
+) -> dict[uuid.UUID, Verification]:
+    """Return the most recent verification per promise id.
+
+    Promises with no verification are simply absent from the returned mapping.
+    """
+    if not promise_ids:
+        return {}
+    result = await session.execute(
+        select(Verification)
+        .where(Verification.promise_id.in_(promise_ids))
+        .order_by(Verification.created_at.asc())
+    )
+    # Ascending order means later rows overwrite earlier ones, leaving the
+    # newest verification per promise as the final value.
+    latest: dict[uuid.UUID, Verification] = {}
+    for verification in result.scalars().all():
+        latest[verification.promise_id] = verification
+    return latest
 async def _ensure_politician_exists(
     session: AsyncSession, politician_id: uuid.UUID
 ) -> Politician:
@@ -127,6 +189,60 @@ async def create_politician(
 
 
 @app.get(
+    "/api/politicians",
+    response_model=list[PoliticianSummary],
+    tags=["politicians"],
+)
+async def list_politicians(session: DBSession) -> list[PoliticianSummary]:
+    """List all politicians with aggregate promise/verification counts.
+
+    Powers the public browse view. For each politician, counts reflect the
+    *latest* verification status of each of their promises.
+    """
+    politicians = list(
+        (await session.execute(select(Politician).order_by(Politician.name)))
+        .scalars()
+        .all()
+    )
+
+    # Map every promise to its owning politician in one query.
+    promise_rows = (
+        await session.execute(select(Promise.id, Promise.politician_id))
+    ).all()
+    promises_by_politician: dict[uuid.UUID, list[uuid.UUID]] = {}
+    for promise_id, politician_id in promise_rows:
+        promises_by_politician.setdefault(politician_id, []).append(promise_id)
+
+    latest = await _latest_verifications(
+        session, [pid for pid, _ in promise_rows]
+    )
+
+    summaries: list[PoliticianSummary] = []
+    for politician in politicians:
+        owned = promises_by_politician.get(politician.id, [])
+        counts = {s: 0 for s in VerificationStatus}
+        for promise_id in owned:
+            verification = latest.get(promise_id)
+            if verification is not None:
+                counts[verification.status] += 1
+        summaries.append(
+            PoliticianSummary(
+                id=politician.id,
+                name=politician.name,
+                country=politician.country,
+                party=politician.party,
+                promise_count=len(owned),
+                kept_count=counts[VerificationStatus.FULFILLED],
+                broken_count=counts[VerificationStatus.BROKEN],
+                in_progress_count=counts[VerificationStatus.IN_PROGRESS],
+                compromise_count=counts[VerificationStatus.COMPROMISE],
+                no_action_count=counts[VerificationStatus.NO_ACTION],
+            )
+        )
+    return summaries
+
+
+@app.get(
     "/api/politicians/{politician_id}",
     response_model=PoliticianRead,
     tags=["politicians"],
@@ -136,6 +252,385 @@ async def get_politician(
 ) -> Politician:
     """Fetch a single politician by ID."""
     return await _ensure_politician_exists(session, politician_id)
+
+
+@app.delete(
+    "/api/politicians/{politician_id}",
+    status_code=status.HTTP_204_NO_CONTENT,
+    response_class=Response,
+    tags=["politicians"],
+)
+async def delete_politician(
+    politician_id: uuid.UUID, session: DBSession
+) -> Response:
+    """Delete a politician and (by cascade) their promises, documents,
+    policies, and verifications."""
+    politician = await _ensure_politician_exists(session, politician_id)
+    await session.delete(politician)
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
+
+
+@app.get(
+    "/api/politicians/{politician_id}/promises",
+    response_model=list[PromiseWithVerification],
+    tags=["politicians", "promises"],
+)
+async def list_politician_promises(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[PromiseWithVerification]:
+    """List a politician's promises, each with its latest verification embedded.
+
+    This is the endpoint the front-end relies on to render a politician's
+    promise list with status badges and confidence in a single round trip.
+    """
+    await _ensure_politician_exists(session, politician_id)
+
+    promises = list(
+        (
+            await session.execute(
+                select(Promise)
+                .where(Promise.politician_id == politician_id)
+                .order_by(Promise.date_made.asc().nulls_last(), Promise.created_at.asc())
+            )
+        )
+        .scalars()
+        .all()
+    )
+    latest = await _latest_verifications(session, [p.id for p in promises])
+
+    return [
+        PromiseWithVerification(
+            **PromiseRead.model_validate(promise).model_dump(),
+            verification=(
+                VerificationRead.model_validate(latest[promise.id])
+                if promise.id in latest
+                else None
+            ),
+        )
+        for promise in promises
+    ]
+
+
+@app.get(
+    "/api/politicians/{politician_id}/work-history",
+    response_model=list[WorkHistoryRead],
+    tags=["politicians", "profile"],
+)
+async def list_work_history(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[WorkHistory]:
+    """List a politician's career history, most recent role first.
+
+    ``start_date`` strings are year-first (``YYYY`` / ``YYYY-MM`` /
+    ``YYYY-MM-DD``), so a lexical descending sort is chronological.
+    """
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(WorkHistory)
+        .where(WorkHistory.politician_id == politician_id)
+        .order_by(WorkHistory.start_date.desc().nulls_last())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/finances",
+    response_model=list[FinanceEntryRead],
+    tags=["politicians", "profile"],
+)
+async def list_finances(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[FinanceEntry]:
+    """List a politician's declared finance entries (most recent period first)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(FinanceEntry)
+        .where(FinanceEntry.politician_id == politician_id)
+        .order_by(
+            FinanceEntry.year_or_period.desc().nulls_last(),
+            FinanceEntry.label.asc(),
+        )
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/polemics",
+    response_model=list[PolemicRead],
+    tags=["politicians", "profile"],
+)
+async def list_polemics(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[Polemic]:
+    """List a politician's controversies (most recent period first)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(Polemic)
+        .where(Polemic.politician_id == politician_id)
+        .order_by(Polemic.period.desc().nulls_last(), Polemic.title.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/stocks",
+    response_model=list[StockHoldingRead],
+    tags=["politicians", "profile"],
+)
+async def list_stocks(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[StockHolding]:
+    """List a politician's securities / stock-holding declarations."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(StockHolding)
+        .where(StockHolding.politician_id == politician_id)
+        .order_by(StockHolding.as_of.desc().nulls_last(), StockHolding.holding.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/real-estate",
+    response_model=list[RealEstateRead],
+    tags=["politicians", "profile"],
+)
+async def list_real_estate(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[RealEstate]:
+    """List a politician's real-estate declarations."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(RealEstate)
+        .where(RealEstate.politician_id == politician_id)
+        .order_by(RealEstate.date.desc().nulls_last(), RealEstate.property.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/companies",
+    response_model=list[CompanyRead],
+    tags=["politicians", "profile"],
+)
+async def list_companies(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[Company]:
+    """List a politician's company / ownership declarations."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(Company)
+        .where(Company.politician_id == politician_id)
+        .order_by(Company.period.desc().nulls_last(), Company.entity.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/electoral-history",
+    response_model=list[ElectoralHistoryRead],
+    tags=["politicians", "profile"],
+)
+async def list_electoral_history(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[ElectoralHistory]:
+    """List a politician's electoral history (most recent first)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(ElectoralHistory)
+        .where(ElectoralHistory.politician_id == politician_id)
+        .order_by(ElectoralHistory.date.desc().nulls_last())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/interests",
+    response_model=list[InterestRead],
+    tags=["politicians", "profile"],
+)
+async def list_interests(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[Interest]:
+    """List a politician's declaration-of-interests entries (import order)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(Interest)
+        .where(Interest.politician_id == politician_id)
+        .order_by(Interest.created_at.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/education",
+    response_model=list[EducationRead],
+    tags=["politicians", "profile"],
+)
+async def list_education(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[Education]:
+    """List a politician's education entries (chronological / import order)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(Education)
+        .where(Education.politician_id == politician_id)
+        .order_by(Education.created_at.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/honors",
+    response_model=list[HonorRead],
+    tags=["politicians", "profile"],
+)
+async def list_honors(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[Honor]:
+    """List a politician's honours and distinctions (most recent first)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(Honor)
+        .where(Honor.politician_id == politician_id)
+        .order_by(Honor.year.desc().nulls_last(), Honor.honor.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/key-legislation",
+    response_model=list[KeyLegislationRead],
+    tags=["politicians", "profile"],
+)
+async def list_key_legislation(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[KeyLegislation]:
+    """List landmark legislation associated with a politician (chronological)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(KeyLegislation)
+        .where(KeyLegislation.politician_id == politician_id)
+        .order_by(KeyLegislation.year.asc().nulls_last(), KeyLegislation.law_name.asc())
+    )
+    return list(result.scalars().all())
+
+
+@app.get(
+    "/api/politicians/{politician_id}/net-worth",
+    response_model=list[NetWorthTimelineRead],
+    tags=["politicians", "profile"],
+)
+async def list_net_worth(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[NetWorthTimeline]:
+    """List a politician's declared-net-worth timeline (chronological)."""
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(NetWorthTimeline)
+        .where(NetWorthTimeline.politician_id == politician_id)
+        .order_by(NetWorthTimeline.year.asc().nulls_last())
+    )
+    return list(result.scalars().all())
+
+
+def _domain(url: str) -> str:
+    """Return a clean hostname (no leading ``www.``) for grouping/display."""
+    try:
+        netloc = urlparse(url).netloc.lower()
+    except ValueError:
+        return ""
+    return netloc[4:] if netloc.startswith("www.") else netloc
+
+
+@app.get(
+    "/api/politicians/{politician_id}/sources",
+    response_model=SourcesResponse,
+    tags=["politicians", "profile"],
+)
+async def list_sources(
+    politician_id: uuid.UUID, session: DBSession
+) -> SourcesResponse:
+    """Aggregate every unique source URL backing a politician's records.
+
+    Unions source URLs across promises (and their verifications), work history,
+    finances, stock holdings, real estate, companies, and controversies, then
+    deduplicates by URL. Each URL records which sections rely on it. Counts are
+    computed live from the database — never hardcoded.
+    """
+    await _ensure_politician_exists(session, politician_id)
+
+    # url -> set of section keys that cite it
+    by_url: dict[str, set[str]] = {}
+
+    def add(urls: object, section: str) -> None:
+        if not isinstance(urls, (list, tuple)):
+            return
+        for url in urls:
+            if isinstance(url, str) and url.strip():
+                by_url.setdefault(url.strip(), set()).add(section)
+
+    # Promises: the promise's primary source_url plus its verification sources.
+    promises = list(
+        (
+            await session.execute(
+                select(Promise).where(Promise.politician_id == politician_id)
+            )
+        )
+        .scalars()
+        .all()
+    )
+    for promise in promises:
+        if promise.source_url:
+            add([promise.source_url], "promises")
+    promise_ids = [p.id for p in promises]
+    if promise_ids:
+        verifications = (
+            await session.execute(
+                select(Verification).where(
+                    Verification.promise_id.in_(promise_ids)
+                )
+            )
+        ).scalars().all()
+        for verification in verifications:
+            add(verification.source_urls, "promises")
+
+    # Profile sections: each row carries a source_urls JSONB array.
+    section_models = [
+        ("work_history", WorkHistory),
+        ("finances", FinanceEntry),
+        ("stocks", StockHolding),
+        ("real_estate", RealEstate),
+        ("companies", Company),
+        ("controversies", Polemic),
+        ("electoral_history", ElectoralHistory),
+        ("interests", Interest),
+        ("education", Education),
+        ("honors", Honor),
+        ("key_legislation", KeyLegislation),
+        ("net_worth", NetWorthTimeline),
+    ]
+    for section, model in section_models:
+        rows = (
+            await session.execute(
+                select(model).where(model.politician_id == politician_id)
+            )
+        ).scalars().all()
+        for row in rows:
+            add(row.source_urls, section)
+
+    sources = [
+        SourceRef(url=url, domain=_domain(url), sections=sorted(sections))
+        for url, sections in by_url.items()
+    ]
+    # Stable order: group by domain, then URL.
+    sources.sort(key=lambda s: (s.domain, s.url))
+
+    return SourcesResponse(
+        total=len(sources),
+        domain_count=len({s.domain for s in sources}),
+        sources=sources,
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -171,6 +666,25 @@ async def get_promise(promise_id: uuid.UUID, session: DBSession) -> Promise:
             detail=f"Promise {promise_id} not found.",
         )
     return promise
+
+
+@app.get(
+    "/api/promises/{promise_id}/verification",
+    response_model=VerificationRead | None,
+    tags=["promises", "verification"],
+)
+async def get_promise_verification(
+    promise_id: uuid.UUID, session: DBSession
+) -> Verification | None:
+    """Return a promise's latest verification, or ``null`` if none exists."""
+    promise = await session.get(Promise, promise_id)
+    if promise is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f"Promise {promise_id} not found.",
+        )
+    latest = await _latest_verifications(session, [promise_id])
+    return latest.get(promise_id)
 
 
 # ---------------------------------------------------------------------------
@@ -280,6 +794,53 @@ async def create_policy(payload: PolicyCreate, session: DBSession) -> Policy:
 # ---------------------------------------------------------------------------
 # Verification (main feature)
 # ---------------------------------------------------------------------------
+@app.post(
+    "/api/verifications",
+    response_model=VerificationRead,
+    status_code=status.HTTP_201_CREATED,
+    tags=["verification"],
+)
+async def create_verification(
+    payload: VerificationCreate, session: DBSession
+) -> Verification:
+    """Record a curated (human) verification for a promise.
+
+    The editorial counterpart to the AI-driven ``/api/verify`` endpoint. Used by
+    the seed script to load vetted fact-checks deterministically.
+    """
+    import datetime
+
+    promise = await session.get(Promise, payload.promise_id)
+    if promise is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f"Promise {payload.promise_id} not found.",
+        )
+    if payload.policy_id is not None:
+        policy = await session.get(Policy, payload.policy_id)
+        if policy is None:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail=f"Policy {payload.policy_id} not found.",
+            )
+
+    verification = Verification(
+        promise_id=payload.promise_id,
+        policy_id=payload.policy_id,
+        status=payload.status,
+        confidence_score=payload.confidence_score,
+        reasoning=payload.reasoning,
+        key_evidence=payload.key_evidence,
+        source_urls=payload.source_urls,
+        human_review_status=payload.human_review_status,
+        verified_date=datetime.datetime.now(datetime.timezone.utc),
+    )
+    session.add(verification)
+    await session.flush()
+    await session.refresh(verification)
+    return verification
+
+
 @app.post(
     "/api/verify",
     response_model=VerificationRead,

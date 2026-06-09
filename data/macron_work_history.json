@@ -1,0 +1,145 @@
+[
+  {
+    "id": "lycee-la-providence-amiens",
+    "role": "Secondary student",
+    "organization": "Lycée La Providence (Amiens) then Lycée Henri-IV (Paris)",
+    "start_date": "1990",
+    "end_date": "1994",
+    "description": "Macron completed most of his secondary education at the Jesuit Lycée La Providence in Amiens, his home town, before moving to Lycée Henri-IV in Paris for his final year and preparatory classes.",
+    "category": "education",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "university-paris-nanterre-philosophy",
+    "role": "Student of philosophy (DEA, master's level)",
+    "organization": "Université Paris-Nanterre",
+    "start_date": "1999",
+    "end_date": "2001",
+    "description": "Macron earned a DEA (master's-level degree) in philosophy at Paris-Nanterre, writing on Machiavelli and Hegel, and briefly worked as an editorial assistant to philosopher Paul Ricoeur.",
+    "category": "education",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "sciences-po-paris",
+    "role": "Student (Master in Public Affairs)",
+    "organization": "Institut d'études politiques de Paris (Sciences Po)",
+    "start_date": "2001",
+    "end_date": "2004",
+    "description": "Macron studied at Sciences Po Paris, obtaining a master's-level qualification in public affairs.",
+    "category": "education",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "ena-ecole-nationale-administration",
+    "role": "Student (civil-service training)",
+    "organization": "École nationale d'administration (ENA), Strasbourg",
+    "start_date": "2002",
+    "end_date": "2004",
+    "description": "Macron attended the ENA, the elite school that traditionally trained France's senior civil servants, graduating in the 2004 'Léopold Sédar Senghor' class, which gave him access to the Inspection générale des finances.",
+    "category": "education",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "inspection-generale-des-finances",
+    "role": "Finance inspector (Inspecteur des finances)",
+    "organization": "Inspection générale des finances (French Ministry of Finance)",
+    "start_date": "2004",
+    "end_date": "2008",
+    "description": "On graduating from ENA, Macron joined the Inspection générale des finances, the senior audit and oversight corps of the French treasury, where he worked as a finance inspector.",
+    "category": "civil_service",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.thelocal.fr/20170507/emmanuel-macron-the-banker-who-became-frances-youngest-president"
+    ]
+  },
+  {
+    "id": "rothschild-cie-banque",
+    "role": "Investment banker, later partner (Managing Director / Associé-gérant)",
+    "organization": "Rothschild & Cie Banque",
+    "start_date": "2008",
+    "end_date": "2012",
+    "description": "Macron left the civil service for investment banking, joining Rothschild & Cie in 2008 and being promoted to partner in 2010. He advised Nestlé on its roughly $12 billion acquisition of Pfizer's infant-nutrition division, a deal that reportedly made him a multimillionaire.",
+    "category": "private_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.thelocal.fr/20170507/emmanuel-macron-the-banker-who-became-frances-youngest-president"
+    ]
+  },
+  {
+    "id": "elysee-deputy-secretary-general",
+    "role": "Deputy Secretary-General of the Presidency",
+    "organization": "Élysée Palace (Presidency of François Hollande)",
+    "start_date": "2012-05",
+    "end_date": "2014-06",
+    "description": "After Hollande's election, Macron was appointed deputy secretary-general of the Élysée, acting as a senior economic adviser to the President. He left the post in mid-2014.",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "minister-economy-industry-digital",
+    "role": "Minister of the Economy, Industry and Digital Affairs",
+    "organization": "Government of France (Valls government)",
+    "start_date": "2014-08-26",
+    "end_date": "2016-08-30",
+    "description": "Macron was appointed Economy Minister in August 2014, succeeding Arnaud Montebourg. He is best known in the role for the 2015 'Loi Macron' deregulation law. He resigned on 30 August 2016 to pursue his own political movement.",
+    "category": "government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "en-marche-founder",
+    "role": "Founder and President of the movement",
+    "organization": "En Marche! (later La République En Marche / Renaissance)",
+    "start_date": "2016-04-06",
+    "end_date": "2017-05",
+    "description": "Macron launched the centrist political movement En Marche! in his home town of Amiens on 6 April 2016, while still Economy Minister. It became the vehicle for his 2017 presidential campaign and was later renamed La République En Marche and then Renaissance.",
+    "category": "politics",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "president-of-france-first-term",
+    "role": "President of the French Republic (first term)",
+    "organization": "French Republic",
+    "start_date": "2017-05-14",
+    "end_date": "2022-05-13",
+    "description": "Macron won the 2017 presidential election against Marine Le Pen and took office on 14 May 2017, becoming the youngest French head of state since Napoleon.",
+    "category": "politics",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "president-of-france-second-term",
+    "role": "President of the French Republic (second term)",
+    "organization": "French Republic",
+    "start_date": "2022-05-14",
+    "end_date": "present",
+    "description": "Macron was re-elected on 24 April 2022, again defeating Marine Le Pen, and was sworn in for a second term on 14 May 2022. In June 2024 he dissolved the National Assembly, producing a hung parliament for the remainder of the term.",
+    "category": "politics",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.info.gouv.fr/actualite/dissolution-de-lassemblee-nationale"
+    ]
+  }
+]

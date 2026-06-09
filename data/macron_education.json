@@ -1,0 +1,61 @@
+[
+  {
+    "id": "lycee-la-providence",
+    "institution": "Lycée La Providence (Jesuit), Amiens",
+    "qualification": "Secondary education",
+    "field": "General secondary studies",
+    "years": "until 1993",
+    "detail": "Macron completed most of his secondary schooling at this Jesuit lycée in his home town of Amiens; his parents transferred him to Paris for his final year.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "lycee-henri-iv",
+    "institution": "Lycée Henri-IV, Paris",
+    "qualification": "Baccalauréat then classes préparatoires",
+    "field": "Humanities / preparatory classes",
+    "years": "1993-1995",
+    "detail": "He finished secondary school and attended preparatory classes at the prestigious Lycée Henri-IV in Paris.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "universite-paris-nanterre",
+    "institution": "Université Paris-Nanterre (Paris X)",
+    "qualification": "DEA (master's-level degree)",
+    "field": "Philosophy",
+    "years": "1999-2001",
+    "detail": "Macron earned a master's-level degree in philosophy, writing on Machiavelli and Hegel, and assisted philosopher Paul Ricoeur as an editorial aide.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "sciences-po-paris",
+    "institution": "Institut d'études politiques de Paris (Sciences Po)",
+    "qualification": "Master in Public Affairs",
+    "field": "Public affairs",
+    "years": "2001-2004",
+    "detail": "He obtained a master's-level qualification in public affairs at Sciences Po Paris.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "ena-strasbourg",
+    "institution": "École nationale d'administration (ENA), Strasbourg",
+    "qualification": "ENA diploma (senior civil-service training)",
+    "field": "Public administration",
+    "years": "2002-2004",
+    "detail": "Macron trained at the ENA, graduating in the 2004 'Léopold Sédar Senghor' class, which gave him entry to the Inspection générale des finances.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  }
+]

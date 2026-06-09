@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ordonnances-travail-2017",
+    "law_name": "Labour-law reform ordinances ('ordonnances Macron')",
+    "year": "2017",
+    "area": "Labour / employment",
+    "description": "A set of ordinances overhauling the French Labour Code, capping unfair-dismissal payouts, merging workplace employee bodies into a single 'comité social et économique', and giving more room to company-level bargaining.",
+    "significance": "First major reform of Macron's presidency, aimed at making the labour market more flexible; strongly contested by unions.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/bilan-du-quinquennat-macron-les-principales-reformes-a-retenir-190037",
+      "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_d'Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "isf-ifi-flat-tax-2018",
+    "law_name": "Replacement of the wealth tax (ISF to IFI) and flat tax (PFU)",
+    "year": "2018",
+    "area": "Taxation",
+    "description": "The 2018 budget replaced the broad wealth tax (ISF) with a narrower real-estate wealth tax (IFI) and introduced a 30% single flat-rate levy (prélèvement forfaitaire unique) on capital income.",
+    "significance": "Emblematic and divisive pro-investment tax reform; critics dubbed Macron 'president of the rich', supporters cited capital attraction.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/bilan-du-quinquennat-macron-les-principales-reformes-a-retenir-190037",
+      "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_d'Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "reforme-sncf-2018",
+    "law_name": "SNCF railway reform",
+    "year": "2018",
+    "area": "Public services / transport",
+    "description": "The 2018 'nouveau pacte ferroviaire' ended the special 'cheminot' employment status for new SNCF hires and opened the rail sector to competition, transforming SNCF into a joint-stock company.",
+    "significance": "A landmark structural reform of a historic public enterprise, met with extended strikes.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/bilan-du-quinquennat-macron-les-principales-reformes-a-retenir-190037"
+    ]
+  },
+  {
+    "id": "loi-pacte-2019",
+    "law_name": "PACTE law (Action Plan for Business Growth and Transformation)",
+    "year": "2019",
+    "area": "Economy / business",
+    "description": "A wide-ranging law simplifying rules for business creation and growth, easing thresholds, reforming employee savings, and enabling some privatisations.",
+    "significance": "Flagship business-friendly reform of the first term.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/bilan-du-quinquennat-macron-les-principales-reformes-a-retenir-190037",
+      "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_d'Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "loi-separatisme-2021",
+    "law_name": "Law reinforcing respect for the principles of the Republic ('séparatisme' law)",
+    "year": "2021",
+    "area": "Security / secularism",
+    "description": "A law strengthening oversight of associations and places of worship, tightening rules on home schooling, and creating offences aimed at countering 'radical separatism' and protecting laïcité.",
+    "significance": "Central to Macron's response to Islamist radicalisation; criticised by some as restricting civil liberties.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_d'Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "reforme-retraites-2023",
+    "law_name": "2023 pension reform",
+    "year": "2023",
+    "area": "Pensions / social",
+    "description": "Reform raising the legal retirement age from 62 to 64 and accelerating the rise in required contribution years, adopted via Article 49.3 without a final Assembly vote.",
+    "significance": "The most contested reform of the second term, triggering one of the longest recent protest movements; core provisions upheld by the Constitutional Council. (Overlaps with the polemics dataset.)",
+    "source_url": [
+      "https://www.linfodurable.fr/de-la-reindustrialisation-la-reforme-des-retraites-les-grands-axes-economiques-du-septennat-macron",
+      "https://en.wikipedia.org/wiki/2023_French_pension_reform_strikes"
+    ]
+  },
+  {
+    "id": "loi-immigration-2024",
+    "law_name": "Immigration law of 26 January 2024",
+    "year": "2024",
+    "area": "Immigration",
+    "description": "A law tightening immigration rules (residence, family reunification, asylum processing); parts were struck down by the Constitutional Council before promulgation.",
+    "significance": "Highly contested; passed with votes from the far-right Rassemblement National, prompting debate within Macron's own camp.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_d'Emmanuel_Macron",
+      "https://www.publicsenat.fr/actualites/non-classe/bilan-du-quinquennat-macron-les-principales-reformes-a-retenir-190037"
+    ]
+  }
+]

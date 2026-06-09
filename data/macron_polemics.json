@@ -1,0 +1,154 @@
+[
+  {
+    "id": "benalla-affair",
+    "title": "Benalla affair",
+    "period": "2018-2024",
+    "category": "ethics",
+    "description": "Alexandre Benalla, a senior Élysée security aide to President Macron, was filmed on 1 May 2018 manhandling protesters while wearing police insignia he was not entitled to use. The revelations by Le Monde triggered a major political crisis over the Élysée's handling of the matter; Benalla was suspended, then dismissed. The controversy centred on the presidency's response rather than on direct wrongdoing by Macron himself.",
+    "status": "resolved",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Benalla was an Élysée employee, not a serving police officer, when he was filmed striking demonstrators on May Day 2018.",
+      "He was convicted; the Paris Court of Appeal upheld a three-year sentence (one year firm, the rest suspended) for offences including violence, unlawful use of police insignia and fraudulent use of diplomatic passports.",
+      "Parliamentary inquiries examined the Élysée's chain of command and its delayed disciplinary response.",
+      "Macron was not personally prosecuted; criticism focused on the presidency's management of the case."
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benalla_affair",
+      "https://www.politiquematin.fr/cour-appel-condamnation-alexandre-benalla-3ans"
+    ]
+  },
+  {
+    "id": "mckinsey-consulting-affair",
+    "title": "McKinsey / consulting-firms affair",
+    "period": "2022-present",
+    "category": "governance",
+    "description": "A March 2022 Senate report criticised the French state's growing reliance on private consulting firms, highlighting McKinsey and noting it paid little or no corporate income tax in France for several years. Prosecutors subsequently opened investigations into the firm's tax arrangements, the award of public contracts, and the role of consultants in Macron's 2017 and 2022 campaigns. As of late 2025 the judicial investigations remain open.",
+    "status": "ongoing",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "A Senate commission described the use of consulting firms as a 'tentacular phenomenon' and flagged McKinsey's low tax payments in France.",
+      "The Parquet national financier (PNF) opened probes into aggravated tax-fraud laundering, favouritism in public-procurement awards, and campaign-accounting irregularities.",
+      "Searches of McKinsey continued into November 2025 under investigating magistrates.",
+      "Macron has not been charged; as sitting president he benefits from immunity under Article 67 of the Constitution. The investigations target processes and the firm, not a proven offence by Macron."
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/institutions/une-nouvelle-enquete-sur-le-cabinet-mckinsey-et-ses-liens-avec-emmanuel-macron-en-echo-aux-travaux-du-senat",
+      "https://www.france24.com/fr/france/20221125-%C3%A9lections-pr%C3%A9sidentielles-des-juges-d-instruction-enqu%C3%AAtent-sur-le-r%C3%B4le-des-cabinets-de-conseil"
+    ]
+  },
+  {
+    "id": "gilets-jaunes-handling",
+    "title": "Handling of the 'Gilets jaunes' (Yellow Vests) protests",
+    "period": "2018-2019",
+    "category": "social",
+    "description": "From late 2018, a fuel-tax increase sparked the 'Gilets jaunes' movement, which broadened into a wider protest against the cost of living and Macron's government. The government's response combined economic concessions (the tax was scrapped and a multi-billion-euro package announced) with a robust policing posture that drew criticism, including from human-rights bodies, over injuries linked to crowd-control weapons.",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "The protests were triggered by a planned carbon/fuel tax, which the government ultimately cancelled.",
+      "Macron announced economic measures worth roughly €10 billion and launched a 'Grand Débat National' consultation.",
+      "Policing methods, including the use of LBD launchers, drew criticism from the Defenseur des droits and international rights organisations over serious injuries.",
+      "The episode is widely seen as a defining crisis of Macron's first term; assessments of the response remain politically contested."
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "pension-reform-49-3",
+    "title": "2023 pension reform and use of Article 49.3",
+    "period": "2023",
+    "category": "governance",
+    "description": "Macron's government raised the legal retirement age from 62 to 64. Facing no assured majority, Prime Minister Élisabeth Borne pushed the bill through without a final National Assembly vote by invoking Article 49.3 of the Constitution. The move was legal but politically explosive, triggering months of mass strikes and protests and motions of no confidence that the government narrowly survived.",
+    "status": "resolved",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "The reform raised the minimum retirement age from 62 to 64.",
+      "The government used Article 49.3 to adopt the law without a final Assembly vote, a constitutional but contested tool.",
+      "A no-confidence motion failed by only nine votes in March 2023.",
+      "The Conseil constitutionnel validated the core of the law; critics argued the process damaged democratic legitimacy."
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2023_French_pension_reform_strikes",
+      "https://www.britannica.com/biography/Emmanuel-Macron"
+    ]
+  },
+  {
+    "id": "2024-dissolution",
+    "title": "2024 dissolution of the National Assembly",
+    "period": "2024",
+    "category": "governance",
+    "description": "After his alliance was heavily defeated by the far-right Rassemblement National in the June 2024 European elections, Macron unexpectedly dissolved the National Assembly and called snap legislative elections. The 30 June and 7 July votes produced a hung parliament with no majority - a first under the Fifth Republic - leaving Macron's camp second behind a left-wing alliance and forcing a period of unstable, shifting governments.",
+    "status": "political",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Macron announced the dissolution on 9 June 2024, the evening of the European-election results.",
+      "The snap elections (30 June, 7 July 2024) gave the Nouveau Front populaire 178 seats, Macron's camp around 150 and the Rassemblement National 141, with no absolute majority.",
+      "Turnout reached 66.6%, the highest for legislative elections since 1997.",
+      "The result is widely characterised as a political gamble that weakened the presidential camp and ushered in governmental instability."
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/actualite/dissolution-de-lassemblee-nationale",
+      "https://www.ina.fr/ina-eclaire-actu/9-juin-2024-emmanuel-macron-dissolution-assemblee-nationale"
+    ]
+  },
+  {
+    "id": "uber-files-lobbying",
+    "title": "Uber Files (lobbying as Economy Minister)",
+    "period": "2014-2016 (revealed 2022)",
+    "category": "governance",
+    "description": "Leaked internal Uber documents published in July 2022 by the International Consortium of Investigative Journalists and Le Monde indicated that, as Economy Minister in 2014-2016, Macron had repeated contacts with Uber and supported easing regulation of the VTC (private-hire car) sector while the company sought to expand in France. Critics described undisclosed lobbying; Macron's office said he had simply done his job promoting business and jobs. No criminal proceedings were opened against him.",
+    "status": "no_charges",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "The leak comprised about 124,000 documents shared with the Guardian, ICIJ and partner outlets, published from 10 July 2022.",
+      "Records showed meetings and exchanges between Macron and Uber executives, including Travis Kalanick, while he was minister.",
+      "Reporting alleged Macron favoured loosening VTC rules and advised the company on its dealings with regulators and lawmakers.",
+      "Macron's entourage defended the contacts as legitimate economic policy; no charges were brought against Macron over the matter."
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/infos/societe/la-cellule-investigation-de-radio-france-devoile-les-coulisses-d-un-deal-entre-emmanuel-macron-et-1657469108",
+      "https://lcp.fr/actualites/uber-files-mark-macgann-plaide-pour-un-vrai-cadre-reglementaire-face-au-lobbying-174393"
+    ]
+  },
+  {
+    "id": "alstom-general-electric-sale",
+    "title": "Sale of Alstom's energy division to General Electric",
+    "period": "2014-2015",
+    "category": "governance",
+    "description": "In 2014 the French industrial group Alstom agreed to sell its energy business to America's General Electric. The deal was begun under Economy Minister Arnaud Montebourg, who opposed it, and was finalised after Macron succeeded him in August 2014. Critics, including Montebourg and some lawmakers, later argued the sale weakened French industrial and nuclear sovereignty; defenders said it secured the company. The matter has been the subject of parliamentary scrutiny.",
+    "status": "political",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "GE's acquisition of Alstom Energy, announced in 2014, transferred assets including the Belfort-built Arabelle turbines used in French nuclear plants.",
+      "Montebourg had explored a Siemens alternative and temporary nationalisation before leaving the government in August 2014.",
+      "Macron finalised the transaction as Economy Minister; he later expressed regret about aspects of how French interests were protected.",
+      "The deal has been examined by parliamentary inquiries over sovereignty concerns; characterisations of responsibility remain politically contested."
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Affaire_Alstom",
+      "https://lcp.fr/la-politique-en-video/affaire-alstom-montebourg-degaine-tout-va-et-cible-macron"
+    ]
+  },
+  {
+    "id": "verbal-controversies-macronades",
+    "title": "Verbal controversies ('macronades')",
+    "period": "2017-present",
+    "category": "social",
+    "description": "Across both terms Macron has been criticised for blunt or dismissive remarks that opponents framed as contemptuous of ordinary citizens. Notable examples include telling an unemployed gardener he could 'cross the street' to find work, references to 'people who are nothing', and a January 2022 statement that he wanted to 'piss off' (emmerder) the unvaccinated during the Covid-19 vaccine-pass debate. Supporters call him direct; critics call the remarks elitist.",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "In 2018 Macron told a young jobseeker he need only 'cross the street' to find work.",
+      "He referred to 'gens qui ne sont rien' ('people who are nothing') and warned he would yield to neither the 'fainéants' (lazy) nor cynics.",
+      "In a January 2022 Le Parisien interview he said he wanted to 'emmerder' the unvaccinated, during debate over the vaccine pass.",
+      "These remarks are well documented in French media; their interpretation (frankness vs. contempt) is contested, and they are matters of political commentary, not legal proceedings."
+    ],
+    "source_url": [
+      "https://www.lalibre.be/international/europe/elections-france/2022/04/05/je-nai-jamais-meprise-les-francais-macron-revient-sur-ses-propos-polemiques-XPPWJI7Z7NFCJCFSFSQI4A5JRM/",
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    ]
+  }
+]

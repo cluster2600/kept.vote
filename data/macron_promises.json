@@ -1,0 +1,3005 @@
+[
+  {
+    "id": "corporate-tax-25",
+    "title": "Cut corporate tax from 33.3% to 25%",
+    "description": "Macron pledged in 2017 to gradually lower France's standard corporate income tax (impot sur les societes) from 33.33% to 25% to improve competitiveness.",
+    "date_made": "2017-03-02",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.98,
+    "reasoning": "Enacted via the 2018 Finance Act (loi n 2017-1837, art. 84) with a phased trajectory (28% in 2020, 26.5% in 2021), reaching 25% for fiscal years opening from 1 Jan 2022. The schedule was adjusted to fund Gilets Jaunes measures but the 25% target was maintained.",
+    "key_evidence": [
+      "BOFiP confirms art. 84 of the 2018 Finance Act set the standard rate to fall progressively to 25% in 2022",
+      "Rate path: 33.33% (2017) -> 28% (2020) -> 26.5% (2021) -> 25% (2022)",
+      "Estimated cost of the cut ~EUR 11 billion over the term"
+    ],
+    "source_url": [
+      "https://bofip.impots.gouv.fr/bofip/11417-PGP.html/identifiant=ACTU-2018-00115",
+      "https://www.legifiscal.fr/actualites-fiscales/3027-is-taux-normal-25-2022.html"
+    ]
+  },
+  {
+    "id": "taxe-habitation-abolition",
+    "title": "Abolish the taxe d'habitation on primary residences",
+    "description": "Macron promised in 2017 to phase out the local residence tax (taxe d'habitation) on main homes for all households.",
+    "date_made": "2017-03-02",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.97,
+    "reasoning": "Phased out from 2018; fully abolished for all primary residences from 1 Jan 2023 regardless of income. About 24.4 million households benefit (avg ~EUR 723/yr). Note: the tax remains in force on second homes (THRS) and vacant dwellings, with municipal surcharges of 5-60%.",
+    "key_evidence": [
+      "Since 1 Jan 2023 no household pays taxe d'habitation on its primary residence (Bercy data ~24.4M households)",
+      "Second homes and vacant properties remain taxed; many municipalities apply a surtaxe",
+      "Progressive exemption ran 2018-2023"
+    ],
+    "source_url": [
+      "https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mes-impots-locaux/la-taxe-dhabitation-sur-les-residences-secondaires-comment-ca-marche",
+      "https://www.toutsurmesfinances.com/impots/suppression-de-la-taxe-d-habitation-exoneration-par-etapes.html"
+    ]
+  },
+  {
+    "id": "isf-to-ifi",
+    "title": "Replace wealth tax (ISF) with real-estate-only IFI",
+    "description": "Macron pledged to abolish the broad wealth tax (ISF) and replace it with the IFI, which taxes only real-estate assets above EUR 1.3M, to encourage productive investment.",
+    "date_made": "2017-03-02",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.96,
+    "reasoning": "Enacted in the 2018 Finance Act: ISF replaced by IFI (real-estate wealth only, threshold EUR 1.3M, 30% abatement on main residence). Liable households fell from ~358,000 (ISF 2017) to ~133,000 (IFI 2018). Distributional impact remains contested.",
+    "key_evidence": [
+      "ISF abolished and replaced by IFI from 2018; only real-estate wealth >EUR 1.3M taxed",
+      "Households liable fell from ~358,000 to ~133,000",
+      "France Strategie: dividends rose >60% (EUR 14.3bn to 23.2bn) 2017->2018 after the reform"
+    ],
+    "source_url": [
+      "https://www.moneyvox.fr/impot/actualites/87192/impots-macron-a-t-il-eu-raison-de-supprimer-isf",
+      "https://lecahiereconomique.com/hs1-six-ans-apres-quel-bilan-tirer-de-la-suppression-de-lisf-et-de-lintroduction-de-la-flat-tax/"
+    ]
+  },
+  {
+    "id": "flat-tax-pfu",
+    "title": "Introduce 30% flat tax (PFU) on capital income",
+    "description": "Macron promised a single flat tax (prelevement forfaitaire unique) of 30% on capital income such as dividends, interest and capital gains.",
+    "date_made": "2017-03-02",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.96,
+    "reasoning": "The 30% PFU (12.8% income tax + 17.2% social levies) was created in the 2018 Finance Act and applies to capital income. It remains in place as of 2026.",
+    "key_evidence": [
+      "PFU flat rate of 30% on capital income enacted in 2018",
+      "Composed of 12.8% income tax plus 17.2% social contributions",
+      "Studies link the reform to a sharp rise in dividend distributions"
+    ],
+    "source_url": [
+      "https://www.2isf.org/fiscalite-du-capital-la-progressivite-contre-la-flat-tax/",
+      "https://www.moneyvox.fr/impot/actualites/87192/impots-macron-a-t-il-eu-raison-de-supprimer-isf"
+    ]
+  },
+  {
+    "id": "cice-to-charge-cuts",
+    "title": "Convert CICE tax credit into permanent payroll charge cuts",
+    "description": "Macron pledged to replace the CICE competitiveness tax credit with a permanent reduction in employer social contributions.",
+    "date_made": "2017-03-02",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "From 1 Jan 2019 the CICE was converted into a permanent 6-point cut in employer health-insurance contributions for wages up to 2.5x SMIC, plus heavier relief at SMIC level. 2019 was a double-benefit transition year (~EUR 20bn cash-flow gain).",
+    "key_evidence": [
+      "Employer health contribution cut from 13% to 7% for wages up to 2.5x SMIC from 2019",
+      "Up to ~10 points of relief at SMIC level, 6 points between 1.6 and 2.5x SMIC",
+      "France Strategie estimated a ~EUR 20bn business cash-flow gain in 2019"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/reduire-cotisations-sociales-des-employeurs-et-des-salaries-48822/",
+      "https://payfit.com/fr/fiches-pratiques/fin-du-cice-et-baisse-des-charges-patronales/"
+    ]
+  },
+  {
+    "id": "overtime-exemption",
+    "title": "Exempt overtime hours from income tax and social contributions",
+    "description": "A 2017 'value of work' pledge, accelerated after the Gilets Jaunes crisis, to remove income tax and employee social contributions on overtime hours so workers keep more of extra hours worked.",
+    "date_made": "2017-03-02",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.92,
+    "reasoning": "Delivered and even brought forward: the employee social-contribution exemption applied from Jan 2019 (advanced after the Yellow Vests), with an income-tax exemption added and a flat employer deduction. Estimated >EUR 400/yr for a SMIC worker; cost ~EUR 2-3.5bn; still in force in 2026.",
+    "key_evidence": [
+      "Decret n 2019-40 (24 Jan 2019) on social-contribution exemption for overtime; application advanced to 1 Jan 2019 after the Yellow Vests",
+      "Income-tax exemption added; measure reinforced Sept 2019",
+      "Estimated +EUR 400/year for a SMIC worker; cost ~EUR 2-3.5bn"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/retablir-lexoneration-des-heures-supplementaires-48836/",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038052425"
+    ]
+  },
+  {
+    "id": "prime-ppv",
+    "title": "Create and perpetuate a tax-free value-sharing bonus (prime Macron / PPV)",
+    "description": "Macron created the tax-and-charge-exempt 'prime exceptionnelle de pouvoir d'achat' (2019), then in 2022 pledged to triple its ceiling and make it permanent as the prime de partage de la valeur (PPV).",
+    "date_made": "2018-12-10",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The PEPA was introduced in 2019 and replaced by the permanent PPV on 1 July 2022 (loi pouvoir d'achat), with exemption ceilings tripled to EUR 3,000 (EUR 6,000 with a profit-sharing accord). In 2022, 5.5 million employees received it (~EUR 4.4bn, avg EUR 789). From 2024 the full income-tax exemption is limited to firms with <50 employees, so the measure persists in reduced form.",
+    "key_evidence": [
+      "PEPA (2019) became the permanent PPV on 1 July 2022",
+      "Exemption ceiling raised to EUR 3,000 / EUR 6,000 (with intin eressement accord)",
+      "2022: 5.5M employees received it; ~EUR 4.4bn total; avg EUR 789",
+      "From 2024 the full income-tax exemption is limited to firms with <50 employees"
+    ],
+    "source_url": [
+      "https://www.economie.gouv.fr/particuliers/vie-en-entreprise/salaries-pouvez-vous-beneficier-de-la-prime-de-partage-de-la-valeur",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35235"
+    ]
+  },
+  {
+    "id": "csg-rollback-retirees",
+    "title": "Cancel the 2018 CSG increase for modest retirees",
+    "description": "After the 1.7-point CSG rise hit pensioners in 2018, Macron pledged in December 2018 to cancel the increase for retirees earning under EUR 2,000/month.",
+    "date_made": "2018-12-10",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The CSG hike was rolled back in 2019 for retirees below the income threshold, benefiting about half of affected pensioners (~5 million reimbursed). Cost ~EUR 1.3bn/yr. This partially reversed an earlier own measure rather than fully cancelling the CSG rise.",
+    "key_evidence": [
+      "1.7-point CSG increase applied Jan 2018; partial rollback enacted for 2019",
+      "~5 million of 16 million retirees reimbursed; ~70% of retirees exempt from the higher rate",
+      "Annual cost ~EUR 1.3 billion"
+    ],
+    "source_url": [
+      "https://www.boursorama.com/patrimoine/actualites/csg-des-retraites-la-hausse-de-la-csg-est-supprimee-en-partie-217d6c4484e37fe57187335942c6a86b",
+      "https://www.europe1.fr/economie/annonces-de-macron-70-des-retraites-ne-paieront-pas-la-hausse-de-la-csg-precise-griveaux-3818423"
+    ]
+  },
+  {
+    "id": "income-tax-cut-2020",
+    "title": "Cut income tax for the middle class (first bracket 14% to 11%)",
+    "description": "Macron pledged a household income-tax cut; the 2020 Finance Act lowered the first taxable bracket rate from 14% to 11%.",
+    "date_made": "2018-12-10",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The 2020 Finance Act delivered a ~EUR 5bn income-tax cut for ~17 million households (avg ~EUR 300), reducing the first bracket from 14% to 11%, effective via withholding from Jan 2020.",
+    "key_evidence": [
+      "First income-tax bracket cut from 14% to 11% (covers ~12M households)",
+      "Total relief ~EUR 5 billion for ~17M households, avg ~EUR 300",
+      "Applied through pay-as-you-earn from January 2020"
+    ],
+    "source_url": [
+      "https://www.economie.gouv.fr/baisse-impot-revenu-2020",
+      "https://www.toutsurmesfinances.com/impots/baisse-dimpot-2020-qui-est-concerne-par-la-baisse-dimpot-voulue-par-macron.html"
+    ]
+  },
+  {
+    "id": "production-tax-cut",
+    "title": "Cut production taxes by EUR 10bn per year",
+    "description": "As part of the 2021 recovery plan, Macron's government pledged to cut local production taxes (CVAE, CFE, industrial property tax) by EUR 10bn annually to support competitiveness.",
+    "date_made": "2020-09-03",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "From 2021 the regional CVAE share was halved (~EUR 7.25bn), industrial property taxes (TFPB/CFE) cut, and the CET cap lowered from 3% to 2%, totaling ~EUR 10bn/yr. The measure was implemented, though a 2025 IPP study found limited macroeconomic effect.",
+    "key_evidence": [
+      "~EUR 10bn/yr production-tax cut from 2021 (CVAE halved, TFPB/CFE reduced, CET cap 3%->2%)",
+      "Mainly benefited large industrial firms",
+      "2025 IPP evaluation: no significant macroeconomic effect"
+    ],
+    "source_url": [
+      "https://www.legifiscal.fr/actualites-fiscales/2538-plan-relance-baisse-impots-production.html",
+      "https://www.banquedesterritoires.fr/la-baisse-des-impots-de-production-peu-visible-sur-leconomie-selon-lipp"
+    ]
+  },
+  {
+    "id": "abolish-tv-licence",
+    "title": "Abolish the TV licence fee (contribution a l'audiovisuel public)",
+    "description": "In his 2022 re-election campaign Macron pledged to abolish the EUR 138 annual TV licence fee to boost household purchasing power.",
+    "date_made": "2022-03-17",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "The amending finance law published 17 Aug 2022 abolished the contribution a l'audiovisuel public immediately, saving ~EUR 138/yr for ~27 million households and ~EUR 100M for businesses (hotels, cafes, restaurants).",
+    "key_evidence": [
+      "Abolished by the 2022 amending finance law (Journal officiel 17 Aug 2022)",
+      "~EUR 138/yr saving for ~27 million households",
+      "Also removed for professionals (~EUR 100M relief for HCR sector)"
+    ],
+    "source_url": [
+      "https://www.francetransactions.com/actus/actualites-fiscales/suppression-redevance-tv-contribution-audiovisuel-public-2022.html",
+      "https://www.toutsurmesfinances.com/impots/contribution-a-l-audiovisuel-public-tout-savoir-sur-l-ex-redevance-tv.html"
+    ]
+  },
+  {
+    "id": "abolish-cvae",
+    "title": "Abolish the CVAE business value-added tax",
+    "description": "In 2022 Macron pledged to fully abolish the CVAE (cotisation sur la valeur ajoutee des entreprises), a ~EUR 7bn production tax, to support industry.",
+    "date_made": "2022-03-17",
+    "category": "Economy & Taxes",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "Abolition began (rate halved 2021, further reductions) but full suppression was repeatedly postponed for budget reasons: from 2024 to 2027 and, in the 2025 Finance Act, to 2030, with a complementary contribution added in 2025. Partly delivered, not completed.",
+    "key_evidence": [
+      "2022 pledge to fully suppress CVAE (~EUR 7bn cost; up to ~EUR 13.7bn with local compensation)",
+      "Full abolition delayed from 2024 to 2027, then to 2030 by the 2025 Finance Act",
+      "Rate freeze and complementary contribution introduced for 2025; reductions resume 2028-2029"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/presidentielle-2022/emmanuel-macron/supprimer-la-cvae/",
+      "https://www.legifiscal.fr/actualites-fiscales/3898-plf-2025-gel-taux-cvae-report-suppression-definitive-2030.html"
+    ]
+  },
+  {
+    "id": "full-employment-2027",
+    "title": "Achieve full employment (unemployment to 5% by 2027)",
+    "description": "Flagship second-term economic pledge to bring France to 'full employment', defined as an unemployment rate near 5%, by the end of the term in 2027.",
+    "date_made": "2022-03-17",
+    "category": "Economy & Taxes",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "Unemployment rose rather than fell toward 5%: INSEE shows 7.7% (Q3 2025), 7.9% (Q4 2025) and 8.1% (Q1 2026), the highest in five years. On 17 May 2026 the Economy Minister Roland Lescure publicly conceded the 5% goal is no longer attainable, effectively abandoning the pledge.",
+    "key_evidence": [
+      "INSEE: unemployment 7.7% Q3 2025, 7.9% Q4 2025, 8.1% Q1 2026 (highest in five years)",
+      "Economy Minister Roland Lescure conceded on 17 May 2026 that 5% is no longer attainable",
+      "Target was ~5% by 2027"
+    ],
+    "source_url": [
+      "https://actu.orange.fr/france/chomage-pour-le-ministre-de-l-economie-le-plein-emploi-promis-par-emmanuel-macron-n-est-plus-atteignable-magic-CNT000002poKPq.html",
+      "https://www.economiematin.fr/plein-emploi-gouvernement-renonce-malgre-promesse-macron"
+    ]
+  },
+  {
+    "id": "france-2030-reindustrialization",
+    "title": "Reindustrialize France via the France 2030 investment plan",
+    "description": "Macron launched France 2030, a EUR 54bn investment plan (announced Oct 2021) to reindustrialize the country and back innovative and green technologies.",
+    "date_made": "2021-10-12",
+    "category": "Economy & Taxes",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "Substantial implementation: ~EUR 38bn committed over three years, ~155,000 jobs, 7,500 projects, and 14 of 16 performance indicators on or ahead of track per the April 2025 government review. But France recorded a net loss of 63 factories in 2025 (Trendeo) and reindustrialization has slowed, so the broader goal is not yet achieved.",
+    "key_evidence": [
+      "EUR 54bn plan; ~EUR 38bn committed in three years; ~155,000 jobs and 7,500 projects",
+      "April 2025 review: 14 of 16 indicators on or ahead of trajectory",
+      "Net loss of 63 factories in France in 2025 (Trendeo); reindustrialization slowing"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/actualite/bilan-de-france-2030-ce-quil-faut-retenir",
+      "https://www.veilledepresse.com/entreprise/5378-reindustrialisation-pourquoi-la-france-perd-des-usines-malgre-des-investissements-records"
+    ]
+  },
+  {
+    "id": "deficit-below-3",
+    "title": "Bring the public deficit below 3% of GDP",
+    "description": "Macron committed to respecting the EU rule of keeping the public deficit below 3% of GDP and returning to it during his terms.",
+    "date_made": "2017-03-02",
+    "category": "Public Finances & Debt",
+    "status": "broken",
+    "confidence_score": 0.95,
+    "reasoning": "The realized 2025 deficit was 5.1% of GDP (EUR 152.5bn) per INSEE, down from 5.8% in 2024 but still far above 3%. A ~6.2% figure circulating is a 2027 risk PROJECTION (DG Tresor / press scenarios), NOT a realized outcome. France briefly approached 3% pre-Covid (~2.3% in 2018-2019) but never sustainably consolidated below it.",
+    "key_evidence": [
+      "INSEE: 2025 deficit 5.1% of GDP (EUR 152.5bn), after 5.8% (2024) and 5.4% (2023)",
+      "Pre-Covid low of ~2.3% (2018-2019) was not sustained; deficit ballooned after 2020",
+      "The ~6.2% figure is a 2027 risk PROJECTION (DG Tresor scenario), not realized; 2026 target is 5.0%"
+    ],
+    "source_url": [
+      "https://www.insee.fr/fr/statistiques/8956575",
+      "https://www.economie.gouv.fr/actualites/finances-publiques-un-deficit-public-en-amelioration-en-2025"
+    ]
+  },
+  {
+    "id": "reduce-public-debt",
+    "title": "Reduce the public debt ratio",
+    "description": "Macron pledged to put public debt on a downward trajectory as a share of GDP over his presidency.",
+    "date_made": "2017-03-02",
+    "category": "Public Finances & Debt",
+    "status": "broken",
+    "confidence_score": 0.92,
+    "reasoning": "Public debt rose to 115.6% of GDP at end-2025 (INSEE), up from 112.6% at end-2024, and peaked at 117.4% in Q3 2025. Debt was ~98% of GDP in 2017, so the ratio rose materially over the period (partly Covid-driven). The trajectory is upward, not downward.",
+    "key_evidence": [
+      "INSEE: debt 115.6% of GDP at end-2025, up from 112.6% at end-2024",
+      "Peaked at 117.4% of GDP in Q3 2025",
+      "Debt was ~98% of GDP in 2017; ratio has risen over the term"
+    ],
+    "source_url": [
+      "https://www.insee.fr/fr/statistiques/8955019",
+      "https://www.insee.fr/fr/statistiques/8686951"
+    ]
+  },
+  {
+    "id": "cut-120000-civil-servants",
+    "title": "Cut 120,000 public-sector jobs over five years",
+    "description": "In 2017 Macron pledged to eliminate 120,000 civil-service posts (50,000 state, 70,000 local) over the term via attrition, to reduce public spending.",
+    "date_made": "2017-03-02",
+    "category": "Public Finances & Debt",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "The target was abandoned: the 50,000 state target was cut to 15,000 in 2019, and the term ended with roughly stable headcounts. Total public-agent FTEs actually rose (~+80,000), partly via more contract workers. Promise tracker LuiPresident classifies it as not kept.",
+    "key_evidence": [
+      "Target lowered (state 50,000 -> 15,000 in 2019), then effectively dropped after Gilets Jaunes and Covid",
+      "Headcount roughly stable to rising 2017-2022; contract staff grew sharply",
+      "LuiPresident.fr classifies the 120,000-cut pledge as 'promesse non tenue'"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/supprimer-120-000-postes-dagents-publics-sur-quinquennat-48843/",
+      "https://www.aefinfo.fr/depeche/670382-de-120-000-suppressions-de-postes-de-fonctionnaires-a-une-stabilite-des-effectifs-cinq-ans-de-remise-en-question"
+    ]
+  },
+  {
+    "id": "universal-points-pension",
+    "title": "Create a universal points-based pension system (regime universel)",
+    "description": "Macron's flagship 2017 pledge to merge France's 42 special pension regimes into a single universal points-based system where 'one euro contributed gives the same rights for all'.",
+    "date_made": "2017-03-02",
+    "category": "Pensions & Labor",
+    "status": "broken",
+    "confidence_score": 0.92,
+    "reasoning": "The universal points-system bill was suspended in March 2020 at the start of COVID and never revived. Macron explicitly said in 2021 the reform 'cannot go ahead as originally envisaged'. The 2023 reform was a parametric (age) reform, not the universal system promised.",
+    "key_evidence": [
+      "2019 Delevoye bill for a universal points system shelved in March 2020 due to COVID",
+      "Macron, June 2021: the reform as originally conceived cannot proceed",
+      "The 2023 reform replaced it with a parametric age increase, not a universal regime",
+      "Special regimes were partly closed in 2023 but no universal points system created"
+    ],
+    "source_url": [
+      "https://www.thelocal.fr/20191207/frances-pension-system-how-it-works-and-what-does-macron-want-to-change",
+      "https://www.globalbankingandfinance.com/frances-pension-reform-cannot-go-ahead-as-planned-macron/"
+    ]
+  },
+  {
+    "id": "retirement-age-64",
+    "title": "Raise the legal retirement age from 62 to 64",
+    "description": "Re-election pledge to push the legal retirement age progressively to 64 (3-month increments per generation) to balance the pension system; enacted in the 2023 reform.",
+    "date_made": "2022-03-17",
+    "category": "Pensions & Labor",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The promise was fulfilled in law: the reform of 14 April 2023 (passed via art. 49.3) raised the legal age progressively toward 64. IMPORTANT CAVEAT as of June 2026: implementation is currently SUSPENDED. PM Lecornu announced suspension on 14 Oct 2025, the Assemblee nationale voted it on 16 Dec 2025, and LFSS 2026 freezes the age at 62y9m from 1 Sept 2026 until Jan 2028, so the 64 target only bites from the 1969 generation absent further legislation. Status retained as 'kept' (the 2023 enactment) with lower confidence given the live suspension.",
+    "key_evidence": [
+      "Loi du 14 avril 2023 raised the legal age progressively to 64 (promise enacted)",
+      "Lecornu announced suspension on 14 Oct 2025; Assemblee voted suspension 16 Dec 2025",
+      "LFSS 2026 freezes age at 62y9m from 1 Sept 2026 to Jan 2028; 64 reached only from 1969 generation unless changed"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/loi/287916-loi-reforme-des-retraites-2023-plfss-rectificatif",
+      "https://www.moneyvox.fr/retraite/actualites/106564/retraites-voici-le-nouveau-calendrier-de-age-legal-de-depart-avec-la-suspension-adoptee"
+    ]
+  },
+  {
+    "id": "minimum-pension-85-smic",
+    "title": "Guarantee a minimum pension of ~EUR 1,200/month (85% of net SMIC) for full careers",
+    "description": "Pledge that a full-career worker at minimum wage would receive a pension of at least 85% of net SMIC (announced as ~EUR 1,100 in 2017, raised to EUR 1,200 for the 2023 reform).",
+    "date_made": "2022-03-17",
+    "category": "Pensions & Labor",
+    "status": "compromise",
+    "confidence_score": 0.78,
+    "reasoning": "The 85%-of-SMIC minimum (Mico majore) was implemented in two waves (Sept 2023, Sept 2024). But the EUR 1,200 figure applies only to complete careers at SMIC; in practice most beneficiaries received far less (prorated by trimesters). Only ~20,000 of 500,000 existing retirees got the full EUR 100 uplift; average uplift was EUR 30-50/month.",
+    "key_evidence": [
+      "Minimum contributif raised to 85% of net SMIC from 1 Sept 2023",
+      "Force Ouvriere: revalorisation 'far from the promised EUR 100' for all full SMIC careers",
+      "Only ~20,000 of 500,000 existing retirees received the maximum EUR 100; average ~EUR 50",
+      "185,000 new 2024 retirees got avg ~EUR 30/month; full Mico requires >120 quarters contributed"
+    ],
+    "source_url": [
+      "https://www.service-public.gouv.fr/particuliers/actualites/A17661",
+      "https://www.force-ouvriere.fr/petites-retraites-une-revalorisation-loin-des-100-euros-promis"
+    ]
+  },
+  {
+    "id": "index-pensions-inflation",
+    "title": "Index pensions to inflation (protect retirees' purchasing power)",
+    "description": "Repeated commitment, restated by Macron in June 2024, that pensions would remain 'indexed to inflation' and that retirees' purchasing power would not be an 'adjustment variable'.",
+    "date_made": "2024-06-15",
+    "category": "Pensions & Labor",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "Pensions were indexed to inflation in Jan 2025 after the original PLFSS 2025 plan to delay revaluation to July 2025 was dropped (partly due to the Dec 2024 government censure). Macron upheld the pledge for 2025, but the government repeatedly floated under-indexation/freezes, so the commitment has been contested and only partially honored.",
+    "key_evidence": [
+      "Macron, June 2024: 'pensions will be properly indexed to inflation... not an adjustment variable'",
+      "Original PLFSS 2025 (Oct 2024) proposed delaying revaluation from 1 Jan to 1 Jul 2025",
+      "Pensions ultimately indexed Jan 2025; debate over future under-indexation persists"
+    ],
+    "source_url": [
+      "https://www.previssima.fr/actualite/retraites-bonne-nouvelle-les-pensions-seront-bien-indexees-sur-linflation-en-2025.html",
+      "https://www.europe1.fr/economie/budget-lindexation-des-retraites-sur-linflation-reportee-au-1er-juillet-2025-4270704"
+    ]
+  },
+  {
+    "id": "cumul-emploi-retraite",
+    "title": "Improve cumul emploi-retraite (allow new pension rights when working in retirement)",
+    "description": "2023-reform commitment to let retirees who resume work after liquidating their full-rate pension accrue new pension rights, making cumul emploi-retraite 'creator of rights'.",
+    "date_made": "2022-03-17",
+    "category": "Pensions & Labor",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Implemented via the 2023 reform: since 1 Sept 2023, retirees meeting full-rate conditions who have liquidated all pensions and resume activity acquire new pension rights on contributions made since Jan 2023. This is a concrete delivered measure.",
+    "key_evidence": [
+      "From 1 Sept 2023, cumul integral creates new pension rights for full-rate retirees",
+      "Requires liquidation of all basic and complementary pensions",
+      "Enacted in loi du 14 avril 2023 (reforme des retraites)"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/loi/287916-loi-reforme-des-retraites-2023-plfss-rectificatif",
+      "https://retraitesdeletat.gouv.fr/retraite/la-reprise-dactivite/le-cumul-emploi-et-retraite"
+    ]
+  },
+  {
+    "id": "carrieres-longues",
+    "title": "Preserve early retirement for long careers (carrieres longues)",
+    "description": "Commitment that people who started working very young could still retire early; the 2023 reform set a 4-tier 'borne' system (16/18/20/21) capping long-career departures below 64.",
+    "date_made": "2022-03-17",
+    "category": "Pensions & Labor",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The 2023 reform created/expanded four entry-age tiers letting those who started before 16/18/20/21 retire at 58/60/62/63. The mechanism was delivered, though it was tightened relative to the prior system as the legal age rose. With the 2026 suspension, these thresholds are also temporarily eased.",
+    "key_evidence": [
+      "Carrieres longues tiers: 58 (started <16), 60 (<18), 62 (<20), 63 (<21)",
+      "Enacted in 2023 reform after parliamentary amendments expanded the 21-start tier",
+      "Allows departure before the legal 64 age for early starters"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/loi/287916-loi-reforme-des-retraites-2023-plfss-rectificatif",
+      "https://www.juritravail.com/Actualite/reforme-retraite-2023-en-france-les-annonces-du-gouvernement-macron/Id/264344"
+    ]
+  },
+  {
+    "id": "labor-ordonnances-bareme",
+    "title": "Labor-law reform by ordonnances (2017): cap on wrongful-dismissal damages",
+    "description": "2017 pledge to reform the Labor Code by ordonnance, including a mandatory scale ('bareme Macron') capping severance damages awarded by industrial tribunals (prud'hommes).",
+    "date_made": "2017-03-02",
+    "category": "Pensions & Labor",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Delivered immediately: Ordonnance 2017-1387 of 22 Sept 2017 set a binding floor/ceiling scale (0.5-20 months' salary by seniority) for damages in unfair-dismissal cases, applicable to dismissals after 23 Sept 2017. The Cour de cassation validated the scale's legality in 2022.",
+    "key_evidence": [
+      "Ordonnance n 2017-1387 du 22 sept 2017 created the binding bareme",
+      "Scale: min 0.5-3 months, max 1-20 months' gross salary by seniority",
+      "Cour de cassation upheld the scale (not contrary to ILO Convention 158) in 2022"
+    ],
+    "source_url": [
+      "https://www.batiactu.com/edito/cour-cassation-valide-bareme-macron-indemnites-prud-64143.php",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035607348"
+    ]
+  },
+  {
+    "id": "cse-merger",
+    "title": "Merge workplace employee bodies into a single Comite Social et Economique (CSE)",
+    "description": "2017 ordonnances pledge to simplify social dialogue by merging the works council (CE), staff delegates (DP) and health/safety committee (CHSCT) into one body, the CSE.",
+    "date_made": "2017-03-02",
+    "category": "Pensions & Labor",
+    "status": "kept",
+    "confidence_score": 0.93,
+    "reasoning": "Delivered via Ordonnance 2017-1386 of 22 Sept 2017; the CSE became mandatory and fully replaced CE/DP/CHSCT by 1 Jan 2020. The official 2021 evaluation found objectives of streamlining met, though coverage of health/safety fell.",
+    "key_evidence": [
+      "Ordonnance n 2017-1386 merged CE, DP and CHSCT into the CSE",
+      "CSE possible from 1 Jan 2018, mandatory by 1 Jan 2020",
+      "2021 evaluation committee: streamlining achieved but elected-member overload"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035607348",
+      "https://axia-consultants.com/2022/02/23/ordonnances-macron-4-ans-apres-quel-bilan-de-la-mise-en-place-des-cse/"
+    ]
+  },
+  {
+    "id": "unemployment-reform-2019",
+    "title": "Reform unemployment insurance and tighten access rules (2019-2021)",
+    "description": "2017 pledge to overhaul assurance chomage; the 2019-2021 reform raised the minimum work period to open rights, changed the benefit-calculation base, cut benefits for high earners, and added a bonus-malus on short contracts.",
+    "date_made": "2017-03-02",
+    "category": "Pensions & Labor",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Fully delivered after COVID/court delays, applied by Dec 2021: minimum contribution raised 4->6 months, new SJR calculation, -30% benefit for high earners from month 7, employer bonus-malus. Unedic's 2025 evaluation found average benefit -18% and unemployment duration -12%.",
+    "key_evidence": [
+      "Minimum contribution period raised from 4 to 6 months",
+      "-30% benefit reduction for high earners from the 7th month",
+      "Bonus-malus on employer contributions for short-contract use",
+      "Unedic evaluation: avg benefit -18% (-EUR 6/day), unemployment duration -12%"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/questions-reponses/271537-9-questions-sur-les-reformes-de-lassurance-chomage-depuis-2019",
+      "https://www.unedic.org/publications/evaluation-de-la-reforme-d-assurance-chomage-2019-2021"
+    ]
+  },
+  {
+    "id": "unemployment-countercyclical",
+    "title": "Introduce counter-cyclical unemployment rules (2023-2025 tightening)",
+    "description": "Second-term commitment to further tighten assurance chomage, modulating benefit duration with the labor market ('contracyclicite') and shortening maximum duration.",
+    "date_made": "2022-09-01",
+    "category": "Pensions & Labor",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Delivered: from Feb 2023 benefit duration cut 25% while unemployment <9%; rules consolidated by 1 April 2025 capping max duration at 18 months for under-55s, with a planned -40% step if unemployment falls below 6.5%. Senior age thresholds shifted +2 years to align with the 2023 pension reform.",
+    "key_evidence": [
+      "Feb 2023: -25% benefit duration while unemployment below 9%",
+      "From 1 April 2025: max duration 18 months (548 days) for under-55s",
+      "Additional -40% step planned if unemployment drops below 6.5%"
+    ],
+    "source_url": [
+      "https://travail-emploi.gouv.fr/le-ministere-en-action/nouvelles-regles-d-assurance-chomage/",
+      "https://www.unedic.org/publications/assurance-chomage-qu-est-ce-qui-change-au-1er-avril"
+    ]
+  },
+  {
+    "id": "one-million-apprentices",
+    "title": "Reach 1 million apprentices / apprenticeship entries per year",
+    "description": "Pledge to massively expand apprenticeship, targeting around 1 million new apprenticeship contracts per year (target horizon 2027).",
+    "date_made": "2022-03-17",
+    "category": "Pensions & Labor",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "Strong progress but target not fully met: new contracts reached ~879,000 in 2024 (vs 306,000 in 2017), and the STOCK of apprentices under contract exceeded 1 million by end-2024. However the goal of 1 million NEW contracts/year is not yet achieved and growth slowed amid budget cuts to apprenticeship aid.",
+    "key_evidence": [
+      "879,000 new apprenticeship contracts in 2024 (vs 306,000 in 2017)",
+      "Stock of apprentices under contract exceeded 1 million end-2024",
+      "DG Tresor (Nov 2025) review: growth slowed; subsidy cuts weigh on numbers"
+    ],
+    "source_url": [
+      "https://www.tresor.economie.gouv.fr/Articles/2025/11/25/l-apprentissage-en-france-quel-bilan-pour-quels-objectifs",
+      "https://diplomeo.com/actualite-apprentissage_objectif_emmanuel_macron"
+    ]
+  },
+  {
+    "id": "rsa-conditionality-france-travail",
+    "title": "Condition RSA on 15-20 hours of weekly activity (France Travail reform)",
+    "description": "2022 pledge to require RSA recipients to perform 15-20 hours of weekly activity (training, immersion, etc.) and to transform Pole emploi into France Travail with automatic registration.",
+    "date_made": "2022-03-17",
+    "category": "Social & Welfare",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Delivered via the loi pour le plein emploi (18 Dec 2023): France Travail replaced Pole emploi, RSA claimants are auto-registered, and the 15-20h activity obligation was piloted (2023-24) then generalized from 1 Jan 2025, with full deployment in 2026. Human-rights concerns were flagged by oversight bodies.",
+    "key_evidence": [
+      "Loi pour le plein emploi du 18 dec 2023; generalisation au 1 Jan 2025",
+      "15-20h weekly activity obligation with suspension-remobilisation sanctions",
+      "Pole emploi became France Travail; automatic registration of RSA claimants"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/parlementaire/rsa-sous-conditions-france-travail-que-contient-le-projet-de-loi-plein-emploi-definitivement-adopte-par-le-parlement",
+      "https://www.service-public.gouv.fr/particuliers/actualites/A17153"
+    ]
+  },
+  {
+    "id": "revenu-universel-activite",
+    "title": "Create a Revenu universel d'activite (RUA) merging social benefits",
+    "description": "2018 commitment to merge several means-tested benefits (RSA, prime d'activite, APL) into a single 'universal activity income' to cut non-take-up and keep work financially rewarding.",
+    "date_made": "2018-09-13",
+    "category": "Social & Welfare",
+    "status": "broken",
+    "confidence_score": 0.78,
+    "reasoning": "Announced 2018 with a bill expected 2020; never enacted. Renamed/reshaped (e.g. 'allocation sociale unique', 'solidarite a la source') and repeatedly delayed, dropping from the parliamentary track before reaching debate. No merged benefit exists as of June 2026.",
+    "key_evidence": [
+      "Announced Sept 2018; bill originally planned for 2020",
+      "Intended merger of RSA, prime d'activite and APL (~EUR 23bn)",
+      "As of 2026 the reform left the parliamentary trajectory without being voted"
+    ],
+    "source_url": [
+      "https://www.politiquematin.fr/allocation-sociale-unique-la-promesse-sociale-de-macron-se-fracasse",
+      "https://www.ifrap.org/emploi-et-politiques-sociales/le-revenu-universel-dactivite-ne-sera-pas-un-revenu-universel"
+    ]
+  },
+  {
+    "id": "dedoublement-cp-ce1",
+    "title": "Cap class sizes at ~12 pupils in CP/CE1 in priority education (REP/REP+)",
+    "description": "Flagship 2017 pledge to split (dedoubler) CP and CE1 classes in REP and REP+ zones, capping them at around 12 pupils to fight inequality in early learning.",
+    "date_made": "2017-03-02",
+    "category": "Education",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Fully deployed from 2017 (CP REP+) and extended to all CP/CE1 in REP/REP+. Average REP+ CP class fell from 21.7 (2015) to ~12.7 (2024). Implementation is complete; only the measured learning impact is contested (modest/mixed effects per IGESR), not the delivery of the promise.",
+    "key_evidence": [
+      "2,200 CP classes in REP+ split from September 2017; rolled out to CE1 then grande section",
+      "Average REP+ CP class size dropped to ~12.7 pupils in 2024 (from 21.7 in 2015)",
+      "Later IGESR/research reviews found modest, mixed effects on attainment"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/politiques-prioritaires/batir-de-nouveaux-progres-et-refonder-nos-services-publics/dedoubler-les-classes-en-education-prioritaire-et-limiter-les-effectifs-a-24-partout-ailleurs-grande-section-cp-ce1",
+      "https://www.lagazettedescommunes.com/795387/bilan-du-quinquennat-les-resultats-en-demi-teinte-du-dedoublement-des-classes-en-rep-et-rep/"
+    ]
+  },
+  {
+    "id": "dedoublement-grande-section",
+    "title": "Extend class-splitting to grande section maternelle in priority zones",
+    "description": "Commitment to extend the dedoublement policy to the grande section of kindergarten in REP/REP+, and to cap GS/CP/CE1 at 24 pupils everywhere else.",
+    "date_made": "2019-09-01",
+    "category": "Education",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Rollout to grande section began in 2020 and by the 2023 school year nearly 75% of GS classes in REP/REP+ were split. The parallel 24-pupil cap outside priority education is also progressively applied. Slightly below full universal coverage of GS, hence not maximal confidence.",
+    "key_evidence": [
+      "Dedoublement extended to grande section starting 2020 (after CP and CE1)",
+      "~75% of GS classes in REP/REP+ split by the 2023 school year",
+      "24-pupil cap for GS/CP/CE1 outside priority education progressively implemented since 2020"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/politiques-prioritaires/batir-de-nouveaux-progres-et-refonder-nos-services-publics/dedoubler-les-classes-en-education-prioritaire-et-limiter-les-effectifs-a-24-partout-ailleurs-grande-section-cp-ce1",
+      "https://www.education.gouv.fr/l-education-prioritaire-3140"
+    ]
+  },
+  {
+    "id": "compulsory-schooling-age-3",
+    "title": "Make schooling compulsory from age 3",
+    "description": "Lower the age of compulsory instruction from 6 to 3, enacted in the 2019 'Ecole de la confiance' law.",
+    "date_made": "2018-03-27",
+    "category": "Education",
+    "status": "kept",
+    "confidence_score": 0.98,
+    "reasoning": "Enacted as Law no. 2019-791 of 26 July 2019 and in force from the 2019 school year. A clear, verifiable legislative outcome. Practical impact was limited (98.9% of 3-year-olds were already enrolled; ~26,000 additional children).",
+    "key_evidence": [
+      "LOI n 2019-791 du 26 juillet 2019 pour une ecole de la confiance lowered compulsory instruction to age 3",
+      "In force from September 2019",
+      "Ministry impact study: ~26,000 new children concerned (98.9% already schooled)"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038829065/",
+      "https://www.vie-publique.fr/loi/269264-loi-ecole-de-la-confiance-du-26-juillet-2019-loi-blanquer"
+    ]
+  },
+  {
+    "id": "teacher-2000-net",
+    "title": "No teacher to start their career below EUR 2,000 net per month",
+    "description": "2022 re-election pledge that, after revaluation, no teacher would begin their career earning under EUR 2,000 net monthly, via a 'socle' raise plus the voluntary 'pacte enseignant'.",
+    "date_made": "2022-08-25",
+    "category": "Education",
+    "status": "kept",
+    "confidence_score": 0.88,
+    "reasoning": "The unconditional 'socle' raise took effect September 2023; since January 2024 new tenured teachers start above EUR 2,000 net (EUR 2,121, or EUR 2,485 in REP+) without the pacte. The starting-salary floor pledge is met, though unions note the broader revaluation fell short of the wider '10-20%' ambition for all teachers.",
+    "key_evidence": [
+      "Socle raise of EUR 125-250 net/month applied September 2023 to all teachers",
+      "New tenured teachers start at EUR 2,121 net (EUR 2,485 in REP+) since January 2024, excluding pacte",
+      "Cour des comptes reviewed the Pacte; unions argue mid/late-career revaluation lagged"
+    ],
+    "source_url": [
+      "https://www.cnews.fr/france/2022-08-25/salaires-des-enseignants-emmanuel-macron-promet-au-moins-2000-euros-net-mensuels",
+      "https://www.ccomptes.fr/fr/publications/le-pacte-enseignant"
+    ]
+  },
+  {
+    "id": "phone-ban-schools",
+    "title": "Ban mobile phones in primary schools and colleges",
+    "description": "2017 pledge to ban mobile phone use in nursery, primary schools and middle schools, enacted in the August 2018 law.",
+    "date_made": "2017-03-02",
+    "category": "Education",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Adopted as Law no. 2018-698 of 3 August 2018 and applied from the 2018 school year across ecoles and colleges. Implemented as promised, though critics note a ban largely existed before and a stricter 'pause numerique' (phones stored away) has since been piloted.",
+    "key_evidence": [
+      "LOI n 2018-698 du 3 aout 2018 banning phones in nursery, primary and middle schools",
+      "In force from September 2018; tracked as 'kept' by LuiPresident",
+      "Later 'pause numerique' experiment requiring phones be physically stored"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037284333/",
+      "https://www.education.gouv.fr/interdiction-du-telephone-portable-dans-les-ecoles-et-les-colleges-et-pause-numerique-455181"
+    ]
+  },
+  {
+    "id": "devoirs-faits",
+    "title": "'Devoirs faits' homework support, made compulsory in 6e",
+    "description": "Provide free supervised homework help in colleges, with the dispositif becoming compulsory for all 6e (first-year middle school) pupils from 2023.",
+    "date_made": "2017-03-02",
+    "category": "Education",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "'Devoirs faits' launched in 2017 and was made compulsory in 6e from the 2023 school year; by 2024-2025 ~90% of 6e pupils benefited. Delivered as promised; effectiveness debated but the dispositif is in place and scaled.",
+    "key_evidence": [
+      "Launched November 2017; compulsory for all 6e pupils from September 2023",
+      "2024-2025: 532,000+ 6e pupils (~90%) benefited",
+      "Over 1 million pupils (~43% of collegiens) used it in 2023-2024"
+    ],
+    "source_url": [
+      "https://eduscol.education.gouv.fr/5511/devoirs-faits-un-temps-dedie-pour-accompagner-les-collegiens-dans-la-realisation-de-leurs-devoirs",
+      "https://www.education.gouv.fr/devoirs-faits-un-temps-d-etude-accompagnee-pour-realiser-les-devoirs-7337"
+    ]
+  },
+  {
+    "id": "parcoursup",
+    "title": "Replace APB with a new higher-education admissions platform (Parcoursup)",
+    "description": "2017 commitment to overhaul university entry, ending the criticized APB draw-lots system; delivered via the March 2018 ORE law creating Parcoursup.",
+    "date_made": "2017-03-02",
+    "category": "Education",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "The platform and ORE law were delivered (kept on the letter), ending tirage au sort. But the Cour des comptes and parliamentarians judge it 'peut mieux faire': opacity of the algorithm, persistent stress, and unmet equal-opportunity goals make the underlying promise of better/fairer orientation only partly fulfilled.",
+    "key_evidence": [
+      "Loi ORE (8 March 2018) created Parcoursup, live June 2018, replacing APB",
+      "EUR 867m five-year budget; aim to cut first-cycle failure",
+      "Cour des comptes verdict 'peut mieux faire'; criticism of algorithm transparency and equity outcomes"
+    ],
+    "source_url": [
+      "https://diplomeo.com/actualite-parcoursup_loi_ore_bilan_cour_comptes",
+      "https://www.senat.fr/rap/r22-790/r22-7903.html"
+    ]
+  },
+  {
+    "id": "school-uniform-pilot",
+    "title": "School uniform / single outfit ('tenue unique') experiment",
+    "description": "January 2024 presidential commitment to pilot a single school outfit in volunteer schools, with possible generalization in 2026 if results were conclusive.",
+    "date_made": "2024-01-16",
+    "category": "Education",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "The experiment launched in ~100 volunteer establishments in 2024 with state/local cost support, so the pilot promise is being delivered. As of June 2026 there is no confirmed national generalization; the '2026 generalization' remained conditional and unconfirmed, so the broader pledge is still pending.",
+    "key_evidence": [
+      "Announced January 2024; ~100 volunteer schools piloting from spring/September 2024",
+      "Costs covered by local authorities and the state during the trial",
+      "Generalization explicitly conditional on evaluation; no confirmed nationwide rollout reported"
+    ],
+    "source_url": [
+      "https://fr.fashionnetwork.com/news/Emmanuel-macron-annonce-une-experimentation-d-une-tenue-unique-a-l-ecole,1594965.html"
+    ]
+  },
+  {
+    "id": "savoir-nager",
+    "title": "'Savoir nager' / aquatic-ease plan to teach every child to swim",
+    "description": "Plan launched in 2019 (Aisance Aquatique + 'J'apprends a nager') to guarantee fundamental aquatic skills for young children and cut accidental drownings.",
+    "date_made": "2019-04-01",
+    "category": "Education",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The plan exists, is funded and run by the Sports ministry/Agence du sport (blue classes for 4-6s, swim programs for 6-12s in underserved areas). It is an ongoing program rather than a fully achieved universal outcome; drowning prevention remains a live concern, so 'in_progress' is most defensible.",
+    "key_evidence": [
+      "Aisance Aquatique and 'J'apprends a nager' launched 2019 after 2018 spike in drownings",
+      "Two strands: blue classes (4-6 yrs) and swim learning (6-12 yrs, priority areas)",
+      "Funded (e.g. EUR 4.5m tranche for blue classes); managed via Agence nationale du sport"
+    ],
+    "source_url": [
+      "https://www.sports.gouv.fr/prevention-des-noyades-et-developpement-de-l-aisance-aquatique-1129",
+      "https://www.sports.gouv.fr/sites/default/files/2023-02/bilan-plan-de-pr-vention-des-noyades-et-de-d-veloppement-de-l-aisance-aquatique-4086.pdf"
+    ]
+  },
+  {
+    "id": "snu",
+    "title": "Service National Universel (SNU) created and generalized to a full age cohort",
+    "description": "2017 pledge to create a universal national service for young people; later targeted for generalization to a whole age class by ~2026-2027.",
+    "date_made": "2017-03-02",
+    "category": "Education",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "The SNU was created and piloted (kept in part), but the core promise of universal generalization failed: the Cour des comptes flagged uncertain objectives and underestimated costs, generalization was abandoned, and in late 2025 the government moved to wind down the SNU and replace it with a new voluntary military service from 2026.",
+    "key_evidence": [
+      "SNU created and piloted from 2019; Cour des comptes (2024) critical of costs/objectives",
+      "Planned 2026 generalization abandoned; dispositif put into 'extinction'",
+      "Nov 2025: Macron confirms replacement by a voluntary military service from 2026"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/en-bref/295367-service-national-universel-le-bilan-critique-de-la-cour-des-comptes",
+      "https://www.ccomptes.fr/fr/publications/le-service-national-universel-snu"
+    ]
+  },
+  {
+    "id": "maisons-de-sante",
+    "title": "Double medical homes / health-access structures to fight medical deserts",
+    "description": "2017 pledge to double the number of maisons de sante (health centers) to widen access to care in under-served areas, later reframed as a broader 'France Sante' network target.",
+    "date_made": "2017-03-02",
+    "category": "Health",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The number of maisons de sante pluriprofessionnelles roughly doubled over the term (from ~910 in 2017 to ~2,000+ by 2022-2023), so the 'doubling' framing was largely met. But the moving targets (2,000, then 4,000, then a 2027 'France Sante' goal) and persistent, even worsening, medical deserts mean the underlying access promise is only partly delivered. Treated as in_progress with lower confidence given shifting goalposts.",
+    "key_evidence": [
+      "Maisons de sante pluriprofessionnelles roughly doubled to ~2,000+ by 2022-2023",
+      "Targets repeatedly revised upward (2,000 -> 4,000 -> 'France Sante' by 2027)",
+      "Medical deserts persisted/worsened; access goal not achieved"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/eclairage/270639-acces-aux-soins-comment-lutter-contre-les-deserts-medicaux",
+      "https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889"
+    ]
+  },
+  {
+    "id": "100-pourcent-sante",
+    "title": "100% Sante: zero out-of-pocket cost for dental, optical and hearing aids",
+    "description": "2017 pledge ('reste a charge zero') to fully reimburse a defined basket of glasses, dentures and hearing aids via combined statutory and complementary insurance.",
+    "date_made": "2017-03-02",
+    "category": "Health",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Phased in 2019-2021 across the three sectors and fully operational; accessible to ~95% of complementary-insurance holders. A clearly delivered, widely-used reform (DREES tracks strong take-up), with the basket since being expanded (e.g. capillary prostheses in 2026).",
+    "key_evidence": [
+      "Reform covers a no-out-of-pocket basket in optical, dental and hearing aids, phased to full effect by 2021",
+      "Accessible to ~95% of 'responsable' complementary health contracts",
+      "DREES evaluations show high uptake; basket later extended"
+    ],
+    "source_url": [
+      "https://www.securite-sociale.fr/home/dossiers/galerie-dossiers/tous-les-dossiers/100-sante--des-soins-pour-tous-1.html",
+      "https://drees.solidarites-sante.gouv.fr/sites/default/files/2024-07/CS24%20-%20Fiche%2029%20-%20La%20r%C3%A9forme%20du%20100%20%25%20sant%C3%A9%20en%20optique%20et%20en%20proth%C3%A8ses%20auditives%20et%20dentaires.pdf"
+    ]
+  },
+  {
+    "id": "abolish-numerus-clausus",
+    "title": "Abolish the numerus clausus and reform medical studies (Ma Sante 2022)",
+    "description": "September 2018 commitment to end the numerus clausus capping medical-student numbers, replacing it with university-set 'numerus apertus' to train more doctors.",
+    "date_made": "2018-09-18",
+    "category": "Health",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Enacted in the 24 July 2019 health law; numerus clausus abolished from 2020-2021, with places now set by universities against regional needs. Student intake rose ~22%. Delivered as promised; the contested point is whether it will actually relieve medical deserts (effects delayed a decade).",
+    "key_evidence": [
+      "Numerus clausus (in place since 1971) abolished via law of 24 July 2019, effective 2020-2021",
+      "Assemblee nationale (April 2025): student numbers up ~22%",
+      "Critics note training lag means limited near-term impact on deserts"
+    ],
+    "source_url": [
+      "https://www.enseignementsup-recherche.gouv.fr/fr/ma-sante-2022-suppression-du-numerus-clausus-et-renovation-de-l-acces-aux-etudes-de-sante-49091",
+      "https://www.publicsenat.fr/actualites/politique/le-parlement-adopte-le-projet-de-loi-sante-avec-la-fin-du-numerus-clausus-144152"
+    ]
+  },
+  {
+    "id": "segur-sante-183",
+    "title": "Segur de la sante: raise healthcare workers' pay (EUR 183 net/month)",
+    "description": "July 2020 agreements granting a EUR 183 net monthly raise (complement de traitement indiciaire) to public hospital and EHPAD staff, with ~EUR 8bn/year in revaluations.",
+    "date_made": "2020-07-13",
+    "category": "Health",
+    "status": "kept",
+    "confidence_score": 0.92,
+    "reasoning": "The EUR 183 net CTI was implemented (EUR 90 from Sept 2020, full EUR 183 from Dec 2020) and benefited ~1.5 million people. A clearly delivered commitment, though unions note coverage gaps for some categories ('oublies du Segur') initially.",
+    "key_evidence": [
+      "EUR 183 net/month CTI for hospital/EHPAD staff; fully effective 1 December 2020",
+      "~1.5 million beneficiaries; up to ~10% raise for some (e.g. aides-soignants)",
+      "~EUR 8bn/year announced"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/communique/12104-augmentation-de-183-euros-nets-par-mois-pour-les-personnels-sociaux-et-medico-sociaux-des-hopitaux",
+      "https://www.info.gouv.fr/actualite/segur-de-la-sante-revaloriser-les-salaires-des-soignants"
+    ]
+  },
+  {
+    "id": "medical-assistants",
+    "title": "Recruit medical assistants to free up doctor time (10,000 by end 2024)",
+    "description": "Ma Sante 2022 commitment to deploy medical assistants (assistants medicaux) to expand patient capacity, with the target raised from 4,000 to 10,000 by end 2024.",
+    "date_made": "2018-09-18",
+    "category": "Health",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "The scheme was created and scaled (~6,000 contracts by January 2024; ~5,355 active recruits reported), and Uncam projected the 10,000 target as 'probably' reachable by end 2024. Given mixed reporting on whether 10,000 was actually hit, and reliance on shortened training to get there, 'compromise' with moderate confidence is most defensible.",
+    "key_evidence": [
+      "Target raised from 4,000 to 10,000 medical assistants by end 2024",
+      "~6,000 contracts signed by January 2024; ~5,355 active recruits reported",
+      "Uncam 'probable' attainment of 10,000 by end 2024; training shortened (384->266h) to hit it"
+    ],
+    "source_url": [
+      "https://www.aefinfo.fr/depeche/706147-luncam-se-felicite-de-latteinte-probable-de-lobjectif-dun-recrutement-de-10-000-assistants-medicaux-dici-fin-2024",
+      "https://francais.medscape.com/voirarticle/3610868"
+    ]
+  },
+  {
+    "id": "ald-treating-doctor",
+    "title": "Every chronic-illness (ALD) patient to have a treating doctor by end 2024",
+    "description": "2022/2023 presidential pledge that every patient in affection de longue duree without a treating physician would be assigned one (initially by end 2023, then 2024).",
+    "date_made": "2023-01-06",
+    "category": "Health",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "The government itself admitted the goal would not be met; by end 2023 ~472,000 ALD patients still lacked a doctor and the minister conceded 'on n'y sera pas'. Real progress occurred (ALD-without-doctor rate fell from 5.4% in 2022 to 3.8% by Dec 2024), but the specific promise of zero by end 2024 was not achieved.",
+    "key_evidence": [
+      "Macron pledged it twice in 2023 (Jan 6 and Apr 17); ~600,000-700,000 patients concerned",
+      "Minister Firmin Le Bodo: 'On n'y sera pas' - goal acknowledged as missed",
+      "End 2023: ~472,000 ALD patients still without a doctor; rate fell to 3.8% by Dec 2024 (not zero)"
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/un-medecin-pour-chaque-patient-en-maladie-chronique-pourquoi-la-promesse-d-emmanuel-macron-n-est-pas-tenue-2885345.html",
+      "https://www.egora.fr/actus-pro/acces-aux-soins/plus-de-patient-en-ald-sans-medecin-traitant-dici-la-fin-de-lannee-ny"
+    ]
+  },
+  {
+    "id": "mon-soutien-psy",
+    "title": "Reimburse psychology sessions (MonParcoursPsy / MonSoutienPsy)",
+    "description": "2021-2022 commitment to reimburse sessions with a psychologist, launched as MonParcoursPsy (April 2022) and overhauled into MonSoutienPsy (2024-2025).",
+    "date_made": "2021-09-28",
+    "category": "Health",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The scheme was created (April 2022) and significantly strengthened: from 8 to 12 reimbursed sessions/year and, from January 2025, direct access without GP referral. Take-up nearly doubled and ~5,500 partner psychologists are enrolled. Delivered and expanded, though many psychologists criticized the low per-session tariff.",
+    "key_evidence": [
+      "Launched April 2022 as MonParcoursPsy; reformed June 2024 into MonSoutienPsy",
+      "Up to 12 sessions/year (from 8); direct access without GP referral from 1 January 2025",
+      "Beneficiaries roughly doubled 2023->2024; ~5,500 partner psychologists by April 2025"
+    ],
+    "source_url": [
+      "https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy",
+      "https://www.info.gouv.fr/actualite/mon-soutien-psy-12-seances-remboursees-par-an"
+    ]
+  },
+  {
+    "id": "carbon-neutrality-2050",
+    "title": "Enshrine carbon neutrality by 2050 in law",
+    "description": "Macron's government wrote the objective of net-zero greenhouse gas emissions by 2050 into the Energy Code via the Energy-Climate Law of 8 November 2019.",
+    "date_made": "2019-11-08",
+    "category": "Environment & Climate",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "The legal target is firmly in place and emissions have fallen ~20% over seven years. But the Haut Conseil pour le Climat warned in 2025 that the 2024-2025 slowdown (only ~1.5-1.8%/yr) is 'incompatible' with the 2050 trajectory, which needs ~-4.5%/yr. Goal legally binding but off-pace.",
+    "key_evidence": [
+      "Loi n 2019-1147 du 8 nov 2019 codified carbon neutrality 2050 in the Energy Code",
+      "Citepa/Ecologie.gouv.fr: 2025 emissions ~364 Mt CO2e, only -1.5% vs 2024 (provisional estimate)",
+      "Haut Conseil pour le Climat: 2024 trajectory shift 'incompatible' with 2050 neutrality"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000038430994/",
+      "https://www.ecologie.gouv.fr/presse/baisse-emissions-gaz-effet-serre-legere-baisse-2025-mettant-risque-latteinte-objectifs"
+    ]
+  },
+  {
+    "id": "glyphosate-ban",
+    "title": "Ban glyphosate within three years",
+    "description": "In November 2017 Macron pledged on Twitter to ban glyphosate in France within three years at the latest, once alternatives were found.",
+    "date_made": "2017-11-27",
+    "category": "Environment & Climate",
+    "status": "broken",
+    "confidence_score": 0.97,
+    "reasoning": "Glyphosate was never banned. Macron himself publicly conceded in late 2020/early 2022 that he had 'not succeeded' and called it a 'collective failure', shifting to an EU-level approach. The EU re-authorized glyphosate for 10 years in 2023.",
+    "key_evidence": [
+      "Macron (2020): admitted 'I haven't succeeded', called it a 'collective' failure",
+      "Reporterre: three years on, promise not kept; backed down in 2019 under FNSEA pressure",
+      "Macron (Jan 2022): 'the error I made at the start of my term - you must act at the European level'"
+    ],
+    "source_url": [
+      "https://reporterre.net/Interdiction-du-glyphosate-trois-ans-plus-tard-Emmanuel-Macron-n-a-pas-tenu-sa-promesse",
+      "https://www.novethic.fr/actualite/environnement/agriculture/isr-rse/glyphosate-l-echec-avoue-d-emmanuel-macron-149273.html"
+    ]
+  },
+  {
+    "id": "close-coal-plants",
+    "title": "Close all coal-fired power plants by 2022",
+    "description": "Macron pledged to shut France's remaining coal power plants by 2022 to cut emissions.",
+    "date_made": "2017-05-14",
+    "category": "Environment & Climate",
+    "status": "compromise",
+    "confidence_score": 0.88,
+    "reasoning": "Two of four plants closed (Le Havre, Gardanne), but Cordemais and Saint-Avold were kept running past 2022 due to the 2022 energy crisis, with closure pushed to ~2027. Both still operate in 2026. Partial achievement with significant slippage.",
+    "key_evidence": [
+      "Only Saint-Avold and Cordemais remain operating in 2025-2026",
+      "Closures delayed to 2027 amid Ukraine war / nuclear corrosion crisis",
+      "Cour des comptes report (Feb 2026) reviewed the delayed coal exit"
+    ],
+    "source_url": [
+      "https://www.connaissancedesenergies.org/fin-du-charbon-en-France-centrales-restantes",
+      "https://www.ccomptes.fr/fr/publications/larret-des-centrales-charbon"
+    ]
+  },
+  {
+    "id": "convention-citoyenne-climat",
+    "title": "Convene Convention Citoyenne pour le Climat and implement its proposals",
+    "description": "Macron created a 150-citizen climate assembly in 2019 and pledged to pass its proposals 'without filter' to law, regulation, or referendum.",
+    "date_made": "2020-06-29",
+    "category": "Environment & Climate",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "The Convention met and produced 149 proposals; Macron committed to 146. But the resulting Loi Climat et Resilience (Aug 2021) was widely judged by Convention members and observers as watered-down and misaligned with the -40% by 2030 goal. The 'without filter' pledge was effectively not honored.",
+    "key_evidence": [
+      "CCC published a critical assessment (March 2021) citing a large gap between recommendations and government measures",
+      "Convention members and analysts called the final law vague and diluted",
+      "info.gouv.fr confirms the process; outcome assessed as 'contrasted, even disappointing'"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/actualite/la-convention-citoyenne-pour-le-climat-un-exercice-democratique-inedit",
+      "https://www.connaissancedesenergies.org/questions-et-reponses-energies/quest-ce-que-la-convention-citoyenne-pour-le-climat"
+    ]
+  },
+  {
+    "id": "loi-climat-resilience",
+    "title": "Pass the Climate and Resilience Law (2021)",
+    "description": "Macron pledged to translate the climate convention's work into a major climate law; the Loi Climat et Resilience was enacted 22 August 2021.",
+    "date_made": "2021-08-22",
+    "category": "Environment & Climate",
+    "status": "kept",
+    "confidence_score": 0.82,
+    "reasoning": "The law was adopted and promulgated as promised (this entry tracks the legislative act itself, distinct from its contested ambition). Measures include the rental ban on energy-sieve housing and curbs on domestic flights, though critics view its scope as insufficient.",
+    "key_evidence": [
+      "Loi Climat et Resilience promulgated 22 Aug 2021",
+      "Contains binding measures (passoires thermiques rental ban schedule, advertising rules, ZAN land artificialization)",
+      "Widely covered summaries of the enacted text"
+    ],
+    "source_url": [
+      "https://greenly.earth/blog/guide-entreprise/loi-climat-et-resilience-tout-ce-qu-il-faut-savoir-en-2022",
+      "https://bigmedia.bpifrance.fr/nos-dossiers/loi-climat-et-resilience-la-lutte-contre-le-dereglement-climatique"
+    ]
+  },
+  {
+    "id": "ban-fossil-cars-2035",
+    "title": "End sales of new fossil-fuel cars (support EU 2035 ban)",
+    "description": "France backed the EU regulation ending new CO2-emitting passenger car sales from 2035, aligned with Macron's electrification push.",
+    "date_made": "2023-03-28",
+    "category": "Environment & Climate",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The EU 2035 rule was adopted with France's support, but in December 2025 the European Commission proposed softening it (90% rather than 100% emissions cut, e-fuels/plug-in hybrids allowed). France's National Assembly also refused (Feb 2025) to write 2035 into French law. Outcome now contested/uncertain - a moving target, not a realized fact.",
+    "key_evidence": [
+      "EU adopted the 2035 phase-out with France's support",
+      "Dec 2025: Commission proposed dropping the full ban; revision clause 2026-2027 (projection, not adopted)",
+      "Feb 2025: French Assembly declined to enshrine the 2035 date in domestic law"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/info-en-continu/20251216-l-ue-renonce-%C3%A0-interdire-totalement-la-vente-de-voitures-neuves-%C3%A0-moteur-thermique-%C3%A0-partir-de-2035",
+      "https://www.europarl.europa.eu/topics/fr/article/20221019STO44572/interdiction-de-l-ue-sur-la-vente-de-voitures-neuves-a-partir-de-2035-expliquee"
+    ]
+  },
+  {
+    "id": "maprimerenov-passoires",
+    "title": "Renovate buildings via MaPrimeRenov' and ban renting 'passoires thermiques'",
+    "description": "Macron pledged mass thermal renovation (MaPrimeRenov') and a phased ban on renting the worst-rated energy-sieve homes (DPE G, F, E).",
+    "date_made": "2021-08-22",
+    "category": "Environment & Climate",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "MaPrimeRenov' operates and the DPE-G rental ban took effect 1 Jan 2025 (F in 2028, E in 2034). However, the scheme has been repeatedly narrowed/throttled (capped dossiers, eligibility cuts in 2025-2026), and a 2026 bill may reopen rentals of sieves under works conditions, signaling rollback risk.",
+    "key_evidence": [
+      "Since 1 Jan 2025, DPE-G homes cannot be newly rented",
+      "MaPrimeRenov' eligibility tightened: from 30 Sep 2025 limited to E/F/G with a 13,000-dossier cap",
+      "2026 reform proposal could reopen sieve rentals subject to a 3-5 year works commitment (not yet adopted)"
+    ],
+    "source_url": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35083?lang=en",
+      "https://www.velux.fr/magazine/ma-prime-renov-2026"
+    ]
+  },
+  {
+    "id": "planification-ecologique",
+    "title": "Launch 'planification ecologique' targeting -55% emissions by 2030 and a 'Fonds vert'",
+    "description": "In his 2022 re-election campaign Macron promised ecological planning under the PM, a -55% emissions cut by 2030 vs 1990, and a green fund for local authorities.",
+    "date_made": "2022-04-16",
+    "category": "Environment & Climate",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "Ecological planning was launched (SGPE, four Conseils de planification ecologique since 2022) and the Fonds vert created. But the 2030 target is at risk: the Elysee touts ~-20% over seven years, while Citepa/HCC warn the 2024-2025 pace is far below the needed ~-5%/yr. Fonds vert has faced budget cuts. Mixed/at-risk delivery.",
+    "key_evidence": [
+      "Elysee held a 4th Conseil de planification ecologique on 31 March 2025",
+      "Target: ~-5%/yr to reach the 2030 milestone vs 1990 (HCC/Citepa)",
+      "2025 emissions fell only ~1.5%; HCC says 'the question of credibility arises'"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2025/03/31/4eme-conseil-de-planification-ecologique",
+      "https://vert.eco/articles/le-haut-conseil-pour-le-climat-rend-son-avis-sur-la-strategie-de-decarbonation-francaise-la-question-de-la-credibilite-se-pose"
+    ]
+  },
+  {
+    "id": "ecophyto-pesticides",
+    "title": "Cut pesticide use by 50% (Ecophyto 2030)",
+    "description": "Macron's governments maintained the Ecophyto target of halving pesticide use by 2030, restated in the Ecophyto 2030 strategy.",
+    "date_made": "2024-05-06",
+    "category": "Environment & Climate",
+    "status": "broken",
+    "confidence_score": 0.78,
+    "reasoning": "Use has stagnated for ~20 years; the plan was officially 'paused' in Feb 2024 after farmer protests, the headline indicator was switched from NODU to the EU HRI1 (criticized as weaker), and a Dec 2024 parliamentary inquiry called Ecophyto 'an archetype of failed public policy'. Target nominally kept but delivery failed.",
+    "key_evidence": [
+      "Government 'paused' Ecophyto in Feb 2024 amid the agricultural crisis",
+      "Indicator switched from NODU to HRI1, criticized for masking lack of progress",
+      "Dec 2024 parliamentary commission cited 'negligence' and 'powerlessness' in pesticide policy"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/environnement/pause-du-plan-ecophyto-cest-une-grave-erreur-pour-la-biodiversite-mais-aussi-pour-les-agriculteurs",
+      "https://www.info.gouv.fr/actualite/pesticides-les-5-axes-de-la-strategie-ecophyto-2030"
+    ]
+  },
+  {
+    "id": "nuclear-50-percent",
+    "title": "Reduce nuclear to 50% of the electricity mix",
+    "description": "Following the 2015 law, Macron's government committed to cutting nuclear's share to 50% of generation, with the target pushed from 2025 to 2035.",
+    "date_made": "2017-11-07",
+    "category": "Energy & Nuclear",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "First deferred from 2025 to 2035 (deemed unrealistic), then effectively abandoned: after the 2022 Belfort pivot, policy shifted to relaunching nuclear, and the government dropped the law mandating the 50% reduction. The objective no longer stands.",
+    "key_evidence": [
+      "2018-2019: government postponed the 50% target from 2025 to 2035",
+      "Post-Belfort strategy reframes nuclear as a 'massive revival', not a reduction",
+      "France officially abandoned the law aimed at lowering nuclear to 50%"
+    ],
+    "source_url": [
+      "https://www.actu-environnement.com/ae/news/nucleaire-reduction-2035-mix-electrique-report-loi-transition-energetique-31947.php4",
+      "https://www.connaissancedesenergies.org/tribune-actualite-energies/50-de-nucleaire-dans-le-mix-electrique-pour-2035-et-apres"
+    ]
+  },
+  {
+    "id": "close-fessenheim",
+    "title": "Close the Fessenheim nuclear plant",
+    "description": "Macron pledged to shut France's oldest nuclear plant, Fessenheim; both reactors were permanently stopped in 2020.",
+    "date_made": "2018-04-13",
+    "category": "Energy & Nuclear",
+    "status": "kept",
+    "confidence_score": 0.98,
+    "reasoning": "Fully delivered. Reactor 1 stopped 22 Feb 2020 and reactor 2 on 30 June 2020, formalized by a Feb 2020 decree, with an EDF compensation protocol (~EUR 400m initial). Decommissioning to begin from 2025.",
+    "key_evidence": [
+      "Both reactors permanently shut down 22 Feb and 30 June 2020",
+      "Government decree (19 Feb 2020) ended the operating authorization",
+      "Compensation protocol with EDF (~EUR 400m initial payments)"
+    ],
+    "source_url": [
+      "https://www.ecologie.gouv.fr/fermeture-centrale-fessenheim",
+      "https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Fessenheim"
+    ]
+  },
+  {
+    "id": "epr2-reactors",
+    "title": "Build 6 new EPR2 reactors (with studies for up to 8 more)",
+    "description": "In the 10 Feb 2022 Belfort speech Macron announced building 6 new EPR2 reactors plus studies on 8 more (up to 14 by 2050), relaunching French civil nuclear.",
+    "date_made": "2022-02-10",
+    "category": "Energy & Nuclear",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "The program is underway but not yet committed: preparatory earthworks at Penly began July 2024, yet EDF's final investment decision is expected only in H2 2026, first concrete slipped to 2029, and first commissioning targeted ~2038. Cost was revised up to EUR 72.8bn (end-2025) - a projection, not final.",
+    "key_evidence": [
+      "Belfort 2022: 6 EPR2 + studies for 8 more",
+      "Penly earthworks started 1 July 2024; first concrete pushed to 2029; commissioning ~2038",
+      "Final investment decision expected H2 2026; cost re-estimated at EUR 72.8bn end-2025 (projection)"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/france/20220210-nucl%C3%A9aire-emmanuel-macron-%C3%A0-belfort-pour-d%C3%A9voiler-sa-strat%C3%A9gie-%C3%A9nerg%C3%A9tique-pour-la-france",
+      "https://www.usinenouvelle.com/energie/nucleaire/epr/nucleaire-edf-doit-revoir-sa-copie-sur-le-genie-civil-des-epr2-de-penly-selon-lasnr-avant-la-decision-finale-dinvestissement.ROTCVWZPYRAI7DZ3Z7EURZ4ZBI.html"
+    ]
+  },
+  {
+    "id": "flamanville-epr",
+    "title": "Bring the Flamanville EPR into service",
+    "description": "Macron's term promised completion and startup of the long-delayed Flamanville-3 EPR reactor.",
+    "date_made": "2017-05-14",
+    "category": "Energy & Nuclear",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Achieved, though far behind original schedule. ASN authorized commissioning May 2024, first divergence Sept 2024, grid connection Dec 2024, and full power reached 14 Dec 2025 - France's first new reactor in 25 years. Now in dynamic testing in 2026.",
+    "key_evidence": [
+      "ASN authorized startup 7 May 2024; grid connection Dec 2024",
+      "Reached 100% power for the first time 14 Dec 2025",
+      "Entered intensive dynamic testing in 2026"
+    ],
+    "source_url": [
+      "https://www.connaissancedesenergies.org/afp/lepr-de-flamanville-raccorde-au-reseau-electrique-une-premiere-en-france-depuis-25-ans-241221",
+      "https://www.edf.fr/centrale-nucleaire-flamanville3"
+    ]
+  },
+  {
+    "id": "offshore-wind",
+    "title": "Deploy 50 offshore wind farms (~40 GW) by 2050",
+    "description": "At Belfort/Saint-Nazaire (2022) Macron set a goal of 50 offshore wind parks reaching ~40 GW by 2050.",
+    "date_made": "2022-02-10",
+    "category": "Energy & Nuclear",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Build-out is happening but lagging ambition. Only ~2 GW installed by end-2025; the PPE3 milestone is 15 GW by 2035 (cut from 18 GW after the Sept 2025 Oleron tender failed). The 2050/40 GW target remains a distant projection requiring sharp acceleration.",
+    "key_evidence": [
+      "~2 GW offshore installed end-2025; 6.84 GW awarded in 2025",
+      "PPE3 target lowered to 15 GW by 2035 (from 18 GW) after failed Oleron tender",
+      "New PPE3 tenders launched 2 April 2026 (10 GW offshore, incl. 5 GW floating)"
+    ],
+    "source_url": [
+      "https://www.lemondedelenergie.com/macron-parcs-eoliens/2022/02/10/",
+      "https://www.meretmarine.com/fr/energies-marines/ppe-les-objectifs-de-l-eolien-offshore-un-peu-reajustes-le-premier-appel-d-offres-hydrolien-acte"
+    ]
+  },
+  {
+    "id": "solar-x10",
+    "title": "Multiply solar capacity tenfold (>100 GW) by 2050",
+    "description": "Macron (2022) pledged to grow solar PV tenfold to exceed 100 GW by 2050 and accelerate renewables via the 2023 ENR acceleration law.",
+    "date_made": "2022-02-10",
+    "category": "Energy & Nuclear",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Solar is expanding fast - in 2025 it surpassed hydro in installed capacity, with ~86 GW of total renewables installed - and the ENR acceleration law (2023) was passed. But reaching >100 GW solar by 2050 (and the 2030 milestones) remains uncertain per sector trackers; figure is a long-horizon projection.",
+    "key_evidence": [
+      "Macron 2022: target >100 GW solar by 2050, x10",
+      "2025 renewables barometer: ~86 GW installed; solar overtook hydroelectric",
+      "Loi d'acceleration des ENR adopted 2023; analysts flag the 40% renewable share by 2030 as uncertain"
+    ],
+    "source_url": [
+      "https://www.actu-environnement.com/ae/news/ENR-strategie-macron-solaire-eolien-39093.php4",
+      "https://orelnienergie.com/2026/04/12/barometre-enr-2025-86-gw-installes-en-france-le-solaire-depasse-lhydraulique-mais-les-40-en-2030-restent-incertains/"
+    ]
+  },
+  {
+    "id": "egalim-farmer-prices",
+    "title": "Guarantee fair farmer prices via the Egalim laws",
+    "description": "Macron promised (2017 'Etats generaux de l'alimentation') to secure remunerative prices for farmers; this produced Egalim 1 (2018), Egalim 2 (2021) and Egalim 3 (2023).",
+    "date_made": "2017-10-11",
+    "category": "Agriculture",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "The laws were passed (so the legislative pledge was delivered), but their core aim - protecting farmer income - has largely failed in practice. A Feb 2025 evaluation could not conclude they are economically effective; distributor margins rose 12% (2022-24) vs 5% for producers, and circumvention via foreign buying centers is widespread.",
+    "key_evidence": [
+      "Egalim 1/2/3 enacted; Senate 2024-2025 review: apply/improve but don't unravel",
+      "Feb 2025 evaluation: cannot conclude Egalim 2 is economically effective for farmer value",
+      "Distributor margins +12% vs producer +5% (2022-24); ~50% of volumes negotiated abroad to bypass rules"
+    ],
+    "source_url": [
+      "https://www.senat.fr/salle-de-presse/communiques-de-presse/presse/20-11-2024/lois-egalim-1-2-3-appliquer-evaluer-et-ameliorer-sans-detricoter.html",
+      "https://www.hoganlovells.com/fr/publications/evaluation-of-the-french-egalim-2-law-a-mixed-review-and-prospects-for-evolution"
+    ]
+  },
+  {
+    "id": "farmer-floor-prices-2024",
+    "title": "Respond to 2024 farmer protests with income protection ('floor prices') and aid",
+    "description": "Amid the 2024 agricultural crisis, Macron pledged 'floor prices' (prix planchers) to protect farm income plus emergency fiscal and cash support.",
+    "date_made": "2024-02-24",
+    "category": "Agriculture",
+    "status": "compromise",
+    "confidence_score": 0.65,
+    "reasoning": "Concrete measures were delivered (EUR 8.5bn paid by end-July 2024, the agricultural diesel/GNR tax hike scrapped, property-tax relief), but the flagship 'prix planchers' were never meaningfully implemented, and protests reignited in Dec 2025 (Mercosur, livestock disease). Partial response, headline pledge unfulfilled.",
+    "key_evidence": [
+      "EUR 8.5bn paid to farmers by end-July 2024; GNR diesel hike abandoned for 2024",
+      "'Prix planchers' announced but not concretely enacted",
+      "New blockades resumed Dec 2025 over Mercosur and livestock-disease culling"
+    ],
+    "source_url": [
+      "https://agriculture.gouv.fr/suivi-des-mesures-en-faveur-des-agriculteurs",
+      "https://fr.wikipedia.org/wiki/Mouvement_des_agriculteurs_de_2024_en_France"
+    ]
+  },
+  {
+    "id": "loi-souverainete-agricole",
+    "title": "Enshrine food sovereignty / 'France, agricultural power' in an orientation law",
+    "description": "Macron pledged a farm orientation law making food sovereignty a structuring goal and easing generational renewal and installation of new farmers.",
+    "date_made": "2024-02-24",
+    "category": "Agriculture",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "Delivered as Loi n 2025-268 of 24 March 2025 on food sovereignty and generational renewal, with 44 articles. Caveat: the Conseil constitutionnel censured roughly two-thirds of the text (esp. environmental rollbacks) on 20 March 2025, so the enacted version is narrower than proposed.",
+    "key_evidence": [
+      "Loi n 2025-268 promulgated 24 March 2025; published JO 25 March",
+      "Makes food sovereignty a structuring objective of public policy; eases installation/transmission",
+      "Conseil constitutionnel decision 2025-876 DC (20 March 2025) censured a large share of provisions"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051368091",
+      "https://www.conseil-constitutionnel.fr/decision/2025/2025876DC.htm"
+    ]
+  },
+  {
+    "id": "reduce-parliamentarians",
+    "title": "Cut the number of parliamentarians by ~30%",
+    "description": "Macron pledged in 2017 to reduce the number of deputies and senators by about 30% as part of a broad institutional reform.",
+    "date_made": "2017-03-02",
+    "category": "Institutional Reform",
+    "status": "broken",
+    "confidence_score": 0.92,
+    "reasoning": "The constitutional reform carrying this measure was suspended in summer 2018 amid the Benalla affair and Senate opposition, repeatedly relaunched and never adopted. It remained unrealized through the 2022 re-election and into 2026.",
+    "key_evidence": [
+      "Reform package (30% fewer MPs, 15-20% proportional, non-cumul) suspended July 22, 2018 during Benalla affair",
+      "Blocked by right-controlled Senate; relaunched attempts failed before 2022 legislatives",
+      "No constitutional revision adopted as of June 2026"
+    ],
+    "source_url": [
+      "https://www.europe1.fr/politique/macron-plaide-pour-20-de-proportionnelle-a-lassemblee-et-pour-25-a-30-de-parlementaires-en-moins-3895105",
+      "https://en.wikipedia.org/wiki/Benalla_affair"
+    ]
+  },
+  {
+    "id": "proportional-representation",
+    "title": "Introduce a 'dose' of proportional representation in legislative elections",
+    "description": "Macron promised to inject roughly 15-20% proportional representation into the election of deputies.",
+    "date_made": "2017-03-02",
+    "category": "Institutional Reform",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "Tied to the same blocked constitutional/electoral reform. Despite repeated statements of support (around 20%), it was never legislated before the 2022 or any subsequent legislative elections and remains undone in 2026.",
+    "key_evidence": [
+      "Part of 2018 reform collapse after Benalla affair and Senate resistance",
+      "Too late to apply to 2022 legislatives (cannot change electoral law within a year of vote)",
+      "Macron repeatedly 'favorable to ~20%' but no law passed by June 2026"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/reforme-des-institutions-emmanuel-macron-favorable-a-une-dose-de-proportionnelle",
+      "https://www.ledevoir.com/monde/europe/524446/moins-de-parlementaires-plus-de-proportionnelle-la-france-reforme-ses-institutions"
+    ]
+  },
+  {
+    "id": "moralisation-vie-politique",
+    "title": "Ban elected officials from hiring family members (moralization of public life)",
+    "description": "Macron pledged a law to ban ministers, MPs and local executives from employing close family members as aides.",
+    "date_made": "2017-03-02",
+    "category": "Institutional Reform",
+    "status": "kept",
+    "confidence_score": 0.97,
+    "reasoning": "The 'confiance dans la vie politique' laws (Organic Law 2017-1338 and Law 2017-1339 of Sept. 15, 2017) were adopted early in the term and explicitly prohibit employing close family. A flagship early win.",
+    "key_evidence": [
+      "National Assembly voted ban on family employment July 27, 2017",
+      "Enacted as Organic Law 2017-1338 and Law 2017-1339 of Sept 15, 2017",
+      "Prohibits employing spouse, parents, children and equivalents"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/loi/20774-loi-confiance-dans-la-vie-politique-moralisation-de-la-vie-publique",
+      "https://www.france24.com/fr/20170727-assemblee-nationale-deputes-vote-interdiction-emploi-collaborateurs-familiaux-moralisation"
+    ]
+  },
+  {
+    "id": "limit-cumul-mandats-temps",
+    "title": "Limit the cumulation of identical successive mandates in time (3-term max)",
+    "description": "Macron pledged to bar holding more than three identical successive elective mandates.",
+    "date_made": "2017-03-02",
+    "category": "Institutional Reform",
+    "status": "broken",
+    "confidence_score": 0.88,
+    "reasoning": "Presented in the August 2019 reform package but abandoned due to Senate blockage and the COVID crisis; the underlying constitutional reform was never adopted. Not in force by June 2026.",
+    "key_evidence": [
+      "Measure presented in Council of Ministers Aug 2019 within democratic-renewal reform",
+      "Abandoned amid Senate gridlock and the pandemic",
+      "No such limit enacted as of 2026 (existing 2-consecutive limit applies only to the presidency)"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/limiter-cumul-des-mandats-dans-temps-trois-mandats-identiques-successifs/"
+    ]
+  },
+  {
+    "id": "ric-referendum",
+    "title": "Create a citizens' initiative referendum (RIC) / ease referendum rights",
+    "description": "Amid the Gilets jaunes crisis, demands grew for a citizens' initiative referendum; Macron considered easing the shared-initiative referendum (RIP) instead.",
+    "date_made": "2019-01-15",
+    "category": "Institutional Reform",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "In April 2019 Macron explicitly rejected the RIC, opting to propose only an easing of the shared-initiative referendum within a constitutional revision that never passed. No expansion of referendum rights was enacted.",
+    "key_evidence": [
+      "Macron rejected the RIC in April 2019, favoring a loosened RIP via constitutional revision",
+      "Constitutional revision never adopted; RIP thresholds unchanged",
+      "Contextual presidential commitment, not a formal campaign manifesto pledge"
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_d'initiative_citoyenne"
+    ]
+  },
+  {
+    "id": "10000-police-gendarmes",
+    "title": "Recruit 10,000 additional police and gendarmes (2017)",
+    "description": "Macron pledged 10,000 net new internal-security force positions (7,500 police, 2,500 gendarmes) over the 2017-2022 term.",
+    "date_made": "2017-03-02",
+    "category": "Immigration & Security",
+    "status": "kept",
+    "confidence_score": 0.78,
+    "reasoning": "On a created-posts (ETP) basis ~10,500 positions were created 2017-2022, meeting the headline number. However the Cour des comptes noted actual full-time-equivalent worked rose far less (~5,500) as recruitment largely offset retirements. Kept on the literal metric, with a caveat.",
+    "key_evidence": [
+      "~10,529 ETP created 2017-2022 (9,583 in 2017-2021 + ~946 in 2022)",
+      "Actual ETPT worked rose only ~5,500 (Cour des comptes)",
+      "2021 Cour des comptes: limited measurable impact on delinquency"
+    ],
+    "source_url": [
+      "https://defacto-observatoire.fr/Medias/CheckNews/Fact-checks/Y-a-t-il-10-000-policiers-et-gendarmes-de-plus-sur-le-terrain-depuis-cinq-ans-comme-le-dit-Emmanuel-Macron/",
+      "https://www.franceinfo.fr/economie/emploi/metiers/armee-et-securite/vrai-ou-fake-emmanuel-macron-a-t-il-vraiment-cree-10-000-postes-de-policiers-et-gendarmes_4915651.html"
+    ]
+  },
+  {
+    "id": "police-securite-quotidien",
+    "title": "Deploy a 'police de securite du quotidien' (community policing)",
+    "description": "Macron pledged a neighborhood-focused 'everyday security police' to increase presence and reduce crime in priority areas.",
+    "date_made": "2017-03-02",
+    "category": "Immigration & Security",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "The PSQ was formally launched Feb 8, 2018 with 'quartiers de reconquete republicaine', so the commitment was implemented. But evaluations (IHEMI, Gazette des communes) found a mixed record and the 'doubling of street presence' ambition was not clearly achieved.",
+    "key_evidence": [
+      "PSQ launched Feb 8, 2018 at the Ecole militaire; 30+ QRR zones designated",
+      "Reinforcements assigned to early QRR zones",
+      "Independent evaluations describe a 'demi-teinte' / mixed outcome"
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Police_de_s%C3%A9curit%C3%A9_du_quotidien",
+      "https://www.lagazettedescommunes.com/763615/police-de-securite-du-quotidien-un-bilan-en-demi-teinte-en-ile-de-france/"
+    ]
+  },
+  {
+    "id": "200-gendarmerie-brigades",
+    "title": "Create 200 new gendarmerie brigades (2022 re-election pledge)",
+    "description": "In January 2022 Macron pledged 200+ new gendarmerie brigades in rural and peri-urban areas.",
+    "date_made": "2022-01-10",
+    "category": "Immigration & Security",
+    "status": "in_progress",
+    "confidence_score": 0.82,
+    "reasoning": "The pledge was upgraded to 238/239 brigades (93 fixed, 145 mobile), with the list unveiled Oct 2, 2023 and first units deploying from late 2023. Rollout is underway toward a 2027 completion target; not fully delivered by June 2026.",
+    "key_evidence": [
+      "Original 200 raised to 238 brigades to be deployed by 2027 (announced Oct 2, 2023)",
+      "First brigades began deploying from November 2023",
+      "~2,144 gendarmes to be trained over the term"
+    ],
+    "source_url": [
+      "https://www.lagazettedescommunes.com/889137/238-nouvelles-brigades-de-gendarmerie-deployees-dici-2027/",
+      "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2023/239-nouvelles-brigades-de-gendarmerie-pour-les-francais"
+    ]
+  },
+  {
+    "id": "15000-prison-places",
+    "title": "Build 15,000 new prison places ('Plan 15 000')",
+    "description": "Macron pledged 15,000 net new prison places to end overcrowding and ensure dignified detention conditions, targeted for 2027.",
+    "date_made": "2017-03-02",
+    "category": "Immigration & Security",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "Per the Cour des comptes flash audit (Dec 2025), only ~5,411 net places (about 35%) were delivered seven years in; cost overran (EUR 3.9bn to EUR 5.7bn) and completion slipped to 2031-2032. Prison population hit a record ~84,500 (135% density) in 2025, so the 2027 pledge is missed.",
+    "key_evidence": [
+      "Cour des comptes (Dec 2025): only ~5,411 net places delivered, ~35% of target; 22 of 50 operations done",
+      "Completion pushed to 2031-2032; cost reassessed to EUR 5.7bn (+46%)",
+      "Record overcrowding: 84,555 detainees for 62,685 places (mid-Sept 2025)"
+    ],
+    "source_url": [
+      "https://www.ccomptes.fr/sites/default/files/2025-12/20251217-Plan-15000-places-de-prison.pdf",
+      "https://www.vie-publique.fr/en-bref/301521-surpopulation-carcerale-ou-en-est-le-plan-15-000-places-de-prison"
+    ]
+  },
+  {
+    "id": "justice-budget-lopj",
+    "title": "Increase the justice budget and modernize justice (LOPJ 2023-2027)",
+    "description": "Macron pledged a major increase in justice funding and staffing; delivered via the Justice orientation and programming law 2023-2027.",
+    "date_made": "2022-04-01",
+    "category": "Immigration & Security",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The LOPJ 2023-2027 (adopted Nov 20, 2023) raises the justice budget ~21% (EUR 9.6bn in 2023 toward EUR 11bn in 2027) and plans 10,000 new posts incl. 1,500 magistrates. Legislatively secured and on a rising path, but full delivery (and durability amid budget pressure) is still in progress.",
+    "key_evidence": [
+      "LOPJ 2023-2027 adopted Nov 20, 2023; budget +21% over the period",
+      "Budget EUR 9.6bn (2023) targeting EUR 11bn (2027); +EUR 7.5bn cumulative",
+      "Planned net 10,000 posts incl. 1,500 magistrates, 1,800 clerks"
+    ],
+    "source_url": [
+      "https://www.economie.gouv.fr/daj/lettre-de-la-daj-loi-dorientation2023-2027",
+      "https://www.justice.gouv.fr/ministere-justice/budget-justice"
+    ]
+  },
+  {
+    "id": "asylum-6-months",
+    "title": "Process asylum claims within 6 months",
+    "description": "The government set a target of completing the full asylum procedure (OFPRA + CNDA) within an average of six months.",
+    "date_made": "2017-09-12",
+    "category": "Immigration & Security",
+    "status": "broken",
+    "confidence_score": 0.75,
+    "reasoning": "OFPRA instruction time fell sharply (to ~3-4 months by 2023), but the total procedure including CNDA appeal remained far above 6 months (around 12.9 months end-2022). The headline 6-month end-to-end goal was not met.",
+    "key_evidence": [
+      "OFPRA average instruction cut to 3.9 months (Dec 2022), ~121 days early 2023",
+      "Total procedure ~12.9 months end-2022, well above the 6-month goal",
+      "CNDA appeal time stabilized around 6.5 months, keeping total high"
+    ],
+    "source_url": [
+      "https://www.forumrefugies.org/s-informer/publications/articles-d-actualites/en-france/1089-asile-un-delai-d-instruction-en-baisse-mais-loin-des-objectifs-gouvernementaux",
+      "https://www.info.gouv.fr/politiques-prioritaires/renforcer-l-ordre-republicain-et-encourager-l-engagement/une-procedure-dasile-plus-efficace"
+    ]
+  },
+  {
+    "id": "loi-immigration-2024",
+    "title": "Pass an immigration law (loi immigration, Jan 2024)",
+    "description": "Macron's government pledged and passed a law to control immigration and improve integration, enacted Jan 2024 after heavy Constitutional Council censorship.",
+    "date_made": "2022-04-01",
+    "category": "Immigration & Security",
+    "status": "compromise",
+    "confidence_score": 0.83,
+    "reasoning": "A law was adopted and promulgated, fulfilling the pledge to legislate. But the Conseil constitutionnel censored 35 of 86 articles (mostly as 'cavaliers legislatifs') on Jan 25, 2024, stripping the toughest right-added measures (benefits restrictions, family reunification curbs, droit du sol changes). Outcome is a partial win.",
+    "key_evidence": [
+      "Conseil constitutionnel censored 35 of 86 articles on Jan 25, 2024 (32 as legislative riders)",
+      "Censored: family benefits hardening, family reunification limits, droit du sol changes",
+      "Retained: simplified expulsion procedures, republican-principles contract for residency"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/loi-immigration-le-conseil-constitutionnel-censure-32-articles-du-projet-de-loi",
+      "https://lcp.fr/actualites/loi-immigration-le-conseil-constitutionnel-censure-largement-le-texte-vote-en-fin-d"
+    ]
+  },
+  {
+    "id": "loi-separatisme",
+    "title": "Combat separatism (loi confortant les principes de la Republique, 2021)",
+    "description": "Following his 2020 Mureaux speech, Macron delivered the 2021 'separatism' law to counter radical Islamism and reinforce republican principles.",
+    "date_made": "2020-10-02",
+    "category": "Immigration & Security",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Law 2021-1109 of Aug 24, 2021 was enacted with measures on association dissolution, homeschooling authorization, and a republican engagement contract. The pledge to legislate was kept; evaluations (Senate, govt) judge real-world impact mixed, but the commitment itself was fulfilled.",
+    "key_evidence": [
+      "Law 2021-1109 enacted Aug 24, 2021",
+      "Homeschooling shifted to authorization regime; ~30% drop vs 2020",
+      "Govt/Senate 2025 assessments describe a 'bilan en demi-teinte'"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/loi/277621-loi-separatisme-respect-des-principes-de-la-republique-24-aout-2021",
+      "https://www.senat.fr/rap/r23-383/r23-3830.html"
+    ]
+  },
+  {
+    "id": "defense-2-percent-lpm",
+    "title": "Raise defense spending to 2% of GDP / Military Programming Law (EUR 413bn 2024-2030)",
+    "description": "Macron pledged to bring defense spending to 2% of GDP and pass an expanded military programming law of EUR 413bn for 2024-2030.",
+    "date_made": "2017-03-02",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.88,
+    "reasoning": "The LPM 2024-2030 (EUR 413bn, +40% vs prior) was adopted July 13, 2023, targeting 2% of GDP from 2025; the defense budget rose from EUR 32.2bn (2017) to EUR 50.5bn (2025), with a 2025 acceleration to EUR 64bn by 2027. Both the funding-law and trajectory pledges are substantially met (note: some analysts dispute the exact 2% accounting).",
+    "key_evidence": [
+      "LPM 2024-2030 adopted July 13, 2023 with EUR 413bn envelope (+40%)",
+      "Defense budget EUR 32.2bn (2017) to EUR 50.5bn (2025)",
+      "Caveat: IFRAP and others argue the framing still falls short of a strict 2% of GDP"
+    ],
+    "source_url": [
+      "https://www.defense.gouv.fr/actualites/loi-programmation-militaire-2024-2030-5-choses-savoir",
+      "https://www.ifrap.org/etat-et-collectivites/programmation-militaire-2024-2030-encore-insuffisante-pour-atteindre-les-2-du-pib"
+    ]
+  },
+  {
+    "id": "eurozone-budget-minister",
+    "title": "Create a eurozone budget and finance minister (Sorbonne 2017)",
+    "description": "In his Sept 2017 Sorbonne speech Macron called for a substantial eurozone budget and a eurozone finance minister under a eurozone parliament.",
+    "date_made": "2017-09-26",
+    "category": "Europe & Foreign Policy",
+    "status": "broken",
+    "confidence_score": 0.82,
+    "reasoning": "The finance-minister idea was effectively abandoned for lack of consensus. The eurozone budget was watered down to the small Budgetary Instrument for Convergence and Competitiveness (BICC), with no stabilization function and far below Macron's 'several points of GDP' ambition, due to northern-state opposition. The core vision was not realized.",
+    "key_evidence": [
+      "Eurozone finance-minister proposal abandoned for lack of consensus",
+      "Outcome was the limited BICC (2019), no stabilization role, far smaller than proposed",
+      "Northern eurozone states blocked an ambitious stabilizing budget"
+    ],
+    "source_url": [
+      "https://think.ing.com/articles/eurozone-bicc-deal-is-not-a-big-deal/",
+      "https://www.touteleurope.eu/institutions/un-an-apres-le-discours-de-la-sorbonne-ou-en-est-le-programme-d-emmanuel-macron-pour-l-europe/"
+    ]
+  },
+  {
+    "id": "european-defense-autonomy",
+    "title": "Build European defense / strategic autonomy ('European army' idea)",
+    "description": "Macron championed European strategic autonomy and a stronger common European defense, floating a 'true European army' (2018).",
+    "date_made": "2017-09-26",
+    "category": "Europe & Foreign Policy",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "No standalone European army exists, but the agenda advanced markedly: an EU Defense Commissioner created (2024), a European Defense White Paper and 'ReArm Europe' plan launched (March 2025), spurred by the Ukraine war and US unpredictability. Directionally Macron's framing prevailed; the maximalist 'European army' remains unrealized.",
+    "key_evidence": [
+      "EU created a Defense and Space Commissioner post in 2024",
+      "European Defense White Paper + 'ReArm Europe' plan launched March 2025",
+      "No actual European army; concept remains aspirational"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/international/defense-europeenne-emmanuel-macron-avait-il-raison-depuis-le-debut",
+      "https://www.vie-publique.fr/discours/292925-emmanuel-macron-30012024-cooperation-militaire-europeenne"
+    ]
+  },
+  {
+    "id": "support-ukraine",
+    "title": "Support Ukraine militarily and politically against Russia",
+    "description": "Macron committed France to sustained support for Ukraine, formalized in a 10-year bilateral security agreement signed Feb 16, 2024.",
+    "date_made": "2022-02-24",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.86,
+    "reasoning": "France delivered sustained, escalating support: ~EUR 1.7bn (2022), EUR 2.1bn (2023), and a Feb 2024 10-year bilateral security treaty pledging up to EUR 3bn for 2024, plus CAESAR howitzers, AMX-10 RC and air defense. The commitment has been clearly honored, even if its scale relative to other allies is debated.",
+    "key_evidence": [
+      "France-Ukraine 10-year bilateral security agreement signed Feb 16, 2024",
+      "Up to EUR 3bn pledged for 2024; EUR 1.7bn (2022) and EUR 2.1bn (2023) prior",
+      "Deliveries include CAESAR howitzers, AMX-10 RC armor, air-defense systems"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/actualite/france-ukraine-jusqua-3-milliards-deuros-daide-militaire",
+      "https://www.france24.com/fr/europe/20240216-%F0%9F%94%B4-en-direct-suivez-la-conf%C3%A9rence-de-presse-d-emmanuel-macron-et-volodymyr-zelensky"
+    ]
+  },
+  {
+    "id": "end-barkhane-sahel",
+    "title": "Reorganize the Sahel mission (end Operation Barkhane)",
+    "description": "Amid deteriorating relations with Sahel juntas, Macron ended Operation Barkhane and withdrew French forces from Mali and later Niger.",
+    "date_made": "2021-06-10",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "Macron announced Barkhane's drawdown (June 2021) and its formal end (Nov 9, 2022); French troops left Mali by mid-Aug 2022 and subsequently Niger after the 2023 coup. The stated intent was carried out, though the broader counter-jihadist objective in the Sahel is widely viewed as a strategic setback.",
+    "key_evidence": [
+      "Barkhane formally ended Nov 9, 2022; full Mali withdrawal completed mid-Aug 2022",
+      "Pivot to 'support and cooperation' posture; later withdrawal from Niger post-2023 coup",
+      "Outcome assessed by many analysts as a strategic retreat in the Sahel"
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/infos/international/defense-emmanuel-macron-annonce-la-fin-officielle-de-l-operation-militaire-barkhane-au-sahel-1667989373",
+      "https://fr.wikipedia.org/wiki/Op%C3%A9ration_Barkhane"
+    ]
+  },
+  {
+    "id": "apd-0-7-percent",
+    "title": "Raise development aid (APD) toward 0.7% of GNI by 2025",
+    "description": "The 2021 development programming law set a trajectory to 0.55% of GNI by 2022 and aimed for 0.7% by 2025.",
+    "date_made": "2021-08-04",
+    "category": "Europe & Foreign Policy",
+    "status": "broken",
+    "confidence_score": 0.88,
+    "reasoning": "France hit 0.56% in 2022 but then reversed course: a historic ~one-third budget cut (EUR 2.1bn) for 2025 and an 11% drop, with ODA falling back to ~0.45% in 2025. NGOs and the Senate consider the 0.7%-by-2025 trajectory now defunct.",
+    "key_evidence": [
+      "Programming law (Aug 4, 2021) targeted 0.55% by 2022, 0.7% by 2025",
+      "Peaked at ~0.56% (2022), then fell to ~0.45% in 2025 amid record cuts",
+      "Historic ~one-third (EUR 2.1bn) ODA cut for 2025; trajectory deemed 'caduque'"
+    ],
+    "source_url": [
+      "https://www.coordinationsud.org/communique-de-presse/aide-publique-au-developpement-en-2025-recul-confirme-au-niveau-mondial-decrochage-catastrophique-pour-la-france/",
+      "https://www.oxfamfrance.org/communiques-de-presse/publication-des-chiffres-de-laide-publique-au-developpement-2024/"
+    ]
+  },
+  {
+    "id": "pass-culture-300-euros-jeunes",
+    "title": "Pass Culture: a EUR 300 cultural credit for 18-year-olds",
+    "description": "Macron promised a 'Pass Culture' giving every young person a cultural credit (campaign pledge of 500 euros, later set at 300 euros) to spend on books, concerts, museums and cultural goods, generalised nationwide.",
+    "date_made": "2017-02-23",
+    "category": "Culture",
+    "status": "compromise",
+    "confidence_score": 0.9,
+    "reasoning": "The Pass Culture was created and generalised, but at 300 euros rather than the 500 promised. A Feb. 2025 decree cut the individual credit (18-year-olds to 150 euros over 3 years) after a critical Dec. 2024 Cour des comptes report on runaway costs and limited impact, so it is delivered but materially scaled back.",
+    "key_evidence": [
+      "Generalised nationally with a 300-euro credit at 18, not the 500 euros pledged in 2017",
+      "Budget rose from 93M euros (2021) to 244M euros (2024)",
+      "Feb. 27 2025 decree reduced 18-year-old credit to 150 euros over 3 years",
+      "Dec. 2024 Cour des comptes criticised 'uncontrolled growth of credits' and limited durable impact"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/pass-culture-pour-jeunes-18-ans-48785/",
+      "https://fr.wikipedia.org/wiki/Pass_Culture"
+    ]
+  },
+  {
+    "id": "notre-dame-reconstruction-cinq-ans",
+    "title": "Rebuild Notre-Dame de Paris within five years",
+    "description": "On the night of the April 2019 fire, Macron pledged to rebuild Notre-Dame Cathedral and reopen it within five years.",
+    "date_made": "2019-04-16",
+    "category": "Culture",
+    "status": "kept",
+    "confidence_score": 0.97,
+    "reasoning": "The cathedral reopened to the public on 8 December 2024, just under five years and eight months after the 15 April 2019 fire, meeting the symbolic five-year target after a national fundraising drive of roughly 840M euros.",
+    "key_evidence": [
+      "Pledge made by Macron the night of the fire, 15-16 April 2019",
+      "Cathedral reopened to worship and visitors on 8 December 2024",
+      "Reconstruction mobilised craftspeople across France for five years"
+    ],
+    "source_url": [
+      "https://www.ina.fr/ina-eclaire-actu/cathedrale-notre-dame-de-paris-incendie-emmanuel-macron-promesse-reconstruction"
+    ]
+  },
+  {
+    "id": "cite-internationale-langue-francaise-villers-cotterets",
+    "title": "Create the Cité internationale de la langue française at Villers-Cotterêts",
+    "description": "Macron pledged to restore the dilapidated Chateau de Villers-Cotterets and turn it into a Cite internationale de la langue francaise dedicated to French and Francophone culture.",
+    "date_made": "2018-03-20",
+    "category": "Culture",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Announced in 2018 and personally inaugurated by Macron on 30 October 2023, opening to the public 1 November 2023; it exceeded its 200,000-visitor first-year target and hosted the 2024 Francophonie Summit.",
+    "key_evidence": [
+      "Announced by Macron in 2018; renovation entrusted to the Centre des monuments nationaux",
+      "Inaugurated by Macron 30 October 2023, public opening 1 November 2023",
+      "Over 260,000 visitors in year one, exceeding the 200,000 target",
+      "Hosted the 19th Francophonie Summit in October 2024"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2023/10/30/inauguration-de-la-cite-internationale-de-la-langue-francaise-a-villers-cotterets",
+      "https://www.culture.gouv.fr/regions/drac-hauts-de-france/actualites/villers-cotterets-inauguration-de-la-cite-internationale-de-la-langue-francaise"
+    ]
+  },
+  {
+    "id": "restitution-oeuvres-art-africaines",
+    "title": "Return African cultural heritage",
+    "description": "In his 2017 Ouagadougou speech, Macron committed to enabling the temporary or permanent restitution of African cultural heritage held in French collections.",
+    "date_made": "2017-11-28",
+    "category": "Culture",
+    "status": "in_progress",
+    "confidence_score": 0.82,
+    "reasoning": "Concrete restitutions occurred (26 Abomey treasures and El Hadj Omar Tall's sword in 2020-2021; Cote d'Ivoire's Djidji Ayokwe drum in early 2026) and a general restitution framework law was passed (loi n 2026-351, JO 10 May 2026). Progress is real but partial relative to the broad ambition.",
+    "key_evidence": [
+      "2018 Sarr-Savoy report commissioned by Macron underpinned the policy",
+      "Law of 24 Dec. 2020 enabled return of 26 Abomey works to Benin and Omar Tall's sword to Senegal",
+      "General framework law n 2026-351 published JO 10 May 2026 to simplify restitutions",
+      "Critics note returns remain limited relative to outstanding requests"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2020/12/18/restitution-des-biens-culturels-une-promesse-tenue-pour-une-nouvelle-page-des-relations-entre-lafrique-et-la-france",
+      "https://www.village-justice.com/articles/loi-mai-2026-relative-restitution-des-biens-culturels-cadre-juridique-innovant,57690.html"
+    ]
+  },
+  {
+    "id": "quart-heure-lecture-ecoles",
+    "title": "Generalize the daily 15-minute reading session in schools",
+    "description": "Macron promised to generalise a daily 15-minute silent reading session across French primary schools to foster reading habits.",
+    "date_made": "2024-01-16",
+    "category": "Culture",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The 'quart d'heure de lecture' has been generalised by the Education Ministry across schools (kindergarten to CM2) with eduscol guidance and an annual national reading day in March; implementation is rolled out though intensity varies locally.",
+    "key_evidence": [
+      "Reaffirmed by Macron among January 2024 education announcements",
+      "Education Ministry/eduscol generalised the daily 15-minute reading practice",
+      "National '10 mars, je lis' reading quarter-hour established each year",
+      "Applies from maternelle through CM2 across schools"
+    ],
+    "source_url": [
+      "https://eduscol.education.gouv.fr/6336/le-quart-d-heure-de-lecture",
+      "https://www.vie-publique.fr/discours/293750-emmanuel-macron-05042024-politique-de-lenseignement"
+    ]
+  },
+  {
+    "id": "reforme-audiovisuel-public-france-medias",
+    "title": "Reform public broadcasting (France Médias holding / merger)",
+    "description": "Macron's government backed a reform creating a France Medias holding to group France Televisions, Radio France and INA, with a planned full merger.",
+    "date_made": "2022-04-13",
+    "category": "Culture",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "After the abolition of the TV licence (tracked separately), the reform creating a France Medias holding (then merger) advanced through Parliament - the Senate adopted it in second reading on 11 July 2025 - but the structural merger had not been completed and remains contested as of June 2026.",
+    "key_evidence": [
+      "Reform creates a France Medias holding over FTV, Radio France and INA, with merger to follow",
+      "Senate adopted the proposal in second reading on 11 July 2025 (194 to 113)",
+      "Reform remains highly contested by unions and parts of Parliament"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/questions-reponses/294246-projet-de-fusion-des-medias-audiovisuels-publics-en-5-questions",
+      "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-a-la-reforme-de-laudiovisuel-public-et-a-la-souverainete-audiovisuelle.html"
+    ]
+  },
+  {
+    "id": "seine-baignable-baignade-publique",
+    "title": "Make the Seine swimmable for the Olympics and open it to public bathing",
+    "description": "Macron pledged that the Seine would be clean enough for Olympic swimming events and would open to public bathing in Paris after the 2024 Games.",
+    "date_made": "2021-07-09",
+    "category": "Sports",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Despite weather-related disruptions, Olympic open-water/triathlon events were held in the Seine in summer 2024, and three public bathing sites opened in summer 2025 for the first time in roughly a century, backed by ~1.4bn euros of cleanup investment.",
+    "key_evidence": [
+      "~1.4bn euros bathing plan and a stormwater storage basin built to cut pollution",
+      "Olympic triathlon and marathon-swimming held in the Seine in 2024",
+      "Three free public bathing sites opened 5 July-31 Aug 2025 in Paris",
+      "First public Seine swimming in about 100 years"
+    ],
+    "source_url": [
+      "https://www.paris.fr/pages/la-seine-s-ouvre-a-la-baignade-les-trois-sites-devoiles-31078",
+      "https://www.cnews.fr/france/2024-08-01/seine-le-fleuve-sera-t-il-reellement-baignable-et-accessible-au-public-apres-les"
+    ]
+  },
+  {
+    "id": "30-minutes-activite-physique-ecole",
+    "title": "30 minutes of daily physical activity in primary school",
+    "description": "Macron pledged a daily 30 minutes of physical activity in all primary schools, framed partly as a Paris 2024 'Generation 2024' legacy and an anti-childhood-obesity measure.",
+    "date_made": "2020-02-04",
+    "category": "Sports",
+    "status": "compromise",
+    "confidence_score": 0.82,
+    "reasoning": "The scheme was formally generalised to all primary schools from September 2022, but a 2024 Senate report found only ~42% of schools actually implemented it, contradicting Macron's claim of 90% coverage, so adoption is far below the announced target.",
+    "key_evidence": [
+      "Announced Feb. 2020; generalised to all primary schools from Sept. 2022",
+      "Macron claimed 90% coverage in April 2024",
+      "2024 Senate report: only ~42% of primary schools implemented it",
+      "Senate judged it 'far from the presidential satisfecit'"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/education/30-minutes-dactivite-physique-quotidienne-a-lecole-un-rapport-senatorial-dresse-un-premier-bilan-en-demi-teinte",
+      "https://www.senat.fr/rap/r23-774/r23-774-syn.pdf"
+    ]
+  },
+  {
+    "id": "deux-heures-sport-college",
+    "title": "Two extra hours of sport in middle school (collège)",
+    "description": "Macron pledged two extra weekly hours of sport for college students, delivered with sports clubs and federations, to curb the drop-off in physical activity among 11-14 year-olds.",
+    "date_made": "2022-09-15",
+    "category": "Sports",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "Launched as an experiment in 169 schools (Sept. 2022), extended to all departments and ~700 volunteer colleges from autumn 2023 (target ~10% of colleges per department), but it remained an opt-in scheme rather than full generalisation as of mid-2026.",
+    "key_evidence": [
+      "Experiment launched Sept. 2022 in 169 colleges",
+      "Extended to all departments with ~700 volunteer colleges from autumn 2023",
+      "Target of ~10% of colleges per department, at least one per department",
+      "Prioritised for students furthest from regular sport, girls and pupils with disabilities"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2023/09/05/rentree-scolaire-et-sportive-2023-les-annonces-du-president-de-la-republique",
+      "https://www.banquedesterritoires.fr/deux-heures-de-sport-au-college-lexperimentation-elargie-tous-les-departements"
+    ]
+  },
+  {
+    "id": "5000-equipements-sportifs-proximite",
+    "title": "5,000 local sports facilities by 2024",
+    "description": "Macron pledged 5,000 new neighbourhood sports facilities (citystades, dojos, 3x3 basketball courts, skateparks) by 2024 as a Paris 2024 legacy, backed by 200M euros.",
+    "date_made": "2021-10-14",
+    "category": "Sports",
+    "status": "in_progress",
+    "confidence_score": 0.62,
+    "reasoning": "The 200M-euro 'Generation 2024' equipment plan was launched and financed many facilities, but evidence that the full 5,000-unit target was completed by end-2024 is not clearly established; counted as substantially advanced rather than confirmed complete.",
+    "key_evidence": [
+      "Plan announced Oct. 2021: 200M euros for 5,000 proximity facilities by 2024",
+      "Mix of citystades, dojos, 3x3 courts, skateparks, padel courts",
+      "100M euros allocated in 2022, remainder over 2023-2024",
+      "Framed explicitly as Paris 2024 Olympic legacy"
+    ],
+    "source_url": [
+      "https://www.amf.asso.fr/documents-emmanuel-macron-annonce-200-millions-deuros-pour-les-equipements-sportifs-proximite/40936"
+    ]
+  },
+  {
+    "id": "ia-109-milliards-investissement",
+    "title": "EUR 109 billion of AI investment in France",
+    "description": "At the February 2025 AI Action Summit in Paris, Macron announced 109bn euros of private/foreign/French investment in artificial intelligence in France, including data centres and compute capacity.",
+    "date_made": "2025-02-10",
+    "category": "Digital & Tech",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The 109bn-euro figure was announced and is a stated/aggregated pledge of confirmed investment commitments (data centres, partnerships, compute) rather than spent funds; deployment is ongoing and the headline number is a projection of commitments, labelled in_progress and contested in scale.",
+    "key_evidence": [
+      "Announced by Macron at the AI Action Summit (6-11 Feb. 2025, Grand Palais)",
+      "109bn euros described as confirmed private, foreign and French investments",
+      "Covers data centres, partnerships with major French firms and compute capacity",
+      "Figure is an aggregate of pledged commitments, not realised spending (projection)"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/en/emmanuel-macron/2025/02/11/make-france-an-ai-powerhouse",
+      "https://www.euronews.com/next/2025/02/10/world-leaders-and-tech-giants-converge-in-paris-for-ai-summit"
+    ]
+  },
+  {
+    "id": "supercalculateur-jean-zay-extension-ia",
+    "title": "Boost AI compute power (Jean Zay supercomputer extension)",
+    "description": "As part of France 2030, Macron backed expanding national AI compute, including a major extension of the Jean Zay supercomputer.",
+    "date_made": "2021-11-08",
+    "category": "Digital & Tech",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The Jean Zay extension was inaugurated 13 May 2025 with a 40M-euro France 2030 investment, quadrupling its computing power to ~125.9 petaflops, making it one of France's and Europe's most powerful AI machines.",
+    "key_evidence": [
+      "40M-euro investment via France 2030",
+      "Computing power increased fourfold to ~125.9 petaflops",
+      "Extension inaugurated 13 May 2025",
+      "Operated by GENCI/CNRS-IDRIS for scientific and industrial AI use"
+    ],
+    "source_url": [
+      "https://www.cnrs.fr/en/press/jean-zay-supercomputer-france-has-increased-its-ai-dedicated-resources-fourfold",
+      "https://www.elysee.fr/en/emmanuel-macron/2025/02/11/make-france-an-ai-powerhouse"
+    ]
+  },
+  {
+    "id": "100-licornes-francaises-2030",
+    "title": "Reach 100 French tech unicorns by 2030 (25 by 2025)",
+    "description": "Macron set targets for the French Tech ecosystem: 25 unicorns by 2025 and 100 French unicorns (including 25 'green' unicorns) by 2030.",
+    "date_made": "2019-09-17",
+    "category": "Digital & Tech",
+    "status": "in_progress",
+    "confidence_score": 0.78,
+    "reasoning": "The intermediate goal of 25 unicorns was reached in January 2022, three years ahead of the 2025 target, so that milestone is met; but the headline 100-unicorns-by-2030 objective remains a future target still in progress as of mid-2026. Unicorn counts are method-dependent/contested.",
+    "key_evidence": [
+      "2019 target of 25 unicorns by 2025, reached early in January 2022 (Exotec the 25th)",
+      "Targets reaffirmed at VivaTech 2022: 100 unicorns (incl. 25 green) by 2030",
+      "100-unicorn 2030 objective still pending (projection)",
+      "Unicorn tallies vary by source/valuation method (contested)"
+    ],
+    "source_url": [
+      "https://www.aefinfo.fr/depeche/674708-innovation-e-macron-fixe-un-objectif-de-100-licornes-dici-2030-et-1-million-de-personnes-formees-sur-des-secteurs-cles",
+      "https://www.techzine.eu/news/privacy-compliance/71394/france-gets-its-25th-tech-unicorn-reaching-macrons-goal-early/"
+    ]
+  },
+  {
+    "id": "tres-haut-debit-fibre-2022",
+    "title": "Cover the whole country with very-high-speed broadband (fibre) by 2022",
+    "description": "Macron pledged to cover the entire territory in very high-speed broadband by 2022, with 80% in fibre, accelerating the France Tres Haut Debit plan.",
+    "date_made": "2017-07-17",
+    "category": "Digital & Tech",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "Coverage was massively expanded toward the 2022 goal, but full nationwide 100% fibre was never achieved (and Macron himself called it technically/financially impossible), with remote areas relying on fixed 4G and satellite, so it is a partial delivery.",
+    "key_evidence": [
+      "France Tres Haut Debit plan, ~20bn euros investment toward 2022 coverage",
+      "Macron accelerated 'good broadband for all' to end-2020",
+      "Macron stated full 100% fibre is 'technologically and financially untenable'",
+      "Objective was 100% very-high-speed with 80% fibre, not 100% fibre"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/couvrir-lensemble-du-territoire-en-tres-haut-debit-ou-fibre-dici-2022/",
+      "https://www.usine-digitale.fr/article/tres-haut-debit-pour-tous-macron-a-t-il-tenu-ses-promesses.N1804012"
+    ]
+  },
+  {
+    "id": "loi-programmation-recherche-lpr-25-milliards",
+    "title": "Research programming law (LPR): +EUR 25 billion over 2021-2030",
+    "description": "Macron's government enacted the LPR (loi de programmation de la recherche 2021-2030) pledging 25bn euros of additional research investment over the decade, raising the annual research budget toward 20bn euros by 2030.",
+    "date_made": "2020-12-24",
+    "category": "Research & Higher Education",
+    "status": "compromise",
+    "confidence_score": 0.72,
+    "reasoning": "The LPR was passed and the research budget did rise materially (the main programme up ~1.4bn euros 2020-2025, reaching ~8.3bn in 2025), but the programmed trajectory was disrupted by 2024 credit cancellations and is acknowledged as not fully maintainable as planned, so it is partially delivered.",
+    "key_evidence": [
+      "LPR enacted Dec. 2020, pledging 25bn euros over 2021-2030",
+      "Main funding programme reached ~8.3bn euros in 2025 (+~1.4bn since 2020)",
+      "Early-2024 payment-credit cancellations interrupted the LPR trajectory",
+      "Officials acknowledge the programming 'cannot be fully maintained' as planned"
+    ],
+    "source_url": [
+      "https://www.enseignementsup-recherche.gouv.fr/fr/loi-de-programmation-de-la-recherche-pour-les-annees-2021-2030-49733",
+      "https://www.vie-publique.fr/rapport/286135-mise-en-oeuvre-de-la-loi-de-programmation-de-la-recherche"
+    ]
+  },
+  {
+    "id": "depenses-recherche-3-pourcent-pib",
+    "title": "Raise R&D spending to 3% of GDP",
+    "description": "Macron reaffirmed the long-standing Lisbon target of devoting at least 3% of GDP to research and development, via a multi-year strategy.",
+    "date_made": "2022-03-17",
+    "category": "Research & Higher Education",
+    "status": "broken",
+    "confidence_score": 0.78,
+    "reasoning": "France's national research effort stood at only ~2.18-2.22% of GDP in 2022-2023, well below the 3% target and showing no convergence toward it within the term, so the objective is not on track to be met.",
+    "key_evidence": [
+      "3% target dates from the 2000 Lisbon strategy; reaffirmed by Macron",
+      "DIRD ~58.1bn euros in 2022, about 2.22% of GDP",
+      "National research effort ~2.18% in 2023",
+      "France trails Sweden, Belgium, Austria and Germany (all above 3.1%)"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/macron-veut-allouer-3-du-pib-a-la-recherche-et-au-developpement-55762",
+      "https://www.insee.fr/fr/statistiques/3281637?sommaire=3281778"
+    ]
+  },
+  {
+    "id": "mon-master-plateforme-nationale",
+    "title": "Create a national master's-admissions platform (Mon Master)",
+    "description": "The government pledged a single national platform to centralise and harmonise applications and admissions into first-year master's programmes.",
+    "date_made": "2022-07-01",
+    "category": "Research & Higher Education",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The monmaster.gouv.fr platform launched on 1 February 2023, centralising over 8,000 master's programmes and harmonising the calendar; it is operational and used annually, though early editions drew criticism over students left without offers.",
+    "key_evidence": [
+      "monmaster.gouv.fr launched 1 February 2023",
+      "Centralises 3,500+ formations / 8,000+ master's programmes nationwide",
+      "Replaced previously fragmented platforms and harmonised the calendar",
+      "Operational for 2025-2026 cycle; criticised for unplaced students in early years"
+    ],
+    "source_url": [
+      "https://www.enseignementsup-recherche.gouv.fr/fr/mon-master-plateforme-nationale-candidature-88498",
+      "https://monmaster.gouv.fr/"
+    ]
+  },
+  {
+    "id": "logement-choc-offre-construction",
+    "title": "Trigger a 'supply shock' in housing construction",
+    "description": "In 2017, Macron promised a 'supply shock' (choc d'offre) to revive housing construction, free up land and simplify building norms (loi ELAN).",
+    "date_made": "2017-04-01",
+    "category": "Housing",
+    "status": "broken",
+    "confidence_score": 0.82,
+    "reasoning": "Macron himself acknowledged the 'supply shock' never happened. Building permits fell (~500,000 in 2017 to ~381,000 in 2020) and social-housing output hit the term's lowest level. The construction crisis worsened in 2023-2024.",
+    "key_evidence": [
+      "Building permits fell from ~500,000 (2017) to ~381,000 (2020)",
+      "Social-housing output in 2021 (~63,800) the lowest of the term, vs ~89,000 in 2018",
+      "Macron publicly admitted the promised supply shock did not occur",
+      "New-build crisis intensified in 2023-2024"
+    ],
+    "source_url": [
+      "https://www.lemoniteur.fr/article/la-politique-de-logement-d-emmanuel-macron-passee-au-crible.2157999",
+      "https://www.institutmontaigne.org/ressources/pdfs/publications/logement-quinquennat-macron-le-grand-decryptage.pdf"
+    ]
+  },
+  {
+    "id": "zero-sdf-personne-a-la-rue-2017",
+    "title": "No one left on the streets ('zero homeless') by end-2017",
+    "description": "On 27 July 2017, Macron declared he no longer wanted, 'by the end of the year', to see 'women and men on the streets'. A commitment to end rough sleeping.",
+    "date_made": "2017-07-27",
+    "category": "Housing",
+    "status": "broken",
+    "confidence_score": 0.92,
+    "reasoning": "An explicitly broken promise, acknowledged as such. The number of homeless people rose sharply (estimates from ~143,000 in 2017 to over 330,000 in 2023, converging nonprofit figures). The Fondation pour le logement documents a continued deterioration.",
+    "key_evidence": [
+      "Macron quote, July 2017: 'I no longer want, by the end of the year, to see women and men on the streets'",
+      "Homelessness estimated to have risen sharply 2017-2023 (nonprofit figures)",
+      "Nonprofit-sector assessment judged very disappointing",
+      "Frequently cited as one of the earliest broken promises"
+    ],
+    "source_url": [
+      "https://www.fondationpourlelogement.fr/wp-content/uploads/2025/06/27e-rapport-sur-letat-du-mal-logement-en-france-2022-cahier-3-logement-dabord-une-promesse-a-tenir.pdf"
+    ]
+  },
+  {
+    "id": "logement-dabord-plan-2018-2022",
+    "title": "Five-year 'Logement d'abord' (Housing First) plan (2018-2022)",
+    "description": "A strategy presented in 2017 aiming for direct access to durable housing rather than emergency shelter, with quantified targets (40,000 PLAI/year, 10,000 boarding-house places, 40,000 rental-intermediation places).",
+    "date_made": "2017-09-11",
+    "category": "Housing",
+    "status": "compromise",
+    "confidence_score": 0.78,
+    "reasoning": "Mixed results: the DIHAL claims ~174,000 homeless people rehoused since 2017, but not all quantified targets were met. The plan was renewed for 2023-2027, a sign of sustained commitment but unrealized ambitions.",
+    "key_evidence": [
+      "Targets: 40,000 PLAI/year, 10,000 boarding-house places, 40,000 rental-intermediation places",
+      "DIHAL: ~174,000 people rehoused in the social-housing stock since 2017",
+      "Outcome acknowledged as below ambitions by the nonprofit sector",
+      "Plan renewed for 2023-2027"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/organisation/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement/la-strategie-logement-dabord-ses-resultats"
+    ]
+  },
+  {
+    "id": "renovation-thermique-passoires-logements",
+    "title": "Renovate energy-sieve homes (500,000/year in 2017, 700,000/year in 2022)",
+    "description": "Macron pledged in 2017 to renovate 500,000 homes/year (plan Hulot) and in 2022 to raise the target to 700,000 energy renovations/year, to eradicate energy-sieve dwellings ('passoires thermiques').",
+    "date_made": "2017-12-01",
+    "category": "Housing",
+    "status": "broken",
+    "confidence_score": 0.78,
+    "reasoning": "The promised pace was never achieved for full/high-performance renovations. As of 1 January 2022, ~5.2 million primary residences were still energy sieves (DPE classes F/G). Distinct from MaPrimeRénov' (already covered): this entry tracks the annual renovation-volume targets.",
+    "key_evidence": [
+      "2017 target: 500,000 homes/year; 2022 target: 700,000/year",
+      "~5.2 million energy-sieve homes as of 1 January 2022 (~17% of the stock)",
+      "Full renovations far below annual targets",
+      "Pledge to halve the number of energy sieves not met"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/presidentielle-2022/emmanuel-macron/lancer-la-renovation-thermique-de-700-000-logements-par-an/",
+      "https://reporterre.net/Renovation-des-passoires-energetiques-Macron-promettait-le-gouvernement-recule"
+    ]
+  },
+  {
+    "id": "encadrement-loyers-experimentation-elan",
+    "title": "Rent control on an experimental basis (loi ELAN)",
+    "description": "The loi ELAN (23 Nov. 2018) reinstated rent control in high-demand zones, on an experimental and voluntary basis for participating local authorities, for 5 years.",
+    "date_made": "2018-11-23",
+    "category": "Housing",
+    "status": "kept",
+    "confidence_score": 0.75,
+    "reasoning": "The scheme was effectively put in place and applied (Paris, Lille, then several metropolitan areas), and extended by the loi 3DS until November 2026. Commitment kept in experimental form, but with limited scope (voluntary, uneven enforcement).",
+    "key_evidence": [
+      "Loi ELAN of 23 Nov. 2018: 5-year experiment in high-demand zones",
+      "Applied in Paris, Lille, Lyon, Bordeaux, Montpellier, etc.",
+      "Extended by loi 3DS of 21 Feb. 2022 until 25 Nov. 2026",
+      "Reference-rent mechanism set by prefectural order"
+    ],
+    "source_url": [
+      "https://www.anil.org/aj-experimentation-encadrement-niveau-loyers-zones-tendues/",
+      "https://www.ecologie.gouv.fr/politiques-publiques/encadrement-loyers"
+    ]
+  },
+  {
+    "id": "zan-zero-artificialisation-nette-2050",
+    "title": "Zero net land artificialization (ZAN) by 2050",
+    "description": "The Loi Climat et Résilience (22 Aug. 2021) sets a goal of zero net land artificialization by 2050, with an interim step of halving land consumption over 2021-2031.",
+    "date_made": "2021-08-22",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": 0.72,
+    "reasoning": "The goal is written into law and decrees were published, but implementation has been watered down: several exemptions voted (2022-2024), an exemption for 'projects of major national interest', and strong pressure from local officials. The 2050 trajectory is maintained in theory but weakened. Distinct from the overall Loi Climat.",
+    "key_evidence": [
+      "Loi Climat et Résilience of 22 Aug. 2021: ZAN by 2050, -50% land consumption by 2031",
+      "~20,000-24,000 ha artificialized/year at the time of the law",
+      "Loi ZAN of 20 July 2023 and numerous exemptions 2022-2024",
+      "Exemption for industrial projects of major interest"
+    ],
+    "source_url": [
+      "https://www.strategie-plan.gouv.fr/zero-artificialisation-nette-des-sols-objectif-2050",
+      "https://bigmedia.bpifrance.fr/nos-dossiers/lobjectif-zero-artificialisation-nette-zan-des-sols-de-la-loi-climat-et-resilience"
+    ]
+  },
+  {
+    "id": "serm-rer-metropolitains-10-villes",
+    "title": "Develop 10 metropolitan RER networks (SERM)",
+    "description": "In November 2022 Macron announced developing 'RER'-style rail networks in around ten metropolitan areas; enacted via the loi SERM of 27 Dec. 2023 targeting at least ten metropolitan express regional services within ten years.",
+    "date_made": "2022-11-27",
+    "category": "Transport",
+    "status": "in_progress",
+    "confidence_score": 0.78,
+    "reasoning": "The commitment was translated into law (loi SERM published in the JO on 28 Dec. 2023, deadline 2033) and 13 projects were designated with a start-up envelope (~EUR 767-800M). Implementation has begun but long-term financing is not secured; no network is fully operational as of mid-2026.",
+    "key_evidence": [
+      "Macron announcement Nov. 2022: 'RER' in around ten metropolitan areas",
+      "Loi SERM of 27 Dec. 2023: >=10 SERM within 10 years (horizon Dec. 2033)",
+      "13 projects, start-up envelope ~EUR 767-800M (CPER)",
+      "Société du Grand Paris renamed Société des grands projets"
+    ],
+    "source_url": [
+      "https://www.banquedesterritoires.fr/rer-metropolitains-ce-que-contient-la-loi",
+      "https://lcp.fr/actualites/rer-metropolitains-une-proposition-de-loi-pour-mettre-sur-les-rails-l-objectif-d"
+    ]
+  },
+  {
+    "id": "plan-ferroviaire-100-milliards-2040",
+    "title": "EUR 100 billion rail investment plan by 2040",
+    "description": "In February 2023 the government announced a rail-investment plan of ~EUR 100bn by 2040 (network regeneration and modernization, SERM, freight), of which EUR 84.3bn over 2023-2027.",
+    "date_made": "2023-02-24",
+    "category": "Transport",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "Officially announced by PM Borne, with EUR 1bn/year for regeneration and EUR 500M/year for modernization. The commitment is underway, but the EUR 100bn envelope is co-financed (State, SNCF, EU, local authorities) and judged unsecured by the Senate. Actual annual financing is contested (projection).",
+    "key_evidence": [
+      "Borne announcement of 24 Feb. 2023: ~EUR 100bn by 2040, EUR 84.3bn over 2023-2027",
+      "EUR 1bn/year regeneration + EUR 500M/year network modernization",
+      "Received 'with caution' by the Senate on financing",
+      "State/SNCF/EU/local-authority co-financing not guaranteed"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/actualite/plan-davenir-pour-les-transports",
+      "https://www.publicsenat.fr/actualites/politique/le-plan-ferroviaire-a-100-milliards-d-euros-est-accueilli-avec-vigilance-au"
+    ]
+  },
+  {
+    "id": "relance-trains-de-nuit",
+    "title": "Revive night trains",
+    "description": "In July 2020 Macron said he wanted to 'massively redevelop' night trains; the plan targets around ten new lines by 2030.",
+    "date_made": "2020-07-14",
+    "category": "Transport",
+    "status": "in_progress",
+    "confidence_score": 0.68,
+    "reasoning": "Partially delivered: reopening of Paris-Nice (May 2021), Paris-Tarbes/Lourdes, Paris-Aurillac, with ~EUR 100M of investment. But the goal of 10 new lines by 2030 remains far off, with several openings delayed or abandoned.",
+    "key_evidence": [
+      "Macron announcement July 2020; recovery plan Sept. 2020",
+      "Target of ~10 night lines by 2030",
+      "Reopenings: Paris-Nice (2021), Paris-Tarbes, Paris-Aurillac",
+      "~EUR 100M invested; criticism over the gap between rhetoric and action"
+    ],
+    "source_url": [
+      "https://www.europe1.fr/economie/macron-veut-redevelopper-massivement-fret-ferrovaire-trains-de-nuit-et-petites-lignes-3980979",
+      "https://www.usinenouvelle.com/article/le-developpement-des-trains-de-nuit-sur-de-bons-rails-en-europe-mais-a-la-peine-en-france.N2081396"
+    ]
+  },
+  {
+    "id": "leasing-social-vehicule-electrique-100-euros",
+    "title": "Social leasing: an electric car for EUR 100/month",
+    "description": "A 2022 campaign pledge launched on 14 December 2023: long-term leasing of electric vehicles at EUR 100/month for low-income households.",
+    "date_made": "2022-03-17",
+    "category": "Transport",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "The scheme was effectively launched in January 2024 and was an immediate success (>50,000 orders, exceeding the initial ~20,000-25,000 target), prompting its closure after six weeks. Relaunched for 2025. Kept in principle but with limited durability/scale and a high budgetary cost.",
+    "key_evidence": [
+      "Launched by Macron on 14 Dec. 2023, bookings from 1 Jan. 2024",
+      ">50,000 validated orders, exceeding the initial target",
+      "2024 edition halted after ~6 weeks",
+      "New scheme relaunched late 2024/2025"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2023/12/14/voitures-electriques-a-100-euros-par-mois-lannonce-du-president-emmanuel-macron",
+      "https://www.europe1.fr/economie/voitures-electriques-le-leasing-social-sarrete-pour-2024-nouveau-dispositif-en-2025-4230215"
+    ]
+  },
+  {
+    "id": "100000-bornes-recharge-electriques",
+    "title": "100,000 public EV charging points by end-2021",
+    "description": "A target set by Macron's government (brought forward by a year in May 2020) of 100,000 public charging points for electric vehicles by end-2021/2022.",
+    "date_made": "2020-05-01",
+    "category": "Transport",
+    "status": "compromise",
+    "confidence_score": 0.82,
+    "reasoning": "The target was missed at the deadline (end 2021/2022) but reached a few months late: the 100,000-public-point threshold was crossed on 5 May 2023. Deployment genuinely accelerated. Next target: 400,000 by 2030.",
+    "key_evidence": [
+      "100,000-charging-point target brought forward to end-2021 by Macron (May 2020)",
+      "100,000-public-point threshold crossed on 5 May 2023 (late)",
+      "Pace rose from ~4,000/year (pre-2020) to ~28,500 (2022)",
+      "New target of 400,000 charging points by 2030"
+    ],
+    "source_url": [
+      "https://www.usinenouvelle.com/article/la-france-franchit-le-cap-des-100-000-bornes-de-recharge-pour-vehicules-electriques.N2128961"
+    ]
+  },
+  {
+    "id": "abandon-aeroport-notre-dame-des-landes",
+    "title": "Decision on the Notre-Dame-des-Landes airport",
+    "description": "During the 2017 campaign Macron committed to respecting the result of the local consultation (which favoured the project); on 17 January 2018 his government announced the airport's abandonment.",
+    "date_made": "2017-02-01",
+    "category": "Transport",
+    "status": "broken",
+    "confidence_score": 0.78,
+    "reasoning": "Macron had suggested he would build the airport while respecting the favourable 2016 local consultation. On 17 January 2018 PM Philippe announced its abandonment, presented by local officials as Macron's first broken word. A broken campaign commitment (in favour of upgrading Nantes-Atlantique).",
+    "key_evidence": [
+      "2016 local consultation favoured the project, which Macron said he would respect",
+      "Abandonment announced 17 January 2018 (Édouard Philippe, Nicolas Hulot)",
+      "Denounced as a 'first broken promise' by Loire-Atlantique officials",
+      "Chose to upgrade Nantes airport instead"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/notre-dame-des-landes-le-projet-abandonne-apres-des-annees-de-controverse-81510"
+    ]
+  },
+  {
+    "id": "grand-paris-express-achevement-2030",
+    "title": "Complete the Grand Paris Express by 2030",
+    "description": "In 2018 Macron confirmed the commitment to deliver the entire Grand Paris Express (lines 15, 16, 17, 18), with an overall service horizon of 2030 and some sections opening before the 2024 Olympics.",
+    "date_made": "2018-02-22",
+    "category": "Transport",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "The 2030 horizon is officially maintained and first sections have opened (line 14 extension for the 2024 Olympics, line 16). But delays of 2-5 years on several sections and cost drift (from ~EUR 35bn toward ~EUR 40bn) have been flagged by the Senate. Underway but uncertain on the full timetable.",
+    "key_evidence": [
+      "Macron commitment 2018: 2030 completion maintained",
+      "Line 14 extended and sections opened for the 2024 Olympics",
+      "Delays of 2-5 years on the eastern and western sections",
+      "Cost from ~EUR 35bn toward ~EUR 40bn, financing to be consolidated (Senate)"
+    ],
+    "source_url": [
+      "https://www.ecologie.gouv.fr/politiques-publiques/transports-ile-france-grand-paris-express",
+      "https://www.senat.fr/rap/r20-044/r20-044_mono.html"
+    ]
+  },
+  {
+    "id": "chlordecone-responsabilite-etat-reparation",
+    "title": "Acknowledge the State's responsibility in the chlordécone scandal",
+    "description": "During his September 2018 visit to the French Antilles, Macron stated that 'the State must take its share of responsibility' for chlordécone pollution and move 'down the path of reparation'.",
+    "date_made": "2018-09-27",
+    "category": "Overseas Territories",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "A symbolic acknowledgment in 2018, judged insufficient by associations. Legislative recognition of the State's 'share of responsibility', including decontamination and compensation, came only in June 2024. A real but late and partial advance.",
+    "key_evidence": [
+      "Macron statement Sept. 2018: 'the State must take its share of responsibility'",
+      "Deemed insufficient by Antillean associations",
+      "Law adopted June 2024 recognizing the State's 'share of responsibility'",
+      "Decontamination and victim compensation included among the objectives"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/20180927-france-antilles-macron-deplacement-chlordecone-cancer-pesticide-banane",
+      "https://www.temoignages.re/international/monde/chlordecone-en-guadeloupe-et-martinique-reconnaissance-tardive-et-partielle-de-la-responsabilite-de-l-etat"
+    ]
+  },
+  {
+    "id": "refondation-mayotte-chido",
+    "title": "Plan to rebuild Mayotte after Cyclone Chido",
+    "description": "After Cyclone Chido (Dec. 2024), Macron promised a plan to rebuild Mayotte worth more than EUR 3bn (EUR 3.2-4bn) over six years, enacted via the programming law for the rebuilding of Mayotte (2025).",
+    "date_made": "2024-12-19",
+    "category": "Overseas Territories",
+    "status": "in_progress",
+    "confidence_score": 0.74,
+    "reasoning": "A quantified commitment announced after Chido and carried by a programming law examined in Parliament in May-June 2025, including a water component (~EUR 350M by 2027). 2025-2031 programming with revision clauses; implementation is recent and results not yet measurable as of mid-2026.",
+    "key_evidence": [
+      "Macron announcement Dec. 2024: rebuilding plan >EUR 3bn (EUR 3.2-4bn) over 6 years",
+      "Programming law for the rebuilding of Mayotte (Senate May, Assembly June 2025)",
+      "Water and sanitation component: ~EUR 350M through 2027",
+      "2025-2031 programming with revision clauses"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/france/mayotte/visite-d-emmanuel-macron-a-mayotte-l-executif-annonce-un-plan-de-refondation-de-3-2-milliards-d-euros-sur-six-ans_7202652.html",
+      "https://coalition-eau.org/loi-de-programmation-pour-la-refondation-de-mayotte/"
+    ]
+  },
+  {
+    "id": "nouvelle-caledonie-troisieme-referendum",
+    "title": "Hold the 3rd self-determination referendum in New Caledonia",
+    "description": "In line with the Nouméa Accord, Macron had the third and final self-determination referendum organized, set for 12 December 2021, followed by a transition period toward a new status.",
+    "date_made": "2021-06-02",
+    "category": "Overseas Territories",
+    "status": "kept",
+    "confidence_score": 0.7,
+    "reasoning": "The referendum was held on 12 December 2021 (96.5% 'no', but a pro-independence boycott, 43.9% turnout), completing the Nouméa Accord cycle. The procedural commitment was kept, but the contested legitimacy opened a crisis (2024 riots) and the new status remains to be finalized.",
+    "key_evidence": [
+      "3rd referendum held 12 Dec. 2021 (96.5% 'no', 43.9% turnout)",
+      "Date maintained despite the pro-independence request to postpone",
+      "Completed the cycle of the three Nouméa Accord referendums",
+      "Opened a transition period toward a new status, strongly contested"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/eclairage/18649-nouvelle-caledonie-3e-referendum-dautodetermination-12-decembre-2021"
+    ]
+  },
+  {
+    "id": "vie-chere-outre-mer-reforme-octroi-de-mer",
+    "title": "Fight the high cost of living overseas / reform the 'octroi de mer'",
+    "description": "In 2022 Macron promised to reform the octroi de mer (overseas import duty), especially on essential goods, to lower prices in overseas territories while preserving local-authority revenues.",
+    "date_made": "2022-04-01",
+    "category": "Overseas Territories",
+    "status": "no_action",
+    "confidence_score": 0.7,
+    "reasoning": "A reform was launched on paper (CIOM July 2023, implementation through end-2027) but no tangible price decrease had been achieved by mid-2026; recurring social crises (Martinique 2024). Studies (Cour des comptes, 2024) downplay the octroi de mer's role (~4.4% of the final price), weakening the promise's reach.",
+    "key_evidence": [
+      "2022 campaign pledge to reform the octroi de mer to lower prices",
+      "CIOM July 2023: reform planned in the 2025 budget, rollout through end-2027",
+      "2024 study: octroi de mer ~4.4% of the final price on average",
+      "'High cost of living' crisis in Martinique in 2024; promise judged unmet (Fondation Jean-Jaurès)"
+    ],
+    "source_url": [
+      "https://www.jean-jaures.org/publication/vie-chere-en-outre-mer-la-demonstration-dune-promesse-egalitaire-et-republicaine-non-tenue/",
+      "https://www.banquedesterritoires.fr/octroi-de-mer-la-cour-des-comptes-prone-une-reforme-en-profondeur"
+    ]
+  },
+  {
+    "id": "pas-interdiction-pesticides-sans-solution",
+    "title": "No pesticide ban without an alternative solution",
+    "description": "A commitment reaffirmed (notably at the 2024 Salon de l'Agriculture) not to ban plant-protection products without an existing alternative for farmers, and to align the timetable at EU level.",
+    "date_made": "2024-02-24",
+    "category": "Agriculture",
+    "status": "in_progress",
+    "confidence_score": 0.62,
+    "reasoning": "The principle has been hammered home by Macron and the government ('no ban without a solution') and reflected in recent doctrine (alignment with the EU SUD directive, EU harmonization). It is in tension with his earlier environmental promises (glyphosate, Ecophyto, already covered); implementation is partial and contested.",
+    "key_evidence": [
+      "Macron: phasing out pesticides neither through 'a ban without a solution' nor 'procrastination'",
+      "Plan announced at the 2024 Salon de l'Agriculture, timetable aligned with the EU",
+      "Position: no ban outside the framework of the EU SUD directive",
+      "Macron regretted his initial pledges (glyphosate) as too unilateral"
+    ],
+    "source_url": [
+      "https://www.contexte.com/actualite/agro/pour-emmanuel-macron-la-sortie-des-pesticides-ne-peut-se-faire-ni-par-linterdiction-sans-solution-ni-par-la-procrastination_179855.html",
+      "https://www.pleinchamp.com/actualite/salon-de-l-agriculture-macron-annonce-un-nouveau-plan-sur-les-pesticides"
+    ]
+  },
+  {
+    "id": "brexit-soutien-pecheurs-licences",
+    "title": "Defend French fishers over post-Brexit licences",
+    "description": "In November 2021 Macron promised 'we will not let our fishers down', demanding that London grant the 'same number' of post-Brexit fishing licences and financial support for affected fishers.",
+    "date_made": "2021-11-19",
+    "category": "Fishing",
+    "status": "compromise",
+    "confidence_score": 0.68,
+    "reasoning": "France obtained a large share of the licences sought and rolled out aid (Brexit PAI plan, fleet exits; ~EUR 25.3M for 340 beneficiaries). But not all boats obtained a licence and fleet-exit schemes compensated some withdrawals, making it a compromise rather than a full victory.",
+    "key_evidence": [
+      "Macron, Nov. 2021: 'we will not let our fishers down', demanding the 'same number' of licences",
+      "Brexit PAI aid: ~EUR 25.3M for 340 final beneficiaries",
+      "Fleet-exit schemes to compensate vessels without a licence",
+      "Gradual quota transfers to the UK through mid-2026"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/europe/20211119-p%C3%AAche-post-brexit-la-france-ne-recule-pas-sur-les-licences-britanniques",
+      "https://www.mer.gouv.fr/FAQ_brexit_peche"
+    ]
+  },
+  {
+    "id": "aah-deconjugalisation",
+    "title": "Deconjugalize the AAH (assess on the disabled person's resources alone)",
+    "description": "Stop counting a partner's income when calculating the disabled adults' allowance (AAH), to make beneficiaries more financially independent.",
+    "date_made": "2022-08-16",
+    "category": "Disability",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Enacted in article 10 of the purchasing-power law of 16 August 2022, implemented by decree n°2023-360, effective 1 October 2023. Macron had initially opposed it before rallying to it; the reform is in force.",
+    "key_evidence": [
+      "Decree n°2023-360 of 11 May 2023 on the deconjugalization of the AAH",
+      "Effective from 1 October 2023",
+      "Official estimate: ~120,000 people affected, of whom ~40,000 gaining ~EUR 350/month on average (projection)",
+      "Transitional mechanism preserving rights for the rare potential losers"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047541289",
+      "https://www.monparcourshandicap.gouv.fr/actualite/deconjugalisation-de-laah-le-1er-octobre-2023"
+    ]
+  },
+  {
+    "id": "aah-revalorisation-900-euros",
+    "title": "Raise the AAH above EUR 900/month (+EUR 100)",
+    "description": "Increase the disabled adults' allowance (AAH) by about EUR 100 to take it above EUR 900/month at the full rate.",
+    "date_made": "2017-03-02",
+    "category": "Disability",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The AAH rose in steps from EUR 810 to EUR 860 (Nov. 2018) then EUR 900 at the full rate (1 Nov. 2019) by decree. The pledge was kept on the amount, but its reach was reduced for beneficiaries in a couple by the lowering of the income ceiling.",
+    "key_evidence": [
+      "AAH raised to EUR 860 on 1 November 2018 then EUR 900 on 1 November 2019",
+      "Accompanying measures reduced the gain for couples",
+      "LuiPresident.fr classifies the pledge as partially kept"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/augmenter-lallocation-adulte-handicape-100-euros-par-mois-49098/",
+      "https://informations.handicap.fr/a-1-novembre-aah-passe-860-900-euros-12343.php"
+    ]
+  },
+  {
+    "id": "aesh-ecole-inclusive",
+    "title": "Generalize support for pupils with disabilities (AESH)",
+    "description": "Guarantee a human aide to every pupil with a disability who needs one, and give AESH (school support staff) a more stable status and better pay (toward full-time).",
+    "date_made": "2017-03-02",
+    "category": "Disability",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "A sharp rise in AESH numbers (+~35% over 2017-2021) and creation of the PIAL, but persistent shortages, part-time roles paid below the minimum wage, and an unstabilized status. A bill on their status was still being examined in the Senate in early 2026, a sign of an unfinished objective.",
+    "key_evidence": [
+      "AESH numbers grew faster than the number of disabled pupils enrolled",
+      "Macron commitment (2022) to let AESH work 35 hours",
+      "Bill on the AESH civil-service status examined in the Senate on 7 January 2026",
+      "Associations and families continue to report structural gaps"
+    ],
+    "source_url": [
+      "https://www.luipresident.fr/emmanuel-macron/engagement/generalisation-des-auxiliaires-vie-scolaire-49144/",
+      "https://www.education.gouv.fr/etre-accompagnant-des-eleves-en-situation-de-handicap-aesh-12188"
+    ]
+  },
+  {
+    "id": "egalite-femmes-hommes-grande-cause",
+    "title": "Make gender equality the 'great national cause' of the term",
+    "description": "Make equality between women and men the great national cause of both presidential terms, prioritizing the fight against violence against women.",
+    "date_made": "2017-11-25",
+    "category": "Gender Equality",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "Declared the great cause on 25 Nov. 2017 and renewed for 2022-2027. Several concrete measures were adopted, but associations (Oxfam, CARE, the Haut Conseil à l'Égalité) judge the budgetary record insufficient (~0.25% of the budget in 2022). Formally kept, results contested.",
+    "key_evidence": [
+      "Speech of 25 November 2017 declaring equality the great national cause 2017-2022, renewed in 2022",
+      "Official assessment published by the Élysée on 8 March 2022",
+      "Criticism from Oxfam France and CARE: 'great cause, small record', ~0.25% of the State budget in 2022"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2022/03/08/bilan-egalite-entre-les-femmes-et-les-hommes",
+      "https://www.oxfamfrance.org/rapports/egalite-femmes-hommes-grande-cause-petit-bilan/"
+    ]
+  },
+  {
+    "id": "ivg-allongement-14-semaines",
+    "title": "Extend the legal abortion (IVG) limit from 12 to 14 weeks",
+    "description": "Extend the time limit for voluntary termination of pregnancy from 12 to 14 weeks of pregnancy and allow midwives to perform instrumental abortions.",
+    "date_made": "2022-03-02",
+    "category": "Gender Equality",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The law of 2 March 2022 strengthening the right to abortion was promulgated and applied: the limit was raised to 14 weeks and the competence extended to midwives. Supported by the presidential majority.",
+    "key_evidence": [
+      "Law of 2 March 2022 to strengthen the right to abortion",
+      "Time limit raised from 12 to 14 weeks of pregnancy",
+      "Authorization for midwives to perform instrumental abortions"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/en-bref/295928-acces-livg-des-obstacles-persistent",
+      "https://ivg.gouv.fr/le-droit-lavortement"
+    ]
+  },
+  {
+    "id": "ivg-constitutionnalisation",
+    "title": "Enshrine the freedom to access abortion (IVG) in the Constitution",
+    "description": "Constitutionalize the guaranteed freedom of women to access abortion, making France the first state to give abortion constitutional protection.",
+    "date_made": "2022-03-08",
+    "category": "Gender Equality",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "The Congress meeting at Versailles voted on 4 March 2024 to add it to article 34 of the Constitution; the text was promulgated symbolically on 8 March 2024. A commitment made by Macron and fully realized.",
+    "key_evidence": [
+      "Congress vote at Versailles on 4 March 2024 (large majority)",
+      "Added to article 34 on the guaranteed freedom of women to access abortion",
+      "Symbolic promulgation on 8 March 2024",
+      "First explicit constitutionalization of abortion in the world"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/actualite/retour-sur-la-constitutionnalisation-de-livg-en-2024",
+      "https://www.vie-publique.fr/en-bref/295928-acces-livg-des-obstacles-persistent"
+    ]
+  },
+  {
+    "id": "grenelle-violences-conjugales-3919",
+    "title": "Grenelle on domestic violence and a 24/7 '3919' helpline",
+    "description": "Organize a Grenelle (national consultation) on domestic violence (2019) leading to emergency measures: a 24/7 '3919' helpline, an anti-reconciliation electronic bracelet, and additional shelter places.",
+    "date_made": "2019-09-03",
+    "category": "Gender Equality",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The Grenelle was held from Sept. to Nov. 2019; 46 of 54 measures were in force three years later. The 3919 has been available 24/7 since August 2021 and the anti-reconciliation bracelet deployed. Measures are effective, with effectiveness judged improvable by associations.",
+    "key_evidence": [
+      "Grenelle on domestic violence from 3 September to 25 November 2019, 46 measures",
+      "3919 available 24/7 since 30 August 2021",
+      "Deployment of the anti-reconciliation bracelet (BAR) from 2020",
+      "About 2,000 additional shelter places created (official figure)"
+    ],
+    "source_url": [
+      "https://www.egalite-femmes-hommes.gouv.fr/3-9-19-grenelle-des-violences-conjugales",
+      "https://fr.wikipedia.org/wiki/Grenelle_des_violences_conjugales"
+    ]
+  },
+  {
+    "id": "index-egalite-professionnelle",
+    "title": "Create a workplace gender-equality index",
+    "description": "Move from an obligation of means to an obligation of results on equal pay via an index scored out of 100, with penalties for firms below 75 points.",
+    "date_made": "2018-09-05",
+    "category": "Gender Equality",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The index was created by the law of 5 September 2018 'for the freedom to choose one's professional future', applicable from 2019 (>250 employees) then 2020 (50-250). The scheme is in place with penalties up to 1% of payroll; its real effect on pay gaps is debated.",
+    "key_evidence": [
+      "Law of 5 September 2018 'for the freedom to choose one's professional future'",
+      "Index out of 100 points, 5 indicators; obligation of results",
+      "Possible penalty up to 1% of payroll below 75 points",
+      "Phased rollout 2019-2020 by company size"
+    ],
+    "source_url": [
+      "https://www.egalite-femmes-hommes.gouv.fr/index-de-legalite-professionnelle-entre-les-femmes-et-les-hommes",
+      "https://www.economie.gouv.fr/entreprises/gerer-ses-ressources-humaines-et-ses-salaries/index-de-legalite-professionnelle-calcul"
+    ]
+  },
+  {
+    "id": "outrage-sexiste-harcelement-rue",
+    "title": "Create the offence of 'sexist insult' to fine street harassment",
+    "description": "Introduce a fine penalizing street harassment (the 'outrage sexiste' offence), a campaign pledge carried by the 2018 loi Schiappa.",
+    "date_made": "2017-03-02",
+    "category": "Gender Equality",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The 'outrage sexiste' offence was created by the law of 3 August 2018 (loi Schiappa), punishable by a EUR 750 fine. The measure was adopted and applied, but its effectiveness is limited: ~85% of cases without a fine for lack of an identified offender.",
+    "key_evidence": [
+      "Law of 3 August 2018 (loi Schiappa) creating the 'outrage sexiste' offence",
+      "EUR 750 fine (a contravention, upgraded to an offence in 2023)",
+      "Limited enforcement: in ~85% of recorded cases, no fine issued"
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Loi_Schiappa",
+      "https://www.slate.fr/story/198020/bilan-delit-outrage-sexiste-harcelement-de-rue"
+    ]
+  },
+  {
+    "id": "precarite-menstruelle-protections-gratuites",
+    "title": "Fight period poverty (free and reimbursed sanitary products)",
+    "description": "Make sanitary products free for female students in Crous facilities/universities and reimburse reusable products for those under 26.",
+    "date_made": "2023-11-23",
+    "category": "Gender Equality",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "Free distribution in universities and Crous residences is in place. Reimbursement of reusable products (under-26 and C2S beneficiaries) was announced in the 2024 PLFSS but postponed, now expected in 2026 - so partially effective.",
+    "key_evidence": [
+      "Presidential announcement of free sanitary products for female students (Crous/university dispensers)",
+      "2024 PLFSS providing for reimbursement of menstrual cups and underwear for under-26s",
+      "Reimbursement initially expected in 2024, postponed then confirmed for 2026 (slipping timetable)"
+    ],
+    "source_url": [
+      "https://www.info.gouv.fr/actualite/gratuite-des-protections-periodiques-pour-les-etudiantes",
+      "https://www.egalite-femmes-hommes.gouv.fr/le-gouvernement-annonce-le-remboursement-des-protections-periodiques-pour-les-femmes-de-moins-de-26-ans-et-les-beneficiaires-de-la-complementaire-sante-solidaire"
+    ]
+  },
+  {
+    "id": "fin-animaux-sauvages-cirques-delphinariums",
+    "title": "End wild animals in travelling circuses and dolphinariums",
+    "description": "Progressively ban keeping wild animals in travelling circuses and the captivity of cetaceans in dolphinariums.",
+    "date_made": "2021-11-30",
+    "category": "Animal Welfare",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The law of 30 November 2021 against animal cruelty: an end to the use of wild species in travelling circuses (acquisition banned within 2 years, presence within 7 years) and an end to cetaceans in dolphinariums within 5 years. The framework was adopted; deadlines are being applied.",
+    "key_evidence": [
+      "Law n°2021-1539 of 30 November 2021 to fight animal cruelty",
+      "Travelling circuses: acquisition/breeding banned within 2 years, presence within 7 years",
+      "Dolphinariums: keeping cetaceans prohibited within 5 years",
+      "Phased timetable, still being applied"
+    ],
+    "source_url": [
+      "https://agriculture.gouv.fr/loi-du-30-novembre-2021-visant-lutter-contre-la-maltraitance-animale-et-conforter-le-lien-entre-les",
+      "https://www.publicsenat.fr/actualites/politique/maltraitance-animale-senateurs-et-deputes-s-accordent-sur-l-interdiction"
+    ]
+  },
+  {
+    "id": "fin-elevages-visons-fourrure",
+    "title": "Ban mink farms and animals raised for fur",
+    "description": "Ban American mink farms and other species raised solely for fur production.",
+    "date_made": "2021-11-30",
+    "category": "Animal Welfare",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The ban is written into the law of 30 November 2021 against animal cruelty. The measure was adopted and is effective (France's last mink farms have closed).",
+    "key_evidence": [
+      "Law of 30 November 2021 banning farms of animals raised solely for fur",
+      "American mink explicitly targeted",
+      "Effective end of the mink-farming sector in France"
+    ],
+    "source_url": [
+      "https://agriculture.gouv.fr/loi-du-30-novembre-2021-visant-lutter-contre-la-maltraitance-animale-et-conforter-le-lien-entre-les",
+      "https://www.fondation-droit-animal.org/proposition-de-loi-maltraitance-animale-assemblee-nationale-des-avancees-historiques/"
+    ]
+  },
+  {
+    "id": "fin-oeufs-poules-en-cage",
+    "title": "Ban the sale of eggs from caged hens by 2022",
+    "description": "Commit to banning, before 2022, the sale to consumers of eggs from caged (battery) hens.",
+    "date_made": "2017-02-24",
+    "category": "Animal Welfare",
+    "status": "broken",
+    "confidence_score": 0.8,
+    "reasoning": "An explicit campaign pledge that was not kept: no law banning cage farming before 2022. Only an order bans the installation of NEW cages (end 2021), while still allowing renovation of existing buildings - a clear retreat from the promise.",
+    "key_evidence": [
+      "2017 pledge: ban the sale of eggs from caged hens by 2022",
+      "No ban law adopted; order limited to new cage installations (end 2021)",
+      "Like-for-like renovation of existing buildings remained possible",
+      "Pledge judged unmet by the Fondation Droit Animal and associations"
+    ],
+    "source_url": [
+      "https://www.fondation-droit-animal.org/112-poules-pondeuses-president-republique-na-pas-tenu-sa-promesse-de-candidat/",
+      "https://www.politique-animaux.fr/elevage/emmanuel-macron-s-engage-interdire-d-ici-2022-vente-aux-consommateurs-d-oeufs-de-poules-elev"
+    ]
+  },
+  {
+    "id": "conge-paternite-28-jours",
+    "title": "Double paternity leave to 28 days (the 'first 1,000 days')",
+    "description": "Extend paternity and childcare leave from 14 to 28 days, of which 7 are mandatory, as part of the 'first 1,000 days' policy.",
+    "date_made": "2020-09-23",
+    "category": "Family & Childhood",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Announced by Macron on 23 September 2020 in the wake of the Cyrulnik report; effective since 1 July 2021. Leave raised from 14 to 28 days with a mandatory portion - a fully kept promise.",
+    "key_evidence": [
+      "Announced by Emmanuel Macron on 23 September 2020",
+      "Effective from 1 July 2021",
+      "Duration raised from 14 to 28 days (3 + 25), of which 7 mandatory",
+      "Part of the 'first 1,000 days' initiative (Cyrulnik report)"
+    ],
+    "source_url": [
+      "https://www.elysee.fr/emmanuel-macron/2021/07/01/a-partir-daujourdhui-le-conge-paternite-passe-de-14-a-28-jours"
+    ]
+  },
+  {
+    "id": "service-public-petite-enfance",
+    "title": "Create a public early-childhood service",
+    "description": "Establish a public early-childhood service (service public de la petite enfance) with creation of nursery places and an enforceable right to a childcare arrangement for children under three.",
+    "date_made": "2022-03-17",
+    "category": "Family & Childhood",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The SPPE was launched by the full-employment law of 18 Dec. 2023 (municipalities as organizing authorities since 1 Jan. 2025), with a target of 100,000 places by 2027/200,000 by 2030. But the 'enforceable right' to childcare promised in 2022 was not retained - partial delivery.",
+    "key_evidence": [
+      "Full-employment law of 18 December 2023 establishing the public early-childhood service",
+      "Municipalities designated organizing authorities on 1 January 2025",
+      "Announced target: 100,000 places by 2027, 200,000 by 2030 (projection)",
+      "The 'enforceable' nature of the right to childcare was not written into the law"
+    ],
+    "source_url": [
+      "https://www.lesprosdelapetiteenfance.fr/article/service-public-de-la-petite-enfance-les-principales-mesures-du-gouvernement/",
+      "https://www.publicsenat.fr/actualites/politique/creches-elisabeth-borne-devoile-un-plan-ambitieux-pour-la-petite-enfance-des-senateurs-sinterrogent-sur-les-moyens-a-disposition"
+    ]
+  },
+  {
+    "id": "loi-taquet-protection-enfance",
+    "title": "Strengthen child protection (loi Taquet)",
+    "description": "Reform child welfare (aide sociale à l'enfance): ban placing children in hotels, end 'cold exits' at adulthood, and better protect children against violence.",
+    "date_made": "2022-02-07",
+    "category": "Family & Childhood",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The law of 7 February 2022 on child protection (loi Taquet) was promulgated. Measures were adopted (hotel ban, end of 'cold exits', strengthened protection), but on-the-ground application has been criticized as uneven.",
+    "key_evidence": [
+      "Law n°2022-140 of 7 February 2022 on child protection",
+      "(Progressive) ban on placing minors in hotels",
+      "End of 'cold exits' from child welfare at adulthood",
+      "Strengthened protection against violence"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/loi/280364-loi-taquet-7-fevrier-2022-protection-des-enfants-ase",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045133771"
+    ]
+  },
+  {
+    "id": "cour-criminelle-departementale",
+    "title": "Create and generalize departmental criminal courts",
+    "description": "Establish departmental criminal courts without a citizen jury to try crimes punishable by up to 20 years' imprisonment, to cut delays and reduce 'correctionalization'.",
+    "date_made": "2019-03-23",
+    "category": "Immigration & Security",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Piloted from 2019 (the 2018-2022 justice programming law), the departmental criminal courts were generalized nationwide on 1 January 2023 by the law of 22 December 2021 for confidence in the judicial institution. A flagship reform of the term, fully deployed.",
+    "key_evidence": [
+      "Pilot launched on 5 September 2019 (law of 23 March 2019)",
+      "Generalized by the law of 22 December 2021 for confidence in the judicial institution",
+      "Generalization effective on 1 January 2023",
+      "5 professional judges, no jury, for crimes punishable by up to 20 years"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000043370377/?detailType=EXPOSE_MOTIFS",
+      "https://www.jean-jaures.org/publication/retour-sur-la-creation-des-cours-criminelles-departementales/"
+    ]
+  },
+  {
+    "id": "code-justice-penale-mineurs",
+    "title": "Reform juvenile criminal justice (Code of juvenile criminal justice)",
+    "description": "Replace the 1945 ordinance with a Code of juvenile criminal justice speeding up trials (a ruling on guilt within 3 months) and setting the presumption of non-discernment at age 13.",
+    "date_made": "2021-02-26",
+    "category": "Immigration & Security",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The Code of juvenile criminal justice took effect on 30 September 2021, after ratification by the law of 26 February 2021. A major reform adopted and applied; its effect on delays is praised by the ministry, with debate over its orientation.",
+    "key_evidence": [
+      "Law n°2021-218 of 26 February 2021 ratifying the ordinance of 11 September 2019",
+      "Code took effect on 30 September 2021, replacing the 1945 ordinance",
+      "Ruling on guilt issued within 3 months maximum (vs ~18 months previously)",
+      "Presumption of non-discernment set at age 13"
+    ],
+    "source_url": [
+      "https://www.vie-publique.fr/loi/277708-loi-26-fevrier-2021-ratifiant-ordonnance-code-justice-penale-mineurs",
+      "https://www.justice.gouv.fr/actualites/actualite/code-justice-penale-mineurs-premier-bilan"
+    ]
+  },
+  {
+    "id": "carte-combattant-algerie-1962-1964",
+    "title": "Extend the combatant's card to Algeria veterans (July 1962 - July 1964)",
+    "description": "Right a wrong by granting the combatant's card to French soldiers deployed in Algeria between 2 July 1962 and 1 July 1964.",
+    "date_made": "2017-03-02",
+    "category": "Veterans",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "Implemented via the 2019 finance law: the combatant's card was opened to military personnel present in Algeria after July 1962. A reparation commitment kept.",
+    "key_evidence": [
+      "Decision announced in 2018, written into the 2019 finance law",
+      "Combatant's card opened to soldiers deployed in Algeria between 2 July 1962 and 1 July 1964",
+      "Associated measures for harkis (allowance increases, 2019 finance law)"
+    ],
+    "source_url": [
+      "https://www.opex360.com/2018/05/28/carte-combattant-sera-attribuee-aux-soldats-francais-deployes-algerie-apres-juillet-1962/",
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F1293"
+    ]
+  },
+  {
+    "id": "european-political-community",
+    "title": "Launch a European Political Community",
+    "description": "Macron proposed (9 May 2022) creating a new pan-European forum bringing together EU members and non-members that share core democratic values to cooperate on security, energy, migration and infrastructure.",
+    "date_made": "2022-05-09",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Macron proposed the EPC in his Europe Day speech; the inaugural summit was held at Prague Castle on 6 October 2022 with 44 countries. Multiple summits have since taken place, making this a delivered initiative.",
+    "key_evidence": [
+      "Proposed by Macron at the close of the Conference on the Future of Europe, 9 May 2022",
+      "First EPC summit held in Prague, 6 October 2022, with leaders of 44 European countries",
+      "Russia and Belarus excluded; EPC has met repeatedly since"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/European_Political_Community",
+      "https://www.euronews.com/my-europe/2022/10/06/european-political-community-european-leaders-gather-to-discuss-new-club-of-nations"
+    ]
+  },
+  {
+    "id": "eu-carbon-border-cbam-push",
+    "title": "Push through an EU carbon border adjustment mechanism (CBAM)",
+    "description": "Macron made an EU carbon border tax a flagship climate-trade priority of France's 2022 EU Council Presidency, to price the carbon content of imports and protect European industry.",
+    "date_made": "2022-01-01",
+    "category": "Environment & Climate",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The French Presidency submitted a compromise CBAM text to EU-27 ambassadors in March 2022 and secured a Council general approach; CBAM was subsequently adopted with a transitional phase from October 2023 and full entry from 2026.",
+    "key_evidence": [
+      "French Presidency submitted CBAM compromise text to EU-27 ambassadors, 4 March 2022",
+      "CBAM cited as a key legislative win of the French 2022 Presidency",
+      "Full entry into force timetable maintained for the beginning of 2026"
+    ],
+    "source_url": [
+      "https://agenceurope.eu/en/bulletin/article/12905/11",
+      "https://amchamfrance.org/wp-content/uploads/2022/08/A-look-back-at-Frances-Presidency-of-the-EU-council-AmCham-France.pdf"
+    ]
+  },
+  {
+    "id": "eu-minimum-wage-directive",
+    "title": "Secure an EU directive on adequate minimum wages",
+    "description": "Macron made adequate minimum wages across the EU a social priority of France's 2022 EU Council Presidency, aiming to guarantee decent statutory minimum pay in member states.",
+    "date_made": "2022-01-01",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Under the French Presidency, the Council and Parliament reached provisional agreement (June 2022) on the Directive on adequate minimum wages, later formally adopted in October 2022 - delivering on the social-Europe priority.",
+    "key_evidence": [
+      "Adequate minimum wage cited as a flagship social file of the French 2022 Presidency",
+      "Provisional political agreement reached June 2022 during the French Presidency",
+      "Directive (EU) 2022/2041 on adequate minimum wages adopted October 2022"
+    ],
+    "source_url": [
+      "https://amchamfrance.org/wp-content/uploads/2022/08/A-look-back-at-Frances-Presidency-of-the-EU-council-AmCham-France.pdf",
+      "https://www.ceps.eu/overall-the-french-eu-council-presidency-was-a-success-but-not-everyone-agrees/"
+    ]
+  },
+  {
+    "id": "eu-digital-dma-dsa",
+    "title": "Adopt EU rules to regulate big-tech gatekeepers (DMA/DSA)",
+    "description": "Macron made regulating digital platforms and asserting European digital sovereignty a priority of France's 2022 EU Presidency, championing the Digital Markets Act and Digital Services Act.",
+    "date_made": "2022-01-01",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.88,
+    "reasoning": "Political agreement on both the DMA and DSA was reached during France's 2022 Presidency (March/April 2022); both were formally adopted and entered the EU statute book in 2022, delivering the digital-sovereignty priority.",
+    "key_evidence": [
+      "DMA and DSA political agreements reached during the French Presidency, spring 2022",
+      "Both regulations adopted in 2022, forming the backbone of EU digital sovereignty strategy",
+      "Macron has framed digital sovereignty as resisting becoming a 'vassal' of US/China"
+    ],
+    "source_url": [
+      "https://www.gmfus.org/news/eus-digital-markets-act-and-digital-services-act",
+      "https://www.lawfaremedia.org/article/the-european-union-changes-course-on-digital-legislation"
+    ]
+  },
+  {
+    "id": "eu-asylum-migration-pact",
+    "title": "Deliver an EU Pact on Migration and Asylum",
+    "description": "Macron pushed for a comprehensive EU migration and asylum reform - solidarity, border procedures and burden-sharing - as a French Presidency priority and continued French objective.",
+    "date_made": "2022-01-01",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.78,
+    "reasoning": "The French 2022 Presidency advanced a 'gradual' approach and some files; the full Pact (10 legislative acts) was politically agreed December 2023 and adopted by Parliament (April 2024) and Council (May 2024). The decisive breakthrough came under the Spanish Presidency, so France advanced but did not solely deliver it.",
+    "key_evidence": [
+      "France advanced the asylum/immigration pact during its 2022 Presidency",
+      "European Parliament adopted the Pact 10 April 2024; Council adopted 14 May 2024",
+      "Decisive weighted-majority breakthrough came under the Spanish Presidency, Dec 2023"
+    ],
+    "source_url": [
+      "https://www.consilium.europa.eu/en/press/press-releases/2024/05/14/the-council-adopts-the-eu-s-pact-on-migration-and-asylum/",
+      "https://en.wikipedia.org/wiki/New_Pact_on_Migration_and_Asylum"
+    ]
+  },
+  {
+    "id": "eu-enlargement-ukraine-moldova-candidacy",
+    "title": "Support EU candidate status for Ukraine and Moldova",
+    "description": "Following Russia's invasion, Macron backed granting EU candidate status to Ukraine and Moldova while preserving the Western Balkans' accession path, during France's 2022 Presidency.",
+    "date_made": "2022-05-09",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Under the French Presidency, the European Council granted candidate status to Ukraine and Moldova on 23 June 2022; accession negotiations were later opened (December 2023, formal launch June 2024).",
+    "key_evidence": [
+      "European Council granted Ukraine and Moldova candidate status, June 2022 (French Presidency)",
+      "Macron paired candidacy with the EPC as a 'waiting room' while keeping the accession path",
+      "Accession negotiations with Ukraine formally launched 25 June 2024"
+    ],
+    "source_url": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-9980/",
+      "https://blogs.lse.ac.uk/europpblog/2022/06/22/as-ukraine-pushes-for-eu-candidate-status-enlargement-hopes-fade-in-the-western-balkans/"
+    ]
+  },
+  {
+    "id": "european-dimension-nuclear-deterrence",
+    "title": "Offer a European dimension to France's nuclear deterrent",
+    "description": "Macron repeatedly offered (from his 2020 Strasbourg doctrine speech onward) to open a strategic dialogue with European partners on the role of French nuclear deterrence in collective European security.",
+    "date_made": "2020-02-07",
+    "category": "Europe & Foreign Policy",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "First proposed in 2020 and renewed in 2024-2025, the offer moved to concrete steps in the 2 March 2026 'forward deterrence' speech: warhead increase, possible forward-basing, and coordination agreements with European partners. Decision-making remains exclusively French; no shared command, so it is advancing but not a completed shared deterrent. The March 2026 measures are recent/contested.",
+    "key_evidence": [
+      "Macron's 2 March 2026 speech unveiled 'forward deterrence' and a warhead increase",
+      "Coordination agreements cited with several European partners",
+      "No shared planning or joint decision-making; control stays exclusively with France"
+    ],
+    "source_url": [
+      "https://www.euronews.com/2026/03/02/macron-orders-nuclear-warhead-increase-and-unveils-advanced-deterrence-plan-for-europe",
+      "https://www.atlanticcouncil.org/dispatches/what-macrons-changes-to-french-nuclear-policy-mean-for-european-security/"
+    ]
+  },
+  {
+    "id": "train-troops-ukraine",
+    "title": "Train Ukrainian forces and not rule out troops / reassurance force",
+    "description": "In February 2024 Macron pledged France would train soldiers for Ukraine and refused to rule out eventually sending ground troops, a stance later channelled into a post-ceasefire 'reassurance force' concept.",
+    "date_made": "2024-02-26",
+    "category": "Europe & Foreign Policy",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "France has delivered training commitments and the 'do not rule out troops' stance evolved into a 'reassurance force/coalition of the willing' concept. Actual deployment of combat troops has not occurred, so the training element is being implemented while the troop element remains contested and unrealized. Distinct from the general Ukraine military-aid pledge already tracked.",
+    "key_evidence": [
+      "Feb 2024: Macron pledged training of soldiers and refused to rule out ground troops",
+      "Allied pushback followed the troops remark",
+      "Concept later channelled into post-ceasefire 'reassurance force' planning; no combat deployment"
+    ],
+    "source_url": [
+      "https://www.defensenews.com/global/europe/2024/02/27/frances-macron-doesnt-rule-out-sending-troops-to-ukraine/",
+      "https://www.aljazeera.com/news/2024/5/2/frances-macron-doesnt-rule-out-troops-for-ukraine"
+    ]
+  },
+  {
+    "id": "next-gen-aircraft-carrier-pang",
+    "title": "Build a new-generation nuclear aircraft carrier (PA-NG)",
+    "description": "Macron announced (Le Creusot, December 2020) the launch of a nuclear-powered new-generation aircraft carrier to replace the Charles de Gaulle around 2038.",
+    "date_made": "2020-12-08",
+    "category": "Europe & Foreign Policy",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "Macron launched the PA-NG programme in 2020 with nuclear propulsion; in December 2025 he confirmed the decision to launch construction, and in March 2026 named the future carrier 'France Libre'. Construction is slated to begin ~2031, entry into service ~2038 - on track but not yet built.",
+    "key_evidence": [
+      "Programme and nuclear-propulsion choice announced by Macron, 8 December 2020",
+      "Macron confirmed construction launch decision, December 2025",
+      "Carrier named 'France Libre', in-service target 2038"
+    ],
+    "source_url": [
+      "https://www.navylookout.com/france-names-new-aircraft-carrier-set-for-service-in-2038/",
+      "https://www.euronews.com/2025/12/22/france-to-build-new-nuclear-carrier-replacing-flagship-charles-de-gaulle"
+    ]
+  },
+  {
+    "id": "scaf-mgcs-franco-german",
+    "title": "Build Franco-German next-gen fighter (SCAF) and tank (MGCS)",
+    "description": "Macron committed jointly with Germany to the Future Combat Air System (SCAF/FCAS) sixth-generation fighter and the Main Ground Combat System (MGCS) next-generation tank as flagships of European defense cooperation.",
+    "date_made": "2017-07-13",
+    "category": "Europe & Foreign Policy",
+    "status": "broken",
+    "confidence_score": 0.7,
+    "reasoning": "The joint fighter component collapsed: reports in early 2026 indicate the two will not build a shared sixth-gen aircraft, with Dassault and Airbus pursuing separate national programmes; MGCS cooperation is under strain. The joint-flagship promise has effectively failed even as national successors proceed. (Developing story.)",
+    "key_evidence": [
+      "Reports (Feb 2026): joint manned-fighter component of FCAS/SCAF effectively ended",
+      "Dassault to develop France's sixth-gen fighter independently; Airbus leads German effort",
+      "MGCS tank cooperation placed under review amid the fighter breakdown"
+    ],
+    "source_url": [
+      "https://breakingdefense.com/2026/02/scaf-is-dead-sixth-gen-franco-german-fighter-is-all-but-over-officials-and-analysts-say/",
+      "https://www.aerotime.aero/articles/germany-france-abandon-joint-fcas-fighter"
+    ]
+  },
+  {
+    "id": "indo-pacific-strategy",
+    "title": "Adopt and pursue a French Indo-Pacific strategy",
+    "description": "Macron committed France to a dedicated Indo-Pacific strategy (set out from 2018) positioning France as a resident Indo-Pacific power upholding an open, rules-based, multilateral order from East Africa to the Pacific.",
+    "date_made": "2018-05-02",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.82,
+    "reasoning": "France formally adopted an Indo-Pacific strategy in May 2018, elaborated it in 2019 (Shangri-La) and a 2021 official document, and has sustained deployments and partnerships, making this a delivered and ongoing policy framework.",
+    "key_evidence": [
+      "France officially adopted an Indo-Pacific strategy in May 2018",
+      "Defense Minister Parly presented the strategy at Shangri-La Dialogue, 2019",
+      "Strategy framed France as a resident Indo-Pacific stakeholder upholding multilateralism"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/en/expressions/tracing-french-diplomacy-brief-history-macrons-foreign-policy",
+      "https://geopolitique.eu/en/2025/02/27/the-geopolitics-of-the-indo-pacific-frances-strategy/"
+    ]
+  },
+  {
+    "id": "new-africa-france-partnership",
+    "title": "Reset France-Africa relations into a new partnership",
+    "description": "From his 2017 Ouagadougou speech, Macron pledged to end 'Francafrique' and build a new, more equal France-Africa relationship centred on youth, civil society and economic partnership.",
+    "date_made": "2017-11-28",
+    "category": "Europe & Foreign Policy",
+    "status": "compromise",
+    "confidence_score": 0.6,
+    "reasoning": "Macron held a reformatted New Africa-France Summit (Montpellier, Oct 2021) with no heads of state and emphasized a youth/civil-society reset, but the policy is widely assessed as continuity in new packaging, and France's Sahel presence collapsed - so partial/mixed delivery.",
+    "key_evidence": [
+      "2017 Ouagadougou speech: 'there no longer is a French policy for Africa'",
+      "New Africa-France Summit held in Montpellier, 8 October 2021, without African heads of state",
+      "Analysts (Ifri) describe it as 'concealed continuation' of prior Africa policy"
+    ],
+    "source_url": [
+      "https://www.diplomatie.gouv.fr/en/country-files/africa/the-new-africa-france-summit-reinventing-our-relationship-together/",
+      "https://www.ifri.org/en/editorials/new-africa-france-summit-concealed-continuation-emmanuel-macrons-africa-policy"
+    ]
+  },
+  {
+    "id": "recognize-palestinian-state",
+    "title": "Recognize the State of Palestine",
+    "description": "In July 2025 Macron pledged that France would formally recognize a Palestinian state at the UN General Assembly in September 2025, as part of a two-state-solution push.",
+    "date_made": "2025-07-24",
+    "category": "Europe & Foreign Policy",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Macron announced the pledge on 24 July 2025; France formally recognized the State of Palestine on 22 September 2025 at a high-level UN summit, leading a wave of Western recognitions. A contested/landmark move strongly criticized by Israel and the US.",
+    "key_evidence": [
+      "Pledge announced 24 July 2025; France the largest Western power to commit at the time",
+      "France formally recognized Palestine on 22 September 2025 at UN summit",
+      "Recognition criticized by Israel and the US (contested)"
+    ],
+    "source_url": [
+      "https://uk.diplomatie.gouv.fr/en/france-recognizes-state-palestine",
+      "https://www.aljazeera.com/news/2025/9/22/france-recognises-palestinian-state-ahead-of-the-unga-meeting"
+    ]
+  },
+  {
+    "id": "end-fossil-fuel-export-finance",
+    "title": "End international public finance for fossil fuels",
+    "description": "At COP26 (November 2021) France joined the pledge to halt new international public financing for unabated coal, oil and gas by end-2022, including via its export credit agency.",
+    "date_made": "2021-11-04",
+    "category": "Environment & Climate",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "France signed the Glasgow Statement and implemented it: from January 2023 Bpifrance Assurance Export no longer provides export guarantees for upstream/downstream fossil projects, with the cut-off written into the 2023 budget. Assessed as having met the commitment, though NGOs flag backsliding risks.",
+    "key_evidence": [
+      "France joined the COP26 Glasgow Statement to end international fossil finance by end-2022",
+      "From Jan 2023, French export credit guarantees withdrawn for fossil projects (2023 budget)",
+      "Oil Change International: France has not provided new international fossil financing since"
+    ],
+    "source_url": [
+      "https://oilchange.org/news/france-makes-good-on-commitment-to-end-fossil-fuel-finance-as-cop26-deadline-nears/",
+      "https://priceofoil.org/2021/11/12/france-joins-commitment-to-end-international-oil-gas-and-coal-finance-by-2022/"
+    ]
+  },
+  {
+    "id": "paris-pact-people-planet",
+    "title": "Forge a new global financing pact (Paris Pact for People and Planet)",
+    "description": "Macron convened the Summit for a New Global Financing Pact (June 2023) to reform the international financial system and boost climate/development finance for vulnerable countries.",
+    "date_made": "2023-06-22",
+    "category": "Environment & Climate",
+    "status": "kept",
+    "confidence_score": 0.7,
+    "reasoning": "The summit took place and produced the Paris Pact endorsed by 40+ states, with the $100bn SDR re-channelling target reported as met and MDB-reform commitments launched. Delivery on the broader reform agenda is partial/contested, but the headline commitment to convene and agree the pact was fulfilled.",
+    "key_evidence": [
+      "Summit for a New Global Financing Pact held in Paris, June 2023; Pact endorsed by 40+ states",
+      "$100bn SDR re-channelling target to vulnerable countries reported achieved",
+      "MDB lending-capacity and private-finance leverage goals set"
+    ],
+    "source_url": [
+      "https://www.diplomatie.gouv.fr/en/french-foreign-policy/summits-and-global-affairs/paris-pact-for-people-and-the-planet-4p/",
+      "https://www.elysee.fr/en/emmanuel-macron/2023/06/23/the-paris-agenda-for-people-and-the-planet"
+    ]
+  },
+  {
+    "id": "green-industry-law",
+    "title": "Pass a green industry law to reindustrialize via clean tech",
+    "description": "Macron pledged to make France Europe's green-industry leader; the resulting Loi industrie verte (Oct 2023) speeds factory permits, creates a green-industry tax credit and prepares industrial sites.",
+    "date_made": "2023-05-11",
+    "category": "Economy & Taxes",
+    "status": "kept",
+    "confidence_score": 0.88,
+    "reasoning": "Macron announced the green-industry plan in May 2023; Loi n 2023-973 was adopted by Parliament in October 2023 and promulgated 23 October 2023, creating a green-industry tax credit (C3IV), faster permitting, and the 50-sites programme. Promise enacted.",
+    "key_evidence": [
+      "Macron announced the green industry plan in May 2023",
+      "Loi n 2023-973 relative a l'industrie verte promulgated 23 October 2023",
+      "Creates green-industry tax credit (C3IV), faster brownfield permitting, 50 pre-equipped sites"
+    ],
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048242288",
+      "https://www.economie.gouv.fr/actualites/que-contient-la-loi-industrie-verte"
+    ]
+  },
+  {
+    "id": "inheritance-tax-relief-2022",
+    "title": "Cut inheritance tax with higher exemptions for families",
+    "description": "In his 2022 campaign Macron pledged to raise inheritance tax-free allowances to EUR 150,000 per child and create a EUR 100,000 allowance for stepchildren and other relatives.",
+    "date_made": "2022-03-17",
+    "category": "Economy & Taxes",
+    "status": "broken",
+    "confidence_score": 0.78,
+    "reasoning": "The comprehensive reform was shelved after the energy/inflation crisis and never enacted as promised. Only a limited stepchildren-allowance amendment advanced in 2026 budget debates, falling well short of the pledged EUR 150k/EUR 100k thresholds.",
+    "key_evidence": [
+      "2022 pledge: EUR 150,000 allowance per child and EUR 100,000 for stepchildren/other relatives",
+      "Reform shelved amid the war-driven economic crisis",
+      "Only a narrow stepchildren amendment progressed in 2026 budget, short of the original promise"
+    ],
+    "source_url": [
+      "https://www.connexionfrance.com/practical/french-inheritance-tax-current-rules-and-what-reforms-are-proposed/681137",
+      "https://www.connexionfrance.com/news/stepchildren-french-mps-approve-higher-inheritance-tax-allowance/751918"
+    ]
+  }
+]

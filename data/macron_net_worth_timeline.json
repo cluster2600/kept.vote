@@ -1,0 +1,35 @@
+[
+  {
+    "id": "net-worth-2017",
+    "year": "2017",
+    "declared_net_worth": "approx. €0.3-0.5 million (net; precise headline figure reported inconsistently)",
+    "note": "In his 2017 candidate declaration to the HATVP, Macron reported about €65,626 in 'financial instruments' (PEAs and securities accounts) and a €91,954 life-insurance policy, plus bank-account balances, and no real estate. Outlets reported the net total inconsistently; the dataset therefore gives a range rather than a single number. The HATVP found nothing problematic in the declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://www.europe1.fr/politique/declaration-de-patrimoine-de-macron-rien-de-problematique-selon-la-hatvp-3202616"
+    ]
+  },
+  {
+    "id": "net-worth-2022",
+    "year": "2022",
+    "declared_net_worth": "approx. €550,000 (net)",
+    "note": "His 1 March 2022 declaration reported about €674,058 in total assets (≈€469,543 bank accounts, €113,473 life insurance, €67,527 financial instruments) minus a €122,515 home-renovation loan, for net assets around €550,000. No real estate, vehicle, or movable goods worth €10,000 or more were declared. The HATVP judged the change since 2017 to show 'no abnormal character'.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "net-worth-trend",
+    "year": "2017-2022",
+    "declared_net_worth": "Modest increase (financial instruments €65,626 to €67,527; life insurance €91,954 to €113,473)",
+    "note": "Across the first term, his declared financial holdings rose only modestly. There is no public HATVP update beyond the 2022 declaration as of this compilation (June 2026); a fresh declaration would normally follow the end of his mandate.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://fr.finance.yahoo.com/actualites/declaration-patrimoine-5-ans-comment-sest-enrichi-emmanuel-macron-151847600.html"
+    ]
+  }
+]

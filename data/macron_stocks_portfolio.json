@@ -1,0 +1,106 @@
+[
+  {
+    "id": "no-direct-equities-2022",
+    "holding": "Directly held individual shares / stocks",
+    "type": "equity",
+    "value": "None declared",
+    "as_of": "2022-03-01",
+    "detail": "In his HATVP declaration of assets, Macron reported no individual shares held directly. As in 2017, he declared no real estate, no movable goods worth €10,000 or more, and no motor vehicle, and no directly owned equities. There is no declared individual stock portfolio.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "pea-credit-mutuel-2022",
+    "holding": "Equity savings plan (PEA) at Crédit Mutuel",
+    "type": "securities_account",
+    "value": "€59,137",
+    "as_of": "2022-03-01",
+    "detail": "A plan d'épargne en actions (PEA), a tax-advantaged French equity-savings wrapper that holds shares and/or funds. The declaration reports only the lump value, not individual line items or tickers.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "pea-rothschild-martin-maurel-2022",
+    "holding": "Equity savings plan (PEA) at Rothschild Martin Maurel",
+    "type": "securities_account",
+    "value": "€4,534",
+    "as_of": "2022-03-01",
+    "detail": "A second, smaller PEA held at Rothschild Martin Maurel. Again, only the aggregate value is declared, with no breakdown of underlying securities.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "comptes-titres-2022",
+    "holding": "Securities accounts (comptes-titres) at Crédit Mutuel and Rothschild Martin Maurel",
+    "type": "securities_account",
+    "value": "€1,958 + €1,897 (€3,855 combined)",
+    "as_of": "2022-03-01",
+    "detail": "Two small ordinary securities accounts (comptes-titres) of €1,958 and €1,897 held at the same two banks. Their contents are not itemised in the declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "financial-instruments-total-2022",
+    "holding": "Total declared 'financial instruments' (PEAs + securities accounts)",
+    "type": "securities_account",
+    "value": "€67,527",
+    "as_of": "2022-03-01",
+    "detail": "The HATVP declaration groups his two PEAs and two securities accounts under 'instruments financiers', totalling €67,527 in 2022 (up modestly from €65,626 in his 2017 declaration). This is the entirety of his declared market-securities exposure outside life insurance.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://fr.finance.yahoo.com/actualites/declaration-patrimoine-5-ans-comment-sest-enrichi-emmanuel-macron-151847600.html"
+    ]
+  },
+  {
+    "id": "life-insurance-2022",
+    "holding": "Life-insurance policy (assurance-vie)",
+    "type": "life_insurance",
+    "value": "€113,473",
+    "as_of": "2022-03-01",
+    "detail": "A life-insurance contract worth €113,473 in 2022 (up from €91,954 in 2017). French assurance-vie can hold euro funds and/or unit-linked (market) supports, but the declaration does not break down the allocation, so the equity portion (if any) is not disclosed.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "no-company-stakes-2022",
+    "holding": "Direct stakes in companies (parts sociales / participations)",
+    "type": "company_stake",
+    "value": "None declared",
+    "as_of": "2022-03-01",
+    "detail": "Macron's declaration lists no direct ownership stakes in any company. No SCI, business participation, or unlisted-company shareholding is reported.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045682757"
+    ]
+  },
+  {
+    "id": "rothschild-era-holdings-historical",
+    "holding": "Securities/wealth from Rothschild investment-banking era",
+    "type": "other",
+    "value": "Not disclosed as a portfolio; earnings reported at approx. €2.9 million (media estimate)",
+    "as_of": "2008-2012",
+    "detail": "Macron earned a reported (Financial Times) ~€2.9 million as a Rothschild banker. There is no public record of a standing equity portfolio from that period; reporting indicates much was spent or taxed, and his later declarations show only modest financial-instrument balances. Treat the earnings figure as a media estimate, not a declared holding.",
+    "status": "historical",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.thelocal.fr/20170507/emmanuel-macron-the-banker-who-became-frances-youngest-president"
+    ]
+  }
+]

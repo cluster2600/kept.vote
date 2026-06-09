@@ -1,0 +1,98 @@
+[
+  {
+    "id": "hatvp-2022-net-worth",
+    "year": "2022",
+    "type": "net_worth",
+    "label": "Declared net assets (HATVP, candidate declaration)",
+    "amount": "approx. €550,000 (net)",
+    "detail": "In the declaration of assets he signed on 1 March 2022 and filed with the Haute Autorité pour la transparence de la vie publique (HATVP) as a presidential candidate, Macron declared roughly €674,058 in total assets, against which a €122,515 home-renovation loan owed to Crédit Mutuel is subtracted, leaving net assets of around €550,000.",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.france24.com/fr/france/20220309-pr%C3%A9sidentielle-ce-que-contient-la-d%C3%A9claration-de-patrimoine-des-candidats"
+    ]
+  },
+  {
+    "id": "hatvp-2022-bank-accounts",
+    "year": "2022",
+    "type": "assets",
+    "label": "Bank accounts (HATVP declaration)",
+    "amount": "€469,543",
+    "detail": "Macron's 2022 declaration listed about €469,543 held across his various bank accounts.",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "hatvp-2022-life-insurance",
+    "year": "2022",
+    "type": "assets",
+    "label": "Life-insurance policy (assurance-vie)",
+    "amount": "€113,473",
+    "detail": "The 2022 declaration included a life-insurance contract valued at about €113,473.",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "hatvp-2022-pea-accounts",
+    "year": "2022",
+    "type": "assets",
+    "label": "Equity savings plans (PEA)",
+    "amount": "€59,137 (Crédit Mutuel) + €4,534 (Rothschild Martin Maurel)",
+    "detail": "Macron declared two equity savings plans (plans d'épargne en actions): about €59,137 at Crédit Mutuel and €4,534 at Rothschild Martin Maurel.",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "hatvp-2022-no-real-estate",
+    "year": "2022",
+    "type": "real_estate",
+    "label": "Real estate declared",
+    "amount": "None declared",
+    "detail": "As in his 2017 declaration, Macron declared no real-estate property, no movable goods worth €10,000 or more, and no motor vehicle. He and his wife had previously sold a seaside villa in Le Touquet.",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2022/04/DSP_EmmanuelMacron_accessible.pdf",
+      "https://www.france24.com/fr/france/20220309-pr%C3%A9sidentielle-ce-que-contient-la-d%C3%A9claration-de-patrimoine-des-candidats"
+    ]
+  },
+  {
+    "id": "hatvp-2017-declaration",
+    "year": "2017",
+    "type": "net_worth",
+    "label": "Declared assets (HATVP, 2017 candidate declaration)",
+    "amount": "Modest; no real estate declared (precise net figure not restated here)",
+    "detail": "Macron's 2017 candidate declaration likewise reported no real estate and relatively modest financial assets. Commentators noted his declared wealth was lower than might be expected from his banking income, which reporting attributed to high spending and taxes during the intervening years. We omit a single headline figure here as the exact 2017 net total was reported inconsistently across outlets.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://fr.finance.yahoo.com/actualites/declaration-patrimoine-5-ans-comment-sest-enrichi-emmanuel-macron-151847600.html"
+    ]
+  },
+  {
+    "id": "rothschild-earnings-2008-2012",
+    "year": "2008-2012",
+    "type": "income",
+    "label": "Investment-banking earnings at Rothschild & Cie (media-reported)",
+    "amount": "approx. €2.9 million total (reported)",
+    "detail": "During his roughly four years at Rothschild & Cie, Macron is reported by the Financial Times and other outlets to have earned around €2.9 million in total, much of it from advising on Nestlé's acquisition of Pfizer's infant-nutrition business. This is a media-reported figure, not a HATVP-declared one; treat as an estimate.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.thelocal.fr/20170507/emmanuel-macron-the-banker-who-became-frances-youngest-president"
+    ]
+  },
+  {
+    "id": "presidential-salary",
+    "year": "2017-present",
+    "type": "income",
+    "label": "Salary as President of the Republic",
+    "amount": "approx. €15,000-16,000 gross per month (~€180,000-195,000 gross per year)",
+    "detail": "The French president's pay is set by law and was cut by about 30% under Hollande in 2012 to roughly €15,000 gross per month; Macron kept it at that level. French press reporting for 2025-2026 cites a gross monthly figure of around €16,039 (about €12,457 base pay plus function and residence allowances). The president also receives the official Élysée residence as a benefit in kind. Exact net amounts vary by source.",
+    "source_url": [
+      "https://infos-entreprises.fr/combien-gagne/president-republique/",
+      "https://www.universitetransition.org/salaire-president-republique-remuneration-et-details-demmanuel-macron/"
+    ]
+  }
+]

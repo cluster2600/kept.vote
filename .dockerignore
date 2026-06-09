@@ -1,0 +1,12 @@
+# Keep the API image lean — exclude the frontend app and local cruft.
+frontend
+.venv
+venv
+__pycache__
+*.pyc
+.git
+.gstack
+uploads
+.env
+*.log
+.DS_Store
