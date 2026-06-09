@@ -31,6 +31,7 @@ import SourcesSection from "@/components/SourcesSection";
 import PromisesTab from "@/components/PromisesTab";
 
 export interface PoliticianTabsProps {
+  politicianName: string;
   promises: PromiseWithVerification[];
   workHistory: WorkHistoryItem[];
   education: EducationItem[];
@@ -56,6 +57,7 @@ type TabKey =
 
 export default function PoliticianTabs(props: PoliticianTabsProps) {
   const {
+    politicianName,
     promises,
     workHistory,
     education,
@@ -136,7 +138,9 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
       </div>
 
       <div className="pt-6">
-        {active === "promises" && <PromisesTab promises={promises} />}
+        {active === "promises" && (
+          <PromisesTab promises={promises} politicianName={politicianName} />
+        )}
 
         {active === "background" && (
           <div className="space-y-10">

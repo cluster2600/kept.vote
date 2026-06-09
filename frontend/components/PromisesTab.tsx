@@ -32,11 +32,22 @@ const zero = (): Counts => ({
  *  filter. Collapsed by default; a status filter auto-expands matching groups. */
 export default function PromisesTab({
   promises,
+  politicianName,
 }: {
   promises: PromiseWithVerification[];
+  politicianName: string;
 }) {
   const [filter, setFilter] = useState<Filter>("all");
   const [expanded, setExpanded] = useState<Set<string>>(new Set());
+
+  // Data-driven: if a politician's promises are (almost) all "No Action", they
+  // have not enacted policy — surface a non-officeholder context banner rather
+  // than letting it read as a wall of identical badges.
+  const noActionCount = promises.filter(
+    (p) => p.verification?.status === "no_action",
+  ).length;
+  const campaignOnly =
+    promises.length > 0 && noActionCount / promises.length >= 0.9;
 
   const groups = useMemo(() => {
     const map = new Map<string, PromiseWithVerification[]>();
@@ -78,6 +89,16 @@ export default function PromisesTab({
 
   return (
     <div>
+      {campaignOnly && (
+        <div className="mb-4 rounded-lg border border-slate-200 bg-slate-50 px-4 py-3 text-sm leading-relaxed text-slate-600">
+          <span className="font-semibold text-slate-700">Context.</span>{" "}
+          {politicianName} has not held executive office. These are campaign
+          pledges, not enacted policy — so each is recorded as{" "}
+          <span className="font-medium">&ldquo;No Action&rdquo;</span> rather
+          than kept or broken.
+        </div>
+      )}
+
       {/* Status filter */}
       <div className="mb-4 flex flex-wrap gap-2">
         <FilterChip

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "no-securities-declared",
+    "holding": "None declared",
+    "type": "securities / equities / PEA / compte-titres",
+    "value": "€0 — none declared",
+    "as_of": "2022 (HATVP déclaration de patrimoine)",
+    "detail": "The itemized 2022 HATVP declaration shows no equities portfolio, no PEA (plan d'épargne en actions), no compte-titres and no stock options. His only declared financial-investment holding was assurance-vie (€444,335), plus bank cash (€13,587). Recorded here as an explicit 'none declared' finding.",
+    "status": "none_declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  }
+]

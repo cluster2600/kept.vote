@@ -1,0 +1,225 @@
+[
+  {
+    "id": "conviction-2011-discrimination-raciale",
+    "title": "Conviction (2011): incitement to racial discrimination — 'most drug dealers are Black or Arab'",
+    "period": "2010–2011",
+    "category": "criminal_conviction",
+    "description": "On 6 March 2010 on Canal+'s 'Salut les Terriens', Zemmour said most drug traffickers are Black and Arab ('c'est un fait'), and on France Ô the same day said employers 'have the right' to refuse to hire Black or Arab applicants. In February 2011 the 17th chamber of the Tribunal correctionnel de Paris convicted him of provocation à la discrimination raciale and incitement to employment discrimination: €2,000 suspended fine plus €10,000 in damages to anti-racist associations. The defamation framing on 'contrôle au faciès' was not upheld as defamation.",
+    "status": "resolved",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Court: Tribunal correctionnel de Paris (17th chamber), February 2011",
+      "Offence: provocation à la discrimination raciale + incitement to employment discrimination",
+      "Penalty: €2,000 suspended fine + €10,000 damages",
+      "Final: he did not appeal — conviction is definitive",
+      "Note: the €1,000 figure sometimes cited is incorrect; it was €2,000 suspended"
+    ],
+    "source_url": [
+      "https://fr.news.yahoo.com/quelles-sont-condamnations-zemmour-154742449.html"
+    ]
+  },
+  {
+    "id": "conviction-2016-religious-hatred-echr",
+    "title": "Conviction (2018, upheld by ECHR 2022): incitement to religious hatred — 'Muslims must choose between Islam and France'",
+    "period": "2016–2022",
+    "category": "criminal_conviction",
+    "description": "Over remarks made 6 September 2016 on France 5's 'C à vous' (Muslims must choose 'between Islam and France'; describing immigration as an 'invasion' and a 'jihad' to 'Islamise' territory). The Tribunal correctionnel convicted him (€5,000); the Cour d'appel de Paris on 3 May 2018 reduced the fine to €3,000 and confirmed guilt for provocation à la discrimination, à la haine ou à la violence on religious grounds; the Cour de cassation rejected his appeal on 17 September 2019. The European Court of Human Rights rejected his Article 10 application on 20 December 2022 (Zemmour v. France), finding a discriminatory intent and upholding the conviction.",
+    "status": "resolved",
+    "confidence_score": 0.98,
+    "key_facts": [
+      "Remarks: 6 September 2016, France 5 'C à vous'",
+      "Cour d'appel de Paris, 3 May 2018: €3,000 fine, guilt confirmed",
+      "Cour de cassation, 17 September 2019: appeal rejected (definitive)",
+      "ECHR, 20 December 2022: application rejected, conviction upheld",
+      "Final and exhausted, including at the European level"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/politique/eric-zemmour/la-cedh-deboute-eric-zemmour-qui-contestait-une-condamnation-pour-des-propos-visant-les-musulmans_5554866.html",
+      "https://www.euractiv.fr/section/justice/news/la-condamnation-deric-zemmour-pour-propos-discriminatoires-validee-par-la-cedh/"
+    ]
+  },
+  {
+    "id": "conviction-2019-convention-droite",
+    "title": "Conviction (final 2025): incitement to hatred + public insult — 'Convention de la droite' speech",
+    "period": "2019–2025",
+    "category": "criminal_conviction",
+    "description": "In his 28 September 2019 'Convention de la droite' speech, Zemmour called immigrants 'colonisateurs', denounced the 'Islamisation of the street', and described the veil and djellaba as 'uniforms of an army of occupation'. The case followed a long path: convicted at first instance (Sept 2020, €10,000), acquitted (relaxe) by the Cour d'appel in September 2021, the acquittal overturned by the Cour de cassation in February 2023, then reconvicted by the Cour d'appel de Paris on 22 February 2024 (€15,000 fine for provocation publique à la haine and injure publique, plus damages). The Cour de cassation rejected his final appeal on 16 September 2025, making the conviction definitive.",
+    "status": "resolved",
+    "confidence_score": 0.97,
+    "key_facts": [
+      "Remarks: 28 September 2019, 'Convention de la droite'",
+      "Acquitted on appeal Sept 2021, acquittal overturned by Cassation Feb 2023",
+      "Reconvicted by Cour d'appel de Paris, 22 February 2024: €15,000 fine",
+      "Cour de cassation, 16 September 2025: appeal rejected — DEFINITIVE",
+      "Final fine €15,000 (raised on re-appeal from the earlier €10,000)"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-des-propos-racistes-en-2019_7497130.html",
+      "https://www.lalibre.be/international/europe/2025/09/17/zemmour-definitivement-condamne-pour-racisme-les-lois-nadmettent-pas-que-la-haine-puisse-servir-de-fondement-a-notre-societe-2UQ2WKE7W5HYXJ3SKA2BHBG4YQ/"
+    ]
+  },
+  {
+    "id": "conviction-2020-mineurs-isoles",
+    "title": "Conviction (2022, upheld on appeal 2024): incitement to racial hatred — unaccompanied foreign minors 'thieves, rapists, murderers'",
+    "period": "2020–2024 (cassation status unconfirmed)",
+    "category": "criminal_conviction",
+    "description": "On 29 September 2020 on CNews's 'Face à l'info', Zemmour said unaccompanied foreign minors 'have no business here, they are thieves, they are murderers, they are rapists'. On 17 January 2022 the Tribunal correctionnel de Paris convicted him of provocation à la haine/discrimination raciale and racial insult and fined him €10,000 (CNews's publication director was also convicted). The Cour d'appel de Paris upheld the conviction and the €10,000 fine on 12 September 2024, calling the remarks 'particularly outrageous and degrading'.",
+    "status": "judicial",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Remarks: 29 September 2020, CNews 'Face à l'info'",
+      "Tribunal correctionnel de Paris, 17 January 2022: €10,000 fine",
+      "Cour d'appel de Paris, 12 September 2024: conviction and fine UPHELD",
+      "A pourvoi en cassation was announced; a final Cassation ruling was not confirmed as of June 2026 — treat as not-yet-final"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/france/20220117-migrants-mineurs-isol%C3%A9s-%C3%A9ric-zemmour-condamn%C3%A9-pour-provocation-%C3%A0-la-haine",
+      "https://www.leclubdesjuristes.com/en-bref/propos-sur-les-mineurs-isoles-eric-zemmour-condamne-en-appel-6861/"
+    ]
+  },
+  {
+    "id": "conviction-2019-petain-contestation",
+    "title": "Conviction on appeal (2025): contesting a crime against humanity — Pétain 'saved' French Jews",
+    "period": "2019–2025 (cassation likely pending)",
+    "category": "criminal_conviction",
+    "description": "On 21 October 2019 on CNews's 'Face à l'info' (debate with Bernard-Henri Lévy), Zemmour claimed Marshal Pétain 'saved' French Jews during the Occupation — a thesis also central to his 2014 book 'Le Suicide français' and rejected by the historical consensus. He was acquitted (relaxe) at first instance (2021) and on appeal (2022); the Cour de cassation overturned the acquittal in September 2023, ruling the offence can apply even regarding a person not himself convicted of crimes against humanity. The Cour d'appel de Paris reconvicted him on 2 April 2025 for contestation de crime contre l'humanité (€10,000 fine plus symbolic damages). Zemmour announced a further appeal.",
+    "status": "judicial",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Remarks: 21 October 2019, CNews 'Face à l'info' (also in 'Le Suicide français', 2014)",
+      "Acquitted 2021 and 2022; acquittal overturned by Cassation Sept 2023",
+      "Cour d'appel de Paris, 2 April 2025: convicted, €10,000 fine",
+      "Offence: contestation de crime contre l'humanité",
+      "A pourvoi en cassation was announced — likely pending; not yet final"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/france/20250402-zemmour-condamn%C3%A9-10-000-euros-amende-pour-avoir-qualifi%C3%A9-p%C3%A9tain-de-sauveur-des-juifs-fran%C3%A7ais",
+      "https://www.francebleu.fr/infos/faits-divers-justice/petain-sauveur-de-juifs-francais-eric-zemmour-condamne-a-10-000-euros-d-amende-7733430"
+    ]
+  },
+  {
+    "id": "conviction-2018-hapsatou-sy",
+    "title": "Conviction (2023, upheld on appeal): racist insult — Hapsatou Sy 'name' remark",
+    "period": "2018–2023",
+    "category": "criminal_conviction",
+    "description": "In September 2018 on 'Salut les Terriens', Zemmour told television host Hapsatou Sy that her first name was 'an insult to France' and that her mother should have named her 'Corinne'. He was convicted of injure raciste (racist insult): a €4,000 fine plus €3,000 in damages to Sy at first instance (January 2023), and the conviction was confirmed by the Cour d'appel de Paris.",
+    "status": "resolved",
+    "confidence_score": 0.92,
+    "key_facts": [
+      "Remarks: September 2018, 'Salut les Terriens'",
+      "First instance (Jan 2023): €4,000 fine + €3,000 damages",
+      "Cour d'appel de Paris: conviction confirmed",
+      "Offence: injure raciste (racist insult)"
+    ],
+    "source_url": [
+      "https://www.lecourrierdelatlas.com/injure-envers-hapsatou-sy-la-condamnation-deric-zemmour-confirmee/",
+      "https://fr.news.yahoo.com/quelles-sont-condamnations-zemmour-154742449.html"
+    ]
+  },
+  {
+    "id": "acquittals-relaxes",
+    "title": "Acquittals: cases where Zemmour was cleared",
+    "period": "2014–2016",
+    "category": "legal_acquittal",
+    "description": "Not every prosecution led to conviction. Over a 2014 RTL remark listing groups said to 'replace' historic invaders and 'rob' the French, he was acquitted (relaxe) because the court held the words targeted only 'a fraction' of the groups. Over a 2014 interview in Italy's Corriere della Sera ('Muslims have their own civil code, the Quran'), he was convicted in 2015 (€10,000) but acquitted by the Cour d'appel, which held it was not proven he knew the remarks would be published in France. These are distinct from the 'Convention de la droite' and 'Pétain' cases, which included acquittal phases later overturned and ending in conviction.",
+    "status": "resolved",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "2014 RTL 'invasions' remark: acquitted (relaxe)",
+      "2014 Corriere della Sera interview: convicted 2015, acquitted on appeal",
+      "Do not conflate with the Convention de la droite / Pétain cases, which ended in conviction"
+    ],
+    "source_url": [
+      "https://fr.news.yahoo.com/quelles-sont-condamnations-zemmour-154742449.html"
+    ]
+  },
+  {
+    "id": "polemic-grand-remplacement",
+    "title": "Advocacy of the 'great replacement' (grand remplacement) theory",
+    "period": "2010s–present",
+    "category": "ideological_controversy",
+    "description": "Zemmour is one of France's most prominent promoters of Renaud Camus's 'great replacement' theory — the claim that the native French/European population is being deliberately replaced by non-European, largely Muslim immigration. It is widely characterised by scholars and mainstream media as a conspiracy theory without demographic basis, and was a central narrative of his 2022 campaign. There is no standalone criminal conviction for using the phrase itself; advocacy of the theory is political speech, while specific phrasings led to the separate hate-speech cases above.",
+    "status": "ongoing",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "Central theme of his books and 2022 campaign",
+      "Characterised by scholars/press as a conspiracy theory",
+      "No criminal conviction for the phrase itself — political speech",
+      "Distinct from the specific remarks that produced hate-speech convictions"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "polemic-petain-vichy-thesis",
+    "title": "Historical thesis that Vichy/Pétain 'saved' French Jews",
+    "period": "2014–present",
+    "category": "ideological_controversy",
+    "description": "The claim that Pétain's Vichy regime protected French Jews while sacrificing foreign Jews is a recurring Zemmour thesis (notably in 'Le Suicide français', 2014). Historians, including Jacques Sémelin, and the academic consensus reject it: Jewish survival in France happened despite Vichy, which enacted antisemitic laws and actively deported foreign Jews. The on-air version of this thesis (Oct 2019) became the criminal case 'conviction-2019-petain-contestation'.",
+    "status": "ongoing",
+    "confidence_score": 0.93,
+    "key_facts": [
+      "Thesis in 'Le Suicide français' (2014)",
+      "Rejected by historians (e.g. Jacques Sémelin) and academic consensus",
+      "The 2019 broadcast version led to a criminal conviction on appeal (2025)"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/societe/propos-de-zemmour-sur-petain-si-tant-de-juifs-ont-survecu-a-loccupation-ce-nest-pas-grace-au-regime-de-vichy-rappelle-lhistorien-jacques-semelin"
+    ]
+  },
+  {
+    "id": "allegations-metoo-mediapart",
+    "title": "Allegations of inappropriate behaviour and sexual assault (Mediapart, 2022)",
+    "period": "1999–2022",
+    "category": "allegation",
+    "description": "On 8 March 2022, during the presidential campaign, Mediapart published a video investigation in which eight women accused Zemmour of inappropriate behaviour and sexual assault over a period spanning roughly 1999–2019 (including a former intern and a former Socialist Party women's-rights official who alleged a forced kiss). THESE ARE ALLEGATIONS ONLY. No criminal complaint, charge or conviction arising from them was reported in the available sources; Zemmour declined to comment. They must be presented as unproven allegations, not legal findings.",
+    "status": "no_charges",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "Source: Mediapart video investigation, 8 March 2022",
+      "Eight women cited; alleged facts c. 1999–2019",
+      "ALLEGATIONS only — no reported complaint, charge or conviction",
+      "Must be labelled as unproven allegations"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/politique/eric-zemmour/huit-femmes-accusent-eric-zemmour-de-comportements-inappropries-et-d-agressions-sexuelles-dans-une-enquete-video-de-mediapart_4998279.html"
+    ]
+  },
+  {
+    "id": "polemic-ukrainian-refugees-2022",
+    "title": "Controversy over Ukrainian refugees (2022)",
+    "period": "2022",
+    "category": "political_controversy",
+    "description": "In late February 2022, as Russia invaded Ukraine, Zemmour said welcoming Ukrainian refugees risked 'destabilising France', suggested they should remain in Poland, and distinguished 'European and Christian brothers' from 'African migrants'. The remarks drew cross-party condemnation (including from the RN's Jordan Bardella and from Les Républicains) as inhumane and ideological; he cancelled a scheduled franceinfo appearance amid the backlash. No legal consequence.",
+    "status": "resolved",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Late February 2022, during the Russian invasion of Ukraine",
+      "Suggested refugees stay in Poland; drew a Christian/African distinction",
+      "Condemned across the political spectrum; no legal consequence"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/politique/eric-zemmour/presidentielle-eric-zemmour-trebuche-sur-l-accueil-des-refugies-ukrainiens_4990370.html",
+      "https://www.europe1.fr/politique/refugies-ukrainiens-les-partis-rn-et-lr-critiquent-zemmour-ideologue-et-inhumain-4097193"
+    ]
+  },
+  {
+    "id": "polemic-cnews-csa-arcom",
+    "title": "Regulatory action against CNews over Zemmour's airtime",
+    "period": "2021–2024",
+    "category": "regulatory",
+    "description": "On 17 March 2021 the CSA (now Arcom) fined CNews €200,000 over Zemmour's 'Face à l'info' remarks about unaccompanied foreign minors. The regulator also repeatedly intervened over CNews's failure to respect speaking-time pluralism; after a February 2024 Conseil d'État decision (RSF case), Arcom issued CNews a 'mise en garde' in July 2024 regarding 2021. These are regulatory actions against the broadcaster, distinct from Zemmour's own criminal cases; per reporting, Arcom has not formally sanctioned CNews specifically for internal pluralism breaches.",
+    "status": "resolved",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "CSA fined CNews €200,000 on 17 March 2021 (minors remarks)",
+      "July 2024: Arcom 'mise en garde' to CNews on 2021 pluralism, after Conseil d'État ruling",
+      "Regulatory action on the broadcaster, not on Zemmour personally"
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/economie/medias/l-arcom-adresse-une-mise-en-garde-a-cnews-au-sujet-du-pluralisme-sur-son-antenne-apres-une-decision-du-conseil-d-etat_6698478.html",
+      "https://theconversation.com/pourquoi-larcom-na-jamais-sanctionne-cnews-pour-manquement-au-pluralisme-271139"
+    ]
+  }
+]

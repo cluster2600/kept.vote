@@ -1,0 +1,63 @@
+[
+  {
+    "id": "interest-rubempre-manager",
+    "item": "Manager (gérant) and 90% owner of Rubempré (SARL)",
+    "type": "Company management / outside business activity",
+    "period": "2008 – present (declared 2022)",
+    "value": "Stake valued €1,530,000; principal income vehicle",
+    "detail": "His own company, through which book royalties, media fees and conference income are invoiced. Declared in the 2022 déclaration d'intérêts.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://www.pappers.fr/entreprise/rubempre-508074259"
+    ]
+  },
+  {
+    "id": "interest-figaro-columnist",
+    "item": "Columnist / journalist, Le Figaro",
+    "type": "Salaried media activity",
+    "period": "1996–2021 (declared income for 2020)",
+    "value": "€66,181 gross (2020)",
+    "detail": "Declared salaried remuneration as a Le Figaro columnist; he took leave in September 2021.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "interest-tv-radio",
+    "item": "Television and radio contributor (CNews 'Face à l'info'; earlier RTL, Paris Première)",
+    "type": "Media activity (invoiced via Rubempré)",
+    "period": "to September 2021",
+    "value": "Fees included in Rubempré revenue (see finances)",
+    "detail": "Broadcast fees were largely invoiced through Rubempré rather than declared as separate salary lines.",
+    "status": "declared",
+    "source_url": [
+      "https://actualitte.com/article/105077/politique-publique/droits-d-auteur-societe-d-edition-le-livre-dans-les-declarations-des-candidats"
+    ]
+  },
+  {
+    "id": "interest-author",
+    "item": "Author / book publishing (royalties, self-publishing via Rubempré)",
+    "type": "Author activity",
+    "period": "2006 – present",
+    "value": "Royalties aggregated in Rubempré revenue (2017–2021 figures in finances dataset)",
+    "detail": "Book royalties and, from 2021, self-publishing income via Rubempré, declared through the company in the déclaration d'intérêts.",
+    "status": "declared",
+    "source_url": [
+      "https://actualitte.com/article/105077/politique-publique/droits-d-auteur-societe-d-edition-le-livre-dans-les-declarations-des-candidats"
+    ]
+  },
+  {
+    "id": "interest-no-outside-boards",
+    "item": "No outside board memberships declared",
+    "type": "Board / directorship",
+    "period": "2022 declaration",
+    "value": "None",
+    "detail": "No conseil d'administration or outside directorships were reported beyond his own company Rubempré.",
+    "status": "none_declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  }
+]

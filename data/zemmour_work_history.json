@@ -1,0 +1,152 @@
+[
+  {
+    "id": "le-quotidien-de-paris",
+    "role": "Political journalist",
+    "organization": "Le Quotidien de Paris",
+    "start_date": "1986",
+    "end_date": "1994",
+    "description": "Joined the politics desk in 1986 under editor Philippe Tesson; remained until the newspaper ceased publication in 1994.",
+    "category": "journalism",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    ]
+  },
+  {
+    "id": "info-matin",
+    "role": "Lead writer",
+    "organization": "Info-Matin",
+    "start_date": "1994",
+    "end_date": "1995",
+    "description": "Worked roughly a year at the short-lived daily Info-Matin after Le Quotidien de Paris closed.",
+    "category": "journalism",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    ]
+  },
+  {
+    "id": "le-figaro",
+    "role": "Political journalist / columnist",
+    "organization": "Le Figaro / Le Figaro Magazine",
+    "start_date": "1996",
+    "end_date": "2021",
+    "description": "Political reporter from 1996; moved to Le Figaro Magazine in 2009 and back to the main paper as a permanent journalist in 2013. Took leave in September 2021 ahead of his presidential campaign. Declared Le Figaro salary in 2020: €66,181 gross.",
+    "category": "journalism",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "ca-se-dispute-itele",
+    "role": "Political commentator (\"Ça se dispute\")",
+    "organization": "i>Télé (iTélé)",
+    "start_date": "2003",
+    "end_date": "2014",
+    "description": "Co-host of the sparring debate segment \"Ça se dispute\" on the news channel i>Télé.",
+    "category": "media",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    ]
+  },
+  {
+    "id": "on-nest-pas-couche-france2",
+    "role": "Columnist / panelist (\"On n'est pas couché\")",
+    "organization": "France 2",
+    "start_date": "2006-09",
+    "end_date": "2011",
+    "description": "Regular columnist on Laurent Ruquier's Saturday-night talk show, first with Michel Polac then with Éric Naulleau; the role made him a nationally known polemicist.",
+    "category": "media",
+    "source_url": [
+      "https://larevuedesmedias.ina.fr/eric-zemmour-carriere-tele-clash-autain-huster-ardisson-tout-le-monde-en-parle-france-2"
+    ]
+  },
+  {
+    "id": "rtl-z-comme-zemmour",
+    "role": "Radio columnist (\"Z comme Zemmour\")",
+    "organization": "RTL",
+    "start_date": "2010-01-04",
+    "end_date": "2016",
+    "description": "Daily, later twice-weekly, radio chronicle on RTL.",
+    "category": "media",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    ]
+  },
+  {
+    "id": "zemmour-et-naulleau-paris-premiere",
+    "role": "Co-host (\"Zemmour et Naulleau\")",
+    "organization": "Paris Première",
+    "start_date": "2011-09",
+    "end_date": "2021-09",
+    "description": "Co-hosted the debate programme \"Zemmour et Naulleau\" with Éric Naulleau until his departure to run for president.",
+    "category": "media",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Zemmour_et_Naulleau",
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    ]
+  },
+  {
+    "id": "face-a-linfo-cnews",
+    "role": "Editorialist / panelist (\"Face à l'info\")",
+    "organization": "CNews",
+    "start_date": "2019-10",
+    "end_date": "2021-09",
+    "description": "Daily evening editorialist on CNews (Bolloré group), where his commentary on immigration and Islam drove high ratings and regulatory scrutiny; left in September 2021 to prepare his candidacy.",
+    "category": "media",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "https://www.irishtimes.com/culture/tv-radio-web/monsieur-right-meet-eric-zemmour-cheerleader-of-the-french-fox-news-1.4374675"
+    ]
+  },
+  {
+    "id": "essayist-author",
+    "role": "Essayist / author",
+    "organization": "Various publishers (Denoël, Albin Michel, éditions Rubempré)",
+    "start_date": "2006",
+    "end_date": "present",
+    "description": "Author of best-selling political essays including Le Premier Sexe (Denoël, 2006), Mélancolie française (2010), Le Suicide français (Albin Michel, 2014), Destin français (Albin Michel, 2018) and La France n'a pas dit son dernier mot (éditions Rubempré, 2021).",
+    "category": "author",
+    "source_url": [
+      "https://www.decitre.fr/livres/le-suicide-francais-9782226254757.html",
+      "https://www.decitre.fr/livres/destin-francais-9782226320070.html",
+      "https://fr.wikipedia.org/wiki/La_France_n'a_pas_dit_son_dernier_mot"
+    ]
+  },
+  {
+    "id": "rubempre-manager",
+    "role": "Manager (gérant)",
+    "organization": "Rubempré (SARL)",
+    "start_date": "2008-09-16",
+    "end_date": "present",
+    "description": "Co-manager and 90% owner of his personal company Rubempré, which collects his book royalties, media fees and conference income, and from 2021 self-published his books.",
+    "category": "business",
+    "source_url": [
+      "https://www.pappers.fr/entreprise/rubempre-508074259",
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "reconquete-founder-president",
+    "role": "Founder and president",
+    "organization": "Reconquête",
+    "start_date": "2021-12",
+    "end_date": "present",
+    "description": "Founded the national-conservative party Reconquête, publicly launched at the Villepinte rally of 5 December 2021, and has led it as president since.",
+    "category": "politics",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)"
+    ]
+  },
+  {
+    "id": "presidential-candidate-2022",
+    "role": "Candidate for President of the French Republic",
+    "organization": "Reconquête",
+    "start_date": "2021-11-30",
+    "end_date": "2022-04-10",
+    "description": "Declared his candidacy on 30 November 2021 and contested the 2022 presidential election, finishing fourth in the first round and being eliminated.",
+    "category": "politics",
+    "source_url": [
+      "https://www.les-elections.fr/resultats-presidentielle-2022/candidats/eric-zemmour"
+    ]
+  }
+]

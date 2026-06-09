@@ -1,0 +1,10 @@
+[
+  {
+    "id": "no-legislation-authored",
+    "note": "Not applicable — Éric Zemmour has never held legislative office and has authored, sponsored or co-sponsored no legislation. He has never been a deputy (député), senator, MEP or local elected official. His only candidacies were the 2022 presidential election (eliminated first round, 7.07%) and the June 2022 legislative election in Var's 4th constituency (eliminated first round); Reconquête won no seats in the National Assembly. With no parliamentary mandate, he has never introduced or voted on a bill. This dataset is intentionally a single explicit 'no legislation' record rather than an empty array, to make the finding visible.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/legislatives/resultats-des-legislatives-2022-comment-eric-zemmour-a-rate-son-pari-de-faire-entrer-reconquete-a-l-assemblee-nationale_5193973.html",
+      "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-qui-sont-les-candidats-de-la-liste-reconquete/"
+    ]
+  }
+]

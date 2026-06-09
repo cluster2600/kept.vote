@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ecole-lucien-de-hirsch",
+    "institution": "École Lucien-de-Hirsch",
+    "qualification": "Primary education",
+    "field": "General",
+    "years": "c. 1964–1969",
+    "detail": "Private Jewish primary school in Paris (19th arrondissement) attended by Zemmour as a child.",
+    "source_url": [
+      "https://www.lejdd.fr/Politique/a-lepoque-il-navait-rien-dun-activiste-politique-enquete-sur-les-annees-sciences-po-deric-zemmour-4081916"
+    ]
+  },
+  {
+    "id": "lycee-yabne",
+    "institution": "Lycée Yabné",
+    "qualification": "Secondary education (baccalauréat)",
+    "field": "General",
+    "years": "c. 1970s",
+    "detail": "Private Jewish secondary school in Paris (13th arrondissement). Zemmour later spoke of a deliberately assimilationist, French-republican upbringing.",
+    "source_url": [
+      "https://www.lejdd.fr/Politique/a-lepoque-il-navait-rien-dun-activiste-politique-enquete-sur-les-annees-sciences-po-deric-zemmour-4081916"
+    ]
+  },
+  {
+    "id": "sciences-po-paris",
+    "institution": "Institut d'études politiques de Paris (Sciences Po)",
+    "qualification": "Diploma of the Institut d'études politiques (commonly reported; primary confirmation of award not located)",
+    "field": "Political studies",
+    "years": "1976–1979",
+    "detail": "Attended Sciences Po Paris in the late 1970s; described by contemporaries as a studious, not-yet-politically-active student. Standard biographies treat him as a graduate; an explicit primary source confirming conferral of the diploma was not located.",
+    "source_url": [
+      "https://www.lejdd.fr/Politique/a-lepoque-il-navait-rien-dun-activiste-politique-enquete-sur-les-annees-sciences-po-deric-zemmour-4081916",
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    ]
+  },
+  {
+    "id": "ena-failed-entrance",
+    "institution": "École nationale d'administration (ENA)",
+    "qualification": "None — failed the competitive entrance examination",
+    "field": "Public administration",
+    "years": "c. 1980 and 1981",
+    "detail": "Sat the ENA entrance examination twice and failed both times. Zemmour has publicly described this double failure as a lasting personal wound that shaped his outlook.",
+    "source_url": [
+      "https://www.lejdd.fr/Politique/a-lepoque-il-navait-rien-dun-activiste-politique-enquete-sur-les-annees-sciences-po-deric-zemmour-4081916",
+      "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    ]
+  }
+]

@@ -33,7 +33,6 @@ from database import (
     Interest,
     KeyLegislation,
     NetWorthTimeline,
-    Politician,
     Polemic,
     RealEstate,
     StockHolding,
@@ -41,24 +40,11 @@ from database import (
     init_db,
 )
 from database import SessionLocal
-
-DATA_DIR = os.getenv("PROFILE_DATA_DIR", "data")
-
-POLITICIAN = {
-    "name": "Emmanuel Macron",
-    "country": "France",
-    "party": "Renaissance",
-}
-
-
-def _as_list(value: object) -> list[str] | None:
-    """Normalize a value that may be a string or list into a list of strings."""
-    if isinstance(value, list):
-        items = [str(v).strip() for v in value if str(v).strip()]
-        return items or None
-    if isinstance(value, str) and value.strip():
-        return [value.strip()]
-    return None
+from import_common import (
+    as_list as _as_list,
+    data_path,
+    get_or_create_politician,
+)
 
 
 def _clamp(value: object) -> float | None:
@@ -71,9 +57,9 @@ def _clamp(value: object) -> float | None:
         return None
 
 
-def _load(name: str) -> list[dict]:
-    """Load a JSON array dataset from the data directory."""
-    path = os.path.join(DATA_DIR, name)
+def _load(section: str) -> list[dict]:
+    """Load a section dataset for the active prefix (e.g. zemmour_finances)."""
+    path = data_path(section)
     with open(path, encoding="utf-8") as fh:
         data = json.load(fh)
     if not isinstance(data, list):
@@ -252,11 +238,13 @@ def _honor_fields(e: dict) -> dict:
 
 
 def _legislation_fields(e: dict) -> dict:
+    # Some datasets use a single explicit "no legislation" record carrying only
+    # a `note` (no law_name/description) — map it to a clear titled card.
     return {
-        "law_name": e.get("law_name") or "(law)",
+        "law_name": e.get("law_name") or "No legislation authored",
         "year": e.get("year"),
         "area": e.get("area"),
-        "description": e.get("description"),
+        "description": e.get("description") or e.get("note"),
         "significance": e.get("significance"),
         "source_urls": _as_list(e.get("source_url")),
     }
@@ -273,34 +261,24 @@ def _net_worth_fields(e: dict) -> dict:
 
 
 async def main() -> None:
-    work = _load("macron_work_history.json")
-    finances = _load("macron_finances.json")
-    polemics = _load("macron_polemics.json")
-    stocks = _load("macron_stocks_portfolio.json")
-    real_estate = _load("macron_real_estate.json")
-    companies = _load("macron_companies.json")
-    electoral = _load("macron_electoral_history.json")
-    interests = _load("macron_interests.json")
-    education = _load("macron_education.json")
-    honors = _load("macron_honors.json")
-    legislation = _load("macron_key_legislation.json")
-    net_worth = _load("macron_net_worth_timeline.json")
+    work = _load("work_history")
+    finances = _load("finances")
+    polemics = _load("polemics")
+    stocks = _load("stocks_portfolio")
+    real_estate = _load("real_estate")
+    companies = _load("companies")
+    electoral = _load("electoral_history")
+    interests = _load("interests")
+    education = _load("education")
+    honors = _load("honors")
+    legislation = _load("key_legislation")
+    net_worth = _load("net_worth_timeline")
 
     await init_db()  # ensure the new tables exist (no-op if already created)
 
     async with SessionLocal() as session:
-        macron = (
-            await session.execute(
-                select(Politician).where(Politician.name == POLITICIAN["name"])
-            )
-        ).scalars().first()
-        if macron is None:
-            macron = Politician(**POLITICIAN)
-            session.add(macron)
-            await session.flush()
-            print(f"Created politician: {macron.name}")
-        else:
-            print(f"Reusing existing politician: {macron.name} ({macron.id})")
+        politician = await get_or_create_politician(session)
+        print(f"Target politician: {politician.name} ({politician.id})")
 
         sections = [
             ("work history", WorkHistory, work, _work_fields),
@@ -319,7 +297,7 @@ async def main() -> None:
         results = []
         for name, model, entries, fmap in sections:
             c, u, p = await _upsert_section(
-                session, macron.id, model, entries, fmap
+                session, politician.id, model, entries, fmap
             )
             results.append((name, len(entries), c, u, p))
 

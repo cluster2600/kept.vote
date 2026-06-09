@@ -401,6 +401,11 @@ const POLEMIC_STATUS_META: Record<string, PolemicStatusMeta> = {
     badge: "bg-slate-100 text-slate-600 ring-1 ring-inset ring-slate-500/20",
     dot: "bg-slate-400",
   },
+  judicial: {
+    label: "In court",
+    badge: "bg-amber-50 text-amber-800 ring-1 ring-inset ring-amber-600/20",
+    dot: "bg-amber-500",
+  },
   political: {
     label: "Political",
     badge: "bg-sky-50 text-sky-700 ring-1 ring-inset ring-sky-600/20",

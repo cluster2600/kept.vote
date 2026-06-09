@@ -1,0 +1,44 @@
+[
+  {
+    "id": "presidentielle-2022-t1",
+    "election": "French presidential election 2022 (first round)",
+    "date": "2022-04-10",
+    "role_sought": "President of the French Republic",
+    "result": "Eliminated in the first round (4th place)",
+    "vote_share": "7.07%",
+    "opponent": "Emmanuel Macron (re-elected), Marine Le Pen, Jean-Luc Mélenchon",
+    "detail": "Received 2,485,226 votes (7.07%), finishing fourth behind Macron, Le Pen and Mélenchon and failing to reach the run-off. His first presidential bid as candidate of Reconquête.",
+    "source_url": [
+      "https://www.les-elections.fr/resultats-presidentielle-2022/candidats/eric-zemmour",
+      "https://www.franceinfo.fr/elections/presidentielle/resultats-presidentielle-2022-eric-zemmour-en-quatrieme-position-avec-7-2-des-suffrages-selon-notre-estimation-ipsos-sopra-steria_5065489.html"
+    ]
+  },
+  {
+    "id": "legislatives-2022-var4",
+    "election": "French legislative election 2022 (Var 4th constituency)",
+    "date": "2022-06-12",
+    "role_sought": "Member of the National Assembly (député)",
+    "result": "Eliminated in the first round",
+    "vote_share": "Reconquête won 4.24% nationally and zero seats",
+    "opponent": "RN and other candidates in Var's 4th constituency",
+    "detail": "Stood in the Var 4th constituency in the June 2022 legislative elections and was eliminated in the first round. Reconquête won no seats in the National Assembly.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/legislatives/resultats-des-legislatives-2022-comment-eric-zemmour-a-rate-son-pari-de-faire-entrer-reconquete-a-l-assemblee-nationale_5193973.html"
+    ]
+  },
+  {
+    "id": "europeennes-2024",
+    "election": "European Parliament election 2024 (France)",
+    "date": "2024-06-09",
+    "role_sought": "Not a genuine candidate for a seat (symbolic 80th/penultimate position on the Reconquête list)",
+    "result": "Reconquête list won 5 seats; Zemmour did not take a seat",
+    "vote_share": "5.47% (Reconquête list)",
+    "opponent": "Rassemblement National (Jordan Bardella) led; Renaissance, etc.",
+    "detail": "Marion Maréchal was the Reconquête tête de liste; Zemmour placed himself in a deliberately unelectable symbolic position near the bottom of the list. The list crossed the 5% threshold (5.47%) and won 5 MEP seats, but Zemmour was not elected. Days later (12 June 2024) he excluded Marion Maréchal from Reconquête over the legislative-election alliance dispute; most of the new MEPs broke with him.",
+    "source_url": [
+      "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-europeennes-2024-qui-sont-les-candidats-de-la-liste-reconquete/",
+      "https://www.franceinfo.fr/elections/resultats-des-europeennes-2024-la-liste-reconquete-recueille-5-5-des-voix-selon-notre-estimation-ipsos_6584664.html",
+      "https://www.franceinfo.fr/elections/legislatives/elections-legislatives-2024-eric-zemmour-annonce-exclure-marion-marechal-de-son-parti-reconquete_6601212.html"
+    ]
+  }
+]

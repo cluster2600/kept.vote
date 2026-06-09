@@ -32,26 +32,20 @@ from sqlalchemy import delete, select
 
 from database import (
     HumanReviewStatus,
-    Politician,
     Promise,
     Verification,
     VerificationStatus,
     init_db,
 )
 from database import SessionLocal
+from import_common import (
+    as_list as _as_list,
+    data_path,
+    get_or_create_politician,
+    parse_date as _parse_date,
+)
 
-JSON_PATH = os.getenv("PROMISES_JSON", "data/macron_promises.json")
-
-POLITICIAN = {
-    "name": "Emmanuel Macron",
-    "country": "France",
-    "party": "Renaissance",
-    "birth_date": datetime.date(1977, 12, 21),
-    "bio": (
-        "President of France since 2017, re-elected in 2022. Founder of the "
-        "centrist movement now known as Renaissance."
-    ),
-}
+JSON_PATH = os.getenv("PROMISES_JSON", data_path("promises"))
 
 # Map dataset status strings onto our VerificationStatus enum. The dataset uses
 # "kept"; our enum's equivalent is FULFILLED (rendered as "Kept" in the UI).
@@ -65,32 +59,12 @@ STATUS_MAP: dict[str, VerificationStatus] = {
 }
 
 
-def _parse_date(value: object) -> datetime.date | None:
-    """Parse an ISO ``YYYY-MM-DD`` string into a date (or ``None``)."""
-    if not isinstance(value, str):
-        return None
-    try:
-        return datetime.date.fromisoformat(value)
-    except ValueError:
-        return None
-
-
 def _clamp_confidence(value: object) -> float:
     """Clamp the dataset confidence into [0, 1]."""
     try:
         return max(0.0, min(1.0, float(value)))  # type: ignore[arg-type]
     except (TypeError, ValueError):
         return 0.0
-
-
-def _as_list(value: object) -> list[str] | None:
-    """Normalize a value that may be a string or list into a list of strings."""
-    if isinstance(value, list):
-        items = [str(v).strip() for v in value if str(v).strip()]
-        return items or None
-    if isinstance(value, str) and value.strip():
-        return [value.strip()]
-    return None
 
 
 def _map_status(raw: object) -> VerificationStatus:
@@ -113,26 +87,16 @@ async def main() -> None:
     now = datetime.datetime.now(datetime.timezone.utc)
 
     async with SessionLocal() as session:
-        # 1. Reuse the politician (match by name); create only if absent.
-        macron = (
-            await session.execute(
-                select(Politician).where(Politician.name == POLITICIAN["name"])
-            )
-        ).scalars().first()
-        if macron is None:
-            macron = Politician(**POLITICIAN)
-            session.add(macron)
-            await session.flush()
-            print(f"Created politician: {macron.name}")
-        else:
-            print(f"Reusing existing politician: {macron.name} ({macron.id})")
+        # 1. Resolve the target politician by slug (get-or-create, idempotent).
+        politician = await get_or_create_politician(session)
+        print(f"Target politician: {politician.name} ({politician.id})")
 
-        # 2. Index existing promises and prune any not in the incoming dataset
-        #    (this clears the earlier hand-seeded promises, which have no slug).
+        # 2. Index existing promises (for THIS politician) and prune any not in
+        #    the incoming dataset. Scoped by politician_id — never touches others.
         existing = list(
             (
                 await session.execute(
-                    select(Promise).where(Promise.politician_id == macron.id)
+                    select(Promise).where(Promise.politician_id == politician.id)
                 )
             )
             .scalars()
@@ -156,7 +120,7 @@ async def main() -> None:
             slug = entry.get("id")
             promise = existing_by_slug.get(slug)
             if promise is None:
-                promise = Promise(politician_id=macron.id, external_id=slug)
+                promise = Promise(politician_id=politician.id, external_id=slug)
                 session.add(promise)
                 created += 1
             else:

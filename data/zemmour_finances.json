@@ -1,0 +1,115 @@
+[
+  {
+    "id": "patrimoine-gross-2022",
+    "year": "2022",
+    "type": "net_worth_declared",
+    "label": "Declared gross patrimoine (HATVP déclaration de patrimoine)",
+    "amount": "≈ €4,887,962 gross (sum of declared assets before debt); press commonly rounded to ≈ €4.2M",
+    "detail": "Itemized declared assets from the 2022 HATVP candidate declaration (published 8 March 2022): real estate €2,886,440; 90% stake in Rubempré €1,530,000; assurance-vie €444,335; bank accounts €13,587. Press reporting widely cited an approximate ≈€4.2M figure, ranking him among the wealthier 2022 candidates. Declared, not estimated; the round €4.2M is a press simplification.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://www.francebleu.fr/infos/politique/presidentielle-2022-consultez-les-declarations-de-patrimoine-des-douze-candidats-1646761801",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  },
+  {
+    "id": "patrimoine-liabilities-2022",
+    "year": "2022",
+    "type": "liabilities_declared",
+    "label": "Declared liabilities (mortgage debt)",
+    "amount": "−€633,329 outstanding",
+    "detail": "Four BNP mortgage loans, with total monthly repayments of about €7,988, declared against the Paris real-estate holdings.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "assurance-vie-2022",
+    "year": "2022",
+    "type": "asset_declared",
+    "label": "Life insurance (assurance-vie)",
+    "amount": "€444,335",
+    "detail": "Sole declared financial-investment holding; no securities portfolio, PEA or compte-titres was declared.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "bank-accounts-2022",
+    "year": "2022",
+    "type": "asset_declared",
+    "label": "Bank account balances",
+    "amount": "€13,587",
+    "detail": "Cash balances declared in the 2022 HATVP déclaration de patrimoine.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "rubempre-value-2020",
+    "year": "2020",
+    "type": "asset_declared",
+    "label": "Value of 90% stake in Rubempré (SARL)",
+    "amount": "€1,530,000",
+    "detail": "Declared value of his stake in his personal company Rubempré, at its 31 December 2020 balance-sheet value.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "figaro-salary-2020",
+    "year": "2020",
+    "type": "income_declared",
+    "label": "Le Figaro salary (déclaration d'intérêts)",
+    "amount": "€66,181 gross/year (≈ €5,515 net/month)",
+    "detail": "Declared remuneration as Le Figaro columnist for 2020.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "rubempre-income-2017-2021",
+    "year": "2017–2021",
+    "type": "income_declared",
+    "label": "Income via Rubempré (book royalties + media/conference fees, déclaration d'intérêts)",
+    "amount": "2017: €399,715 · 2018: €304,498 · 2019: €412,880 · 2020: €633,231 · 2021: €180,000",
+    "detail": "Most of Zemmour's income was channelled through Rubempré rather than paid as salary; these are the year-by-year aggregate figures reported from his déclaration d'intérêts.",
+    "source_url": [
+      "https://actualitte.com/article/105077/politique-publique/droits-d-auteur-societe-d-edition-le-livre-dans-les-declarations-des-candidats",
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "cnews-fee-estimate",
+    "year": "2019–2021",
+    "type": "income_estimated",
+    "label": "CNews 'Face à l'info' fees (press estimate)",
+    "amount": "≈ €2,000–€3,000 gross per show (press estimate)",
+    "detail": "ESTIMATED, not from HATVP. CNews income was invoiced through Rubempré rather than appearing as a salary line. The frequently cited '€10,000+/month' CNews figure is not well substantiated.",
+    "source_url": [
+      "https://fr.finance.yahoo.com/actualites/livres-proc%C3%A8s-salaires-gagne-encore-171603666.html"
+    ]
+  },
+  {
+    "id": "total-income-estimate",
+    "year": "2021",
+    "type": "income_estimated",
+    "label": "Aggregate monthly income (press characterisation)",
+    "amount": "≈ €40,000/month (press estimate)",
+    "detail": "ESTIMATED press aggregate of combined media and book income; not a single HATVP line. Treat as approximate.",
+    "source_url": [
+      "https://www.revolutionpermanente.fr/Zemmour-refuse-l-augmentation-du-SMIC-mais-touchait-40-000EUR-par-mois"
+    ]
+  },
+  {
+    "id": "le-suicide-francais-sales",
+    "year": "2014",
+    "type": "context_estimated",
+    "label": "Le Suicide français book sales (best-seller)",
+    "amount": "≈ 450,000–500,000 copies (estimated)",
+    "detail": "ESTIMATED sales for his 2014 best-seller (Albin Michel). Royalty income is aggregated inside Rubempré; no isolated declared royalty figure for the title was located.",
+    "source_url": [
+      "https://www.decitre.fr/livres/le-suicide-francais-9782226254757.html"
+    ]
+  }
+]

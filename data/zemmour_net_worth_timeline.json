@@ -1,0 +1,14 @@
+[
+  {
+    "id": "net-worth-2022",
+    "year": "2022",
+    "declared_net_worth": "≈ €4.25M net (≈ €4.89M gross declared assets minus ≈ €0.63M mortgage debt)",
+    "note": "Only data point with an official HATVP basis. Filed as a 2022 presidential candidate and published by the HATVP on 8 March 2022. Gross declared assets ≈€4.89M (real estate €2,886,440; Rubempré stake €1,530,000; assurance-vie €444,335; cash €13,587), less ≈€633,329 mortgage debt. Press widely rounded the gross figure to ≈€4.2M.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://www.francebleu.fr/infos/politique/presidentielle-2022-consultez-les-declarations-de-patrimoine-des-douze-candidats-1646761801",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  }
+]

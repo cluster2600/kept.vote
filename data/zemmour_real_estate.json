@@ -1,0 +1,42 @@
+[
+  {
+    "id": "paris-apartment-principal",
+    "property": "Paris apartment (highest-valued holding)",
+    "location": "Paris, France",
+    "transaction_type": "Ownership (declared)",
+    "date": "Declared 2022 (HATVP)",
+    "value": "€1,800,000 (market value)",
+    "detail": "Single highest-valued residential property in the 2022 HATVP déclaration de patrimoine. Specific address not disclosed in public reporting.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "paris-other-holdings",
+    "property": "Additional Paris apartments / co-owned shares (quotes-parts)",
+    "location": "Paris, France",
+    "transaction_type": "Ownership (declared, partly co-owned)",
+    "date": "Declared 2022 (HATVP)",
+    "value": "€600,000 · €176,440 · €165,000 · €145,000 (declared share values)",
+    "detail": "Several further Paris holdings, some co-owned, declared at the listed quote-part values. Press described a total of five Paris apartments ranging roughly 27–165 m². No country house was declared.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://www.francebleu.fr/infos/politique/presidentielle-2022-consultez-les-declarations-de-patrimoine-des-douze-candidats-1646761801"
+    ]
+  },
+  {
+    "id": "real-estate-total",
+    "property": "Total declared real estate",
+    "location": "Paris, France",
+    "transaction_type": "Ownership (declared)",
+    "date": "Declared 2022 (HATVP)",
+    "value": "€2,886,440 gross (against €633,329 outstanding mortgage debt)",
+    "detail": "Aggregate declared real-estate value in the 2022 HATVP filing, financed in part by four BNP mortgage loans. Properties held directly / in quotes-parts, not via an SCI.",
+    "status": "declared",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  }
+]

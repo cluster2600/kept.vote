@@ -1,0 +1,295 @@
+[
+  {
+    "id": "zero-immigration",
+    "title": "Reduce immigration to near zero ('zéro immigration')",
+    "description": "End mass immigration, cap asylum at roughly 100 grants per year, introduce merit-based selection of foreign students and a visa bond, and remove social benefits and state medical aid (AME) for non-European foreigners.",
+    "date_made": "2022-03-22",
+    "category": "immigration",
+    "status": "no_action",
+    "confidence_score": 0.9,
+    "reasoning": "A 2022 campaign pledge. Zemmour was eliminated in the first round and has never held office, so he had no power to implement it. Status is 'no_action' (not 'broken') because he never had the executive or legislative means to act.",
+    "key_evidence": [
+      "Core plank of the Reconquête immigration programme launched 22 March 2022",
+      "Zemmour holds no office and enacted nothing"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "ministere-remigration",
+    "title": "Create a 'Ministry of Remigration' to organise mass returns",
+    "description": "Establish a dedicated ministry to expel around one million foreigners over five years, including undocumented migrants, foreign delinquents and individuals on the 'fiche S' security watchlist.",
+    "date_made": "2022-03-22",
+    "category": "immigration",
+    "status": "no_action",
+    "confidence_score": 0.9,
+    "reasoning": "Signature 2022 proposal; Zemmour defended the identitarian term 'remigration'. Never held office, so no implementation was possible — status 'no_action', not 'broken'.",
+    "key_evidence": [
+      "Announced at the 22 March 2022 programme launch",
+      "No executive office held"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "abolish-regroupement-familial",
+    "title": "Abolish family reunification (regroupement familial)",
+    "description": "Suppress the right to family reunification for immigrants — a measure his own programme acknowledged would conflict with EU law and the Charter of Fundamental Rights.",
+    "date_made": "2022-03-22",
+    "category": "immigration",
+    "status": "no_action",
+    "confidence_score": 0.88,
+    "reasoning": "2022 campaign pledge requiring legislation and conflict with EU law. No office held; 'no_action'.",
+    "key_evidence": [
+      "Listed in the Reconquête 2022 programme",
+      "Acknowledged tension with EU law"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "abolish-droit-du-sol",
+    "title": "Abolish birthright citizenship (droit du sol) and tighten naturalisation",
+    "description": "End automatic acquisition of French nationality by birth on French soil, and make naturalisation harder (10 years' residence instead of 5, fluent French, an assimilation requirement).",
+    "date_made": "2021-12-05",
+    "category": "immigration",
+    "status": "no_action",
+    "confidence_score": 0.9,
+    "reasoning": "Stated at the December 2021 Villepinte rally and throughout the campaign. Constitutional/legislative change he had no power to enact — 'no_action'.",
+    "key_evidence": [
+      "'Je veux supprimer le droit du sol', Villepinte rally, Dec 2021",
+      "No office held"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/presidentielle-2022/eric-zemmour/supprimer-le-droit-du-sol-3/"
+    ]
+  },
+  {
+    "id": "deport-fiche-s-delinquents",
+    "title": "Deport all 'fiche S' and delinquent foreigners",
+    "description": "Expel every foreigner on the 'S' security watchlist and all foreign delinquents, with reinforced penalties for smugglers and a reinforced EU land border.",
+    "date_made": "2022-03-29",
+    "category": "security",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "2022 security pledge; no executive power to carry out — 'no_action'.",
+    "key_evidence": [
+      "Detailed in the 2022 immigration/security programme"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/info-en-continu/20220329-pr%C3%A9sidentielle-zemmour-un-programme-radical-contre-l-immigration"
+    ]
+  },
+  {
+    "id": "french-first-names-law",
+    "title": "Require 'French' first names for newborns (revive the 1803 law)",
+    "description": "Oblige parents to give French first names by reinstating the 1803 law (loi du 11 germinal an XI, repealed in 1993) limiting names to those in calendars or from ancient history.",
+    "date_made": "2021-10-01",
+    "category": "identity",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "Signature identity proposal of the campaign. Requires legislation; no office held — 'no_action'.",
+    "key_evidence": [
+      "Proposal to revive the loi de 1803 on first names"
+    ],
+    "source_url": [
+      "https://fr.news.yahoo.com/zemmour-prenoms-etrangers-loi-1803-154057536.html"
+    ]
+  },
+  {
+    "id": "ban-veil-public-space",
+    "title": "Ban the Islamic veil in public space",
+    "description": "Prohibit the Islamic veil throughout public space (with fines), ban 'imposing' mosques, minarets and foreign financing of mosques — requiring revision of the Constitution.",
+    "date_made": "2022-03-22",
+    "category": "identity",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "2022 pledge requiring constitutional revision; no office held — 'no_action'.",
+    "key_evidence": [
+      "Listed in the 2022 programme; flagged as needing constitutional change"
+    ],
+    "source_url": [
+      "https://www.institutmontaigne.org/presidentielle-2022/eric-zemmour/interdire-le-voile-dans-lespace-public/"
+    ]
+  },
+  {
+    "id": "dissolve-islamist-associations",
+    "title": "Dissolve Islamist associations and ban the Muslim Brotherhood",
+    "description": "Close venues 'promoting jihad' and ban the Frères musulmans (Muslim Brotherhood) and all related movements.",
+    "date_made": "2022-03-22",
+    "category": "security",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "2022 pledge; no office held to act on it — 'no_action'.",
+    "key_evidence": [
+      "Reconquête 2022 programme on Islamist movements"
+    ],
+    "source_url": [
+      "https://www.bvoltaire.fr/eric-zemmour-appelle-a-dissoudre-les-freres-musulmans-est-ce-possible/"
+    ]
+  },
+  {
+    "id": "referendum-immigration-article-11",
+    "title": "Hold a referendum on immigration (Article 11)",
+    "description": "As a 'first measure', call a referendum to validate priority measures on immigration, security and justice, and make referendums mandatory for EU treaty ratification, constitutional revision and EU enlargement.",
+    "date_made": "2022-03-22",
+    "category": "institutions",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "His stated first act as president. Never elected; 'no_action'.",
+    "key_evidence": [
+      "Described as the 'first measure' of his programme"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "invert-hierarchy-of-norms",
+    "title": "Establish the primacy of national law over EU/international law (revise Article 55)",
+    "description": "Invert the hierarchy of norms so new national laws override international and European texts, enabling measures that conflict with EU or international law.",
+    "date_made": "2022-03-22",
+    "category": "institutions",
+    "status": "no_action",
+    "confidence_score": 0.82,
+    "reasoning": "2022 constitutional pledge; no office held — 'no_action'.",
+    "key_evidence": [
+      "Proposed revision of Article 55 of the Constitution"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "withdraw-international-conventions",
+    "title": "Withdraw from international migration conventions",
+    "description": "Remove France's signature from the UN Marrakesh Global Compact for Migration, require asylum claims to be lodged outside French territory, and renegotiate Schengen; widely associated with advocacy of withdrawing from the European Convention on Human Rights.",
+    "date_made": "2022-03-22",
+    "category": "foreign_policy",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "2022 sovereignty pledge; no office held — 'no_action'.",
+    "key_evidence": [
+      "Programme provisions on Marrakesh Compact and asylum"
+    ],
+    "source_url": [
+      "https://www.icmigrations.cnrs.fr/en/2022/11/07/defacto-032-03/"
+    ]
+  },
+  {
+    "id": "europe-des-nations-not-frexit",
+    "title": "Build a 'Europe of nations' (not leave the EU)",
+    "description": "Renegotiate Schengen and migration rules from within and pursue a sovereigntist 'Europe des nations'. Notably, Zemmour did NOT advocate leaving the EU or the euro (no Frexit).",
+    "date_made": "2022-01-01",
+    "category": "foreign_policy",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "Documented EU stance of the 2022 campaign, included to correct the common misconception of a Frexit position. No office held — 'no_action'.",
+    "key_evidence": [
+      "Opposed Macron's EU vision but favoured a 'Europe des nations', not exit"
+    ],
+    "source_url": [
+      "https://www.euractiv.fr/section/election-presidentielle-2022/news/face-aux-chimeres-demmanuel-macron-eric-zemmour-souhaite-batir-une-europe-des-nations/"
+    ]
+  },
+  {
+    "id": "peines-planchers-10000-prison-places",
+    "title": "Reinstate mandatory minimum sentences and build 10,000 prison places",
+    "description": "Restore peines planchers (mandatory minimum sentences) for all offences, restore real life sentences, build 10,000 additional prison places, and recruit 3,000 magistrates and 3,000 clerks.",
+    "date_made": "2022-01-01",
+    "category": "security",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "2022 justice/security pledge; no office held — 'no_action'.",
+    "key_evidence": [
+      "Reconquête justice programme"
+    ],
+    "source_url": [
+      "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html"
+    ]
+  },
+  {
+    "id": "penal-majority-16",
+    "title": "Lower the age of penal majority to 16",
+    "description": "Reduce penal majority from 18 to 16, suspend family allowances for parents of delinquent minors, and broaden self-defence presumptions for police and armed citizens.",
+    "date_made": "2022-01-01",
+    "category": "security",
+    "status": "no_action",
+    "confidence_score": 0.82,
+    "reasoning": "2022 justice pledge; no office held — 'no_action'.",
+    "key_evidence": [
+      "Reconquête justice programme"
+    ],
+    "source_url": [
+      "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html"
+    ]
+  },
+  {
+    "id": "cut-taxes-succession-reindustrialise",
+    "title": "Cut taxes, ease inheritance/gift duties and reindustrialise",
+    "description": "Cut production taxes by about €30bn, exempt overtime from tax and social charges, raise low earners' net pay via a CSG cut, and exonerate succession and gift duties on the transmission of family businesses.",
+    "date_made": "2022-01-01",
+    "category": "economy",
+    "status": "no_action",
+    "confidence_score": 0.82,
+    "reasoning": "2022 economic pledge; no office held — 'no_action'.",
+    "key_evidence": [
+      "Reconquête economic programme"
+    ],
+    "source_url": [
+      "https://fr.irefeurope.org/publications/les-pendules-a-lheure/article/programme-de-zemmour-vers-la-suppression-des-droits-de-donation/"
+    ]
+  },
+  {
+    "id": "pro-natalist-family-policy",
+    "title": "Pro-natalist family policy",
+    "description": "Launch a 'demographic recovery': a €10,000 birth premium for families resident two or more years in rural areas, a doubled family-quotient ceiling and 60,000 new crèche places, with new benefits aimed primarily at French/native families.",
+    "date_made": "2022-03-22",
+    "category": "family",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "2022 family pledge; no office held — 'no_action'.",
+    "key_evidence": [
+      "Reconquête family/demography programme"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "pro-nuclear-14-epr",
+    "title": "Build 14 new EPR nuclear reactors",
+    "description": "Base energy policy heavily on nuclear power, reverse the planned closure of 12 reactors, and build 14 new EPR reactors.",
+    "date_made": "2022-03-22",
+    "category": "economy",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "2022 energy pledge; no office held — 'no_action'.",
+    "key_evidence": [
+      "Reconquête energy programme"
+    ],
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme"
+    ]
+  },
+  {
+    "id": "school-authority-blouse",
+    "title": "Restore authority in schools and a mandatory primary-school smock (blouse)",
+    "description": "Make the 'blouse' (smock) mandatory in primary school, suspend family allowances for parents of disruptive or truant pupils, end the 'collège unique' and restore ability streams, and restore the certificat d'études.",
+    "date_made": "2022-01-01",
+    "category": "identity",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "2022 education pledge. Note: he proposed a mandatory primary-school 'blouse' specifically, not a universal uniform across all levels. No office held — 'no_action'.",
+    "key_evidence": [
+      "Reconquête education programme",
+      "Mandatory 'blouse' in primary school, not a full uniform"
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/france/20220323-pr%C3%A9sidentielle-que-proposent-les-candidats-en-mati%C3%A8re-d-%C3%A9ducation"
+    ]
+  }
+]

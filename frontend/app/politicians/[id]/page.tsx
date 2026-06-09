@@ -145,6 +145,7 @@ export default async function PoliticianPage({
 
       {/* Tabbed, navigable profile (client) */}
       <PoliticianTabs
+        politicianName={politician.name}
         promises={promises}
         workHistory={workHistory}
         education={education}

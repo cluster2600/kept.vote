@@ -29,6 +29,7 @@ from sqlalchemy import (
     String,
     Text,
     func,
+    text,
 )
 from sqlalchemy.dialects.postgresql import JSONB, UUID
 from sqlalchemy.ext.asyncio import (
@@ -143,6 +144,9 @@ class Politician(Base):
     __tablename__ = "politicians"
 
     id: Mapped[uuid.UUID] = _uuid_pk()
+    # Stable slug (e.g. "emmanuel-macron") for idempotent imports that target a
+    # specific politician regardless of name spelling/changes.
+    external_id: Mapped[str | None] = mapped_column(String(255), nullable=True, index=True)
     name: Mapped[str] = mapped_column(String(255), nullable=False, index=True)
     country: Mapped[str | None] = mapped_column(String(120), index=True)
     party: Mapped[str | None] = mapped_column(String(255), index=True)
@@ -706,6 +710,14 @@ async def init_db() -> None:
     """
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
+        # `create_all` does not ALTER existing tables. The politicians table
+        # predates the external_id slug column, so add it idempotently here.
+        await conn.execute(
+            text(
+                "ALTER TABLE politicians "
+                "ADD COLUMN IF NOT EXISTS external_id VARCHAR(255)"
+            )
+        )
 
 
 async def dispose_engine() -> None:

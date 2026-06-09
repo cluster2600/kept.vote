@@ -1,0 +1,40 @@
+[
+  {
+    "id": "rubempre-sarl",
+    "entity": "Rubempré (SARL) — SIREN 508 074 259",
+    "role": "Co-manager (gérant) and majority owner",
+    "ownership_stake": "90%",
+    "period": "2008-09-15 – present",
+    "status": "active",
+    "detail": "Personal company created 15 September 2008 (R.C.S. Paris; registered office 10 rue Lavoisier, 75008 Paris; NAF 63.91Z press-agency activities). Collects his book royalties, TV/radio fees and conference income; its corporate object was extended in 2021 to add book publishing, enabling self-publication of 'La France n'a pas dit son dernier mot'. Co-managed with his wife Mylène Zemmour (née Chichportich). Declared HATVP value €1,530,000 (31 Dec 2020). Named after Balzac's character Lucien de Rubempré.",
+    "source_url": [
+      "https://www.pappers.fr/entreprise/rubempre-508074259",
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "editions-rubempre",
+    "entity": "Éditions Rubempré (publishing imprint operated through Rubempré SARL)",
+    "role": "Owner / publisher",
+    "ownership_stake": "Via 90% stake in Rubempré SARL",
+    "period": "2021 – present",
+    "status": "active",
+    "detail": "Self-publishing imprint used from 2021 to publish 'La France n'a pas dit son dernier mot'. Rubempré is party to a Paris Cour d'appel dispute with Éditions Albin Michel (proceedings noted 2025) over his publishing rights.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/La_France_n'a_pas_dit_son_dernier_mot",
+      "https://www.pappers.fr/entreprise/rubempre-508074259"
+    ]
+  },
+  {
+    "id": "reconquete-party",
+    "entity": "Reconquête (political party)",
+    "role": "Founder and president",
+    "ownership_stake": "n/a (political party, not a commercial holding)",
+    "period": "2021-12 – present",
+    "status": "active",
+    "detail": "National-conservative party founded December 2021. Party/campaign financing is reported to the CNCCFP, separate from Zemmour's personal HATVP declaration; detailed party-loan figures were not confirmed in this research pass and should be sourced from CNCCFP campaign accounts.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)"
+    ]
+  }
+]
