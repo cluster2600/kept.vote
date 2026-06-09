@@ -1,0 +1,27 @@
+[
+  {
+    "id": "loi-sren-2024-volet-cloud",
+    "law_name": "Loi visant à sécuriser et réguler l'espace numérique (loi SREN)",
+    "year": "2024",
+    "area": "Numérique / souveraineté du cloud",
+    "description": "Anne Le Hénanff a été rapporteure du volet cloud de la loi SREN à l'Assemblée nationale (texte adopté en 2024, après le débat parlementaire de 2023). Un de ses amendements a introduit la doctrine du « cloud au centre » imposant aux administrations d'héberger leurs données stratégiques ou sensibles dans un cloud conforme au référentiel SecNumCloud de l'ANSSI, protégé contre l'accès des États tiers.",
+    "significance": "Renforcement de la souveraineté numérique de l'État et encadrement de l'hébergement des données publiques sensibles, en cohérence avec son expertise en cybersécurité.",
+    "source_url": [
+      "https://www.banquedesterritoires.fr/les-deputes-adoptent-la-loi-sur-la-regulation-de-lespace-numerique-sren",
+      "https://www.usine-digitale.fr/editorial/qui-est-anne-le-henanff-nouvelle-ministre-deleguee-a-l-ia-et-au-numerique.N2239484"
+    ]
+  },
+  {
+    "id": "transposition-nis2-2025",
+    "law_name": "Transposition de la directive européenne NIS2 (projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité)",
+    "year": "2025",
+    "area": "Cybersécurité / résilience des infrastructures critiques",
+    "description": "Rapporteure pour l'Assemblée nationale de la transposition de la directive NIS2, qui élargit considérablement le nombre d'entités (entreprises et collectivités) soumises à des obligations de cybersécurité. Elle a notamment porté la dimension de protection des collectivités territoriales, conduisant les travaux aux côtés du sénateur Damien Michallet.",
+    "significance": "Texte structurant pour le renforcement de la cybersécurité française et européenne, étendant les obligations de sécurité à des milliers d'entités, dont de nombreuses collectivités locales.",
+    "source_url": [
+      "https://www.senat.fr/dossier-legislatif/pjl24-033.html",
+      "https://cpmeparisiledefrance.fr/anne-le-henanff-deputee-rapporteure-etre-plus-fort-et-mieux-protege-face-aux-risques-cyber/",
+      "https://www.maire-info.com/cybersecurite-la-transposition-de-la-directive-nis-2-enjeu-crucial-pour-les-collectivites-article2-28972"
+    ]
+  }
+]

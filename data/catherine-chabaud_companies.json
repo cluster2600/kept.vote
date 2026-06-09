@@ -1,0 +1,22 @@
+[
+  {
+    "id": "innovations-bleues",
+    "entity": "Innovations Bleues (association)",
+    "role": "Co-fondatrice / dirigeante",
+    "ownership_stake": "Sans objet (association à but non lucratif)",
+    "period": "2014-présent",
+    "status": "declared",
+    "detail": "Association d'intérêt général créée en 2014, dédiée au développement durable des activités maritimes et fluviales (programmes EcoNav, Ocean As Common, Greenlandia). Catherine Chabaud en est co-fondatrice et figure dirigeante. Non commercial.",
+    "source_url": ["http://innovationsbleues.org/", "https://fr.m.wikipedia.org/wiki/Catherine_Chabaud"]
+  },
+  {
+    "id": "yacht-club-de-france",
+    "entity": "Yacht Club de France (association)",
+    "role": "Présidente (quittée pour cause de conflit d'intérêts)",
+    "ownership_stake": "Sans objet (association)",
+    "period": "2025",
+    "status": "declared",
+    "detail": "Élue présidente le 21 mai 2025 ; après sa nomination au gouvernement, elle se met en situation d'empêchement puis quitte la présidence. La HATVP lui impose un déport sur tous les sujets concernant le Yacht Club de France.",
+    "source_url": ["https://ycf-club.fr/catherine-chabaud-elue-presidente-du-yacht-club-de-france/", "https://marine-oceans.com/actualites/yacht-club-de-france-la-ministre-catherine-chabaud-quitte-la-presidence/", "https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains"]
+  }
+]

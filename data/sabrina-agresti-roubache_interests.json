@@ -1,0 +1,40 @@
+[
+  {
+    "id": "parts-sociales-societes-production",
+    "item": "Détention de parts dans ses sociétés de production (Gurkin, Seconde Vague Productions)",
+    "type": "Participations / parts sociales",
+    "period": "2014-",
+    "value": "Non précisée publiquement",
+    "detail": "Activité et participations de productrice audiovisuelle. La HATVP a exigé un décret de déport pour éviter tout conflit d'intérêts concernant deux sociétés qu'elle présidait jusqu'à sa nomination ministérielle de 2023.",
+    "status": "declared",
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html",
+      "https://www.hatvp.fr/pages_nominatives/agresti-roubache-sabrina-24196"
+    ]
+  },
+  {
+    "id": "activite-editorialiste-auteure",
+    "item": "Activité d'auteure / éditorialiste (droits d'auteur)",
+    "type": "Revenus d'auteur",
+    "period": "",
+    "value": "Non précisée publiquement",
+    "detail": "Des droits d'auteur perçus figurent parmi les éléments dont l'omission a été invoquée dans la polémique de 2023 sur sa déclaration d'intérêts. Documents HATVP relatifs à ses activités d'éditorialiste publiés en février 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2025/02/2024-321-Sabrina-Agresti-Roubache-activites-editorialistes.pdf"
+    ]
+  },
+  {
+    "id": "conseillere-regionale-paca-interet",
+    "item": "Mandat de conseillère régionale de PACA",
+    "type": "Mandat électif",
+    "period": "2021-",
+    "value": "Indemnités d'élue",
+    "detail": "Mandat de conseillère régionale conservé en parallèle de ses fonctions, donnant lieu à des indemnités d'élue (environ 19 200 € selon synthèses publiques 2024).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/pages_nominatives/agresti-roubache-sabrina-24196",
+      "https://en.wikipedia.org/wiki/Sabrina_Agresti-Roubache"
+    ]
+  }
+]

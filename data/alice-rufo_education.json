@@ -1,0 +1,50 @@
+[
+  {
+    "id": "edu-ens-ulm",
+    "institution": "École normale supérieure (rue d'Ulm)",
+    "qualification": "Ancienne élève (normalienne)",
+    "field": "Lettres / sciences humaines",
+    "years": "2001",
+    "detail": "Entrée à l'ENS de la rue d'Ulm en 2001.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://en.wikipedia.org/wiki/Alice_Rufo"
+    ]
+  },
+  {
+    "id": "edu-sciencespo",
+    "institution": "Institut d'études politiques de Paris (Sciences Po)",
+    "qualification": "Diplôme de l'IEP de Paris",
+    "field": "Sciences politiques",
+    "years": "2004",
+    "detail": "Diplômée en 2004.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://en.wikipedia.org/wiki/Alice_Rufo"
+    ]
+  },
+  {
+    "id": "edu-paris1",
+    "institution": "Université Paris 1 Panthéon-Sorbonne",
+    "qualification": "Diplôme universitaire",
+    "field": "Droit / sciences humaines",
+    "years": "",
+    "detail": "Diplômée de l'université Paris 1 Panthéon-Sorbonne.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://en.wikipedia.org/wiki/Alice_Rufo"
+    ]
+  },
+  {
+    "id": "edu-ena",
+    "institution": "École nationale d'administration (ENA)",
+    "qualification": "Ancienne élève",
+    "field": "Administration publique",
+    "years": "2010",
+    "detail": "Promotion Émile Zola (2010).",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://en.wikipedia.org/wiki/Alice_Rufo"
+    ]
+  }
+]

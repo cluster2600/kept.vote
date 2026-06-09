@@ -1,0 +1,24 @@
+[
+  {
+    "id": "licence-lettres",
+    "institution": "Université (France)",
+    "qualification": "Licence",
+    "field": "Lettres",
+    "years": "",
+    "detail": "Titulaire d'une licence de lettres selon sa biographie publique.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Sabrina_Agresti-Roubache"
+    ]
+  },
+  {
+    "id": "faculte-droit-non-achevee",
+    "institution": "Faculté de droit (France)",
+    "qualification": "Études non achevées",
+    "field": "Droit",
+    "years": "",
+    "detail": "Elle quitte la faculté de droit avant la fin de son cursus pour travailler avec le groupe de rap IAM puis avec le footballeur Éric Cantona.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Sabrina_Agresti-Roubache"
+    ]
+  }
+]

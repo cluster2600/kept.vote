@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ppl-organique-previsions-finances-publiques",
+    "law_name": "Proposition de loi organique visant à améliorer les prévisions de finances publiques et à renforcer les outils de pilotage en cas d'écart significatif à la trajectoire (PPL organique n° 1454)",
+    "year": "2025",
+    "area": "Finances publiques / gouvernance budgétaire",
+    "description": "Proposition de loi organique déposée le 22 mai 2025, prolongeant les travaux de la commission d'enquête sur la dégradation du déficit public. Elle vise à renforcer le Haut Conseil des finances publiques (obligation de justification détaillée du Gouvernement lorsqu'il s'écarte de ses réserves), à créer une nouvelle catégorie de lois de finances dites de \"correction des comptes publics\" et à élargir la capacité du Gouvernement à annuler des crédits en exécution.",
+    "significance": "Texte emblématique de l'expertise budgétaire de Mathieu Lefèvre, visant à mieux encadrer les prévisions et le pilotage des finances publiques après les dérapages du déficit constatés en 2023-2024.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/17/dossiers_/DLR5L17N52131",
+      "https://acteurspublics.fr/articles/une-proposition-de-loi-deposee-pour-renforcer-les-outils-de-pilotage-budgetaire-en-cas-de-derage-du-deficit-une-proposition-de-loi-pour-renforcer-les-outils-de-pilotage-budgetaire-en-cas-de-derage-d/"
+    ]
+  },
+  {
+    "id": "commission-enquete-deficit-public",
+    "law_name": "Commission d'enquête sur les causes de la variation et des écarts des prévisions fiscales et budgétaires des administrations publiques (déficit public 2023-2024)",
+    "year": "2024",
+    "area": "Contrôle parlementaire / finances publiques",
+    "description": "Mathieu Lefèvre a été co-rapporteur (aux côtés d'Éric Ciotti) des travaux examinant les causes des variations et des écarts dans les prévisions fiscales et budgétaires des administrations publiques pour 2023 et 2024.",
+    "significance": "Travaux parlementaires de référence sur le dérapage du déficit public français, ayant nourri ses propositions ultérieures de réforme du pilotage budgétaire.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA795386",
+      "https://acteurspublics.fr/articles/une-proposition-de-loi-deposee-pour-renforcer-les-outils-de-pilotage-budgetaire-en-cas-de-derage-du-deficit-une-proposition-de-loi-pour-renforcer-les-outils-de-pilotage-budgetaire-en-cas-de-derage-d/"
+    ]
+  },
+  {
+    "id": "rapporteur-special-immigration-plf-2025",
+    "law_name": "Projet de loi de finances pour 2025 - rapporteur spécial de la mission \"Immigration, asile et intégration\"",
+    "year": "2025",
+    "area": "Budget / immigration",
+    "description": "Mathieu Lefèvre a été rapporteur spécial (avec Charles Rodwell) des crédits de la mission \"Immigration, asile et intégration\" dans le cadre de l'examen du projet de loi de finances pour 2025.",
+    "significance": "Illustre son rôle de rapporteur spécial à la commission des finances sur les crédits budgétaires.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/lois-finances/rapporteurs-speciaux-plf/liste-des-rapporteurs-speciaux-sur-le-projet-de-loi-de-finances-pour-2025"
+    ]
+  },
+  {
+    "id": "ppl-drapeau-europeen-mairies",
+    "law_name": "Proposition de loi visant à rendre obligatoire le drapeau européen sur les frontons des mairies",
+    "year": "2023",
+    "area": "Symboles républicains et européens",
+    "description": "Proposition de loi défendue en mai 2023, visant à rendre obligatoire l'apposition du drapeau européen, aux côtés du drapeau tricolore, sur le fronton des mairies des communes de plus de 1 500 habitants. Le texte a été rejeté en commission.",
+    "significance": "Initiative pro-européenne médiatisée, contestée par une partie des maires et des oppositions, ayant valu à Mathieu Lefèvre le surnom de \"porte-drapeau européen\".",
+    "source_url": [
+      "https://www.lejdd.fr/politique/assemblee-nationale-mathieu-lefevre-porte-drapeau-europeen-135390",
+      "https://www.europe1.fr/politique/maires-et-deputes-opposes-a-lobligation-des-drapeaux-francais-et-europeen-sur-les-mairies-4181314"
+    ]
+  }
+]

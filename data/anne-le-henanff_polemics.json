@@ -1,0 +1,22 @@
+[
+  {
+    "id": "budget-cybersecurite-200-millions-2026",
+    "title": "Désaccord public sur l'enveloppe de 200 millions d'euros pour la cybersécurité",
+    "period": "2026",
+    "category": "Désaccord de politique publique au sein du gouvernement",
+    "description": "Début 2026, alors qu'elle est ministre déléguée chargée de l'IA et du Numérique, Anne Le Hénanff a publiquement estimé (notamment sur France Inter) que l'enveloppe de 200 millions d'euros annoncée par le Premier ministre Sébastien Lecornu pour la cybersécurité était insuffisante face à la montée des menaces. Selon la presse, elle a rappelé que les budgets cyber des ministères représentent 1 % à 5 % des budgets informatiques, contre 10 % recommandés par les standards internationaux, et a évoqué « 3 à 4 vols de données par jour » subis par la France. Ces déclarations ont été présentées comme révélant des tensions internes au gouvernement sur les moyens alloués à la cybersécurité et à la souveraineté numérique.",
+    "status": "Désaccord de politique publique ; aucune procédure judiciaire. Présomption d'innocence sans objet (pas d'accusation pénale).",
+    "confidence_score": "moyen",
+    "key_facts": [
+      "Enveloppe de 200 millions d'euros pour la cybersécurité annoncée par le Premier ministre Sébastien Lecornu, jugée insuffisante par la ministre.",
+      "Déclarations publiques de la ministre, notamment sur France Inter, début 2026.",
+      "Budgets cyber des ministères estimés à 1-5 % des budgets informatiques contre 10 % recommandés.",
+      "Aucune dimension judiciaire ou financière personnelle : il s'agit d'un désaccord sur les moyens budgétaires publics."
+    ],
+    "source_url": [
+      "https://enderi.fr/200-millions-deuros-cybersecurite-ministre-numerique/",
+      "https://www.nlto.fr/le-plan-de-cybersecurite-dissensions-gouvernement/",
+      "https://www.acturoubaix.fr/politique/13362"
+    ]
+  }
+]

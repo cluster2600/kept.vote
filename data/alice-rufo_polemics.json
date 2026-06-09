@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pol-management-dgris-2022",
+    "title": "Accusations de management toxique à la DGRIS (fin 2022)",
+    "period": "2022",
+    "category": "Conditions de travail / management",
+    "description": "En décembre 2022, peu après sa nomination à la tête de la DGRIS, des accusations de management toxique sont rapportées par la presse (notamment le magazine Elle, repris par Gala). Des collaborateurs auraient dénoncé des conditions de travail difficiles et un climat décrit comme délétère. Selon ces articles, la présidence de la République aurait demandé un audit pour faire la lumière sur ces accusations ; Alice Rufo a conservé ses fonctions. Il s'agit d'allégations relayées par voie de presse ; aucune procédure judiciaire ni sanction n'a été rapportée, et la présomption d'innocence s'applique. Aucune décision officielle défavorable n'a été rendue publique.",
+    "status": "closed",
+    "confidence_score": "medium",
+    "key_facts": [
+      "Accusations rapportées fin décembre 2022, peu après sa nomination comme DGRIS (effective le 1er novembre 2022).",
+      "Sources : magazine Elle (à l'origine des révélations), repris par Gala (28 décembre 2022).",
+      "Un audit aurait été demandé par la présidence de la République selon ces articles.",
+      "Alice Rufo a conservé ses fonctions à la DGRIS puis a été nommée ministre déléguée en octobre 2025.",
+      "Aucune procédure judiciaire ni sanction publique connue ; présomption d'innocence."
+    ],
+    "source_url": [
+      "https://www.gala.fr/l_actu/news_de_stars/emmanuel-macron-mauvais-drh-la-fille-de-marcel-rufo-dans-la-tourmente_457017",
+      "https://en.wikipedia.org/wiki/Alice_Rufo"
+    ]
+  }
+]

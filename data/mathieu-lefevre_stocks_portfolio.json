@@ -1,0 +1,22 @@
+[
+  {
+    "id": "detention-directe-banque-populaire",
+    "holding": "Détention directe (titres) Banque Populaire",
+    "type": "Instrument financier (détention directe)",
+    "value": "Valeur vénale déclarée 50 €",
+    "as_of": "2026-02-19",
+    "detail": "Unique instrument financier déclaré dans la déclaration de patrimoine HATVP : détention directe Banque Populaire d'une valeur vénale de 50 €.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  },
+  {
+    "id": "assurance-vie-bpce",
+    "holding": "Assurance vie BPCE",
+    "type": "Assurance vie",
+    "value": "Valeur vénale déclarée 103 €",
+    "as_of": "2026-02-19",
+    "detail": "Contrat d'assurance vie souscrit auprès de BPCE le 14 novembre 2017, valeur vénale déclarée 103 €. Source : déclaration de patrimoine HATVP.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  }
+]

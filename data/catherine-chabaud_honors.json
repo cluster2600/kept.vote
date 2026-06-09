@@ -1,0 +1,26 @@
+[
+  {
+    "id": "officier-legion-honneur-2015",
+    "honor": "Officier de la Légion d'honneur",
+    "awarded_by": "République française",
+    "year": "2015",
+    "detail": "Élevée au grade d'officier de la Légion d'honneur en 2015 (selon son curriculum vitae). Antérieurement chevalier de la Légion d'honneur.",
+    "source_url": ["https://catherinechabaud.eu/page/8ea-curriculum-vitae", "https://en.wikipedia.org/wiki/Catherine_Chabaud"]
+  },
+  {
+    "id": "chevalier-merite-maritime-2009",
+    "honor": "Chevalier de l'ordre du Mérite maritime",
+    "awarded_by": "République française",
+    "year": "2009",
+    "detail": "Nommée chevalier de l'ordre du Mérite maritime en 2009 (selon son curriculum vitae).",
+    "source_url": ["https://catherinechabaud.eu/page/8ea-curriculum-vitae"]
+  },
+  {
+    "id": "chevalier-ordre-merite-1997",
+    "honor": "Chevalier de l'ordre national du Mérite",
+    "awarded_by": "République française",
+    "year": "1997",
+    "detail": "Nommée chevalier de l'ordre national du Mérite en 1997, l'année où elle devient la première femme à terminer le Vendée Globe (selon son curriculum vitae).",
+    "source_url": ["https://catherinechabaud.eu/page/8ea-curriculum-vitae"]
+  }
+]

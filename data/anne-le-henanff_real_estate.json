@@ -1,0 +1,41 @@
+[
+  {
+    "id": "maison-130m2-56-2021",
+    "property": "Maison individuelle 130 m² (terrain non bâti 420 a / 4,2 ha)",
+    "location": "Département du Morbihan (56)",
+    "transaction_type": "Acquisition",
+    "date": "2021",
+    "value": "Valeur vénale 420 000 € (prix d'acquisition 310 000 €, travaux 60 000 €)",
+    "detail": "Bien propre, pleine propriété, quote-part 100 %. Acquise en 2021. Déclaration de situation patrimoniale HATVP du 16 novembre 2025.",
+    "status": "déclaré",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "maison-107m2-56-2012",
+    "property": "Maison individuelle 107 m² (terrain non bâti 350 a / 3,5 ha)",
+    "location": "Département du Morbihan (56)",
+    "transaction_type": "Acquisition",
+    "date": "2012",
+    "value": "Valeur vénale 470 000 € (prix d'acquisition 270 000 €, travaux 35 000 €)",
+    "detail": "Bien propre, pleine propriété, quote-part 100 %. Acquise en 2012. Déclaration de situation patrimoniale HATVP du 16 novembre 2025.",
+    "status": "déclaré",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "maison-185m2-56-2019-donation",
+    "property": "Maison individuelle 185 m² (terrain non bâti 270 a / 2,7 ha) - nue-propriété indivise",
+    "location": "Département du Morbihan (56)",
+    "transaction_type": "Donation",
+    "date": "2019",
+    "value": "Valeur vénale 117 000 € (prix d'acquisition de référence 200 000 €)",
+    "detail": "Bien indivis, nue-propriété, quote-part 33 %. Entré dans le patrimoine en 2019 par donation. Déclaration de situation patrimoniale HATVP du 16 novembre 2025.",
+    "status": "déclaré",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  }
+]

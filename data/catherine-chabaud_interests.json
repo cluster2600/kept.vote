@@ -1,0 +1,42 @@
+[
+  {
+    "id": "deport-yacht-club-de-france",
+    "item": "Déport sur les sujets concernant le Yacht Club de France",
+    "type": "Mesure de prévention des conflits d'intérêts (déport)",
+    "period": "2025-présent",
+    "value": "Sans objet",
+    "detail": "La HATVP a recommandé un déport : ministre déléguée chargée de la Mer et de la Pêche, Catherine Chabaud doit s'abstenir de traiter tout dossier concernant le Yacht Club de France, qu'elle a présidé. Elle fait partie des 14 ministres soumis à un décret de déport.",
+    "status": "declared",
+    "source_url": ["https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains", "https://marine-oceans.com/actualites/yacht-club-de-france-la-ministre-catherine-chabaud-quitte-la-presidence/"]
+  },
+  {
+    "id": "academie-marine-membre",
+    "item": "Membre de l'Académie de marine",
+    "type": "Appartenance institutionnelle",
+    "period": "2024-présent",
+    "value": "Sans objet",
+    "detail": "Membre de l'Académie de marine depuis 2024 (section marine marchande, pêche et plaisance selon plusieurs sources).",
+    "status": "declared",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "institut-francais-mer-membre",
+    "item": "Membre de l'Institut français de la mer",
+    "type": "Appartenance institutionnelle",
+    "period": "2024-présent",
+    "value": "Sans objet",
+    "detail": "Membre de l'Institut français de la mer depuis 2024.",
+    "status": "declared",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "innovations-bleues-cofondatrice-interet",
+    "item": "Co-fondatrice de l'association Innovations Bleues",
+    "type": "Engagement associatif",
+    "period": "2014-présent",
+    "value": "Sans objet",
+    "detail": "Co-fondatrice et figure dirigeante de l'association de protection de l'océan Innovations Bleues.",
+    "status": "declared",
+    "source_url": ["http://innovationsbleues.org/", "https://fr.m.wikipedia.org/wiki/Catherine_Chabaud"]
+  }
+]

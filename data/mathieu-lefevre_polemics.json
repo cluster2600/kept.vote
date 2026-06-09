@@ -1,0 +1,38 @@
+[
+  {
+    "id": "drapeau-europeen-mairies-2023",
+    "title": "Proposition de loi sur le drapeau européen obligatoire sur les mairies",
+    "period": "2023",
+    "category": "Débat législatif / symboles",
+    "description": "En 2023, Mathieu Lefèvre, alors rapporteur, a porté une proposition de loi visant à rendre obligatoire l'apposition du drapeau européen, aux côtés du drapeau tricolore, sur le fronton des mairies des communes de plus de 1 500 habitants. Le texte a suscité une controverse : des maires et des élus de plusieurs bords s'y sont opposés, jugeant la mesure inutile ou contraignante, et il a été rejeté en commission. Mathieu Lefèvre justifiait le texte par la nécessité de rappeler l'attachement aux valeurs européennes, dans le contexte du Brexit et de l'invasion russe de l'Ukraine, et ciblait notamment le Rassemblement national et La France insoumise. Il s'agit d'un débat politique et législatif, sans dimension judiciaire.",
+    "status": "Débat politique clos (texte rejeté en commission) ; aucune procédure judiciaire. Présomption d'innocence non applicable, aucune infraction n'étant en cause.",
+    "confidence_score": "high",
+    "key_facts": [
+      "Proposition de loi pour rendre obligatoire le drapeau européen sur les frontons des mairies des communes de plus de 1 500 habitants.",
+      "Mathieu Lefèvre en était le rapporteur (mai 2023).",
+      "Opposition de nombreux maires et d'élus de l'opposition ; texte rejeté en commission.",
+      "Justification avancée : attachement aux valeurs européennes, contexte Brexit et guerre en Ukraine."
+    ],
+    "source_url": [
+      "https://www.lejdd.fr/politique/assemblee-nationale-mathieu-lefevre-porte-drapeau-europeen-135390",
+      "https://www.europe1.fr/politique/maires-et-deputes-opposes-a-lobligation-des-drapeaux-francais-et-europeen-sur-les-mairies-4181314"
+    ]
+  },
+  {
+    "id": "groupe-france-israel-vice-presidence-lfi-2023",
+    "title": "Demande de retrait de la vice-présidence de groupes à des députés LFI",
+    "period": "2023",
+    "category": "Différend politique parlementaire",
+    "description": "En octobre 2023, Mathieu Lefèvre, président du groupe d'amitié France-Israël, et Constance Le Grip, présidente du groupe d'études sur l'antisémitisme, ont demandé le retrait de la vice-présidence de ces groupes aux députés de La France insoumise Aymeric Caron et Ersilia Soudais. Ils estimaient incompatible de tenir un discours qualifié d'antisioniste et de refuser de condamner explicitement les actes terroristes tout en siégeant dans ces instances. Les intéressés ont contesté cette démarche, Aymeric Caron y voyant une tentative d'exclusion liée à ses critiques du gouvernement de Benyamin Netanyahou. Il s'agit d'un différend politique interne à l'Assemblée nationale, sans dimension judiciaire.",
+    "status": "Différend politique ; aucune procédure judiciaire. Présomption d'innocence non applicable, aucune infraction n'étant en cause.",
+    "confidence_score": "medium",
+    "key_facts": [
+      "Octobre 2023 : demande conjointe de Mathieu Lefèvre et Constance Le Grip de retirer la vice-présidence à deux députés LFI (Aymeric Caron, Ersilia Soudais).",
+      "Contexte : tensions à l'Assemblée après les attaques du 7 octobre 2023 et la guerre Israël-Hamas.",
+      "Les députés visés ont contesté la démarche, y voyant une tentative d'exclusion politique."
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/info-franceinfo-les-presidents-du-groupe-d-amitie-france-israel-et-du-groupe-d-etudes-sur-l-antisemitisme-veulent-retirer-la-vice-presidence-aux-deputes-lfi-aymeric-caron-et-ersilia-soudais_6113091.html"
+    ]
+  }
+]

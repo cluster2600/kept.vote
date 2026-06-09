@@ -1,0 +1,41 @@
+[
+  {
+    "id": "seconde-vague-productions",
+    "entity": "Seconde Vague Productions",
+    "role": "Dirigeante / présidente",
+    "ownership_stake": "Reprise via la holding Gurkin (part non précisée publiquement)",
+    "period": "2017-2023",
+    "status": "Quittée à l'entrée au gouvernement",
+    "detail": "Société de production fondée par Paul Saadoun (décédé en 2018), reprise par Sabrina Agresti-Roubache via Gurkin en mars 2019. La HATVP a assorti la validation de sa déclaration d'une réserve : prendre un décret de déport pour s'abstenir de toute décision concernant deux sociétés qu'elle présidait jusqu'à sa nomination.",
+    "source_url": [
+      "https://wikimonde.com/article/Sabrina_Agresti-Roubache",
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html"
+    ]
+  },
+  {
+    "id": "gurkin-entertainment-production",
+    "entity": "Gurkin (Gurkin Entertainment / Gurkin Production)",
+    "role": "Fondatrice / dirigeante",
+    "ownership_stake": "Fondatrice (société personnelle)",
+    "period": "2014-",
+    "status": "Active (déport en fonctions ministérielles)",
+    "detail": "Société de production créée en 2014 (forme SARL) pour ses projets personnels ; production exécutive de la série « Marseille » pour Netflix.",
+    "source_url": [
+      "https://www.pappers.fr/entreprise/gurkin-entertainment-829499664",
+      "https://wikimonde.com/article/Sabrina_Agresti-Roubache"
+    ]
+  },
+  {
+    "id": "gurkin-invest-films-corse",
+    "entity": "Gurkin Invest Films Corse",
+    "role": "Dirigeante / fondatrice",
+    "ownership_stake": "Non précisée publiquement",
+    "period": "Société fermée",
+    "status": "Fermée",
+    "detail": "Société domiciliée à l'adresse de Jean Casta, ancien maire de Pietralba (Haute-Corse), condamné en 2013 dans une affaire de cercle de jeux parisien liée à l'organisation criminelle corse « Brise de Mer ». L'intéressée a déclaré ignorer ce passé judiciaire et avoir choisi cette domiciliation pour des raisons économiques (Casta présenté comme cousin de son mari).",
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html",
+      "https://www.manageo.fr/entreprises/824768287.html"
+    ]
+  }
+]

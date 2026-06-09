@@ -1,0 +1,65 @@
+[
+  {
+    "id": "fin-elysee-2020",
+    "year": "2020",
+    "type": "Revenu d'activité (net)",
+    "label": "Rémunération - Conseillère diplomatique adjointe, Présidence de la République",
+    "amount": "108 000 €",
+    "detail": "Déclaration d'intérêts HATVP (modification substantielle déposée le 17 avril 2026).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "fin-elysee-2021",
+    "year": "2021",
+    "type": "Revenu d'activité (net)",
+    "label": "Rémunération - Conseillère diplomatique adjointe, Présidence de la République",
+    "amount": "108 000 €",
+    "detail": "Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "fin-elysee-2022",
+    "year": "2022",
+    "type": "Revenu d'activité (net)",
+    "label": "Rémunération - Conseillère diplomatique adjointe, Présidence de la République",
+    "amount": "101 431 €",
+    "detail": "Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "fin-dgris-2022",
+    "year": "2022",
+    "type": "Revenu d'activité (net)",
+    "label": "Rémunération - DGRIS, Ministère des Armées (partielle, à partir de 11/2022)",
+    "amount": "18 892 €",
+    "detail": "Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "fin-dgris-2023",
+    "year": "2023",
+    "type": "Revenu d'activité (net)",
+    "label": "Rémunération - DGRIS, Ministère des Armées",
+    "amount": "119 163 €",
+    "detail": "Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "fin-dgris-2024",
+    "year": "2024",
+    "type": "Revenu d'activité (net)",
+    "label": "Rémunération - DGRIS, Ministère des Armées",
+    "amount": "167 638 €",
+    "detail": "Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "fin-dgris-2025",
+    "year": "2025",
+    "type": "Revenu d'activité (net)",
+    "label": "Rémunération - DGRIS, Ministère des Armées (jusqu'à 10/2025)",
+    "amount": "141 008 €",
+    "detail": "Déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  }
+]

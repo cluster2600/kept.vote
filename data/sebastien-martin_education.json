@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sciences-po-grenoble",
+    "institution": "Institut d'études politiques de Grenoble (Sciences Po Grenoble)",
+    "qualification": "Diplôme de l'IEP, section politique",
+    "field": "Science politique",
+    "years": "1996-2000",
+    "detail": "Diplômé de la promotion 2000, section politique. Décroche dès sa sortie un stage au sein du groupe RPR de l'Assemblée nationale.",
+    "source_url": [
+      "https://diplomes-iepg.fr/gre/portrait_s_martin.php",
+      "https://www.sciencespo-grenoble.fr/node/2257"
+    ]
+  },
+  {
+    "id": "dess-communication-politique-paris1",
+    "institution": "Université Paris 1 Panthéon-Sorbonne",
+    "qualification": "DESS de communication politique et sociale",
+    "field": "Communication politique",
+    "years": "2000-2001",
+    "detail": "DESS de communication politique à Paris 1, suivi après l'IEP de Grenoble.",
+    "source_url": [
+      "https://diplomes-iepg.fr/gre/portrait_s_martin.php",
+      "https://www.info.gouv.fr/personnalite/sebastien-martin"
+    ]
+  }
+]

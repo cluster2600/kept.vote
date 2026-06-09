@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ministre-deleguee-mer-peche-2025",
+    "role": "Ministre déléguée chargée de la Mer et de la Pêche",
+    "organization": "Gouvernement de la République française (gouvernement Sébastien Lecornu)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Nommée le 12 octobre 2025 ministre déléguée chargée de la Mer et de la Pêche, placée sous l'autorité de la ministre de la Transition écologique (Monique Barbut). Fonction maintenue lors du remaniement du 26 février 2026.",
+    "category": "government",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud", "https://www.info.gouv.fr/personnalite/catherine-chabaud", "https://en.wikipedia.org/wiki/Catherine_Chabaud"]
+  },
+  {
+    "id": "presidente-yacht-club-france-2025",
+    "role": "Présidente du Yacht Club de France",
+    "organization": "Yacht Club de France",
+    "start_date": "2025-05-21",
+    "end_date": "2025",
+    "description": "Élue le 21 mai 2025 première femme présidente du Yacht Club de France. À la suite de sa nomination au gouvernement en octobre 2025, elle se met en situation d'empêchement puis quitte la présidence pour éviter tout conflit d'intérêts.",
+    "category": "civil_society",
+    "source_url": ["https://ycf-club.fr/catherine-chabaud-elue-presidente-du-yacht-club-de-france/", "https://marine-oceans.com/actualites/yacht-club-de-france-la-ministre-catherine-chabaud-quitte-la-presidence/"]
+  },
+  {
+    "id": "academie-marine-ifm-2024",
+    "role": "Membre de l'Académie de marine et de l'Institut français de la mer",
+    "organization": "Académie de marine / Institut français de la mer",
+    "start_date": "2024",
+    "end_date": "",
+    "description": "Entrée en 2024 à l'Académie de marine et à l'Institut français de la mer.",
+    "category": "civil_society",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "deputee-europeenne-2019-2024",
+    "role": "Députée européenne",
+    "organization": "Parlement européen (groupe Renew Europe / MoDem)",
+    "start_date": "2019-07-02",
+    "end_date": "2024-07-15",
+    "description": "Députée européenne de 2019 à 2024, membre de la commission du développement, active sur les questions d'environnement et de pêche. Rapporteure du rapport sur les effets des déchets marins sur la pêche (2021).",
+    "category": "elected_office",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Chabaud", "https://fr.m.wikipedia.org/wiki/Catherine_Chabaud", "https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "appel-ocean-bien-commun-2018",
+    "role": "Co-initiatrice de l'Appel pour l'Océan bien commun de l'humanité",
+    "organization": "Initiative Océan bien commun",
+    "start_date": "2018",
+    "end_date": "",
+    "description": "Co-initie en 2018 l'Appel pour l'Océan bien commun de l'humanité, démarche de plaidoyer pour la reconnaissance de l'océan comme bien commun.",
+    "category": "advocacy",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "deleguee-mer-littoral-2016",
+    "role": "Déléguée à la Mer et au Littoral",
+    "organization": "Ministère de l'Environnement, de l'Énergie et de la Mer",
+    "start_date": "2016",
+    "end_date": "2017",
+    "description": "Déléguée à la Mer et au Littoral de 2016 à 2017 au sein du ministère chargé de l'environnement et de la mer.",
+    "category": "public_service",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud", "https://www.linkedin.com/in/catherine-chabaud-80704b39/"]
+  },
+  {
+    "id": "cese-2010-2015",
+    "role": "Membre du Conseil économique, social et environnemental (CESE)",
+    "organization": "Conseil économique, social et environnemental",
+    "start_date": "2010",
+    "end_date": "2015",
+    "description": "Membre du CESE comme personnalité qualifiée de 2010 à 2015 ; rapporteure notamment d'un avis sur les océans et d'un avis sur les matériaux biosourcés. Pilote en parallèle le projet Voilier du Futur et co-fonde la plateforme Océan et climat.",
+    "category": "public_service",
+    "source_url": ["https://www.lecese.fr/membre/catherine-chabaud", "https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "innovations-bleues-cofondatrice",
+    "role": "Co-fondatrice de l'association Innovations Bleues",
+    "organization": "Innovations Bleues",
+    "start_date": "2014",
+    "end_date": "",
+    "description": "Co-fondatrice et animatrice de l'association Innovations Bleues, dédiée au développement durable des activités maritimes et fluviales (programmes EcoNav, Ocean As Common, Greenlandia).",
+    "category": "advocacy",
+    "source_url": ["http://innovationsbleues.org/", "https://fr.m.wikipedia.org/wiki/Catherine_Chabaud"]
+  },
+  {
+    "id": "mission-borloo-grenelle-mer-2008",
+    "role": "Chargée de mission Nautisme et développement durable / Grenelle de la mer",
+    "organization": "Ministère chargé de la Mer (Jean-Louis Borloo)",
+    "start_date": "2008",
+    "end_date": "2010",
+    "description": "Chargée en 2008 d'une mission « Nautisme et développement durable » pour le ministre Jean-Louis Borloo, puis présidente du groupe de travail du Grenelle de la mer « Sensibilisation, communication et éducation » (2009-2010).",
+    "category": "public_service",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "documentaires-france-televisions-2006",
+    "role": "Réalisatrice de documentaires sur le développement durable",
+    "organization": "France Télévisions",
+    "start_date": "2006",
+    "end_date": "2007",
+    "description": "Réalise des documentaires sur le développement durable pour France Télévisions (2006-2007).",
+    "category": "media",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "europe-1-2002",
+    "role": "Animatrice d'émissions sur l'aventure",
+    "organization": "Europe 1",
+    "start_date": "2002",
+    "end_date": "2005",
+    "description": "Anime des émissions consacrées à l'aventure sur Europe 1 de 2002 à 2005.",
+    "category": "media",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "course-au-large-1985-1997",
+    "role": "Navigatrice / skipper de course au large",
+    "organization": "Course au large (Vendée Globe et autres)",
+    "start_date": "1985",
+    "end_date": "1997",
+    "description": "Douze ans de course au large : 16 traversées de l'Atlantique, des tours de l'Europe et deux tours du monde. En 1997, première femme à terminer le Vendée Globe (6e de l'édition 1996-1997). Seule femme skipper d'un voilier vainqueur en temps compensé de la Fastnet Race (1999).",
+    "category": "sport",
+    "source_url": ["https://en.wikipedia.org/wiki/Catherine_Chabaud", "https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "journaliste-thalassa-1982-1991",
+    "role": "Journaliste (presse écrite et radio)",
+    "organization": "Presse écrite (revue Thalassa) et radio",
+    "start_date": "1982",
+    "end_date": "1991",
+    "description": "Débute comme journaliste dans la presse écrite (revue Thalassa) et la radio ; rédactrice en chef du magazine Thalassa vers 1986-1987.",
+    "category": "media",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud", "https://en.wikipedia.org/wiki/Catherine_Chabaud"]
+  }
+]

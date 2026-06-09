@@ -1,0 +1,70 @@
+[
+  {
+    "id": "wh-mae-anmo",
+    "role": "Diplomate, direction Afrique du Nord - Moyen-Orient",
+    "organization": "Ministère des Affaires étrangères",
+    "start_date": "2010",
+    "end_date": "2011",
+    "description": "Débuts de carrière au sein de la direction Afrique du Nord - Moyen-Orient du ministère des Affaires étrangères, à l'issue de l'ENA.",
+    "category": "civil-service",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://www.rcf.fr/articles/actualite/gouvernement-qui-est-la-nouvelle-ministre-toulonnaise-alice-rufo"
+    ]
+  },
+  {
+    "id": "wh-sgdsn-rapporteur",
+    "role": "Rapporteur, mission d'actualisation du Livre blanc sur la défense et la sécurité nationale",
+    "organization": "Secrétariat général de la défense et de la sécurité nationale (SGDSN)",
+    "start_date": "2011",
+    "end_date": "2012",
+    "description": "Rapporteur sur la mission d'actualisation du Livre blanc sur la sécurité et la défense nationale. Elle est également chargée d'enseignement en droit public et culture générale à Sciences Po Paris durant cette période.",
+    "category": "civil-service",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://frenchblog.fr/alice-rufo-parcours-defense-strategie/"
+    ]
+  },
+  {
+    "id": "wh-elysee-conseillere",
+    "role": "Conseillère au pôle diplomatique, puis conseillère diplomatique adjointe du président de la République",
+    "organization": "Présidence de la République (Élysée)",
+    "start_date": "2012",
+    "end_date": "2022-10",
+    "description": "Près d'une décennie au pôle diplomatique de l'Élysée : conseillère technique pour l'Asie-Pacifique et les affaires stratégiques, puis conseillère chargée des sommets internationaux, des Amériques et de l'Asie, et enfin conseillère diplomatique adjointe du président, avec les affaires stratégiques et le désarmement dans son portefeuille à partir de 2020. La déclaration HATVP fait état d'une rémunération à la Présidence de la République sur la période 01/2020-10/2022.",
+    "category": "civil-service",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852",
+      "https://acteurspublics.fr/nomination/macron-nomme-sa-conseillere-alice-rufo-a-la-tete-dune-direction-du-ministere-des-armees/"
+    ]
+  },
+  {
+    "id": "wh-dgris-director",
+    "role": "Directrice générale des relations internationales et de la stratégie (DGRIS)",
+    "organization": "Ministère des Armées",
+    "start_date": "2022-11-01",
+    "end_date": "2025-10",
+    "description": "Nommée le 5 octobre 2022 en conseil des ministres, en fonction à compter du 1er novembre 2022. La DGRIS dirige l'action internationale du ministère des Armées, conduit la stratégie de défense de la France et représente le ministère dans les instances de l'OTAN et de l'Union européenne.",
+    "category": "civil-service",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://acteurspublics.fr/nomination/macron-nomme-sa-conseillere-alice-rufo-a-la-tete-dune-direction-du-ministere-des-armees/",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"
+    ]
+  },
+  {
+    "id": "wh-ministre-deleguee-armees",
+    "role": "Ministre déléguée auprès de la ministre des Armées et des Anciens combattants",
+    "organization": "Gouvernement de Sébastien Lecornu",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Nommée le 12 octobre 2025 par le président de la République sur proposition du Premier ministre, chargée notamment de l'Europe de la défense dans le contexte de la guerre en Ukraine. Fonction conservée à l'issue du remaniement du 26 février 2026, sous l'autorité de la ministre des Armées Catherine Vautrin.",
+    "category": "government",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/alice-rufo",
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://www.vie-publique.fr/en-bref/302256-remaniement-le-gouvernement-de-sebastien-lecornu-26-fevrier-2026"
+    ]
+  }
+]

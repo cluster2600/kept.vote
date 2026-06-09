@@ -1,0 +1,13 @@
+[
+  {
+    "id": "compte-courant-banque-chalus",
+    "year": "2025",
+    "type": "Compte bancaire",
+    "label": "Compte courant à la Banque Chalus",
+    "amount": "47 362 € (solde déclaré)",
+    "detail": "Solde de compte courant figurant dans la déclaration de situation patrimoniale auprès de la HATVP (déclaration en tant qu'élu local / membre du gouvernement).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+    ]
+  }
+]

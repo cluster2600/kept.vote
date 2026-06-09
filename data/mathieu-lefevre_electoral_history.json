@@ -1,0 +1,30 @@
+[
+  {
+    "id": "legislatives-2022-val-de-marne-5e",
+    "election": "Élections législatives 2022 (16e législature)",
+    "date": "2022-06-19",
+    "role_sought": "Député de la 5e circonscription du Val-de-Marne",
+    "result": "Élu au second tour",
+    "vote_share": "Environ 56 % des suffrages exprimés (environ 23 010 voix)",
+    "opponent": "Candidat de la NUPES au second tour ; succession au siège de Gilles Carrez (LR), seul siège conquis par la majorité présidentielle dans le Val-de-Marne",
+    "detail": "Première élection de Mathieu Lefèvre, ancien chef de cabinet de Gérald Darmanin, dans une circonscription auparavant détenue par la droite. Seule conquête de la majorité présidentielle dans le département.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mathieu_Lef%C3%A8vre",
+      "https://94.citoyens.com/2022/val-de-marne-mathieu-lefevre-elu-depute-de-la-5eme-circonscription,19-06-2022.html"
+    ]
+  },
+  {
+    "id": "legislatives-2024-val-de-marne-5e",
+    "election": "Élections législatives anticipées 2024 (17e législature)",
+    "date": "2024-07-07",
+    "role_sought": "Député de la 5e circonscription du Val-de-Marne",
+    "result": "Réélu au second tour",
+    "vote_share": "Environ 43 % des suffrages exprimés (26 159 voix), participation d'environ 67 %",
+    "opponent": "Triangulaire / configuration de second tour ; opposants du Nouveau Front populaire et du Rassemblement national",
+    "detail": "Réélection dans la 5e circonscription du Val-de-Marne lors des élections législatives anticipées de 2024.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mathieu_Lef%C3%A8vre",
+      "https://actu.fr/ile-de-france/champigny-sur-marne_94017/legislatives-2024-dans-le-val-de-marne-mathieu-lefevre-reelu-au-second-tour-dans-la-5e-circonscription_61311781.html"
+    ]
+  }
+]

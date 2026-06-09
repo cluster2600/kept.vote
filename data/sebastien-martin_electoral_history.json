@@ -1,0 +1,86 @@
+[
+  {
+    "id": "legislative-partielle-2025-71-5",
+    "election": "Élection législative partielle, 5e circonscription de Saône-et-Loire",
+    "date": "2025-05-25",
+    "role_sought": "Député",
+    "result": "Élu (second tour)",
+    "vote_share": "58,6 %",
+    "opponent": "Arnaud Sanvert (Rassemblement national), 41,4 %",
+    "detail": "Législative partielle organisée après l'annulation par le Conseil constitutionnel de l'élection du député RN sortant. Sébastien Martin (divers droite / ex-LR) l'emporte largement au second tour. Entré en fonction le 26 mai 2025.",
+    "source_url": [
+      "https://www.cnews.fr/france/2025-05-25/legislative-partielle-de-saone-et-loire-le-depute-rn-arnaud-sanvert-perd-son",
+      "https://lcp.fr/actualites/legislative-partielle-en-saone-et-loire-sebastien-martin-divers-droite-elu-depute-le-rn",
+      "https://www.franceinfo.fr/politique/legislative-en-bourgogne-la-droite-revendique-la-victoire-face-au-rassemblement-national_7272144.html"
+    ]
+  },
+  {
+    "id": "presidence-grand-chalon-2014",
+    "election": "Élection du président de la communauté d'agglomération Le Grand Chalon",
+    "date": "2014-04-17",
+    "role_sought": "Président de l'agglomération",
+    "result": "Élu",
+    "vote_share": "non précisé (élection au sein du conseil communautaire)",
+    "opponent": "",
+    "detail": "À 36 ans, Sébastien Martin devient président du Grand Chalon après le basculement de la ville de Chalon-sur-Saône à droite lors des municipales de 2014. Succède à Christophe Sirugue.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/S%C3%A9bastien_Martin",
+      "https://diplomes-iepg.fr/gre/portrait_s_martin.php",
+      "https://www.info-chalon.com/articles/grand-chalon/2014/04/02/5720/sebastien-martin-candidat-a-la-presidence-du-grand-chalon/"
+    ]
+  },
+  {
+    "id": "municipales-chalon-2014",
+    "election": "Élections municipales de Chalon-sur-Saône",
+    "date": "2014-03-23",
+    "role_sought": "Conseiller municipal (liste de la majorité)",
+    "result": "Élu (liste victorieuse conduite par Gilles Platret)",
+    "vote_share": "non précisé",
+    "opponent": "",
+    "detail": "Investi par l'UMP, il renonce à la tête de liste au profit de l'union de la droite et du centre. La liste l'emporte ; il devient conseiller municipal et président de l'agglomération.",
+    "source_url": [
+      "https://diplomes-iepg.fr/gre/portrait_s_martin.php",
+      "https://www.annuaire-mairie.fr/elections-municipales-chalon-sur-saone.html"
+    ]
+  },
+  {
+    "id": "municipales-chalon-2020",
+    "election": "Élections municipales de Chalon-sur-Saône",
+    "date": "2020-03-15",
+    "role_sought": "Conseiller municipal (liste de la majorité Platret)",
+    "result": "Élu (majorité reconduite)",
+    "vote_share": "non précisé",
+    "opponent": "",
+    "detail": "La majorité municipale est reconstituée autour du duo Gilles Platret (maire) et Sébastien Martin (président du Grand Chalon).",
+    "source_url": [
+      "https://www.info-chalon.com/articles/chalon-sur-saone/2020/05/20/44294/municipales-l-election-du-maire-de-chalon-sur-saone-et-des-adjoints-se-fera-a-huis-clos-ce-samedi/"
+    ]
+  },
+  {
+    "id": "presidence-intercommunalites-2020",
+    "election": "Élection à la présidence d'Intercommunalités de France (AdCF)",
+    "date": "2020-11-05",
+    "role_sought": "Président de l'association",
+    "result": "Élu",
+    "vote_share": "non précisé (vote interne)",
+    "opponent": "",
+    "detail": "Élu président de l'Assemblée des Communautés de France (devenue Intercommunalités de France), succédant au maire d'Annecy Jean-Luc Rigaut.",
+    "source_url": [
+      "https://www.info-chalon.com/articles/2020/11/05/46691/sebastien-martin-succede-au-maire-d-annecy-et-prend-les-commandes-de-l-assemblee-des-communautes-de-france/",
+      "https://www.lejsl.com/politique/2020/11/05/sebastien-martin-prend-la-tete-de-l-assemblee-des-communautes-de-france"
+    ]
+  },
+  {
+    "id": "reelection-intercommunalites-2023",
+    "election": "Réélection à la présidence d'Intercommunalités de France",
+    "date": "2023-10-11",
+    "role_sought": "Président de l'association",
+    "result": "Réélu pour trois ans",
+    "vote_share": "non précisé (vote interne)",
+    "opponent": "",
+    "detail": "Réélu président d'Intercommunalités de France pour un mandat de trois ans.",
+    "source_url": [
+      "https://www.info-chalon.com/articles/2023/10/11/84055/sebastien-martin-reelu-president-de-l-association-intercommunalites-de-france/"
+    ]
+  }
+]

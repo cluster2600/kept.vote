@@ -1,0 +1,42 @@
+[
+  {
+    "id": "int-conjoint-powens",
+    "item": "Activité professionnelle du conjoint - Président de la SAS Powens",
+    "type": "Intérêt déclaré (activité du conjoint)",
+    "period": "depuis le 01/10/2024",
+    "value": "non précisé",
+    "detail": "Rubrique 5 de la déclaration d'intérêts HATVP : le conjoint d'Alice Rufo, Jean Guillaume, est nommé Président de la SAS Powens le 1er octobre 2024.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "int-consultant-neant",
+    "item": "Activités de consultant",
+    "type": "Intérêt - rubrique 2 HATVP",
+    "period": "",
+    "value": "none declared",
+    "detail": "« Néant » : aucune activité de consultant déclarée.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "int-benevole-neant",
+    "item": "Fonctions bénévoles susceptibles de faire naître un conflit d'intérêts",
+    "type": "Intérêt - rubrique 6 HATVP",
+    "period": "",
+    "value": "none declared",
+    "detail": "« Néant » : aucune fonction bénévole déclarée.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "int-mandats-neant",
+    "item": "Fonctions et mandats électifs",
+    "type": "Intérêt - rubrique 7 HATVP",
+    "period": "",
+    "value": "none declared",
+    "detail": "« Néant » : aucun mandat électif. Alice Rufo n'a jamais exercé de fonction élective.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "indemnite-deputee-2023",
+    "year": "2023",
+    "type": "Indemnité parlementaire",
+    "label": "Indemnité de députée (Assemblée nationale)",
+    "amount": "73 698 € net",
+    "detail": "Indemnité nette de députée pour l'année 2023 (mandat de juin 2022 à octobre 2025). 38 342 € en 2022, 74 556 € en 2024 et 58 195 € en 2025 selon la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "indemnite-adjointe-vannes-2021",
+    "year": "2021",
+    "type": "Indemnité d'élu local",
+    "label": "Indemnité d'adjointe au maire de Vannes",
+    "amount": "21 774 € net",
+    "detail": "Indemnité nette d'adjointe au maire de Vannes pour 2021 (mandat avril 2020 - juillet 2022 ; 18 129 € en 2020, 14 361 € en 2022).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "indemnite-conseillere-regionale-2021",
+    "year": "2021",
+    "type": "Indemnité d'élu local",
+    "label": "Indemnité de conseillère régionale de Bretagne",
+    "amount": "21 774 € net",
+    "detail": "Indemnité nette de conseillère régionale de Bretagne pour 2021 (14 361 € en 2022).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "indemnite-conseillere-communautaire-2021",
+    "year": "2021",
+    "type": "Indemnité d'élu local",
+    "label": "Indemnité de conseillère communautaire (Vannes Agglomération)",
+    "amount": "5 424 € net",
+    "detail": "Indemnité nette de conseillère communautaire déléguée au numérique (5 424 € en 2021 et 2022, 5 353 € en 2023, puis 0 € à partir de 2024 après abandon de la délégation).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "indemnite-conseillere-municipale-2023",
+    "year": "2023",
+    "type": "Indemnité d'élu local",
+    "label": "Indemnité de conseillère municipale de Vannes",
+    "amount": "2 964 € net",
+    "detail": "Indemnité nette de conseillère municipale de Vannes pour 2023 (montants similaires les années suivantes).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "remuneration-morbihan-energies-2020",
+    "year": "2020",
+    "type": "Rémunération salariée",
+    "label": "Chargée de mission, Morbihan Énergies",
+    "amount": "13 826 € net",
+    "detail": "Rémunération nette de chargée de mission à Morbihan Énergies (janvier-novembre 2020).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "remuneration-chaire-ubs-2020",
+    "year": "2020",
+    "type": "Rémunération (activité de consultant)",
+    "label": "Titulaire de chaire, Fondation Université Bretagne Sud",
+    "amount": "18 900 € net",
+    "detail": "Rémunération nette comme titulaire de chaire (cybersécurité) à la Fondation UBS en 2020 (2 700 € en 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "consulting-region-paysdelaloire-2022",
+    "year": "2022",
+    "type": "Rémunération (activité de consultant)",
+    "label": "Étude d'organisation de la cybersécurité, Région Pays de la Loire",
+    "amount": "4 800 € net",
+    "detail": "Mission de consultant (étude d'organisation de la cybersécurité) pour la Région Pays de la Loire, janvier-mars 2022.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "consulting-sde-finistere-2022",
+    "year": "2022",
+    "type": "Rémunération (activité de consultant)",
+    "label": "Note de cadrage cybersécurité, Syndicat Départemental d'Énergie du Finistère",
+    "amount": "2 040 € net",
+    "detail": "Mission de consultant (note de cadrage cybersécurité) pour le Syndicat Départemental d'Énergie du Finistère, janvier-février 2022.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "cos-caisse-epargne-2021",
+    "year": "2021",
+    "type": "Jeton / rémunération d'organe dirigeant",
+    "label": "Conseil d'orientation et de surveillance, Caisse d'Épargne Bretagne Pays de Loire",
+    "amount": "3 600 € net",
+    "detail": "Rémunération comme membre du COS de la Caisse d'Épargne Bretagne Pays de Loire (septembre 2021 - juillet 2022 ; 3 600 € en 2021, 0 € en 2022).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  }
+]

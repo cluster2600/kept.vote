@@ -1,0 +1,24 @@
+[
+  {
+    "id": "europeennes-2019",
+    "election": "Élections européennes de 2019 (France)",
+    "date": "2019-05-26",
+    "role_sought": "Députée européenne",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue députée européenne en 5e position sur la liste « Renaissance » conduite par La République en marche et le Mouvement démocrate (MoDem). Mandat exercé de 2019 à 2024.",
+    "source_url": ["https://fr.m.wikipedia.org/wiki/Catherine_Chabaud", "https://en.wikipedia.org/wiki/Catherine_Chabaud"]
+  },
+  {
+    "id": "europeennes-2024-non-candidate",
+    "election": "Élections européennes de 2024 (France)",
+    "date": "2024-06-09",
+    "role_sought": "Députée européenne",
+    "result": "Non candidate",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Catherine Chabaud n'a pas été candidate aux élections européennes de 2024 ; son mandat de députée européenne s'est achevé en juillet 2024.",
+    "source_url": ["https://fr.m.wikipedia.org/wiki/Catherine_Chabaud", "https://en.wikipedia.org/wiki/Catherine_Chabaud"]
+  }
+]

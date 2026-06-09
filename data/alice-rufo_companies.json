@@ -1,0 +1,22 @@
+[
+  {
+    "id": "co-none-personal",
+    "entity": "Aucune participation ou direction personnelle",
+    "role": "—",
+    "ownership_stake": "none declared",
+    "period": "",
+    "status": "none declared",
+    "detail": "La déclaration d'intérêts HATVP indique « Néant » pour les participations aux organes dirigeants d'un organisme public ou privé (rubrique 3) et pour les participations financières directes dans le capital d'une société (rubrique 4). Aucune activité de consultant déclarée (rubrique 2 : Néant).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "co-powens-conjoint",
+    "entity": "SAS Powens (activité du conjoint)",
+    "role": "Président (fonction exercée par son conjoint, Jean Guillaume, et non par la déclarante)",
+    "ownership_stake": "non précisé",
+    "period": "à compter du 01/10/2024",
+    "status": "declared",
+    "detail": "Rubrique 5 de la déclaration d'intérêts HATVP (activités professionnelles du conjoint) : son conjoint est nommé Président de la SAS Powens le 1er octobre 2024. Élément déclaré au titre de la transparence ; il s'agit de l'activité du conjoint, non d'un intérêt détenu par Alice Rufo.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  }
+]

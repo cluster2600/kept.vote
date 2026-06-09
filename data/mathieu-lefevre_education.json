@@ -1,0 +1,29 @@
+[
+  {
+    "id": "paris1-master-science-politique",
+    "institution": "Université Paris 1 Panthéon-Sorbonne",
+    "qualification": "Master 1 de science politique",
+    "field": "Science politique",
+    "years": "2009",
+    "detail": "Titulaire d'un Master 1 de science politique de l'université Paris 1 Panthéon-Sorbonne.",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "paris1-master-communication-politique",
+    "institution": "Université Paris 1 Panthéon-Sorbonne",
+    "qualification": "Master 2 de communication politique et sociale",
+    "field": "Communication politique et sociale",
+    "years": "2009",
+    "detail": "Titulaire d'un Master 2 de communication politique et sociale de l'université Paris 1 Panthéon-Sorbonne (2009).",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "escp-mastere-marketing-communication",
+    "institution": "ESCP Business School (École supérieure de commerce de Paris)",
+    "qualification": "Mastère spécialisé marketing et communication",
+    "field": "Marketing et communication",
+    "years": "",
+    "detail": "Titulaire d'un mastère spécialisé marketing et communication de l'ESCP.",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  }
+]

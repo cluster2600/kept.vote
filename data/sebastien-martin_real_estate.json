@@ -1,0 +1,15 @@
+[
+  {
+    "id": "appartement-200m2-saone-et-loire",
+    "property": "Appartement d'environ 200 m²",
+    "location": "Saône-et-Loire (département 71)",
+    "transaction_type": "Acquisition (détenu à 50 %)",
+    "date": "2014",
+    "value": "Acquis pour 155 000 € avec 179 000 € de travaux ; valeur déclarée d'environ 170 000 €",
+    "detail": "Appartement d'environ 200 m² acquis en 2014, détenu à hauteur de 50 %, figurant dans la déclaration de situation patrimoniale auprès de la HATVP.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "municipales-2008-vannes",
+    "election": "Élections municipales (Vannes)",
+    "date": "2008",
+    "role_sought": "Conseillère municipale / adjointe au maire",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Entrée au conseil municipal de Vannes en 2008, devenant adjointe au maire chargée du numérique, des systèmes d'information et de la communication institutionnelle. Reconduite ensuite (première adjointe à partir de 2020).",
+    "source_url": [
+      "https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722"
+    ]
+  },
+  {
+    "id": "municipales-2020-vannes",
+    "election": "Élections municipales (Vannes)",
+    "date": "2020",
+    "role_sought": "Conseillère municipale / première adjointe au maire",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Réélue au conseil municipal de Vannes ; devient première adjointe au maire en 2020. Également conseillère communautaire de Vannes Agglomération à partir de janvier 2021.",
+    "source_url": [
+      "https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "regionales-2021-bretagne",
+    "election": "Élections régionales (Bretagne)",
+    "date": "2021",
+    "role_sought": "Conseillère régionale de Bretagne",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue conseillère régionale de Bretagne (mandat d'avril 2021 à juillet 2022, abandonné pour cause de cumul après son élection comme députée).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "legislatives-2022-morbihan-1",
+    "election": "Élections législatives 2022, 1re circonscription du Morbihan",
+    "date": "2022-06-19",
+    "role_sought": "Députée",
+    "result": "Élue au second tour",
+    "vote_share": "59,25 % (second tour)",
+    "opponent": "Luc Foucault (NUPES), 40,75 %",
+    "detail": "Élue députée au second tour avec 59,25 % des voix face à Luc Foucault (NUPES). Succède au député sortant Hervé Pellois.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/legislatives/resultats/2022/morbihan_56/morbihan_1ere-circonscription",
+      "https://en.wikipedia.org/wiki/Anne_Le_H%C3%A9nanff"
+    ]
+  },
+  {
+    "id": "legislatives-2024-morbihan-1",
+    "election": "Élections législatives anticipées 2024, 1re circonscription du Morbihan",
+    "date": "2024-07-07",
+    "role_sought": "Députée",
+    "result": "Réélue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Réélue pour un second mandat lors des législatives anticipées de 2024, après avoir été officiellement investie par Horizons. Pourcentage précis non confirmé par les sources consultées.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Anne_Le_H%C3%A9nanff",
+      "https://www.ouest-france.fr/elections/legislatives/legislatives-dans-la-circonscription-de-vannes-anne-le-henanff-federe-et-confirme-3aa0ad16-3c98-11ef-8b5d-fae23e5223f7"
+    ]
+  }
+]

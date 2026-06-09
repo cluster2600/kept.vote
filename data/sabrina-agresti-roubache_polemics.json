@@ -1,0 +1,43 @@
+[
+  {
+    "id": "declaration-interets-91000-euros-2023",
+    "title": "Écart d'environ 91 000 € dans ses déclarations d'intérêts à la HATVP",
+    "period": "2023",
+    "category": "Transparence / déclaration patrimoniale",
+    "description": "En décembre 2023, l'hebdomadaire Marianne révèle un écart d'environ 91 000 € entre les revenus que Sabrina Agresti-Roubache avait déclarés à la HATVP après son élection comme députée (2022) et ceux figurant dans sa déclaration après sa nomination comme secrétaire d'État (publiée le 21 décembre 2023), portant sur la période 2018-2022. Son entourage a expliqué l'écart par un oubli de déclaration de droits d'auteur et par le recours à un dispositif fiscal de report d'imposition sur les plus-values de cession de parts sociales. La déclaration a été corrigée. L'association anticorruption Anticor a relayé et critiqué cette sous-évaluation. La HATVP a validé la déclaration d'intérêts, son président Didier Migaud l'assortissant d'une réserve : la prise d'un décret de déport pour s'abstenir de toute décision relative à deux sociétés qu'elle présidait jusqu'à sa nomination.",
+    "status": "Pas de condamnation. Déclaration corrigée et validée par la HATVP sous réserve d'un décret de déport. Aucune poursuite pénale aboutie connue. Présomption d'innocence applicable.",
+    "confidence_score": "0.9",
+    "key_facts": [
+      "Écart d'environ 91 000 € relevé par Marianne en décembre 2023 (période 2018-2022).",
+      "Explications avancées : oubli de droits d'auteur et report d'imposition sur plus-values.",
+      "Déclaration corrigée et publiée le 21 décembre 2023.",
+      "Validation HATVP par Didier Migaud sous réserve d'un décret de déport sur deux sociétés présidées.",
+      "Critiques publiques de l'Observatoire Anticor."
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html",
+      "https://observatoire.anticor.org/2023/12/22/pres-de-100-000-euros-manquants-la-declaration-dinterets-sous-evaluee-de-la-ministre-sabrina-agresti-roubache/",
+      "https://marsactu.fr/bref/sabrina-agresti-roubache-pointee-pour-sa-declaration-dinterets/"
+    ]
+  },
+  {
+    "id": "domiciliation-societe-corse-jean-casta-2023",
+    "title": "Domiciliation d'une société corse à l'adresse de Jean Casta (lié à l'affaire « Brise de Mer »)",
+    "period": "2023",
+    "category": "Liens d'affaires / probité",
+    "description": "Dans le cadre des révélations de décembre 2023, la presse rapporte que l'une de ses sociétés de production, Gurkin Invest Films Corse, était domiciliée à l'adresse de Jean Casta, ancien maire de Pietralba (Haute-Corse), condamné en 2013 à deux ans d'emprisonnement, dont un avec sursis, dans une affaire de cercle de jeux parisien (affaire dite du Wagram) liée à l'organisation criminelle corse « Brise de Mer ». Sabrina Agresti-Roubache a déclaré dans la presse ne pas avoir eu connaissance du passé judiciaire de M. Casta, présenté comme un cousin de son mari, et avoir choisi cette domiciliation pour des raisons économiques (impossibilité de louer un bureau à Ajaccio).",
+    "status": "Aucune mise en cause pénale de Sabrina Agresti-Roubache dans cette affaire. La condamnation de 2013 concerne Jean Casta, tiers, et non la ministre. Présomption d'innocence applicable.",
+    "confidence_score": "0.75",
+    "key_facts": [
+      "Société Gurkin Invest Films Corse domiciliée chez Jean Casta, ancien maire de Pietralba.",
+      "Jean Casta condamné en 2013 (deux ans dont un avec sursis) dans l'affaire du cercle de jeux du Wagram, liée à « Brise de Mer ».",
+      "L'intéressée déclare avoir ignoré ce passé judiciaire et invoque des raisons économiques.",
+      "Casta présenté comme un cousin de son mari.",
+      "Aucune mise en cause pénale de la ministre rapportée."
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html",
+      "https://www.manageo.fr/entreprises/824768287.html"
+    ]
+  }
+]

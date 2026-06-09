@@ -1,0 +1,25 @@
+[
+  {
+    "id": "revenus-2024-cumul",
+    "year": "2024",
+    "type": "Revenus déclarés",
+    "label": "Revenus cumulés (selon synthèses publiques de la déclaration HATVP)",
+    "amount": "Environ 85 520 €",
+    "detail": "Synthèses publiques mentionnent un cumul d'environ 85 520 €, dont environ 19 200 € d'indemnités d'élue et environ 66 320 € de salaires/traitements. Montant à confirmer sur la fiche officielle HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/pages_nominatives/agresti-roubache-sabrina-24196"
+    ]
+  },
+  {
+    "id": "ecart-declaration-interets-2018-2022",
+    "year": "2023",
+    "type": "Polémique financière (déclaration d'intérêts)",
+    "label": "Écart d'environ 91 000 € entre déclarations d'intérêts (revenus 2018-2022)",
+    "amount": "Environ 91 000 €",
+    "detail": "En décembre 2023, Marianne relève un écart d'environ 91 000 € entre les revenus déclarés après son élection comme députée (2022) et ceux déclarés après sa nomination comme secrétaire d'État (2023). Son entourage évoque un oubli de droits d'auteur et un dispositif de report d'imposition sur plus-values. Déclaration corrigée et publiée le 21 décembre 2023.",
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html",
+      "https://observatoire.anticor.org/2023/12/22/pres-de-100-000-euros-manquants-la-declaration-dinterets-sous-evaluee-de-la-ministre-sabrina-agresti-roubache/"
+    ]
+  }
+]

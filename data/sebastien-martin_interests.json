@@ -1,0 +1,39 @@
+[
+  {
+    "id": "president-intercommunalites-france-interet",
+    "item": "Présidence d'Intercommunalités de France (ex-AdCF)",
+    "type": "Mandat associatif national",
+    "period": "Depuis novembre 2020",
+    "value": "Fonction (bénévole / indemnités d'association non précisées)",
+    "detail": "Président de l'association nationale fédérant environ un millier d'intercommunalités. Intérêt déclaré susceptible d'appeler une vigilance déontologique sur les dossiers touchant les collectivités locales.",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872",
+      "https://www.intercommunalites.fr/lassociation/gouvernance-et-instances/"
+    ]
+  },
+  {
+    "id": "epcc-espace-des-arts",
+    "item": "Conseil d'administration de l'EPCC Espace des Arts (scène nationale de Chalon-sur-Saône)",
+    "type": "Mandat ès qualités d'élu",
+    "period": "Mandat d'élu local",
+    "value": "Fonction non rémunérée",
+    "detail": "Membre du conseil d'administration de l'établissement public de coopération culturelle au titre de ses fonctions d'élu (déclaration d'intérêts HATVP).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+    ]
+  },
+  {
+    "id": "regie-ecole-media-art",
+    "item": "Régie autonome personnalisée de l'école média art du Grand Chalon",
+    "type": "Mandat ès qualités d'élu",
+    "period": "Mandat d'élu local",
+    "value": "Fonction non rémunérée",
+    "detail": "Mandat exercé au titre de ses fonctions d'élu local (déclaration d'intérêts HATVP).",
+    "status": "declared",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+    ]
+  }
+]

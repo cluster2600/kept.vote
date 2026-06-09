@@ -1,0 +1,18 @@
+[
+  {
+    "id": "patrimoine-2026-declaration-modificative",
+    "year": "2026",
+    "declared_net_worth": "Non chiffré globalement par la HATVP (actif immobilier déclaré environ 660 000 € en valeur vénale, contre une dette immobilière restant à rembourser d'environ 357 592 €)",
+    "note": "Déclaration de modification substantielle de situation patrimoniale déposée le 19 février 2026. La HATVP publie le détail des biens (trois appartements, comptes et épargne d'environ 80 000 €, assurance vie, instrument financier) et un emprunt logement, sans calcul d'un patrimoine net agrégé. Régime matrimonial : communauté légale réduite aux acquêts.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  },
+  {
+    "id": "patrimoine-2025-declaration-initiale",
+    "year": "2025",
+    "declared_net_worth": "Non chiffré globalement par la HATVP",
+    "note": "Déclaration de situation patrimoniale déposée le 29 octobre 2025 à l'occasion de son entrée au Gouvernement.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  }
+]

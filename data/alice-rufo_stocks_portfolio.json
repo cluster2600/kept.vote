@@ -1,0 +1,12 @@
+[
+  {
+    "id": "stk-none",
+    "holding": "Aucun instrument financier déclaré",
+    "type": "none declared",
+    "value": "none declared",
+    "as_of": "2025-10-20",
+    "detail": "La déclaration de situation patrimoniale HATVP indique « Néant » pour les instruments financiers (rubrique 4), les assurances vie (rubrique 5) et les autres valeurs mobilières non cotées (rubrique 3). Seuls figurent deux comptes courants à la Banque Transatlantique (soldes de 39 579 € et 3 052 €).",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  }
+]

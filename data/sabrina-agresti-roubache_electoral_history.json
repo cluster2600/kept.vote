@@ -1,0 +1,44 @@
+[
+  {
+    "id": "regionales-2021-paca",
+    "election": "Élections régionales 2021 (Provence-Alpes-Côte d'Azur)",
+    "date": "2021-06-27",
+    "role_sought": "Conseillère régionale de PACA",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue sur la liste de Renaud Muselier (majorité régionale), avec délégation à la lutte contre les violences faites aux femmes et le harcèlement scolaire.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Sabrina_Agresti-Roubache",
+      "https://www.cafepedagogique.net/2026/03/02/qui-est-sabrina-sabrina-agresti-roubache/"
+    ]
+  },
+  {
+    "id": "legislatives-2022-bdr-1",
+    "election": "Élections législatives 2022 (1re circonscription des Bouches-du-Rhône)",
+    "date": "2022-06-19",
+    "role_sought": "Députée",
+    "result": "Élue au second tour",
+    "vote_share": "Environ 50,8 % au second tour",
+    "opponent": "Candidat du Rassemblement national",
+    "detail": "Arrivée deuxième au premier tour, elle l'emporte au second tour avec environ 50,8 % des voix, soit une avance d'à peine quelques centaines de voix (autour de 479 voix selon la presse locale).",
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/legislatives-2022-sabrina-agresti-roubache-a-marseille-la-vigie-des-macron-a-l-assemblee-2566904.html",
+      "https://en.wikipedia.org/wiki/Sabrina_Agresti-Roubache"
+    ]
+  },
+  {
+    "id": "legislatives-2024-bdr-1",
+    "election": "Élections législatives anticipées 2024 (1re circonscription des Bouches-du-Rhône)",
+    "date": "2024-06-30",
+    "role_sought": "Députée (réélection)",
+    "result": "Battue au premier tour (3e), désistement avant le second tour",
+    "vote_share": "23,61 % au premier tour",
+    "opponent": "Monique Griseti (RN) ; Pascaline Lécorché (Nouveau Front populaire)",
+    "detail": "Arrivée troisième au premier tour avec 23,61 %, derrière Monique Griseti (RN, 45,54 %) et la candidate du Nouveau Front populaire (26,90 %). Elle se désiste pour faire barrage au RN. Monique Griseti (RN) est finalement élue au second tour avec 55,85 %.",
+    "source_url": [
+      "https://www.lejdd.fr/politique/legislatives-sabrina-agresti-roubache-secretaire-detat-la-ville-et-deputee-sortante-annonce-se-desister-146987",
+      "https://www.laprovence.com/article/politique/1276954394337315/resultats-legislatives-monique-griseti-du-rassemblement-national-elue-avec-55-85-dans-les-10e-11e-et-12e-a-marseille"
+    ]
+  }
+]

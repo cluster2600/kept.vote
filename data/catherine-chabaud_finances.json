@@ -1,0 +1,20 @@
+[
+  {
+    "id": "hatvp-declaration-ministre-2025",
+    "year": "2025",
+    "type": "Déclaration de situation patrimoniale et d'intérêts (ministre)",
+    "label": "Déclarations HATVP en tant que membre du gouvernement",
+    "amount": "Non publié dans le détail dans les sources consultées",
+    "detail": "En tant que ministre déléguée chargée de la Mer et de la Pêche, Catherine Chabaud a déposé ses déclarations de situation patrimoniale et d'intérêts auprès de la Haute Autorité pour la transparence de la vie publique (HATVP). La HATVP a publié le 22 avril 2026 les déclarations de 30 membres du gouvernement Lecornu. Le montant précis de son patrimoine n'est pas chiffré dans les sources de presse consultées.",
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/", "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/plus-riches-que-la-majorite-des-francais-moins-motorises-proprietaires-ce-que-devoilent-les-declarations-de-patrimoine-des-ministres-du-gouvernement-lecornu_7959098.html"]
+  },
+  {
+    "id": "hatvp-declaration-deputee-europeenne",
+    "year": "2019",
+    "type": "Déclaration d'intérêts (députée européenne)",
+    "label": "Déclaration d'intérêts au titre du mandat de députée européenne",
+    "amount": "Non chiffré",
+    "detail": "Au titre de son mandat de députée européenne (2019-2024), Catherine Chabaud était soumise aux obligations déclaratives auprès de la HATVP. Le détail des montants n'a pas été retrouvé dans les sources consultées.",
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-des-deputes-europeens-francais/"]
+  }
+]

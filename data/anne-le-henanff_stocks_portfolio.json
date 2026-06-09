@@ -1,0 +1,50 @@
+[
+  {
+    "id": "compte-titres-bnp-paribas",
+    "holding": "Compte-titres BNP Paribas",
+    "type": "Compte-titres (instrument financier)",
+    "value": "3 210 €",
+    "as_of": "2025-11-16",
+    "detail": "Compte-titres détenu auprès de BNP Paribas, titulaire Anne Le Hénanff. Déclaration de situation patrimoniale HATVP. Aucune participation financière directe au capital d'une société (rubrique 4° : Néant) ni autre valeur mobilière non cotée (rubrique 3° : Néant).",
+    "status": "déclaré",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "assurance-vie-bnp-2021",
+    "holding": "Assurance-vie BNP Paribas (souscrite le 14/09/2021)",
+    "type": "Assurance-vie",
+    "value": "62 566 €",
+    "as_of": "2025-11-16",
+    "detail": "Assurance-vie BNP Paribas, souscripteur Anne Le Hénanff, souscrite le 14 septembre 2021.",
+    "status": "déclaré",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "assurance-vie-bnp-1993",
+    "holding": "Assurance-vie BNP Paribas (souscrite le 03/04/1993)",
+    "type": "Assurance-vie",
+    "value": "6 377 €",
+    "as_of": "2025-11-16",
+    "detail": "Assurance-vie BNP Paribas, souscripteur Anne Le Hénanff, souscrite le 3 avril 1993.",
+    "status": "déclaré",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "assurance-vie-bnp-2023",
+    "holding": "Assurance-vie BNP Paribas (souscrite le 24/03/2023)",
+    "type": "Assurance-vie",
+    "value": "12 441 €",
+    "as_of": "2025-11-16",
+    "detail": "Assurance-vie BNP Paribas, souscripteur Anne Le Hénanff, souscrite le 24 mars 2023.",
+    "status": "déclaré",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  }
+]

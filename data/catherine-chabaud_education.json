@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ipj-journalisme-1983",
+    "institution": "Institut Pratique de Journalisme (IPJ)",
+    "qualification": "Diplôme de journalisme",
+    "field": "Journalisme",
+    "years": "1983",
+    "detail": "Diplômée de l'Institut Pratique de Journalisme en 1983.",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  },
+  {
+    "id": "paris-dauphine-maths-appliquees",
+    "institution": "Université Paris-Dauphine",
+    "qualification": "Études supérieures",
+    "field": "Mathématiques appliquées",
+    "years": "",
+    "detail": "Études de mathématiques appliquées à l'Université Paris-Dauphine avant son entrée à l'IPJ.",
+    "source_url": ["https://www.mer.gouv.fr/biographie-de-catherine-chabaud"]
+  }
+]

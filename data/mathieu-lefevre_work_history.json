@@ -1,0 +1,118 @@
+[
+  {
+    "id": "charge-etudes-nouveau-centre",
+    "role": "Chargé d'études Finances publiques et défense",
+    "organization": "Groupe Nouveau Centre, Assemblée nationale",
+    "start_date": "2009-09",
+    "end_date": "2010-12",
+    "description": "Chargé d'études sur les finances publiques et la défense auprès du groupe Nouveau Centre à l'Assemblée nationale.",
+    "category": "parliamentary_staff",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "conseiller-rapporteur-general-budget",
+    "role": "Conseiller auprès du rapporteur général du budget",
+    "organization": "Assemblée nationale (auprès de Gilles Carrez)",
+    "start_date": "2010-12",
+    "end_date": "2012-06",
+    "description": "Conseiller auprès de Gilles Carrez, rapporteur général du budget à la commission des finances de l'Assemblée nationale.",
+    "category": "parliamentary_staff",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "conseiller-president-commission-finances",
+    "role": "Conseiller auprès du président de la commission des finances",
+    "organization": "Assemblée nationale (auprès de Gilles Carrez)",
+    "start_date": "2012-06",
+    "end_date": "2017-05",
+    "description": "Conseiller auprès de Gilles Carrez, président de la commission des finances, de l'économie générale et du contrôle budgétaire de l'Assemblée nationale.",
+    "category": "parliamentary_staff",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "conseiller-relations-parlement-macp",
+    "role": "Conseiller chargé des relations avec le Parlement",
+    "organization": "Cabinet du ministre de l'Action et des Comptes publics (Gérald Darmanin)",
+    "start_date": "2017-05",
+    "end_date": "2019-07",
+    "description": "Conseiller chargé des relations avec le Parlement au cabinet de Gérald Darmanin, ministre de l'Action et des Comptes publics.",
+    "category": "ministerial_cabinet",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "conseiller-synthese-budgetaire-macp",
+    "role": "Conseiller chargé de la synthèse budgétaire",
+    "organization": "Cabinet du ministre de l'Action et des Comptes publics (Gérald Darmanin)",
+    "start_date": "2019-07",
+    "end_date": "2019-11",
+    "description": "Conseiller chargé de la synthèse budgétaire au cabinet de Gérald Darmanin, ministre de l'Action et des Comptes publics.",
+    "category": "ministerial_cabinet",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "chef-cabinet-synthese-budgetaire-macp",
+    "role": "Chef de cabinet et conseiller chargé de la synthèse budgétaire",
+    "organization": "Cabinet du ministre de l'Action et des Comptes publics (Gérald Darmanin)",
+    "start_date": "2019-11",
+    "end_date": "2020-07",
+    "description": "Chef de cabinet et conseiller chargé de la synthèse budgétaire au cabinet de Gérald Darmanin, ministre de l'Action et des Comptes publics.",
+    "category": "ministerial_cabinet",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "chef-cabinet-interieur",
+    "role": "Chef de cabinet du ministre de l'Intérieur",
+    "organization": "Cabinet du ministre de l'Intérieur (Gérald Darmanin)",
+    "start_date": "2020-07",
+    "end_date": "2022-02",
+    "description": "Chef de cabinet de Gérald Darmanin, ministre de l'Intérieur.",
+    "category": "ministerial_cabinet",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "conseiller-special-relations-elus-interieur",
+    "role": "Conseiller spécial chargé des relations avec les élus",
+    "organization": "Cabinet du ministre de l'Intérieur (Gérald Darmanin)",
+    "start_date": "2022-02",
+    "end_date": "2022-05",
+    "description": "Conseiller spécial du ministre, chargé des relations avec les élus, au cabinet de Gérald Darmanin, ministre de l'Intérieur.",
+    "category": "ministerial_cabinet",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "depute-val-de-marne",
+    "role": "Député de la 5e circonscription du Val-de-Marne",
+    "organization": "Assemblée nationale",
+    "start_date": "2022-06",
+    "end_date": "2025-10",
+    "description": "Député (Renaissance) de la 5e circonscription du Val-de-Marne, élu en juin 2022 et réélu en 2024. Membre de la commission des finances (2023-2025) et de la commission des lois (2022-2025). Mandat clos le 12 novembre 2025 à la suite de sa nomination au Gouvernement.",
+    "category": "elected_office",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA795386",
+      "https://www.info.gouv.fr/personnalite/mathieu-lefevre"
+    ]
+  },
+  {
+    "id": "ministre-relations-parlement",
+    "role": "Ministre délégué chargé des Relations avec le Parlement",
+    "organization": "Gouvernement Sébastien Lecornu",
+    "start_date": "2025-10-05",
+    "end_date": "2025-10-12",
+    "description": "Ministre délégué chargé des Relations avec le Parlement (5 au 12 octobre 2025), succédant à Patrick Mignola.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/mathieu-lefevre"]
+  },
+  {
+    "id": "ministre-transition-ecologique",
+    "role": "Ministre délégué chargé de la Transition écologique",
+    "organization": "Gouvernement Sébastien Lecornu (auprès de la ministre de la Transition écologique)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Ministre délégué auprès de la ministre de la Transition écologique, de la Biodiversité et des Négociations internationales sur le climat et la nature, chargé de la Transition écologique. En fonction depuis le 12 octobre 2025 et reconduit lors du remaniement du 26 février 2026.",
+    "category": "government",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/mathieu-lefevre",
+      "https://www.ecologie.gouv.fr/mathieu-lefevre"
+    ]
+  }
+]

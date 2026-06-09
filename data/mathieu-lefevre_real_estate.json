@@ -1,0 +1,35 @@
+[
+  {
+    "id": "appartement-dept03-63m2",
+    "property": "Appartement de 63 m²",
+    "location": "Département de l'Allier (03)",
+    "transaction_type": "Donation (nue-propriété, bien indivis, quote-part 50 %)",
+    "date": "2008",
+    "value": "Prix d'acquisition 40 000 € ; valeur vénale déclarée 42 000 €",
+    "detail": "Bien indivis détenu en nue-propriété à hauteur de 50 %, entré au patrimoine en 2008 par donation. Source : déclaration de patrimoine HATVP (dépôt du 19 février 2026).",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  },
+  {
+    "id": "appartement-dept75-13m2",
+    "property": "Appartement de 13 m²",
+    "location": "Paris (département 75)",
+    "transaction_type": "Donation (nue-propriété, bien indivis, quote-part 50 %)",
+    "date": "2012",
+    "value": "Prix d'acquisition 42 600 € ; valeur vénale déclarée 45 000 €",
+    "detail": "Bien indivis détenu en nue-propriété à hauteur de 50 %, entré au patrimoine en 2012 par donation. Source : déclaration de patrimoine HATVP (dépôt du 19 février 2026).",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  },
+  {
+    "id": "appartement-dept75-39m2",
+    "property": "Appartement de 39 m²",
+    "location": "Paris (département 75)",
+    "transaction_type": "Acquisition (pleine propriété, bien propre, 100 %)",
+    "date": "2021",
+    "value": "Prix d'acquisition et valeur vénale déclarés 573 000 €",
+    "detail": "Bien propre détenu en pleine propriété, acquis en 2021, financé en partie par un prêt logement souscrit le 21 juillet 2021. Source : déclaration de patrimoine HATVP (dépôt du 19 février 2026).",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  }
+]

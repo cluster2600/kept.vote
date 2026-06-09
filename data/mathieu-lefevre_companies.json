@@ -1,0 +1,12 @@
+[
+  {
+    "id": "aucune-participation-dirigeante",
+    "entity": "Aucune société déclarée",
+    "role": "Néant",
+    "ownership_stake": "Néant",
+    "period": "À la date de la nomination et au cours des cinq années précédentes",
+    "status": "declared",
+    "detail": "La déclaration d'intérêts HATVP ne mentionne aucune participation aux organes dirigeants d'un organisme public ou privé (rubrique 3 : Néant), aucune participation financière directe au capital d'une société (rubrique 4 : Néant) et aucune activité de consultant (rubrique 2 : Néant).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  }
+]

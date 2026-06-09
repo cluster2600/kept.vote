@@ -1,0 +1,29 @@
+[
+  {
+    "id": "remuneration-macp-2020",
+    "year": "2020",
+    "type": "Rémunération (emploi)",
+    "label": "Conseiller, ministère de l'Action et des Comptes publics (MACP)",
+    "amount": "50 733 € net (2020)",
+    "detail": "Rémunération nette déclarée pour son poste de conseiller au cabinet du ministre de l'Action et des Comptes publics (de 01/2020 à 07/2020), selon la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  },
+  {
+    "id": "remuneration-interieur-2020-2022",
+    "year": "2020-2022",
+    "type": "Rémunération (emploi)",
+    "label": "Conseiller / chef de cabinet, ministère de l'Intérieur",
+    "amount": "62 600 € (2020), 87 650 € (2021), 39 770 € (2022), nets",
+    "detail": "Rémunérations nettes déclarées pour ses fonctions au cabinet du ministre de l'Intérieur (de 07/2020 à 05/2022), selon la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  },
+  {
+    "id": "indemnite-depute-2022-2025",
+    "year": "2022-2025",
+    "type": "Indemnité parlementaire",
+    "label": "Indemnité de député du Val-de-Marne",
+    "amount": "38 341 € (2022), 73 698 € (2023), 74 583 € (2024), 58 261 € (2025), nets",
+    "detail": "Indemnités nettes de député déclarées pour le mandat exercé de 06/2022 à 10/2025, selon la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+  }
+]

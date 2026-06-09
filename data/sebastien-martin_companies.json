@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sem-val-de-bourgogne",
+    "entity": "SEM Val de Bourgogne (société d'économie mixte)",
+    "role": "Président du conseil d'administration",
+    "ownership_stake": "Aucune participation personnelle (mandat ès qualités d'élu)",
+    "period": "Janvier 2020 - novembre 2025",
+    "status": "former",
+    "detail": "Présidence du conseil d'administration de la SEM Val de Bourgogne exercée au titre de ses fonctions d'élu local (déclaration d'intérêts HATVP).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+    ]
+  },
+  {
+    "id": "spl-sud-bourgogne-amenagement",
+    "entity": "SPL Sud Bourgogne Aménagement (société publique locale)",
+    "role": "Membre du conseil d'administration",
+    "ownership_stake": "Aucune participation personnelle (mandat ès qualités d'élu)",
+    "period": "Mandat d'élu local",
+    "status": "former",
+    "detail": "Mandat d'administrateur exercé au titre de ses fonctions d'élu local (déclaration d'intérêts HATVP).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+    ]
+  }
+]

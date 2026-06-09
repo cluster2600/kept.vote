@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ministre-deleguee-ia-numerique",
+    "role": "Ministre déléguée chargée de l'Intelligence artificielle et du Numérique",
+    "organization": "Gouvernement français (gouvernements Sébastien Lecornu), auprès du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Nommée ministre déléguée chargée de l'Intelligence artificielle et du Numérique le 12 octobre 2025 dans le gouvernement Lecornu II, en remplacement de Clara Chappaz. Maintenue dans ses fonctions lors du remaniement du 26 février 2026.",
+    "category": "government",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/anne-le-henanff",
+      "https://www.economie.gouv.fr/ministres/anne-le-henanff",
+      "https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_II"
+    ]
+  },
+  {
+    "id": "deputee-morbihan-1ere",
+    "role": "Députée de la 1re circonscription du Morbihan",
+    "organization": "Assemblée nationale",
+    "start_date": "2022-06-22",
+    "end_date": "2025-11-12",
+    "description": "Élue députée en juin 2022, réélue en 2024. Membre de la commission de la Défense nationale et des forces armées (2022-2024). Rapporteure du volet cloud de la loi SREN et de la transposition de la directive NIS2. Mandat suspendu puis clos après sa nomination au gouvernement (remplacée par sa suppléante).",
+    "category": "politics",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA794426",
+      "https://en.wikipedia.org/wiki/Anne_Le_H%C3%A9nanff",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "conseillere-municipale-vannes",
+    "role": "Conseillère municipale de Vannes",
+    "organization": "Ville de Vannes",
+    "start_date": "2022-07",
+    "end_date": "",
+    "description": "Conseillère municipale de Vannes depuis juillet 2022, après avoir été adjointe au maire. Indemnité déclarée à la HATVP.",
+    "category": "politics",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "adjointe-maire-vannes",
+    "role": "Adjointe puis première adjointe au maire de Vannes (numérique, systèmes d'information, communication institutionnelle)",
+    "organization": "Ville de Vannes",
+    "start_date": "2008",
+    "end_date": "2022-07",
+    "description": "Adjointe au maire de Vannes chargée du numérique, des systèmes d'information et de la communication institutionnelle à partir de 2008 ; première adjointe au maire à partir de 2020. La HATVP déclare un mandat d'adjointe au maire d'avril 2020 à juillet 2022.",
+    "category": "politics",
+    "source_url": [
+      "https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "conseillere-communautaire-vannes-agglo",
+    "role": "Conseillère communautaire (déléguée au numérique jusqu'en 2024)",
+    "organization": "Golfe du Morbihan - Vannes Agglomération",
+    "start_date": "2021-01",
+    "end_date": "",
+    "description": "Conseillère communautaire de Vannes Agglomération depuis janvier 2021, déléguée au numérique jusqu'en 2024 (perception d'indemnité jusqu'à cette date).",
+    "category": "politics",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "conseillere-regionale-bretagne",
+    "role": "Conseillère régionale de Bretagne",
+    "organization": "Conseil régional de Bretagne",
+    "start_date": "2021-04",
+    "end_date": "2022-07",
+    "description": "Conseillère régionale de Bretagne d'avril 2021 à juillet 2022, mandat abandonné en raison du cumul après son élection à l'Assemblée nationale.",
+    "category": "politics",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "presidente-sas-conseil-communication",
+    "role": "Présidente salariée / consultante indépendante (numérique, cybersécurité)",
+    "organization": "SAS Anne Le Hénanff conseil et communication",
+    "start_date": "2017",
+    "end_date": "2024-01",
+    "description": "Consultante indépendante dans le numérique et la cybersécurité à partir de 2017 via sa société. Entreprise mise en veille après son élection comme députée. La HATVP déclare le mandat de présidente salariée de janvier 2020 à janvier 2024 (rémunération de 6 262 € en 2020, déclinant à 0 € en 2023-2024).",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278",
+      "https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722"
+    ]
+  },
+  {
+    "id": "chargee-mission-morbihan-energies",
+    "role": "Chargée de mission",
+    "organization": "Morbihan Énergies",
+    "start_date": "2020-01",
+    "end_date": "2020-11",
+    "description": "Chargée de mission auprès du syndicat Morbihan Énergies (rémunération nette de 13 826 € en 2020 selon la HATVP).",
+    "category": "public_sector",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "enseignante-uco-arradon",
+    "role": "Enseignante vacataire",
+    "organization": "Université catholique de l'Ouest - Arradon (UCO)",
+    "start_date": "2021-05",
+    "end_date": "2022-03",
+    "description": "Enseignante vacataire à l'UCO Arradon (rémunération nette de 234 € en 2021 et 75 € en 2022).",
+    "category": "education",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "titulaire-chaire-cybersecurite-ubs",
+    "role": "Titulaire de chaire (cybersécurité)",
+    "organization": "Fondation Université Bretagne Sud (UBS)",
+    "start_date": "2020-01",
+    "end_date": "2021-01",
+    "description": "Titulaire d'une chaire (cybersécurité) à l'Université Bretagne Sud, déclarée à la HATVP comme activité de consultant (18 900 € net en 2020, 2 700 € net en 2021). Plusieurs sources situent son implication dans la chaire de cybersécurité de l'UBS entre 2018 et 2022.",
+    "category": "education",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278",
+      "https://www.usine-digitale.fr/editorial/qui-est-anne-le-henanff-nouvelle-ministre-deleguee-a-l-ia-et-au-numerique.N2239484"
+    ]
+  },
+  {
+    "id": "directrice-grand-ouest-saupiquet",
+    "role": "Carrière dans l'agroalimentaire (dont direction des activités Grand Ouest)",
+    "organization": "Bacardi, Saupiquet, Produit en Bretagne",
+    "start_date": "1991",
+    "end_date": "2003",
+    "description": "Débuts de carrière dans le secteur agroalimentaire après l'EM Normandie, notamment chez Bacardi puis Saupiquet (direction des activités pour la région Grand Ouest) et Produit en Bretagne. Ouvre ensuite une galerie d'art en 2003 avant de se réorienter vers le conseil en transformation numérique.",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722",
+      "https://www.usine-digitale.fr/editorial/qui-est-anne-le-henanff-nouvelle-ministre-deleguee-a-l-ia-et-au-numerique.N2239484"
+    ]
+  }
+]

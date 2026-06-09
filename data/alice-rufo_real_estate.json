@@ -1,0 +1,35 @@
+[
+  {
+    "id": "re-appartement-paris",
+    "property": "Appartement, 107 m²",
+    "location": "Département 75 (Paris)",
+    "transaction_type": "Acquisition (pleine propriété, quote-part 72 %, bien commun)",
+    "date": "2014",
+    "value": "Valeur vénale 936 000 € (prix d'acquisition 825 000 €, travaux 145 000 €)",
+    "detail": "Bien commun, pleine propriété, quote-part détenue 72 %. Financé en partie par un prêt logement Banque Transatlantique souscrit le 17/12/2014 (capital initial 630 000 €, capital restant dû 509 333 € au moment de la déclaration).",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "re-maison-13",
+    "property": "Maison individuelle, 270 m²",
+    "location": "Département 13 (Bouches-du-Rhône)",
+    "transaction_type": "Donation (nue-propriété, bien propre, 100 %)",
+    "date": "2000",
+    "value": "Valeur vénale 1 700 000 € (prix d'acquisition 235 000 €, travaux 270 000 €)",
+    "detail": "Bien propre, nue-propriété, quote-part 100 %. Entrée dans le patrimoine en 2000 par donation.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  },
+  {
+    "id": "re-garage-13",
+    "property": "Garage, 40 m²",
+    "location": "Département 13 (Bouches-du-Rhône)",
+    "transaction_type": "Donation (pleine propriété, bien propre, 100 %)",
+    "date": "2005",
+    "value": "Valeur vénale 40 000 € (prix d'acquisition 38 112 €, travaux 23 000 €)",
+    "detail": "Bien propre, pleine propriété, quote-part 100 %. Entrée dans le patrimoine en 2005 par donation.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+  }
+]
