@@ -1,0 +1,30 @@
+[
+  {
+    "id": "appartement-paris",
+    "property": "Appartement",
+    "location": "Paris",
+    "transaction_type": "Détention (résidence)",
+    "date": "Déclaré 2026 (HATVP)",
+    "value": "≈ 1 000 000 € (presse, à confirmer sur la déclaration HATVP)",
+    "detail": "Appartement situé à Paris, évalué à environ 1 million d'euros selon les éléments rapportés par la presse à partir de la déclaration de patrimoine HATVP.",
+    "status": "declared_press_reported",
+    "source_url": [
+      "https://www.parlons-politique.fr/actualite-nationale/patrimoine-des-ministres-ce-que-les-declarations-hatvp-revelent-sur-largent-les-dettes-et-les-conflits-dinterets_14366/",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  },
+  {
+    "id": "appartement-bouches-du-rhone",
+    "property": "Appartement",
+    "location": "Bouches-du-Rhône",
+    "transaction_type": "Détention",
+    "date": "Déclaré 2026 (HATVP)",
+    "value": "≈ 790 000 € (presse, à confirmer sur la déclaration HATVP)",
+    "detail": "Second bien immobilier (appartement) situé dans les Bouches-du-Rhône, évalué à environ 790 000 € selon les éléments rapportés par la presse à partir de la déclaration de patrimoine HATVP.",
+    "status": "declared_press_reported",
+    "source_url": [
+      "https://www.parlons-politique.fr/actualite-nationale/patrimoine-des-ministres-ce-que-les-declarations-hatvp-revelent-sur-largent-les-dettes-et-les-conflits-dinterets_14366/",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  }
+]

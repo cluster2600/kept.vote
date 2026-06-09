@@ -1,0 +1,72 @@
+[
+  {
+    "id": "remuneration-sncf-2020",
+    "year": "2020",
+    "type": "income",
+    "label": "Rémunération nette de président du groupe SNCF",
+    "amount": "≈ 392 964 € net (presse, à confirmer sur la déclaration HATVP)",
+    "detail": "Revenu net perçu en 2020 à la tête de la SNCF, tel que rapporté par la presse à partir de la déclaration d'intérêts HATVP. La rémunération de PDG de la SNCF était plafonnée par l'État (autour de 450 000 € brut/an).",
+    "source_url": [
+      "https://www.parlons-politique.fr/actualite-nationale/patrimoine-des-ministres-ce-que-les-declarations-hatvp-revelent-sur-largent-les-dettes-et-les-conflits-dinterets_14366/",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  },
+  {
+    "id": "remuneration-sncf-2024",
+    "year": "2024",
+    "type": "income",
+    "label": "Rémunération nette de président du groupe SNCF",
+    "amount": "≈ 379 991 € net (presse, à confirmer sur la déclaration HATVP)",
+    "detail": "Revenu net perçu en 2024 à la tête de la SNCF, tel que rapporté par la presse à partir de la déclaration d'intérêts HATVP. La presse cite des revenus annuels de l'ordre de 380 000 € net sur la période 2020-2024.",
+    "source_url": [
+      "https://www.parlons-politique.fr/actualite-nationale/patrimoine-des-ministres-ce-que-les-declarations-hatvp-revelent-sur-largent-les-dettes-et-les-conflits-dinterets_14366/",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  },
+  {
+    "id": "plafond-remuneration-sncf-brut",
+    "year": "2024",
+    "type": "income_cap",
+    "label": "Plafond de rémunération brute de PDG de la SNCF",
+    "amount": "≈ 450 000 € brut/an (part fixe ≈ 370 000 €, part variable ≈ 80 000 €)",
+    "detail": "La rémunération du dirigeant de la SNCF, entreprise publique, était encadrée par l'État. Source presse ; certains médias citent des chiffres légèrement différents (jusqu'à 500 000 €).",
+    "source_url": [
+      "https://www.moneyvox.fr/votre-argent/actualites/105492/jean-pierre-farandou-pourquoi-le-salaire-du-nouveau-ministre-du-travail-va-etre-divise-par-trois"
+    ]
+  },
+  {
+    "id": "remuneration-ministre-2025",
+    "year": "2025",
+    "type": "income",
+    "label": "Rémunération de ministre du Travail et des Solidarités",
+    "amount": "≈ 10 692 € brut/mois",
+    "detail": "En devenant ministre, sa rémunération a été divisée par plus de trois par rapport à son salaire de PDG de la SNCF, selon la presse.",
+    "source_url": [
+      "https://www.moneyvox.fr/votre-argent/actualites/105492/jean-pierre-farandou-pourquoi-le-salaire-du-nouveau-ministre-du-travail-va-etre-divise-par-trois"
+    ]
+  },
+  {
+    "id": "emprunt-immobilier",
+    "year": "2026",
+    "type": "liability",
+    "label": "Emprunt en cours",
+    "amount": "≈ 150 000 € (capital restant dû, presse)",
+    "detail": "Sa déclaration de patrimoine HATVP fait état d'un emprunt en cours d'environ 150 000 €, selon la presse.",
+    "source_url": [
+      "https://www.parlons-politique.fr/actualite-nationale/patrimoine-des-ministres-ce-que-les-declarations-hatvp-revelent-sur-largent-les-dettes-et-les-conflits-dinterets_14366/",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  },
+  {
+    "id": "actifs-financiers-assurance-vie",
+    "year": "2026",
+    "type": "financial_assets",
+    "label": "Placements financiers et assurance-vie",
+    "amount": "Plusieurs contrats / placements (montants non précisés publiquement)",
+    "detail": "La déclaration de patrimoine HATVP mentionne plusieurs placements financiers et contrats d'assurance-vie, sans montant détaillé repris publiquement par la presse. À vérifier sur le document HATVP officiel.",
+    "source_url": [
+      "https://www.parlons-politique.fr/actualite-nationale/patrimoine-des-ministres-ce-que-les-declarations-hatvp-revelent-sur-largent-les-dettes-et-les-conflits-dinterets_14366/",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ena-1999",
+    "institution": "École nationale d'administration (ENA)",
+    "qualification": "Graduate (haut fonctionnaire)",
+    "field": "Public administration",
+    "years": "1997-1999",
+    "detail": "Graduated from the ENA in 1999, the principal training school for senior French civil servants.",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.interieur.gouv.fr/ministres/laurent-nunez"]
+  },
+  {
+    "id": "university-tours-dess",
+    "institution": "University of Tours",
+    "qualification": "Diplôme d'études supérieures spécialisées (DESS)",
+    "field": "Public management",
+    "years": "",
+    "detail": "Studied public management at the University of Tours before joining the French civil service in 1989.",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "finapa-remuneration-gerant-2024",
+    "year": "2024",
+    "type": "Rémunération (gérance)",
+    "label": "Rémunération de gérant de la holding FINAPA",
+    "amount": "48 000 €",
+    "detail": "Rémunération nette annuelle de gérant de FINAPA, sa holding personnelle (48 000 € nets par an de 2019 à 2024, 36 000 € en 2025). Déclaration HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "finapa-pp-dividendes-2025",
+    "year": "2025",
+    "type": "Dividendes",
+    "label": "Dividendes FINAPA (pleine propriété)",
+    "amount": "293 648 €",
+    "detail": "Dividendes perçus en juillet 2025 au titre de sa participation en pleine propriété (85,12 %) dans FINAPA. Déclaration HATVP de modification substantielle déposée le 17 février 2026.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "finapa-us-dividendes-2025",
+    "year": "2025",
+    "type": "Dividendes",
+    "label": "Dividendes FINAPA (usufruit)",
+    "amount": "51 344 €",
+    "detail": "Dividendes perçus en juillet 2025 au titre de l'usufruit (14,88 %) dans FINAPA. Déclaration HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "auchan-jetons-presence-2024",
+    "year": "2024",
+    "type": "Rémunération (mandat d'administrateur)",
+    "label": "Rémunération de membre du conseil d'administration d'Auchan Retail International",
+    "amount": "32 500 €",
+    "detail": "Rémunération nette de 32 500 € en 2024 et en 2025 comme administrateur d'Auchan Retail International (mandat 01/2023-05/2025 ; 0 € en 2023). Déclaration HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "la-pree-dg-2019",
+    "year": "2019",
+    "type": "Rémunération (direction)",
+    "label": "Rémunération de directeur général de LA PREE",
+    "amount": "6 096 €",
+    "detail": "Rémunération nette déclarée pour la fonction de directeur général de la société LA PREE (01/2019-03/2019). Déclaration HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "passif-emprunt-immobilier-2020",
+    "year": "2020",
+    "type": "Passif / dette",
+    "label": "Emprunt bancaire immobilier (Crédit Agricole Atlantique)",
+    "amount": "168 600 € (capital emprunté ; reste dû ~113 665 €)",
+    "detail": "Emprunt bancaire contracté le 28/09/2020 pour une acquisition immobilière : montant total 168 600 €, mensualités 1 017 €, durée 180 mois, somme restant à rembourser environ 113 665 €. Déclaration HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  }
+]

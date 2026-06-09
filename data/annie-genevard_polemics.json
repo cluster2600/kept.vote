@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pressions-rapport-pesticides-2025",
+    "title": "Accusations de pressions sur le rapport du Haut-Commissariat au Plan sur les pesticides",
+    "period": "2025-2026",
+    "category": "Intégrité scientifique / Conflit institutionnel",
+    "description": "Des chercheurs et autrices d'un rapport du Haut-Commissariat au Plan (sous l'autorité de Clément Beaune) ont dénoncé des pressions, menaces de sanctions et demandes de réécriture visant à atténuer le volet pesticides, attribuées notamment au ministère de l'Agriculture dirigé par Annie Genevard. Un collectif de 24 associations (dont Générations Futures et Secrets Toxiques) a adressé le 6 novembre 2025 une lettre ouverte au Premier ministre, demandant le remplacement immédiat de la ministre par une personnalité indépendante. Quatre membres du conseil scientifique ont publié un commentaire critique dénonçant des 'amendements imposés' et des 'menaces de sanction'.",
+    "status": "Controverse / allégations rapportées par la presse et des ONG; aucune procédure judiciaire publiquement établie; la ministre est restée en fonction.",
+    "confidence_score": "0.75",
+    "key_facts": [
+      "Lettre ouverte de 24 associations au Premier ministre datée du 6 novembre 2025",
+      "Demande de démission/remplacement de la ministre formulée par les associations",
+      "Allégations de menaces de sanctions et de saisines RH contre les autrices du rapport",
+      "Désaccord chiffré sur les montants alloués à la réduction des pesticides (700 M€ vs 2 Md€)",
+      "Ministre maintenue en fonction"
+    ],
+    "source_url": ["https://reporterre.net/Pesticides-des-scientifiques-denoncent-des-pressions-du-gouvernement", "https://www.generations-futures.fr/actualites/pesticides-pression-genevard/", "https://www.actu-environnement.com/dit-aujourdhui/1734.html"]
+  },
+  {
+    "id": "derogations-pesticides-2026",
+    "title": "Multiplication des dérogations à l'usage de pesticides",
+    "period": "2025-2026",
+    "category": "Politique environnementale / Santé publique",
+    "description": "Des ONG environnementales reprochent à la ministre une politique favorable à l'usage des pesticides, résumée par la formule 'pas d'interdiction sans solution'. Selon Générations Futures, entre le 1er janvier et le 3 juin 2026, le ministère aurait accordé 88 nouvelles dérogations, dont des autorisations pour des herbicides à base de triallate jugés dangereux pour la santé et l'environnement.",
+    "status": "Critiques d'ONG et débat de politique publique; décisions administratives relevant du pouvoir réglementaire du ministère; aucune illégalité judiciairement établie.",
+    "confidence_score": "0.6",
+    "key_facts": [
+      "Position publique 'pas d'interdiction sans solution'",
+      "Chiffre de 88 dérogations entre janvier et juin 2026 avancé par une ONG",
+      "Critiques portant sur des herbicides à base de triallate",
+      "Décisions contestées par des associations environnementales"
+    ],
+    "source_url": ["https://www.generations-futures.fr/actualites/genevard-derogation-pesticides-trialatte/", "https://www.agriculture-environnement.fr/2026/02/12/fausse-bonne-idee-annie-genevard-pesticides-importation"]
+  },
+  {
+    "id": "loi-duplomb-censure-2025",
+    "title": "Soutien à la loi Duplomb partiellement censurée par le Conseil constitutionnel",
+    "period": "2025",
+    "category": "Législation / Environnement",
+    "description": "Annie Genevard a défendu, en tant que ministre, la loi Duplomb prévoyant la réintroduction dérogatoire de l'acétamipride. Le texte a suscité une pétition citoyenne dépassant 2,1 millions de signatures. Le 7 août 2025, le Conseil constitutionnel a censuré la disposition relative à l'acétamipride, la jugeant contraire à la Charte de l'environnement.",
+    "status": "Censure constitutionnelle partielle établie (décision n° 2025-891 DC du 7 août 2025); reste du texte promulgué.",
+    "confidence_score": "0.9",
+    "key_facts": [
+      "Pétition citoyenne de plus de 2,1 millions de signatures",
+      "Censure de la réintroduction de l'acétamipride le 7 août 2025",
+      "Décision du Conseil constitutionnel n° 2025-891 DC",
+      "Texte défendu par la ministre au nom du gouvernement"
+    ],
+    "source_url": ["https://fr.wikipedia.org/wiki/Loi_Duplomb", "https://lcp.fr/actualites/loi-agricole-duplomb-le-conseil-constitutionnel-censure-la-reintroduction-de-l"]
+  }
+]

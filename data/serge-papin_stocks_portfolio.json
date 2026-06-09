@@ -1,0 +1,52 @@
+[
+  {
+    "id": "compte-titre-credit-agricole",
+    "holding": "Compte-titres Crédit Agricole Atlantique",
+    "type": "Compte-titres / valeurs mobilières",
+    "value": "584 €",
+    "as_of": "2026 (déclaration HATVP du 17 février 2026)",
+    "detail": "Compte-titres correspondant à des parts sociales de Crédit Agricole souscrites à l'ouverture du compte (384 parts).",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "compte-titre-societe-generale-fcpi",
+    "holding": "Compte-titres Société Générale (FCPI Truffle InnoCroissance)",
+    "type": "Compte-titres / fonds (FCPI)",
+    "value": "5 083 €",
+    "as_of": "2026 (déclaration HATVP du 17 février 2026)",
+    "detail": "Compte-titres Société Générale comprenant 180 parts du FCPI Truffle InnoCroissance.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "assurance-vie-predica",
+    "holding": "Assurance-vie Predica (Crédit Agricole)",
+    "type": "Assurance-vie",
+    "value": "567 673 €",
+    "as_of": "2026 (déclaration HATVP du 17 février 2026)",
+    "detail": "Contrat d'assurance-vie souscrit le 27/05/2013, principale assurance-vie déclarée.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "assurance-vie-afer",
+    "holding": "Assurance-vie AFER",
+    "type": "Assurance-vie",
+    "value": "1 117 €",
+    "as_of": "2026 (déclaration HATVP du 17 février 2026)",
+    "detail": "Contrat d'assurance-vie AFER souscrit le 02/08/2010.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "assurance-vie-axa",
+    "holding": "Assurance-vie AXA",
+    "type": "Assurance-vie",
+    "value": "2 919 €",
+    "as_of": "2026 (déclaration HATVP du 17 février 2026)",
+    "detail": "Contrat d'assurance-vie AXA souscrit le 10/08/2010.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  }
+]

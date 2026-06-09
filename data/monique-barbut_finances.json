@@ -1,0 +1,56 @@
+[
+  {
+    "id": "patrimoine-total-2026",
+    "year": "2026",
+    "type": "net_worth_estimate",
+    "label": "Patrimoine total estimé (déclaration HATVP)",
+    "amount": "≈ 3 000 000 EUR",
+    "detail": "Estimation issue de l'analyse de presse de la déclaration de patrimoine déposée à la HATVP à l'occasion de son entrée au gouvernement : appartement parisien (~2,2 M€), parts de SCI (583 000 €), portefeuille d'actions (~153 000 €), diamant (30 000 €). Montant agrégé, non un chiffre officiel unique publié par la HATVP.",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/", "https://www.cnews.fr/france/2026-04-22/patrimoine-des-ministres-diamant-appartements-plusieurs-millions-comptes"]
+  },
+  {
+    "id": "appartement-paris-2026",
+    "year": "2026",
+    "type": "real_estate_asset",
+    "label": "Appartement à Paris (220 m²)",
+    "amount": "≈ 2 200 000 EUR",
+    "detail": "Appartement parisien d'environ 220 m² déclaré à la HATVP, valorisé autour de 2,2 millions d'euros.",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  },
+  {
+    "id": "sci-santa-villa-lucia-2026",
+    "year": "2026",
+    "type": "real_estate_asset",
+    "label": "Parts de la SCI Santa Villa Lucia (maison à Sainte-Maxime)",
+    "amount": "583 000 EUR",
+    "detail": "Parts détenues dans la SCI Santa Villa Lucia, propriétaire d'une maison estimée à 1,2 M€ à Sainte-Maxime (Var).",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  },
+  {
+    "id": "portefeuille-actions-pea-2026",
+    "year": "2026",
+    "type": "securities",
+    "label": "Portefeuille d'actions (PEA) — 27 sociétés",
+    "amount": "≈ 153 362 EUR",
+    "detail": "Plus de 150 000 € d'actions dans 27 grandes entreprises cotées, logées dans un plan d'épargne en actions (PEA) confié à un mandat de gestion sans droit de regard pendant son mandat. Chiffres arrêtés au 12 octobre 2025.",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  },
+  {
+    "id": "diamant-solitaire-2026",
+    "year": "2026",
+    "type": "valuable_asset",
+    "label": "Diamant solitaire",
+    "amount": "30 000 EUR",
+    "detail": "Diamant solitaire de 30 000 € déclaré au titre des biens divers / objets de valeur.",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/", "https://www.cnews.fr/france/2026-04-22/patrimoine-des-ministres-diamant-appartements-plusieurs-millions-comptes"]
+  },
+  {
+    "id": "consultance-veolia-2023-2024",
+    "year": "2024",
+    "type": "income",
+    "label": "Revenus de consultance — Veolia Environnement",
+    "amount": "2 500 EUR (2023) + 3 000 EUR (2024)",
+    "detail": "Rémunérations déclarées à la HATVP au titre d'une activité de consultant / participation à des groupes de réflexion chez Veolia (janvier 2023 - décembre 2024).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743", "https://vert.eco/archive/exclusif-monique-barbut-largent-secret"]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "univ-paris-dea-eco",
+    "institution": "Université de Paris",
+    "qualification": "Diplôme d'études approfondies (DEA) — Master of Philosophy",
+    "field": "Sciences économiques",
+    "years": "n.c.",
+    "detail": "DEA de sciences économiques (équivalent Master of Philosophy in Economics dans les sources anglophones).",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://en.wikipedia.org/wiki/Monique_Barbut"]
+  },
+  {
+    "id": "univ-paris-licence-anglais",
+    "institution": "Université de Paris",
+    "qualification": "Licence — Bachelor of Arts",
+    "field": "Anglais",
+    "years": "n.c.",
+    "detail": "Licence d'anglais (Bachelor of Arts in English).",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://en.wikipedia.org/wiki/Monique_Barbut"]
+  }
+]

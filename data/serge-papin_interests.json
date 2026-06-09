@@ -1,0 +1,32 @@
+[
+  {
+    "id": "deport-auchan-decret-2026",
+    "item": "Déport imposé sur les dossiers concernant le groupe Auchan",
+    "type": "Mesure de prévention des conflits d'intérêts (décret de déport)",
+    "period": "2026 (en fonction)",
+    "value": "Non chiffrable",
+    "detail": "Serge Papin fait partie des quatorze ministres du gouvernement Lecornu visés par un décret de déport. Ancien membre du conseil d'administration et président non exécutif d'Auchan jusqu'en mai 2025, il ne peut intervenir sur les dossiers relatifs aux sociétés du groupe Auchan.",
+    "status": "Mesure officielle (décret de déport / HATVP)",
+    "source_url": ["https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains", "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "conjoint-activite-coach-2026",
+    "item": "Activité professionnelle de la conjointe : coach professionnel et médiatrice (entrepreneur individuel)",
+    "type": "Intérêt déclaré (activité du conjoint)",
+    "period": "à la date de la nomination (2025-2026)",
+    "value": "Non chiffrée",
+    "detail": "La conjointe de Serge Papin exerce comme coach professionnelle et médiatrice sous le statut d'entrepreneur individuel. Mention figurant à la rubrique 5° de la déclaration d'intérêts (régime matrimonial : séparation de biens).",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "manifeste-osons-demain",
+    "item": "Manifeste « Osons Demain, pour la transition écologique des entreprises »",
+    "type": "Engagement / initiative (avant la nomination)",
+    "period": "lancé fin années 2010 - 2020s",
+    "value": "Non applicable",
+    "detail": "Manifeste de chefs d'entreprise en faveur de la transition écologique lancé par Serge Papin, revendiquant plus de 500 signatures. Engagement public reflétant son positionnement sur la consommation responsable.",
+    "status": "Engagement public (hors déclaration HATVP)",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin", "https://www.les-sommets.fr/speakers/serge-papin/"]
+  }
+]

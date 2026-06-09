@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ministre-le-plus-fortune-2026",
+    "title": "Ministre le plus fortuné du gouvernement Lecornu (patrimoine ~8,5 M€)",
+    "period": "avril 2026",
+    "category": "Transparence patrimoniale / image publique",
+    "description": "Lors de la publication par la HATVP des déclarations de patrimoine des membres du gouvernement (avril 2026), Serge Papin apparaît comme le ministre le plus fortuné, avec un patrimoine estimé par la presse à plus de 8,5 millions d'euros, reposant principalement sur sa holding FINAPA (plus de 7,1 M€) et un appartement en Charente-Maritime. Le contraste avec son portefeuille ministériel (commerce, PME, pouvoir d'achat) a été commenté par les médias et observateurs. Aucune irrégularité n'a été relevée : les déclarations sont conformes et publiées dans le cadre légal.",
+    "status": "Pas une affaire judiciaire ni administrative ; déclaration HATVP régulière et publique ; controverse de nature médiatique/politique",
+    "confidence_score": "0.9",
+    "key_facts": [
+      "Patrimoine estimé par la presse à plus de 8,5 M€, soit le plus élevé du gouvernement Lecornu.",
+      "Cœur du patrimoine : holding FINAPA évaluée à plus de 7,1 M€.",
+      "Déclarations HATVP conformes ; aucune procédure ni sanction.",
+      "Couverture par LSA, CNews, So Busy Girls et autres médias en avril 2026."
+    ],
+    "source_url": ["https://www.lsa-conso.fr/ex-patron-de-cooperative-u-le-ministre-du-commerce-serge-papin-capitalise-sur-une-holding-a-7-m,465454", "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "deport-auchan-conflit-interets-2026",
+    "title": "Déport obligatoire sur les dossiers Auchan",
+    "period": "2026",
+    "category": "Prévention des conflits d'intérêts",
+    "description": "En raison de ses fonctions récentes d'administrateur puis de président non exécutif d'Auchan (jusqu'en mai 2025), Serge Papin figure parmi les quatorze ministres du gouvernement Lecornu visés par un décret de déport publié sur recommandation de la HATVP. Il ne peut traiter aucun dossier concernant les sociétés du groupe Auchan. Il s'agit d'une mesure préventive de droit commun, et non d'une mise en cause personnelle.",
+    "status": "Mesure administrative préventive (décret de déport) ; aucune faute ni procédure ; relevé par la HATVP et la presse",
+    "confidence_score": "0.95",
+    "key_facts": [
+      "Décret de déport visant 14 ministres, dont Serge Papin.",
+      "Objet du déport : tous les dossiers relatifs au groupe Auchan.",
+      "Motif : mandats d'administrateur/président non exécutif d'Auchan jusqu'en mai 2025.",
+      "Mesure de prévention, sans constat d'irrégularité."
+    ],
+    "source_url": ["https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains", "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  }
+]

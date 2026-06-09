@@ -1,0 +1,20 @@
+[
+  {
+    "id": "college-saint-joseph-fontenay",
+    "institution": "Collège Saint-Joseph, Fontenay-le-Comte (Vendée)",
+    "qualification": "Scolarité secondaire",
+    "field": "Enseignement général",
+    "years": "années 1960-1970",
+    "detail": "Études au collège Saint-Joseph de Fontenay-le-Comte, en Vendée.",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin"]
+  },
+  {
+    "id": "bep-commerce",
+    "institution": "Formation professionnelle (Vendée)",
+    "qualification": "BEP Commerce",
+    "field": "Commerce et comptabilité",
+    "years": "années 1970",
+    "detail": "Études professionnelles en comptabilité et commerce, sanctionnées par un BEP Commerce. Serge Papin ne revendique pas de formation en grande école et met en avant un parcours autodidacte parti du terrain.",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin"]
+  }
+]

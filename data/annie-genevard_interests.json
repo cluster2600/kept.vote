@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sg-lr-interest",
+    "item": "Secrétaire générale du parti Les Républicains",
+    "type": "Fonction partisane (déclarée intérêts)",
+    "period": "2023-06 à 2025",
+    "value": "0 € (non rémunérée)",
+    "detail": "Fonction de secrétaire générale de LR déclarée à la HATVP, sans rémunération.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "presidente-conseil-national-lr",
+    "item": "Présidente du conseil national des Républicains puis présidente par intérim",
+    "type": "Fonction partisane (déclarée intérêts)",
+    "period": "2019-11 à 2023-06",
+    "value": "0 € (non rémunérée)",
+    "detail": "Présidente du conseil national du parti (2019-2022) puis présidente par intérim du parti (2022-2023), fonctions déclarées non rémunérées.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "cnm-interest",
+    "item": "Présidente de la commission permanente du Conseil national de la montagne",
+    "type": "Mandat dans organisme public (déclaré intérêts)",
+    "period": "2021-03 à 2024-08",
+    "value": "0 € (non rémunérée)",
+    "detail": "Participation à l'organe dirigeant du Conseil national de la montagne, déclarée à la HATVP, non rémunérée.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "anct-interest",
+    "item": "Membre du conseil d'administration de l'ANCT",
+    "type": "Mandat dans organisme public (déclaré intérêts)",
+    "period": "2022-09 à 2024-06",
+    "value": "0 € (non rémunérée)",
+    "detail": "Membre du conseil d'administration de l'Agence nationale de la cohésion des territoires (ANCT), déclarée non rémunérée.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "conjoint-retraite",
+    "item": "Activité professionnelle du conjoint",
+    "type": "Intérêt familial (déclaré intérêts)",
+    "period": "2025",
+    "value": "non communiqué",
+    "detail": "Le conjoint, Dominique Genevard, est déclaré retraité dans la déclaration d'intérêts.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  }
+]

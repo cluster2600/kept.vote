@@ -1,0 +1,12 @@
+[
+  {
+    "id": "no-company-participations",
+    "entity": "Aucune participation financière directe au capital d'une société",
+    "role": "Néant",
+    "ownership_stake": "0 %",
+    "period": "2025",
+    "status": "none declared",
+    "detail": "La déclaration HATVP (rubriques 4° intérêts et 2°/3° patrimoine) ne mentionne aucune participation financière directe au capital d'une société, ni part de SCI, ni valeur mobilière non cotée.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  }
+]

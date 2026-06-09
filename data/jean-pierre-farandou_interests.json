@@ -1,0 +1,51 @@
+[
+  {
+    "id": "deport-sncf",
+    "item": "Déport des dossiers liés au groupe SNCF",
+    "type": "conflict_of_interest_recusal",
+    "period": "À partir d'octobre 2025",
+    "value": "Sans objet",
+    "detail": "Ancien président du groupe SNCF (2019-2025), le ministre se déporte des dossiers concernant les sociétés du groupe SNCF, ces dossiers étant confiés au Premier ministre. Déport formalisé par décret publié au Journal officiel (novembre 2025).",
+    "status": "active",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html",
+      "https://www.ville-rail-transports.com/politique-transports/jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf/"
+    ]
+  },
+  {
+    "id": "deport-la-poste",
+    "item": "Déport des dossiers liés au groupe La Poste",
+    "type": "conflict_of_interest_recusal",
+    "period": "À partir d'octobre 2025",
+    "value": "Sans objet",
+    "detail": "Ancien administrateur du groupe La Poste, le ministre se déporte des dossiers concernant les sociétés du groupe La Poste.",
+    "status": "active",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+    ]
+  },
+  {
+    "id": "deport-fer-de-france",
+    "item": "Déport des dossiers liés à Fer de France",
+    "type": "conflict_of_interest_recusal",
+    "period": "À partir d'octobre 2025",
+    "value": "Sans objet",
+    "detail": "Président de Fer de France (association de la filière ferroviaire) élu en 2023, le ministre se déporte des dossiers liés à cette association.",
+    "status": "active",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+    ]
+  },
+  {
+    "id": "deport-uside",
+    "item": "Déport des dossiers liés à Uside",
+    "type": "conflict_of_interest_recusal",
+    "period": "À partir d'octobre 2025",
+    "value": "Sans objet",
+    "detail": "Le décret de déport mentionne expressément Uside parmi les entités dont le ministre ne traitera pas les dossiers.",
+    "status": "active",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "legion-honneur-commandeur-2025",
+    "honor": "Commander of the Legion of Honour (Commandeur de la Légion d'honneur)",
+    "awarded_by": "President of the French Republic",
+    "year": "2025",
+    "detail": "Promoted to Commander by exceptional promotion, decree of 29 January 2025. Previously made Officer of the Legion of Honour on 1 July 2021.",
+    "source_url": ["https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051058582", "https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  },
+  {
+    "id": "ordre-merite-officier-2015",
+    "honor": "Officer of the National Order of Merit (Officier de l'Ordre national du Mérite)",
+    "awarded_by": "President of the French Republic",
+    "year": "2015",
+    "detail": "Promoted to Officer of the Ordre national du Mérite by decree of 15 May 2015 (published JO 16 May 2015).",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000023897144"]
+  },
+  {
+    "id": "police-honour-medal-gold-2024",
+    "honor": "Honour Medal of the National Police, Gold (Médaille d'honneur de la police nationale, échelon or)",
+    "awarded_by": "Ministry of the Interior (France)",
+    "year": "2024",
+    "detail": "Awarded the gold-grade Honour Medal of the National Police, per the Bulletin officiel des décorations No. 06 of 9 December 2024.",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.legifrance.gouv.fr/liste/bodmr"]
+  },
+  {
+    "id": "aztec-eagle-2016",
+    "honor": "Order of the Aztec Eagle (Insignia rank)",
+    "awarded_by": "President of Mexico (Enrique Peña Nieto)",
+    "year": "2016",
+    "detail": "Awarded by Mexico on 26 September 2016, among 31 French citizens honoured (Official Journal of the Federation, Mexico).",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.dof.gob.mx/nota_detalle.php?codigo=5453730&fecha=26/09/2016"]
+  }
+]

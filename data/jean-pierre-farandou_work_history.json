@@ -1,0 +1,141 @@
+[
+  {
+    "id": "amax-denver-1979",
+    "role": "Cadre (début de carrière)",
+    "organization": "Amax (société minière américaine), bureau de Denver, Colorado",
+    "start_date": "1979",
+    "end_date": "1981",
+    "description": "Premières expériences professionnelles aux États-Unis, au sein du groupe minier américain Amax, avant son entrée à la SNCF.",
+    "category": "private_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou",
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "sncf-debuts-1981",
+    "role": "Diverses fonctions opérationnelles et de direction (production, marketing, chef de projet TGV Nord)",
+    "organization": "SNCF",
+    "start_date": "1981",
+    "end_date": "1993",
+    "description": "Entré à la SNCF en 1981, il occupe diverses fonctions dans la production et le marketing, puis est nommé en 1993 chef de projet chargé du lancement de la ligne TGV Paris-Lille (TGV Nord).",
+    "category": "public_sector",
+    "source_url": [
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou",
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou"
+    ]
+  },
+  {
+    "id": "thalys-dg-1993",
+    "role": "Directeur général de Thalys International",
+    "organization": "Thalys International (Bruxelles)",
+    "start_date": "1993",
+    "end_date": "1998",
+    "description": "Pose les bases juridiques de Thalys International à Bruxelles et en assure la direction générale.",
+    "category": "public_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou",
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "sncf-rh-grandes-lignes-1998",
+    "role": "Directeur des RH d'encadrement, puis directeur délégué Grandes Lignes",
+    "organization": "SNCF",
+    "start_date": "1998",
+    "end_date": "2002",
+    "description": "Directeur des ressources humaines de l'encadrement (1998-2000) puis directeur délégué des Grandes Lignes (2000-2002).",
+    "category": "public_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou"
+    ]
+  },
+  {
+    "id": "sncf-rhone-alpes-keolis-lyon-2002",
+    "role": "Directeur régional Rhône-Alpes puis directeur général de Keolis Lyon",
+    "organization": "SNCF / Keolis Lyon",
+    "start_date": "2002",
+    "end_date": "2006",
+    "description": "Directeur régional pour Rhône-Alpes (premier réseau TER de France), puis directeur général de Keolis Lyon, exploitant des réseaux de bus, métro et tramway de l'agglomération lyonnaise.",
+    "category": "public_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou"
+    ]
+  },
+  {
+    "id": "sncf-proximites-2006",
+    "role": "Directeur de la branche SNCF Proximités",
+    "organization": "SNCF",
+    "start_date": "2006-10",
+    "end_date": "2012-08",
+    "description": "Dirige la branche SNCF Proximités, regroupant Transilien, TER, Intercités ainsi que le groupe Keolis/Effia.",
+    "category": "public_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou",
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "keolis-president-directoire-2012",
+    "role": "Président du directoire de Keolis",
+    "organization": "Keolis (filiale du groupe SNCF)",
+    "start_date": "2012-08-07",
+    "end_date": "2019-11",
+    "description": "Président du directoire de Keolis, opérateur international de transport public urbain et interurbain, filiale du groupe SNCF.",
+    "category": "public_sector",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou",
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "sncf-president-2019",
+    "role": "Président du directoire puis président-directeur général du groupe SNCF",
+    "organization": "SNCF (Société nationale SNCF)",
+    "start_date": "2019-11-01",
+    "end_date": "2025-10",
+    "description": "Président du groupe SNCF, nommé par décret du 9 octobre 2019 (prise de fonction le 1er novembre 2019), succédant à Guillaume Pepy. Dirige la transformation du groupe pendant l'ouverture à la concurrence du transport ferroviaire.",
+    "category": "public_sector",
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039196530",
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "fer-de-france-president-2023",
+    "role": "Président de Fer de France",
+    "organization": "Fer de France (association de la filière ferroviaire)",
+    "start_date": "2023-02",
+    "end_date": "2025",
+    "description": "Élu en février 2023 pour trois ans à la tête de Fer de France, association regroupant les acteurs de la filière ferroviaire française. Dossier dont il se déporte en tant que ministre.",
+    "category": "association",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+    ]
+  },
+  {
+    "id": "la-poste-administrateur-2025",
+    "role": "Administrateur du groupe La Poste",
+    "organization": "Groupe La Poste",
+    "start_date": "2025",
+    "end_date": "2025",
+    "description": "Administrateur du groupe La Poste à partir de 2025. Dossier dont il se déporte en tant que ministre.",
+    "category": "public_sector",
+    "source_url": [
+      "https://www.ville-rail-transports.com/politique-transports/jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf/"
+    ]
+  },
+  {
+    "id": "ministre-travail-2025",
+    "role": "Ministre du Travail et des Solidarités",
+    "organization": "Gouvernement français (gouvernements Lecornu I et II)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Nommé ministre du Travail et des Solidarités le 12 octobre 2025 dans le second gouvernement Lecornu, et maintenu à ce poste lors du remaniement du 26 février 2026. En charge du travail, de l'emploi, de l'insertion, de l'apprentissage, de la formation professionnelle et des solidarités.",
+    "category": "government",
+    "source_url": [
+      "https://travail-emploi.gouv.fr/jean-pierre-farandou-ministre-du-travail-et-des-solidarites",
+      "https://www.vie-publique.fr/en-bref/302256-remaniement-le-gouvernement-de-sebastien-lecornu-26-fevrier-2026"
+    ]
+  }
+]

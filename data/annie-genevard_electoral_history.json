@@ -1,0 +1,57 @@
+[
+  {
+    "id": "municipale-2002",
+    "election": "Élection municipale de Morteau",
+    "date": "2002",
+    "role_sought": "Maire de Morteau",
+    "result": "Élue",
+    "vote_share": "non communiqué",
+    "opponent": "non communiqué",
+    "detail": "Devient maire de Morteau en 2002, succédant à Jean-Marie Binetruy. Réélue en 2008 et 2014.",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard"]
+  },
+  {
+    "id": "legislative-2012",
+    "election": "Élection législative (14e législature)",
+    "date": "2012-06-17",
+    "role_sought": "Députée de la 5e circonscription du Doubs",
+    "result": "Élue",
+    "vote_share": "62,54 % (2nd tour)",
+    "opponent": "Liliane Lucchesi (PS)",
+    "detail": "Première élection à l'Assemblée nationale. Arrivée en tête au 1er tour avec environ 40 %, elle l'emporte au 2nd tour avec 62,54 % des suffrages, succédant à Jean-Marie Binetruy.",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard", "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605991"]
+  },
+  {
+    "id": "legislative-2017",
+    "election": "Élection législative (15e législature)",
+    "date": "2017-06-18",
+    "role_sought": "Députée de la 5e circonscription du Doubs",
+    "result": "Réélue",
+    "vote_share": "60 % (2nd tour)",
+    "opponent": "non communiqué",
+    "detail": "Réélue avec environ 60 % des suffrages (21 812 voix). Seule rescapée Les Républicains dans le Doubs. Devient première vice-présidente de l'Assemblée nationale en novembre 2017.",
+    "source_url": ["https://www.francebleu.fr/infos/politique/legislatives-annie-genevard-seule-rescapee-les-republicains-dans-le-doubs-1497826248", "https://en.wikipedia.org/wiki/Annie_Genevard"]
+  },
+  {
+    "id": "legislative-2022",
+    "election": "Élection législative (16e législature)",
+    "date": "2022-06-19",
+    "role_sought": "Députée de la 5e circonscription du Doubs",
+    "result": "Réélue",
+    "vote_share": "72 % (2nd tour)",
+    "opponent": "non communiqué",
+    "detail": "Premier tour 42,07 %, second tour 72 % (22 678 voix).",
+    "source_url": ["https://www.macommune.info/legislatives-2022-resultats-cinqieme-circonscription-doubs-second-tour/"]
+  },
+  {
+    "id": "legislative-2024",
+    "election": "Élection législative anticipée (17e législature)",
+    "date": "2024-07-07",
+    "role_sought": "Députée de la 5e circonscription du Doubs",
+    "result": "Réélue",
+    "vote_share": "62,69 % (2nd tour)",
+    "opponent": "Candidat Rassemblement national",
+    "detail": "Premier tour 35,20 %, second tour 62,69 %. Talonnée par le RN au premier tour mais réélue, faisant mieux qu'en 2022 au second tour. Siège ensuite suspendu du fait de ses fonctions ministérielles (suppléant Éric Liégeon).",
+    "source_url": ["https://www.macommune.info/legislatives-2024-les-resultats-dans-la-5e-circonscription-du-doubs/", "https://hebdo25.net/haut-doubs-reelue-annie-genevard-fait-mieux-quen-2022/"]
+  }
+]

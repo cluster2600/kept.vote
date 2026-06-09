@@ -1,0 +1,92 @@
+[
+  {
+    "id": "remuneration-deputee-2020",
+    "year": "2020",
+    "type": "Rémunération mandat",
+    "label": "Indemnité de députée du Doubs",
+    "amount": "82 432 € (net)",
+    "detail": "Rémunération déclarée à la HATVP au titre du mandat de députée.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "remuneration-deputee-2021",
+    "year": "2021",
+    "type": "Rémunération mandat",
+    "label": "Indemnité de députée du Doubs",
+    "amount": "82 335 € (net)",
+    "detail": "Rémunération déclarée à la HATVP au titre du mandat de députée.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "remuneration-deputee-2022",
+    "year": "2022",
+    "type": "Rémunération mandat",
+    "label": "Indemnité de députée du Doubs",
+    "amount": "77 451 € (net)",
+    "detail": "Rémunération déclarée à la HATVP au titre du mandat de députée.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "remuneration-deputee-2023",
+    "year": "2023",
+    "type": "Rémunération mandat",
+    "label": "Indemnité de députée du Doubs",
+    "amount": "73 698 € (net)",
+    "detail": "Rémunération déclarée à la HATVP au titre du mandat de députée.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "remuneration-deputee-2024",
+    "year": "2024",
+    "type": "Rémunération mandat",
+    "label": "Indemnité de députée du Doubs",
+    "amount": "55 984 € (net)",
+    "detail": "Rémunération de députée jusqu'à la nomination ministérielle de septembre 2024.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "remuneration-ministre-2024",
+    "year": "2024",
+    "type": "Rémunération ministérielle",
+    "label": "Traitement de ministre de l'Agriculture",
+    "amount": "20 259 € (net, gouvernement Barnier) + 2 058 € (net, gouvernement Bayrou)",
+    "detail": "Rémunération ministérielle perçue à compter de la nomination de septembre 2024.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "remuneration-ministre-2025",
+    "year": "2025",
+    "type": "Rémunération ministérielle",
+    "label": "Traitement de ministre de l'Agriculture",
+    "amount": "83 496 € (net) + 3 528 € (net)",
+    "detail": "Traitement ministériel 2025, ventilé entre périodes correspondant aux intitulés successifs du portefeuille.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "assurance-vie-sg-2002",
+    "year": "2025",
+    "type": "Assurance vie",
+    "label": "Contrat d'assurance vie Société Générale",
+    "amount": "182 609 €",
+    "detail": "Contrat souscrit le 25/04/2002. Valeur vénale déclarée dans la DSP du 7 novembre 2025.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "assurance-vie-ebene-2024",
+    "year": "2025",
+    "type": "Assurance vie",
+    "label": "Contrat d'assurance vie Société Générale - EBENE",
+    "amount": "253 183 €",
+    "detail": "Contrat souscrit le 16/04/2024. Valeur vénale déclarée dans la DSP du 7 novembre 2025.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "comptes-epargne-2025",
+    "year": "2025",
+    "type": "Comptes et épargne",
+    "label": "Comptes courants et produits d'épargne (Société Générale, Crédit Mutuel)",
+    "amount": "environ 304 281 € (somme des 9 comptes déclarés)",
+    "detail": "Neuf comptes déclarés dans la DSP du 7 novembre 2025, dont compte d'épargne Livret+ (92 354 €) et compte courant Crédit Mutuel (143 153 €).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "minister-interior-2025",
+    "role": "Minister of the Interior",
+    "organization": "Government of France (Lecornu II cabinet)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Appointed Minister of the Interior, succeeding Bruno Retailleau. Retained the post in the 26 February 2026 reshuffle. Stated priorities: fight against drug trafficking and everyday security.",
+    "category": "government",
+    "source_url": ["https://www.interieur.gouv.fr/ministres/laurent-nunez", "https://www.info.gouv.fr/actualite/la-nouvelle-composition-du-gouvernement-de-sebastien-lecornu", "https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  },
+  {
+    "id": "prefect-police-paris-2022",
+    "role": "Prefect of Police of Paris",
+    "organization": "Préfecture de police de Paris",
+    "start_date": "2022-07-21",
+    "end_date": "2025-10-12",
+    "description": "Headed the Paris police prefecture, succeeding Didier Lallement; oversaw security including the 2024 Paris Olympic Games. Succeeded by Patrice Faure.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.lemonde.fr/m-le-mag/article/2023/04/06/laurent-nunez-un-prefet-de-police-au-garde-a-vous_6168462_4500055.html"]
+  },
+  {
+    "id": "head-cnrlt-2020",
+    "role": "National Coordinator for Intelligence and Counter-Terrorism (head of CNRLT)",
+    "organization": "Coordination nationale du renseignement et de la lutte contre le terrorisme (Élysée)",
+    "start_date": "2020-07-15",
+    "end_date": "2022-07-20",
+    "description": "Headed the Élysée intelligence and counter-terrorism coordination body, succeeding Pierre de Bousquet de Florian.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.lefigaro.fr/politique/laurent-nunez-va-etre-nomme-patron-de-la-task-force-antiterroriste-de-l-elysee-20200715"]
+  },
+  {
+    "id": "secretary-state-interior-2018",
+    "role": "Secretary of State to the Minister of the Interior",
+    "organization": "Government of France (Philippe II cabinet)",
+    "start_date": "2018-10-16",
+    "end_date": "2020-07-06",
+    "description": "Junior minister under Interior Minister Christophe Castaner, responsible notably for coordination of intelligence services and police. Position established for him and abolished after his departure.",
+    "category": "government",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.leparisien.fr/politique/laurent-nunez-l-expert-de-castaner-16-10-2018-7920246.php"]
+  },
+  {
+    "id": "dgsi-director-2017",
+    "role": "Director-General for Internal Security (DGSI)",
+    "organization": "Direction générale de la sécurité intérieure",
+    "start_date": "2017-06-22",
+    "end_date": "2018-10-16",
+    "description": "Appointed head of the DGSI by President Emmanuel Macron, succeeding Patrick Calvar; pursued a policy of 'openness'. Succeeded by Nicolas Lerner.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez", "https://www.lejdd.fr/Societe/laurent-nunez-patron-de-la-dgsi-et-nouvel-homme-fort-du-renseignement-3385250"]
+  },
+  {
+    "id": "police-prefect-bouches-du-rhone-2015",
+    "role": "Police Prefect of Bouches-du-Rhône",
+    "organization": "Préfecture de police des Bouches-du-Rhône (Marseille)",
+    "start_date": "2015",
+    "end_date": "2017",
+    "description": "Police prefect for the Bouches-du-Rhône department, based in Marseille.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  },
+  {
+    "id": "chief-of-staff-paris-police-2012",
+    "role": "Chief of staff (directeur de cabinet), Paris Police Prefecture",
+    "organization": "Préfecture de police de Paris",
+    "start_date": "2012",
+    "end_date": "2015",
+    "description": "Directeur de cabinet at the Paris police prefecture.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  },
+  {
+    "id": "subprefect-bayonne-2010",
+    "role": "Subprefect of the arrondissement of Bayonne",
+    "organization": "Sous-préfecture de Bayonne",
+    "start_date": "2010",
+    "end_date": "2012",
+    "description": "Subprefect for the Bayonne arrondissement.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  },
+  {
+    "id": "chief-of-staff-seine-saint-denis-2008",
+    "role": "Chief of staff (directeur de cabinet) to the prefect of Seine-Saint-Denis",
+    "organization": "Préfecture de Seine-Saint-Denis",
+    "start_date": "2008",
+    "end_date": "2010",
+    "description": "Directeur de cabinet of the prefect of Seine-Saint-Denis.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  },
+  {
+    "id": "civil-service-entry-1989",
+    "role": "Senior civil servant (early prefectoral and administrative posts)",
+    "organization": "French civil service",
+    "start_date": "1989",
+    "end_date": "2008",
+    "description": "Entered the French civil service in 1989; graduated from the École nationale d'administration in 1999 and held a series of administrative and prefectoral posts.",
+    "category": "civil-service",
+    "source_url": ["https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"]
+  }
+]

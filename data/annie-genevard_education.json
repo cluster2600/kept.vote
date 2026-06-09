@@ -1,0 +1,29 @@
+[
+  {
+    "id": "licence-lettres-classiques",
+    "institution": "Université de Franche-Comté, Besançon",
+    "qualification": "Licence",
+    "field": "Lettres classiques",
+    "years": "1970s",
+    "detail": "Études supérieures à l'université de Franche-Comté, où elle obtient une licence de lettres classiques.",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard", "https://agriculture.gouv.fr/annie-genevard-ministre-de-lagriculture-et-de-la-souverainete-alimentaire"]
+  },
+  {
+    "id": "licence-histoire-art",
+    "institution": "Université de Franche-Comté, Besançon",
+    "qualification": "Licence",
+    "field": "Histoire de l'art",
+    "years": "1970s",
+    "detail": "Seconde licence obtenue à l'université de Franche-Comté.",
+    "source_url": ["https://agriculture.gouv.fr/annie-genevard-ministre-de-lagriculture-et-de-la-souverainete-alimentaire"]
+  },
+  {
+    "id": "capes-lettres-classiques",
+    "institution": "Éducation nationale (France)",
+    "qualification": "CAPES de lettres classiques",
+    "field": "Lettres classiques",
+    "years": "1977",
+    "detail": "Reçue au CAPES de lettres classiques en 1977, devenant professeure de français et de latin.",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard", "https://agriculture.gouv.fr/annie-genevard-ministre-de-lagriculture-et-de-la-souverainete-alimentaire"]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "placements-financiers-assurance-vie",
+    "holding": "Placements financiers et contrats d'assurance-vie (non détaillés publiquement)",
+    "type": "Instruments financiers / assurance-vie",
+    "value": "Montants non communiqués publiquement",
+    "as_of": "Déclaration HATVP 2026",
+    "detail": "La déclaration de patrimoine HATVP mentionne plusieurs placements financiers et contrats d'assurance-vie. Aucun détail ligne par ligne (titres précis, valeurs) n'a été repris publiquement par la presse. À vérifier sur le document HATVP officiel.",
+    "status": "declared_press_reported",
+    "source_url": [
+      "https://www.parlons-politique.fr/actualite-nationale/patrimoine-des-ministres-ce-que-les-declarations-hatvp-revelent-sur-largent-les-dettes-et-les-conflits-dinterets_14366/",
+      "https://www.hatvp.fr/consulter-les-declarations/"
+    ]
+  }
+]

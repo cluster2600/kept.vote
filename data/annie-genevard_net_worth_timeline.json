@@ -1,0 +1,18 @@
+[
+  {
+    "id": "net-worth-2025-press-estimate",
+    "year": "2025",
+    "declared_net_worth": "environ 1 108 217 €",
+    "note": "Estimation établie par Le Monde à partir des déclarations de patrimoine et d'intérêts publiées par la HATVP le 10 juin 2025 (revenus et patrimoine cumulés). Patrimoine médian du gouvernement Bayrou évalué à environ 1,1 M€ par Le Monde. Estimation journalistique, non chiffre officiel.",
+    "status": "estimate",
+    "source_url": ["https://www.agra.fr/articles/les-revenus-et-le-patrimoine-dannie-genevard-estimes-11-meu"]
+  },
+  {
+    "id": "net-worth-2025-hatvp-components",
+    "year": "2025",
+    "declared_net_worth": "non agrégé par la HATVP",
+    "note": "La DSP déposée le 7 novembre 2025 fait état de trois biens immobiliers (valeur vénale cumulée 456 000 €), deux assurances vie (435 792 €), comptes et épargne (environ 304 281 €) et véhicules (environ 21 777 €). Aucun passif déclaré. La HATVP ne publie pas de montant net agrégé; total brut indicatif des actifs déclarés supérieur à 1,2 M€.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  }
+]

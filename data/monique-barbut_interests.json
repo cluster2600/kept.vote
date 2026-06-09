@@ -1,0 +1,32 @@
+[
+  {
+    "id": "interest-wwf-france-presidency",
+    "item": "Présidence du WWF France",
+    "type": "Fonction associative (ONG) — bénévole",
+    "period": "janvier 2021 – 2023",
+    "value": "Bénévolat",
+    "detail": "Présidente bénévole du WWF France avant son entrée au gouvernement ; fonction susceptible d'être mentionnée au titre des intérêts antérieurs.",
+    "status": "past_interest",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://www.wwf.fr/vous-informer/actualites/monique-barbut-nommee-presidente-du-wwf-france-isabelle-autissier-devient-presidente-dhonneur"]
+  },
+  {
+    "id": "interest-veolia-consultancy",
+    "item": "Consultance / groupes de réflexion — Veolia Environnement",
+    "type": "Activité rémunérée privée (consultance)",
+    "period": "janvier 2023 – décembre 2024",
+    "value": "2 500 EUR nets (2023), 3 000 EUR nets (2024)",
+    "detail": "Activité de consultant et participation à des groupes de réflexion chez Veolia déclarée à la HATVP. Veolia est un acteur majeur de l'eau et des déchets, secteurs relevant du périmètre ministériel.",
+    "status": "declared_hatvp",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743", "https://vert.eco/archive/exclusif-monique-barbut-largent-secret"]
+  },
+  {
+    "id": "interest-pea-shareholdings",
+    "item": "Participations financières (PEA, 27 sociétés)",
+    "type": "Intérêts financiers (actionnariat)",
+    "period": "à la date de la déclaration 2026",
+    "value": "≈ 153 362 EUR",
+    "detail": "Portefeuille d'actions dans des grandes entreprises (Airbus, BNP Paribas, LVMH, Thales, Sanofi, etc.), placé sous mandat de gestion sans droit de regard pendant le mandat. Source de la polémique sur d'éventuels conflits d'intérêts ; la HATVP n'a pas exigé de mesure de déport.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "appartement-paris-220m2",
+    "property": "Appartement (≈ 220 m²)",
+    "location": "Paris, France",
+    "transaction_type": "Propriété (résidence)",
+    "date": "2026 (déclaration HATVP)",
+    "value": "≈ 2 200 000 EUR",
+    "detail": "Appartement parisien d'environ 220 m² déclaré à la HATVP, valorisé autour de 2,2 millions d'euros. Principal poste du patrimoine.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/", "https://www.cnews.fr/france/2026-04-22/patrimoine-des-ministres-diamant-appartements-plusieurs-millions-comptes"]
+  },
+  {
+    "id": "maison-sainte-maxime-sci",
+    "property": "Maison détenue via la SCI Santa Villa Lucia",
+    "location": "Sainte-Maxime (Var), France",
+    "transaction_type": "Propriété indirecte (via SCI)",
+    "date": "2026 (déclaration HATVP)",
+    "value": "Maison ≈ 1 200 000 EUR ; parts de SCI déclarées : 583 000 EUR",
+    "detail": "Maison à Sainte-Maxime estimée à 1,2 M€, détenue via la SCI Santa Villa Lucia ; Monique Barbut déclare 583 000 € de parts dans cette SCI.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  }
+]

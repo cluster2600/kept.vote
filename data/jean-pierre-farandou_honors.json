@@ -1,0 +1,34 @@
+[
+  {
+    "id": "legion-honneur-chevalier-2011",
+    "honor": "Chevalier de la Légion d'honneur",
+    "awarded_by": "République française",
+    "year": "2011",
+    "detail": "Nommé chevalier de la Légion d'honneur (décret de promotion du 13 juillet 2010, fait chevalier le 26 octobre 2011) au titre de ses fonctions de directeur général de la branche SNCF Proximités et de son engagement associatif en faveur de l'insertion. À confirmer sur la base Léonore / liste des décorés.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Jean-Pierre_Farandou",
+      "https://archives.legiondhonneur.fr/rechercher/liste-unique-des-decores-publique"
+    ]
+  },
+  {
+    "id": "legion-honneur-officier-2021",
+    "honor": "Officier de la Légion d'honneur",
+    "awarded_by": "République française",
+    "year": "2021",
+    "detail": "Promu officier de la Légion d'honneur par décret du 13 juillet 2021, au titre de ses fonctions de président-directeur général d'une entreprise de transport ferroviaire (SNCF). À confirmer sur la base Léonore / liste des décorés.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Jean-Pierre_Farandou",
+      "https://archives.legiondhonneur.fr/rechercher/liste-unique-des-decores-publique"
+    ]
+  },
+  {
+    "id": "ordre-merite-ukraine-2024",
+    "honor": "Ordre du Mérite (Ukraine)",
+    "awarded_by": "Présidence de l'Ukraine",
+    "year": "2024",
+    "detail": "Décoré le 5 novembre 2024 de l'Ordre du Mérite ukrainien (décret de la présidence ukrainienne publié le 24 août 2024), en reconnaissance du soutien apporté par le groupe SNCF à l'Ukraine depuis l'invasion russe de février 2022.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Jean-Pierre_Farandou"
+    ]
+  }
+]

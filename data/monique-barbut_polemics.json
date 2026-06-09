@@ -1,0 +1,50 @@
+[
+  {
+    "id": "portefeuille-actions-conflit-interets-2026",
+    "title": "Portefeuille d'actions dans des entreprises au lourd bilan écologique (déclaration HATVP)",
+    "period": "avril 2026",
+    "category": "conflict_of_interest",
+    "description": "Après la publication par la HATVP, le 20 avril 2026, des déclarations de patrimoine et d'intérêts des ministres du gouvernement Lecornu II, le média Vert a révélé que la ministre de la Transition écologique détenait plus de 153 000 € d'actions dans 27 grandes entreprises (Airbus, BNP Paribas, LVMH, Thales, Dassault Systèmes, Sanofi, Inditex/Zara, Pernod Ricard, etc.), dont plusieurs au lourd bilan environnemental. Le portefeuille est logé dans un PEA confié à la banque sous mandat de gestion sans droit de regard. Des déontologues (Probitas) et l'ONG Reclaim Finance ont questionné l'apparence de conflit d'intérêts pour une ministre de l'écologie ; le cabinet a indiqué que la HATVP n'avait pas demandé de mesure de déport.",
+    "status": "Pas de procédure judiciaire ni de sanction ; situation jugée « conforme aux exigences applicables » par la HATVP selon le cabinet ; critiques d'ordre déontologique et politique.",
+    "confidence_score": "0.9",
+    "key_facts": [
+      "Déclaration HATVP publiée le 20 avril 2026 (chiffres arrêtés au 12 octobre 2025).",
+      "≈ 153 362 € d'actions dans 27 sociétés cotées, selon les calculs de Vert.",
+      "Détention via un PEA sous mandat de gestion sans droit de regard pendant le mandat.",
+      "La HATVP n'a pas exigé de mesure de déport ; le cabinet n'en a pas mis en place.",
+      "Critiques de la déontologue Farah Zaoui (Probitas) et de Lucie Pinson (Reclaim Finance)."
+    ],
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/", "https://www.franceinfo.fr/politique/airbus-thales-dassault-lvmh-le-portefeuille-d-actions-bien-rempli-de-la-ministre-de-la-transition-ecologique-monique-barbut_7956407.html", "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743"]
+  },
+  {
+    "id": "actions-totalenergies-disparues-2026",
+    "title": "Disparition des actions TotalEnergies entre deux versions de la déclaration HATVP",
+    "period": "novembre 2025 – mars 2026",
+    "category": "transparency_conflict_of_interest",
+    "description": "La déclaration initiale déposée en novembre 2025 mentionnait 40 actions TotalEnergies (≈ 2 134 €). Ces titres ont disparu de la version modifiée publiée en mars 2026. Ni la ministre ni la HATVP n'ont précisé si ces actions avaient été revendues, ni si la cession était intervenue avant ou après l'interdiction applicable aux ministres. Interrogée, la ministre a répondu sèchement : « Je n'ai rien à déclarer, demandez à la HATVP. »",
+    "status": "Aucune procédure ouverte ; interrogations journalistiques restées sans réponse officielle détaillée à ce jour.",
+    "confidence_score": "0.75",
+    "key_facts": [
+      "40 actions TotalEnergies (≈ 2 134 €) dans la déclaration de novembre 2025.",
+      "Ligne absente de la version modifiée de mars 2026.",
+      "Aucune clarification publique de la ministre ou de la HATVP sur la date/nature de la cession.",
+      "Réponse de la ministre : « Je n'ai rien à déclarer, demandez à la HATVP. »"
+    ],
+    "source_url": ["https://vert.eco/rapports-de-force/ou-sont-passees-les-actions-totalenergies-de-monique-barbut-la-ministre-de-lecologie/"]
+  },
+  {
+    "id": "argent-secret-revenus-prives-2026",
+    "title": "« L'argent secret » : revenus privés post-UNCCD et liens avec Veolia",
+    "period": "2023 – 2026",
+    "category": "transparency",
+    "description": "Dans une enquête intitulée « Monique Barbut, l'argent secret », Vert a détaillé les revenus privés déclarés par la ministre après son départ de l'UNCCD en 2019, dont une activité de consultance auprès de Veolia Environnement (participation à des groupes de réflexion, janvier 2023 - décembre 2024 ; 2 500 € nets en 2023 et 3 000 € nets en 2024). Ces liens avec un grand acteur de l'eau et des déchets ont alimenté le débat sur d'éventuels conflits d'intérêts au regard de son portefeuille ministériel.",
+    "status": "Information déclarée à la HATVP ; débat déontologique, sans procédure ni sanction connue.",
+    "confidence_score": "0.7",
+    "key_facts": [
+      "Consultance Veolia déclarée à la HATVP (jan. 2023 - déc. 2024).",
+      "Rémunérations : 2 500 € nets (2023), 3 000 € nets (2024).",
+      "Veolia opère dans l'eau et les déchets, secteurs du périmètre ministériel."
+    ],
+    "source_url": ["https://vert.eco/archive/exclusif-monique-barbut-largent-secret", "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743"]
+  }
+]

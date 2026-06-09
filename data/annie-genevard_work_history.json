@@ -1,0 +1,102 @@
+[
+  {
+    "id": "professeur-lettres-morteau",
+    "role": "Professeure de lettres classiques (français et latin)",
+    "organization": "Lycée Edgar-Faure, Morteau",
+    "start_date": "1977",
+    "end_date": "2012",
+    "description": "Enseignante de français et de latin au lycée Edgar-Faure de Morteau après réussite au CAPES de lettres classiques en 1977.",
+    "category": "professional",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard", "https://agriculture.gouv.fr/annie-genevard-ministre-de-lagriculture-et-de-la-souverainete-alimentaire"]
+  },
+  {
+    "id": "adjointe-maire-morteau",
+    "role": "Adjointe au maire de Morteau",
+    "organization": "Commune de Morteau (Doubs)",
+    "start_date": "1995",
+    "end_date": "2002",
+    "description": "Première fonction municipale avant d'accéder à la mairie.",
+    "category": "political",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard"]
+  },
+  {
+    "id": "maire-morteau",
+    "role": "Maire de Morteau",
+    "organization": "Commune de Morteau (Doubs)",
+    "start_date": "2002-06-20",
+    "end_date": "2017-07-21",
+    "description": "Maire de Morteau de 2002 à 2017 (réélue en 2008 et 2014). A quitté le mandat le 21 juillet 2017 en raison de la loi sur le non-cumul des mandats.",
+    "category": "political",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard"]
+  },
+  {
+    "id": "deputee-doubs",
+    "role": "Députée de la 5e circonscription du Doubs",
+    "organization": "Assemblée nationale",
+    "start_date": "2012-06-20",
+    "end_date": "2024-10-22",
+    "description": "Députée Les Républicains du Doubs sur quatre législatures (2012, 2017, 2022, 2024). Membre de la commission des Affaires culturelles et de l'Éducation. Siège suspendu pendant ses fonctions ministérielles puis clos.",
+    "category": "political",
+    "source_url": ["https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA605991", "https://www.assemblee-nationale.fr/dyn/deputes/PA605991"]
+  },
+  {
+    "id": "vice-presidente-an",
+    "role": "Première vice-présidente de l'Assemblée nationale",
+    "organization": "Assemblée nationale",
+    "start_date": "2017-11-07",
+    "end_date": "2024",
+    "description": "Vice-présidente puis première vice-présidente de l'Assemblée nationale sous les présidences de François de Rugy et Richard Ferrand; réélue après 2022 et 2024.",
+    "category": "political",
+    "source_url": ["https://www.macommune.info/annie-genevard-reelue-premiere-vice-presidente-de-lassemblee-nationale/", "https://en.wikipedia.org/wiki/Annie_Genevard"]
+  },
+  {
+    "id": "sg-lr-1",
+    "role": "Secrétaire générale des Républicains",
+    "organization": "Les Républicains (LR)",
+    "start_date": "2017-12-13",
+    "end_date": "2019-10-23",
+    "description": "Secrétaire générale du parti sous la présidence de Laurent Wauquiez.",
+    "category": "political",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard"]
+  },
+  {
+    "id": "presidente-interim-lr",
+    "role": "Présidente par intérim des Républicains",
+    "organization": "Les Républicains (LR)",
+    "start_date": "2022-07-04",
+    "end_date": "2022-12-11",
+    "description": "Présidente par intérim du parti (en tant que vice-présidente déléguée) après la démission de Christian Jacob, jusqu'à l'élection d'Éric Ciotti.",
+    "category": "political",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard"]
+  },
+  {
+    "id": "sg-lr-2",
+    "role": "Secrétaire générale des Républicains",
+    "organization": "Les Républicains (LR)",
+    "start_date": "2023-01-18",
+    "end_date": "2025-05-21",
+    "description": "Second passage comme secrétaire générale du parti, nommée par Éric Ciotti.",
+    "category": "political",
+    "source_url": ["https://en.wikipedia.org/wiki/Annie_Genevard", "https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "presidente-cnm",
+    "role": "Présidente de la commission permanente du Conseil national de la montagne",
+    "organization": "Conseil national de la montagne",
+    "start_date": "2021-03",
+    "end_date": "2024-08",
+    "description": "Présidence de la commission permanente du Conseil national de la montagne (fonction non rémunérée selon la déclaration HATVP).",
+    "category": "political",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "ministre-agriculture",
+    "role": "Ministre de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire",
+    "organization": "Gouvernement français (Barnier, Bayrou, Lecornu I et II)",
+    "start_date": "2024-09-21",
+    "end_date": "",
+    "description": "Nommée ministre de l'Agriculture et de la Souveraineté alimentaire dans le gouvernement Barnier le 21 septembre 2024, reconduite par François Bayrou (décembre 2024) puis par Sébastien Lecornu (gouvernements Lecornu I et II, dont la reconduction après le remaniement du 26 février 2026). Intitulé élargi à l'agro-alimentaire à l'automne 2025.",
+    "category": "government",
+    "source_url": ["https://www.info.gouv.fr/personnalite/annie-genevard", "https://agriculture.gouv.fr/toute-lactualite-de-la-ministre", "https://en.wikipedia.org/wiki/Annie_Genevard"]
+  }
+]

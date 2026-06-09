@@ -1,0 +1,92 @@
+[
+  {
+    "id": "intermarche-magasinier-1972",
+    "role": "Magasinier",
+    "organization": "Intermarché (Fontenay-le-Comte)",
+    "start_date": "1972",
+    "end_date": "1976",
+    "description": "Débute dans la distribution comme magasinier/manutentionnaire dans un magasin Intermarché à Fontenay-le-Comte (Vendée).",
+    "category": "Distribution / Commerce",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin", "https://www.lsa-conso.fr/annuaire-professionnels-grande-consommation/papin-serge/121634"]
+  },
+  {
+    "id": "systeme-u-ouest-communication-1976",
+    "role": "Promoteur des ventes puis créateur du service communication",
+    "organization": "Système U Ouest",
+    "start_date": "1976",
+    "end_date": "1984",
+    "description": "Rejoint Système U Ouest en 1976 comme promoteur des ventes à la centrale Unico de Loire-Atlantique ; y crée le service communication au début des années 1980.",
+    "category": "Distribution / Commerce",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin", "https://www.lsa-conso.fr/annuaire-professionnels-grande-consommation/papin-serge/121634"]
+  },
+  {
+    "id": "super-u-chantonnay-associe-1984",
+    "role": "Commerçant associé / exploitant Super U",
+    "organization": "Super U Chantonnay (Système U)",
+    "start_date": "1984",
+    "end_date": "1998",
+    "description": "Adhérent associé U, il exploite un magasin Super U à Chantonnay (Vendée), qu'il rachète en 1989. Devient vice-président de Système U Ouest et responsable du comité d'enseigne.",
+    "category": "Distribution / Commerce",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin"]
+  },
+  {
+    "id": "systeme-u-ouest-dg-1998",
+    "role": "Directeur général de Système U Ouest",
+    "organization": "Système U Ouest (Coopérative U)",
+    "start_date": "1998",
+    "end_date": "2005",
+    "description": "Vice-président régional (1997) puis directeur général de la centrale régionale Ouest de Système U.",
+    "category": "Distribution / Commerce",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin"]
+  },
+  {
+    "id": "systeme-u-pdg-2005",
+    "role": "Président-directeur général",
+    "organization": "Système U (Coopérative U / Système U Centrale Nationale)",
+    "start_date": "2005-02",
+    "end_date": "2018-05",
+    "description": "Président-directeur général du groupement coopératif Système U au niveau national de février 2005 à mai 2018. Pilote la modernisation du groupe, sa stratégie marketing et ses initiatives écologiques (projet Écovalor). En 2018, noue une alliance d'achats avec Carrefour avant de quitter le groupe, où il est remplacé par Dominique Schelcher.",
+    "category": "Distribution / Commerce",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin", "https://www.ouest-france.fr/economie/entreprises/dominique-schelcher-remplace-serge-papin-la-tete-de-systeme-u-5760234"]
+  },
+  {
+    "id": "consultant-conferencier-2018",
+    "role": "Consultant, conférencier et essayiste",
+    "organization": "FINAPA (holding personnelle) / activités indépendantes",
+    "start_date": "2018",
+    "end_date": "2025",
+    "description": "Après son départ de Système U, exerce comme consultant, conférencier et auteur sur les transitions écologiques et sociales dans le commerce et l'agroalimentaire. Gérant de sa holding FINAPA (rémunération déclarée d'environ 48 000 € nets par an, 2019-2024).",
+    "category": "Conseil / Société civile",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin", "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "egalim-mediateur-mission-2020",
+    "role": "Médiateur / chargé de mission sur les relations commerciales (rapport Papin)",
+    "organization": "Gouvernement français (ministères de l'Agriculture et de l'Industrie)",
+    "start_date": "2020-10",
+    "end_date": "2021-03",
+    "description": "Chargé par les ministres Julien Denormandie (Agriculture) et Agnès Pannier-Runacher (Industrie) d'une mission d'intérêt général pour renforcer la loi EGalim. Après une soixantaine d'auditions, remet en mars 2021 un rapport assorti de neuf propositions sur les négociations commerciales entre distributeurs et fournisseurs.",
+    "category": "Mission publique / Conseil",
+    "source_url": ["https://www.lineaires.com/la-distribution/loi-egalim-ce-qu-il-faut-retenir-du-rapport-papin", "https://agriculture.gouv.fr/comite-de-suivi-des-negociations-commerciales-du-29-janvier-2021"]
+  },
+  {
+    "id": "auchan-administrateur-president-2023",
+    "role": "Administrateur puis président non exécutif",
+    "organization": "Auchan Retail / Auchan France",
+    "start_date": "2023-01",
+    "end_date": "2025-05",
+    "description": "Entre au conseil d'administration d'Auchan Retail International début 2023, puis devient président non exécutif d'Auchan France en 2024. Mandat jusqu'en mai 2025. Rémunérations déclarées : 32 500 € nets en 2024 et 2025.",
+    "category": "Distribution / Gouvernance d'entreprise",
+    "source_url": ["https://www.lineaires.com/la-distribution/l-ex-patron-de-systeme-u-serge-papin-prend-place-chez-auchan-retail", "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "ministre-pme-commerce-2025",
+    "role": "Ministre des PME, du Commerce, de l'Artisanat, du Tourisme et du Pouvoir d'achat",
+    "organization": "Gouvernement Sébastien Lecornu (II)",
+    "start_date": "2025-10-12",
+    "end_date": "",
+    "description": "Nommé ministre des Petites et moyennes entreprises, du Commerce, de l'Artisanat, du Tourisme et du Pouvoir d'achat dans le second gouvernement de Sébastien Lecornu le 12 octobre 2025. Fonction confirmée lors du remaniement du 26 février 2026. Issu de la société civile, sans étiquette partisane.",
+    "category": "Fonction gouvernementale",
+    "source_url": ["https://www.economie.gouv.fr/ministres/serge-papin", "https://www.vie-publique.fr/en-bref/302256-remaniement-le-gouvernement-de-sebastien-lecornu-26-fevrier-2026"]
+  }
+]

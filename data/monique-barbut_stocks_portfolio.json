@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pea-portfolio-overview-2026",
+    "holding": "Plan d'épargne en actions (PEA) — 27 sociétés cotées",
+    "type": "Portefeuille d'actions (PEA)",
+    "value": "≈ 153 362 EUR au total",
+    "as_of": "12 octobre 2025 (chiffres HATVP)",
+    "detail": "27 participations financières directes dans le capital de sociétés cotées, totalisant environ 153 362 € selon les calculs de Vert. Le cabinet affirme qu'il s'agit d'un PEA confié à la banque sous mandat de gestion sans droit de regard pendant le mandat ministériel.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/", "https://www.franceinfo.fr/politique/airbus-thales-dassault-lvmh-le-portefeuille-d-actions-bien-rempli-de-la-ministre-de-la-transition-ecologique-monique-barbut_7956407.html"]
+  },
+  {
+    "id": "stock-airbus",
+    "holding": "Airbus",
+    "type": "Action (aéronautique)",
+    "value": "6 177 EUR",
+    "as_of": "12 octobre 2025",
+    "detail": "Participation de 6 177 € dans le capital d'Airbus.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  },
+  {
+    "id": "stock-bnp-paribas",
+    "holding": "BNP Paribas",
+    "type": "Action (banque)",
+    "value": "5 401 EUR",
+    "as_of": "12 octobre 2025",
+    "detail": "5 401 € d'actions BNP Paribas, banque citée par l'ONG Reclaim Finance comme premier financeur français des énergies fossiles.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  },
+  {
+    "id": "stock-lvmh",
+    "holding": "LVMH",
+    "type": "Action (luxe)",
+    "value": "6 805 EUR",
+    "as_of": "12 octobre 2025",
+    "detail": "6 805 € d'actions LVMH, numéro un mondial du luxe.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  },
+  {
+    "id": "stock-loreal",
+    "holding": "L'Oréal",
+    "type": "Action (cosmétiques)",
+    "value": "2 540 EUR",
+    "as_of": "12 octobre 2025",
+    "detail": "2 540 € d'actions L'Oréal.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+  },
+  {
+    "id": "stock-totalenergies-removed",
+    "holding": "TotalEnergies",
+    "type": "Action (énergie / pétrole)",
+    "value": "≈ 2 134 EUR (40 titres)",
+    "as_of": "Déclaration initiale de novembre 2025",
+    "detail": "40 actions TotalEnergies (≈ 2 134 €) figuraient dans la déclaration initiale de novembre 2025, mais ont disparu de la version modifiée de mars 2026. Ni la ministre ni la HATVP n'ont précisé si/quand ces titres avaient été revendus.",
+    "status": "declared_then_removed",
+    "source_url": ["https://vert.eco/rapports-de-force/ou-sont-passees-les-actions-totalenergies-de-monique-barbut-la-ministre-de-lecologie/"]
+  },
+  {
+    "id": "stock-others-list",
+    "holding": "Autres participations citées (liste non exhaustive)",
+    "type": "Actions diverses",
+    "value": "Inclus dans le total de ≈ 153 362 EUR",
+    "as_of": "12 octobre 2025",
+    "detail": "Parmi les autres sociétés citées : Air Liquide, Iberdrola, Dassault Systèmes, Allianz, AXA, BRED, Banco Santander, Inditex (Zara), Pernod Ricard, Sanofi, Thales. Secteurs : énergie, aéronautique, défense, banque, assurance, luxe, fast fashion, alcool, pharmacie.",
+    "status": "declared_hatvp",
+    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/", "https://www.franceinfo.fr/politique/airbus-thales-dassault-lvmh-le-portefeuille-d-actions-bien-rempli-de-la-ministre-de-la-transition-ecologique-monique-barbut_7956407.html"]
+  }
+]

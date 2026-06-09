@@ -1,0 +1,46 @@
+[
+  {
+    "id": "appartement-charente-maritime-2022",
+    "property": "Appartement de 211 m²",
+    "location": "Charente-Maritime (département 17)",
+    "transaction_type": "Acquisition (bien indivis, pleine propriété, quote-part 50 %)",
+    "date": "2022",
+    "value": "Prix d'acquisition 1 405 000 € (+ 100 000 € de travaux) ; valeur vénale déclarée de la quote-part 625 000 €",
+    "detail": "Appartement de 211 m² acquis en 2022 en indivision (quote-part 50 %). La presse évoque une valeur de l'ordre de 1,25 M€ pour l'ensemble du bien.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "maison-vendee-140m2-donation-2012",
+    "property": "Maison individuelle de 140 m²",
+    "location": "Vendée (département 85)",
+    "transaction_type": "Donation (nue-propriété, quote-part 19,59 %)",
+    "date": "2012",
+    "value": "Prix d'acquisition 20 571 € ; valeur vénale déclarée 26 448 €",
+    "detail": "Maison de 140 m² détenue en nue-propriété indivise (quote-part 19,59 %), entrée dans le patrimoine par donation en 2012.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "maison-vendee-67m2-donation-2012",
+    "property": "Maison individuelle de 67 m²",
+    "location": "Vendée (département 85)",
+    "transaction_type": "Donation (nue-propriété, quote-part 19,59 %)",
+    "date": "2012",
+    "value": "Prix d'acquisition 27 428 € ; valeur vénale déclarée 44 081 €",
+    "detail": "Maison de 67 m² détenue en nue-propriété indivise (quote-part 19,59 %), entrée dans le patrimoine par donation en 2012.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "maison-vendee-130m2-donation-2000",
+    "property": "Maison individuelle de 130 m²",
+    "location": "Vendée (département 85)",
+    "transaction_type": "Donation (nue-propriété, quote-part 5 %)",
+    "date": "2000",
+    "value": "Prix d'acquisition 2 190 € ; valeur vénale déclarée 8 571 €",
+    "detail": "Maison de 130 m² détenue en nue-propriété indivise (quote-part 5 %), entrée dans le patrimoine par donation en 2000.",
+    "status": "Déclaré (HATVP)",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  }
+]

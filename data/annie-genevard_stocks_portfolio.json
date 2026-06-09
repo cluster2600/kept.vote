@@ -1,0 +1,12 @@
+[
+  {
+    "id": "no-listed-securities",
+    "holding": "Aucun instrument financier / valeur mobilière cotée déclaré",
+    "type": "Néant",
+    "value": "0 €",
+    "as_of": "2025-11-07",
+    "detail": "La DSP du 7 novembre 2025 ne déclare aucun instrument financier (rubrique 4°) ni valeur mobilière non cotée (rubrique 3°). Le patrimoine financier déclaré se compose de comptes bancaires, produits d'épargne réglementée et deux contrats d'assurance vie.",
+    "status": "none declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  }
+]

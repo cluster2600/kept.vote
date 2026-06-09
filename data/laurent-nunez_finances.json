@@ -1,0 +1,29 @@
+[
+  {
+    "id": "savings-total-2025",
+    "year": "2025",
+    "type": "savings",
+    "label": "Bank savings and current accounts (aggregate)",
+    "amount": "208862",
+    "detail": "Per press reporting on the HATVP patrimonial declaration filed as a member of the Lecornu government (Oct 2025). Reported total of approx. 208,862 EUR across current accounts, Livret A, comptes épargne logement, livrets de développement durable and a plan épargne logement. Figure is press-summarised, not an exact official line-item published verbatim here.",
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/", "https://www.letribunaldunet.fr/politique/patrimoine-ministres-gouvernement-lecornu-declarations-hatvp.html"]
+  },
+  {
+    "id": "real-estate-cher-2025",
+    "year": "2025",
+    "type": "real_estate",
+    "label": "House in the Cher department",
+    "amount": "100000",
+    "detail": "House located in the Cher (region of his birthplace, Bourges), estimated at approx. 100,000 EUR in the HATVP declaration as reported by press.",
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/", "https://www.letribunaldunet.fr/politique/patrimoine-ministres-gouvernement-lecornu-declarations-hatvp.html"]
+  },
+  {
+    "id": "real-estate-var-2025",
+    "year": "2025",
+    "type": "real_estate",
+    "label": "Apartment in the Var department",
+    "amount": "200000",
+    "detail": "Apartment located in the Var, estimated at approx. 200,000 EUR in the HATVP declaration as reported by press.",
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/", "https://www.letribunaldunet.fr/politique/patrimoine-ministres-gouvernement-lecornu-declarations-hatvp.html"]
+  }
+]

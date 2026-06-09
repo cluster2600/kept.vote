@@ -1,0 +1,92 @@
+[
+  {
+    "id": "systeme-u-pdg-2005-2018",
+    "entity": "Système U (Coopérative U / Système U Centrale Nationale)",
+    "role": "Président-directeur général",
+    "ownership_stake": "Non applicable (groupement coopératif d'associés indépendants)",
+    "period": "2005-2018",
+    "status": "Ancien (mandat terminé en mai 2018)",
+    "detail": "Dirigeant exécutif du quatrième groupement de distribution français pendant plus de treize ans. Figure médiatique du secteur, il y porte le discours du « consommer mieux » et noue en 2018 une alliance d'achats avec Carrefour avant son départ.",
+    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin", "https://www.lsa-conso.fr/annuaire-professionnels-grande-consommation/papin-serge/121634"]
+  },
+  {
+    "id": "finapa-gerant-2019",
+    "entity": "FINAPA",
+    "role": "Gérant et actionnaire majoritaire",
+    "ownership_stake": "85,12 % en pleine propriété (152 474 parts) + 14,88 % en usufruit (26 660 parts)",
+    "period": "depuis 01/2019",
+    "status": "En cours (déclaré HATVP)",
+    "detail": "Holding patrimoniale personnelle, cœur du patrimoine déclaré (plus de 7,1 M€). Rémunération de gérant de 48 000 € nets/an (2019-2024), 36 000 € en 2025. Dividendes 2025 : 293 648 € (pleine propriété) + 51 344 € (usufruit).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "auchan-retail-administrateur-2023",
+    "entity": "Auchan Retail International / Auchan France",
+    "role": "Membre du conseil d'administration puis président non exécutif",
+    "ownership_stake": "Aucune participation déclarée",
+    "period": "01/2023-05/2025",
+    "status": "Ancien (mandat terminé en mai 2025)",
+    "detail": "Administrateur d'Auchan Retail International (2023), puis président non exécutif d'Auchan France (2024). Rémunération 32 500 € nets en 2024 et 2025. À ce titre, déport imposé par décret : le ministre ne peut traiter les dossiers concernant le groupe Auchan.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744", "https://www.lineaires.com/la-distribution/l-ex-patron-de-systeme-u-serge-papin-prend-place-chez-auchan-retail"]
+  },
+  {
+    "id": "nous-epiceries-anti-gaspi-2024",
+    "entity": "NOUS Épiceries Anti-Gaspi",
+    "role": "Membre du comité de surveillance",
+    "ownership_stake": "Non déclarée",
+    "period": "depuis 10/2024",
+    "status": "En cours (déclaré HATVP)",
+    "detail": "Membre du comité de surveillance d'une enseigne de lutte contre le gaspillage alimentaire. Rémunération déclarée : 0 € (2024 et 2025).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "les-editions-du-portrait-2026",
+    "entity": "Les Éditions du Portrait",
+    "role": "Actionnaire",
+    "ownership_stake": "20,3 % (2 000 parts)",
+    "period": "déclaré 2025-2026",
+    "status": "En cours (déclaré HATVP)",
+    "detail": "Participation déclarée de 20,3 % au capital, évaluée à 15 110 €.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "experts-council-2026",
+    "entity": "Experts Council",
+    "role": "Actionnaire minoritaire",
+    "ownership_stake": "0,002 % (75 parts)",
+    "period": "déclaré 2025-2026",
+    "status": "En cours (déclaré HATVP)",
+    "detail": "Participation minoritaire évaluée à 1 489 €.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "befoil-2026",
+    "entity": "BEFOIL",
+    "role": "Actionnaire minoritaire",
+    "ownership_stake": "0,67 % (1 409 parts)",
+    "period": "déclaré 2025-2026",
+    "status": "Procédure collective en cours (valeur déclarée 0 €)",
+    "detail": "Participation déclarée à valeur nulle, la société faisant l'objet d'une procédure collective.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "sci-indivises-gerant-2019",
+    "entity": "Trois SCI (sociétés civiles immobilières, dénominations non publiées)",
+    "role": "Gérant / cogérant",
+    "ownership_stake": "Non publiée",
+    "period": "depuis 01/2019",
+    "status": "En cours (déclaré HATVP)",
+    "detail": "Gérant d'une SCI et cogérant de deux autres SCI ; rémunérations déclarées nulles (0 € de 2019 à 2025). Dénominations non publiées par la HATVP.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  },
+  {
+    "id": "mandats-anterieurs-u-fampa-2019",
+    "entity": "U Centrale Export, FAMPA, TSA Telemarket, LA PREE",
+    "role": "Administrateur / cogérant / directeur général (mandats antérieurs)",
+    "ownership_stake": "Non déclarée",
+    "period": "2019-2021",
+    "status": "Anciens (mandats échus)",
+    "detail": "Anciens mandats déclarés au titre des cinq dernières années : administrateur d'U Centrale Export (2019-2020), cogérant de FAMPA (2019-2021), administrateur de TSA Telemarket (2019-2021), directeur général de LA PREE (01-03/2019, 6 096 € nets).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+  }
+]

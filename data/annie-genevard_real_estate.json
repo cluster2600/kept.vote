@@ -1,0 +1,35 @@
+[
+  {
+    "id": "maison-principale-doubs",
+    "property": "Maison individuelle (résidence principale), 240 m2, terrain 0,088 ha",
+    "location": "Département du Doubs (25)",
+    "transaction_type": "Acquisition",
+    "date": "2009",
+    "value": "240 000 € (valeur vénale déclarée)",
+    "detail": "Bien commun, détenu en usufruit à 100 %. Prix d'acquisition 350 000 €, travaux 51 433 €.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "chalet-secondaire-doubs",
+    "property": "Maison secondaire (chalet), 64 m2, terrain 0,01 ha",
+    "location": "Département du Doubs (25)",
+    "transaction_type": "Acquisition",
+    "date": "2001",
+    "value": "200 000 € (valeur vénale déclarée)",
+    "detail": "Bien commun, pleine propriété 100 %. Prix d'acquisition 100 000 €, travaux 51 215 €.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  },
+  {
+    "id": "maison-indivise-succession",
+    "property": "Maison individuelle, 292 m2, terrain 0,19 ha",
+    "location": "Département du Doubs (25)",
+    "transaction_type": "Succession",
+    "date": "2016",
+    "value": "16 000 € (valeur vénale déclarée, quote-part)",
+    "detail": "Bien indivis, nue-propriété, quote-part détenue 8,33 %. Entrée dans le patrimoine par succession.",
+    "status": "declared",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  }
+]

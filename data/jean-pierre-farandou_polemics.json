@@ -1,0 +1,41 @@
+[
+  {
+    "id": "remuneration-pdg-sncf-greves",
+    "title": "Polémiques sur la rémunération du PDG de la SNCF en période de grèves et de hausse des prix des billets",
+    "period": "2019-2025",
+    "category": "Rémunération de dirigeant public / perception publique",
+    "description": "En tant que président de la SNCF, entreprise publique, la rémunération de Jean-Pierre Farandou (plafonnée par l'État, autour de 450 000 à 500 000 € brut/an selon les années) a régulièrement été critiquée dans les médias et par certains syndicats, notamment lors de mouvements de grève et de hausses tarifaires. Il s'agit d'un débat d'opinion sur l'opportunité du montant, et non d'une irrégularité juridique : cette rémunération était légale et encadrée par l'État actionnaire.",
+    "status": "Aucune procédure judiciaire connue. Controverse médiatique et politique, sans dimension légale.",
+    "confidence_score": "0.6",
+    "key_facts": [
+      "Rémunération de PDG de la SNCF encadrée et plafonnée par l'État actionnaire.",
+      "Montants cités par la presse : de l'ordre de 450 000 à 500 000 € brut/an, ≈ 380 000 € net.",
+      "Critiques récurrentes des syndicats et de certains médias en contexte de grèves et de hausses tarifaires.",
+      "Aucune illégalité : la rémunération relevait d'une décision de l'État."
+    ],
+    "source_url": [
+      "https://www.moneyvox.fr/votre-argent/actualites/105492/jean-pierre-farandou-pourquoi-le-salaire-du-nouveau-ministre-du-travail-va-etre-divise-par-trois",
+      "https://www.takethecapital.net/salaire-du-pdg-de-la-sncf-ce-que-lon-sait-vraiment/"
+    ]
+  },
+  {
+    "id": "deport-sncf-la-poste-conflits",
+    "title": "Risque de conflits d'intérêts et déport à l'entrée au gouvernement",
+    "period": "2025-2026",
+    "category": "Déontologie / conflits d'intérêts",
+    "description": "Sa nomination au ministère du Travail, après avoir dirigé la SNCF et siégé au conseil d'administration de La Poste, a soulevé la question de possibles conflits d'intérêts, notamment sur les dossiers sociaux concernant ces grandes entreprises publiques. En réponse, un décret a organisé son déport : les dossiers liés au groupe SNCF, au groupe La Poste, à Fer de France et à Uside sont confiés au Premier ministre. La HATVP a par ailleurs, dans le cadre de l'examen des déclarations d'intérêts des membres du gouvernement, demandé à plusieurs ministres de se déporter de certains sujets.",
+    "status": "Mesure préventive de déontologie publique (décret de déport). Aucune procédure ni manquement avéré. Situation traitée selon les règles de prévention des conflits d'intérêts.",
+    "confidence_score": "0.85",
+    "key_facts": [
+      "Déport formalisé par décret publié au Journal officiel (novembre 2025).",
+      "Dossiers concernés : groupe SNCF, groupe La Poste, Fer de France, Uside.",
+      "Ces dossiers sont confiés au Premier ministre.",
+      "La HATVP a examiné les déclarations d'intérêts des membres du gouvernement (publication avril 2026)."
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html",
+      "https://www.ville-rail-transports.com/politique-transports/jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf/",
+      "https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains"
+    ]
+  }
+]

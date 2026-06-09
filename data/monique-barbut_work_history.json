@@ -1,0 +1,142 @@
+[
+  {
+    "id": "afd-reunion-1981",
+    "role": "Chargée de mission",
+    "organization": "Agence française de développement (AFD), Saint-Denis de La Réunion",
+    "start_date": "1981",
+    "end_date": "1984",
+    "description": "Premier poste à l'AFD, à La Réunion, sur les questions de financement du développement dans les départements et territoires d'outre-mer.",
+    "category": "development_finance",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut"]
+  },
+  {
+    "id": "min-coop-environnement-1990",
+    "role": "Responsable de la conception d'une politique d'environnement",
+    "organization": "Ministères de la Coopération et des Finances",
+    "start_date": "1990",
+    "end_date": "1993",
+    "description": "Chargée de concevoir une politique d'environnement ; participation aux négociations financières du Sommet de la Terre de Rio (1992) et à la création du Fonds français pour l'environnement mondial.",
+    "category": "government",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://vert.eco/articles/ancienne-presidente-du-wwf-negociatrice-sur-le-climat-qui-est-monique-barbut-la-nouvelle-ministre-de-la-transition-ecologique"]
+  },
+  {
+    "id": "ffem-1994",
+    "role": "Collaboratrice",
+    "organization": "Fonds français pour l'environnement mondial (FFEM)",
+    "start_date": "1994",
+    "end_date": "1996",
+    "description": "Participe au lancement et au fonctionnement du Fonds français pour l'environnement mondial.",
+    "category": "development_finance",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut"]
+  },
+  {
+    "id": "afd-domtom-1996",
+    "role": "Directrice adjointe puis directrice chargée des DOM-TOM",
+    "organization": "Agence française de développement (AFD)",
+    "start_date": "1996",
+    "end_date": "2003",
+    "description": "Directrice adjointe et responsable de la division du développement des DOM-TOM (1996-2000), directrice chargée des DOM-TOM (2000-2002), puis membre de la direction générale chargée des DOM-TOM, du Pacifique, des Caraïbes et de l'Océan Indien (2002-2003).",
+    "category": "development_finance",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut"]
+  },
+  {
+    "id": "unep-dtie-2003",
+    "role": "Directrice de la division Technologie, industrie et économie",
+    "organization": "Programme des Nations unies pour l'environnement (PNUE / UNEP)",
+    "start_date": "2003",
+    "end_date": "2006",
+    "description": "Dirige la division DTIE du PNUE, en charge des questions de technologie, d'industrie et d'économie de l'environnement.",
+    "category": "international_organization",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://en.wikipedia.org/wiki/Monique_Barbut"]
+  },
+  {
+    "id": "gef-ceo-2006",
+    "role": "Présidente-directrice générale (CEO and Chairperson)",
+    "organization": "Fonds pour l'environnement mondial (GEF / FEM)",
+    "start_date": "2006",
+    "end_date": "2012",
+    "description": "Dirige le Fonds pour l'environnement mondial, principal mécanisme international de financement de projets environnementaux dans les pays en développement.",
+    "category": "international_organization",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://en.wikipedia.org/wiki/Monique_Barbut", "https://www.thegef.org/sites/default/files/documents/MONIQUE_BARBUT_bio_updated.pdf"]
+  },
+  {
+    "id": "afd-conseillere-2012",
+    "role": "Conseillère spéciale auprès du directeur général",
+    "organization": "Agence française de développement (AFD)",
+    "start_date": "2012",
+    "end_date": "2013-09",
+    "description": "Conseillère spéciale du directeur général de l'AFD entre ses fonctions au GEF et à l'UNCCD.",
+    "category": "development_finance",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://en.wikipedia.org/wiki/Monique_Barbut"]
+  },
+  {
+    "id": "unccd-exec-secretary-2013",
+    "role": "Secrétaire exécutive",
+    "organization": "Convention des Nations unies sur la lutte contre la désertification (UNCCD)",
+    "start_date": "2013-10",
+    "end_date": "2019-02",
+    "description": "Nommée par le secrétaire général de l'ONU Ban Ki-moon le 16 septembre 2013 ; dirige le secrétariat de la convention jusqu'en février 2019, où lui succède Ibrahim Thiaw.",
+    "category": "international_organization",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://press.un.org/en/2013/sga1438.doc.htm", "https://en.wikipedia.org/wiki/Monique_Barbut"]
+  },
+  {
+    "id": "eu-wise-persons-2019",
+    "role": "Membre du Groupe de personnalités de haut niveau (High-Level Group of Wise Persons)",
+    "organization": "Conseil de l'Union européenne",
+    "start_date": "2019",
+    "end_date": "2019",
+    "description": "Membre du groupe chargé de formuler des recommandations sur la réforme des instruments financiers de l'UE pour le développement durable (Commission européenne, BEI, BERD).",
+    "category": "international_organization",
+    "source_url": ["https://en.wikipedia.org/wiki/Monique_Barbut"]
+  },
+  {
+    "id": "envoyee-one-planet-2020",
+    "role": "Envoyée spéciale du président de la République pour le One Planet Summit biodiversité",
+    "organization": "Présidence de la République française",
+    "start_date": "2020-05",
+    "end_date": "2021-01",
+    "description": "Chargée de la préparation du One Planet Summit consacré à la biodiversité.",
+    "category": "government",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut"]
+  },
+  {
+    "id": "wwf-france-president-2021",
+    "role": "Présidente",
+    "organization": "WWF France (Fonds mondial pour la nature)",
+    "start_date": "2021-01",
+    "end_date": "2023",
+    "description": "Présidente bénévole du WWF France, succédant à Isabelle Autissier (devenue présidente d'honneur).",
+    "category": "ngo",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://www.wwf.fr/vous-informer/actualites/monique-barbut-nommee-presidente-du-wwf-france-isabelle-autissier-devient-presidente-dhonneur", "https://www.actu-environnement.com/ae/news/monique-barbut-nouvelle-presidente-WWF-France-36899.php4"]
+  },
+  {
+    "id": "envoyee-accord-paris-2023",
+    "role": "Envoyée spéciale des dix ans de l'accord de Paris sur le climat",
+    "organization": "Gouvernement français",
+    "start_date": "2023",
+    "end_date": "2023",
+    "description": "Chargée de mission autour du dixième anniversaire de l'accord de Paris sur le climat.",
+    "category": "government",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut"]
+  },
+  {
+    "id": "veolia-consultante-2023",
+    "role": "Consultante / participation à des groupes de réflexion",
+    "organization": "Veolia Environnement",
+    "start_date": "2023-01",
+    "end_date": "2024-12",
+    "description": "Activité de consultance déclarée à la HATVP : participation à des groupes de réflexion, rémunérée 2 500 € nets en 2023 et 3 000 € nets en 2024.",
+    "category": "private_sector",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743", "https://vert.eco/archive/exclusif-monique-barbut-largent-secret"]
+  },
+  {
+    "id": "ministre-transition-ecologique-2025",
+    "role": "Ministre de la Transition écologique, de la Biodiversité et des Négociations internationales sur le climat et la nature",
+    "organization": "Gouvernement de la France (gouvernements Lecornu II)",
+    "start_date": "2025-10-12",
+    "end_date": "présent",
+    "description": "Nommée ministre le 12 octobre 2025 (prise de fonctions au ministère le 13 octobre), succédant à Agnès Pannier-Runacher ; reconduite lors du remaniement du 26 février 2026.",
+    "category": "government",
+    "source_url": ["https://www.ecologie.gouv.fr/monique-barbut", "https://www.info.gouv.fr/personnalite/monique-barbut", "https://en.wikipedia.org/wiki/Monique_Barbut"]
+  }
+]

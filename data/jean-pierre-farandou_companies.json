@@ -1,0 +1,51 @@
+[
+  {
+    "id": "sncf-president",
+    "entity": "SNCF (Société nationale SNCF)",
+    "role": "Président du groupe (président-directeur général / président du directoire)",
+    "ownership_stake": "Aucune (entreprise publique, dirigeant salarié)",
+    "period": "2019-2025",
+    "status": "former",
+    "detail": "Dirigeant exécutif de l'entreprise publique SNCF, sans participation au capital. Devenu ministre, il se déporte de tous les dossiers liés aux sociétés du groupe SNCF.",
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039196530",
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+    ]
+  },
+  {
+    "id": "keolis-president-directoire",
+    "entity": "Keolis (filiale du groupe SNCF)",
+    "role": "Président du directoire",
+    "ownership_stake": "Aucune",
+    "period": "2012-2019",
+    "status": "former",
+    "detail": "Dirigeant exécutif de Keolis, opérateur de transport public, filiale de la SNCF.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou"
+    ]
+  },
+  {
+    "id": "la-poste-administrateur",
+    "entity": "Groupe La Poste",
+    "role": "Administrateur",
+    "ownership_stake": "Aucune",
+    "period": "2025",
+    "status": "former",
+    "detail": "Mandat d'administrateur du groupe La Poste. Devenu ministre, il se déporte des dossiers liés aux sociétés du groupe La Poste.",
+    "source_url": [
+      "https://www.ville-rail-transports.com/politique-transports/jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf/"
+    ]
+  },
+  {
+    "id": "uside",
+    "entity": "Uside",
+    "role": "Lien d'intérêt déclaré (déport ministériel)",
+    "ownership_stake": "Non précisé publiquement",
+    "period": "Antérieur à 2025",
+    "status": "recused",
+    "detail": "Le décret organisant le déport du ministre mentionne expressément Uside parmi les entités dont il ne traitera pas les dossiers. La nature exacte du lien n'est pas détaillée publiquement.",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+    ]
+  }
+]

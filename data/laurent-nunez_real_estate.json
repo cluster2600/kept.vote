@@ -1,0 +1,24 @@
+[
+  {
+    "id": "house-cher",
+    "property": "House",
+    "location": "Cher department, France",
+    "transaction_type": "ownership",
+    "date": "2025",
+    "value": "100000",
+    "detail": "House in the Cher (region of Bourges, his birthplace), valued at approx. 100,000 EUR in his HATVP patrimonial declaration as a member of government, per press reporting.",
+    "status": "declared, HATVP (press-summarised)",
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/", "https://www.letribunaldunet.fr/politique/patrimoine-ministres-gouvernement-lecornu-declarations-hatvp.html"]
+  },
+  {
+    "id": "apartment-var",
+    "property": "Apartment",
+    "location": "Var department, France",
+    "transaction_type": "ownership",
+    "date": "2025",
+    "value": "200000",
+    "detail": "Apartment in the Var, valued at approx. 200,000 EUR in his HATVP patrimonial declaration, per press reporting.",
+    "status": "declared, HATVP (press-summarised)",
+    "source_url": ["https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/", "https://www.letribunaldunet.fr/politique/patrimoine-ministres-gouvernement-lecornu-declarations-hatvp.html"]
+  }
+]

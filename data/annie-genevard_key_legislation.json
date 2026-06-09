@@ -1,0 +1,29 @@
+[
+  {
+    "id": "loi-duplomb-2025",
+    "law_name": "Loi Duplomb (loi visant à lever les contraintes à l'exercice du métier d'agriculteur)",
+    "year": "2025",
+    "area": "Agriculture / Pesticides",
+    "description": "Loi d'initiative parlementaire (sénateur Laurent Duplomb) soutenue par le gouvernement et défendue par la ministre Annie Genevard, prévoyant notamment la réintroduction dérogatoire de l'acétamipride (néonicotinoïde) et des assouplissements pour les élevages et la gestion de l'eau.",
+    "significance": "Texte très contesté: une pétition citoyenne (lancée par Éléonore Pattery) a recueilli plus de 2,1 millions de signatures. Le 7 août 2025, le Conseil constitutionnel a censuré la réintroduction de l'acétamipride (décision n° 2025-891 DC), la jugeant contraire à la Charte de l'environnement faute d'encadrement suffisant.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Loi_Duplomb", "https://lcp.fr/actualites/loi-agricole-duplomb-le-conseil-constitutionnel-censure-la-reintroduction-de-l", "https://www.meela.fr/loi-duplomb-decision-conseil-constitutionnel-2025/"]
+  },
+  {
+    "id": "reforme-egalim",
+    "law_name": "Réforme EGalim (chantier de révision des lois EGalim)",
+    "year": "2025",
+    "area": "Agriculture / Relations commerciales",
+    "description": "Chantier porté comme ministre visant à réviser les lois EGalim: structuration des filières en amont, fin de la culture du moins-disant prix, étiquetage de l'origine. Lancement d'un appel à manifestation d'intérêt pour expérimenter un affichage 'rémunération du producteur' auprès des consommateurs (EGalim 2).",
+    "significance": "Réforme structurante des relations commerciales agricoles, portée dans le cadre des fonctions ministérielles plutôt que comme initiative législative personnelle.",
+    "source_url": ["https://agriculture.gouv.fr/egalim-2-annie-genevard-lance-un-appel-manifestation-dinteret-pour-lexperimentation-dun-affichage"]
+  },
+  {
+    "id": "conseil-national-montagne",
+    "law_name": "Action en faveur de la politique de la montagne (Conseil national de la montagne)",
+    "year": "2021",
+    "area": "Aménagement du territoire / Montagne",
+    "description": "Présidence de la commission permanente du Conseil national de la montagne (2021-2024), engagement de longue date sur les enjeux des territoires de montagne en tant qu'élue du Haut-Doubs.",
+    "significance": "Reflète son ancrage territorial et son rôle dans la politique de la montagne, en lien avec son mandat dans le Doubs.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+  }
+]
