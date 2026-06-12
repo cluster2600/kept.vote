@@ -1,0 +1,186 @@
+[
+  {
+    "id": "deslandes-1500-logements-par-an",
+    "title": "Construire 1 500 nouveaux logements par an",
+    "description": "Porter à 1 500 le nombre de logements construits chaque année à Lille, avec l'objectif d'atteindre 1 500 logements sociaux produits par an, dans un contexte immobilier contraint. Promesse jugée plus ambitieuse que celle de Martine Aubry en 2020.",
+    "date_made": "2026-02",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement central de campagne suivi par Mediacités et confirmé par l'interview du maire à La Voix du Nord du 2 mai 2026; aucune livraison à la mi-2026 et cadence difficile à tenir selon Mediacités.",
+    "key_evidence": [
+      "Mediacités recense cette promesse phare et la classe 'en cours d'évaluation'.",
+      "Dans son interview à La Voix du Nord du 2 mai 2026, Deslandes annonce une rencontre avec les bailleurs sociaux dès mai 2026 pour atteindre 1 500 logements sociaux par an."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/construire-1500-nouveaux-logements-par-an/",
+      "https://www.lavoixdunord.fr/1699501/article/2026-05-02/logement-securite-ecologie-periscolaire-les-premieres-mesures-du-maire-de-lille"
+    ]
+  },
+  {
+    "id": "deslandes-rehabiliter-friche-saint-sauveur",
+    "title": "Réhabiliter la friche Saint-Sauveur (logements et parc de 11 hectares)",
+    "description": "Lancer enfin l'aménagement des 23 hectares de la friche Saint-Sauveur, projet en souffrance depuis plus d'une décennie, en y créant environ 2 000 logements (dont au moins 45 % de logements sociaux et très sociaux), un parc d'environ 11 hectares, une grande aire de jeux, un caniparc et une école-crèche.",
+    "date_made": "2026-02",
+    "category": "Urbanisme",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Projet emblématique repris au programme 2026, suivi par Mediacités comme 'en cours d'évaluation'; un compromis logements/espaces verts a été acté mais la livraison reste à venir au cours du mandat.",
+    "key_evidence": [
+      "Mediacités: 'Réhabiliter la friche Saint-Sauveur (dont la création d'un parc de 11 hectares)', statut en cours d'évaluation.",
+      "Le projet prévoit 2 000 logements avec 45 % de logements sociaux et très sociaux selon La Voix du Nord (2 mai 2026)."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/rehabiliter-la-friche-saint-sauveur-dont-la-creation-dun-parc-de-11-hectares/",
+      "https://www.lavoixdunord.fr/1699501/article/2026-05-02/logement-securite-ecologie-periscolaire-les-premieres-mesures-du-maire-de-lille"
+    ]
+  },
+  {
+    "id": "deslandes-40-logements-tres-sociaux",
+    "title": "Porter à 40 % la part de logements très sociaux dans les nouvelles constructions HLM",
+    "description": "Faire passer à 40 % la part de logements très sociaux (PLAI) dans les nouvelles constructions de logements sociaux à Lille, part négociée lors de l'accord d'entre-deux-tours entre le PS et les Écologistes.",
+    "date_made": "2026-03",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Promesse issue de l'accord PS-Verts, recensée et suivie par Mediacités comme 'en cours d'évaluation'; pas encore d'effet mesurable à la mi-2026.",
+    "key_evidence": [
+      "Mediacités: 'Faire passer à 40 % la part de logements très sociaux dans les nouvelles constructions HLM' — 'La part de 40 % a été négociée lors de l'accord PS/Verts.'"
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/rehausser-a-40-la-part-de-logements-tres-sociaux-dans-les-nouvelles-constructions-hlm/"
+    ]
+  },
+  {
+    "id": "deslandes-repas-bio-locaux-cantines",
+    "title": "Servir des repas 100 % bio et locaux dans les cantines",
+    "description": "Atteindre 100 % de produits bio et locaux dans les cantines scolaires de la ville, notamment en s'appuyant sur la légumerie métropolitaine envisagée durant le mandat. La Ville affirme déjà servir plus de 80 % de bio et/ou local.",
+    "date_made": "2026-02",
+    "category": "Éducation",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Engagement repris du programme 2020 (alors non atteint), recensé par Mediacités comme 'en cours d'évaluation'; l'objectif 100 % bio ET local reste exigeant et non atteint.",
+    "key_evidence": [
+      "Mediacités: 'Servir des repas 100 % bio et locaux dans les cantines', avec données 2024 (54 % bio, 33 % local dans les écoles)."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/servir-des-repas-100-bio-et-locaux-dans-les-cantines/"
+    ]
+  },
+  {
+    "id": "deslandes-zone-rencontre-pietonne-quartier",
+    "title": "Créer une zone de rencontre piétonne dans chaque quartier",
+    "description": "Aménager une zone de rencontre piétonne dans chaque quartier de Lille, dans le cadre d'un programme d'apaisement et de végétalisation de l'espace public (le maire évoquant le soir de son installation '70 nouvelles rues apaisées et végétalisées dans tous les quartiers').",
+    "date_made": "2026-03",
+    "category": "Urbanisme",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Promesse recensée par Mediacités comme 'en cours d'évaluation' et cohérente avec la priorité 'rues apaisées et végétalisées' annoncée par Deslandes lors du conseil d'installation; mise en oeuvre à peine entamée.",
+    "key_evidence": [
+      "Mediacités: 'Créer une zone de rencontre piétonne dans chaque quartier' — statut en cours d'évaluation.",
+      "Lors de l'installation du 27 mars 2026, Deslandes cite parmi ses priorités '70 nouvelles rues apaisées et végétalisées dans tous les quartiers' (France 3 Hauts-de-France)."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/creer-une-zone-de-rencontre-pietonne-dans-chaque-quartier/",
+      "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/arnaud-deslandes-maire-1-adjoints-ecologistes-lfi-premiere-force-d-opposition-les-nouveaux-equilibres-de-la-politique-municipale-a-lille-3324875.html"
+    ]
+  },
+  {
+    "id": "deslandes-debitumisation-cours-ecoles",
+    "title": "Poursuivre la débitumisation des cours d'écoles",
+    "description": "Continuer la désimperméabilisation et la végétalisation des cours d'écoles lilloises afin de créer des îlots de fraîcheur, mesure déjà engagée sous le mandat précédent.",
+    "date_made": "2026-02",
+    "category": "Éducation",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Promesse de continuité recensée par Mediacités comme 'en cours d'évaluation'; programme déjà lancé sous Martine Aubry et reconduit, mais sans objectif chiffré pour le nouveau mandat.",
+    "key_evidence": [
+      "Mediacités: 'Poursuivre la débitumisation des cours d'écoles' — promesse qui figurait déjà au programme en 2020."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/poursuivre-la-debitumisation-des-cours-decoles/"
+    ]
+  },
+  {
+    "id": "deslandes-tarification-incitative-dechets",
+    "title": "Mettre en place une tarification incitative sur le tri des déchets",
+    "description": "Instaurer une tarification incitative liée au tri et à la réduction des déchets ménagers à Lille, mesure déjà inscrite au programme de 2020 et alors non tenue.",
+    "date_made": "2026-02",
+    "category": "Environnement",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Promesse recensée par Mediacités comme 'en cours d'évaluation'; déjà annoncée en 2020 sans être tenue, son aboutissement dépend en partie de la compétence métropolitaine.",
+    "key_evidence": [
+      "Mediacités: 'Mettre en place une tarification incitative sur le tri des déchets' — 'Cette promesse figurait déjà au programme de 2020 et n'avait pas été tenue.'"
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/mettre-en-place-une-tarification-incitative-sur-le-tri-des-dechets/"
+    ]
+  },
+  {
+    "id": "deslandes-cameras-videosurveillance",
+    "title": "Déployer de nouvelles caméras de vidéosurveillance",
+    "description": "Étendre le réseau de caméras de vidéoprotection à Lille en coordination avec les forces nationales, dans le cadre d'un renforcement de la sécurité (avec également l'objectif d'environ 50 agents de police municipale supplémentaires et un bus de police itinérant d'ici l'été 2026).",
+    "date_made": "2026-02",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Promesse non chiffrée recensée par Mediacités comme 'en cours d'évaluation', confirmée par l'interview du maire à La Voix du Nord; sujet potentiellement source de tensions avec les Verts opposés à de nouvelles caméras.",
+    "key_evidence": [
+      "Mediacités: 'Déployer de nouvelles caméras de vidéosurveillance' — promesse non chiffrée, susceptible de tensions car Stéphane Baly s'était engagé à n'en déployer aucune.",
+      "La Voix du Nord (2 mai 2026): extension du réseau de caméras, 50 agents supplémentaires et bus de police municipale itinérant d'ici l'été 2026."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/deployer-de-nouvelles-cameras-de-videosurveillance/",
+      "https://www.lavoixdunord.fr/1699501/article/2026-05-02/logement-securite-ecologie-periscolaire-les-premieres-mesures-du-maire-de-lille"
+    ]
+  },
+  {
+    "id": "deslandes-baignade-gratuite-quai-du-wault",
+    "title": "Créer un espace de baignade gratuit au Quai du Wault",
+    "description": "Aménager un espace de baignade gratuit en plein air au Quai du Wault, dans le centre de Lille.",
+    "date_made": "2026-02",
+    "category": "Sports et loisirs",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Promesse recensée par Mediacités comme 'en cours d'évaluation'; aucun aménagement réalisé à la mi-2026.",
+    "key_evidence": [
+      "Mediacités: 'Créer un espace de baignade gratuit au Quai du Wault' — statut en cours d'évaluation."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/creer-un-espace-de-baignade-gratuit-au-quai-du-wault/"
+    ]
+  },
+  {
+    "id": "deslandes-contenir-endettement",
+    "title": "Contenir l'endettement de la Ville",
+    "description": "Maîtriser et contenir l'endettement de la commune de Lille sur la durée du mandat, dans la continuité de la politique financière de Martine Aubry.",
+    "date_made": "2026-02",
+    "category": "Finances",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Engagement de gestion recensé par Mediacités comme 'en cours d'évaluation'; la trajectoire de la dette lilloise fait l'objet d'un débat entre majorité et opposition.",
+    "key_evidence": [
+      "Mediacités: 'Contenir l'endettement' — Deslandes s'inscrit dans la continuité de Martine Aubry, sans reprendre l'engagement de ne pas augmenter les impôts."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/contenir-lendettement/"
+    ]
+  },
+  {
+    "id": "deslandes-etendre-gratuite-transports",
+    "title": "Étendre la gratuité des transports",
+    "description": "Élargir la gratuité des transports en commun pour les Lillois, mesure issue de l'accord PS-Écologistes, l'ambition d'une gratuité totale se heurtant toutefois à l'opposition de la majorité de la Métropole européenne de Lille (MEL).",
+    "date_made": "2026-03",
+    "category": "Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.4",
+    "reasoning": "Promesse issue de l'accord PS-Verts recensée par Mediacités comme 'en cours d'évaluation'; sa version la plus ambitieuse (bus gratuits pour tous) est jugée 'mort-née' par Mediacités du fait du refus de la MEL.",
+    "key_evidence": [
+      "Mediacités: 'Etendre la gratuité des transports' et 'Rendre les bus gratuits pour tous' — promesses issues de l'accord PS/Verts, freinées par l'opposition de la MEL."
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/promesse/etendre-la-gratuite-des-transports/"
+    ]
+  }
+]

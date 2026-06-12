@@ -1,0 +1,52 @@
+[
+  {
+    "id": "municipales-2026-second-tour",
+    "election": "Élections municipales de 2026 à Montpellier (second tour)",
+    "office": "Maire de Montpellier",
+    "date": "2026-03-22",
+    "result": "Élu (arrivé en tête de la triangulaire, 53 sièges sur 69)",
+    "vote_share": "50.13%",
+    "party": "Parti Socialiste (liste d'union Demain Montpellier)",
+    "source_url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/resultats-municipales-a-montpellier-une-triangulaire-entre-michael-delafosse-nathalie-oziol-et-mohed-altrad-au-second-tour-des-elections-3319062.html"
+  },
+  {
+    "id": "municipales-2026-premier-tour",
+    "election": "Élections municipales de 2026 à Montpellier (premier tour)",
+    "office": "Maire de Montpellier",
+    "date": "2026-03-15",
+    "result": "Arrivé en tête (qualifié pour le second tour, 29 069 voix)",
+    "vote_share": "33.41%",
+    "party": "Parti Socialiste (liste d'union Demain Montpellier)",
+    "source_url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/resultats-municipales-a-montpellier-une-triangulaire-entre-michael-delafosse-nathalie-oziol-et-mohed-altrad-au-second-tour-des-elections-3319062.html"
+  },
+  {
+    "id": "municipales-2020-second-tour",
+    "election": "Élections municipales de 2020 à Montpellier (second tour)",
+    "office": "Maire de Montpellier",
+    "date": "2020-06-28",
+    "result": "Élu (devant Philippe Saurel 34,6 % et Mohed Altrad 18,1 %)",
+    "vote_share": "47.2%",
+    "party": "Parti Socialiste (liste d'union de la gauche et écologiste)",
+    "source_url": "https://fr.wikipedia.org/wiki/%C3%89lections_municipales_de_2020_%C3%A0_Montpellier"
+  },
+  {
+    "id": "municipales-2020-premier-tour",
+    "election": "Élections municipales de 2020 à Montpellier (premier tour)",
+    "office": "Maire de Montpellier",
+    "date": "2020-03-15",
+    "result": "Deuxième position (qualifié pour le second tour, derrière Philippe Saurel)",
+    "vote_share": "16.66%",
+    "party": "Parti Socialiste (liste La gauche qui nous rassemble)",
+    "source_url": "https://fr.wikipedia.org/wiki/%C3%89lections_municipales_de_2020_%C3%A0_Montpellier"
+  },
+  {
+    "id": "election-maire-conseil-2020",
+    "election": "Élection du maire par le conseil municipal de Montpellier",
+    "office": "Maire de Montpellier",
+    "date": "2020-07-04",
+    "result": "Élu maire par le conseil municipal (48 voix contre 17 bulletins blancs)",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://fr.wikipedia.org/wiki/%C3%89lections_municipales_de_2020_%C3%A0_Montpellier"
+  }
+]

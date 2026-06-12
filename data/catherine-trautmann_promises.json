@@ -1,0 +1,192 @@
+[
+  {
+    "id": "trautmann-audit-finances",
+    "title": "Réaliser un audit des finances de la Ville et de l'Eurométropole",
+    "description": "Lancer dès son élection un audit des finances de la Ville de Strasbourg et de l'Eurométropole afin d'agir en transparence et d'évaluer les marges de manœuvre budgétaires avant de déployer son programme.",
+    "date_made": "2026-01-14",
+    "category": "Finances et transparence",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Engagement répété par la candidate dans la presse (Rue89 Strasbourg) et cohérent avec l'axe transparence affiché dans son discours d'installation officiel. Pas de résultat d'audit publié à ce stade.",
+    "key_evidence": [
+      "Rue89 Strasbourg (14 janvier 2026) : elle souhaiterait réaliser un audit des finances de la Ville dès son élection.",
+      "Discours d'installation du 28 mars 2026 : la transparence érigée en axe majeur de gouvernance."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114",
+      "https://www.strasbourg.eu/-/catherine-trautmann-est-officiellement-maire-de-strasbourg"
+    ]
+  },
+  {
+    "id": "trautmann-conferences-citoyennes",
+    "title": "Organiser des conférences citoyennes sur le logement et les mobilités",
+    "description": "Engager deux grandes réflexions sous forme de conférences citoyennes, l'une sur le logement (encadrement des loyers, logement étudiant), l'autre sur les mobilités, pour co-construire les politiques publiques du mandat.",
+    "date_made": "2026-01-14",
+    "category": "Démocratie participative",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Promesse explicite dans la presse locale et reprise dans la présentation de son programme ; aucune tenue de ces conférences confirmée à la date de juin 2026.",
+    "key_evidence": [
+      "Rue89 Strasbourg : projet d'entamer deux grandes réflexions autour du logement et des mobilités sous la forme de conférences citoyennes.",
+      "Pokaa : elle compte organiser une conférence sur le logement pour déterminer où encadrer les loyers et créer du logement étudiant."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114",
+      "https://pokaa.fr/2026/03/23/cest-parti-pour-6-ans-quels-sont-les-projets-de-catherine-trautmann-pour-strasbourg/"
+    ]
+  },
+  {
+    "id": "trautmann-encadrement-loyers",
+    "title": "Encadrer les loyers à Strasbourg",
+    "description": "Mettre en place un encadrement des loyers pour lutter contre les loyers abusifs, et renforcer la lutte contre l'habitat indigne avec la création d'un médiateur du logement.",
+    "date_made": "2026-01-14",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Mesure phare du volet social du programme, déjà portée par Trautmann en conseil métropolitain en 2022 ; mise en œuvre non engagée à ce stade.",
+    "key_evidence": [
+      "Rue89 Strasbourg : 'Encadrer les loyers, pour lutter contre les abus et les loyers injustes' et 'médiateur du logement'.",
+      "Trautmann avait déjà proposé l'expérimentation de l'encadrement des loyers en conseil métropolitain en 2022."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114"
+    ]
+  },
+  {
+    "id": "trautmann-gratuite-transports-seniors",
+    "title": "Gratuité des transports en commun pour les plus de 65 ans",
+    "description": "Instaurer la gratuité des transports en commun (réseau CTS) pour les personnes de plus de 65 ans, mesure chiffrée à environ 6 millions d'euros à intégrer au budget de fonctionnement.",
+    "date_made": "2026-01-14",
+    "category": "Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Promesse précise et chiffrée par la candidate ; conditionnée au désendettement de la CTS, non encore mise en œuvre.",
+    "key_evidence": [
+      "Rue89 Strasbourg : gratuité des transports pour les plus de 65 ans, chiffrée à 6 millions d'euros.",
+      "Pokaa : gratuité des transports pour les + de 65 ans annoncée comme mesure prioritaire."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114",
+      "https://pokaa.fr/2026/03/23/cest-parti-pour-6-ans-quels-sont-les-projets-de-catherine-trautmann-pour-strasbourg/"
+    ]
+  },
+  {
+    "id": "trautmann-gratuite-eau-15m3",
+    "title": "Gratuité des 15 premiers mètres cubes d'eau",
+    "description": "Rendre gratuits les 15 premiers mètres cubes d'eau par foyer, au titre de l'amélioration du 'pouvoir de vivre' des Strasbourgeois.",
+    "date_made": "2026-03-23",
+    "category": "Pouvoir d'achat",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Mesure annoncée comme prioritaire au lendemain de l'élection ; pas de délibération de mise en œuvre confirmée à ce stade.",
+    "key_evidence": [
+      "Pokaa : 'gratuité des 15 premiers mètres cubes d'eau' figurant parmi les premières mesures annoncées."
+    ],
+    "source_url": [
+      "https://pokaa.fr/2026/03/23/cest-parti-pour-6-ans-quels-sont-les-projets-de-catherine-trautmann-pour-strasbourg/"
+    ]
+  },
+  {
+    "id": "trautmann-fournitures-scolaires-gratuites",
+    "title": "Fournitures scolaires gratuites pour tous les enfants",
+    "description": "Offrir des fournitures scolaires gratuites à chaque rentrée pour tous les enfants scolarisés.",
+    "date_made": "2026-01-14",
+    "category": "Éducation",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Promesse récurrente du volet social et éducatif du programme ; non encore mise en œuvre (première rentrée concernée à venir).",
+    "key_evidence": [
+      "Rue89 Strasbourg : 'Offrir des fournitures scolaires gratuites à chaque rentrée pour tous les enfants'.",
+      "Pokaa : gratuité des fournitures scolaires pour tous les enfants à chaque rentrée."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114",
+      "https://pokaa.fr/2026/03/23/cest-parti-pour-6-ans-quels-sont-les-projets-de-catherine-trautmann-pour-strasbourg/"
+    ]
+  },
+  {
+    "id": "trautmann-reforme-stationnement",
+    "title": "Réformer le stationnement résident et instaurer 30 minutes gratuites",
+    "description": "Revoir la réforme du stationnement de la municipalité écologiste sortante : baisse du tarif du stationnement résident (entre 5 et 20 euros par mois selon les zones et le quotient familial), gratuité des 30 premières minutes, et fin de l'usage purement répressif des véhicules de verbalisation automatisée.",
+    "date_made": "2026-01-14",
+    "category": "Mobilité et stationnement",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Cible centrale de la campagne contre la politique écologiste sortante, détaillée dans la presse ; aucune délibération de réforme adoptée confirmée à ce stade.",
+    "key_evidence": [
+      "Rue89 Strasbourg : baisse du stationnement résidentiel (5 à 20 euros) et gratuité des 30 premières minutes.",
+      "Pokaa : revoir la réforme du stationnement et fin de l'usage purement répressif des véhicules de verbalisation automatisée."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114",
+      "https://pokaa.fr/2026/03/23/cest-parti-pour-6-ans-quels-sont-les-projets-de-catherine-trautmann-pour-strasbourg/"
+    ]
+  },
+  {
+    "id": "trautmann-securite-police-municipale",
+    "title": "Renforcer la police municipale et rallumer l'éclairage public",
+    "description": "Renforcer la présence de la police municipale sur le terrain avec des patrouilles régulières et visibles dans tous les quartiers, rallumer l'éclairage public partout et en permanence, et installer des 'pièges photographiques' contre les dépôts sauvages.",
+    "date_made": "2026-03-23",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "La sécurité fut l'un des grands axes de campagne ; mesures opérationnelles annoncées mais déploiement non confirmé en juin 2026.",
+    "key_evidence": [
+      "Pokaa : patrouilles régulières et visibles de la police municipale, éclairage public rallumé partout, 'pièges photographiques' contre les dépôts sauvages."
+    ],
+    "source_url": [
+      "https://pokaa.fr/2026/03/23/cest-parti-pour-6-ans-quels-sont-les-projets-de-catherine-trautmann-pour-strasbourg/"
+    ]
+  },
+  {
+    "id": "trautmann-mutuelle-communale",
+    "title": "Créer une mutuelle communale et une maison médicale de garde",
+    "description": "Créer une mutuelle communale pour faciliter l'accès aux soins et ouvrir une maison médicale de garde (soir et week-end) afin de désengorger les urgences.",
+    "date_made": "2026-01-14",
+    "category": "Santé",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagements du volet 'droits essentiels' du programme ; non encore mis en œuvre.",
+    "key_evidence": [
+      "Rue89 Strasbourg : 'Créer une mutuelle communale' et 'Ouvrir une maison médicale de garde (soir et week-end)'."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114"
+    ]
+  },
+  {
+    "id": "trautmann-tram-nord-gare-21e",
+    "title": "Réaliser le tram Nord et une 'gare du 21e siècle'",
+    "description": "Réaliser le projet de tramway Nord vers Schiltigheim et Bischheim, développer le réseau tram vers le sud du Neuhof, créer un nouveau bus à haut niveau de service autour du centre-ville, et faire émerger une 'gare du 21e siècle' (gare suspendue connectée à la M35) reconnectant les quartiers ouest au centre.",
+    "date_made": "2026-03-23",
+    "category": "Grands projets et mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Projets structurants de long terme présentés durant la campagne et dès avril 2025 ; chantiers non engagés, horizon de réalisation pluriannuel.",
+    "key_evidence": [
+      "Pokaa : projet de tram Nord vers Schiltigheim et Bischheim, réseau tram vers le sud du Neuhof, nouveau BHNS, et 'gare du 21e siècle' suspendue connectée à la M35.",
+      "Projet 'gare du 21e siècle' présenté à la presse en avril 2025."
+    ],
+    "source_url": [
+      "https://pokaa.fr/2026/03/23/cest-parti-pour-6-ans-quels-sont-les-projets-de-catherine-trautmann-pour-strasbourg/"
+    ]
+  },
+  {
+    "id": "trautmann-service-public-energie",
+    "title": "Créer un service public de l'énergie",
+    "description": "Créer un service public local de l'énergie pour mieux maîtriser les tarifs et lutter contre la précarité énergétique, et accélérer la rénovation énergétique des logements publics et privés.",
+    "date_made": "2026-01-14",
+    "category": "Énergie et climat",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Mesure du volet 'droits essentiels' et de la transition climatique citée comme priorité dans le discours d'installation ; non encore mise en œuvre.",
+    "key_evidence": [
+      "Rue89 Strasbourg : 'Créer un service public de l'énergie' et accélérer la rénovation énergétique.",
+      "Discours d'installation du 28 mars 2026 : la transition climatique citée parmi les chantiers prioritaires."
+    ],
+    "source_url": [
+      "https://www.rue89strasbourg.com/catherine-trautmann-droits-essentiels-municipales-strasbourg-377114",
+      "https://www.strasbourg.eu/-/catherine-trautmann-est-officiellement-maire-de-strasbourg"
+    ]
+  }
+]

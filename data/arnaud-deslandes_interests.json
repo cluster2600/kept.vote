@@ -1,0 +1,38 @@
+[
+  {
+    "id": "deslandes-interet-vp-mel",
+    "type": "Mandat public",
+    "description": "Vice-président de la Métropole européenne de Lille (MEL), élu le 24 avril 2025, en charge du rayonnement de la métropole (relations internationales, eurométropole et coopération transfrontalière). Conseiller métropolitain de la MEL depuis 2020 (déclaration d'intérêts HATVP).",
+    "source_url": "https://www.lillemetropole.fr/communique-de-presse/arnaud-deslandes-rejoint-lexecutif-metropolitain-comme-2e-vice-president"
+  },
+  {
+    "id": "deslandes-interet-fiche-hatvp",
+    "type": "Déclaration d'intérêts (HATVP)",
+    "description": "Déclaration d'intérêts déposée auprès de la Haute Autorité pour la transparence de la vie publique au titre de ses fonctions d'élu local (adjoint puis maire de Lille, conseiller puis vice-président de la MEL). Les déclarations de situation patrimoniale des élus locaux ne sont pas rendues publiques par la HATVP.",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=deslandes-arnaud"
+  },
+  {
+    "id": "deslandes-interet-ccas-lille",
+    "type": "Fonction dans un organisme public",
+    "description": "Vice-président du Centre communal d'action sociale (CCAS) de Lille au titre de ses fonctions d'adjoint aux solidarités (déclaration d'intérêts HATVP).",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=deslandes-arnaud"
+  },
+  {
+    "id": "deslandes-interet-spl-euralille",
+    "type": "Mandat dans une société publique locale",
+    "description": "Membre du conseil d'administration de la SPL Euralille, société publique locale d'aménagement, au titre de ses fonctions municipales (déclaration d'intérêts HATVP).",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=deslandes-arnaud"
+  },
+  {
+    "id": "deslandes-interet-chu-lille",
+    "type": "Fonction dans un établissement public",
+    "description": "Membre du conseil de surveillance / d'administration du CHU de Lille au titre de ses fonctions d'élu (déclaration d'intérêts HATVP).",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=deslandes-arnaud"
+  },
+  {
+    "id": "deslandes-interet-mission-locale-emploi",
+    "type": "Fonctions associatives liées au mandat",
+    "description": "Fonctions au sein d'organismes locaux liés à ses délégations, notamment le Crédit municipal de Lille, l'association 'Réussir - La Mission locale de Lille' et la Maison de l'emploi Lille-Hellemmes-Lomme (déclaration d'intérêts HATVP).",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=deslandes-arnaud"
+  }
+]

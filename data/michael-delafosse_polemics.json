@@ -1,0 +1,29 @@
+[
+  {
+    "id": "perquisitions-mairie-2024",
+    "title": "Enquêtes préliminaires et perquisitions à la mairie de Montpellier (2024)",
+    "description": "Le 14 novembre 2024, la brigade financière de la police judiciaire a mené des perquisitions à la mairie de Montpellier dans le cadre de deux enquêtes préliminaires distinctes ouvertes sous l'égide du tribunal judiciaire de Montpellier. La première porte sur environ 297 agents présumés sans affectation (près de 8 % des effectifs sur 2015-2021) pointés par un rapport de la chambre régionale des comptes d'Occitanie publié en juin 2023 ; le rapport impute cette situation tant au maire actuel qu'à son prédécesseur Philippe Saurel. La seconde, pour soupçons de détournement de fonds publics et recel, vise la rémunération de l'ancien directeur de cabinet du maire. À ce stade, il s'agit d'enquêtes préliminaires ; aucune mise en examen ni condamnation de Michaël Delafosse n'a été prononcée et la présomption d'innocence s'applique.",
+    "date": "2024-11-14",
+    "type": "Enquête préliminaire / finances publiques",
+    "status": "Enquêtes préliminaires en cours ; aucune mise en cause judiciaire tranchée (présomption d'innocence)",
+    "source_url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/agents-sans-affectation-soupcons-de-detournements-de-fonds-publics-ce-que-l-on-sait-des-perquisitions-menees-a-la-mairie-de-montpellier-3060430.html"
+  },
+  {
+    "id": "funerarium-grammont-citation-2026",
+    "title": "Affaire du funérarium de Grammont : citation directe devant le tribunal correctionnel",
+    "description": "Dans l'affaire de violences sexistes et sexuelles présumées au sein du complexe funéraire de Grammont (société des services funéraires de Montpellier Méditerranée Métropole, dont la Métropole est actionnaire majoritaire), une citation directe déposée par un avocat de parties civiles vise plusieurs salariés et responsables. Michaël Delafosse y est cité à comparaître pour « complicité d'absence de prise de mesure de sécurité et de protection de la santé physique et mentale des salariés » et « complicité de travail dissimulé », au motif qu'il n'aurait pas mis fin aux faits dénoncés. À l'audience du 6 mai 2026, le tribunal correctionnel de Montpellier a renvoyé le procès sur le fond à décembre 2027. Le maire a par ailleurs obtenu la protection fonctionnelle de la collectivité pour couvrir ses frais de défense, décision critiquée par l'opposition. Les faits n'ont pas été jugés et l'ensemble des personnes visées bénéficie de la présomption d'innocence.",
+    "date": "2026-03-13",
+    "type": "Procédure judiciaire (citation directe)",
+    "status": "Procès renvoyé à décembre 2027 ; non jugé (présomption d'innocence)",
+    "source_url": "https://lepoing.net/affaire-du-funerarium-de-grammont-delafosse-cite-a-comparaitre-devant-la-justice/"
+  },
+  {
+    "id": "protection-fonctionnelle-controverse-2025",
+    "title": "Controverse sur la protection fonctionnelle finançant la défense du maire",
+    "description": "La prise en charge des frais de défense de Michaël Delafosse par la collectivité, via la protection fonctionnelle accordée à l'élu, a suscité une controverse politique locale, des élus d'opposition (notamment écologistes) questionnant l'usage de l'argent public dans le cadre de ces procédures. L'octroi de la protection fonctionnelle a été acté en conseil. Il s'agit d'un débat politique ; aucune irrégularité n'a été établie par la justice à ce titre.",
+    "date": "2025-02-19",
+    "type": "Controverse politique",
+    "status": "Débat politique ; aucune décision judiciaire défavorable",
+    "source_url": "https://leselusecologistes-montpellier.eelv.fr/2025/02/19/montpellier-enquete-pour-detournement-de-fonds-la-defense-de-michael-delafosse-financee-par-largent-public/"
+  }
+]

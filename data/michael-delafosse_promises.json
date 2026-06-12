@@ -1,0 +1,166 @@
+[
+  {
+    "id": "agence-municipale-logement-4000-brs",
+    "title": "Agence municipale du logement et 4 000 logements neufs jusqu'à 30 % moins chers",
+    "description": "Créer une Agence municipale du logement et livrer 4 000 logements neufs jusqu'à 30 % moins chers grâce au Bail Réel Solidaire (BRS), pour faire de l'accès au logement une priorité du mandat.",
+    "date_made": "2026-02-16",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement central du chapitre logement du programme 2026, présenté publiquement le 16 février 2026 et confirmé par la presse locale ; mesure structurante mais non encore mise en œuvre en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville qui agit pour l'accès au logement' du programme officiel Demain Montpellier 2026",
+      "Présentation du programme logement le 16 février 2026 reprise par la presse immobilière locale"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme",
+      "https://www.montpellierimmo9.com/actualites/politique/montpellier-municipales-2026-logement-programmes-candidats"
+    ]
+  },
+  {
+    "id": "100-agents-police-videoprotection",
+    "title": "Recruter 100 agents de sécurité supplémentaires et doubler les caméras de vidéoprotection",
+    "description": "Renforcer la politique de sécurité municipale par le recrutement de 100 agents supplémentaires et le doublement du nombre de caméras de vidéoprotection, en alliant fermeté, prévention et proximité.",
+    "date_made": "2026-02-01",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement explicite du chapitre 'Une ville qui protège' du programme officiel 2026 ; objectif quantifié non encore réalisé en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville qui protège' du programme officiel Demain Montpellier 2026 (100 agents, doublement des caméras)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  },
+  {
+    "id": "plan-ecole-400-millions",
+    "title": "Plan École à 400 millions d'euros et anglais dès le primaire",
+    "description": "Investir 400 millions d'euros dans un Plan École et déployer des mesures pour la jeunesse, dont l'apprentissage de l'anglais dès le primaire et un Fonds Voltaire pour permettre aux jeunes de voyager à l'étranger.",
+    "date_made": "2026-02-01",
+    "category": "Éducation et jeunesse",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement chiffré du chapitre éducation du programme officiel 2026 ; plan pluriannuel non encore engagé en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville aux côtés des enfants et des jeunes' du programme officiel Demain Montpellier 2026 (Plan École 400 M€, anglais dès le primaire, Fonds Voltaire)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  },
+  {
+    "id": "maintien-gratuite-transports",
+    "title": "Maintien de la gratuité des transports en commun",
+    "description": "Maintenir la gratuité des bus et tramways pour les habitants de la métropole, mesure phare du mandat précédent instaurée le 21 décembre 2023.",
+    "date_made": "2026-02-01",
+    "category": "Mobilités",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Le programme 2026 engage le maintien d'une mesure déjà en vigueur ; l'engagement porte sur la pérennisation sur le nouveau mandat, donc en cours.",
+    "key_evidence": [
+      "Chapitres 'Une ville qui prend soin de vous' et 'transports décarbonés' du programme officiel 2026 (gratuité maintenue)",
+      "Gratuité totale effective depuis le 21 décembre 2023 (France Bleu Hérault)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme",
+      "https://www.francebleu.fr/infos/transports/le-tram-gratuit-prevu-en-decembre-2023-pour-tous-les-habitants-de-la-metropole-de-montpellier-3859379"
+    ]
+  },
+  {
+    "id": "cinq-lignes-bustram-235km-velo",
+    "title": "Cinq nouvelles lignes de Bustram et 235 km de réseau express vélo",
+    "description": "Poursuivre la transformation des mobilités décarbonées avec la création de 5 nouvelles lignes de Bustram et le déploiement de 235 km de réseau express vélo.",
+    "date_made": "2026-02-01",
+    "category": "Mobilités",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Objectifs chiffrés du chapitre mobilités du programme officiel 2026 ; non encore réalisés en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville qui poursuit son ambition pour les transports décarbonés' du programme officiel 2026 (5 lignes Bustram, 235 km vélo)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  },
+  {
+    "id": "ville-parc-12-parcs-desimpermeabilisation",
+    "title": "Ville-Parc : 12 grands parcs et 40 hectares désimperméabilisés",
+    "description": "Mettre en œuvre le projet d'une Ville-Parc avec 12 grands parcs, 40 hectares désimperméabilisés, 1 000 jardins familiaux et une stratégie d'énergie verte alimentant 20 000 foyers supplémentaires.",
+    "date_made": "2026-02-01",
+    "category": "Transition écologique",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement du chapitre transition écologique du programme officiel 2026 avec objectifs chiffrés ; non encore réalisé en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville engagée dans la transition écologique et le cadre de vie' du programme officiel 2026 (Ville-Parc, 12 parcs, 40 ha désimperméabilisés, 1 000 jardins familiaux, énergie verte pour 20 000 foyers)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  },
+  {
+    "id": "coulees-vertes-baignade-lavalette",
+    "title": "Trois grandes coulées vertes et un espace de baignade à Lavalette",
+    "description": "Créer trois grandes coulées vertes, dont 2 km le long du Verdanson et 5 km de promenade au fil de l'Aqueduc Saint-Clément, ainsi qu'un espace de baignade au lac de Lavalette.",
+    "date_made": "2026-02-01",
+    "category": "Cadre de vie",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement du chapitre 'grandes coulées vertes' du programme officiel 2026 ; projets d'aménagement non encore réalisés en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville plus agréable avec de grandes coulées vertes' du programme officiel 2026 (Verdanson, baignade à Lavalette, Aqueduc Saint-Clément)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  },
+  {
+    "id": "30000-emplois-welcome-package",
+    "title": "Créer 30 000 emplois et un Welcome Package pour les entreprises",
+    "description": "Transformer le dynamisme métropolitain en emplois avec un objectif de 30 000 emplois créés, un « Welcome Package » pour accélérer l'implantation des entreprises et un soutien renforcé au commerce de proximité.",
+    "date_made": "2026-02-01",
+    "category": "Emploi et économie",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Objectif chiffré du chapitre emploi du programme officiel 2026 ; non encore atteint en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville attractive pour l'emploi' du programme officiel 2026 (30 000 emplois, Welcome Package)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  },
+  {
+    "id": "office-pouvoir-achat",
+    "title": "Création d'un Office du pouvoir d'achat",
+    "description": "Créer un Office du pouvoir d'achat pour agir sur le quotidien des Montpelliérains et les aider à mieux vivre face à la hausse du coût de la vie.",
+    "date_made": "2026-02-01",
+    "category": "Pouvoir d'achat",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement du chapitre 'Une ville qui prend soin de vous' du programme officiel 2026 ; structure non encore créée en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville qui prend soin de vous' du programme officiel 2026 (Office du pouvoir d'achat)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  },
+  {
+    "id": "candidature-unesco-gratuite-mediatheques",
+    "title": "Candidature UNESCO, gratuité des médiathèques et Plan Sports 2035",
+    "description": "Porter la candidature de Montpellier au patrimoine mondial de l'UNESCO, instaurer la gratuité des médiathèques et déployer un Plan Sports 2035 à la hauteur de l'héritage olympique.",
+    "date_made": "2026-02-01",
+    "category": "Culture et sport",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagements du chapitre culture et sport du programme officiel 2026 ; mesures non encore mises en œuvre en juin 2026.",
+    "key_evidence": [
+      "Chapitre 'Une ville dynamique où le sport et la culture rassemblent' du programme officiel 2026 (candidature UNESCO, gratuité des médiathèques, Plan Sports 2035)"
+    ],
+    "source_url": [
+      "https://www.delafosse2026.fr/programme"
+    ]
+  }
+]

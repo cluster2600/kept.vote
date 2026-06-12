@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rolland-municipales-2026-t2",
+    "election": "Élections municipales 2026 (second tour)",
+    "office": "Maire de Nantes",
+    "date": "2026-03-22",
+    "result": "Élue (réélue, 3e mandat)",
+    "vote_share": "52.18%",
+    "party": "Parti Socialiste (liste d'union de la gauche La Gauche Unie pour Nantes)",
+    "source_url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/resultats-municipales-2026-a-nantes-decouvrez-les-scores-des-deux-candidats-3319116.html"
+  },
+  {
+    "id": "rolland-municipales-2026-t1",
+    "election": "Élections municipales 2026 (premier tour)",
+    "office": "Maire de Nantes",
+    "date": "2026-03-15",
+    "result": "En tête du premier tour, qualifiée pour le second tour",
+    "vote_share": "35.24%",
+    "party": "Parti Socialiste (La Gauche Unie pour Nantes)",
+    "source_url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/resultats-municipales-2026-a-nantes-decouvrez-les-scores-des-deux-candidats-3319116.html"
+  },
+  {
+    "id": "rolland-municipales-2020",
+    "election": "Élections municipales 2020 (second tour)",
+    "office": "Maire de Nantes",
+    "date": "2020-06-28",
+    "result": "Élue (réélue, 2e mandat)",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Johanna_Rolland"
+  },
+  {
+    "id": "rolland-municipales-2014",
+    "election": "Élections municipales 2014",
+    "office": "Maire de Nantes",
+    "date": "2014-03-30",
+    "result": "Élue (1er mandat), première femme maire de Nantes",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Johanna_Rolland"
+  },
+  {
+    "id": "rolland-cantonales-2011",
+    "election": "Élections cantonales 2011",
+    "office": "Conseillère générale de Loire-Atlantique (canton des Dervallières)",
+    "date": "2011-03-27",
+    "result": "Élue",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://www.institutmontaigne.org/municipales-2020/nantes/johanna-rolland-biographie"
+  }
+]

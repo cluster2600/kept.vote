@@ -1,0 +1,214 @@
+[
+  {
+    "id": "cazenave-promise-gel-impots",
+    "title": "Freeze local taxes for the whole term",
+    "description": "Protect purchasing power by freezing municipal taxes (no tax increase) for the entire mandate, listed among the 100-first-days measures and his governing method.",
+    "date_made": "2026-02-09",
+    "category": "Taxation / purchasing power",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "A clear, headline pledge appearing in both the '100 premiers jours' section and the 'Ma méthode' commitments of his official program; concrete and verifiable against future budgets.",
+    "key_evidence": [
+      "'Pas d'augmentation d'impots pendant tout le mandat' (Agir differemment / Ma methode)",
+      "'Proteger le pouvoir d'achat : gel des impots' (Les 100 premiers jours)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-audit-finances",
+    "title": "Launch an audit of the city's finances",
+    "description": "Within the first 100 days, commission an audit of the City of Bordeaux's finances, alongside a thermal audit of primary schools and sports facilities.",
+    "date_made": "2026-02-09",
+    "category": "Public finances / governance",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Explicit '100 premiers jours' commitment and consistent with his profile as a former public-accounts minister; straightforward to verify once delivered.",
+    "key_evidence": [
+      "'Lancer un audit des finances de la Ville' (Les 100 premiers jours)",
+      "'Lancer l'audit thermique des ecoles primaires de la ville et des equipements sportifs'"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-police-municipale",
+    "title": "Strengthen and arm the municipal police and expand video-protection",
+    "description": "Increase the number of municipal police officers, arm all officers, extend video-protection, and create three municipal police stations in the city (notably at Cauderan, Grand Parc and the rive droite), with a night brigade and prevention measures.",
+    "date_made": "2026-02-09",
+    "category": "Security",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Detailed security pledge appearing across the 'Gagner la bataille du quotidien', '100 premiers jours' and 'Bordeaux demain' sections with specific locations for three police stations.",
+    "key_evidence": [
+      "'Augmentation du nombre de policiers, armement de tous les policiers et extension de la videoprotection'",
+      "'Installation de 3 antennes de police municipale dans la ville', '3 antennes de police municipale a Cauderan, Grand Parc et rive-droite'",
+      "'Armer les policiers municipaux' (Les 100 premiers jours)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-eclairage-nuit",
+    "title": "Restore city lighting all night and modernise it to LED",
+    "description": "Bring back street lighting throughout the night and modernise the network with LED technology, reversing the previous reduction of night-time lighting.",
+    "date_made": "2026-02-09",
+    "category": "Public services / urban environment",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Concrete, repeatedly stated pledge ('Retour de l'eclairage toute la nuit', 'Rallumer la lumiere') in both the priorities and 100-days sections; measurable.",
+    "key_evidence": [
+      "'Retour de l'eclairage de la ville toute la nuit et modernisation en LED'",
+      "'Rallumer la lumiere et accelerer la modernisation du reseau' (Les 100 premiers jours)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-stationnement-moratoire",
+    "title": "Moratorium on removing parking spaces and weekend free parking",
+    "description": "Stop the removal of on-street parking spaces and the extension of the pedestrian zone, and provide free weekend parking, including two hours of free parking in city-centre car parks, in support of local commerce.",
+    "date_made": "2026-02-09",
+    "category": "Mobility / parking",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Clear, oft-repeated mobility pledge framed as a 'moratoire' and as immediate support to commerce; specific (two hours free in centre car parks) and verifiable.",
+    "key_evidence": [
+      "'Moratoire sur la suppression des places de stationnement et sur l'extension du secteur pieton'",
+      "'2h de stationnement gratuit le weekend dans les parkings du centre-ville' (Les 100 premiers jours)",
+      "'gratuite du stationnement le weekend' (soutien au commerce bordelais)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-arret-projets",
+    "title": "Cancel projects deemed useless (Tourny, cable car, Île d'Arcins)",
+    "description": "Stop costly projects judged unnecessary, explicitly the Tourny project, the téléphérique (cable car) and Île d'Arcins, to reinvest in priority services.",
+    "date_made": "2026-02-09",
+    "category": "Urban projects / budget priorities",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Named, specific cancellations stated in both '100 premiers jours' and 'Ma methode'; verifiable, though final scope depends on metropolitan governance.",
+    "key_evidence": [
+      "'Arret des projets inutiles (Tourny, Telepherique, ...)' (Ma methode)",
+      "'Stopper les projets couteux inutiles (Tourny, telepherique, Ile d'Arcins) pour reinvestir dans vos services prioritaires'"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-proprete-force-rapide",
+    "title": "Create a rapid cleanliness intervention force and renovate trottoirs",
+    "description": "Create Bordeaux's first rapid intervention force for cleanliness, bulky-waste removal and maintenance, with a '100% renovated pavements' plan and a major pavement weeding programme.",
+    "date_made": "2026-02-09",
+    "category": "Cleanliness / public space",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Concrete operational pledge (a named new 'force d'intervention rapide proprete') present in both priorities and 100-days sections; measurable.",
+    "key_evidence": [
+      "'Creation de la premiere force d'intervention rapide proprete, encombrants et entretien - Plan 100% trottoirs renoves'",
+      "'Grand plan de desherbage des trottoirs' (Les 100 premiers jours)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-bureaux-logements",
+    "title": "Convert 50,000 m² of vacant offices into housing",
+    "description": "Reconvert 50,000 square metres of vacant office space into housing as part of the daily-life and housing agenda.",
+    "date_made": "2026-02-05",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "A precise, quantified housing pledge (50,000 m2) in the official priorities; clearly verifiable, though multi-year in nature.",
+    "key_evidence": [
+      "'Reconversion de 50 000 m2 de bureaux vacants en logements' (Gagner la bataille du quotidien)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites"
+    ]
+  },
+  {
+    "id": "cazenave-promise-coeur-de-ville",
+    "title": "'Coeur de ville' operation with 500 to 1,000 new homes",
+    "description": "Launch a 'coeur de ville' operation in central Bordeaux to make it transformed, lively and accessible, including the creation of 500 to 1,000 housing units and adaptation of housing to ageing.",
+    "date_made": "2026-02-09",
+    "category": "Housing / urban renewal",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Quantified medium-term pledge (500-1,000 homes) in the 'Bordeaux demain' section of the program; verifiable over the mandate.",
+    "key_evidence": [
+      "'Operation coeur de ville dans Bordeaux centre : transforme, vivant et accessible, creation de 500 a 1000 logements, adaptation des logements au vieillissement'"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-transports-nuit",
+    "title": "Extend public transport until 2:30 a.m. on weekend nights",
+    "description": "Provide public transport service until 2:30 a.m. on Thursday, Friday and Saturday nights.",
+    "date_made": "2026-02-05",
+    "category": "Mobility / public transport",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Specific, time-bound transport pledge in the official priorities; readily verifiable, though dependent on the metropolitan transport authority.",
+    "key_evidence": [
+      "'Offre de transports en commun jusqu'a 2h30 les jeudi, vendredi et samedi soir' (Gagner la bataille du quotidien)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites"
+    ]
+  },
+  {
+    "id": "cazenave-promise-maison-des-femmes",
+    "title": "Create a 'Maison des Femmes Santé' for women facing violence",
+    "description": "Set up a Maison des Femmes Santé (women's health centre) at the CHU for women confronted with situations of violence, with combating all forms of violence and harassment as the term's 'grande cause'.",
+    "date_made": "2026-02-09",
+    "category": "Health / women's rights",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Concrete facility pledge with a named location (CHU) appearing in both the priorities and 'Bordeaux demain' sections; verifiable on delivery.",
+    "key_evidence": [
+      "'Implantation d'une Maison des Femmes Sante pour les femmes confrontees a des situations de violences'",
+      "'Maison des Femmes Sante au CHU' (Bordeaux demain)",
+      "'Grande cause du mandat : Lutter contre toutes les formes de violences et de harcelement'"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  },
+  {
+    "id": "cazenave-promise-capitale-culture",
+    "title": "Bid for Bordeaux as European Capital of Culture",
+    "description": "Make Bordeaux a candidate for 'European Capital of Culture' and launch the dedicated mission within the first 100 days, as part of the wider 'Je choisis Bordeaux' attractiveness programme.",
+    "date_made": "2026-02-09",
+    "category": "Culture / attractiveness",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Clear flagship cultural pledge with an associated mission launch in the 100-days plan; verifiable (candidacy filed or not).",
+    "key_evidence": [
+      "'Bordeaux candidate Capitale europeenne de la culture' (Bordeaux en grand)",
+      "'Lancer la mission Capitale Europeenne de la Culture' (Les 100 premiers jours)"
+    ],
+    "source_url": [
+      "https://www.fairegagnerbordeaux.fr/nos-priorites",
+      "https://www.fairegagnerbordeaux.fr/projet"
+    ]
+  }
+]

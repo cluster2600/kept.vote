@@ -1,0 +1,92 @@
+[
+  {
+    "id": "trautmann-municipales-2026-t1",
+    "election": "Élections municipales de Strasbourg 2026 (premier tour)",
+    "office": "Maire de Strasbourg",
+    "date": "2026-03-15",
+    "result": "Arrivée en tête (la maire écologiste sortante Jeanne Barseghian n'arrive que troisième)",
+    "vote_share": "25,93%",
+    "party": "Parti Socialiste",
+    "source_url": "https://www.franceinfo.fr/elections/la-socialiste-catherine-trautmann-reussit-son-grand-retour-a-strasbourg-la-maire-ecologiste-sortante-arrive-troisieme-au-1er-tour-des-municipales_7860758.html"
+  },
+  {
+    "id": "trautmann-municipales-2026-t2",
+    "election": "Élections municipales de Strasbourg 2026 (second tour)",
+    "office": "Maire de Strasbourg",
+    "date": "2026-03-22",
+    "result": "Élue (liste arrivée en tête, triangulaire ; alternance face à la maire écologiste sortante)",
+    "vote_share": "37%",
+    "party": "Parti Socialiste",
+    "source_url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/resultats-municipales-2026-a-strasbourg-decouvrez-qui-est-elu-maire-3318330.html"
+  },
+  {
+    "id": "trautmann-municipales-2001",
+    "election": "Élections municipales de Strasbourg 2001",
+    "office": "Maire de Strasbourg",
+    "date": "2001-03",
+    "result": "Battue (par Fabienne Keller)",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Catherine_Trautmann"
+  },
+  {
+    "id": "trautmann-municipales-1995",
+    "election": "Élections municipales de Strasbourg 1995",
+    "office": "Maire de Strasbourg",
+    "date": "1995-06",
+    "result": "Réélue",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Catherine_Trautmann"
+  },
+  {
+    "id": "trautmann-municipales-1989",
+    "election": "Élections municipales de Strasbourg 1989",
+    "office": "Maire de Strasbourg",
+    "date": "1989-03",
+    "result": "Élue (première femme à diriger une grande métropole française)",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Catherine_Trautmann"
+  },
+  {
+    "id": "trautmann-europeennes-2009",
+    "election": "Élections européennes 2009 (circonscription Est)",
+    "office": "Députée européenne",
+    "date": "2009-06-07",
+    "result": "Élue",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Catherine_Trautmann"
+  },
+  {
+    "id": "trautmann-europeennes-2004",
+    "election": "Élections européennes 2004 (circonscription Est)",
+    "office": "Députée européenne",
+    "date": "2004-06-13",
+    "result": "Élue",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Catherine_Trautmann"
+  },
+  {
+    "id": "trautmann-europeennes-1989",
+    "election": "Élections européennes 1989",
+    "office": "Députée européenne",
+    "date": "1989-06-15",
+    "result": "Élue",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Catherine_Trautmann"
+  },
+  {
+    "id": "trautmann-legislatives-1986",
+    "election": "Élections législatives 1986 (Bas-Rhin)",
+    "office": "Députée du Bas-Rhin",
+    "date": "1986-03-16",
+    "result": "Élue (scrutin proportionnel départemental)",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://en.wikipedia.org/wiki/Catherine_Trautmann"
+  }
+]

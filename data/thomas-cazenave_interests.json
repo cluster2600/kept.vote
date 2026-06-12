@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cazenave-interest-ere",
+    "type": "Business / shareholding",
+    "description": "Co-founder and 54% shareholder of the École de la rénovation énergétique (éRE), a private vocational training company, declared in his HATVP declaration of interests; subject of a 2024 conflict-of-interest report by Le Monde.",
+    "source_url": "https://rue89bordeaux.com/2024/01/thomas-cazenave-aux-prises-avec-un-discret-conflit-dinterets-revele-le-monde/"
+  },
+  {
+    "id": "cazenave-interest-book",
+    "type": "Authorship",
+    "description": "Co-author with Yann Algan of the book 'L'État en mode start-up' (Eyrolles, 2017), on modernising public administration.",
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Cazenave"
+  },
+  {
+    "id": "cazenave-interest-friendship-groups",
+    "type": "Parliamentary affiliation",
+    "description": "As an MP, member of the France-Québec, France-Senegal and France-Ukraine parliamentary friendship groups, and head of the National Assembly's delegation to local authorities and decentralisation.",
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Cazenave"
+  }
+]

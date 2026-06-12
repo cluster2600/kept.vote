@@ -1,0 +1,42 @@
+[
+  {
+    "id": "deslandes-municipales-2020-liste-aubry",
+    "election": "Élections municipales de 2020 à Lille",
+    "office": "Conseiller municipal de Lille (liste Martine Aubry)",
+    "date": "2020-06-28",
+    "result": "Élu (liste victorieuse de Martine Aubry)",
+    "vote_share": "none declared",
+    "party": "Parti Socialiste",
+    "source_url": "https://www.francebleu.fr/infos/politique/arnaud-deslandes-natif-de-charleville-mezieres-est-elu-maire-de-lille-1033967"
+  },
+  {
+    "id": "deslandes-election-conseil-2025-succession-aubry",
+    "election": "Conseil municipal extraordinaire de Lille (succession de Martine Aubry)",
+    "office": "Maire de Lille",
+    "date": "2025-03-21",
+    "result": "Élu maire par le conseil municipal, 43 voix contre 11 à Stéphane Baly",
+    "vote_share": "43 voix sur les conseillers votants",
+    "party": "Parti Socialiste",
+    "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/vous-pouvez-compter-sur-moi-arnaud-deslandes-elu-maire-de-lille-succede-a-martine-aubry-lors-d-un-conseil-municipal-extraordinaire-3126553.html"
+  },
+  {
+    "id": "deslandes-municipales-2026-second-tour",
+    "election": "Élections municipales de 2026 à Lille (second tour)",
+    "office": "Maire de Lille",
+    "date": "2026-03-22",
+    "result": "Élu (liste d'union PS-Écologistes 'Tout pour Lille demain' arrivée en tête)",
+    "vote_share": "49.33%",
+    "party": "Parti Socialiste (union avec les Écologistes)",
+    "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/arnaud-deslandes-maire-1-adjoints-ecologistes-lfi-premiere-force-d-opposition-les-nouveaux-equilibres-de-la-politique-municipale-a-lille-3324875.html"
+  },
+  {
+    "id": "deslandes-election-conseil-2026-installation",
+    "election": "Conseil municipal d'installation de Lille (mandature 2026-2032)",
+    "office": "Maire de Lille",
+    "date": "2026-03-27",
+    "result": "Réélu maire par le conseil municipal, 47 voix sur 61",
+    "vote_share": "47 voix sur 61",
+    "party": "Parti Socialiste (union avec les Écologistes)",
+    "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/arnaud-deslandes-maire-1-adjoints-ecologistes-lfi-premiere-force-d-opposition-les-nouveaux-equilibres-de-la-politique-municipale-a-lille-3324875.html"
+  }
+]

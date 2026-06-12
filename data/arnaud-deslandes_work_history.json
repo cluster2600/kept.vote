@@ -1,0 +1,47 @@
+[
+  {
+    "id": "deslandes-stagiaire-cabinet-aubry-2005",
+    "role": "Stagiaire au cabinet de la maire de Lille",
+    "organization": "Ville de Lille (cabinet de Martine Aubry)",
+    "start_date": "2005",
+    "end_date": "none declared",
+    "description": "Étudiant à Sciences Po Lille, il rejoint le cabinet de la maire Martine Aubry comme stagiaire en 2005, début d'une carrière entièrement liée à la municipalité lilloise.",
+    "source_url": "https://www.francebleu.fr/infos/politique/arnaud-deslandes-natif-de-charleville-mezieres-est-elu-maire-de-lille-1033967"
+  },
+  {
+    "id": "deslandes-directeur-cabinet-2013",
+    "role": "Directeur de cabinet de la maire de Lille",
+    "organization": "Ville de Lille (cabinet de Martine Aubry)",
+    "start_date": "2013",
+    "end_date": "2020",
+    "description": "Directeur de cabinet de Martine Aubry à la mairie de Lille, devenant l'un de ses plus proches collaborateurs.",
+    "source_url": "https://en.wikipedia.org/wiki/Arnaud_Deslandes"
+  },
+  {
+    "id": "deslandes-adjoint-solidarites-2020",
+    "role": "Adjoint au maire chargé des solidarités et de la cohésion des territoires",
+    "organization": "Ville de Lille",
+    "start_date": "2020",
+    "end_date": "2023",
+    "description": "À la suite de la réélection de Martine Aubry en 2020, il est nommé adjoint chargé des solidarités et de la cohésion des territoires.",
+    "source_url": "https://www.europe1.fr/politique/qui-est-arnaud-deslandes-successeur-de-martine-aubry-a-la-tete-de-la-mairie-de-lille-669018"
+  },
+  {
+    "id": "deslandes-premier-adjoint-2023",
+    "role": "Premier adjoint au maire de Lille",
+    "organization": "Ville de Lille",
+    "start_date": "2023-10-13",
+    "end_date": "2025-03-21",
+    "description": "Promu premier adjoint au maire de Lille en octobre 2023, ce qui le place comme successeur pressenti de Martine Aubry.",
+    "source_url": "https://www.europe1.fr/politique/qui-est-arnaud-deslandes-successeur-de-martine-aubry-a-la-tete-de-la-mairie-de-lille-669018"
+  },
+  {
+    "id": "deslandes-maire-lille-2025",
+    "role": "Maire de Lille",
+    "organization": "Ville de Lille",
+    "start_date": "2025-03-21",
+    "end_date": "none declared",
+    "description": "Élu maire de Lille le 21 mars 2025 par un conseil municipal extraordinaire après la démission de Martine Aubry, puis confirmé après sa victoire aux municipales de mars 2026.",
+    "source_url": "https://en.wikipedia.org/wiki/Arnaud_Deslandes"
+  }
+]

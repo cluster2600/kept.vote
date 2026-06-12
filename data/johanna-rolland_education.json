@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rolland-sciences-po-lille",
+    "institution": "Institut d'études politiques de Lille (Sciences Po Lille)",
+    "degree": "Diplôme de l'IEP",
+    "field": "Science politique",
+    "start_date": "none declared",
+    "end_date": "none declared",
+    "source_url": "https://en.wikipedia.org/wiki/Johanna_Rolland"
+  },
+  {
+    "id": "rolland-grenoble-developpement-local",
+    "institution": "Université de Grenoble",
+    "degree": "Master",
+    "field": "Développement local",
+    "start_date": "none declared",
+    "end_date": "none declared",
+    "source_url": "https://www.banquedesterritoires.fr/johanna-rolland-nouvelle-presidente-de-france-urbaine"
+  }
+]

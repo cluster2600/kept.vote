@@ -1,0 +1,192 @@
+[
+  {
+    "id": "rolland-700-places-creche-2026",
+    "title": "Créer 700 nouvelles places en crèche",
+    "description": "Le programme de La Gauche Unie pour Nantes s'engage à créer 700 places en crèche supplémentaires sur le territoire nantais, dans des structures municipales et associatives, pour soutenir la petite enfance et l'accès des familles aux modes de garde.",
+    "date_made": "2026-02-02",
+    "category": "Petite enfance",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Engagement chiffré et récurrent figurant explicitement dans le programme officiel de campagne 2026 ; le mandat vient de débuter.",
+    "key_evidence": [
+      "Programme officiel : 'Créer 700 places en crèche' (volet Enfance).",
+      "Mesure présentée comme l'un des axes majeurs du programme petite enfance par la liste."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/",
+      "https://infos-media-nantes.fr/programme-johanna-rolland-nantes-2026-2/"
+    ]
+  },
+  {
+    "id": "rolland-police-municipale-bouffay-hangar-banane-2026",
+    "title": "Poste fixe de police municipale en soirée à Bouffay et au Hangar à Bananes",
+    "description": "Renforcer la sécurité nocturne en installant un poste fixe de police municipale en soirée dans deux secteurs très fréquentés du centre-ville, le Bouffay et le Hangar à Bananes, afin de dissuader les délits et d'améliorer le sentiment de sécurité.",
+    "date_made": "2026-02-02",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Mesure phare du volet sécurité, détaillée dans le programme officiel et confirmée par la presse locale ; mise en oeuvre non encore vérifiée à la mi-2026.",
+    "key_evidence": [
+      "Programme officiel : 'Renforcer la sécurité nocturne par un poste fixe de la Police Municipale en soirée, à Bouffay et au Hangar à Bananes.'",
+      "L'adjoint Bassem Asseh a précisé l'objectif d'installer des postes fixes de police municipale en soirée sur ces deux sites."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/",
+      "https://infos-media-nantes.fr/programme-johanna-rolland-nantes-2026-2/"
+    ]
+  },
+  {
+    "id": "rolland-gratuite-transports-15000-2026",
+    "title": "Élargir la gratuité des transports en commun à 15 000 personnes de plus",
+    "description": "Au titre du pouvoir d'achat, étendre la gratuité des transports en commun à 15 000 bénéficiaires supplémentaires, en complément de la gratuité déjà instaurée le week-end pour tous depuis 2020.",
+    "date_made": "2026-02-02",
+    "category": "Transport",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Engagement chiffré inscrit dans le volet pouvoir d'achat du programme officiel ; l'extension annoncée reste à mettre en oeuvre.",
+    "key_evidence": [
+      "Programme officiel : 'Élargir la gratuité des transports en commun à 15 000 personnes de plus.'",
+      "La gratuité le week-end pour toutes et tous est présentée comme déjà en place depuis 2020."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  },
+  {
+    "id": "rolland-logement-40-social-20-abordable-2026",
+    "title": "Porter à 40% le logement social et 20% le logement abordable dans la production neuve",
+    "description": "Renforcer la régulation publique du logement en produisant 40% de logements sociaux et 20% de logements abordables pour les classes moyennes et populaires dans la production locale, en s'appuyant notamment sur la dissociation foncier/bâti.",
+    "date_made": "2026-02-02",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Objectif structurant du volet logement du programme officiel ; sa réalisation dépend de la production sur l'ensemble du mandat.",
+    "key_evidence": [
+      "Programme officiel : 'Produire 40% de logements sociaux et 20% de logements abordables pour les classes moyennes et populaires.'",
+      "Le programme cite la dissociation foncier/bâti comme levier privilégié pour atteindre 20% de logements abordables."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  },
+  {
+    "id": "rolland-debitumer-deux-fois-plus-2026",
+    "title": "Débitumer deux fois plus d'espaces et construire sans artificialiser les sols",
+    "description": "Au titre de l'adaptation au changement climatique, doubler l'effort de débitumisation des espaces publics, ouvrir un nouveau jardin dans chaque quartier, végétaliser les berges et quais de Loire, et construire sans artificialiser les sols pour préserver les espaces naturels et agricoles.",
+    "date_made": "2026-02-02",
+    "category": "Environnement",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement écologique explicite du programme officiel, dans la continuité des 14 hectares débitumés annoncés depuis 2020 ; objectif pluriannuel.",
+    "key_evidence": [
+      "Programme officiel : 'Débitumer deux fois plus d'espaces' et 'Construire sans artificialiser les sols'.",
+      "Bilan affiché : 14 hectares débitumés et 50 000 arbres et arbustes plantés depuis 2020."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  },
+  {
+    "id": "rolland-velo-150km-budget-double-2026",
+    "title": "Doubler le budget vélo et créer 150 km de nouvelles liaisons vélo sécurisées",
+    "description": "Dans le volet déplacements, doubler le budget consacré au vélo et aménager 150 kilomètres de nouvelles liaisons cyclables sécurisées, en complément des 100 km de voies cyclables réalisées depuis 2020.",
+    "date_made": "2026-02-02",
+    "category": "Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement chiffré du programme officiel ; déploiement attendu sur l'ensemble du mandat.",
+    "key_evidence": [
+      "Programme officiel : 'Doubler le budget vélo et créer 150 kilomètres de nouvelles liaisons vélo sécurisées.'",
+      "Bilan affiché : 100 km de voies cyclables aménagées et 10 000 places de stationnement vélo depuis 2020."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  },
+  {
+    "id": "rolland-tramway-lignes-6-7-2026",
+    "title": "Mettre en circulation les nouvelles lignes de tramway 6 et 7",
+    "description": "Étendre le réseau de transports en commun en mettant en circulation les nouvelles lignes de tramway 6 et 7 (et, à l'horizon fin 2027, la ligne 8) pour mieux relier le coeur de ville, les quartiers et les communes de la métropole.",
+    "date_made": "2026-02-02",
+    "category": "Transport",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Projet d'infrastructure inscrit au programme officiel avec un horizon de réalisation fin 2027.",
+    "key_evidence": [
+      "Programme officiel : 'Mettre en circulation les nouvelles lignes de tramway 6 et 7.'",
+      "Le programme évoque l'ouverture des nouvelles lignes L6, L7 et L8 à l'horizon fin 2027."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  },
+  {
+    "id": "rolland-maison-enfant-sante-mentale-2026",
+    "title": "Ouvrir une Maison de l'enfant dédiée à la santé mentale des jeunes",
+    "description": "Faire de la santé mentale une priorité, en particulier celle des jeunes, en ouvrant une Maison de l'enfant qui accueillera les enfants de 6 à 11 ans dès septembre 2026, et en déployant une équipe de rue spécialisée en santé mentale.",
+    "date_made": "2026-02-02",
+    "category": "Santé",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement du programme officiel avec une échéance d'ouverture annoncée à septembre 2026, postérieure à la date de ce relevé (juin 2026).",
+    "key_evidence": [
+      "Programme officiel : 'la Maison des enfants qui accueillera les enfants de 6 à 11 ans dès septembre 2026.'",
+      "Le programme prévoit aussi le déploiement d'une équipe de rue spécialisée en santé mentale."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  },
+  {
+    "id": "rolland-plateforme-parents-solo-2026",
+    "title": "Créer une plateforme de soutien aux parents solo",
+    "description": "Soutenir les familles monoparentales par une plateforme parents solo offrant un numéro unique, un service d'urgence de garde d'enfants et un accompagnement vers des séjours de répit.",
+    "date_made": "2026-02-02",
+    "category": "Solidarité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Mesure inscrite au programme officiel, issue d'une proposition portée notamment par les élus communistes de la liste ; mise en place à venir.",
+    "key_evidence": [
+      "Programme officiel : 'Créer une plateforme parents solo' avec numéro unique, service d'urgence de garde et séjours de répit.",
+      "La maire cite la plateforme des familles monoparentales comme une proposition portée par les composantes de gauche de la liste."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/",
+      "https://infos-media-nantes.fr/programme-johanna-rolland-nantes-2026-2/"
+    ]
+  },
+  {
+    "id": "rolland-neutralite-carbone-2050-plan-climat-2026",
+    "title": "Tenir l'engagement de Nantes ville neutre en carbone en 2050",
+    "description": "Réduire les émissions de gaz à effet de serre en accélérant le plan Climat pour tenir l'objectif de neutralité carbone à l'horizon 2050, mobiliser la finance locale pour la rénovation des logements et les énergies renouvelables, et lancer un grand plan Fraîcheur d'adaptation au réchauffement.",
+    "date_made": "2026-02-02",
+    "category": "Environnement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement de long terme (échéance 2050) inscrit au programme officiel ; suivi pluriannuel, non mesurable dès le début de mandat.",
+    "key_evidence": [
+      "Programme officiel : 'tenir l'engagement de Nantes, ville neutre en carbone en 2050 en accélérant notre plan Climat.'",
+      "Le programme annonce un grand plan Fraîcheur pour s'adapter au réchauffement climatique."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  },
+  {
+    "id": "rolland-cantines-100-bio-local-2026",
+    "title": "Atteindre 100% de produits bio et locaux dans les cantines scolaires",
+    "description": "Fixer l'objectif de 100% de produits bio et locaux dans les cantines scolaires, étendre la sécurité sociale de l'alimentation à trois fois plus d'habitants et ouvrir 6 nouvelles épiceries solidaires de produits bio en vrac.",
+    "date_made": "2026-02-02",
+    "category": "Alimentation",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Objectif chiffré du programme officiel, dans la continuité des 47% de bio déjà atteints dans les cantines depuis 2020 ; cible de fin de mandat.",
+    "key_evidence": [
+      "Programme officiel : 'Fixer l'objectif de 100% de produits bio et locaux dans les cantines scolaires.'",
+      "Bilan affiché : 47% de produits bio dans les cantines scolaires et 75% dans les crèches depuis 2020."
+    ],
+    "source_url": [
+      "https://lagaucheuniepournantes.fr/notre-projet/nos-engagements/"
+    ]
+  }
+]

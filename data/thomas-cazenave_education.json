@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cazenave-ena-2005",
+    "institution": "École nationale d'administration (ENA), Strasbourg",
+    "degree": "Civil service graduate (haute fonction publique)",
+    "field": "Public administration",
+    "start_date": "2005-01-01",
+    "end_date": "2007-01-01",
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Cazenave"
+  },
+  {
+    "id": "cazenave-sciencespo",
+    "institution": "Sciences Po Paris (Institut d'études politiques de Paris)",
+    "degree": "Diploma",
+    "field": "Political science / public affairs",
+    "start_date": "none declared",
+    "end_date": "2004-01-01",
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Cazenave"
+  },
+  {
+    "id": "cazenave-ens-cachan",
+    "institution": "École normale supérieure Paris-Saclay (ENS Cachan)",
+    "degree": "Agrégation in economics and management; master in economic analysis and policy (Paris School of Economics)",
+    "field": "Economics and management",
+    "start_date": "1998-09-01",
+    "end_date": "none declared",
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Cazenave"
+  },
+  {
+    "id": "cazenave-montesquieu-deug",
+    "institution": "Université Montesquieu Bordeaux IV",
+    "degree": "DEUG",
+    "field": "Economics and management",
+    "start_date": "none declared",
+    "end_date": "none declared",
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Cazenave"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "maire-montpellier-2020",
+    "role": "Maire de Montpellier",
+    "organization": "Ville de Montpellier",
+    "start_date": "2020-07-04",
+    "end_date": "present",
+    "description": "Élu maire de Montpellier le 4 juillet 2020 par le conseil municipal, réélu en mars 2026. Indemnité mensuelle de 2 238 € déclarée à la HATVP au début du mandat.",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "president-metropole-2020",
+    "role": "Président de Montpellier Méditerranée Métropole",
+    "organization": "Montpellier Méditerranée Métropole",
+    "start_date": "2020-07-15",
+    "end_date": "present",
+    "description": "Président de l'EPCI Montpellier Méditerranée Métropole depuis juillet 2020, réélu président dès le premier tour en 2026 en l'absence de liste concurrente. Indemnité mensuelle brute de 5 340 € déclarée à la HATVP au début du mandat.",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "professeur-histoire-geo",
+    "role": "Professeur certifié d'histoire et de géographie",
+    "organization": "Ministère de l'Éducation nationale",
+    "start_date": "2003-01-01",
+    "end_date": "2020-01-01",
+    "description": "Enseignant d'histoire-géographie. La déclaration d'intérêts HATVP recense ses rémunérations nettes de professeur certifié de 2014 à 2020 (par ex. 21 628 € net en 2019).",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "conseiller-departemental-herault-2015",
+    "role": "Conseiller départemental de l'Hérault, vice-président chargé des finances",
+    "organization": "Conseil départemental de l'Hérault",
+    "start_date": "2015-01-01",
+    "end_date": "2020-01-01",
+    "description": "Membre du conseil départemental de l'Hérault de 2015 à 2020, où il fut vice-président chargé des finances.",
+    "source_url": "https://en.wikipedia.org/wiki/Micha%C3%ABl_Delafosse"
+  },
+  {
+    "id": "adjoint-culture-urbanisme-2008",
+    "role": "Conseiller municipal puis adjoint au maire (culture, puis urbanisme)",
+    "organization": "Ville de Montpellier",
+    "start_date": "2008-01-01",
+    "end_date": "2014-01-01",
+    "description": "Élu pour la première fois conseiller municipal de Montpellier en 2008 sous le mandat d'Hélène Mandroux ; adjoint délégué à la culture de 2008 à 2012, puis à l'urbanisme de 2012 à 2014.",
+    "source_url": "https://www.michaeldelafosse.fr/michael-delafosse"
+  },
+  {
+    "id": "conseiller-municipal-opposition-2014",
+    "role": "Conseiller municipal d'opposition, président du groupe La gauche pour Montpellier",
+    "organization": "Ville de Montpellier",
+    "start_date": "2014-01-01",
+    "end_date": "2020-06-01",
+    "description": "Conseiller municipal d'opposition de 2014 à 2020, président du groupe d'opposition La gauche pour Montpellier. Sa déclaration HATVP recense ce mandat de conseiller municipal de janvier 2014 à juin 2020.",
+    "source_url": "https://www.michaeldelafosse.fr/michael-delafosse"
+  },
+  {
+    "id": "president-lmde-2003",
+    "role": "Président de La Mutuelle des étudiants (LMDE)",
+    "organization": "La Mutuelle des étudiants (LMDE)",
+    "start_date": "2003-01-01",
+    "end_date": "2006-01-01",
+    "description": "Président de La Mutuelle des étudiants (LMDE) de 2003 à 2006, après avoir été vice-président national de l'UNEF-ID.",
+    "source_url": "https://www.michaeldelafosse.fr/michael-delafosse"
+  },
+  {
+    "id": "president-unl-1995",
+    "role": "Président-fondateur de l'Union nationale lycéenne (UNL)",
+    "organization": "Union nationale lycéenne",
+    "start_date": "1995-01-01",
+    "end_date": "1997-01-01",
+    "description": "Cofondateur et président de l'Union nationale lycéenne de 1995 à 1997.",
+    "source_url": "https://en.wikipedia.org/wiki/Micha%C3%ABl_Delafosse"
+  },
+  {
+    "id": "president-fhf-2021",
+    "role": "Président (représentation)",
+    "organization": "Fédération Hospitalière de France (instance locale)",
+    "start_date": "2021-01-01",
+    "end_date": "present",
+    "description": "Fonction de président déclarée à la HATVP depuis janvier 2021, sans rémunération (0 € net déclaré).",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  }
+]

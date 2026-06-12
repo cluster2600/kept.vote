@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rolland-presidente-france-urbaine",
+    "type": "Présidence d'association",
+    "description": "Présidente de France urbaine, association nationale qui fédère les grandes villes, agglomérations et métropoles françaises, depuis septembre 2020.",
+    "source_url": "https://www.banquedesterritoires.fr/johanna-rolland-nouvelle-presidente-de-france-urbaine"
+  },
+  {
+    "id": "rolland-presidente-samoa",
+    "type": "Mandat dans une société publique locale (ex officio)",
+    "description": "Présidente de la SAMOA (Société d'aménagement de la métropole Ouest Atlantique), société publique locale créée à l'initiative de Nantes Métropole, qui pilote notamment l'aménagement de l'Île de Nantes. Fonction exercée au titre de ses mandats locaux.",
+    "source_url": "https://www.samoa-nantes.fr/la-samoa/statuts-et-gouvernance/"
+  },
+  {
+    "id": "rolland-presidente-ca-atlanpole",
+    "type": "Mandat dans un organisme (ex officio)",
+    "description": "Présidente du conseil d'administration d'Atlanpole, technopole de l'agglomération nantaise, fonction exercée depuis avril 2014 au titre de ses mandats locaux.",
+    "source_url": "https://www.atlanpole.fr/cpt_equipe/johanna-rolland/"
+  },
+  {
+    "id": "rolland-pole-metropolitain-nantes-saint-nazaire",
+    "type": "Mandat intercommunal (ex officio)",
+    "description": "Présidente du comité syndical du Pôle métropolitain Nantes - Saint-Nazaire, fonction liée à ses mandats locaux et figurant dans sa déclaration d'intérêts auprès de la HATVP.",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna"
+  }
+]

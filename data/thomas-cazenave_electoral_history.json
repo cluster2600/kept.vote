@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cazenave-municipales-bordeaux-2026",
+    "election": "2026 French municipal elections (second round)",
+    "office": "Mayor of Bordeaux",
+    "date": "2026-03-22",
+    "result": "Won (flip from ecologist incumbent Pierre Hurmic; ended six years of green-led governance)",
+    "vote_share": "50.95%",
+    "party": "Renaissance (supported by Horizons)",
+    "source_url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/resultats-municipales-2026-a-bordeaux-retrouvez-les-scores-des-candidats-de-tous-les-candidats-et-leurs-reactions-3317736.html"
+  },
+  {
+    "id": "cazenave-legislatives-2022",
+    "election": "2022 French legislative election",
+    "office": "Member of the National Assembly, Gironde's 1st constituency",
+    "date": "2022-06-19",
+    "result": "Won (defeated NUPES candidate Catherine Cestari)",
+    "vote_share": "59.11%",
+    "party": "Ensemble (Majorité présidentielle / Renaissance)",
+    "source_url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/legislatives-2022-thomas-cazenave-nouveau-depute-majorite-presidentielle-de-la-1ere-circonscription-de-gironde-2562896.html"
+  },
+  {
+    "id": "cazenave-municipales-bordeaux-2020",
+    "election": "2020 French municipal elections (first round)",
+    "office": "Mayor of Bordeaux (candidate)",
+    "date": "2020-03-15",
+    "result": "Lost first round (3rd place behind ecologist Pierre Hurmic; joined outgoing mayor Nicolas Florian's list for the second round, which finished 2nd). Hurmic became mayor.",
+    "vote_share": "12.69%",
+    "party": "La République en Marche (LREM)",
+    "source_url": "https://en.wikipedia.org/wiki/Thomas_Cazenave"
+  }
+]

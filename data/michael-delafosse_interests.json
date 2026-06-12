@@ -1,0 +1,44 @@
+[
+  {
+    "id": "conjoint-directrice-affaires-medicales",
+    "type": "Activité professionnelle du conjoint",
+    "description": "La conjointe est directrice des affaires médicales dans un centre hospitalier, selon la déclaration d'intérêts HATVP.",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "representation-universite-montpellier",
+    "type": "Participation à un organe dirigeant (représentation)",
+    "description": "Membre du conseil d'administration de l'Université de Montpellier au titre du mandat (déclaré HATVP depuis 08/2020, non rémunéré).",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "representation-regie-des-eaux",
+    "type": "Participation à un organe dirigeant (représentation)",
+    "description": "Représentant de la Métropole à la Régie des Eaux au titre du mandat (déclaré HATVP depuis 08/2020, non rémunéré).",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "representation-conservatoire-festivals",
+    "type": "Participation à un organe dirigeant (représentation culturelle)",
+    "description": "Représentant de la Métropole au Conservatoire à rayonnement régional, au Festival du cinéma méditerranéen et à Montpellier Danse (déclaré HATVP depuis 08/2020, non rémunéré).",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "president-conseil-surveillance-chu",
+    "type": "Fonction institutionnelle",
+    "description": "Président du conseil de surveillance du CHU de Montpellier et président de la Fédération hospitalière de France région Occitanie.",
+    "source_url": "https://www.michaeldelafosse.fr/michael-delafosse"
+  },
+  {
+    "id": "vice-president-amf-laicite",
+    "type": "Fonction associative (élus)",
+    "description": "Référent laïcité et vice-président de l'Association des maires de France (AMF) ; coprésident de la commission mobilité de France urbaine.",
+    "source_url": "https://www.michaeldelafosse.fr/michael-delafosse"
+  },
+  {
+    "id": "president-cites-unies-medcities",
+    "type": "Fonction associative (international)",
+    "description": "Président de Cités Unies France et président du réseau MedCities (villes méditerranéennes) ; deuxième vice-président de l'Association des villes universitaires françaises (AVUF).",
+    "source_url": "https://www.michaeldelafosse.fr/michael-delafosse"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "indemnite-maire-2020",
+    "category": "Indemnité de fonction (mandat)",
+    "description": "Indemnité mensuelle de maire de Montpellier déclarée à la HATVP au début du mandat",
+    "amount": "€2,238/mois",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2021-03-29",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "indemnite-president-metropole-2020",
+    "category": "Indemnité de fonction (mandat)",
+    "description": "Indemnité mensuelle brute (avant prélèvement) de président de Montpellier Méditerranée Métropole déclarée à la HATVP",
+    "amount": "€5,340/mois",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2021-03-29",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "salaire-professeur-2019",
+    "category": "Revenu d'activité professionnelle (antérieur)",
+    "description": "Rémunération nette de professeur certifié d'histoire-géographie (Éducation nationale) déclarée pour l'année 2019",
+    "amount": "€21,628",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2021-03-29",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "participations-financieres-neant",
+    "category": "Participations financières dans le capital d'une société",
+    "description": "Néant : aucune participation financière directe dans le capital d'une société déclarée dans la déclaration d'intérêts HATVP",
+    "amount": "€0",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2021-03-29",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  },
+  {
+    "id": "activites-consultant-neant",
+    "category": "Activités de consultant",
+    "description": "Néant : aucune activité de consultant déclarée dans la déclaration d'intérêts HATVP",
+    "amount": "€0",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2021-03-29",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+  }
+]

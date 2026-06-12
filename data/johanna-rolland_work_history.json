@@ -1,0 +1,65 @@
+[
+  {
+    "id": "rolland-maire-nantes-2014",
+    "role": "Maire de Nantes",
+    "organization": "Ville de Nantes",
+    "start_date": "2014-04-04",
+    "end_date": "present",
+    "description": "Première femme élue maire de Nantes, en fonction depuis avril 2014, réélue en 2020 puis pour un troisième mandat en mars 2026.",
+    "source_url": "https://en.wikipedia.org/wiki/Johanna_Rolland"
+  },
+  {
+    "id": "rolland-presidente-nantes-metropole-2014",
+    "role": "Présidente de Nantes Métropole",
+    "organization": "Nantes Métropole",
+    "start_date": "2014-04-16",
+    "end_date": "present",
+    "description": "Présidente de la métropole de Nantes (24 communes, environ 650 000 habitants), en fonction depuis avril 2014.",
+    "source_url": "https://en.wikipedia.org/wiki/Johanna_Rolland"
+  },
+  {
+    "id": "rolland-presidente-france-urbaine-2020",
+    "role": "Présidente de France urbaine",
+    "organization": "France urbaine",
+    "start_date": "2020-09-24",
+    "end_date": "none declared",
+    "description": "Présidente de l'association France urbaine, qui fédère les grandes villes, agglomérations et métropoles françaises, depuis septembre 2020.",
+    "source_url": "https://www.banquedesterritoires.fr/johanna-rolland-nouvelle-presidente-de-france-urbaine"
+  },
+  {
+    "id": "rolland-premiere-adjointe-2012",
+    "role": "Première adjointe au maire de Nantes",
+    "organization": "Ville de Nantes",
+    "start_date": "2012",
+    "end_date": "2014",
+    "description": "Devenue première adjointe au maire lorsque Jean-Marc Ayrault est nommé Premier ministre en 2012.",
+    "source_url": "https://www.institutmontaigne.org/municipales-2020/nantes/johanna-rolland-biographie"
+  },
+  {
+    "id": "rolland-adjointe-jeunesse-2008",
+    "role": "Adjointe au maire chargée de la jeunesse",
+    "organization": "Ville de Nantes",
+    "start_date": "2008",
+    "end_date": "2012",
+    "description": "Nommée adjointe au maire Jean-Marc Ayrault, chargée de la jeunesse, à partir de 2008.",
+    "source_url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/portrait-johanna-rolland-la-numero-2-du-ps-reelue-apres-une-union-contestee-mais-assumee-3313404.html"
+  },
+  {
+    "id": "rolland-attachee-parlementaire-2004",
+    "role": "Attachée parlementaire de Jean-Marc Ayrault",
+    "organization": "Assemblée nationale",
+    "start_date": "2004",
+    "end_date": "2008",
+    "description": "Attachée parlementaire du député Jean-Marc Ayrault à partir de 2004.",
+    "source_url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/portrait-johanna-rolland-la-numero-2-du-ps-reelue-apres-une-union-contestee-mais-assumee-3313404.html"
+  },
+  {
+    "id": "rolland-democratie-participative-le-creusot-2002",
+    "role": "Chargée de la démocratie participative",
+    "organization": "Ville du Creusot",
+    "start_date": "2002",
+    "end_date": "2004",
+    "description": "Recrutée en 2002 comme chargée de la démocratie participative dans un quartier en rénovation urbaine du Creusot, premier poste de son parcours professionnel.",
+    "source_url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/portrait-johanna-rolland-la-numero-2-du-ps-reelue-apres-une-union-contestee-mais-assumee-3313404.html"
+  }
+]
