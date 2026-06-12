@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vincent-bouget-elec-1",
+    "office": "Maire de Nîmes",
+    "jurisdiction": "Nîmes (Gard)",
+    "date": "2026-03-22",
+    "result": "won",
+    "party": "Union de la gauche (PCF) - liste Nîmes en commun",
+    "vote_share": "40.97%",
+    "source_url": "https://www.francebleu.fr/occitanie/gard-30/nimes/municipales-2026-a-nimes-vincent-bouget-en-tete-selon-nos-premieres-estimations-9690051"
+  },
+  {
+    "id": "vincent-bouget-elec-2",
+    "office": "Conseiller départemental (canton de Nîmes-3)",
+    "jurisdiction": "Gard",
+    "date": "2021-06-27",
+    "result": "won",
+    "party": "Union de la gauche avec les écologistes (PCF)",
+    "vote_share": "64.04%",
+    "source_url": "https://www.objectifgard.com/a-la-une/departementales-sur-nimes-3-vincent-bouget-lemporte-face-au-rn-13117.php"
+  },
+  {
+    "id": "vincent-bouget-elec-3",
+    "office": "Conseiller municipal d'opposition (tête de liste)",
+    "jurisdiction": "Nîmes (Gard)",
+    "date": "2020-03-15",
+    "result": "lost",
+    "party": "Union de la gauche (PCF) - Nîmes Citoyenne À Gauche",
+    "vote_share": "",
+    "source_url": "https://vincentbouget.com/index.php/a-propos-de/"
+  }
+]

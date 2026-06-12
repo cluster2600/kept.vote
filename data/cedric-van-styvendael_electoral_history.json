@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cedric-van-styvendael-elec-1",
+    "office": "Maire de Villeurbanne (élection municipale, 1er tour)",
+    "jurisdiction": "Villeurbanne (Rhône)",
+    "date": "2020-03-15",
+    "result": "won",
+    "party": "PS et alliés (gauche)",
+    "vote_share": "33%",
+    "source_url": "https://www.lyonmag.com/article/108660/municipales-2020-tres-large-victoire-de-cedric-van-styvendael-a-villeurbanne"
+  },
+  {
+    "id": "cedric-van-styvendael-elec-2",
+    "office": "Maire de Villeurbanne (élection municipale, 2nd tour)",
+    "jurisdiction": "Villeurbanne (Rhône)",
+    "date": "2020-06-28",
+    "result": "won",
+    "party": "PS et alliés (gauche)",
+    "vote_share": "70.38%",
+    "source_url": "https://viva.villeurbanne.fr/l-essentiel/2020/juin/cedric-van-styvendael-nouveau-maire-de-villeurbanne"
+  },
+  {
+    "id": "cedric-van-styvendael-elec-3",
+    "office": "Maire de Villeurbanne (élection municipale, 1er tour)",
+    "jurisdiction": "Villeurbanne (Rhône)",
+    "date": "2026-03-15",
+    "result": "won",
+    "party": "PS et alliés (« Engagé·es pour Villeurbanne »)",
+    "vote_share": "37.94%",
+    "source_url": "https://www.lyoncapitale.fr/actualite/municipales-2026-les-resultats-a-villeurbanne-pour-le-premier-tour-van-styvendael-en-tete"
+  },
+  {
+    "id": "cedric-van-styvendael-elec-4",
+    "office": "Maire de Villeurbanne (élection municipale, 2nd tour)",
+    "jurisdiction": "Villeurbanne (Rhône)",
+    "date": "2026-03-22",
+    "result": "won",
+    "party": "PS et alliés (« Engagé·es pour Villeurbanne »)",
+    "vote_share": "42.59%",
+    "source_url": "https://www.rcf.fr/articles/actualite/elections-municipales-2026-a-villeurbanne-cedric-van-styvendael-reelu-maire"
+  }
+]

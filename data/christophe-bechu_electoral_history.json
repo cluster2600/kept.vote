@@ -1,0 +1,92 @@
+[
+  {
+    "id": "christophe-bechu-elec-1",
+    "office": "Maire d'Angers (réélection par le conseil municipal)",
+    "jurisdiction": "Angers, Maine-et-Loire",
+    "date": "2026-03-27",
+    "result": "won",
+    "party": "Horizons",
+    "vote_share": "47 voix sur 59 conseillers municipaux",
+    "source_url": "https://www.angers.fr/actualites-sorties/66759-christophe-bechu-reelu-maire-d-angers/index.html"
+  },
+  {
+    "id": "christophe-bechu-elec-2",
+    "office": "Conseiller municipal d'Angers (liste Angers pour vous)",
+    "jurisdiction": "Angers, Maine-et-Loire",
+    "date": "2026-03",
+    "result": "won",
+    "party": "Horizons / Angers pour vous",
+    "vote_share": "Liste majoritaire (47 sièges sur 59)",
+    "source_url": "https://www.angers.fr/actualites-sorties/66759-christophe-bechu-reelu-maire-d-angers/index.html"
+  },
+  {
+    "id": "christophe-bechu-elec-3",
+    "office": "Maire d'Angers (élections municipales)",
+    "jurisdiction": "Angers, Maine-et-Loire",
+    "date": "2020-03-15",
+    "result": "won",
+    "party": "DVD (liste Angers pour vous)",
+    "vote_share": "57,8 % au premier tour",
+    "source_url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/maine-et-loire/angers/resultat-municipales-2020-angers-christophe-bechu-reelu-premier-tour-1796789.html"
+  },
+  {
+    "id": "christophe-bechu-elec-4",
+    "office": "Maire d'Angers (élections municipales)",
+    "jurisdiction": "Angers, Maine-et-Loire",
+    "date": "2014-03-30",
+    "result": "won",
+    "party": "UMP (liste Angers pour vous)",
+    "vote_share": "59,03 % au second tour",
+    "source_url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/MN2014/049/C2049007L005.php"
+  },
+  {
+    "id": "christophe-bechu-elec-5",
+    "office": "Sénateur de Maine-et-Loire",
+    "jurisdiction": "Maine-et-Loire",
+    "date": "2011-09-25",
+    "result": "won",
+    "party": "UMP",
+    "vote_share": "Élu au scrutin sénatorial (grands électeurs)",
+    "source_url": "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+  },
+  {
+    "id": "christophe-bechu-elec-6",
+    "office": "Président du conseil régional des Pays de la Loire (tête de liste)",
+    "jurisdiction": "Pays de la Loire",
+    "date": "2010-03",
+    "result": "lost",
+    "party": "UMP",
+    "vote_share": "Battu pour la présidence, élu conseiller régional",
+    "source_url": "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+  },
+  {
+    "id": "christophe-bechu-elec-7",
+    "office": "Député européen (circonscription Ouest)",
+    "jurisdiction": "Circonscription Ouest (France)",
+    "date": "2009-06-07",
+    "result": "won",
+    "party": "UMP",
+    "vote_share": "27,16 % (liste UMP, 3 sièges)",
+    "source_url": "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+  },
+  {
+    "id": "christophe-bechu-elec-8",
+    "office": "Conseiller général du canton d'Angers-Nord-Ouest",
+    "jurisdiction": "Maine-et-Loire",
+    "date": "2008-03",
+    "result": "won",
+    "party": "UMP",
+    "vote_share": "Réélu (élu initialement en 2001)",
+    "source_url": "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+  },
+  {
+    "id": "christophe-bechu-elec-9",
+    "office": "Maire d'Angers (élections municipales)",
+    "jurisdiction": "Angers, Maine-et-Loire",
+    "date": "2008-03",
+    "result": "lost",
+    "party": "UMP",
+    "vote_share": "Battu de justesse par le maire sortant PS Jean-Claude Antonini",
+    "source_url": "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+  }
+]

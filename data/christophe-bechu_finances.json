@@ -1,0 +1,26 @@
+[
+  {
+    "id": "christophe-bechu-fin-1",
+    "type": "déclaration de situation patrimoniale",
+    "date": "2022-12-01",
+    "summary": "Déclaration de situation patrimoniale déposée auprès de la HATVP au titre de sa nomination comme membre du gouvernement (ministre de la Transition écologique et de la Cohésion des territoires) et rendue publique le 1er décembre 2022. Patrimoine immobilier déclaré (dont résidence principale) d'une valeur totale d'environ 1,25 million d'euros ; assurances vie pour 106 182 € ; compte épargne d'environ 250 000 € ; près de 40 000 € sur divers livrets et comptes courants ; deux véhicules (Audi estimée 7 500 €, BMW estimée 12 000 €) ; plus de 214 000 € de crédits restant à rembourser.",
+    "amount": "Patrimoine immobilier déclaré ~1 250 000 € (declared)",
+    "source_url": "https://www.hatvp.fr/presse/publication-et-bilan-des-declarations-des-membres-du-gouvernement-de-mme-elisabeth-borne/"
+  },
+  {
+    "id": "christophe-bechu-fin-2",
+    "type": "déclaration de situation patrimoniale (revenus déclarés)",
+    "date": "2022-12-01",
+    "summary": "Revenus déclarés au titre de 2021 : 46 884 € comme maire d'Angers et 39 020 € comme président d'Angers Loire Métropole. Il était soumis à l'écrêtement des indemnités d'élus (plafond mensuel de 8 730,06 €).",
+    "amount": "46 884 € (maire) + 39 020 € (président ALM) en 2021 (declared)",
+    "source_url": "https://www.angers.villactu.fr/la-declaration-de-patrimoine-de-lancien-maire-dangers-rendue-publique/"
+  },
+  {
+    "id": "christophe-bechu-fin-3",
+    "type": "déclaration d'intérêts et de situation patrimoniale (fiche HATVP)",
+    "date": "2022-12-01",
+    "summary": "Fiche nominative HATVP de Christophe Béchu (président d'Angers Loire Métropole, maire d'Angers) recensant ses déclarations d'intérêts et de situation patrimoniale. La HATVP a contrôlé le caractère exhaustif, exact et sincère des déclarations des 41 membres du gouvernement d'Élisabeth Borne, consultables jusqu'à la fin des fonctions.",
+    "amount": "declared",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=bechu-christophe"
+  }
+]

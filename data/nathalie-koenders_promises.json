@@ -1,0 +1,122 @@
+[
+  {
+    "id": "nathalie-koenders-promise-1",
+    "title": "No increase in municipal tax rates",
+    "description": "Pursue rigorous and responsible management of public finances without raising the rates of municipal taxes, as the first commitment of the 'pouvoir d'achat' (purchasing power) pillar of the program.",
+    "date_made": "2026-02-08",
+    "category": "Taxation / public finance",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "A clear, measurable commitment central to her continuity message; deliverability depends on municipal budgets over the mandate. No data yet on whether rates are held for the full term.",
+    "key_evidence": ["Program proposition 1: 'Poursuivre une gestion rigoureuse et responsable des deniers publics sans augmentation des taux des impots municipaux.'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-2",
+    "title": "Create a municipal mutual health insurance",
+    "description": "Create a municipal mutuelle to offer cheaper supplementary health insurance (complementaire sante) available to all residents.",
+    "date_made": "2026-02-08",
+    "category": "Health / purchasing power",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "A concrete new measure with a defined deliverable; implementation requires partnering arrangements but is achievable for a city. Newly elected term, no progress reported yet.",
+    "key_evidence": ["Program proposition 2: 'Creer une mutuelle municipale pour offrir une complementaire sante moins chere pour tous.'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-3",
+    "title": "Reduce Divia transport subscription price for 18-25 year-olds",
+    "description": "Reduce the price of the Divia public-transport subscription for young people aged 18 to 25 and keep the ticket price among the cheapest in France.",
+    "date_made": "2026-02-08",
+    "category": "Transport / mobility",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Tariff decisions sit within the powers of the city/metropole transport authority, making this feasible; depends on budget trade-offs. No implementation reported yet.",
+    "key_evidence": ["Program proposition 3: 'Reduire le prix de l'abonnement Divia pour les jeunes de 18 a 25 ans...'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-4",
+    "title": "Build the third tramway line (T3)",
+    "description": "Build Dijon's third tramway line (T3), incorporating the conclusions of the public consultation.",
+    "date_made": "2026-02-08",
+    "category": "Transport / infrastructure",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "A major, capital-intensive infrastructure project typically spanning multiple years and dependent on metropole financing and consultation outcomes; flagship pledge but long lead time.",
+    "key_evidence": ["Program proposition 43: 'Construire la troisieme ligne de tramway T3 en integrant les conclusions de la concertation publique.'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-5",
+    "title": "Extend municipal police hours until 5am Thursday to Saturday",
+    "description": "Extend municipal police operating hours until 5am on Thursday, Friday and Saturday nights, notably to reinforce surveillance of the Republique district, and consolidate the Harmo'Nuit charter for a calmer nightlife.",
+    "date_made": "2026-02-08",
+    "category": "Security / public tranquillity",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "An operational measure within the mayor's direct competence (she retains the security portfolio); feasible but requires staffing. No implementation reported yet.",
+    "key_evidence": ["Program proposition 10: 'Etendre les horaires de la police municipale jusqu'a 5h du matin les jeudi, vendredi et samedi soir...'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-6",
+    "title": "Plant 50,000 trees and shrubs during the mandate",
+    "description": "Plant 50,000 trees and shrubs over the term, develop a citizen 'permit to revegetate', create urban mini-forests in each district and adopt a tree charter to protect heritage trees.",
+    "date_made": "2026-02-08",
+    "category": "Environment / biodiversity",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "A quantified, trackable green commitment in line with her metropole biodiversity record; achievable over a full mandate but requires sustained budget and land. Term just begun.",
+    "key_evidence": ["Program proposition 28: 'Planter 50 000 arbres et arbustes durant le mandat...'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-7",
+    "title": "Aim for carbon neutrality by 2050 and deploy 250 hectares of solar panels",
+    "description": "Target carbon neutrality by 2050, deploy 250 hectares of photovoltaic panels on buildings and car parks, develop new renewable energy sources and obtain the national 'Territoire engage pour la transition ecologique' label.",
+    "date_made": "2026-02-08",
+    "category": "Environment / energy",
+    "status": "in_progress",
+    "confidence_score": "0.45",
+    "reasoning": "A long-horizon strategic objective (2050) with a large concrete sub-target (250 ha of solar); largely beyond a single mandate to verify and dependent on major investment.",
+    "key_evidence": ["Program proposition 23: 'Viser la neutralite carbone a l'horizon 2050, deployer 250 hectares de panneaux photovoltaiques...'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-8",
+    "title": "Regulate short-term rentals (Airbnb-type)",
+    "description": "Regulate short-term rentals of the Airbnb type in order to preserve residential housing stock.",
+    "date_made": "2026-02-08",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Municipalities have legal levers to regulate furnished tourist rentals, making this feasible; outcome depends on the regulatory scheme adopted. No measure reported yet.",
+    "key_evidence": ["Program proposition 42: 'Reguler les locations de courte duree type Airbnb pour preserver le logement residentiel.'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-9",
+    "title": "Reach 75% organic or local produce in school catering",
+    "description": "Aim for 75% organic or local products in school catering and in meals delivered to seniors.",
+    "date_made": "2026-02-08",
+    "category": "Food / education",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "A specific, measurable sourcing target building on the metropolitan legumerie; achievable but requires supply-chain scaling and budget. No progress data yet.",
+    "key_evidence": ["Program proposition 112: 'Viser l'objectif de 75 % de produits bio ou locaux dans la restauration scolaire...'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  },
+  {
+    "id": "nathalie-koenders-promise-10",
+    "title": "Introduce 15 minutes of free parking in paid zones outside the centre",
+    "description": "Introduce 15 minutes of free parking in paid zones outside the city centre to support neighbourhood retail, and expand 'j'ai le ticket avec mon commercant' operations in the centre.",
+    "date_made": "2026-02-08",
+    "category": "Local economy / mobility",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "A clearly defined parking-policy measure within municipal competence and quick to implement; feasibility is high. Not yet enacted at start of term.",
+    "key_evidence": ["Program proposition 146: 'Instaurer les 15 minutes de stationnement gratuit dans les zones payantes hors centre-ville...'"],
+    "source_url": ["https://koenders2026.fr/programme/"]
+  }
+]

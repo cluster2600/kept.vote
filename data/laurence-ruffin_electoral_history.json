@@ -1,0 +1,32 @@
+[
+  {
+    "id": "laurence-ruffin-elec-1",
+    "office": "Conseillère municipale (tête de liste) — 1er tour",
+    "jurisdiction": "Grenoble (Isère)",
+    "date": "2026-03-15",
+    "result": "lost",
+    "party": "Union de la gauche écologiste et citoyenne (Oui Grenoble)",
+    "vote_share": "environ 26 % (2e position derrière la liste d'Alain Carignon, arrivée en tête avec 27,04 %)",
+    "source_url": "https://www.grenoble.fr/article/1754/464-resultats-du-1er-tour-des-elections-municipales-a-grenoble.htm"
+  },
+  {
+    "id": "laurence-ruffin-elec-2",
+    "office": "Maire de Grenoble (élection municipale) — 2nd tour",
+    "jurisdiction": "Grenoble (Isère)",
+    "date": "2026-03-22",
+    "result": "won",
+    "party": "Union de la gauche écologiste et citoyenne (Oui Grenoble)",
+    "vote_share": "56,59 % (contre 43,41 % pour Alain Carignon, soutenu par Les Républicains)",
+    "source_url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/premiere-femme-maire-de-grenoble-ex-pdg-d-une-cooperative-en-classe-avec-emmanuel-macron-qui-est-l-ecologiste-laurence-ruffin-3321468.html"
+  },
+  {
+    "id": "laurence-ruffin-elec-3",
+    "office": "Maire de Grenoble (élection par le conseil municipal)",
+    "jurisdiction": "Grenoble (Isère)",
+    "date": "2026-03-27",
+    "result": "won",
+    "party": "Union de la gauche écologiste et citoyenne (Oui Grenoble)",
+    "vote_share": "Élue par le conseil municipal d'installation ; première femme maire de Grenoble",
+    "source_url": "https://www.grenoble.fr/148-laurence-ruffin-maire-de-grenoble.htm"
+  }
+]

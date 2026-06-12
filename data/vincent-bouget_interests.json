@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vincent-bouget-int-1",
+    "category": "Éducation",
+    "description": "Professeur d'histoire-géographie de métier ; attaché aux questions d'éducation, de jeunesse et de réussite scolaire, axe central de son projet municipal.",
+    "source_url": "https://vincentbouget.com/index.php/a-propos-de/"
+  },
+  {
+    "id": "vincent-bouget-int-2",
+    "category": "Sport",
+    "description": "Conseiller départemental du Gard délégué aux Sports ; promeut le développement des équipements sportifs municipaux.",
+    "source_url": "https://www.gard.fr/information/annuaire-des-elus/page-detail-des-elus/vincent-bouget"
+  },
+  {
+    "id": "vincent-bouget-int-3",
+    "category": "Engagement communiste et social",
+    "description": "Militant communiste de longue date, secrétaire départemental du PCF du Gard (2014-2024) et membre du Conseil national du PCF depuis 2016 ; issu d'une famille de militants communistes.",
+    "source_url": "http://gard.pcf.fr/85208"
+  },
+  {
+    "id": "vincent-bouget-int-4",
+    "category": "Sécurité civile",
+    "description": "Vice-président du Service départemental d'incendie et de secours (SDIS) du Gard et président du Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) du Gard.",
+    "source_url": "https://vincentbouget.com/index.php/a-propos-de/"
+  }
+]

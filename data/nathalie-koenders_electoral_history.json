@@ -1,0 +1,52 @@
+[
+  {
+    "id": "nathalie-koenders-elec-1",
+    "office": "Conseillere departementale (canton Dijon-2)",
+    "jurisdiction": "Cote-d'Or, France",
+    "date": "2015-03",
+    "result": "won",
+    "party": "Parti socialiste (PS)",
+    "vote_share": "",
+    "source_url": "https://en.wikipedia.org/wiki/Nathalie_Koenders"
+  },
+  {
+    "id": "nathalie-koenders-elec-2",
+    "office": "Conseillere departementale (canton Dijon-2)",
+    "jurisdiction": "Cote-d'Or, France",
+    "date": "2021-06",
+    "result": "won",
+    "party": "Parti socialiste (PS)",
+    "vote_share": "",
+    "source_url": "https://en.wikipedia.org/wiki/Nathalie_Koenders"
+  },
+  {
+    "id": "nathalie-koenders-elec-3",
+    "office": "Maire de Dijon (election by municipal council)",
+    "jurisdiction": "Dijon, Cote-d'Or, France",
+    "date": "2024-11-25",
+    "result": "won",
+    "party": "Parti socialiste (PS)",
+    "vote_share": "47 of 59 council votes",
+    "source_url": "https://www.francebleu.fr/infos/politique/le-conseil-municipal-a-vote-nathalie-koenders-devient-officiellement-maire-de-dijon-3010977"
+  },
+  {
+    "id": "nathalie-koenders-elec-4",
+    "office": "Maire de Dijon (municipal election, first round)",
+    "jurisdiction": "Dijon, Cote-d'Or, France",
+    "date": "2026-03-15",
+    "result": "qualified for second round (led)",
+    "party": "Parti socialiste (PS), list 'Dijon.'",
+    "vote_share": "39.1%",
+    "source_url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/resultats-1er-tour-des-municipales-2026-a-dijon-decouvrez-les-scores-des-candidats-dans-la-ville-ou-8-listes-s-affrontent-3311913.html"
+  },
+  {
+    "id": "nathalie-koenders-elec-5",
+    "office": "Maire de Dijon (municipal election, second round)",
+    "jurisdiction": "Dijon, Cote-d'Or, France",
+    "date": "2026-03-22",
+    "result": "won",
+    "party": "Parti socialiste (PS), list 'Dijon.'",
+    "vote_share": "58.41%",
+    "source_url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/resultats-a-dijon-qui-est-elu-maire-entre-nathalie-koenders-la-droite-et-le-rn-au-2nd-tour-des-municipales-2026-3317823.html"
+  }
+]

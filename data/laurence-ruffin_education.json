@@ -1,0 +1,29 @@
+[
+  {
+    "id": "laurence-ruffin-edu-1",
+    "institution": "Lycée Louis-le-Grand (Paris)",
+    "degree": "Classe préparatoire aux grandes écoles",
+    "field": "Préparation économique et commerciale",
+    "start_date": "",
+    "end_date": "",
+    "source_url": "https://laurenceruffin.fr/biographie-de-laurence-ruffin/"
+  },
+  {
+    "id": "laurence-ruffin-edu-2",
+    "institution": "ESSEC Business School",
+    "degree": "Diplôme de grande école de commerce",
+    "field": "Économie et gestion (conseil en stratégie)",
+    "start_date": "",
+    "end_date": "2000",
+    "source_url": "https://www.grenoble.fr/148-laurence-ruffin-maire-de-grenoble.htm"
+  },
+  {
+    "id": "laurence-ruffin-edu-3",
+    "institution": "Università Bocconi (Milan)",
+    "degree": "Cursus universitaire (échange / double diplôme)",
+    "field": "Économie et gestion",
+    "start_date": "",
+    "end_date": "2000",
+    "source_url": "https://www.grenoble.fr/148-laurence-ruffin-maire-de-grenoble.htm"
+  }
+]

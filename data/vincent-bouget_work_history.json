@@ -1,0 +1,47 @@
+[
+  {
+    "id": "vincent-bouget-work-1",
+    "organization": "Éducation nationale",
+    "role": "Professeur d'histoire-géographie",
+    "start_date": "",
+    "end_date": "present",
+    "description": "Professeur d'histoire et de géographie. Après des études à Paris et un enseignement à Sarcelles (Val-d'Oise), il enseigne dans un lycée nîmois.",
+    "source_url": "https://vincentbouget.com/index.php/a-propos-de/"
+  },
+  {
+    "id": "vincent-bouget-work-2",
+    "organization": "Parti communiste français - Fédération du Gard",
+    "role": "Secrétaire départemental",
+    "start_date": "2014",
+    "end_date": "2024",
+    "description": "Secrétaire départemental du PCF dans le Gard de 2014 à 2024. Également membre du Conseil national du PCF depuis 2016.",
+    "source_url": "https://vincentbouget.com/index.php/a-propos-de/"
+  },
+  {
+    "id": "vincent-bouget-work-3",
+    "organization": "Conseil départemental du Gard",
+    "role": "Conseiller départemental délégué aux Sports (canton de Nîmes-3)",
+    "start_date": "2021",
+    "end_date": "present",
+    "description": "Conseiller départemental du canton de Nîmes-3 au sein de la majorité de gauche et écologiste, délégué aux Sports. Président du CAUE du Gard et vice-président du SDIS.",
+    "source_url": "https://www.gard.fr/information/annuaire-des-elus/page-detail-des-elus/vincent-bouget"
+  },
+  {
+    "id": "vincent-bouget-work-4",
+    "organization": "Ville de Nîmes",
+    "role": "Maire de Nîmes",
+    "start_date": "2026-03-27",
+    "end_date": "present",
+    "description": "Élu maire de Nîmes le 27 mars 2026 à la tête de la liste d'union de la gauche Nîmes en commun.",
+    "source_url": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/apres-les-elections-municipales-vincent-bouget-officiellement-intronise-maire-de-nimes-devant-une-salle-comble-3325487.html"
+  },
+  {
+    "id": "vincent-bouget-work-5",
+    "organization": "Nîmes Métropole",
+    "role": "Président de l'agglomération",
+    "start_date": "2026-04-14",
+    "end_date": "present",
+    "description": "Élu président de la communauté d'agglomération Nîmes Métropole le 14 avril 2026.",
+    "source_url": "https://www.nimes-metropole.fr/mon-agglo/communes-et-elus/elus/vincent-bouget"
+  }
+]

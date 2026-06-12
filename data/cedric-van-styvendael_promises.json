@@ -1,0 +1,188 @@
+[
+  {
+    "id": "cedric-van-styvendael-promise-1",
+    "title": "Porter la police municipale à 100 agents",
+    "description": "Renforcer les effectifs de la police municipale de Villeurbanne pour les porter à 100 policiers, contre environ 75 actuellement, afin d'assurer une présence visible et renforcée dans chaque quartier, et créer un hôtel de police moderne intégrant le centre de supervision urbain (CSU).",
+    "date_made": "2026-02-03",
+    "category": "security",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement chiffré et précis, central dans la campagne ; le maire vient d'être réélu (mars 2026) et dispose d'une majorité, mais le recrutement et la construction de l'hôtel de police s'étalent sur le mandat.",
+    "key_evidence": [
+      "Passage de 75 à 100 policiers municipaux annoncé lors de la présentation du programme le 3 février 2026",
+      "Création annoncée d'un hôtel de police moderne intégrant le CSU"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-2",
+    "title": "Créer 160 nouvelles places en crèche",
+    "description": "Créer 160 nouvelles places en crèche dans plusieurs quartiers de la ville (Filature, Gratte-Ciel, Saint-Jean et Grandclément) au cours du mandat, dans le cadre de la priorité donnée aux « 1000 premiers jours » de l'enfant.",
+    "date_made": "2026-02-03",
+    "category": "education",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Promesse chiffrée et localisée, cohérente avec le bilan d'investissement dans la petite enfance ; réalisation progressive sur 6 ans.",
+    "key_evidence": [
+      "160 places de crèche annoncées dans les quartiers Filature, Gratte-Ciel, Saint-Jean et Grandclément",
+      "Axe de campagne sur les « 1000 premiers jours » de l'enfant"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-3",
+    "title": "Rénover trois écoles et construire deux nouveaux établissements scolaires",
+    "description": "Rénover trois écoles existantes et construire deux nouveaux établissements scolaires sur le mandat pour accompagner la croissance démographique de la ville.",
+    "date_made": "2026-02-03",
+    "category": "education",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement précis et chiffré, dans la continuité des investissements scolaires du premier mandat ; calendrier pluriannuel.",
+    "key_evidence": [
+      "Rénovation de trois écoles et construction de deux nouveaux établissements annoncées dans le programme 2026",
+      "Continuité avec le plan d'investissement éducation du mandat 2020-2026"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-4",
+    "title": "Planter 10 000 arbres supplémentaires (plan fraîcheur)",
+    "description": "Lancer un grand « plan fraîcheur » avec la plantation de 10 000 arbres supplémentaires sur le mandat pour végétaliser la ville et lutter contre les îlots de chaleur.",
+    "date_made": "2026-02-03",
+    "category": "environment",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Objectif chiffré ambitieux figurant explicitement au programme ; sa réalisation dépend d'un effort soutenu sur toute la durée du mandat.",
+    "key_evidence": [
+      "Promesse de planter 10 000 arbres supplémentaires sur le mandat",
+      "Inscrite dans un « grand plan fraîcheur » de campagne"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-5",
+    "title": "Créer quatre nouveaux parcs urbains",
+    "description": "Créer quatre nouveaux parcs urbains à la Filature, à Grandclément, à Saint-Jean et à La Soie Ouest pour renforcer la place de la nature en ville.",
+    "date_made": "2026-02-03",
+    "category": "environment",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Promesse précise et localisée ; la création de parcs nécessite foncier, aménagement et coordination avec la Métropole, donc échelonnée sur le mandat.",
+    "key_evidence": [
+      "Quatre nouveaux parcs urbains annoncés (Filature, Grandclément, Saint-Jean, La Soie Ouest)"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-6",
+    "title": "Instaurer un droit d'interpellation et de votation citoyenne",
+    "description": "Mettre en place un droit d'interpellation citoyenne clair et gradué : à partir de 400 signatures, une proposition citoyenne devra être débattue en conseil municipal ; à partir de 1 000 signatures, une votation citoyenne sera organisée.",
+    "date_made": "2026-02-03",
+    "category": "democracy",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Dispositif institutionnel à la main directe du conseil municipal, donc relativement aisé à instaurer en début de mandat ; reste à formaliser par délibération.",
+    "key_evidence": [
+      "Seuils de 400 signatures (débat en conseil) et 1 000 signatures (votation citoyenne) annoncés",
+      "Mesure présentée comme un engagement de démocratie locale du second mandat"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-7",
+    "title": "Ouvrir une permanence de l'habitat dans chaque quartier",
+    "description": "Créer dans chaque quartier de la ville une permanence de l'habitat pour orienter les habitants, accompagner les démarches et faciliter l'accès au logement, dans une logique de maintien d'une offre de logement social et abordable accessible à tous.",
+    "date_made": "2026-02-03",
+    "category": "housing",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesure cohérente avec le profil de spécialiste du logement social du maire ; la mise en place de permanences dans chaque quartier suppose des moyens humains à déployer sur le mandat.",
+    "key_evidence": [
+      "Permanence de l'habitat annoncée dans chaque quartier pour faciliter l'accès au logement",
+      "Profil professionnel du maire (ex-directeur d'Est Métropole Habitat, ex-président de Housing Europe)"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-8",
+    "title": "Candidater à l'inscription des Gratte-Ciel au patrimoine mondial de l'UNESCO",
+    "description": "Engager une démarche pour inscrire le quartier des Gratte-Ciel de Villeurbanne au patrimoine mondial de l'UNESCO à l'occasion du centenaire du quartier emblématique.",
+    "date_made": "2026-02-03",
+    "category": "culture",
+    "status": "in_progress",
+    "confidence_score": "0.4",
+    "reasoning": "Engagement à forte valeur symbolique mais dont l'aboutissement ne dépend pas de la seule commune : une inscription à l'UNESCO est un processus long, exigeant et largement hors du contrôle municipal.",
+    "key_evidence": [
+      "Volonté affichée d'inscrire Villeurbanne (Gratte-Ciel) au patrimoine mondial de l'UNESCO pour les 100 ans du quartier"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-9",
+    "title": "Réunir une convention citoyenne sur la jeunesse",
+    "description": "Mettre en place dès le début du mandat une convention citoyenne consacrée à la jeunesse pour associer les habitants à la définition de la politique jeunesse de la ville.",
+    "date_made": "2026-02-03",
+    "category": "education",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement présenté comme à mettre en œuvre « dès le début du mandat » ; format participatif à la main de la municipalité, donc lançable rapidement.",
+    "key_evidence": [
+      "Convention citoyenne sur la jeunesse annoncée pour le début du mandat par un colistier (Olivier Gluck)"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-10",
+    "title": "Améliorer la propreté avec un tableau de bord public et une brigade renforcée",
+    "description": "Améliorer la propreté de la ville via un plan de rattrapage négocié avec la Métropole (plus d'agents et de matériel adapté), une brigade « cadre de vie » d'environ 24 agents appuyée par la vidéoverbalisation, des délais d'intervention garantis sur les signalements et un tableau de bord public de la propreté.",
+    "date_made": "2026-02-01",
+    "category": "environment",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Mesure détaillée du programme ; une partie (collecte, voirie) relève de la compétence de la Métropole de Lyon, ce qui rend la réalisation partiellement dépendante d'une négociation intercommunale.",
+    "key_evidence": [
+      "Tableau de bord public de la propreté et délais d'intervention garantis annoncés au programme",
+      "Brigade cadre de vie d'environ 24 agents avec vidéoverbalisation",
+      "Plan de rattrapage propreté à négocier avec la Métropole de Lyon"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/villeurbanne/candidats/styvendael/",
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  },
+  {
+    "id": "cedric-van-styvendael-promise-11",
+    "title": "Investir 350 millions d'euros sur le mandat 2026-2032",
+    "description": "Maintenir un haut niveau d'investissement public avec un programme d'environ 350 millions d'euros sur le second mandat, en s'appuyant sur une dette municipale présentée comme deux fois inférieure à la moyenne des villes de taille comparable (environ 93 millions d'euros).",
+    "date_made": "2026-02-03",
+    "category": "finance",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Cadre financier global plutôt qu'engagement ponctuel ; sa tenue dépend du contexte budgétaire, des dotations de l'État et de la conjoncture, mais s'appuie sur une situation de dette relativement maîtrisée affichée par la ville.",
+    "key_evidence": [
+      "Chiffre de 350 millions d'euros d'investissements avancé pour le prochain mandat",
+      "Dette municipale évaluée à environ 93 millions d'euros, présentée comme moitié moins que la moyenne nationale"
+    ],
+    "source_url": [
+      "https://www.lyoncapitale.fr/actualite/a-villeurbanne-cedric-van-styvendael-veut-poursuivre-son-travail"
+    ]
+  }
+]

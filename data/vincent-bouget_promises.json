@@ -1,0 +1,206 @@
+[
+  {
+    "id": "vincent-bouget-promise-1",
+    "title": "Gratuité des transports scolaires et extension de la gratuité des bus",
+    "description": "Instaurer la gratuité immédiate des transports en commun pour les scolaires afin de corriger une inégalité territoriale, étendre la gratuité aux personnes en situation de précarité et au demi-tarif pour les retraités de moins de 70 ans, tout en maintenant la gratuité pour les plus de 70 ans. Objectif affiché : tendre vers la gratuité totale des transports à Nîmes.",
+    "date_made": "2026-01-20",
+    "category": "Transports / Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesure présentée comme première priorité de campagne et reprise dans le projet Nîmes en commun ; relève de Nîmes Métropole qu'il préside désormais, mais financement (redéploiement des crédits de l'Agglo) restant à arbitrer dans un contexte de dette élevée.",
+    "key_evidence": [
+      "Gratuité immédiate pour les scolaires présentée comme première priorité",
+      "Demi-tarif retraités de moins de 70 ans et gratuité maintenue au-delà de 70 ans"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/municipales-a-nimes-la-liste-de-vincent-bouget-defend-la-gratuite-des-transports-160031.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-2",
+    "title": "Créer un centre de santé communal avec des médecins salariés",
+    "description": "Identifier dès avril un bâtiment pour installer un centre de santé communal pluriprofessionnel et universitaire avec des médecins salariés, afin de répondre au manque de médecin traitant pour environ 15 000 Nîmois.",
+    "date_made": "2026-01-20",
+    "category": "Santé / Services publics",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesure phare du volet santé du projet, inscrite dans les priorités des 100 premiers jours avec un calendrier précis ; faisabilité dépendant du recrutement de médecins et du budget municipal.",
+    "key_evidence": [
+      "Centre de santé communal pluriprofessionnel et universitaire avec médecins salariés",
+      "15 000 Nîmois sans médecin traitant cités comme justification"
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/occitanie/gard-30/nimes/securite-sante-et-education-les-priorites-de-vincent-bouget-pour-les-100-premiers-jours-de-son-mandat-9739727"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-3",
+    "title": "Renforcer la sécurité : retour de la police de proximité et horaires étendus",
+    "description": "Rétablir une police de proximité, finaliser l'ouverture du commissariat de Pissevin, mobiliser les effectifs de la police municipale de 23h à 1h du matin, tester des postes de police mobiles et prendre des arrêtés de fermeture des épiceries de nuit à partir de 22h, tout en sollicitant l'État pour davantage de moyens de police nationale et de justice.",
+    "date_made": "2026-01-20",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Volet sécurité détaillé dans le projet et dans les priorités des 100 premiers jours ; plusieurs leviers (police nationale, justice) dépendent toutefois de l'État et non du maire.",
+    "key_evidence": [
+      "Retour de la police de proximité et finalisation du commissariat de Pissevin",
+      "Mobilisation des effectifs de 23h à 1h et test de postes de police mobiles"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-4",
+    "title": "Développer le logement social et créer un observatoire du logement",
+    "description": "Créer un observatoire du logement pour recenser les logements vacants, développer le logement social en visant une part proche de 30 %, créer un organisme de foncier solidaire permettant d'abaisser les prix de 30 à 40 %, et renforcer les contrôles de salubrité.",
+    "date_made": "2026-01-20",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement structurant du projet sur le logement abordable ; la montée à 30 % de logement social et la mise en place d'un OFS sont des objectifs de moyen-long terme dont la réalisation dépendra des moyens fonciers et budgétaires.",
+    "key_evidence": [
+      "Observatoire du logement et part de logement social visée autour de 30 %",
+      "Organisme de foncier solidaire abaissant les prix de 30 à 40 %"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-5",
+    "title": "Rénover les écoles et renforcer l'accompagnement de la jeunesse",
+    "description": "Sélectionner dès mai six écoles à rénover, avec l'objectif de réhabiliter une trentaine d'établissements scolaires d'ici la fin du mandat, renforcer l'aide aux devoirs sur le temps périscolaire et organiser des séjours de vacances pour 1 000 jeunes Nîmois.",
+    "date_made": "2026-01-20",
+    "category": "Éducation / Jeunesse",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "La réussite de la jeunesse est l'une des trois priorités du projet, avec un calendrier de rénovation engagé dès les premiers mois ; l'objectif de 30 établissements est ambitieux sur la durée du mandat.",
+    "key_evidence": [
+      "Six écoles sélectionnées dès mai, objectif d'environ 30 établissements rénovés",
+      "Aide aux devoirs renforcée et séjours de vacances pour 1 000 jeunes"
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/occitanie/gard-30/nimes/securite-sante-et-education-les-priorites-de-vincent-bouget-pour-les-100-premiers-jours-de-son-mandat-9739727"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-6",
+    "title": "Lancer un grand plan de végétalisation partagée et de désimperméabilisation",
+    "description": "Mettre en place un grand plan de végétalisation partagée co-construit avec les habitants, en priorisant les quartiers les plus vulnérables, avec création d'îlots de fraîcheur et un plan de désimperméabilisation des sols pour lutter contre l'artificialisation et prévenir les inondations. Une équipe d'urbanistes et de paysagistes serait mobilisée pour proposer un plan stratégique.",
+    "date_made": "2026-01-20",
+    "category": "Écologie / Urbanisme",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement écologique central, avec sites emblématiques déjà identifiés (Jean Robert, rue Vincent-Faïta) et recours annoncé à une équipe d'urbanistes ; concertation et études préalables conditionnent le calendrier.",
+    "key_evidence": [
+      "Plan de végétalisation partagée priorisant les quartiers vulnérables",
+      "Plan de désimperméabilisation pour prévenir les inondations"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-7",
+    "title": "Créer 50 km de pistes cyclables et renforcer la mobilité nocturne",
+    "description": "Créer 50 km de pistes cyclables sur la durée du mandat, augmenter l'amplitude horaire des bus et mettre en place des navettes nocturnes spéciales pour permettre notamment le raccompagnement des femmes le soir.",
+    "date_made": "2026-01-20",
+    "category": "Transports / Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Objectif chiffré de 50 km de pistes cyclables annoncé pendant la campagne, complété par des navettes nocturnes ; réalisation dépendante des arbitrages budgétaires de la Ville et de l'Agglo.",
+    "key_evidence": [
+      "Création de 50 km de pistes cyclables sur le mandat",
+      "Navettes nocturnes et extension des amplitudes horaires des bus"
+    ],
+    "source_url": [
+      "https://www.ici.fr/occitanie/gard-30/nimes/municipales-a-nimes-vincent-bouget-devoile-son-programme-pour-faciliter-les-deplacements-dans-la-ville-4392240"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-8",
+    "title": "Rendre le pouvoir aux Nîmois via des dispositifs de démocratie participative",
+    "description": "Mettre en place des « Places communes » pour consulter les habitants et recenser leurs besoins, et aller à la rencontre des habitants avec les maires de Nîmes Métropole pour co-rédiger un projet de territoire. « Rendre le pouvoir aux Nîmois » est l'une des trois priorités structurantes du projet.",
+    "date_made": "2026-01-20",
+    "category": "Démocratie locale / Participation",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "La participation citoyenne est au cœur du positionnement de la liste Nîmes en commun, issue de plus d'un an et demi d'enquête auprès des habitants ; engagement de méthode dont la portée concrète reste à mesurer.",
+    "key_evidence": [
+      "Création de « Places communes » pour consulter les habitants",
+      "« Rendre le pouvoir aux Nîmois » érigé en priorité du projet"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-9",
+    "title": "Créer une mutuelle communale et une caisse locale de sécurité sociale de l'alimentation",
+    "description": "Mettre en place une mutuelle communale, créer une caisse locale de sécurité sociale de l'alimentation et soutenir les épiceries solidaires et ressourceries, dans le cadre de l'axe « retisser des liens et développer la solidarité ».",
+    "date_made": "2026-01-20",
+    "category": "Politique sociale",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesures sociales emblématiques d'un projet de gauche communiste, détaillées dans la présentation du projet ; mise en œuvre dépendant de partenariats et de moyens municipaux.",
+    "key_evidence": [
+      "Mutuelle communale et caisse locale de sécurité sociale de l'alimentation",
+      "Soutien aux épiceries solidaires et ressourceries"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-10",
+    "title": "Reprendre en régie publique la gestion des monuments romains",
+    "description": "Faire revenir en régie publique la gestion des monuments romains (Arènes, Maison Carrée, Tour Magne), aujourd'hui assurée par Edeis, via un établissement public de coopération culturelle (EPCC), sur le modèle du Pont du Gard, et créer une « maison de l'Unesco ».",
+    "date_made": "2026-01-20",
+    "category": "Culture / Tourisme / Services publics",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement net en faveur de la gestion publique du patrimoine, présenté dans le projet ; le passage en régie suppose la fin ou la renégociation de la délégation existante, ce qui en fait un objectif de moyen terme.",
+    "key_evidence": [
+      "Retour en régie via un EPCC sur le modèle du Pont du Gard",
+      "Création annoncée d'une maison de l'Unesco"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-11",
+    "title": "Investir dans les équipements sportifs et culturels et rendre les bibliothèques gratuites",
+    "description": "Consacrer environ 40 M€ sur le mandat à la rénovation d'une quinzaine d'infrastructures sportives et culturelles, dont un nouveau complexe sportif avec piscine à l'est de la ville, la rénovation du théâtre Bernadette-Lafont, et instaurer la gratuité intégrale des bibliothèques pour faire de Nîmes une « cité du livre ».",
+    "date_made": "2026-01-20",
+    "category": "Sport / Culture",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Enveloppe d'environ 40 M€ et projets précis annoncés pendant la campagne ; réalisation soumise aux contraintes budgétaires de la Ville (dette cumulée Ville-Agglo élevée).",
+    "key_evidence": [
+      "Environ 40 M€ pour rénover une quinzaine d'infrastructures, complexe sportif à l'est avec piscine",
+      "Gratuité intégrale des bibliothèques"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  },
+  {
+    "id": "vincent-bouget-promise-12",
+    "title": "Stabiliser la fiscalité locale sans hausse ni baisse d'impôt",
+    "description": "Ne procéder ni à une baisse ni à une hausse des impôts locaux, en assumant que toute baisse d'impôt sacrifierait des domaines d'action municipale, dans un contexte de dette cumulée Ville-Agglomération d'environ 758 M€, tout en maintenant un budget d'investissement d'environ 60 M€ par an pour la Ville.",
+    "date_made": "2026-01-20",
+    "category": "Finances locales",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement de stabilité fiscale clairement formulé pendant la présentation du projet, encadré par un diagnostic financier prudent ; tenir cet objectif dépendra de l'évolution des recettes et des dépenses contraintes.",
+    "key_evidence": [
+      "Ni baisse ni hausse d'impôt annoncée",
+      "Dette cumulée Ville-Agglo d'environ 758 M€ et 60 M€ d'investissement annuel pour la Ville"
+    ],
+    "source_url": [
+      "https://www.objectifgard.com/politique/fait-du-jour-municipales-a-nimes-vincent-bouget-a-lepreuve-du-projet-158285.php"
+    ]
+  }
+]
