@@ -1,0 +1,138 @@
+[
+  {
+    "id": "ep-conseiller-etat-1997",
+    "title": "Auditeur puis maître des requêtes",
+    "organization": "Conseil d'État",
+    "start_date": "1997",
+    "end_date": "2001",
+    "description": "À sa sortie de l'ENA (promotion Marc Bloch), Édouard Philippe intègre le Conseil d'État, spécialisé dans le droit des marchés publics."
+  },
+  {
+    "id": "ep-adjoint-maire-havre-juridique-2001",
+    "title": "Adjoint au maire, chargé des affaires juridiques",
+    "organization": "Ville du Havre",
+    "start_date": "2001",
+    "end_date": "2004",
+    "description": "Dès 2001, il devient adjoint au maire du Havre, en charge des affaires juridiques, sous Antoine Rufenacht. Il rejoint l'UMP."
+  },
+  {
+    "id": "ep-directeur-ump-2002",
+    "title": "Directeur général",
+    "organization": "Union pour un Mouvement Populaire (UMP)",
+    "start_date": "2002",
+    "end_date": "2004",
+    "description": "Alain Juppé lui confie le poste de directeur général de l'UMP en 2002. Il reste un soutien fidèle de Juppé jusqu'à sa défaite à la primaire de la droite de 2016."
+  },
+  {
+    "id": "ep-conseiller-regional-haute-normandie-2004",
+    "title": "Conseiller régional",
+    "organization": "Région Haute-Normandie",
+    "start_date": "2004",
+    "end_date": "2008",
+    "description": "Conseiller régional de Haute-Normandie de 2004 à 2008."
+  },
+  {
+    "id": "ep-adjoint-maire-havre-economie-2008",
+    "title": "Adjoint au maire, chargé du développement économique, portuaire et de l'emploi",
+    "organization": "Ville du Havre",
+    "start_date": "2008",
+    "end_date": "2009",
+    "description": "Adjoint au maire du Havre chargé du développement économique et portuaire, de l'emploi, de la formation, de l'enseignement supérieur et des relations internationales."
+  },
+  {
+    "id": "ep-conseiller-general-seine-maritime-2008",
+    "title": "Conseiller général",
+    "organization": "Conseil général de Seine-Maritime",
+    "start_date": "2008",
+    "end_date": "2010",
+    "description": "Conseiller général de Seine-Maritime élu en 2008."
+  },
+  {
+    "id": "ep-adjoint-maire-havre-urbanisme-2009",
+    "title": "Adjoint au maire, chargé de l'urbanisme et de l'habitat",
+    "organization": "Ville du Havre",
+    "start_date": "2009",
+    "end_date": "2010",
+    "description": "Adjoint au maire chargé de l'urbanisme, de l'habitat, du Grand Paris et du développement portuaire."
+  },
+  {
+    "id": "ep-directeur-affaires-publiques-areva-2007",
+    "title": "Directeur des affaires publiques",
+    "organization": "Areva",
+    "start_date": "2007-10",
+    "end_date": "2010-10",
+    "description": "Directeur des affaires publiques du groupe nucléaire Areva d'octobre 2007 à octobre 2010, en parallèle de ses mandats locaux."
+  },
+  {
+    "id": "ep-avocat-debevoise-2005",
+    "title": "Avocat",
+    "organization": "Debevoise & Plimpton LLP",
+    "start_date": "2005",
+    "end_date": "2007",
+    "description": "Avocat au sein du cabinet Debevoise & Plimpton LLP avant de rejoindre Areva."
+  },
+  {
+    "id": "ep-avocat-wilhelm-2011",
+    "title": "Avocat associé",
+    "organization": "Wilhelm & Associés",
+    "start_date": "2011-03",
+    "end_date": "2012-07",
+    "description": "Avocat au sein du cabinet Wilhelm & Associés entre son départ d'Areva et son élection comme député."
+  },
+  {
+    "id": "ep-maire-havre-1er-mandat-2010",
+    "title": "Maire du Havre",
+    "organization": "Ville du Havre",
+    "start_date": "2010",
+    "end_date": "2017-05",
+    "description": "Élu maire du Havre par le conseil municipal en 2010 après la démission d'Antoine Rufenacht. Réélu dès le premier tour en 2014 avec 52,04 % des suffrages. Démissionne à sa nomination comme Premier ministre en mai 2017."
+  },
+  {
+    "id": "ep-depute-seine-maritime-2012",
+    "title": "Député de Seine-Maritime (7e circonscription)",
+    "organization": "Assemblée nationale",
+    "start_date": "2012",
+    "end_date": "2017-06",
+    "description": "Élu député de la 7e circonscription de Seine-Maritime (Le Havre) aux élections législatives de 2012. Son mandat prend fin le 15 juin 2017 lors de sa nomination comme membre du gouvernement."
+  },
+  {
+    "id": "ep-premier-ministre-2017",
+    "title": "Premier ministre de France",
+    "organization": "Gouvernement de la République française",
+    "start_date": "2017-05-15",
+    "end_date": "2020-07-03",
+    "description": "Nommé Premier ministre par le président Emmanuel Macron le 15 mai 2017, au lendemain de son investiture. Première fois sous la Ve République hors cohabitation qu'un président nomme un Premier ministre issu d'une autre formation politique. Il dirige deux gouvernements successifs, gère la crise des Gilets jaunes (2018–2019), la réforme des retraites (2019–2020) et les premières semaines de la crise du Covid-19. Il remet sa démission le 3 juillet 2020."
+  },
+  {
+    "id": "ep-maire-havre-2eme-mandat-2020",
+    "title": "Maire du Havre",
+    "organization": "Ville du Havre",
+    "start_date": "2020-07",
+    "end_date": "",
+    "description": "Réélu maire du Havre aux élections municipales de 2020 (58,83 % au second tour du 28 juin 2020). Réélu à nouveau lors des municipales de mars 2026 avec 47,71 % des voix au second tour (22 mars 2026). Mandat en cours."
+  },
+  {
+    "id": "ep-president-lhsm-2020",
+    "title": "Président",
+    "organization": "Le Havre Seine Métropole (communauté urbaine)",
+    "start_date": "2020",
+    "end_date": "",
+    "description": "Président de la communauté urbaine Le Havre Seine Métropole depuis 2020. Mandat en cours."
+  },
+  {
+    "id": "ep-fondateur-president-horizons-2021",
+    "title": "Fondateur et président",
+    "organization": "Horizons (parti politique)",
+    "start_date": "2021-10-09",
+    "end_date": "",
+    "description": "Fonde le parti Horizons le 9 octobre 2021. Formation centriste de droite, membre de la coalition avec Renaissance et le MoDem. Il en est le président depuis sa création."
+  },
+  {
+    "id": "ep-candidat-presidentielle-2027",
+    "title": "Candidat déclaré à l'élection présidentielle",
+    "organization": "Présidentielle française 2027",
+    "start_date": "2024-09-03",
+    "end_date": "",
+    "description": "Annonce officielle de sa candidature à l'élection présidentielle de 2027, déclarée lors d'une interview au magazine Le Point le 3 septembre 2024."
+  }
+]

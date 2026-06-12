@@ -1,0 +1,147 @@
+[
+  {
+    "id": "ep-prom-tramway-ligne3",
+    "title": "Création d'une troisième ligne de tramway vers les quartiers sud",
+    "description": "Engagement de créer une troisième ligne de tramway à l'horizon 2027 pour relier les quartiers sud du Havre (dont Sanvic et les communes voisines), Harfleur et Montivilliers. Une ligne desservant directement l'hôpital Monod est également prévue dans le programme.",
+    "date_made": "2026-02",
+    "category": "Transports & Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Engagement central et chiffré du programme municipal 2026, cohérent avec les projets de transport en commun déjà engagés sous les précédents mandats. La date cible de 2027 pour la troisième ligne est ambitieuse mais le projet figure explicitement dans les 108 propositions.",
+    "key_evidence": [
+      "Programme municipal 60 propositions publié en février 2026 sur ep2026.fr",
+      "Thématique Transports & Mobilité : 15 propositions au total selon pourquituvotes.fr",
+      "Réseau de tramway déjà existant et en développement à Le Havre"
+    ],
+    "source_url": [
+      "https://ep2026.fr/programme/",
+      "https://pourquituvotes.fr/municipales-2026/le-havre/candidats/philippe/"
+    ]
+  },
+  {
+    "id": "ep-prom-securite-cameras",
+    "title": "Déploiement de nouvelles caméras de vidéosurveillance et renforcement policier",
+    "description": "Installation de nouvelles caméras de vidéosurveillance et déploiement de davantage de policiers municipaux, notamment pour lutter contre les trafics de drogues. Utilisation de la vidéo verbalisation pour réprimer les infractions routières dangereuses et les dépôts sauvages.",
+    "date_made": "2026-02",
+    "category": "Sécurité & Prévention",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Engagement clairement formulé dans les 7 propositions sécurité du programme. Les moyens (caméras, police municipale) sont de la compétence directe du maire.",
+    "key_evidence": [
+      "Programme municipal 2026 — thématique Sécurité & Prévention (7 propositions)",
+      "Déclarations de campagne de janvier–mars 2026"
+    ],
+    "source_url": [
+      "https://ep2026.fr/programme/",
+      "https://pourquituvotes.fr/municipales-2026/le-havre/candidats/philippe/"
+    ]
+  },
+  {
+    "id": "ep-prom-education-17-propositions",
+    "title": "Plan éducatif renforcé : 17 propositions pour l'éducation et la jeunesse",
+    "description": "Volet le plus volumineux du programme avec 17 propositions : amélioration des équipements scolaires, soutien à l'éducation populaire, développement des activités parascolaires, et accès facilité au patrimoine et à la culture pour les jeunes Havrais.",
+    "date_made": "2026-02",
+    "category": "Éducation & Jeunesse",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Priorité affichée du programme, co-égale avec l'environnement (17 propositions chacun). Le volet éducation est de compétence partagée ville/département/État, ce qui peut limiter l'autonomie d'action strictement municipale.",
+    "key_evidence": [
+      "Programme 60 propositions / 108 propositions ep2026.fr",
+      "Éducation & Jeunesse : 17 propositions selon pourquituvotes.fr"
+    ],
+    "source_url": [
+      "https://ep2026.fr/programme/",
+      "https://pourquituvotes.fr/municipales-2026/le-havre/candidats/philippe/"
+    ]
+  },
+  {
+    "id": "ep-prom-transition-ecologique",
+    "title": "Transition écologique : décarbonation industrielle et portuaire, végétalisation",
+    "description": "17 propositions environnementales : accompagnement de la décarbonation des activités industrielles et portuaires, extension du réseau de chaleur urbain, poursuite de la rénovation énergétique des bâtiments publics, végétalisation et arborisation de la ville, réhabilitation de la décharge littorale de Dollemard.",
+    "date_made": "2026-02",
+    "category": "Environnement & Transition écologique",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Axe cohérent avec les réalisations du mandat précédent (tramway, réseau de chaleur). La décarbonation portuaire implique des partenariats avec Haropa Port, communauté urbaine et État.",
+    "key_evidence": [
+      "Programme 2026 ep2026.fr — Environnement & Transition écologique : 17 propositions",
+      "Vert.eco — article sur les enjeux écologiques des municipales 2026 au Havre"
+    ],
+    "source_url": [
+      "https://ep2026.fr/programme/",
+      "https://vert.eco/articles/municipales-2026-dans-les-bastions-industriels-du-havre-et-de-rouen-les-candidats-promettent-de-mettre-lecologie-au-centre"
+    ]
+  },
+  {
+    "id": "ep-prom-sante-medecins",
+    "title": "Attractivité médicale : incubateur pour jeunes généralistes et logements abordables pour internes",
+    "description": "Pour lutter contre la désertification médicale, création d'un incubateur pour jeunes médecins généralistes à Le Havre et offre de logements abordables lors de leur année d'internat afin d'encourager leur installation dans la ville.",
+    "date_made": "2026-02",
+    "category": "Santé & Accès aux soins",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Proposition concrète et innovante du programme. La compétence santé est principalement nationale/régionale, mais la mairie peut agir en tant que facilitateur et bailleur de logements.",
+    "key_evidence": [
+      "Programme 2026 ep2026.fr — Santé & Accès aux soins : 10 propositions",
+      "Déclarations de campagne relayées par France Bleu Normandie"
+    ],
+    "source_url": [
+      "https://ep2026.fr/programme/",
+      "https://www.francebleu.fr/emissions/ici-matin-l-invite-ici-normandie/municipales-2026-candidat-au-havre-edouard-philippe-rassure-sur-ses-futures-ambitions-presidentielles-3539210"
+    ]
+  },
+  {
+    "id": "ep-prom-renovation-logements-sociaux",
+    "title": "Rénovation de plus de 750 logements sociaux à Caucriauville d'ici 2030",
+    "description": "Programme de rénovation urbaine de grande ampleur dans le quartier de Caucriauville : plus de 750 logements sociaux rénovés d'ici 2030. Plus de 650 logements Alcéane rénovés sur l'ensemble de la ville d'ici 2030.",
+    "date_made": "2026-02",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Engagement chiffré et localisé, cohérent avec les programmes de rénovation urbaine (ANRU) déjà engagés. La mairie est maître d'ouvrage de ces projets en partenariat avec le bailleur Alcéane.",
+    "key_evidence": [
+      "Programme quartier Caucriauville sur ep2026.fr",
+      "Engagement Alcéane — plus de 650 logements rénovés d'ici 2030"
+    ],
+    "source_url": [
+      "https://ep2026.fr/quartier/caucriauville/",
+      "https://ep2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "ep-prom-sport-acces-transports",
+    "title": "Gratuité des transports en commun pour les enfants jusqu'à 6 ans et vers les équipements culturels",
+    "description": "Extension de la gratuité des transports scolaires à tous les équipements culturels, création d'un abonnement famille à tarif préférentiel, et gratuité des transports pour les enfants jusqu'à 6 ans afin d'encourager la pratique culturelle et sportive.",
+    "date_made": "2026-02",
+    "category": "Transports & Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Mesures sociales concrètes de compétence communautaire (réseau de transport LiA géré par Le Havre Seine Métropole). Implique une décision du conseil de la communauté urbaine.",
+    "key_evidence": [
+      "Programme municipal 2026 ep2026.fr — volet transports et solidarité",
+      "Déclarations de campagne relayées par les médias locaux"
+    ],
+    "source_url": [
+      "https://ep2026.fr/programme/",
+      "https://pourquituvotes.fr/municipales-2026/le-havre/candidats/philippe/"
+    ]
+  },
+  {
+    "id": "ep-prom-accueil-ensam",
+    "title": "Accueil de l'École Nationale Supérieure des Arts et Métiers au Havre",
+    "description": "Engagement d'accueillir l'ENSAM (Arts et Métiers ParisTech) à Le Havre afin de renforcer l'attractivité universitaire et le tissu d'ingénieurs et de cadres techniques dans l'agglomération portuaire.",
+    "date_made": "2026-02",
+    "category": "Économie & Emploi",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Projet d'implantation d'une grande école prestigieuse, structurant pour l'économie locale. Implique des négociations avec l'État et l'ENSAM, hors contrôle direct de la mairie.",
+    "key_evidence": [
+      "Programme municipal 2026 ep2026.fr — volet économie et emploi",
+      "Déclarations de campagne relayées par les médias locaux"
+    ],
+    "source_url": [
+      "https://ep2026.fr/programme/",
+      "https://pourquituvotes.fr/municipales-2026/le-havre/candidats/philippe/"
+    ]
+  }
+]

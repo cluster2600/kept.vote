@@ -1,0 +1,220 @@
+[
+  {
+    "id": "cameras-800-videosurveillance",
+    "title": "Doubler le nombre de caméras de vidéosurveillance (400 → 800)",
+    "description": "Porter le parc de caméras de vidéosurveillance de 430 à 800 caméras d'ici la fin du mandat 2026-2032, afin de renforcer la sécurité et la tranquillité publique dans tous les quartiers de Reims.",
+    "date_made": "2026-01",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Engagement phare de la campagne, annoncé dans le programme officiel et largement relayé par la presse locale. Robinet a déjà multiplié par douze le nombre de caméras entre 2014 et 2026, ce qui crédibilise l'ambition.",
+    "key_evidence": [
+      "Programme officiel arnaudrobinet2026.fr : 800 caméras d'ici fin de mandat",
+      "France Bleu : 'Robinet souhaite doubler les caméras de vidéosurveillance' (2026)",
+      "Passage de 36 caméras en 2014 à 430 en 2026 constaté"
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/grand-est/marne-51/reims/municipales-2026-a-reims-le-maire-sortant-et-candidat-arnaud-robinet-souhaite-doubler-les-cameras-de-videosurveillance-1751687",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "extension-horaires-tramway-bus",
+    "title": "Extension des horaires de tramway et de bus le soir et le week-end",
+    "description": "Proposer une extension ambitieuse des horaires de tram et de bus en semaine et le week-end pour répondre aux nouveaux rythmes de vie des Rémois, en desservant l'ensemble des quartiers de la ville.",
+    "date_made": "2026-01",
+    "category": "Transports et mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.80",
+    "reasoning": "Proposition inscrite dans la thématique Transports & Mobilité du programme (5 propositions sur ce thème). Validée par plusieurs sources presse.",
+    "key_evidence": [
+      "Programme 47 propositions : thème Transports & Mobilité, 5 propositions",
+      "France Bleu : extension des horaires tram/bus annoncée",
+      "Pourquituvotes.fr : analyse du programme confirm transport"
+    ],
+    "source_url": [
+      "https://www.arnaudrobinet2026.fr/programme/",
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/"
+    ]
+  },
+  {
+    "id": "periscolaire-horaires-elargis",
+    "title": "Étendre les horaires du périscolaire le soir",
+    "description": "Élargir les plages horaires du service de garde périscolaire en soirée pour mieux concilier vie professionnelle et vie familiale des parents rémois.",
+    "date_made": "2026-01",
+    "category": "Éducation et jeunesse",
+    "status": "in_progress",
+    "confidence_score": "0.80",
+    "reasoning": "Première des 12 propositions phares mentionnées sur le site de campagne officiel.",
+    "key_evidence": [
+      "Site arnaudrobinet2026.fr : '12 propositions phares : Étendre les horaires du périscolaire le soir'"
+    ],
+    "source_url": [
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "renovation-musee-beaux-arts",
+    "title": "Réouverture du Musée des Beaux-Arts rénové en 2027",
+    "description": "Achever la transformation du Musée des Beaux-Arts de Reims, chantier en cours avec l'architecte Francisco Aires Mateus, et organiser des portes ouvertes avant son inauguration en 2027.",
+    "date_made": "2026-01",
+    "category": "Culture et patrimoine",
+    "status": "in_progress",
+    "confidence_score": "0.90",
+    "reasoning": "Chantier en cours au moment des élections, confirmé par les communications officielles du maire sur ses réseaux sociaux en 2026. Date 2027 annoncée publiquement.",
+    "key_evidence": [
+      "Post Instagram arnaud_robinet (juin 2026) : 'dans un an, le musée rouvrira ses portes'",
+      "Programme : Culture & Patrimoine = 9 propositions, le plus doté"
+    ],
+    "source_url": [
+      "https://www.arnaudrobinet2026.fr/",
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/"
+    ]
+  },
+  {
+    "id": "renouvellement-urbain-quartiers",
+    "title": "Poursuivre le renouvellement urbain des quartiers prioritaires (NPNRU)",
+    "description": "Continuer le programme ANRU de renouvellement urbain des quartiers Orgeval, Croix-Rouge, Europe et Châtillon (365 M€), avec désenclavement, reconstruction de logements et développement commercial.",
+    "date_made": "2026-01",
+    "category": "Urbanisme et cadre de vie",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Programme en cours depuis plusieurs années, engagement de continuité confirmé. L'ANRU et la ville de Reims ont des conventions en vigueur.",
+    "key_evidence": [
+      "ANRU : présentation Orgeval novembre 2025 avec Arnaud Robinet",
+      "Investissement 365 M€ programmes NPNRU Reims",
+      "Programme 2026 : thème Urbanisme & Cadre de vie, 7 propositions"
+    ],
+    "source_url": [
+      "https://www.anru.fr/actualites/reims-un-nouveau-coeur-de-quartier-pour-orgeval",
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/"
+    ]
+  },
+  {
+    "id": "police-municipale-renforcement",
+    "title": "Renforcer la police municipale et créer des postes mixtes police nationale/municipale",
+    "description": "Renforcer les effectifs et les moyens de la police municipale de Reims, créer des postes de police conjoints entre police nationale et municipale, et déployer une unité motocycliste pour des interventions plus rapides.",
+    "date_made": "2026-01",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.80",
+    "reasoning": "Engagement de sécurité détaillé lors du débat et dans le programme. La sécurité constitue un axe fort de la campagne Robinet 2026.",
+    "key_evidence": [
+      "France Bleu : 'la sécurité est bien évidemment une des priorités' (interview Robinet)",
+      "Programme : thème Sécurité & Prévention, 2 propositions",
+      "France 3 débat 2026 : annonce postes mixtes police"
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/emissions/l-invite-de-la-redaction-ici-champagne-ardenne/arnaud-robinet-la-securite-est-bien-evidemment-une-des-priorites-pour-nos-concitoyens-6268292",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "transition-ecologique-6-propositions",
+    "title": "6 mesures pour l'environnement et la transition écologique",
+    "description": "Programme comprenant 6 propositions sur la transition écologique : végétalisation, gestion des espaces verts, mobilité douce et réduction des émissions. Détail complet sur le site de campagne.",
+    "date_made": "2026-01",
+    "category": "Environnement et transition écologique",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Thème explicitement listé dans le programme analysé. 6 propositions dédiées confirmées par pourquituvotes.fr.",
+    "key_evidence": [
+      "Pourquituvotes.fr : 'Environnement & Transition écologique : 6 propositions'",
+      "Programme arnaudrobinet2026.fr"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "sante-acces-soins",
+    "title": "Renforcer l'accès aux soins et les structures de santé à Reims",
+    "description": "3 propositions dédiées à la santé et l'accès aux soins dans le programme municipal : lutte contre les déserts médicaux, soutien aux maisons de santé, partenariat renforcé avec le CHU de Reims.",
+    "date_made": "2026-01",
+    "category": "Santé",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Thème listé dans le programme (3 propositions Santé & Accès aux soins). Cohérent avec la double casquette de Robinet : maire et président de la FHF.",
+    "key_evidence": [
+      "Pourquituvotes.fr : 'Santé & Accès aux soins : 3 propositions'",
+      "Profil Robinet comme MCU-PH et président FHF renforce la crédibilité"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "attractivite-economique-emploi",
+    "title": "Renforcer l'attractivité économique et l'emploi à Reims",
+    "description": "2 propositions sur l'économie et l'emploi : attirer et retenir les talents, faciliter l'accès au logement et aux modes de garde, renforcer les partenariats avec les universités et grandes écoles de Reims.",
+    "date_made": "2026-01",
+    "category": "Économie et emploi",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Thème Économie & Emploi avec 2 propositions dans le programme officiel analysé.",
+    "key_evidence": [
+      "Pourquituvotes.fr : 'Économie & Emploi : 2 propositions'",
+      "Programme arnaudrobinet2026.fr"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "sport-loisirs-5-propositions",
+    "title": "5 mesures pour le sport et les loisirs",
+    "description": "Programme sport et loisirs comportant 5 propositions : développement des équipements sportifs, soutien aux clubs amateurs, événements sportifs populaires et accessibilité.",
+    "date_made": "2026-01",
+    "category": "Sport et loisirs",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Thème Sport & Loisirs avec 5 propositions dans le programme officiel. Robinet est lui-même marathonien et traileur (mentionné dans sa biographie Instagram).",
+    "key_evidence": [
+      "Pourquituvotes.fr : 'Sport & Loisirs : 5 propositions'",
+      "Bio Instagram : 'Marathonien et traileur'"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "democratie-vie-citoyenne",
+    "title": "Renforcer la démocratie participative et la vie citoyenne",
+    "description": "2 propositions visant à renforcer la participation des habitants à la vie de la cité : consultation citoyenne, budget participatif, conseils de quartier.",
+    "date_made": "2026-01",
+    "category": "Démocratie et vie citoyenne",
+    "status": "in_progress",
+    "confidence_score": "0.70",
+    "reasoning": "Thème Démocratie & Vie citoyenne listé dans le programme avec 2 propositions.",
+    "key_evidence": [
+      "Pourquituvotes.fr : 'Démocratie & Vie citoyenne : 2 propositions'",
+      "Programme arnaudrobinet2026.fr"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "solidarite-egalite-2-propositions",
+    "title": "2 mesures pour la solidarité et l'égalité",
+    "description": "Propositions portant sur les solidarités et l'égalité des chances : soutien aux seniors, inclusion sociale, lutte contre les inégalités dans les quartiers prioritaires.",
+    "date_made": "2026-01",
+    "category": "Solidarité et égalité",
+    "status": "in_progress",
+    "confidence_score": "0.70",
+    "reasoning": "Thème Solidarité & Égalité avec 2 propositions listé par pourquituvotes.fr dans l'analyse du programme.",
+    "key_evidence": [
+      "Pourquituvotes.fr : 'Solidarité & Égalité : 2 propositions'",
+      "Programme arnaudrobinet2026.fr"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/reims/candidats/robinet/",
+      "https://www.arnaudrobinet2026.fr/programme/"
+    ]
+  }
+]

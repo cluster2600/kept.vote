@@ -1,0 +1,148 @@
+[
+  {
+    "id": "promise-police-200-agents",
+    "title": "Porter les effectifs de la police municipale à 200 agents",
+    "description": "Objectif annoncé d'atteindre 200 agents de police municipale à Toulon d'ici la fin du second mandat, contre 152 au début de la campagne 2026 (et environ 100 en 2020). Inclut le déploiement de la vidéoprotection intelligente via l'intelligence artificielle et des drones.",
+    "date_made": "2026-02",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.90",
+    "reasoning": "Annonce explicite et chiffrée, cohérente avec la trajectoire documentée (100 → 152 agents déjà réalisé), réaffirmée dans plusieurs sources de presse.",
+    "key_evidence": [
+      "Objectif de 200 policiers municipaux d'ici la fin du mandat annoncé par Massi lors de la campagne.",
+      "Progression documentée : ~100 agents en 2020, 152 en 2026.",
+      "Annonce d'IA et de drones pour renforcer la vidéoprotection."
+    ],
+    "source_url": [
+      "https://www.info83.fr/municipales-toulon-2026-josee-massi-programme/",
+      "https://ecomnews.fr/news/toulon-josee-massi-reelue-maire-la-victoire-de-la-continuite-et-un-programme-ancre-dans-le-quotidien-des-toulonnais/"
+    ]
+  },
+  {
+    "id": "promise-application-toulon-vous",
+    "title": "Lancer l'application citoyenne « Toulon & Vous »",
+    "description": "Mise en place d'un outil numérique « Toulon & Vous » permettant aux habitants de signaler des problèmes, d'accéder à des services administratifs, et de rester en contact avec la mairie via un compte personnel « Mon Compte Toulon ». Renforcement des services de quartier et des conseils de quartier.",
+    "date_made": "2026-02",
+    "category": "Démocratie participative / Proximité",
+    "status": "in_progress",
+    "confidence_score": "0.88",
+    "reasoning": "Application mentionnée explicitement dans plusieurs sources de campagne et dans l'article post-réélection ; développée « avec et pour les Toulonnais depuis 2020 ».",
+    "key_evidence": [
+      "Programme baptisé « Toulon & Vous » avec 15 points clés et 110 propositions.",
+      "Création d'un compte personnel citoyen dans l'application.",
+      "Extension de l'application annoncée comme mesure immédiate après réélection."
+    ],
+    "source_url": [
+      "https://ecomnews.fr/news/toulon-josee-massi-reelue-maire-la-victoire-de-la-continuite-et-un-programme-ancre-dans-le-quotidien-des-toulonnais/",
+      "https://joseemassi.com/"
+    ]
+  },
+  {
+    "id": "promise-brt-bus-haut-niveau",
+    "title": "Créer un Bus à Haut Niveau de Service (BHNS) cadencé toutes les 10 minutes",
+    "description": "Mise en place d'un Bus à Haut Niveau de Service (BHNS) rapide à Toulon, avec une fréquence de passage toutes les dix minutes, pour améliorer les transports en commun de la ville.",
+    "date_made": "2026-02",
+    "category": "Mobilité / Transports",
+    "status": "in_progress",
+    "confidence_score": "0.82",
+    "reasoning": "Annonce explicite et précise, citée dans plusieurs sources de presse régionale de campagne.",
+    "key_evidence": [
+      "« Un bus toutes les dix minutes » : annonce de Massi lors de la campagne selon RCF Méditerranée et Info83.",
+      "Classé parmi les propositions transports & mobilité du programme officiel (pourquituvotes.fr)."
+    ],
+    "source_url": [
+      "https://www.rcf.fr/articles/actualite/municipales-2026-a-toulon-la-maire-josee-massi-devoile-ses-priorites",
+      "https://www.info83.fr/municipales-toulon-2026-josee-massi-programme/"
+    ]
+  },
+  {
+    "id": "promise-pistes-cyclables-70km",
+    "title": "Relier les 70 km de pistes cyclables existants en un réseau continu",
+    "description": "Connexion des 70 kilomètres de pistes cyclables déjà existants à Toulon afin de former un réseau cohérent reliant les différents quartiers de la ville et favorisant les mobilités douces.",
+    "date_made": "2026-02",
+    "category": "Mobilité / Transports",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Chiffre précis (70 km) cité dans plusieurs sources de presse régionale, cohérent avec la politique de mobilité douce annoncée.",
+    "key_evidence": [
+      "« La connexion des 70 kilomètres de pistes cyclables entre elles est aussi prévue » (Var-Matin/Info83).",
+      "Inclus dans les 25 propositions du programme officiel (pourquituvotes.fr)."
+    ],
+    "source_url": [
+      "https://www.info83.fr/municipales-toulon-2026-josee-massi-programme/",
+      "https://pourquituvotes.fr/municipales-2026/toulon/candidats/massi/"
+    ]
+  },
+  {
+    "id": "promise-logement-social-diffus",
+    "title": "Développer le logement social diffus par reconversion de bâtiments existants",
+    "description": "Création de logements sociaux dits « diffus » par reconversion de bâtiments existants (y compris logements étudiants), avec une règle imposant qu'au-delà de 800 m² de surface, 30 % soit consacré au logement social. Objectif de favoriser la mixité sociale sans construire de grands ensembles.",
+    "date_made": "2026-02",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.83",
+    "reasoning": "Approche documentée dans les sources de campagne avec des détails concrets (seuil de 800 m², quota de 30 %).",
+    "key_evidence": [
+      "Modèle de logement diffus avec 30 % de logement social au-delà de 800 m².",
+      "Inclus dans les propositions logement du programme officiel (pourquituvotes.fr)."
+    ],
+    "source_url": [
+      "https://ecomnews.fr/news/toulon-josee-massi-reelue-maire-la-victoire-de-la-continuite-et-un-programme-ancre-dans-le-quotidien-des-toulonnais/",
+      "https://pourquituvotes.fr/municipales-2026/toulon/candidats/massi/"
+    ]
+  },
+  {
+    "id": "promise-verdissement-cours-ecoles",
+    "title": "Végétalisation massive des espaces publics et des cours d'écoles",
+    "description": "Programme de végétalisation des espaces publics et des cours d'écoles, renaturation urbaine, protection du littoral et de la rade de Toulon, déploiement de capteurs de qualité de l'air et passage à un éclairage économe.",
+    "date_made": "2026-02",
+    "category": "Environnement / Cadre de vie",
+    "status": "in_progress",
+    "confidence_score": "0.80",
+    "reasoning": "Mesure reprise dans plusieurs sources de campagne sous l'axe « transition écologique et cadre de vie ».",
+    "key_evidence": [
+      "Végétalisation, renaturation urbaine, protection du littoral mentionnés dans l'article Ecomnews.",
+      "Inclus dans les propositions environnement du programme officiel."
+    ],
+    "source_url": [
+      "https://ecomnews.fr/news/toulon-josee-massi-reelue-maire-la-victoire-de-la-continuite-et-un-programme-ancre-dans-le-quotidien-des-toulonnais/",
+      "https://pourquituvotes.fr/municipales-2026/toulon/candidats/massi/"
+    ]
+  },
+  {
+    "id": "promise-soutien-commerces-proximite",
+    "title": "Soutien aux commerces de proximité et développement du tourisme d'affaires",
+    "description": "Maintien du soutien aux commerces de proximité pour éviter la désertification des centres de quartier, et développement du tourisme d'affaires pour renforcer l'attractivité économique de Toulon, dans le cadre d'une gestion financière rigoureuse sans augmentation des impôts locaux.",
+    "date_made": "2026-02",
+    "category": "Économie / Emploi",
+    "status": "in_progress",
+    "confidence_score": "0.78",
+    "reasoning": "Axe « attractivité économique » clairement énoncé dans le programme, cohérent avec les politiques menées sous le premier mandat.",
+    "key_evidence": [
+      "Soutien aux commerces de proximité et développement du tourisme d'affaires dans l'axe attractivité du programme.",
+      "Engagement explicite de ne pas augmenter les impôts locaux."
+    ],
+    "source_url": [
+      "https://ecomnews.fr/news/toulon-josee-massi-reelue-maire-la-victoire-de-la-continuite-et-un-programme-ancre-dans-le-quotidien-des-toulonnais/",
+      "https://www.info83.fr/municipales-toulon-2026-josee-massi-programme/"
+    ]
+  },
+  {
+    "id": "promise-renovation-groupes-scolaires",
+    "title": "Rénovation des groupes scolaires et poursuite du plan Toulon Petite Enfance",
+    "description": "Poursuite du plan « Toulon Petite Enfance » pour l'accueil des jeunes enfants, rénovation des groupes scolaires, accompagnement renforcé des familles et des publics fragiles via les associations, et actions spécifiques pour les seniors.",
+    "date_made": "2026-02",
+    "category": "Éducation / Famille",
+    "status": "in_progress",
+    "confidence_score": "0.82",
+    "reasoning": "Mesures dans la continuité directe du premier mandat de Massi, son domaine de compétence historique depuis 2014.",
+    "key_evidence": [
+      "Rénovation scolaires et plan petite enfance dans le programme Ecomnews.",
+      "4 propositions Éducation & Jeunesse recensées par pourquituvotes.fr."
+    ],
+    "source_url": [
+      "https://ecomnews.fr/news/toulon-josee-massi-reelue-maire-la-victoire-de-la-continuite-et-un-programme-ancre-dans-le-quotidien-des-toulonnais/",
+      "https://pourquituvotes.fr/municipales-2026/toulon/candidats/massi/"
+    ]
+  }
+]

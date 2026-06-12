@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ep-co-areva",
+    "name": "Areva SA",
+    "role": "Directeur des affaires publiques",
+    "status": "Terminé",
+    "description": "Directeur des affaires publiques du groupe nucléaire Areva d'octobre 2007 à octobre 2010. Rôle de représentation et de gestion des relations avec les pouvoirs publics pour ce grand groupe industriel de l'énergie nucléaire.",
+    "source_url": "https://reporterre.net/Le-Premier-ministre-Edouard-Philippe-vient-d-Areva-et-n-a-pas-la-fibre-ecolo"
+  },
+  {
+    "id": "ep-co-debevoise",
+    "name": "Debevoise & Plimpton LLP",
+    "role": "Avocat",
+    "status": "Terminé",
+    "description": "Avocat au sein du cabinet d'avocats international Debevoise & Plimpton LLP, spécialisé en droit des affaires. Poste occupé entre Sciences Po / ENA et son arrivée chez Areva (environ 2005–2007).",
+    "source_url": "https://www.lejdd.fr/Politique/edouard-philippe-trois-accrocs-sur-son-cv-3331013"
+  },
+  {
+    "id": "ep-co-wilhelm",
+    "name": "Wilhelm & Associés",
+    "role": "Avocat associé",
+    "status": "Terminé",
+    "description": "Avocat au sein du cabinet Wilhelm & Associés de mars 2011 à juillet 2012, entre son départ d'Areva et son élection comme député.",
+    "source_url": "https://www.lejdd.fr/Politique/edouard-philippe-trois-accrocs-sur-son-cv-3331013"
+  }
+]

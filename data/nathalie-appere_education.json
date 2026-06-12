@@ -1,0 +1,18 @@
+[
+  {
+    "id": "nathalie-appere-edu-sciencespo",
+    "institution": "Institut d'études politiques de Rennes (Sciences Po Rennes)",
+    "degree": "Diplôme de l'IEP",
+    "field": "Sciences politiques",
+    "start_date": "1993",
+    "end_date": "1996"
+  },
+  {
+    "id": "nathalie-appere-edu-dea",
+    "institution": "Université de Rennes",
+    "degree": "Diplôme de troisième cycle",
+    "field": "Action publique locale",
+    "start_date": "1996",
+    "end_date": "1998"
+  }
+]

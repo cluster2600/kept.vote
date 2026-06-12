@@ -1,0 +1,26 @@
+[
+  {
+    "id": "iep-lyon",
+    "institution": "Institut d'Études Politiques de Lyon",
+    "degree": "Diplôme de l'IEP",
+    "field": "Politique et administration",
+    "start_date": "1990-09-01",
+    "end_date": "1993-06-01"
+  },
+  {
+    "id": "paris1-sciences-po",
+    "institution": "Université Paris I Panthéon-Sorbonne",
+    "degree": "Maîtrise",
+    "field": "Sciences politiques",
+    "start_date": "1993-09-01",
+    "end_date": "1994-06-01"
+  },
+  {
+    "id": "bac-roland-garros",
+    "institution": "Lycée Roland Garros du Tampon (La Réunion)",
+    "degree": "Baccalauréat scientifique (série C)",
+    "field": "Sciences",
+    "start_date": "1987-09-01",
+    "end_date": "1990-06-01"
+  }
+]

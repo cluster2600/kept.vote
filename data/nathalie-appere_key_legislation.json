@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nathalie-appere-leg-lgv-bretagne",
+    "title": "Inauguration de la LGV Bretagne-Pays de la Loire",
+    "description": "Ouverture de la ligne à grande vitesse reliant Paris à Rennes en 1h25, réduisant le temps de trajet de 37 minutes. Projet co-porté avec l'État et les collectivités régionales, inauguré par le président Emmanuel Macron.",
+    "date": "2017-07",
+    "role": "Partenaire institutionnel principal côté ville de Rennes",
+    "status": "réalisé",
+    "source_url": "https://www.ouest-france.fr/bretagne/rennes-35000/en-direct-de-paris-rennes-la-lgv-inauguree-par-emmanuel-macron-5103731"
+  },
+  {
+    "id": "nathalie-appere-leg-couvent-jacobins",
+    "title": "Inauguration du Centre des congrès du Couvent des Jacobins",
+    "description": "Conversion de l'ancien couvent des Jacobins en centre des congrès de dimension internationale, projet structurant pour l'attractivité de Rennes.",
+    "date": "2018-01",
+    "role": "Maître d'ouvrage (Ville de Rennes)",
+    "status": "réalisé",
+    "source_url": "https://www.francetvinfo.fr/culture/musique/jazz/l-ancien-couvent-des-jacobins-a-rennes-transforme-en-centre-des-congres_3294127.html"
+  },
+  {
+    "id": "nathalie-appere-leg-gare-rennaise",
+    "title": "Rénovation de la gare de Rennes",
+    "description": "Livraison de la gare de Rennes rénovée, intégrée dans le projet Euro-Rennes, avec connexion au métro (ligne B).",
+    "date": "2019-07",
+    "role": "Partenaire institutionnel (Ville de Rennes)",
+    "status": "réalisé",
+    "source_url": "https://www.letelegramme.fr/bretagne/rennes-une-nouvelle-gare-sur-les-rails-03-07-2019-12329834.php"
+  },
+  {
+    "id": "nathalie-appere-leg-prison-jacquescartier",
+    "title": "Acquisition de l'ancienne prison Jacques-Cartier",
+    "description": "La Ville de Rennes a acquis l'ancienne prison Jacques-Cartier avec le projet d'en faire un équipement culturel.",
+    "date": "2020-01",
+    "role": "Initiatrice et décideuse",
+    "status": "en cours",
+    "source_url": "https://www.ouest-france.fr/elections/municipales/municipales-rennes-la-maire-reelue-la-ville-acheterait-l-ancienne-prison-jacques-cartier-6708943"
+  },
+  {
+    "id": "nathalie-appere-leg-budget-participatif",
+    "title": "Budget participatif de la Ville de Rennes",
+    "description": "Création d'un mécanisme de budget participatif permettant aux habitants de proposer et voter pour des projets financés par la collectivité.",
+    "date": "2016",
+    "role": "Initiatrice",
+    "status": "réalisé",
+    "source_url": "https://en.wikipedia.org/wiki/Nathalie_App%C3%A9r%C3%A9"
+  }
+]

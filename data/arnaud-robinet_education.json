@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bac-saint-joseph-reims",
+    "institution": "Lycée Saint-Joseph, Reims",
+    "degree": "Baccalauréat",
+    "field": "",
+    "start_date": "",
+    "end_date": ""
+  },
+  {
+    "id": "doctorat-biochimie-reims",
+    "institution": "Université de Reims Champagne-Ardenne — Faculté de médecine",
+    "degree": "Doctorat",
+    "field": "Biochimie et biologie moléculaire",
+    "start_date": "",
+    "end_date": "2003"
+  },
+  {
+    "id": "habilitation-pharmacologie",
+    "institution": "Université de Reims Champagne-Ardenne",
+    "degree": "Qualification MCU-PH (maître de conférences des universités-praticien hospitalier)",
+    "field": "Pharmacologie",
+    "start_date": "",
+    "end_date": "2007"
+  }
+]

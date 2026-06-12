@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ep-re-appartement-seine-maritime",
+    "description": "Appartement de 225 m² situé en Seine-Maritime (localisation précise non publiée)",
+    "type": "Appartement",
+    "location": "Seine-Maritime, France",
+    "ownership": "Propriétaire (déclaré)",
+    "value": "",
+    "declared_or_estimated": "declared",
+    "source_url": "https://www.franceinfo.fr/politique/gouvernement-d-edouard-philippe/le-patrimoine-des-ministres-publie-par-la-haute-autorite-pour-la-moralisation_2517807.html"
+  },
+  {
+    "id": "ep-re-appartement-paris",
+    "description": "Appartement de 130 m² à Paris (localisation précise non publiée)",
+    "type": "Appartement",
+    "location": "Paris, France",
+    "ownership": "Propriétaire (déclaré)",
+    "value": "",
+    "declared_or_estimated": "declared",
+    "source_url": "https://www.franceinfo.fr/politique/gouvernement-d-edouard-philippe/le-patrimoine-des-ministres-publie-par-la-haute-autorite-pour-la-moralisation_2517807.html"
+  },
+  {
+    "id": "ep-re-propriete-indre-et-loire",
+    "description": "Bien immobilier en Indre-et-Loire mentionné dans la déclaration de 2014 (nature et superficie non précisées publiquement)",
+    "type": "Bien immobilier",
+    "location": "Indre-et-Loire, France",
+    "ownership": "Propriétaire (déclaré 2014)",
+    "value": "",
+    "declared_or_estimated": "declared",
+    "source_url": "https://www.lelanceur.fr/edouard-philippe-traine-savate-sur-la-transparence/"
+  },
+  {
+    "id": "ep-re-parts-residence-seine-maritime",
+    "description": "Parts dans une résidence en Seine-Maritime mentionnées dans la déclaration de 2014",
+    "type": "Parts de résidence",
+    "location": "Seine-Maritime, France",
+    "ownership": "Copropriétaire (déclaré 2014)",
+    "value": "",
+    "declared_or_estimated": "declared",
+    "source_url": "https://www.lelanceur.fr/edouard-philippe-traine-savate-sur-la-transparence/"
+  }
+]

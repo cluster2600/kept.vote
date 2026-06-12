@@ -1,0 +1,146 @@
+[
+  {
+    "id": "nathalie-appere-prom-logement-social",
+    "title": "Construction de 500 logements sociaux par an",
+    "description": "S'engager à produire 500 nouveaux logements sociaux par an sur la durée du mandat 2026-2032 à Rennes, en continuité avec la politique conduite depuis 2014.",
+    "date_made": "2026-02",
+    "category": "logement",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Promesse chiffrée et inscrite dans le programme officiel 'Rennes Solidaire'. La continuité avec les mandats précédents renforce la crédibilité, mais la réalisation dépend de financements d'État et du marché de la construction.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire' 2026, 205 propositions, thème Logement",
+      "Rennes Infos Autrement, 4 février 2026 : '500 logements sociaux par an, 300 logements à loyers réduits et 600 logements en bail réel solidaire'"
+    ],
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/",
+      "https://pourquituvotes.fr/municipales-2026/rennes/candidats/appere/"
+    ]
+  },
+  {
+    "id": "nathalie-appere-prom-brs",
+    "title": "600 logements en bail réel solidaire (BRS) par an",
+    "description": "Développer 600 logements annuels via le bail réel solidaire, permettant l'accession à la propriété à des prix plafonnés entre 2 800 et 4 200 €/m², avec une décote de 30 à 50 % sur le prix du marché selon les revenus.",
+    "date_made": "2026-02",
+    "category": "logement",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Promesse chiffrée inscrite dans le programme. Le BRS est un outil juridiquement établi déjà utilisé à Rennes, ce qui soutient sa faisabilité ; l'ambition de volume reste soumise à la disponibilité foncière.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire', thème Logement, 14 propositions",
+      "Rennesimmo9.com : 'Les 600 logements par an via le Bail Réel Solidaire sont proposés à des prix plafonnés entre 2 800 et 4 200 €/m²'"
+    ],
+    "source_url": [
+      "https://www.rennesimmo9.com/actualites/politique/municipales-rennes-2026-mesures-logement",
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/"
+    ]
+  },
+  {
+    "id": "nathalie-appere-prom-encadrement-loyers",
+    "title": "Encadrement des loyers privés (sous réserve accord de l'État)",
+    "description": "Demander et mettre en œuvre le plafonnement des loyers privés à Rennes, sous réserve de l'habilitation législative de l'État, afin de limiter l'inflation locative.",
+    "date_made": "2026-02",
+    "category": "logement",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Promesse conditionnée à une décision gouvernementale ; incertitude élevée sur l'obtention de l'habilitation. Déjà pratiqué dans d'autres métropoles (Paris, Lyon), ce qui atteste de la faisabilité juridique.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire' : 'plafonnement des loyers privés sous réserve de l'accord de l'État'",
+      "Débat entre-deux-tours, France Bleu Armorique, 2026"
+    ],
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/",
+      "https://www.francebleu.fr/emissions/municipales-2026-a-rennes-le-debat/municipales-2026-financement-securite-logement-reecoutez-le-debat-de-l-entre-deux-tours-a-rennes-3194073"
+    ]
+  },
+  {
+    "id": "nathalie-appere-prom-police-municipale",
+    "title": "Recrutement de 60 policiers municipaux supplémentaires",
+    "description": "Recruter 60 agents de police municipale supplémentaires d'ici à 2032, renforçant ainsi les effectifs pour lutter contre les incivilités, les trafics et les violences urbaines.",
+    "date_made": "2026-02",
+    "category": "sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.78",
+    "reasoning": "Engagement chiffré et précis dans un contexte de forte demande sécuritaire à Rennes (fusillades liées au narcotrafic). La mairie dispose des leviers budgétaires pour recruter des agents municipaux sans dépendre de l'État.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire', thème Sécurité & Prévention (14 propositions)",
+      "Rennes Infos Autrement, 4 février 2026 : '60 policiers municipaux supplémentaires'"
+    ],
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/",
+      "https://www.publicsenat.fr/actualites/politique/municipales-2026-a-rennes-securite-logement-mobilites-que-retenir-du-debat-entre-les-principaux-candidats"
+    ]
+  },
+  {
+    "id": "nathalie-appere-prom-police-metro-transports",
+    "title": "Création d'une police métropolitaine des transports",
+    "description": "Créer une brigade de police dédiée à la sécurisation du réseau de transports en commun de Rennes Métropole (métro, bus, STAR), en coopération avec Rennes Métropole.",
+    "date_made": "2026-02",
+    "category": "sécurité / transports",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Promesse inscrite dans le programme ; Appéré est aussi présidente de Rennes Métropole, ce qui facilite la mise en œuvre. La création d'une force spécialisée demande néanmoins des négociations et des financements intercommunaux.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire', thème Sécurité : 'création d'une police métropolitaine des transports'",
+      "Rennes Infos Autrement, 4 février 2026"
+    ],
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/",
+      "https://pourquituvotes.fr/municipales-2026/rennes/candidats/appere/"
+    ]
+  },
+  {
+    "id": "nathalie-appere-prom-cameras-videoprotection",
+    "title": "Déploiement de 80 nouvelles caméras de vidéoprotection",
+    "description": "Installer 80 nouvelles caméras de vidéosurveillance sur la voie publique de Rennes, en complément des plus de 150 caméras déjà installées depuis 2014.",
+    "date_made": "2026-02",
+    "category": "sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.82",
+    "reasoning": "Engagement chiffré et techniquement simple à mettre en œuvre ; démarche déjà engagée lors des deux mandats précédents, ce qui donne une forte crédibilité à la promesse.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire', thème Sécurité : '80 nouvelles caméras de vidéoprotection'",
+      "Rennes Infos Autrement, 4 février 2026"
+    ],
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/",
+      "https://www.publicsenat.fr/actualites/politique/municipales-2026-a-rennes-securite-logement-mobilites-que-retenir-du-debat-entre-les-principaux-candidats"
+    ]
+  },
+  {
+    "id": "nathalie-appere-prom-mutuelle-municipale",
+    "title": "Création d'une mutuelle municipale",
+    "description": "Mettre en place une mutuelle municipale pour les habitants de Rennes afin de faciliter l'accès à une complémentaire santé à tarif négocié, notamment pour les populations à revenus modestes.",
+    "date_made": "2026-02",
+    "category": "santé / solidarité",
+    "status": "in_progress",
+    "confidence_score": "0.72",
+    "reasoning": "Mesure déjà adoptée dans d'autres villes (Paris, Bordeaux), ce qui atteste de la faisabilité. La mise en œuvre nécessite un appel d'offres et un partenariat avec un organisme assureur.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire', thème Santé & Accès aux soins (16 propositions) : 'mutuelle municipale'",
+      "Rennes Infos Autrement, 4 février 2026 : 'une mutuelle municipale est également promise'"
+    ],
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/",
+      "https://pourquituvotes.fr/municipales-2026/rennes/candidats/appere/"
+    ]
+  },
+  {
+    "id": "nathalie-appere-prom-transports-etudiants",
+    "title": "Gratuité des transports pour les étudiants boursiers",
+    "description": "Rendre les transports en commun gratuits pour les étudiants boursiers du réseau STAR de Rennes Métropole.",
+    "date_made": "2026-02",
+    "category": "transports / solidarité",
+    "status": "in_progress",
+    "confidence_score": "0.76",
+    "reasoning": "Mesure sociale ciblée inscrite dans le programme ; la compétence transports relève de Rennes Métropole dont Appéré est présidente, ce qui facilite la mise en œuvre. Coût budgétaire limité et compensable.",
+    "key_evidence": [
+      "Programme 'Rennes Solidaire', thème Transports & Mobilité (21 propositions) : 'gratuité des transports pour les étudiants boursiers'",
+      "Rennes Infos Autrement, 4 février 2026"
+    ],
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/municipales-2026-rennes-solidaire-un-programme-de-consolidation-plus-que-de-projection/",
+      "https://pourquituvotes.fr/municipales-2026/rennes/candidats/appere/"
+    ]
+  }
+]

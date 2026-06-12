@@ -1,0 +1,34 @@
+[
+  {
+    "id": "nathalie-appere-int-ps-bureau-national",
+    "category": "Affiliation politique",
+    "description": "Membre du bureau national du Parti socialiste, nommée le 15 avril 2018 lors du Congrès d'Aubervilliers.",
+    "organization": "Parti socialiste (PS)",
+    "date": "2018-04-15",
+    "source_url": "https://www.ouest-france.fr/bretagne/rennes-35000/rennes-nathalie-appere-entre-au-bureau-national-du-parti-socialiste-5698533"
+  },
+  {
+    "id": "nathalie-appere-int-france-urbaine",
+    "category": "Association d'élus",
+    "description": "Secrétaire générale de France Urbaine, association regroupant les élus des métropoles et grandes agglomérations françaises.",
+    "organization": "France Urbaine",
+    "date": "2020-09-24",
+    "source_url": "https://franceurbaine.org/presentation/qui-sommes-nous-0"
+  },
+  {
+    "id": "nathalie-appere-int-anah-ca",
+    "category": "Organisme public",
+    "description": "Présidente du conseil d'administration de l'Agence nationale de l'habitat (ANAH), nommée en juin 2015.",
+    "organization": "Agence nationale de l'habitat (ANAH)",
+    "date": "2015-06",
+    "source_url": "https://www.anah.fr/actualites/detail/actualite/nathalie-appere-presidente-du-conseil-dadministration-de-lanah/"
+  },
+  {
+    "id": "nathalie-appere-int-conseil-national-villes",
+    "category": "Organisme consultatif national",
+    "description": "Vice-présidente du Conseil national des villes, organe présidé par le Premier ministre traitant des politiques de la ville.",
+    "organization": "Conseil national des villes",
+    "date": "2010",
+    "source_url": "https://www.lagazettedescommunes.com/32404/xavier-lemoine-ump-et-nathalie-appere-ps-nommes-a-la-tete-du-conseil-national-des-villes/"
+  }
+]

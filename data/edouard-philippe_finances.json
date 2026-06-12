@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ep-fin-patrimoine-brut-2017",
+    "category": "Patrimoine brut déclaré",
+    "description": "Patrimoine brut total déclaré lors de la déclaration de situation patrimoniale déposée à la HATVP lors de la prise de fonctions de Premier ministre en mai 2017.",
+    "value": "1 700 000 €",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2017-05",
+    "source_url": "https://www.franceinfo.fr/politique/gouvernement-d-edouard-philippe/le-patrimoine-des-ministres-publie-par-la-haute-autorite-pour-la-moralisation_2517807.html"
+  },
+  {
+    "id": "ep-fin-immobilier-2017",
+    "category": "Patrimoine immobilier",
+    "description": "Deux biens immobiliers déclarés en 2017 : un appartement de 225 m² en Seine-Maritime et un appartement de 130 m² à Paris, représentant l'essentiel du patrimoine déclaré, estimé à 1 650 000 € cumulés.",
+    "value": "1 650 000 €",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2017-05",
+    "source_url": "https://www.franceinfo.fr/politique/gouvernement-d-edouard-philippe/le-patrimoine-des-ministres-publie-par-la-haute-autorite-pour-la-moralisation_2517807.html"
+  },
+  {
+    "id": "ep-fin-actions-atos-2017",
+    "category": "Instruments financiers",
+    "description": "Déclaration de 501 actions Atos, valorisées à environ 29 500 € au moment de la déclaration 2017.",
+    "value": "29 500 €",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2017-05",
+    "source_url": "https://www.hatvp.fr/pages_nominatives/philippe-edouard.html"
+  },
+  {
+    "id": "ep-fin-declaration-2014-incomplete",
+    "category": "Avertissement HATVP",
+    "description": "En 2014, lors de sa déclaration de situation patrimoniale en tant que député-maire, la HATVP lui a adressé un avertissement (appréciation) pour déclaration incomplète et fantaisiste : il avait systématiquement répondu 'aucune idée' sur la valeur de ses biens immobiliers et mentionné des prix d'achat parfois en francs sans estimer les valeurs actuelles. Il n'avait pas fourni les clarifications demandées.",
+    "value": "",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2014",
+    "source_url": "https://www.lelanceur.fr/edouard-philippe-traine-savate-sur-la-transparence/"
+  },
+  {
+    "id": "ep-fin-traitement-maire-2026",
+    "category": "Indemnités de fonctions",
+    "description": "Indemnité de maire d'une commune de plus de 100 000 habitants. Pour Le Havre (environ 180 000 habitants), l'indemnité brute maximale de maire est fixée par la loi. Cumul possible avec l'indemnité de président de communauté urbaine, dans les limites légales de plafonnement.",
+    "value": "",
+    "declared_or_estimated": "estimated",
+    "declaration_date": "",
+    "source_url": ""
+  }
+]

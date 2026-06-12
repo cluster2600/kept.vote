@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ep-elect-legislatives-2002",
+    "office": "Député",
+    "jurisdiction": "Seine-Maritime, 7e circonscription",
+    "election_date": "2002",
+    "result": "Défaite",
+    "party": "UMP",
+    "vote_share": "",
+    "notes": "Candidature aux législatives de 2002 dans la 7e circonscription de Seine-Maritime ; défaite.",
+    "source_url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe"
+  },
+  {
+    "id": "ep-elect-municipales-2008-havre",
+    "office": "Conseiller municipal / Adjoint au maire",
+    "jurisdiction": "Le Havre",
+    "election_date": "2008-03",
+    "result": "Élu (liste Rufenacht)",
+    "party": "UMP",
+    "vote_share": "",
+    "notes": "Élu sur la liste d'Antoine Rufenacht, devient adjoint au maire chargé du développement économique et portuaire.",
+    "source_url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/edouard-philippe"
+  },
+  {
+    "id": "ep-elect-maire-havre-2010",
+    "office": "Maire du Havre",
+    "jurisdiction": "Le Havre",
+    "election_date": "2010",
+    "result": "Élu maire par le conseil municipal",
+    "party": "UMP",
+    "vote_share": "",
+    "notes": "Élu maire du Havre par le conseil municipal après la démission d'Antoine Rufenacht. Pas d'élection directe.",
+    "source_url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/edouard-philippe"
+  },
+  {
+    "id": "ep-elect-legislatives-2012",
+    "office": "Député",
+    "jurisdiction": "Seine-Maritime, 7e circonscription",
+    "election_date": "2012-06",
+    "result": "Élu",
+    "party": "UMP",
+    "vote_share": "",
+    "notes": "Élu député de la 7e circonscription de Seine-Maritime aux élections législatives de 2012.",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA345619"
+  },
+  {
+    "id": "ep-elect-municipales-2014-havre",
+    "office": "Maire du Havre",
+    "jurisdiction": "Le Havre",
+    "election_date": "2014-03",
+    "result": "Réélu (1er tour)",
+    "party": "UMP",
+    "vote_share": "52.04",
+    "notes": "Réélu dès le premier tour des élections municipales de 2014 avec 52,04 % des suffrages exprimés.",
+    "source_url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/edouard-philippe"
+  },
+  {
+    "id": "ep-elect-municipales-2020-havre-t1",
+    "office": "Maire du Havre",
+    "jurisdiction": "Le Havre",
+    "election_date": "2020-03-15",
+    "result": "En tête (1er tour)",
+    "party": "Horizons / divers droite",
+    "vote_share": "43.60",
+    "notes": "Arrive en tête du premier tour des municipales 2020 au Havre avec 43,6 % des voix, devant Jean-Paul Lecoq (35,88 %).",
+    "source_url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/resultats-municipales-2020-au-havre-edouard-philippe-elu-maire-pres-60-voix-1798396.html"
+  },
+  {
+    "id": "ep-elect-municipales-2020-havre-t2",
+    "office": "Maire du Havre",
+    "jurisdiction": "Le Havre",
+    "election_date": "2020-06-28",
+    "result": "Élu (2e tour)",
+    "party": "Horizons / divers droite",
+    "vote_share": "58.83",
+    "notes": "Réélu maire du Havre au second tour (reporté à juin 2020 en raison du Covid-19) avec 58,83 % des voix.",
+    "source_url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/resultats-municipales-2020-au-havre-edouard-philippe-elu-maire-pres-60-voix-1798396.html"
+  },
+  {
+    "id": "ep-elect-municipales-2026-havre-t1",
+    "office": "Maire du Havre",
+    "jurisdiction": "Le Havre",
+    "election_date": "2026-03-15",
+    "result": "En tête (1er tour)",
+    "party": "Horizons (liste Le Havre !)",
+    "vote_share": "43.76",
+    "notes": "Arrive en tête du premier tour des municipales 2026 au Havre avec 43,76 % des voix, devant Jean-Paul Lecoq (33,25 %) et Franck Keller (15,30 %).",
+    "source_url": "https://www.francebleu.fr/normandie/seine-maritime-76/le-havre/municipales-2026-edouard-philippe-elu-maire-du-havre-avec-47-71-des-voix-2503691"
+  },
+  {
+    "id": "ep-elect-municipales-2026-havre-t2",
+    "office": "Maire du Havre",
+    "jurisdiction": "Le Havre",
+    "election_date": "2026-03-22",
+    "result": "Réélu (2e tour)",
+    "party": "Horizons (liste Le Havre !)",
+    "vote_share": "47.71",
+    "notes": "Réélu maire du Havre au second tour du 22 mars 2026 avec 47,71 % des voix (26 150 voix), devant Jean-Paul Lecoq et Franck Keller.",
+    "source_url": "https://www.francebleu.fr/normandie/seine-maritime-76/le-havre/municipales-2026-edouard-philippe-elu-maire-du-havre-avec-47-71-des-voix-2503691"
+  }
+]

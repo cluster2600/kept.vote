@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mcu-ph-pharmacologie-reims",
+    "title": "Maître de conférences des universités-praticien hospitalier (MCU-PH) en pharmacologie",
+    "organization": "Université de Reims Champagne-Ardenne / CHU de Reims",
+    "start_date": "2007",
+    "end_date": "",
+    "description": "Poste d'enseignant-chercheur et praticien hospitalier en pharmacologie à la faculté de médecine de Reims et au CHU de Reims. Mandat exercé en parallèle de ses fonctions politiques."
+  },
+  {
+    "id": "depute-marne-1ere",
+    "title": "Député de la Marne (1re circonscription)",
+    "organization": "Assemblée nationale",
+    "start_date": "2008-12-15",
+    "end_date": "2017-06-20",
+    "description": "Élu lors d'une élection partielle le 14 décembre 2008, il succède à Renaud Dutreil. Membre du groupe UMP puis Les Républicains. Non réélu en juin 2017 ; lui succède Valérie Beauvais."
+  },
+  {
+    "id": "maire-reims-1er-mandat",
+    "title": "Maire de Reims",
+    "organization": "Ville de Reims",
+    "start_date": "2014-04-04",
+    "end_date": "2020-07",
+    "description": "Premier mandat de maire de Reims, élu en mars 2014 au second tour face à la maire sortante socialiste Adeline Hazan."
+  },
+  {
+    "id": "maire-reims-2e-mandat",
+    "title": "Maire de Reims",
+    "organization": "Ville de Reims",
+    "start_date": "2020-07",
+    "end_date": "2026-04",
+    "description": "Deuxième mandat de maire de Reims, réélu dès le premier tour des élections municipales de mars 2020 avec 66,32 % des suffrages."
+  },
+  {
+    "id": "maire-reims-3e-mandat",
+    "title": "Maire de Reims",
+    "organization": "Ville de Reims",
+    "start_date": "2026-04",
+    "end_date": "",
+    "description": "Troisième mandat de maire de Reims, réélu au second tour des élections municipales de mars 2026 avec 51,86 % des suffrages."
+  },
+  {
+    "id": "vp-grand-est",
+    "title": "Vice-président du Conseil régional Grand Est",
+    "organization": "Région Grand Est",
+    "start_date": "2021-07",
+    "end_date": "2022",
+    "description": "Vice-président chargé de la santé au conseil régional Grand Est. Mandat quitté après son élection à la présidence de la FHF."
+  },
+  {
+    "id": "president-grand-reims",
+    "title": "Président de la communauté urbaine du Grand Reims",
+    "organization": "Grand Reims",
+    "start_date": "2024-01-29",
+    "end_date": "",
+    "description": "Élu président du Grand Reims le 29 janvier 2024, en remplacement de Catherine Vautrin nommée ministre. Réélu le 9 avril 2026 après les élections municipales, avec 150 voix sur 173."
+  },
+  {
+    "id": "president-fhf",
+    "title": "Président de la Fédération hospitalière de France (FHF)",
+    "organization": "Fédération hospitalière de France",
+    "start_date": "2022-09-21",
+    "end_date": "",
+    "description": "Élu président de la FHF le 21 septembre 2022, succédant à Frédéric Valletoux. Premier mandat renouvelé en 2026."
+  },
+  {
+    "id": "president-fhf-grand-est",
+    "title": "Président de la FHF Grand Est",
+    "organization": "Fédération hospitalière de France Grand Est",
+    "start_date": "2020",
+    "end_date": "2022",
+    "description": "Présidence de la délégation régionale Grand Est de la FHF avant d'accéder à la présidence nationale."
+  }
+]

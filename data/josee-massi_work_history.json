@@ -1,0 +1,90 @@
+[
+  {
+    "id": "work-enseignante-maths",
+    "title": "Enseignante en mathématiques",
+    "organization": "Lycée Hubert Fillay, Aubenas (Ardèche)",
+    "start_date": "",
+    "end_date": "",
+    "description": "Première partie de carrière consacrée à l'enseignement des mathématiques à Aubenas (07)."
+  },
+  {
+    "id": "work-formatrice-greta",
+    "title": "Formatrice",
+    "organization": "GRETA (Groupement d'établissements pour la formation continue)",
+    "start_date": "",
+    "end_date": "",
+    "description": "Formation professionnelle pour adultes au sein du GRETA, avant l'orientation vers le secteur de l'insertion sociale."
+  },
+  {
+    "id": "work-directrice-cedis",
+    "title": "Directrice",
+    "organization": "Centre Départemental pour l'Insertion Sociale (CEDIS), Toulon",
+    "start_date": "1995",
+    "end_date": "2014",
+    "description": "Direction pendant plus de vingt ans du CEDIS. Conduite et coordination de projets structurants : création de l'entreprise d'insertion Mamans cuisinières du Monde, développement de micro-crèches dans les quartiers prioritaires de Toulon, mise en place de crèches à vocation d'insertion professionnelle dans le Var, création de deux centres sociaux sur le territoire toulonnais et départemental."
+  },
+  {
+    "id": "work-adjointe-maire-2014",
+    "title": "Adjointe au Maire déléguée à la petite enfance, l'éducation, la famille, la sécurité et les ressources humaines",
+    "organization": "Mairie de Toulon",
+    "start_date": "2014",
+    "end_date": "2022",
+    "description": "Adjointe au maire Hubert Falco, chargée de la petite enfance, de l'éducation, de la famille, de la sécurité et des ressources humaines."
+  },
+  {
+    "id": "work-premiere-adjointe",
+    "title": "Première Adjointe au Maire",
+    "organization": "Mairie de Toulon",
+    "start_date": "2022",
+    "end_date": "2023-05-03",
+    "description": "Première adjointe au maire de Toulon, avant de succéder à Hubert Falco à la suite de la déchéance de son mandat."
+  },
+  {
+    "id": "work-maire-toulon-1",
+    "title": "Maire de Toulon",
+    "organization": "Mairie de Toulon",
+    "start_date": "2023-05-03",
+    "end_date": "2026-03-25",
+    "description": "Premier mandat de maire de Toulon, après désignation par le conseil municipal suite à la déchéance de mandat d'Hubert Falco. Première femme maire de l'histoire de Toulon."
+  },
+  {
+    "id": "work-maire-toulon-2",
+    "title": "Maire de Toulon",
+    "organization": "Mairie de Toulon",
+    "start_date": "2026-03-25",
+    "end_date": "",
+    "description": "Second mandat de maire de Toulon, à l'issue de la réélection au second tour des élections municipales du 22 mars 2026 avec 52,35 % des voix."
+  },
+  {
+    "id": "work-vp-metropole-tpm",
+    "title": "Vice-Présidente de la Métropole Toulon Provence Méditerranée",
+    "organization": "Métropole Toulon Provence Méditerranée (TPM)",
+    "start_date": "2023-05-04",
+    "end_date": "2026-04-09",
+    "description": "Vice-présidente de la Métropole TPM entre le premier mandat de maire et la présidence de la Métropole."
+  },
+  {
+    "id": "work-presidente-metropole-tpm",
+    "title": "Présidente de la Métropole Toulon Provence Méditerranée",
+    "organization": "Métropole Toulon Provence Méditerranée (TPM)",
+    "start_date": "2026-04-09",
+    "end_date": "",
+    "description": "Élue présidente de la Métropole Toulon Provence Méditerranée le 9 avril 2026."
+  },
+  {
+    "id": "work-conseillere-departementale",
+    "title": "Conseillère Départementale du Var",
+    "organization": "Conseil Départemental du Var — canton de Toulon-1",
+    "start_date": "2021",
+    "end_date": "",
+    "description": "Conseillère départementale du Var, élue dans le canton de Toulon-1 depuis 2021."
+  },
+  {
+    "id": "work-conseillere-communautaire",
+    "title": "Conseillère communautaire de la Métropole Toulon Provence Méditerranée",
+    "organization": "Métropole Toulon Provence Méditerranée (TPM)",
+    "start_date": "2014",
+    "end_date": "",
+    "description": "Conseillère communautaire de la Métropole TPM depuis 2014."
+  }
+]

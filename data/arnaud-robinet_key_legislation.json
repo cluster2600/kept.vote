@@ -1,0 +1,29 @@
+[
+  {
+    "id": "plan-renouvellement-urbain-reims",
+    "title": "Programme de renouvellement urbain (NPNRU) de Reims",
+    "description": "Convention ANRU signée pour la rénovation des quartiers Croix-Rouge, Orgeval, Europe et Châtillon, représentant un investissement de 365 millions d'euros. Parmi les projets : désenclavement des quartiers, réduction de la densité, création de commerces et d'équipements.",
+    "date": "2019",
+    "role": "Signataire au nom de la ville de Reims",
+    "status": "en cours",
+    "source_url": "https://www.anru.fr/actualites/reims-un-nouveau-coeur-de-quartier-pour-orgeval"
+  },
+  {
+    "id": "plan-videosurveillance-reims",
+    "title": "Extension du réseau de vidéosurveillance urbaine",
+    "description": "Passage de 36 caméras en 2014 à plus de 430 caméras en 2026. Réseau de surveillance piloté depuis le centre de supervision urbain (CSU).",
+    "date": "2014",
+    "role": "Initié et supervisé par le maire",
+    "status": "en cours",
+    "source_url": "https://www.francebleu.fr/grand-est/marne-51/reims/municipales-2026-a-reims-le-maire-sortant-et-candidat-arnaud-robinet-souhaite-doubler-les-cameras-de-videosurveillance-1751687"
+  },
+  {
+    "id": "budget-participatif-reims",
+    "title": "Budget participatif de la ville de Reims",
+    "description": "Dispositif de démocratie participative permettant aux habitants de voter pour des projets d'aménagement et d'amélioration du cadre de vie dans leurs quartiers.",
+    "date": "2020",
+    "role": "Initié par le maire",
+    "status": "en cours",
+    "source_url": "https://www.reims.fr/la-ville-de-reims/vie-institutionnelle/le-maire"
+  }
+]

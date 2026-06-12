@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ep-leg-tramway-extension",
+    "title": "Extension du réseau de tramway du Havre",
+    "description": "Sous ses mandats successifs de maire, Le Havre a développé et étendu son réseau de tramway. Une nouvelle ligne desservant directement l'hôpital Monod est intégrée aux projets municipaux, et une troisième ligne est prévue à l'horizon 2027 pour relier les quartiers sud à Harfleur et Montivilliers.",
+    "date": "2020",
+    "role": "Maire porteur du projet",
+    "status": "En cours",
+    "source_url": "https://ep2026.fr/programme/"
+  },
+  {
+    "id": "ep-leg-renovation-energetique-batiments",
+    "title": "Rénovation énergétique des bâtiments publics",
+    "description": "Programme de rénovation énergétique des bâtiments publics municipaux engagé sous ses mandats de maire. Engagement de continuité et d'amplification inscrit dans le programme municipal 2026.",
+    "date": "2020",
+    "role": "Maire porteur du projet",
+    "status": "En cours",
+    "source_url": "https://ep2026.fr/programme/"
+  },
+  {
+    "id": "ep-leg-reseau-chaleur",
+    "title": "Extension du réseau de chauffage urbain",
+    "description": "Extension du réseau de chaleur (district heating) de Le Havre, contribuant à la transition énergétique de la ville.",
+    "date": "2020",
+    "role": "Maire porteur du projet",
+    "status": "En cours",
+    "source_url": "https://ep2026.fr/"
+  },
+  {
+    "id": "ep-leg-cite-numerique",
+    "title": "Cité numérique du Havre",
+    "description": "Création et gestion d'un centre d'innovation numérique confié à l'association LH French Tech. Ce projet est au cœur d'une enquête judiciaire ouverte en 2025 par le Parquet national financier concernant les conditions d'attribution de la gestion (voir polemics).",
+    "date": "2020-07",
+    "role": "Signataire de la convention au titre de la présidence de Le Havre Seine Métropole",
+    "status": "Actif, sous enquête judiciaire",
+    "source_url": "https://www.franceinfo.fr/politique/edouard-philippe/detournement-de-fonds-publics-favoritisme-prise-illegale-d-interets-ce-que-l-on-sait-de-l-enquete-a-venir-au-havre-visant-edouard-philippe-candidat-a-la-presidentielle-2027_8016002.html"
+  },
+  {
+    "id": "ep-leg-reabilitaion-decharge-littorale",
+    "title": "Réhabilitation de la décharge littorale de Dollemard",
+    "description": "Engagement de réhabilitation d'une des plus grandes décharges littorales de France, inscrit dans les engagements environnementaux municipaux.",
+    "date": "2020",
+    "role": "Maire porteur du projet",
+    "status": "En cours",
+    "source_url": "https://ep2026.fr/programme/"
+  }
+]

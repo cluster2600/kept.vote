@@ -1,0 +1,34 @@
+[
+  {
+    "id": "president-fhf-interets",
+    "category": "Fonction bénévole / associative",
+    "description": "Président de la Fédération hospitalière de France (FHF), organisation représentant les hôpitaux publics et établissements médico-sociaux. Poste non rémunéré.",
+    "organization": "Fédération hospitalière de France (FHF)",
+    "date": "2022-09-21",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=robinet-arnaud"
+  },
+  {
+    "id": "president-fhf-grand-est-interets",
+    "category": "Fonction bénévole / associative",
+    "description": "Président de la FHF Grand Est, délégation régionale de la Fédération hospitalière de France.",
+    "organization": "FHF Grand Est",
+    "date": "2020",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=robinet-arnaud"
+  },
+  {
+    "id": "president-sageo-interets",
+    "category": "Fonction bénévole / associative",
+    "description": "Président du conseil scientifique de Sageo (société savante). Poste bénévole.",
+    "organization": "Sageo",
+    "date": "2020",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=robinet-arnaud"
+  },
+  {
+    "id": "parti-horizons",
+    "category": "Appartenance politique",
+    "description": "Membre du parti Horizons fondé par Édouard Philippe. Antérieurement : Démocratie libérale (1998–2002), UMP (2002–2015), Les Républicains (2015–2021), LFA/Agir (2017–2021).",
+    "organization": "Horizons",
+    "date": "2021",
+    "source_url": "https://en.wikipedia.org/wiki/Arnaud_Robinet"
+  }
+]

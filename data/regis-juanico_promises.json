@@ -1,0 +1,179 @@
+[
+  {
+    "id": "ethique-transparence-indemnite-maire",
+    "title": "Réduction de l'indemnité du maire et renouveau démocratique",
+    "description": "Réduire l'indemnité du maire à titre d'exemple éthique. Créer un 'grand événement citoyen' pour consulter les habitants sur les instances démocratiques de proximité, revoir les périmètres des conseils de quartier et organiser des concertations ouvertes sur les grands projets urbains (Ursules, Charité). Engagement : probité, éthique publique et sens de l'intérêt général à chaque décision.",
+    "date_made": "2026-03-01",
+    "category": "Gouvernance et éthique",
+    "status": "in_progress",
+    "confidence_score": "0.90",
+    "reasoning": "Mesure annoncée et partiellement mise en oeuvre dès le conseil municipal d'installation (27 mars 2026), confirmée par la mairie officielle.",
+    "key_evidence": [
+      "Réduction de l'indemnité votée lors du conseil municipal d'installation le 27 mars 2026",
+      "Interview officielle sur saint-etienne.fr : 'La confiance a été rompue ces dernières années entre les Stéphanoises, les Stéphanois et leurs élus locaux'"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://juanico2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "revitalisation-centre-ville-commerces",
+    "title": "Revitalisation commerciale du centre-ville et gratuité des transports le samedi",
+    "description": "Créer un Conseil stratégique du commerce, de l'artisanat et de l'animation. Reconquérir les locaux commerciaux vacants. Rendre les transports en commun gratuits le samedi pour attirer les chalands. Organiser des animations régulières en centre-ville. Renforcer la présence de la police municipale à pied et à vélo.",
+    "date_made": "2026-02-01",
+    "category": "Développement économique / Commerce",
+    "status": "in_progress",
+    "confidence_score": "0.88",
+    "reasoning": "Mesure phare annoncée pendant la campagne et dans le programme écrit. La réunion du 8 avril 2026 avec les acteurs du commerce confirme le début de mise en oeuvre.",
+    "key_evidence": [
+      "Programme 'Rassembler Saint-Étienne' — axe 'Mieux vivre ensemble'",
+      "Interview saint-etienne.fr : 'j'ai réuni, le 8 avril dernier, tous les acteurs concernés par la question du commerce et de l'animation'"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://juanico2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "renovation-ecoles-60-70m",
+    "title": "Plan de rénovation des écoles publiques (60 à 70 M€ sur 2026-2032)",
+    "description": "Investir entre 60 et 70 millions d'euros pour la rénovation, l'extension et la construction d'écoles publiques, avec rénovation thermique des bâtiments et végétalisation des cours de récréation.",
+    "date_made": "2026-02-01",
+    "category": "Éducation / Investissement",
+    "status": "in_progress",
+    "confidence_score": "0.87",
+    "reasoning": "Engagement chiffré et répété dans le programme écrit et dans l'interview officielle post-élection. Mis en avant comme priorité de mandat.",
+    "key_evidence": [
+      "Programme 'Rassembler Saint-Étienne' — axe 'Mieux vivre à tout âge'",
+      "Interview saint-etienne.fr : 'L'enveloppe de 60 à 70 M€ qui sera investie dans la rénovation de nos écoles'"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://juanico2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "transition-ecologique-10000-arbres",
+    "title": "Planter 10 000 arbres durant le mandat et désimperméabilisation",
+    "description": "Planter au moins 10 000 arbres à Saint-Étienne durant le mandat 2026-2032. Réintroduire du végétal partout où c'est possible pour rendre la ville moins minérale et moins bétonnée. Étudier la mise à ciel ouvert du Furan (place Carnot, Tréfilerie).",
+    "date_made": "2026-02-01",
+    "category": "Environnement / Transition écologique",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Engagement chiffré figurant dans l'interview officielle post-élection et dans le programme de campagne.",
+    "key_evidence": [
+      "Interview saint-etienne.fr : 'On s'est engagé à planter au moins 10 000 arbres durant le mandat'",
+      "Programme Rassembler Saint-Étienne — 43 propositions Environnement & Transition écologique"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://pourquituvotes.fr/municipales-2026/saint-etienne/candidats/juanico/"
+    ]
+  },
+  {
+    "id": "mutuelle-communale",
+    "title": "Création d'une mutuelle communale pour les habitants",
+    "description": "Lancer une mutuelle communale permettant aux Stéphanois de réaliser des économies substantielles sur leur complémentaire santé. Mise en oeuvre visée dès début 2027.",
+    "date_made": "2026-02-01",
+    "category": "Santé / Pouvoir d'achat",
+    "status": "in_progress",
+    "confidence_score": "0.82",
+    "reasoning": "Annonce précise avec calendrier dans l'interview officielle post-élection sur saint-etienne.fr.",
+    "key_evidence": [
+      "Interview saint-etienne.fr : 'Nous allons lancer très rapidement le chantier de la mutuelle communale' — mise en place envisagée début 2027"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://juanico2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "medicobus-acces-soins",
+    "title": "Expérimentation du Médicobus (bus de consultations médicales itinérants)",
+    "description": "Mettre en place des bus itinérants permettant des consultations médicales au plus près des habitants (médecins et infirmiers) dans les quartiers les plus déficitaires en accès aux soins. Démarrage expérimental le 1er juillet 2026 sur 2 jours, puis extension à 4-5 jours fin 2026.",
+    "date_made": "2026-03-27",
+    "category": "Santé / Accès aux soins",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Engagement avec calendrier précis annoncé dans l'interview officielle post-élection.",
+    "key_evidence": [
+      "Interview saint-etienne.fr : 'On espère pouvoir démarrer cette expérimentation le 1er juillet sur deux jours, puis monter en puissance fin 2026'"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain"
+    ]
+  },
+  {
+    "id": "ursules-charite-projets-urbains",
+    "title": "Démolition du parking des Ursules et reconversion du site de la Charité",
+    "description": "Démolir le parking des Ursules pour redécouvrir la perspective vers l'ancienne école des Beaux-Arts, en lançant une nouvelle concertation citoyenne. Reconvertir le site de la Charité (dont le CHU libèrera les lieux mi-2027) en lieu mixte, vert et solidaire : résidentiel diversifié, centre municipal de santé, expositions culturelles, ESS, espaces intergénérationnels.",
+    "date_made": "2026-02-01",
+    "category": "Urbanisme / Cadre de vie",
+    "status": "in_progress",
+    "confidence_score": "0.78",
+    "reasoning": "Engagements détaillés dans le programme de campagne et dans l'interview officielle de la mairie. Le départ du CHU est prévu mi-2027, conditionnant le calendrier.",
+    "key_evidence": [
+      "Interview saint-etienne.fr : démolition parking Ursules, reconversion Charité en 'lieu ouvert mixte, vert et solidaire'",
+      "Programme Rassembler Saint-Étienne — 16 propositions Urbanisme & Cadre de vie"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://juanico2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "securite-police-municipale-transports",
+    "title": "Renforcement de la sécurité — police municipale de proximité et brigade transports",
+    "description": "Déployer la police municipale en patrouilles pied et vélo régulières en centre-ville. Renforcer la brigade de sécurisation des transports en commun (réseau Stas, mise en place dès le 4 mars 2026). Lutter contre les incivilités, faire respecter la zone 30 km/h en hypercentre.",
+    "date_made": "2026-02-01",
+    "category": "Sécurité / Prévention",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Engagement renforcé lors de la campagne (23 propositions sécurité) et mesures déjà initiées avant même l'élection (brigade STAS au 4 mars 2026).",
+    "key_evidence": [
+      "Interview saint-etienne.fr : 'Nous avons également demandé aux policiers municipaux d'être plus régulièrement présents à pied ou à vélo'",
+      "Programme Rassembler Saint-Étienne — 23 propositions Sécurité & Prévention"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://pourquituvotes.fr/municipales-2026/saint-etienne/candidats/juanico/"
+    ]
+  },
+  {
+    "id": "mobilites-pietonisation-velo",
+    "title": "Piétonisation élargie, pistes cyclables sécurisées et axes traversants",
+    "description": "Créer des axes piétonniers plus sécurisés et traversants (est-ouest et sud-nord). Développer des pistes cyclables continues et sécurisées, notamment vers les équipements sportifs du nord de la ville. Étudier et expérimenter l'élargissement de la piétonisation en hypercentre d'ici 2032.",
+    "date_made": "2026-02-01",
+    "category": "Transports / Mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.80",
+    "reasoning": "Engagement figurant dans les 21 propositions transports du programme et dans l'interview de la mairie.",
+    "key_evidence": [
+      "Programme Rassembler Saint-Étienne — 21 propositions Transports & Mobilité",
+      "Interview saint-etienne.fr : 'axes piétonniers plus sécurisés et traversants, d'est en ouest et du sud au nord'"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://juanico2026.fr/programme/"
+    ]
+  },
+  {
+    "id": "sport-lutte-sedentarite-piscines",
+    "title": "Ville active : lutte contre la sédentarité, réorganisation des piscines et grands événements sportifs",
+    "description": "Favoriser la pratique sportive pour tous (clubs, pistes cyclables, design actif, itinéraires marchables). Évaluer et réorganiser les équipements aquatiques. Accueillir de grands événements sportifs (ex. Championnats de France Élite de natation, juin 2026). Augmenter les aides au sport féminin et handisport.",
+    "date_made": "2026-02-01",
+    "category": "Sport / Loisirs",
+    "status": "in_progress",
+    "confidence_score": "0.83",
+    "reasoning": "Engagement en cohérence directe avec l'expertise nationale de Juanico (rapporteur budget sport, co-président groupe JO 2024). Confirmé dans l'interview mairie et le programme.",
+    "key_evidence": [
+      "Programme Rassembler Saint-Étienne — 9 propositions Sport & Loisirs",
+      "Interview saint-etienne.fr : 'Je me réjouis d'accueillir les Championnats de France Élite de natation du 27 juin au 2 juillet [2026]'"
+    ],
+    "source_url": [
+      "https://www.saint-etienne.fr/actualites/regis-juanico-je-serai-un-maire-accessible-lecoute-et-sur-le-terrain",
+      "https://pourquituvotes.fr/municipales-2026/saint-etienne/candidats/juanico/"
+    ]
+  }
+]

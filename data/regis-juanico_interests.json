@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hatvp-interets-maire-2026",
+    "category": "Déclaration HATVP",
+    "description": "Déclaration d'intérêts déposée à la HATVP en tant que maire de Saint-Étienne et président de Saint-Étienne Métropole. Publication en cours au 12 juin 2026.",
+    "organization": "Haute Autorité pour la transparence de la vie publique (HATVP)",
+    "date": "2026",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=juanico-regis"
+  },
+  {
+    "id": "pour-une-france-en-forme",
+    "category": "Engagement associatif / expertise",
+    "description": "Membre du collectif national 'Pour une France en forme', présidé par le professeur François Carré. Collectif consacré à la lutte contre la sédentarité et à la promotion de l'activité physique.",
+    "organization": "Collectif Pour une France en forme",
+    "date": "2022",
+    "source_url": "https://juanico2026.fr/juanico/"
+  },
+  {
+    "id": "observatoire-ethique-publique",
+    "category": "Engagement associatif / éthique",
+    "description": "Vice-président du conseil d'orientation de l'Observatoire de l'Éthique Publique.",
+    "organization": "Observatoire de l'Éthique Publique",
+    "date": "2022",
+    "source_url": "https://juanico2026.fr/juanico/"
+  },
+  {
+    "id": "reserve-citoyenne-gendarmerie",
+    "category": "Engagement civique",
+    "description": "Membre de la Réserve citoyenne de la Gendarmerie Nationale.",
+    "organization": "Gendarmerie Nationale",
+    "date": "2022",
+    "source_url": "https://juanico2026.fr/juanico/"
+  },
+  {
+    "id": "coquelicot42-athletisme",
+    "category": "Engagement sportif",
+    "description": "Athlète licencié au Coquelicot 42, pratiquant le lancer (marteau, disque, poids). Expert reconnu des politiques publiques sportives.",
+    "organization": "Coquelicot 42",
+    "date": "",
+    "source_url": "https://juanico2026.fr/juanico/"
+  },
+  {
+    "id": "agence-nationale-sport-ca",
+    "category": "Organisme extra-parlementaire",
+    "description": "Membre du conseil d'administration de l'Agence nationale du sport (en tant que représentant de l'Assemblée nationale) de décembre 2019 à juin 2022.",
+    "organization": "Agence nationale du sport",
+    "date": "2019-12-20",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA332614/fonctions?archive=oui"
+  }
+]

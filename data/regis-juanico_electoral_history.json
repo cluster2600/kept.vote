@@ -1,0 +1,68 @@
+[
+  {
+    "id": "municipales-saint-etienne-2026-t2",
+    "office": "Maire de Saint-Étienne",
+    "jurisdiction": "Saint-Étienne (Loire)",
+    "election_date": "2026-03-22",
+    "result": "elected",
+    "party": "Rassembler Saint-Étienne (PS/EELV/PCF — union de la gauche et des écologistes)",
+    "vote_share": "44.13",
+    "notes": "Second tour des élections municipales. 19 493 voix sur 4 listes qualifiées. Juanico devance Corentin Jousserand (RN, 26,68 %), Dino Cinieri (LR/UDI, 18,75 %) et Valentine Mercier (LFI, 10,44 %). Obtient 43 sièges sur 59 au conseil municipal.",
+    "source_url": "https://mesinfos.fr/42000-saint-etienne/municipales-2026-regis-juanico-elu-maire-de-saint-etienne-la-ville-passe-a-gauche-242827.html"
+  },
+  {
+    "id": "municipales-saint-etienne-2026-t1",
+    "office": "Candidat aux élections municipales de Saint-Étienne",
+    "jurisdiction": "Saint-Étienne (Loire)",
+    "election_date": "2026-03-15",
+    "result": "qualified_second_round",
+    "party": "Rassembler Saint-Étienne (PS/EELV/PCF — union de la gauche et des écologistes)",
+    "vote_share": "29.16",
+    "notes": "Premier tour des élections municipales 2026. Juanico arrive en tête et est qualifié pour le second tour.",
+    "source_url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/resultats-municipales-2026-a-saint-etienne-retrouvez-les-scores-des-quatre-candidats-en-lice-3321483.html"
+  },
+  {
+    "id": "legislatives-2017-t2",
+    "office": "Député de la Loire (1re circonscription)",
+    "jurisdiction": "Loire — 1re circonscription (Saint-Étienne Nord)",
+    "election_date": "2017-06-18",
+    "result": "elected",
+    "party": "Parti socialiste / Socialistes et apparentés",
+    "vote_share": "50.05",
+    "notes": "3e élection consécutive. 11 544 voix. Mandat clos le 21 juin 2022 (fin de législature). Ne se représente pas en 2022.",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA332614"
+  },
+  {
+    "id": "legislatives-2012-t2",
+    "office": "Député de la Loire (1re circonscription)",
+    "jurisdiction": "Loire — 1re circonscription (Saint-Étienne Nord)",
+    "election_date": "2012-06-20",
+    "result": "elected",
+    "party": "Parti socialiste",
+    "vote_share": "57.45",
+    "notes": "2e réélection consécutive avec une large marge.",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA332614"
+  },
+  {
+    "id": "legislatives-2007-t2",
+    "office": "Député de la Loire (1re circonscription)",
+    "jurisdiction": "Loire — 1re circonscription (Saint-Étienne Nord)",
+    "election_date": "2007-06-20",
+    "result": "elected",
+    "party": "Parti socialiste",
+    "vote_share": "52.13",
+    "notes": "Première élection comme député. Élu lors des élections législatives de juin 2007.",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA332614"
+  },
+  {
+    "id": "cantonales-2004",
+    "office": "Conseiller général de la Loire",
+    "jurisdiction": "Canton concernant Saint-Étienne Nord / Saint-Priest-en-Jarez (Loire)",
+    "election_date": "2004-03-01",
+    "result": "elected",
+    "party": "Parti socialiste",
+    "vote_share": "",
+    "notes": "Première élection comme conseiller général. Réélu en 2011, 2015 et 2021 en tant que conseiller départemental.",
+    "source_url": "https://juanico2026.fr/juanico/"
+  }
+]

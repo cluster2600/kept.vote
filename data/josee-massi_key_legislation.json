@@ -1,0 +1,20 @@
+[
+  {
+    "id": "measure-police-municipale-152",
+    "title": "Renforcement de la police municipale (100 → 152 agents)",
+    "description": "Augmentation des effectifs de la police municipale de Toulon, passés d'environ 100 agents en 2020 à 152 à la date de la campagne 2026, avec un objectif affiché de 200 agents pour la fin du second mandat.",
+    "date": "2023",
+    "role": "Maire",
+    "status": "en_cours",
+    "source_url": "https://www.info83.fr/municipales-toulon-2026-josee-massi-programme/"
+  },
+  {
+    "id": "measure-microcreches-quartiers",
+    "title": "Développement de micro-crèches dans les quartiers prioritaires",
+    "description": "Dans la continuité de son action au CEDIS, déploiement de micro-crèches dans les quartiers prioritaires de Toulon et mise en place de crèches à vocation d'insertion professionnelle dans le Var.",
+    "date": "2023",
+    "role": "Maire",
+    "status": "en_cours",
+    "source_url": "https://toulon.fr/josee-massi-maire-de-toulon"
+  }
+]

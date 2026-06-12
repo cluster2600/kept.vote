@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ep-int-areva-nucleaire",
+    "category": "Activité professionnelle antérieure",
+    "description": "Directeur des affaires publiques d'Areva (groupe nucléaire), d'octobre 2007 à octobre 2010, avant son entrée en politique à temps plein. Intérêt déclaré dans le secteur de l'énergie nucléaire via son passé professionnel.",
+    "organization": "Areva SA",
+    "date": "2017-05",
+    "source_url": "https://reporterre.net/Le-Premier-ministre-Edouard-Philippe-vient-d-Areva-et-n-a-pas-la-fibre-ecolo"
+  },
+  {
+    "id": "ep-int-ump-lr-affiliation",
+    "category": "Affiliation partisane antérieure",
+    "description": "Membre de l'UMP (devenue Les Républicains) depuis 2001, directeur général de l'UMP en 2002–2004. Déclaré dans ses déclarations d'intérêts en tant que député.",
+    "organization": "Union pour un Mouvement Populaire / Les Républicains",
+    "date": "2014",
+    "source_url": "https://www.hatvp.fr/pages_nominatives/philippe-edouard.html"
+  },
+  {
+    "id": "ep-int-horizons-president",
+    "category": "Affiliation partisane",
+    "description": "Fondateur et président du parti Horizons depuis le 9 octobre 2021. Intérêt direct en tant que dirigeant du parti.",
+    "organization": "Horizons",
+    "date": "2021-10-09",
+    "source_url": "https://www.franceinfo.fr/politique/edouard-philippe-lance-une-campagne-d-adhesion-a-son-parti-horizons-avec-2027-en-tete_5245015.html"
+  },
+  {
+    "id": "ep-int-lhsm-president",
+    "category": "Mandat local",
+    "description": "Président de la communauté urbaine Le Havre Seine Métropole depuis 2020. Organisme gérant les compétences intercommunales (port, transport, développement économique).",
+    "organization": "Le Havre Seine Métropole",
+    "date": "2020",
+    "source_url": "https://www.hatvp.fr/pages_nominatives/philippe-edouard.html"
+  }
+]

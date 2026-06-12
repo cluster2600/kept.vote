@@ -1,0 +1,20 @@
+[
+  {
+    "id": "indemnite-maire-reims",
+    "category": "Revenus d'activité",
+    "description": "Indemnité de fonction de maire de Reims",
+    "value": "68832",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2021",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=robinet-arnaud"
+  },
+  {
+    "id": "indemnite-vp-grand-est",
+    "category": "Revenus d'activité",
+    "description": "Indemnité de vice-président du Conseil régional Grand Est",
+    "value": "1900",
+    "declared_or_estimated": "declared",
+    "declaration_date": "2021",
+    "source_url": "https://www.hatvp.fr/fiche-nominative/?declarant=robinet-arnaud"
+  }
+]

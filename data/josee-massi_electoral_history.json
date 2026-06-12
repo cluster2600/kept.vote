@@ -1,0 +1,68 @@
+[
+  {
+    "id": "election-toulon-municipal-2014",
+    "office": "Adjointe au Maire",
+    "jurisdiction": "Toulon (Var)",
+    "election_date": "2014-03",
+    "result": "élue (liste Hubert Falco)",
+    "party": "Divers droite",
+    "vote_share": "",
+    "notes": "Élue adjointe au maire déléguée à la petite enfance, l'éducation, la famille, la sécurité et les ressources humaines sur la liste de Hubert Falco.",
+    "source_url": "https://toulon.fr/josee-massi-maire-de-toulon"
+  },
+  {
+    "id": "election-toulon-municipal-2020",
+    "office": "Adjointe au Maire",
+    "jurisdiction": "Toulon (Var)",
+    "election_date": "2020-06",
+    "result": "réélue",
+    "party": "Divers droite",
+    "vote_share": "",
+    "notes": "Réélue adjointe au maire sur la liste de Hubert Falco. Promue première adjointe en 2022.",
+    "source_url": "https://toulon.fr/josee-massi-maire-de-toulon"
+  },
+  {
+    "id": "election-var-departementales-2021",
+    "office": "Conseillère Départementale",
+    "jurisdiction": "Département du Var — Canton de Toulon-1",
+    "election_date": "2021-06",
+    "result": "élue",
+    "party": "Divers droite",
+    "vote_share": "",
+    "notes": "Élue conseillère départementale du Var dans le canton de Toulon-1.",
+    "source_url": "https://www.var.fr/documents/20142/4221999/MASSI+TOULON+1+.pdf/256669e4-f38a-bd2a-2721-5178519d7c98"
+  },
+  {
+    "id": "election-toulon-maire-2023",
+    "office": "Maire de Toulon",
+    "jurisdiction": "Toulon (Var)",
+    "election_date": "2023-05-03",
+    "result": "élue par le conseil municipal",
+    "party": "Divers droite (sans étiquette)",
+    "vote_share": "",
+    "notes": "Élue maire de Toulon par le conseil municipal avec 50 voix, à la suite de la déchéance de mandat d'Hubert Falco condamné pour détournement de fonds publics. Première femme maire de l'histoire de Toulon.",
+    "source_url": "https://www.francebleu.fr/infos/politique/sans-surprise-josee-massi-est-elue-maire-de-toulon-5701611"
+  },
+  {
+    "id": "election-toulon-municipal-2026-t1",
+    "office": "Maire de Toulon",
+    "jurisdiction": "Toulon (Var)",
+    "election_date": "2026-03-15",
+    "result": "2e au premier tour",
+    "party": "Divers droite — liste « Toulon mon parti »",
+    "vote_share": "29.54",
+    "notes": "Premier tour des élections municipales : Laure Lavalette (RN) en tête avec 42,05 %, Josée Massi 2e avec 29,54 % (17 350 voix), Michel Bonnus (LR) 3e avec 15,71 %. Participation : 55,23 %.",
+    "source_url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/93/83/83137/"
+  },
+  {
+    "id": "election-toulon-municipal-2026-t2",
+    "office": "Maire de Toulon",
+    "jurisdiction": "Toulon (Var)",
+    "election_date": "2026-03-22",
+    "result": "réélue",
+    "party": "Divers droite — liste « Toulon mon parti »",
+    "vote_share": "52.35",
+    "notes": "Réélue au second tour avec 52,35 % des voix (31 593 voix) contre Laure Lavalette (RN) à 47,65 %. Victoire permise par le front républicain et le retrait de Michel Bonnus (LR) en sa faveur.",
+    "source_url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/toulon/resultats-des-elections-municipales-a-toulon-le-front-republicain-a-t-il-fonctionne-pour-faire-barrage-au-rn-3318222.html"
+  }
+]

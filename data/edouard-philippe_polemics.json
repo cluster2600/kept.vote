@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ep-pol-hatvp-2014",
+    "title": "Déclaration patrimoniale incomplète en 2014 — avertissement HATVP",
+    "description": "En 2014, lors de sa déclaration de situation patrimoniale en tant que député-maire du Havre, Édouard Philippe a systématiquement indiqué 'aucune idée' concernant la valeur de ses biens immobiliers et mentionné des prix d'achat parfois en francs sans actualiser les estimations. La HATVP lui a adressé une appréciation (avertissement formel) pour déclaration incomplète et fantaisiste. Il n'avait pas donné suite aux demandes de clarification. Il s'agissait d'un manquement procédural sans suite judiciaire.",
+    "date": "2014",
+    "category": "Transparence patrimoniale",
+    "status": "Classé — avertissement HATVP sans suite judiciaire",
+    "source_url": "https://www.lelanceur.fr/edouard-philippe-traine-savate-sur-la-transparence/"
+  },
+  {
+    "id": "ep-pol-cjr-covid",
+    "title": "Enquête de la Cour de justice de la République sur la gestion du Covid-19",
+    "description": "Édouard Philippe, ainsi qu'Agnès Buzyn et Olivier Véran, ont fait l'objet d'une enquête ouverte devant la Cour de justice de la République (CJR) pour leur gestion de la pandémie de Covid-19 (mise en danger de la vie d'autrui, abstention volontaire de combattre un sinistre). Convoqué par la commission d'instruction de la CJR, il a obtenu le statut de témoin assisté (et non de mis en examen). Le 7 juillet 2025, la commission d'instruction de la CJR a prononcé un non-lieu général en sa faveur, ainsi qu'en faveur d'Agnès Buzyn et d'Olivier Véran. Présomption d'innocence pleinement applicable ; le non-lieu clôt l'affaire.",
+    "date": "2020",
+    "category": "Enquête judiciaire — gestion de crise sanitaire",
+    "status": "Non-lieu prononcé le 7 juillet 2025",
+    "source_url": "https://www.france24.com/fr/france/20221022-gestion-du-covid-19-%C3%A9douard-philippe-%C3%A9chappe-%C3%A0-une-mise-en-examen"
+  },
+  {
+    "id": "ep-pol-pnf-cite-numerique",
+    "title": "Enquête du Parquet national financier — Cité numérique du Havre",
+    "description": "Le Parquet national financier (PNF) a ouvert une enquête préliminaire à la suite d'un signalement par un lanceur d'alerte en septembre 2023, suivie de perquisitions en avril 2024. En mai 2025, le PNF a pris un réquisitoire introductif (7 mai 2025) et saisi un juge d'instruction pour des soupçons de détournement de fonds publics, favoritisme, prise illégale d'intérêts et corruption passive, en lien avec l'attribution à l'association LH French Tech de la gestion de la Cité numérique du Havre en juillet 2020, assortie d'une compensation de 2,154 millions d'euros de fonds publics. Édouard Philippe a démenti avoir enfreint la loi et a déclaré qu'une éventuelle mise en examen ne l'empêcherait pas de maintenir sa candidature à la présidentielle 2027. L'enquête est en cours ; présomption d'innocence applicable ; aucune décision définitive de justice n'a été rendue.",
+    "date": "2025-05-07",
+    "category": "Enquête judiciaire — finances publiques locales",
+    "status": "Enquête en cours devant un juge d'instruction — aucune mise en examen notifiée publiquement à ce jour",
+    "source_url": "https://www.franceinfo.fr/politique/edouard-philippe/detournement-de-fonds-publics-favoritisme-prise-illegale-d-interets-ce-que-l-on-sait-de-l-enquete-a-venir-au-havre-visant-edouard-philippe-candidat-a-la-presidentielle-2027_8016002.html"
+  }
+]

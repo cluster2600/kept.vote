@@ -1,0 +1,68 @@
+[
+  {
+    "id": "legislatives-2008-partielle",
+    "office": "Député de la Marne (1re circonscription)",
+    "jurisdiction": "Marne — 1re circonscription",
+    "election_date": "2008-12-14",
+    "result": "élu",
+    "party": "UMP",
+    "vote_share": "52.49",
+    "notes": "Élection partielle à la suite de la démission de Renaud Dutreil. Élu au second tour.",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA417099"
+  },
+  {
+    "id": "legislatives-2012",
+    "office": "Député de la Marne (1re circonscription)",
+    "jurisdiction": "Marne — 1re circonscription",
+    "election_date": "2012-06",
+    "result": "élu",
+    "party": "UMP",
+    "vote_share": "",
+    "notes": "Réélu sous l'étiquette UMP pour la 14e législature.",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA417099"
+  },
+  {
+    "id": "municipales-2014-reims",
+    "office": "Maire de Reims",
+    "jurisdiction": "Reims",
+    "election_date": "2014-03",
+    "result": "élu",
+    "party": "UMP",
+    "vote_share": "",
+    "notes": "Premier mandat de maire de Reims, élu au second tour face à la maire sortante socialiste Adeline Hazan.",
+    "source_url": "https://www.bm-reims.fr/patrimoine/figures-remoises-maires-46-robinet.aspx"
+  },
+  {
+    "id": "legislatives-2017",
+    "office": "Député de la Marne (1re circonscription)",
+    "jurisdiction": "Marne — 1re circonscription",
+    "election_date": "2017-06",
+    "result": "non élu",
+    "party": "Les Républicains",
+    "vote_share": "",
+    "notes": "Non réélu en juin 2017, fin de mandat le 20 juin 2017. Lui succède Valérie Beauvais.",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA417099"
+  },
+  {
+    "id": "municipales-2020-reims",
+    "office": "Maire de Reims",
+    "jurisdiction": "Reims",
+    "election_date": "2020-03-15",
+    "result": "élu",
+    "party": "Les Républicains",
+    "vote_share": "66.32",
+    "notes": "Réélu au premier tour avec 66,32 % des suffrages exprimés dans un contexte de très faible participation (27 %). Second tour annulé.",
+    "source_url": "https://france3-regions.franceinfo.fr/grand-est/marne/reims/resultats-municipales-reims-arnaud-robinet-grand-favori-reelu-premier-tour-1800518.html"
+  },
+  {
+    "id": "municipales-2026-reims",
+    "office": "Maire de Reims",
+    "jurisdiction": "Reims",
+    "election_date": "2026-03-22",
+    "result": "élu",
+    "party": "Horizons (soutenu par LR)",
+    "vote_share": "51.86",
+    "notes": "Troisième mandat. Premier tour le 15 mars 2026 : 43,79 %. Second tour le 22 mars 2026 : 51,86 % (23 561 voix). Anne-Sophie Frigout (RN) 25,92 %, Éric Quénard (gauche unie) 22,22 %.",
+    "source_url": "https://france3-regions.franceinfo.fr/grand-est/marne/reims/resultats-second-tour-des-municipales-a-reims-retrouvez-les-scores-de-tous-les-candidats-et-leurs-reactions-3321507.html"
+  }
+]

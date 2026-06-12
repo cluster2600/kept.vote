@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ep-edu-lycee-allemagne",
+    "institution": "Lycée français de Hambourg (Allemagne)",
+    "degree": "Baccalauréat",
+    "field": "Général (hypokhâgne préparatoire)",
+    "start_date": "",
+    "end_date": ""
+  },
+  {
+    "id": "ep-edu-sciences-po",
+    "institution": "Sciences Po Paris",
+    "degree": "Diplôme",
+    "field": "Sciences politiques",
+    "start_date": "",
+    "end_date": "1992"
+  },
+  {
+    "id": "ep-edu-droit",
+    "institution": "Université Paris",
+    "degree": "Maîtrise",
+    "field": "Droit",
+    "start_date": "",
+    "end_date": ""
+  },
+  {
+    "id": "ep-edu-ena",
+    "institution": "École nationale d'administration (ENA)",
+    "degree": "Diplôme de l'ENA",
+    "field": "Administration publique",
+    "start_date": "1995",
+    "end_date": "1997"
+  }
+]
