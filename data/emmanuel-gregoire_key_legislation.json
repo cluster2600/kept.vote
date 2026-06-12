@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cours-oasis-paris",
+    "title": "Programme Cours Oasis — végétalisation des cours d'école",
+    "date": "2020-01-01",
+    "description": "En qualité de premier adjoint en charge de l'urbanisme, Grégoire a supervisé l'extension du programme Cours Oasis, qui transforme les cours d'école bétonnées en espaces végétalisés, fraîches et inclusifs. Ce programme a été une mesure phare de la mandature Hidalgo 2020-2026 à Paris.",
+    "status": "enacted",
+    "source_url": "https://www.paris.fr/pages/les-cours-oasis-7389"
+  },
+  {
+    "id": "plan-logement-social-2020-2026",
+    "title": "Plan de construction et réhabilitation de logements sociaux (mandat 2020-2026)",
+    "date": "2020-07-04",
+    "description": "Pendant le mandat où Grégoire supervise l'urbanisme, la Ville de Paris a poursuivi un rythme d'environ 5 000 logements sociaux rénovés par an et œuvré pour accroître le parc social, avec la coordination entre les directions de l'urbanisme et du logement.",
+    "status": "enacted",
+    "source_url": "https://www.paris.fr/pages/gregoire-emmanuel-2323/"
+  },
+  {
+    "id": "plan-velo-paris",
+    "title": "Développement du réseau cyclable parisien",
+    "date": "2020-07-04",
+    "description": "Sous sa responsabilité de l'urbanisme, Paris a considérablement étendu son réseau de pistes cyclables, notamment en pérennisant les coronapistes créées en 2020 et en développant de nouvelles liaisons structurantes.",
+    "status": "enacted",
+    "source_url": "https://www.paris.fr/pages/gregoire-emmanuel-2323/"
+  }
+]

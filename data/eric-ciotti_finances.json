@@ -1,0 +1,29 @@
+[
+  {
+    "id": "hatvp-declaration",
+    "category": "Déclaration HATVP — intérêts et activités",
+    "description": "Déclaration de modification substantielle des intérêts et des activités déposée le 8 novembre 2024. Mandats rémunérés déclarés : conseiller départemental (22 626 € nets en 2022, 23 195 € en 2023, 10 600 € en 2024) et député (62 653 € nets en 2022, 133 590 € en 2023, 60 000 € en 2024, données arrêtées au 10 juin 2024). Aucune activité de consultant, aucune participation financière directe dans le capital d'une société, aucune rémunération pour les mandats représentatifs dans les organismes mixtes (SMIAGE, SDIS, EHPAD Sainte-Croix, syndicats mixtes, Côte d'Azur France Tourisme). Déclaration de situation patrimoniale consultable en préfecture des Alpes-Maritimes.",
+    "value": "voir détail",
+    "is_estimate": "false",
+    "source_url": "https://www.hatvp.fr/pages_nominatives/ciotti-eric",
+    "notes": "La déclaration de patrimoine est consultable à la préfecture des Alpes-Maritimes, route de Grenoble, 06286 Nice Cedex 3 (tél. 04.93.72.20.00). Les données patrimoniales ne sont pas publiées en ligne par la HATVP pour les parlementaires."
+  },
+  {
+    "id": "remuneration-depute-2023",
+    "category": "Rémunération — mandat de député",
+    "description": "Indemnité parlementaire nette perçue en 2023 en qualité de député de la 1re circonscription des Alpes-Maritimes, telle que déclarée à la HATVP.",
+    "value": "133 590 € nets",
+    "is_estimate": "false",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/ciotti-eric-diam30910-depute-06.pdf",
+    "notes": "Montant incluant l'indemnité de base et les indemnités de fonction. Données issues de la déclaration HATVP (novembre 2024)."
+  },
+  {
+    "id": "remuneration-conseiller-departemental-2023",
+    "category": "Rémunération — mandat de conseiller départemental",
+    "description": "Indemnité nette perçue en 2023 en qualité de conseiller départemental des Alpes-Maritimes, telle que déclarée à la HATVP.",
+    "value": "23 195 € nets",
+    "is_estimate": "false",
+    "source_url": "https://www.hatvp.fr/livraison/dossiers/ciotti-eric-diam30910-depute-06.pdf",
+    "notes": "Données issues de la déclaration HATVP (novembre 2024)."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "appartement-nice",
+    "type": "Appartement",
+    "location": "Nice (Alpes-Maritimes)",
+    "ownership": "Propriétaire",
+    "estimated_value": "352 000 €",
+    "is_estimate": "true",
+    "source_url": "https://www.hatvp.fr/pages_nominatives/ciotti-eric",
+    "notes": "Valeur rapportée par des sources de presse reprenant la déclaration patrimoniale consultable en préfecture. La déclaration de patrimoine officielle n'est pas publiée en ligne mais est consultable à la préfecture des Alpes-Maritimes. Valeur à considérer comme approximative (is_estimate : true)."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "plan-ecoles-enquete-judiciaire",
+    "title": "Enquête judiciaire sur le Plan Écoles de Marseille",
+    "description": "Le parquet de Marseille a ouvert une enquête préliminaire à la suite d'un signalement de l'ancien préfet Georges-François Leclerc dénonçant des faits « potentiellement constitutifs de violations de la loi pénale et notamment de délits de favoritisme » concernant la Société publique des écoles marseillaises (SPEM), dont Benoît Payan préside le conseil d'administration. L'enquête porte notamment sur l'acquisition litigieuse d'un bâtiment scolaire provisoire. Le directeur de cabinet de l'Élysée a également transmis les faits au parquet. À la date de rédaction, aucune mise en examen de Benoît Payan n'a été prononcée ; la présomption d'innocence s'applique pleinement.",
+    "date": "2026-01",
+    "category": "Affaire judiciaire",
+    "status": "enquête préliminaire en cours",
+    "source_url": "https://madeinmarseille.net/politique/195866-a-marseille-la-justice-ouvre-une-enquete-sur-le-plan-ecoles/"
+  },
+  {
+    "id": "retard-plan-ecoles",
+    "title": "Retards importants dans la rénovation des écoles",
+    "description": "Des opposants, dont le collectif « Une Génération pour Marseille », ont dénoncé la lenteur d'exécution du Plan Écoles : selon eux, seules 15 écoles auraient été rénovées sur les 188 prévues cinq ans après le lancement, soit un rythme qui nécessiterait 70 ans pour achever le plan. La Chambre régionale des comptes PACA a qualifié la gouvernance du plan d'« indigente ». Payan conteste ce bilan et avance le chiffre de 27 écoles neuves ou reconstruites livrées en mandat.",
+    "date": "2025",
+    "category": "Gestion publique",
+    "status": "contesté",
+    "source_url": "https://gomet.net/une-generation-marseille-denonce-la-gestion-du-plan-de-renovation-des-ecoles-par-payan/"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "journaliste-la-croix-du-midi",
+    "title": "Journaliste",
+    "organization": "La Croix du Midi",
+    "start_date": "1984",
+    "end_date": "1985",
+    "description": "Premiers pas dans le journalisme après l'obtention de son diplôme à l'Université Toulouse 1 Capitole."
+  },
+  {
+    "id": "directeur-communication-region-midi-pyrenees",
+    "title": "Directeur de la communication",
+    "organization": "Conseil régional de Midi-Pyrénées",
+    "start_date": "1986",
+    "end_date": "1987",
+    "description": "Chargé de la communication par Dominique Baudis, président du Conseil régional de Midi-Pyrénées nouvellement élu."
+  },
+  {
+    "id": "conseiller-municipal-toulouse-1987",
+    "title": "Conseiller municipal",
+    "organization": "Mairie de Toulouse",
+    "start_date": "1987",
+    "end_date": "2004",
+    "description": "Élu conseiller municipal de Toulouse à 27 ans, chargé notamment des relations avec les associations étudiantes. Mandat renouvelé en 1989, 1995 et 2001."
+  },
+  {
+    "id": "conseiller-regional-midi-pyrenees",
+    "title": "Conseiller régional",
+    "organization": "Conseil régional de Midi-Pyrénées",
+    "start_date": "1992",
+    "end_date": "2004",
+    "description": "Membre du Conseil régional de Midi-Pyrénées."
+  },
+  {
+    "id": "conseiller-general-haute-garonne",
+    "title": "Conseiller général",
+    "organization": "Conseil général de la Haute-Garonne",
+    "start_date": "1994",
+    "end_date": "2008",
+    "description": "Conseiller général du canton de Toulouse-9."
+  },
+  {
+    "id": "maire-toulouse-premier-mandat",
+    "title": "Maire de Toulouse",
+    "organization": "Mairie de Toulouse",
+    "start_date": "2004-05-06",
+    "end_date": "2008-03-21",
+    "description": "Élu maire de Toulouse le 6 mai 2004, succédant à Françoise de Veyrinas (intérimaire) après la nomination de Philippe Douste-Blazy au gouvernement. Battu au second tour des municipales de 2008 par Pierre Cohen (PS)."
+  },
+  {
+    "id": "depute-haute-garonne-3e-circonscription",
+    "title": "Député de la 3e circonscription de Haute-Garonne",
+    "organization": "Assemblée nationale",
+    "start_date": "2012-06-20",
+    "end_date": "2014-04-10",
+    "description": "Élu député à l'Assemblée nationale lors des législatives de 2012, succédant à Pierre Cohen. Démissionne en avril 2014 pour se consacrer à sa fonction de maire de Toulouse."
+  },
+  {
+    "id": "maire-toulouse-depuis-2014",
+    "title": "Maire de Toulouse",
+    "organization": "Mairie de Toulouse",
+    "start_date": "2014-04-04",
+    "end_date": "",
+    "description": "Réélu maire de Toulouse en 2014, 2020 et mars 2026. Entame son quatrième mandat (deuxième période consécutive depuis 2014)."
+  },
+  {
+    "id": "president-toulouse-metropole",
+    "title": "Président de Toulouse Métropole",
+    "organization": "Toulouse Métropole",
+    "start_date": "2014-04-24",
+    "end_date": "",
+    "description": "Président de Toulouse Métropole depuis le 24 avril 2014, intercommunalité regroupant 79 communes."
+  },
+  {
+    "id": "president-amgvf",
+    "title": "Président",
+    "organization": "Association des maires des grandes villes de France (AMGVF)",
+    "start_date": "2014",
+    "end_date": "2015",
+    "description": "Élu 9e président de l'AMGVF, succédant à Michel Destot."
+  },
+  {
+    "id": "president-france-urbaine",
+    "title": "Président",
+    "organization": "France urbaine",
+    "start_date": "2016",
+    "end_date": "2020",
+    "description": "Président de l'association France urbaine (anciennement AMGVF), qui regroupe les grandes villes et métropoles françaises."
+  },
+  {
+    "id": "controleur-general-economique-financier",
+    "title": "Contrôleur Général Économique et Financier",
+    "organization": "Ministère de l'Économie et des Finances",
+    "start_date": "2015-01",
+    "end_date": "2019-10",
+    "description": "Fonctionnaire mis en disponibilité sans solde à partir d'octobre 2019 jusqu'en juillet 2020, selon sa déclaration HATVP."
+  }
+]

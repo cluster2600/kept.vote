@@ -1,0 +1,20 @@
+[
+  {
+    "id": "municipales-lyon-2020",
+    "office": "Maire de Lyon",
+    "election_date": "2020-06-28",
+    "result": "won",
+    "party": "Europe Écologie – Les Verts (liste Union de la gauche et des écologistes)",
+    "vote_share": "0.524",
+    "notes": "Second tour des élections municipales de Lyon. Doucet conduit la liste écologiste et de gauche avec 52,4 % des suffrages exprimés au second tour. Élu maire par le conseil municipal le 4 juillet 2020."
+  },
+  {
+    "id": "municipales-lyon-2026",
+    "office": "Maire de Lyon",
+    "election_date": "2026-03-22",
+    "result": "won",
+    "party": "Les Écologistes (liste Pour Vivre Lyon — Union de la gauche et des écologistes)",
+    "vote_share": "0.5067",
+    "notes": "Second tour des élections municipales de Lyon 2026. Doucet réélu avec environ 50,67 % des voix (104 702 voix) contre 49,33 % pour la liste de Jean-Michel Aulas (101 940 voix). Jean-Michel Aulas a déposé un recours devant le tribunal administratif pour irrégularités alléguées ; la décision est en attente, Doucet demeurant maire dans l'intervalle."
+  }
+]

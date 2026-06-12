@@ -1,0 +1,183 @@
+[
+  {
+    "id": "logement-60000",
+    "title": "60 000 nouveaux logements publics sur le mandat",
+    "description": "Créer 60 000 nouveaux logements publics (sociaux et abordables) avec un rééquilibrage entre arrondissements et la reconversion massive des bureaux inutilisés. Inclut une brigade de protection du logement pour faire respecter l'encadrement des loyers, lutter contre les meublés touristiques illégaux et une garantie municipale des loyers étendue.",
+    "date_made": "2026-01-01",
+    "category": "logement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Objectif ambitieux sur six ans. Le mandat vient de commencer (mars 2026) ; aucun livrable à ce stade. La Ville de Paris dispose de leviers sur le logement social mais dépend aussi de l'État et des bailleurs sociaux. Confiance modérée compte tenu de la tradition de livraison en matière de logement à Paris.",
+    "key_evidence": [
+      "Programme officiel de campagne 2026 : 'Un objectif de 60 000 nouveaux logements publics, avec un rééquilibrage entre les arrondissements et la reconversion massive des bureaux inutilisés'",
+      "Déclaration à l'investiture le 29 mars 2026 : 'le logement comme priorité absolue' (CNews, 29 mars 2026)"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://www.cnews.fr/france/2026-03-29/municipales-2026-periscolaire-logement-pouvoir-dachat-intronise-maire-de-paris",
+      "https://www.batiactu.com/edito/emmanuel-gregoire-nouveau-maire-paris-donne-priorite-73999.php"
+    ]
+  },
+  {
+    "id": "metro-24h",
+    "title": "Métro 24h/24 en commençant par les lignes automatisées",
+    "description": "Ouvrir le métro parisien 24 heures sur 24, en commençant par les lignes déjà automatisées (1, 4 et 14), à l'instar de Berlin, New York ou Londres. Complété par la création de 15 lignes de bus express avec voies sécurisées et super-priorité aux carrefours.",
+    "date_made": "2026-01-01",
+    "category": "transport",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "L'extension des horaires du métro relève en grande partie de la RATP et de la Région Île-de-France, sur lesquelles la mairie de Paris n'a qu'une influence indirecte. La promesse est répétée depuis des années sans aboutir, ce qui tempère la confiance. Les lignes automatisées (1, 14) sont les plus réalistes.",
+    "key_evidence": [
+      "Programme officiel : 'Des métros 24h sur 24, comme à Berlin, New York ou Londres, en commençant par les lignes déjà automatisées (1, 4, 14)'",
+      "Publicsenat : annonce publique de la mesure parmi les priorités lors de la présentation du projet"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://www.publicsenat.fr/actualites/politique/metro-24h-24-refondation-du-periscolaire-logements-sociaux-gouter-gratuit-emmanuel-gregoire-presente-son-projet-pour-les-municipales-a-paris"
+    ]
+  },
+  {
+    "id": "peripherique-boulevard-urbain",
+    "title": "Transformation du périphérique en boulevard urbain",
+    "description": "Transformer le boulevard périphérique en boulevard urbain, avec des portes de Paris converties en véritables places du Grand Paris reliées par une grande ceinture verte, culturelle et sportive. Inclut la végétalisation massive des abords et une couverture partielle du périphérique près du Parc des Princes.",
+    "date_made": "2026-02-01",
+    "category": "environnement / urbanisme",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Projet structurant de long terme, techniquement et financièrement très complexe, dépendant aussi des communes voisines et de la Métropole. Annoncé dès la campagne avec des visuels concrets (porte de Gentilly). Première étape budgétaire non encore votée.",
+    "key_evidence": [
+      "Programme officiel : 'Transformation du périphérique en boulevard urbain et des portes de Paris en véritables places du Grand Paris, reliées par une grande ceinture verte, culturelle et sportive'",
+      "Illustration 'Le périphérique transformé — La porte de Gentilly' dans le document de programme"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://www.largus.fr/actualite-automobile/conduire-a-paris-que-reserve-le-nouveau-maire-e-gregoire-aux-automobilistes-dans-la-capitale-30046059.html"
+    ]
+  },
+  {
+    "id": "petite-ceinture-extension",
+    "title": "10 km supplémentaires de la Petite Ceinture ouverts à la promenade",
+    "description": "Poursuivre l'ouverture de la Petite Ceinture avec 10 km supplémentaires de promenade accessibles au public, en plus des 10 km déjà développés sur les 32 km du tracé total.",
+    "date_made": "2026-02-09",
+    "category": "environnement / espaces verts",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Continuité d'une politique déjà engagée par la Ville de Paris depuis plusieurs années. La Ville maîtrise foncièrement une partie du tracé. Objectif réaliste sur la durée du mandat.",
+    "key_evidence": [
+      "Programme officiel : 'Poursuite de l'ouverture de la Petite Ceinture avec 10 km supplémentaires de promenade'",
+      "France24 (9 février 2026) : annonce dans le plan d'adaptation climatique"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://www.france24.com/fr/info-en-continu/20260209-a-paris-gr%C3%A9goire-d%C3%A9voile-son-plan-pour-adapter-la-ville-au-r%C3%A9chauffement-climatique"
+    ]
+  },
+  {
+    "id": "berges-seine-25km",
+    "title": "25 km de promenade continue le long des berges de la Seine",
+    "description": "Aménager 25 km de promenade continue, végétalisée et accessible le long des berges de la Seine, rive gauche comme rive droite, entre le pont Debilly et la Concorde à l'ouest, et entre le port de l'Arsenal et les jardins de Bercy à l'est.",
+    "date_made": "2026-02-09",
+    "category": "environnement / espaces publics",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "S'appuie sur les berges déjà réaménagées (rive gauche piétonne depuis 2013). L'extension rive droite est plus complexe du fait de la circulation. Objectif ambitieux mais ancré dans une continuité de politiques parisiennes.",
+    "key_evidence": [
+      "Programme officiel : 'Grandes Berges de Seine : 25 km de promenade continue, végétalisée et accessible le long des berges, rive gauche comme rive droite'",
+      "France24 (9 février 2026) : plan climatique incluant les berges de la Seine"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://www.france24.com/fr/info-en-continu/20260209-a-paris-gr%C3%A9goire-d%C3%A9voile-son-plan-pour-adapter-la-ville-au-r%C3%A9chauffement-climatique"
+    ]
+  },
+  {
+    "id": "refondation-periscolaire",
+    "title": "Refondation du périscolaire — convention citoyenne dès avril 2026",
+    "description": "Lancer dès avril 2026 une convention citoyenne sur les temps scolaires, le périscolaire et les droits de l'enfant. Professionnaliser la filière de l'animation (fin des vacations, 100 % de contrats continus), renforcer les dispositifs de protection des enfants (jamais d'adulte seul avec un enfant, inspections indépendantes) et créer une offre péricollège.",
+    "date_made": "2026-03-29",
+    "category": "éducation / enfance",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Réponse directe à la controverse des violences sexuelles périscolaires qui a marqué la campagne. La convention citoyenne est prévue dès avril 2026, ce qui constitue un engagement à court terme vérifiable. Les autres mesures de professionnalisation s'étalent sur le mandat.",
+    "key_evidence": [
+      "Programme officiel : 'Lancement, dès avril 2026, d'une convention citoyenne sur les temps scolaires, le périscolaire et les droits de l'enfant'",
+      "Déclaration d'investiture (CNews, 29 mars 2026) : priorité à la refondation du périscolaire citée explicitement"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://www.cnews.fr/france/2026-03-29/municipales-2026-periscolaire-logement-pouvoir-dachat-intronise-maire-de-paris",
+      "https://www.publicsenat.fr/actualites/politique/violences-sexuelles-dans-le-periscolaire-a-paris-la-crise-enflamme-la-campagne-municipale-a-paris"
+    ]
+  },
+  {
+    "id": "police-municipale-plus-1000",
+    "title": "+1 000 policiers municipaux et kiosques de sécurité dans chaque arrondissement",
+    "description": "Renforcer la police municipale parisienne de 1 000 agents supplémentaires, mieux équipés et présents 24h/24 sur le terrain. Créer des kiosques de police municipale dans chaque arrondissement et sur les points chauds. Créer 500 nouvelles caméras mobiles de vidéoprotection et de nouvelles brigades nocturnes.",
+    "date_made": "2026-01-01",
+    "category": "sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Engagement de recrutement massif sur six ans, contrainte budgétaire significative pour la Ville de Paris. La police municipale parisienne est récente (créée sous Hidalgo) et monter en puissance prend du temps. La réalisation dépend des arbitrages budgétaires annuels.",
+    "key_evidence": [
+      "Programme officiel : 'Une police municipale plus nombreuse (+1 000 policiers), mieux équipée, présente sur le terrain 24h sur 24, et plus accessible, grâce à l'installation de kiosques dans chaque arrondissement et sur les points chauds'"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/securite-transport-logement-ou-encore-environnement-que-proposent-les-candidats-a-la-mairie-de-paris-comparez-leur-programme-pour-les-municipales-3308415.html"
+    ]
+  },
+  {
+    "id": "alimentation-100-bio-ecoles",
+    "title": "100 % bio, local et durable dans les cantines et crèches municipales + goûter gratuit",
+    "description": "Atteindre 100 % d'alimentation bio, locale et durable dans les cantines scolaires et les crèches municipales parisiennes. Offrir un goûter équilibré et gratuit à tous les enfants. Maintenir le gel des tarifs de cantine.",
+    "date_made": "2026-01-01",
+    "category": "alimentation / éducation",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Objectif inscrit dans la continuité d'une politique déjà engagée à Paris (40 % de bio en 2020). Atteindre 100 % est un défi d'approvisionnement et de coût. Le goûter gratuit est une mesure nouvelle et concrète.",
+    "key_evidence": [
+      "Programme officiel : '100 % d'alimentation bio, locale et durable dans les cantines et les crèches municipales, avec un goûter équilibré et gratuit pour tous les enfants'",
+      "Vert.eco (comparatif programmes 2026) : mesure citée comme engagement phare de Grégoire sur l'écologie"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://vert.eco/articles/municipales-2026-rachida-dati-emmanuel-gregoire-sarah-knafo-a-paris-qui-propose-quoi-sur-lecologie"
+    ]
+  },
+  {
+    "id": "pfas-polluants-eternels",
+    "title": "Plan de détection et réduction des PFAS et perturbateurs endocriniens à Paris",
+    "description": "Engager une vaste opération de détection et de réduction des PFAS (polluants éternels) et des perturbateurs endocriniens dans la ville, et en particulier dans les écoles parisiennes. Déploiement de capteurs de pollution et de radars sonores à l'échelle de chaque quartier.",
+    "date_made": "2026-01-01",
+    "category": "environnement / santé",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Sujet d'actualité important et mesure innovante à l'échelle municipale. La Ville peut agir sur ses propres bâtiments (écoles notamment). La réduction des PFAS dans l'espace public dépend aussi de régulations nationales.",
+    "key_evidence": [
+      "Programme officiel : 'Lutte à la source contre les pollutions de l'eau et de l'air (PFAS, pesticides, particules fines…), et contre les perturbateurs endocriniens'",
+      "Vert.eco : engagement environnemental cité explicitement dans le programme 2026"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://vert.eco/articles/municipales-2026-rachida-dati-emmanuel-gregoire-sarah-knafo-a-paris-qui-propose-quoi-sur-lecologie"
+    ]
+  },
+  {
+    "id": "300-hectares-parcs",
+    "title": "300 hectares de nouveaux parcs et jardins ouverts au public",
+    "description": "Créer 300 nouveaux hectares de jardins ouverts au public, avec une extension des horaires des parcs tout au long de l'année (notamment en période de canicule). Créer 10 nouveaux parcs à la place de voies de circulation sur certains boulevards et transformer des places emblématiques (République, Trocadéro, Concorde, Italie, etc.).",
+    "date_made": "2026-02-09",
+    "category": "environnement / espaces verts",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Objectif quantitatif précis mais très ambitieux : 300 ha en 6 ans dans une ville très dense est un défi foncier et financier majeur. Les transformations de places et de boulevards sont davantage réalisables à court terme.",
+    "key_evidence": [
+      "Programme officiel : '300 nouveaux hectares de jardins ouverts au public, avec une extension des horaires des parcs tout au long de l'année'",
+      "France24 (9 février 2026) : plan climatique incluant la végétalisation massive"
+    ],
+    "source_url": [
+      "https://emmanuel-gregoire-2026.fr/programme/programme-emmanuel-gregoire.pdf",
+      "https://www.france24.com/fr/info-en-continu/20260209-a-paris-gr%C3%A9goire-d%C3%A9voile-son-plan-pour-adapter-la-ville-au-r%C3%A9chauffement-climatique"
+    ]
+  }
+]

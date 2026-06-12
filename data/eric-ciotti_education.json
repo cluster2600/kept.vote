@@ -1,0 +1,34 @@
+[
+  {
+    "id": "lycee-parc-imperial",
+    "institution": "Lycée du Parc-Impérial",
+    "degree": "Baccalauréat",
+    "field": "Enseignement général",
+    "start_date": "",
+    "end_date": "1983"
+  },
+  {
+    "id": "universite-nice-economie",
+    "institution": "Université de Nice",
+    "degree": "Licence",
+    "field": "Sciences économiques",
+    "start_date": "1983",
+    "end_date": "1986"
+  },
+  {
+    "id": "sciences-po-paris",
+    "institution": "Institut d'études politiques de Paris (Sciences Po Paris)",
+    "degree": "Diplôme",
+    "field": "Sciences politiques",
+    "start_date": "1986",
+    "end_date": "1989"
+  },
+  {
+    "id": "troisieme-cycle-collectivites",
+    "institution": "Établissement non précisé publiquement",
+    "degree": "Troisième cycle / DESS",
+    "field": "Gestion des collectivités locales",
+    "start_date": "",
+    "end_date": ""
+  }
+]

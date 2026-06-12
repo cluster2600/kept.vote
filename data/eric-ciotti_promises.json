@@ -1,0 +1,163 @@
+[
+  {
+    "id": "promise-taxe-fonciere-baisse",
+    "title": "Effacer la hausse de 20 % de la taxe foncière votée en 2024",
+    "description": "Éric Ciotti s'est engagé à annuler la hausse de 20 % de la taxe foncière municipale décidée à l'automne 2024 par la majorité Estrosi, afin de restituer du pouvoir d'achat aux propriétaires niçois. Le conseil municipal a voté le 24 avril 2026 une baisse du taux municipal de 4,4 points (environ -12,5 % sur la part municipale), représentant 51,4 millions d'euros rendus aux contribuables, soit partiellement inférieure à la promesse de -20 % globale.",
+    "date_made": "2025-10",
+    "category": "fiscalité / pouvoir d'achat",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "La baisse a été votée rapidement (avril 2026), mais elle ne couvre pas l'intégralité des 20 % promis sur toutes les composantes de la taxe foncière. La mise en œuvre partielle justifie un statut 'in_progress'.",
+    "key_evidence": [
+      "Conseil municipal de Nice, délibération du 24 avril 2026 : baisse de 4,4 points du taux municipal sur le bâti",
+      "Promesse de campagne ciotti2026.fr et programme publié avant le 15 mars 2026"
+    ],
+    "source_url": [
+      "https://www.nicepremium.fr/actualites/conseil-municipal-de-nice-la-baisse-de-la-taxe-fonciere-adoptee-mais-contestee/",
+      "https://www.institutmontaigne.org/municipales-2026/nice/diminuer-de-20-la-taxe-fonciere/"
+    ]
+  },
+  {
+    "id": "promise-police-municipale-doublement",
+    "title": "Doubler les effectifs de la police municipale",
+    "description": "Ciotti a promis de doubler les effectifs de la police municipale niçoise, passant d'environ 400 à 600 agents opérationnels d'ici 2027, avec une centaine d'agents mobilisés quotidiennement dans les rues. Il s'est également engagé à en faire les policiers municipaux les mieux payés de France, via une revalorisation salariale, des aides au logement et un recrutement accéléré.",
+    "date_made": "2025-11",
+    "category": "sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Des premières mesures de recrutement et de revalorisation ont été annoncées après l'installation de la mairie (mars 2026), mais l'objectif chiffré (600 agents) est pluriannuel jusqu'en 2027.",
+    "key_evidence": [
+      "Programme Ciotti 2026 : doublement des effectifs de la police municipale",
+      "Annonces post-électorales sur les salaires et le recrutement (nicepresse.com, mai 2026)"
+    ],
+    "source_url": [
+      "https://nicepresse.com/nouveau-plan-securite-ciotti-mairie-nice/",
+      "https://www.lejdd.fr/Societe/nice-ciotti-veut-faire-de-ses-policiers-municipaux-les-mieux-payes-de-france-175686"
+    ]
+  },
+  {
+    "id": "promise-gratuite-transport-65-ans",
+    "title": "Gratuité des transports en commun pour les plus de 65 ans",
+    "description": "Ciotti a promis de généraliser la gratuité des transports en commun de la Métropole Nice Côte d'Azur pour toutes les personnes âgées de 65 ans et plus, sans condition de ressources, à partir de septembre 2026. La mesure a été adoptée par le conseil métropolitain le 8 juin 2026 et entre en vigueur le 1er septembre 2026. Elle bénéficiera à environ 100 000 personnes.",
+    "date_made": "2025-10",
+    "category": "transport / seniors",
+    "status": "kept",
+    "confidence_score": "0.95",
+    "reasoning": "La délibération a été adoptée dans les délais annoncés et la mesure entre en vigueur dès septembre 2026, conformément à l'engagement de campagne.",
+    "key_evidence": [
+      "Conseil métropolitain de Nice Côte d'Azur, délibération du 8 juin 2026",
+      "Entrée en vigueur prévue le 1er septembre 2026 — environ 100 000 bénéficiaires"
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/transports-en-commun-gratuite-pour-les-plus-de-65-ans-dans-la-metropole-de-nice-a-partir-de-septembre-2026-3364570.html",
+      "https://presseagence.fr/nice-eric-ciotti-une-ville-qui-ne-prend-pas-soin-de-ses-aines-est-une-cite-sans-ame/"
+    ]
+  },
+  {
+    "id": "promise-theatre-national-gare-du-sud",
+    "title": "Installer le Théâtre national de Nice à la Gare du Sud",
+    "description": "Ciotti s'est engagé à créer un nouveau théâtre à la Gare du Sud, site patrimonial du XIXe siècle, afin d'y installer un pôle culturel majeur incluant un théâtre et un auditorium. Il entend ainsi refaire de Nice un 'phare de la culture' et inverser le déclin culturel qu'il impute à la gestion précédente.",
+    "date_made": "2025-12",
+    "category": "culture",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Engagement culturel majeur affiché dans le programme, mais les travaux et montages juridiques/financiers sont de long terme. Aucune réalisation concrète signalée à ce jour.",
+    "key_evidence": [
+      "Programme Ciotti 2026 — rubrique culture (ciotti2026.fr)",
+      "Références presse à la Gare du Sud comme futur pôle culturel"
+    ],
+    "source_url": [
+      "https://www.ciotti2026.fr/culture",
+      "https://nicepresse.com/securite-logement-culture-que-retenir-du-programme-deric-ciotti-rn-udr-juste-avant-les-municipales-2026-a-nice/"
+    ]
+  },
+  {
+    "id": "promise-logement-social-renovation",
+    "title": "Rénovation du parc de logements sociaux — cession hors-métropole et 400 M€ de réinvestissement",
+    "description": "Ciotti a proposé de vendre les logements sociaux de Côte d'Azur Habitat situés hors de la métropole, pour dégager environ 400 millions d'euros, et d'affecter ces recettes à la construction de nouveaux logements et à la rénovation du parc existant jugé 'indécent et insalubre'. Cette réforme de grande ampleur nécessite des décisions au niveau de l'OPH et des autorisations réglementaires.",
+    "date_made": "2025-11",
+    "category": "logement",
+    "status": "in_progress",
+    "confidence_score": "0.45",
+    "reasoning": "Engagement structurel de long terme impliquant des procédures de cession immobilière d'ampleur. Aucune réalisation concrète encore documentée. Incertitude réglementaire forte.",
+    "key_evidence": [
+      "Programme Ciotti 2026 — logement social",
+      "Presse : critique de Côte d'Azur Habitat et annonce de cessions hors-métropole"
+    ],
+    "source_url": [
+      "https://nicepresse.com/municipales-2026-contre-la-crise-du-logement-qui-sevit-a-nice-quel-programme-pour-ciotti-estrosi-et-les-deux-listes-de-gauche/",
+      "https://nicepresse.com/securite-logement-culture-que-retenir-du-programme-deric-ciotti-rn-udr-juste-avant-les-municipales-2026-a-nice/"
+    ]
+  },
+  {
+    "id": "promise-reconquete-quartiers-securite",
+    "title": "« Reconquérir Nice quartier par quartier » — plan de sécurité de proximité",
+    "description": "Dès son installation comme maire, Ciotti a déclaré vouloir 'reconquérir Nice quartier par quartier'. Ce plan comprend l'ouverture d'un poste de police municipale à L'Ariane et aux Moulins, la création de brigades anti-trafic de drogue spécialisées, le renforcement de la vidéosurveillance, un plan d'éclairage urbain renforcé, et des patrouilles 24h/24 dans tous les quartiers.",
+    "date_made": "2026-03",
+    "category": "sécurité / proximité",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Les premières annonces ont été faites dès l'installation (mars 2026), avec des mesures de court terme déployées rapidement. La 'reconquête' complète est un objectif de mandat.",
+    "key_evidence": [
+      "Déclaration du maire au conseil municipal d'installation (mars 2026)",
+      "Plan sécurité présenté par la mairie — nicepresse.com (mai 2026)"
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/provence-alpes-cote-d-azur/alpes-maritimes-06/nice/direct-municipales-2026-a-nice-suivez-l-installation-d-eric-ciotti-le-nouveau-maire-8982309",
+      "https://nicepresse.com/nouveau-plan-securite-ciotti-mairie-nice/"
+    ]
+  },
+  {
+    "id": "promise-environnement-debitumisation-energie",
+    "title": "Politique environnementale : désimperméabilisation et énergies renouvelables",
+    "description": "Ciotti a annoncé retirer l'asphalte 'partout où c'est possible' pour végétaliser les espaces publics, développer la géothermie dans la Plaine du Var, la thermie marine sur le littoral (pour le rafraîchissement des écoles et crèches), alimenter 15 000 foyers en énergie propre, inaugurer le corridor vert Nice-Ouest (30 hectares) et verdiriser l'est de la ville.",
+    "date_made": "2025-12",
+    "category": "environnement / énergie",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Engagements de mandat à long terme. Les projets de thermie marine et de géothermie sont complexes. Une première évaluation environnementale critique note un programme 'de retour en arrière' sur certains points écologiques (suppression de lignes de tram, révision du PLU).",
+    "key_evidence": [
+      "Programme Ciotti 2026 — volet environnemental",
+      "Analyse critique : vert.eco — 'programme de retour en arrière sur l'écologie' (2026)"
+    ],
+    "source_url": [
+      "https://vert.eco/chaleurs-actuelles/municipales-2026-a-nice-eric-ciotti-a-les-mains-libres-pour-derouler-un-programme-de-retour-en-arriere-sur-lecologie/",
+      "https://nicepresse.com/municipales-2026-a-nice-voici-le-programme-des-4-principaux-candidats-pour-la-proprete-et-la-preservation-de-lenvironnement/"
+    ]
+  },
+  {
+    "id": "promise-1000-places-creches",
+    "title": "Créer 1 000 places de crèches supplémentaires",
+    "description": "Ciotti a promis la création de 1 000 places de crèches supplémentaires pour répondre à la demande des familles niçoises, dans le cadre d'une politique de soutien à la petite enfance.",
+    "date_made": "2025-11",
+    "category": "petite enfance / famille",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Objectif pluriannuel de mandat. Aucune réalisation concrète documentée à ce jour.",
+    "key_evidence": [
+      "Programme Ciotti 2026 — volet petite enfance et famille"
+    ],
+    "source_url": [
+      "https://pourquituvotes.fr/municipales-2026/nice/candidats/ciotti/",
+      "https://nicepresse.com/securite-logement-culture-que-retenir-du-programme-deric-ciotti-rn-udr-juste-avant-les-municipales-2026-a-nice/"
+    ]
+  },
+  {
+    "id": "promise-proprete-ville",
+    "title": "Améliorer la propreté de Nice — réorganisation du service et 200 saisonniers",
+    "description": "Ciotti a promis de réorganiser le service de propreté urbaine, d'embaucher 200 agents saisonniers supplémentaires et de renforcer la brigade FRAP (Force Rapide d'Action Propreté) pour lutter contre les incivilités et améliorer la qualité du cadre de vie dans tous les quartiers.",
+    "date_made": "2025-11",
+    "category": "propreté / cadre de vie",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Des annonces de réorganisation du service propreté ont été documentées après l'installation, mais l'ampleur réelle des recrutements et des résultats reste à évaluer.",
+    "key_evidence": [
+      "Programme Ciotti 2026 — propreté",
+      "nicepresse.com : réorganisation du service propreté annoncée par la mairie (2026)"
+    ],
+    "source_url": [
+      "https://nicepresse.com/nice-ciotti-reorganisation-proprete/",
+      "https://nicepresse.com/municipales-2026-a-nice-voici-le-programme-des-4-principaux-candidats-pour-la-proprete-et-la-preservation-de-lenvironnement/"
+    ]
+  }
+]

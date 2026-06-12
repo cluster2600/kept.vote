@@ -1,0 +1,66 @@
+[
+  {
+    "id": "genepi-president",
+    "title": "Président",
+    "organization": "GENEPI (Groupement Étudiant National d'Enseignement aux Personnes Incarcérées)",
+    "start_date": "1997",
+    "end_date": "1998",
+    "description": "Présidence de l'association étudiante nationale d'aide à l'enseignement en milieu carcéral."
+  },
+  {
+    "id": "adie-charge-mission",
+    "title": "Chargé de mission",
+    "organization": "ADIE (Association pour le Droit à l'Initiative Économique)",
+    "start_date": "1998",
+    "end_date": "2001",
+    "description": "Mission dans le secteur du microcrédit et de l'insertion économique."
+  },
+  {
+    "id": "inter-aide-philippines",
+    "title": "Responsable de programme",
+    "organization": "Inter Aide (Philippines)",
+    "start_date": "2002",
+    "end_date": "2006",
+    "description": "Responsable de programme humanitaire aux Philippines pour l'ONG Inter Aide."
+  },
+  {
+    "id": "enfants-developpement-nepal",
+    "title": "Coordinateur de programme",
+    "organization": "Enfants & Développement (Népal)",
+    "start_date": "2007",
+    "end_date": "2009",
+    "description": "Coordinateur de programme au Népal pour l'association Enfants & Développement."
+  },
+  {
+    "id": "handicap-international-insertion",
+    "title": "Référent insertion professionnelle",
+    "organization": "Handicap International",
+    "start_date": "2009",
+    "end_date": "2010",
+    "description": "Référent pour l'insertion professionnelle des personnes handicapées au sein de Handicap International."
+  },
+  {
+    "id": "handicap-international-afrique-ouest",
+    "title": "Directeur des opérations / Responsable des programmes en Afrique de l'Ouest",
+    "organization": "Handicap International",
+    "start_date": "2011",
+    "end_date": "2020-02",
+    "description": "Direction des programmes humanitaires et de développement en Afrique de l'Ouest (notamment de décembre 2014 à février 2020 comme directeur des opérations pour la zone Afrique de l'Ouest)."
+  },
+  {
+    "id": "secretaire-verts-lyon",
+    "title": "Secrétaire local des Verts",
+    "organization": "Les Verts / Europe Écologie – Les Verts, section de Lyon",
+    "start_date": "2017",
+    "end_date": "2019",
+    "description": "Secrétaire de la section lyonnaise du parti écologiste."
+  },
+  {
+    "id": "maire-lyon",
+    "title": "Maire de Lyon",
+    "organization": "Ville de Lyon",
+    "start_date": "2020-07-04",
+    "end_date": "",
+    "description": "Élu maire de Lyon le 4 juillet 2020 à la tête d'une liste EELV/gauche, réélu au second tour des municipales de mars 2026. Premier maire écologiste de Lyon."
+  }
+]

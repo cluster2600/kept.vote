@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2026-election-result-appeal",
+    "title": "Résultat de l'élection municipale 2026 contesté — recours de Jean-Michel Aulas",
+    "description": "Grégory Doucet a été déclaré vainqueur du second tour des élections municipales de Lyon le 22 mars 2026 avec environ 50,67 % des suffrages exprimés (104 702 voix) contre 49,33 % pour Jean-Michel Aulas (101 940 voix). Jean-Michel Aulas a annoncé et déposé un recours devant le tribunal administratif en invoquant de 'nombreuses irrégularités'. Au moment de la publication de ce profil, le recours est en instance ; Grégory Doucet demeure maire de Lyon dans l'attente de la décision de justice. Le résultat n'a pas été annulé.",
+    "date": "2026-03-22",
+    "category": "election",
+    "status": "pending",
+    "source_url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/carte-resultats-municipales-2026-a-lyon-retrouvez-les-scores-par-liste-et-par-arrondissement-en-temps-reel-3319266.html"
+  },
+  {
+    "id": "garde-a-vue-detournement-fonds-2025",
+    "title": "Garde à vue pour soupçons de détournement de fonds publics (avril 2025)",
+    "description": "Le 9 avril 2025, Grégory Doucet a été placé en garde à vue pendant environ dix heures dans le cadre d'une enquête préliminaire pour soupçons de détournement de fonds publics. L'affaire portait sur le recrutement irrégulier allégué de 24 agents de mission entre 2016 et 2023, qui auraient rempli des fonctions de collaborateurs de cabinet alors que la réglementation en limite le nombre à 12 par collectivité. L'enquête judiciaire avait été ouverte en février 2024 après un rapport de la chambre régionale des comptes, lui-même consécutif à une saisine de l'opposition. À l'issue de sa garde à vue, Doucet a déclaré se 'féliciter d'avoir une justice solide'. Présomption d'innocence applicable.",
+    "date": "2025-04-09",
+    "category": "judiciaire",
+    "status": "enquête en cours",
+    "source_url": "https://tribunedelyon.fr/justice/soupcons-de-detournement-de-fonds-publics-gregory-doucet-est-sorti-de-garde-a-vue/"
+  },
+  {
+    "id": "refus-voeu-echevins-2020",
+    "title": "Refus de participer au Vœu des Échevins (cérémonie catholique traditionnelle)",
+    "description": "Le 8 septembre 2020, Grégory Doucet a refusé de participer au Vœu des Échevins, une cérémonie traditionnelle lyonnaise se déroulant dans la cathédrale Saint-Jean, au motif qu'il ne souhaitait pas pénétrer dans un édifice religieux en tant que représentant laïc de la République. La décision a suscité un débat sur la laïcité et les traditions locales.",
+    "date": "2020-09-08",
+    "category": "vie publique",
+    "status": "clos",
+    "source_url": "https://www.lyonpeople.com/actualites-lyon/actualites-politiques/top-20-des-polemiques-les-plus-ridicules-des-ecologistes-le-caprice-du-voeu-des-echevins-je-ne-veux-pas-aller-a-leglise-2026-02-21.html"
+  },
+  {
+    "id": "menus-cantines-viande",
+    "title": "Menus végétariens dans les cantines et suppression du foie gras",
+    "description": "L'administration Doucet a introduit un menu végétarien hebdomadaire dans les cantines scolaires de Lyon et a décidé de ne plus servir de foie gras lors des réceptions officielles à l'Hôtel de Ville, tout en encourageant les restaurateurs à en limiter le service. Ces mesures ont provoqué des critiques de la part de professionnels de la gastronomie et des élus d'opposition.",
+    "date": "2020",
+    "category": "politique municipale",
+    "status": "clos",
+    "source_url": "https://www.lyonpeople.com/actualites-lyon/actualites-politiques/171198-2026-02-24.html"
+  }
+]

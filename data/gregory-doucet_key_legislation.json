@@ -1,0 +1,50 @@
+[
+  {
+    "id": "zfe-lyon",
+    "title": "Zone à Faibles Émissions (ZFE) de la Métropole de Lyon",
+    "date": "2021",
+    "description": "Mise en œuvre et renforcement progressif de la Zone à Faibles Émissions métropolitaine, limitant la circulation des véhicules les plus polluants (Crit'Air 3, 4 et 5) dans l'agglomération lyonnaise. Doucet a soutenu cette mesure dans le cadre de la transition écologique, malgré des critiques sur son impact social pour les automobilistes modestes.",
+    "status": "enacted",
+    "source_url": "https://www.lyoncapitale.fr/politique/gregory-doucet-maire-de-lyon"
+  },
+  {
+    "id": "voies-lyonnaises",
+    "title": "Réseau des Voies Lyonnaises (pistes cyclables express)",
+    "date": "2021",
+    "description": "Déploiement d'un réseau de 12 pistes cyclables sécurisées (Voies Lyonnaises) à travers la métropole, en partenariat avec la Métropole de Lyon. Objectif : réduire le trafic automobile et faciliter les mobilités douces. La baisse du trafic automobile de 22 % depuis 2019 est mise en avant dans le bilan du mandat.",
+    "status": "ongoing",
+    "source_url": "https://vert.eco/articles/municipales-2026-pres-de-six-ans-apres-larrivee-au-pouvoir-des-ecologistes-lyon-est-elle-devenue-une-ville-cyclable"
+  },
+  {
+    "id": "cantines-bio-locales",
+    "title": "Amélioration de la qualité des cantines scolaires (bio et local)",
+    "date": "2020",
+    "description": "Augmentation de la part des produits biologiques et locaux dans la restauration collective des écoles de Lyon ; suppression des menus avec viande un jour par semaine dans les cantines municipales, mesure saluée par les associations écologistes et critiquée par les professionnels de la restauration.",
+    "status": "enacted",
+    "source_url": "https://www.lyoncapitale.fr/politique/gregory-doucet-maire-de-lyon"
+  },
+  {
+    "id": "pietonisation-abords-ecoles",
+    "title": "Piétonisation des abords des écoles",
+    "date": "2020",
+    "description": "Plan de piétonisation et de sécurisation des abords des établissements scolaires lyonnais, visant à améliorer la sécurité des enfants et la qualité de l'air à proximité des écoles.",
+    "status": "ongoing",
+    "source_url": "https://www.lyon.fr/sites/lyonfr/files/content/documents/2022-01/Plan%20de%20mandat%202020-2026.pdf"
+  },
+  {
+    "id": "plan-mandat-ecologique",
+    "title": "Plan de mandat 2020-2026 : relance écologique et solidaire",
+    "date": "2022-01",
+    "description": "Document cadre du mandat 2020-2026 de Doucet, intitulé '30 30 30 Lyon, Capitale de l'Écologie', fixant des objectifs en matière de transition écologique, de solidarité et d'investissement dans les services publics locaux (dont 1 milliard d'euros pour la transition écologique sur le mandat).",
+    "status": "ongoing",
+    "source_url": "https://www.lyon.fr/sites/lyonfr/files/content/documents/2022-01/Plan%20de%20mandat%202020-2026.pdf"
+  },
+  {
+    "id": "encadrement-loyers",
+    "title": "Encadrement des loyers à Lyon",
+    "date": "2021",
+    "description": "Mise en place du dispositif d'encadrement des loyers à Lyon dans le cadre du statut de territoire d'expérimentation, plafonnant les loyers à la relocation. Doucet s'est engagé à défendre ce dispositif et a soutenu des actions de contrôle de son application.",
+    "status": "enacted",
+    "source_url": "https://www.lyoncapitale.fr/politique/gregory-doucet-maire-de-lyon"
+  }
+]

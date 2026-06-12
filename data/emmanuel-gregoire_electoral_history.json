@@ -1,0 +1,47 @@
+[
+  {
+    "id": "maire-paris-2026",
+    "office": "Maire de Paris",
+    "election_date": "2026-03-22",
+    "result": "won",
+    "party": "Parti socialiste (union de la gauche et des écologistes)",
+    "vote_share": "50.5",
+    "notes": "Second tour des élections municipales de Paris. Grégoire obtient 50,5 % des suffrages exprimés face à Rachida Dati (LR) et Sophia Chikirou (LFI). Au premier tour (15 mars 2026), sa liste avait recueilli 37,98 %. Le 29 mars 2026, il est élu maire par le conseil de Paris à la majorité absolue de 103 voix sur 163."
+  },
+  {
+    "id": "legislatives-2024-paris-7e",
+    "office": "Député — 7e circonscription de Paris",
+    "election_date": "2024-06-30",
+    "result": "won",
+    "party": "Parti socialiste / NFP",
+    "vote_share": "51.0",
+    "notes": "Élu dès le premier tour avec environ 51 % des suffrages exprimés (30 974 voix). Taux de participation de 77 % dans la circonscription, supérieur à la moyenne nationale. Succède à Clément Beaune."
+  },
+  {
+    "id": "municipales-paris-2020-12e",
+    "office": "Conseiller de Paris — 12e arrondissement (tête de liste)",
+    "election_date": "2020-06-28",
+    "result": "won",
+    "party": "Parti socialiste / liste Hidalgo",
+    "vote_share": "",
+    "notes": "Tête de liste dans le 12e arrondissement. La liste fusionne au second tour avec la liste des Écologistes. La liste gagne l'arrondissement mais le siège de maire du 12e est attribué à Emmanuelle Pierre-Marie (Écologistes) par accord politique. Grégoire reste premier adjoint de Paris en charge de l'urbanisme."
+  },
+  {
+    "id": "municipales-paris-2014-12e",
+    "office": "Conseiller de Paris — 12e arrondissement",
+    "election_date": "2014-03-30",
+    "result": "won",
+    "party": "Parti socialiste",
+    "vote_share": "",
+    "notes": "Élu conseiller de Paris dans le 12e arrondissement. Devient adjoint à la maire Anne Hidalgo en charge des ressources humaines, des services publics et de la modernisation administrative."
+  },
+  {
+    "id": "primaire-ps-paris-2025",
+    "office": "Primaire interne PS Paris (investiture candidat à la mairie)",
+    "election_date": "2025-06-30",
+    "result": "won",
+    "party": "Parti socialiste",
+    "vote_share": "52.61",
+    "notes": "Remporte la primaire socialiste pour la mairie de Paris dès le premier tour avec 52,61 % des voix, écartant notamment Rémi Féraud soutenu par Anne Hidalgo."
+  }
+]

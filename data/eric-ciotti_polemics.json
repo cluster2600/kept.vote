@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2024-lr-udr-realignment",
+    "title": "Rupture avec Les Républicains et alliance avec le Rassemblement National (2024)",
+    "description": "En juin 2024, alors qu'il était président de Les Républicains (LR), Éric Ciotti a annoncé publiquement la conclusion d'une alliance avec le Rassemblement National (RN) pour les élections législatives anticipées. Cette annonce a provoqué une crise interne au sein de LR : le bureau politique a voté son exclusion à l'unanimité, exclusion que Ciotti a immédiatement contestée en justice. Un tribunal parisien a suspendu puis invalidé son exclusion le 14 juin 2024. Un nouveau bureau politique a ensuite confirmé son exclusion. Le 31 août 2024, Ciotti a fondé l'Union des droites pour la République (UDR). Il a officiellement quitté LR le 22 septembre 2024. Au second tour des législatives, dix-sept candidats soutenus par l'UDR et le RN ont été élus, formant un groupe parlementaire autonome.",
+    "date": "2024-06",
+    "category": "party-politics",
+    "status": "resolved",
+    "source_url": "https://www.francebleu.fr/infos/politique/legislatives-2024-l-exclusion-d-eric-ciotti-de-la-presidence-des-lr-suspendue-par-la-justice-8576300"
+  },
+  {
+    "id": "enquete-detournement-fonds-campagne-2022",
+    "title": "Enquête pour détournement de fonds publics — campagne législative 2022",
+    "description": "À la suite d'une plainte de l'association Anticor, le parquet de Nice a ouvert le 31 mai 2023 une enquête pour détournement de fonds publics visant Éric Ciotti, en lien avec l'utilisation présumée de cartes de stationnement au port de Nice — fournies gratuitement par la chambre de commerce aux élus — dans le cadre de sa campagne pour les élections législatives de 2022. Des investigations judiciaires (perquisitions) ont été conduites dans les locaux portuaires. Le statut juridique de la procédure n'a pas donné lieu à une mise en examen publiée à ce jour.",
+    "date": "2023-05",
+    "category": "legal",
+    "status": "ongoing",
+    "source_url": "https://www.francebleu.fr/infos/faits-divers-justice/legislatives-2022-eric-ciotti-vise-par-une-enquete-pour-detournement-de-fonds-publics-4235737"
+  },
+  {
+    "id": "abrogation-loi-ciotti-absenteisme",
+    "title": "Abrogation de la loi Ciotti sur l'absentéisme scolaire (2013)",
+    "description": "La loi du 28 septembre 2010 portant son nom, qui prévoyait la suspension des allocations familiales en cas d'absentéisme scolaire répété, a été jugée inefficace par plusieurs évaluations et a été définitivement abrogée par l'Assemblée nationale le 17 janvier 2013 sous le gouvernement Ayrault. Cette abrogation a constitué une défaite législative symbolique pour Ciotti.",
+    "date": "2013-01",
+    "category": "legislative",
+    "status": "resolved",
+    "source_url": "https://www.banquedesterritoires.fr/absenteisme-scolaire-la-loi-ciotti-est-definitivement-supprimee"
+  }
+]

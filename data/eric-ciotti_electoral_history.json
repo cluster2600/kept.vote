@@ -1,0 +1,74 @@
+[
+  {
+    "id": "municipales-nice-2026-t2",
+    "office": "Maire de Nice",
+    "election_date": "2026-03-22",
+    "result": "won",
+    "party": "Union des droites pour la République (UDR) / Rassemblement National",
+    "vote_share": "48.54",
+    "notes": "Second tour. 61 009 voix sur 125 838 suffrages exprimés. Participation : 55,92 %. Bat le maire sortant Christian Estrosi (37,20 %) et Juliette Chesnel-Le Roux (14,26 %). Obtient 52 sièges sur 69 au conseil municipal."
+  },
+  {
+    "id": "municipales-nice-2026-t1",
+    "office": "Maire de Nice — premier tour",
+    "election_date": "2026-03-15",
+    "result": "won",
+    "party": "Union des droites pour la République (UDR) / Rassemblement National",
+    "vote_share": "43.43",
+    "notes": "Premier tour. Arrive largement en tête devant Christian Estrosi (30,92 %) et Juliette Chesnel-Le Roux (11,93 %). Participation : 53,91 %."
+  },
+  {
+    "id": "president-lr-2022",
+    "office": "Président des Républicains",
+    "election_date": "2022-12-11",
+    "result": "won",
+    "party": "Les Républicains (LR)",
+    "vote_share": "53.7",
+    "notes": "Second tour du congrès interne LR. Bat Bruno Retailleau (46,3 %). Participation interne : 69,75 % (62 586 votants sur 91 105 adhérents). Quitte la présidence et le parti en 2024."
+  },
+  {
+    "id": "legislatives-2022",
+    "office": "Député de la 1re circonscription des Alpes-Maritimes",
+    "election_date": "2022-06-19",
+    "result": "won",
+    "party": "Les Républicains (LR)",
+    "vote_share": "56.33",
+    "notes": "Second tour. 17 737 voix. Bat Graig Monetti (43,67 %)."
+  },
+  {
+    "id": "legislatives-2017",
+    "office": "Député de la 1re circonscription des Alpes-Maritimes",
+    "election_date": "2017-06-18",
+    "result": "won",
+    "party": "Les Républicains (LR)",
+    "vote_share": "56.21",
+    "notes": "Second tour. Bat Caroline Reverso-Meinietti (La République en Marche)."
+  },
+  {
+    "id": "legislatives-2012",
+    "office": "Député de la 1re circonscription des Alpes-Maritimes",
+    "election_date": "2012-06-17",
+    "result": "won",
+    "party": "Union pour un Mouvement Populaire (UMP)",
+    "vote_share": "60.73",
+    "notes": "Second tour. Bat Patrick Allemand (PS)."
+  },
+  {
+    "id": "legislatives-2007",
+    "office": "Député de la 1re circonscription des Alpes-Maritimes",
+    "election_date": "2007-06-17",
+    "result": "won",
+    "party": "Union pour un Mouvement Populaire (UMP)",
+    "vote_share": "60.92",
+    "notes": "Second tour. Première élection à l'Assemblée nationale. Bat Patrick Allemand (PS)."
+  },
+  {
+    "id": "cantonales-2004",
+    "office": "Conseiller général des Alpes-Maritimes (canton de Nice-5)",
+    "election_date": "2004-03",
+    "result": "won",
+    "party": "Union pour un Mouvement Populaire (UMP)",
+    "vote_share": "",
+    "notes": "Première élection au Conseil général des Alpes-Maritimes."
+  }
+]

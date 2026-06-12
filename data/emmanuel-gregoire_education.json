@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sciences-po-bordeaux",
+    "institution": "Institut d'études politiques de Bordeaux (Sciences Po Bordeaux)",
+    "degree": "Diplôme de l'IEP",
+    "field": "Section Économie-Finances (Ecofi)",
+    "start_date": "1997-01-01",
+    "end_date": "1999-01-01"
+  },
+  {
+    "id": "licence-philosophie",
+    "institution": "Université (établissement non précisé publiquement)",
+    "degree": "Licence",
+    "field": "Philosophie",
+    "start_date": "",
+    "end_date": ""
+  },
+  {
+    "id": "lycee-jonzac",
+    "institution": "Lycée de Jonzac (Charente-Maritime)",
+    "degree": "Baccalauréat / Classes préparatoires",
+    "field": "Enseignement secondaire et préparatoire",
+    "start_date": "",
+    "end_date": ""
+  }
+]

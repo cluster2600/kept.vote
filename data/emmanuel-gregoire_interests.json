@@ -1,0 +1,26 @@
+[
+  {
+    "id": "philosophie-sociologie",
+    "interest": "Philosophie et sociologie des organisations",
+    "description": "Licencié en philosophie, Grégoire se passionne très tôt pour la philosophie, la sociologie des organisations et les systèmes d'information, disciplines qui ont orienté son approche des politiques publiques.",
+    "source_url": "https://www.75secondes.fr/etudes/parcours/emmanuel-gregoire"
+  },
+  {
+    "id": "engagement-ps",
+    "interest": "Engagement politique socialiste",
+    "description": "Rejoint le Parti socialiste en 2002, soutenant Lionel Jospin à la présidentielle. Actif au sein du PS du 12e arrondissement de Paris dès le début de sa carrière politique.",
+    "source_url": "https://en.wikipedia.org/wiki/Emmanuel_Gr%C3%A9goire"
+  },
+  {
+    "id": "protection-enfants-droits",
+    "interest": "Protection de l'enfance et droits des mineurs",
+    "description": "Ayant révélé publiquement avoir été victime de violences sexuelles dans un cadre périscolaire lorsqu'il était écolier, Grégoire s'est engagé à libérer la parole des enfants et à renforcer la protection des mineurs.",
+    "source_url": "https://www.lemonde.fr/politique/article/2025/11/24/emmanuel-gregoire-candidat-ps-a-paris-revele-avoir-ete-victime-de-violences-sexuelles-et-appelle-a-liberer-la-parole-des-enfants_6654603_823448.html"
+  },
+  {
+    "id": "urbanisme-ecologie-urbaine",
+    "interest": "Urbanisme et écologie urbaine",
+    "description": "En charge de l'urbanisme à la mairie de Paris de 2020 à 2024, il a développé un intérêt marqué pour la végétalisation des villes, la transformation des espaces publics et l'adaptation des villes au changement climatique.",
+    "source_url": "https://www.france24.com/fr/info-en-continu/20260209-a-paris-gr%C3%A9goire-d%C3%A9voile-son-plan-pour-adapter-la-ville-au-r%C3%A9chauffement-climatique"
+  }
+]

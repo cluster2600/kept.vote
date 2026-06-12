@@ -1,0 +1,20 @@
+[
+  {
+    "id": "periscolaire-violences-sexuelles",
+    "title": "Violences sexuelles dans le périscolaire parisien",
+    "description": "Lors de la campagne municipale de 2026, Rachida Dati a mis en cause Emmanuel Grégoire en sa qualité d'ancien premier adjoint en charge des ressources humaines (2014-2018), lui reprochant notamment d'avoir présidé au recrutement de 14 000 animateurs périscolaires sans diplôme d'État et sans contrôles suffisants. Grégoire a démenti ces accusations, affirmant que les élus ne recrutent pas directement les fonctionnaires, et son équipe a dénoncé une instrumentalisation politique d'un dossier ancien à quelques jours du scrutin. La controverse a enflammé la campagne, sans mise en cause judiciaire de Grégoire à titre personnel.",
+    "date": "2026-03-01",
+    "category": "gestion municipale",
+    "status": "contested",
+    "source_url": "https://www.franceinfo.fr/elections/municipales/violences-sexuelles-dans-le-periscolaire-je-ne-suis-nullement-concerne-assure-emmanuel-gregoire-qui-renvoie-la-balle-a-rachida-dati_7860275.html"
+  },
+  {
+    "id": "accusations-macron-knafo",
+    "title": "Accusation de manipulation présidentielle (affaire Knafo-Macron)",
+    "description": "En mars 2026, Emmanuel Grégoire a publiquement accusé Emmanuel Macron d'être intervenu pour obtenir le retrait de la liste de Sarah Knafo (Reconquête) au profit de Rachida Dati. Grégoire n'a cité aucun nom explicitement ni fourni de preuves. La présidence de la République a vigoureusement démenti, estimant que le candidat se déshonoraient par ces déclarations. La polémique a duré plusieurs jours dans la presse nationale.",
+    "date": "2026-03-19",
+    "category": "polémique électorale",
+    "status": "contested",
+    "source_url": "https://www.franceinfo.fr/elections/municipales/municipales-a-paris-on-vous-resume-la-polemique-autour-des-accusations-d-emmanuel-gregoire-sur-le-role-d-emmanuel-macron-dans-le-retrait-de-sarah-knafo_7881938.html"
+  }
+]

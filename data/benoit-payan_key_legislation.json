@@ -1,0 +1,42 @@
+[
+  {
+    "id": "plan-ecoles-marseille",
+    "title": "Plan Écoles de Marseille",
+    "date": "2021",
+    "description": "Plan de rénovation et de reconstruction de 188 écoles marseillaises sur 15 ans (2021-2036), doté d'1,5 milliard d'euros, piloté par la Société publique des écoles marseillaises (SPEM) dont Benoît Payan est président du conseil d'administration. Lors du premier mandat, 27 écoles neuves ou reconstruites ont été livrées et des travaux réalisés dans 470 établissements.",
+    "status": "en cours",
+    "source_url": "https://madeinmarseille.net/politique/195866-a-marseille-la-justice-ouvre-une-enquete-sur-le-plan-ecoles/"
+  },
+  {
+    "id": "doublement-police-municipale",
+    "title": "Doublement des effectifs de la police municipale",
+    "date": "2021",
+    "description": "Au cours du mandat 2020-2026, les effectifs de la police municipale de Marseille ont doublé, passant de 400 à 800 agents. 500 caméras de vidéoprotection supplémentaires ont également été déployées.",
+    "status": "accompli",
+    "source_url": "https://maritima.fr/actualites/politique/marseille/11629/municipales-2026-a-marseille-benoit-payan-devoile-son-plan-de-bataille-pour-une-ville-qui-protege"
+  },
+  {
+    "id": "encadrement-airbnb-2024",
+    "title": "Régulation des meublés touristiques (Airbnb)",
+    "date": "2024",
+    "description": "En octobre 2024, Benoît Payan annonce la mise en place de la réglementation la plus stricte de France pour encadrer les meublés de tourisme de type Airbnb, en réponse à la crise du logement à Marseille.",
+    "status": "en cours",
+    "source_url": "https://www.liberation.fr/societe/logement/a-marseille-benoit-payan-promet-la-reglementation-la-plus-stricte-de-france-pour-lutter-contre-airbnb-20241007_3KXXEUIWVZDHRMVRR4YNAYZ6YQ/"
+  },
+  {
+    "id": "jumelage-bethleem-2025",
+    "title": "Accord de jumelage Marseille-Bethléem",
+    "date": "2025-09",
+    "description": "Signature d'un accord de jumelage entre la ville de Marseille et la ville de Bethléem (Cisjordanie), le jour même de la reconnaissance de la Palestine par la France, le 22 septembre 2025.",
+    "status": "accompli",
+    "source_url": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Payan"
+  },
+  {
+    "id": "gratuite-transports-2020-2026",
+    "title": "Gratuité des transports pour certains publics",
+    "date": "2021",
+    "description": "Extension de la gratuité des transports en commun à de nouveaux publics lors du mandat 2020-2026, notamment les collégiens et lycéens, posant les bases d'une extension aux moins de 26 ans et aux demandeurs d'emploi prévue sur le mandat 2026-2032.",
+    "status": "en cours",
+    "source_url": "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "id": "gratuite-transports-26-ans",
+    "title": "Gratuité des transports en commun pour les moins de 26 ans et les demandeurs d'emploi",
+    "description": "Étendre la gratuité des transports en commun marseillais à tous les jeunes de moins de 26 ans et aux demandeurs d'emploi, avec l'objectif à terme d'envisager une gratuité totale pour l'ensemble des usagers.",
+    "date_made": "2026-02-17",
+    "category": "Mobilités",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Promesse clairement formulée dans le programme présenté le 17 février 2026 et confirmée dans plusieurs articles de presse. La mesure est cohérente avec la politique engagée lors du premier mandat (extension progressive). Le second mandat vient de commencer (mars 2026), aucune mise en œuvre complète n'est encore confirmée.",
+    "key_evidence": [
+      "Programme présenté le 17 février 2026 à Marseille",
+      "Repris dans Made in Marseille et Maritima (mars 2026)"
+    ],
+    "source_url": [
+      "https://maritima.fr/actualites/politique/marseille/11629/municipales-2026-a-marseille-benoit-payan-devoile-son-plan-de-bataille-pour-une-ville-qui-protege",
+      "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/"
+    ]
+  },
+  {
+    "id": "extension-tramway-nord-est-sud",
+    "title": "Extension du tramway vers le nord, l'est et le sud de Marseille",
+    "description": "Prolonger le réseau de tramway dans trois directions : vers le nord jusqu'à La Bricarde et Saint-Jérôme, vers l'est jusqu'à Saint-Loup et La Barasse, et vers le sud jusqu'à La Rouvière.",
+    "date_made": "2026-02-17",
+    "category": "Mobilités",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Objectif affiché dans le programme 2026, mais les extensions de tramway dépendent en grande partie de financements métropolitains et étatiques et ont des délais de réalisation longs (plusieurs années). Confiance modérée compte tenu de la complexité institutionnelle et financière.",
+    "key_evidence": [
+      "Programme du Printemps marseillais présenté le 17 février 2026"
+    ],
+    "source_url": [
+      "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/"
+    ]
+  },
+  {
+    "id": "tunnels-1-euro-abonnes",
+    "title": "Péage à 1 euro dans les tunnels Prado-Carénage et Prado-Sud pour les abonnés",
+    "description": "Réduire le tarif de passage dans les tunnels Prado-Carénage et Prado-Sud à 1 euro pour les abonnés, contre plus de 12 euros l'aller-retour actuellement, afin d'alléger les charges des Marseillais utilisant ces infrastructures quotidiennement.",
+    "date_made": "2026-02-17",
+    "category": "Mobilités / Pouvoir d'achat",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Promesse phare du programme mais complexe à mettre en œuvre car les tunnels sont gérés par des sociétés concessionnaires privées ; une renégociation contractuelle ou rachat serait nécessaire. Confiance limitée en raison des contraintes juridiques et financières.",
+    "key_evidence": [
+      "Annonce lors de la présentation du programme le 17 février 2026",
+      "Qualifié de mesure contre le 'racket' des tunnels par Payan lui-même"
+    ],
+    "source_url": [
+      "https://maritima.fr/actualites/politique/marseille/11629/municipales-2026-a-marseille-benoit-payan-devoile-son-plan-de-bataille-pour-une-ville-qui-protege"
+    ]
+  },
+  {
+    "id": "1600-policiers-municipaux-2033",
+    "title": "Atteindre 1 600 policiers municipaux d'ici 2033",
+    "description": "Doubler à nouveau les effectifs de la police municipale, de 800 à 1 600 agents d'ici 2033, en ouvrant 10 nouvelles antennes de police d'ici 2032 et en poursuivant le déploiement de la vidéoprotection.",
+    "date_made": "2026-02-17",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Le doublement de 400 à 800 policiers lors du premier mandat démontre la capacité à tenir cet engagement. L'objectif 2033 dépasse le terme du mandat (2032), ce qui étale la contrainte. Confiance raisonnable compte tenu du précédent.",
+    "key_evidence": [
+      "Doublement de 400 à 800 policiers réalisé lors du mandat 2020-2026",
+      "Engagement chiffré dans le programme du 17 février 2026"
+    ],
+    "source_url": [
+      "https://maritima.fr/actualites/politique/marseille/11629/municipales-2026-a-marseille-benoit-payan-devoile-son-plan-de-bataille-pour-une-ville-qui-protege",
+      "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/"
+    ]
+  },
+  {
+    "id": "cantine-gratuite-15000-enfants",
+    "title": "Cantine scolaire gratuite pour 15 000 enfants",
+    "description": "Étendre la gratuité de la cantine scolaire à 15 000 enfants (contre 10 000 lors du premier mandat), afin de renforcer le bouclier social pour les familles les plus modestes.",
+    "date_made": "2026-02-17",
+    "category": "Éducation / Pouvoir d'achat",
+    "status": "in_progress",
+    "confidence_score": "0.72",
+    "reasoning": "Extension d'une mesure déjà en place (10 000 bénéficiaires), donc chemin balisé ; l'augmentation de 50 % est ambitieuse mais budgétairement accessible pour une ville de la taille de Marseille. Confiance élevée.",
+    "key_evidence": [
+      "La gratuité pour 10 000 enfants était déjà effective au terme du premier mandat",
+      "Objectif explicitement chiffré dans le programme"
+    ],
+    "source_url": [
+      "https://maritima.fr/actualites/politique/marseille/11629/municipales-2026-a-marseille-benoit-payan-devoile-son-plan-de-bataille-pour-une-ville-qui-protege"
+    ]
+  },
+  {
+    "id": "plan-ecoles-suite",
+    "title": "Poursuite du Plan Écoles : rénovation des 188 écoles marseillaises",
+    "description": "Poursuivre et accélérer le Plan Écoles lancé en 2021, visant la rénovation ou reconstruction de 188 écoles sur 15 ans. Payan s'est engagé à livrer au moins 18 écoles rénovées d'ici la fin du mandat et à lancer 30 chantiers supplémentaires.",
+    "date_made": "2026-02-17",
+    "category": "Éducation / Infrastructure",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Le plan a pris du retard lors du premier mandat (seulement 15 à 27 écoles selon les sources, sur 188) et fait l'objet d'une enquête judiciaire préliminaire portant sur la gestion de la SPEM. La poursuite du plan est certaine mais le rythme d'exécution reste incertain.",
+    "key_evidence": [
+      "Plan lancé en 2021, 27 écoles neuves ou reconstruites selon la mairie",
+      "Engagement renouvelé dans le programme 2026"
+    ],
+    "source_url": [
+      "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/",
+      "https://madeinmarseille.net/politique/195866-a-marseille-la-justice-ouvre-une-enquete-sur-le-plan-ecoles/"
+    ]
+  },
+  {
+    "id": "grand-parc-massif-etoile",
+    "title": "Création d'un grand parc municipal dans le massif de l'Étoile",
+    "description": "Créer un grand parc municipal dans le massif de l'Étoile, incluant une ferme pédagogique, et viser une réduction de 30 % de la consommation d'eau de la ville dans le cadre de la transition écologique.",
+    "date_made": "2026-02-17",
+    "category": "Environnement",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Projet inscrit dans le programme mais nécessitant des acquisitions foncières et une coordination avec d'autres collectivités (Métropole, Département). Réduction de 30 % de la consommation d'eau est un objectif ambitieux sur lequel peu de détails techniques ont été communiqués.",
+    "key_evidence": [
+      "Annonce dans le programme Printemps marseillais du 17 février 2026",
+      "150 000 arbres plantés lors du premier mandat, cohérence avec l'axe environnemental"
+    ],
+    "source_url": [
+      "https://maritima.fr/actualites/politique/marseille/11629/municipales-2026-a-marseille-benoit-payan-devoile-son-plan-de-bataille-pour-une-ville-qui-protege",
+      "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/"
+    ]
+  },
+  {
+    "id": "lutte-airbnb-encadrement-loyers",
+    "title": "Application stricte de l'encadrement des loyers et lutte contre les meublés touristiques",
+    "description": "Mettre en place la réglementation la plus stricte de France pour encadrer les locations de type Airbnb et appliquer l'encadrement des loyers afin de lutter contre la crise du logement à Marseille, tout en créant 1 000 places d'hébergement d'urgence supplémentaires.",
+    "date_made": "2026-02",
+    "category": "Logement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Payan avait déjà annoncé la réglementation Airbnb en octobre 2024. L'engagement est cohérent avec le mandat précédent. L'encadrement des loyers est une compétence partagée avec l'État ; sa mise en œuvre intégrale dépend d'un décret national.",
+    "key_evidence": [
+      "Annonce d'octobre 2024 sur la réglementation Airbnb la plus stricte de France",
+      "Engagement renouvelé dans la campagne 2026"
+    ],
+    "source_url": [
+      "https://www.liberation.fr/societe/logement/a-marseille-benoit-payan-promet-la-reglementation-la-plus-stricte-de-france-pour-lutter-contre-airbnb-20241007_3KXXEUIWVZDHRMVRR4YNAYZ6YQ/",
+      "https://maritima.fr/actualites/politique/marseille/11629/municipales-2026-a-marseille-benoit-payan-devoile-son-plan-de-bataille-pour-une-ville-qui-protege"
+    ]
+  },
+  {
+    "id": "100-rues-enfants-apaisees",
+    "title": "Création de 100 rues des enfants apaisées autour des écoles",
+    "description": "Aménager 100 « rues des enfants » sécurisées autour des établissements scolaires marseillais afin de réduire la circulation automobile à l'heure des entrées et sorties d'école et améliorer la sécurité des élèves.",
+    "date_made": "2026-03",
+    "category": "Éducation / Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Mesure concrète et localisée, ne dépendant pas d'acteurs extérieurs ; des dispositifs similaires ont déjà été expérimentés dans d'autres villes françaises. L'objectif chiffré (100 rues) est précis et vérifiable.",
+    "key_evidence": [
+      "Inscrit dans le programme municipal 2026 présenté à la presse"
+    ],
+    "source_url": [
+      "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/"
+    ]
+  },
+  {
+    "id": "bibliotheque-chaque-arrondissement",
+    "title": "Ouverture d'une bibliothèque dans chaque arrondissement de Marseille",
+    "description": "Garantir la présence d'une bibliothèque municipale dans chacun des seize arrondissements de Marseille afin d'assurer un accès équitable à la culture et à la lecture sur l'ensemble du territoire communal.",
+    "date_made": "2026-03",
+    "category": "Culture",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement culturel réaliste à l'échelle du mandat, mais nécessite des investissements immobiliers dans les arrondissements non encore dotés. Le mandat 2026-2032 offre un horizon suffisant pour sa réalisation progressive.",
+    "key_evidence": [
+      "Mentionné dans le programme culturel du Printemps marseillais pour les municipales 2026"
+    ],
+    "source_url": [
+      "https://madeinmarseille.net/politique/municipales-2026/198478-municipales-quel-est-le-programme-du-candidat-benoit-payan-pour-marseille/"
+    ]
+  }
+]

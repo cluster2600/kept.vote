@@ -1,0 +1,32 @@
+[
+  {
+    "id": "securite-autorite-etat",
+    "interest": "Sécurité et autorité de l'État",
+    "description": "Combat parlementaire constant pour le renforcement des moyens contre la délinquance et le terrorisme. A présidé la commission d'enquête sur les filières djihadistes (2015) et rapporté celle sur les attaques à la préfecture de police de Paris (2019).",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA330240"
+  },
+  {
+    "id": "liberté-fiscale-pouvoir-achat",
+    "interest": "Liberté économique et pouvoir d'achat",
+    "description": "Défend la réduction de la pression fiscale, la suppression des droits de succession et de donation, et le maintien de l'indexation des pensions de retraite sur l'inflation.",
+    "source_url": "https://www.ciotti2026.fr/biographie"
+  },
+  {
+    "id": "identite-nationale",
+    "interest": "Identité nationale",
+    "description": "A fait voter l'obligation d'afficher le drapeau tricolore dans toutes les salles de classe, de la maternelle au lycée. Défend la transmission des valeurs républicaines et nationales.",
+    "source_url": "https://www.ciotti2026.fr/biographie"
+  },
+  {
+    "id": "finances-publiques",
+    "interest": "Finances publiques et rigueur budgétaire",
+    "description": "Membre de la commission des Finances de l'Assemblée nationale. Rapporteur de la commission sur les dérives des comptes publics (2024). A conduit une politique de réduction de la dette et des dépenses au Conseil départemental des Alpes-Maritimes (2008–2017).",
+    "source_url": "https://www.assemblee-nationale.fr/dyn/deputes/PA330240"
+  },
+  {
+    "id": "vesubie-alpes-maritimes",
+    "interest": "Territoire de la Vésubie et des Alpes-Maritimes",
+    "description": "Attachement personnel à la vallée de la Vésubie. Présent lors des crises majeures : attentat du 14 juillet 2016 sur la Promenade des Anglais, tempête Alex de 2020.",
+    "source_url": "https://www.ciotti2026.fr/biographie"
+  }
+]

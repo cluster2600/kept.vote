@@ -1,0 +1,74 @@
+[
+  {
+    "id": "clerc-notaire",
+    "title": "Clerc de notaire",
+    "organization": "Étude notariale (Marseille)",
+    "start_date": "2000",
+    "end_date": "2005",
+    "description": "Après ses études à l'École supérieure du notariat de Marseille, Benoît Payan exerce comme clerc de notaire, acquérant une solide formation juridique et administrative."
+  },
+  {
+    "id": "conseiller-vauzelle",
+    "title": "Conseiller du président du Conseil régional PACA",
+    "organization": "Conseil régional Provence-Alpes-Côte d'Azur",
+    "start_date": "2004",
+    "end_date": "2012",
+    "description": "Collaborateur de Michel Vauzelle, président socialiste du Conseil régional PACA, chargé de missions liées aux affaires politiques et territoriales."
+  },
+  {
+    "id": "conseiller-carlotti",
+    "title": "Conseiller de la ministre déléguée",
+    "organization": "Ministère délégué aux Personnes handicapées et à la Lutte contre l'exclusion",
+    "start_date": "2012",
+    "end_date": "2014",
+    "description": "Conseiller de Marie-Arlette Carlotti, ministre déléguée dans le gouvernement Ayrault, chargée des personnes handicapées et de la lutte contre l'exclusion."
+  },
+  {
+    "id": "conseiller-municipal-opposition-2014",
+    "title": "Conseiller municipal (opposition)",
+    "organization": "Conseil municipal de Marseille",
+    "start_date": "2014-03",
+    "end_date": "2020-07",
+    "description": "Élu conseiller municipal pour le 3e secteur (4e et 5e arrondissements), puis chef du groupe socialiste au conseil municipal à partir de 2016, principale force d'opposition à la majorité de Jean-Claude Gaudin."
+  },
+  {
+    "id": "conseiller-departemental-2015",
+    "title": "Conseiller départemental",
+    "organization": "Conseil départemental des Bouches-du-Rhône",
+    "start_date": "2015-03",
+    "end_date": "",
+    "description": "Élu conseiller départemental du canton de Marseille-1 aux côtés de Michèle Rubirola lors des élections départementales de 2015, réélu en 2021."
+  },
+  {
+    "id": "fondateur-printemps-marseillais",
+    "title": "Cofondateur du Printemps marseillais",
+    "organization": "Printemps marseillais",
+    "start_date": "2019-07",
+    "end_date": "",
+    "description": "Cofonde en juillet 2019 la coalition de gauche et écologiste « Printemps marseillais » pour mettre fin à vingt-cinq ans de majorité de droite à Marseille, et représente le Parti socialiste dans ce projet d'union."
+  },
+  {
+    "id": "conseiller-municipal-2020",
+    "title": "Conseiller municipal (majorité, 2e secteur)",
+    "organization": "Conseil municipal de Marseille",
+    "start_date": "2020-07",
+    "end_date": "",
+    "description": "Réélu conseiller municipal pour le 2e secteur (2e et 3e arrondissements) lors des élections municipales de juin 2020, dans la liste du Printemps marseillais victorieuse."
+  },
+  {
+    "id": "premier-adjoint-maire",
+    "title": "Premier adjoint au maire de Marseille",
+    "organization": "Mairie de Marseille",
+    "start_date": "2020-07",
+    "end_date": "2020-12-21",
+    "description": "Premier adjoint de Michèle Rubirola à partir de juillet 2020. Assure les fonctions de maire par intérim du 15 au 21 décembre 2020 à la suite de la démission de Michèle Rubirola."
+  },
+  {
+    "id": "maire-marseille-2020",
+    "title": "Maire de Marseille",
+    "organization": "Mairie de Marseille",
+    "start_date": "2020-12-21",
+    "end_date": "",
+    "description": "Élu maire de Marseille le 21 décembre 2020 par le conseil municipal, après la démission de Michèle Rubirola. Réélu le 28 mars 2026 pour un second mandat à la tête de la deuxième ville de France, chef de la majorité Printemps marseillais."
+  }
+]

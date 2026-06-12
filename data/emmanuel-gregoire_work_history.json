@@ -1,0 +1,82 @@
+[
+  {
+    "id": "maire-paris",
+    "title": "Maire de Paris",
+    "organization": "Ville de Paris",
+    "start_date": "2026-03-29",
+    "end_date": "",
+    "description": "Élu maire de Paris le 29 mars 2026 par le conseil de Paris à la majorité absolue (103 voix sur 163), après la victoire de sa liste au second tour des élections municipales des 15 et 22 mars 2026 avec 50,5 % des suffrages. Lamia El Aaraje devient sa première adjointe."
+  },
+  {
+    "id": "depute-paris-7e",
+    "title": "Député de la 7e circonscription de Paris",
+    "organization": "Assemblée nationale",
+    "start_date": "2024-07-01",
+    "end_date": "2026-04-09",
+    "description": "Élu au premier tour des élections législatives de juin 2024 avec 51 % des suffrages exprimés (30 974 voix), succédant à Clément Beaune. Mandat interrompu lors de son élection comme maire de Paris, Dorine Bregman lui succédant."
+  },
+  {
+    "id": "premier-adjoint-paris-2020",
+    "title": "Premier adjoint à la maire de Paris (urbanisme)",
+    "organization": "Ville de Paris",
+    "start_date": "2020-07-04",
+    "end_date": "2024-07-08",
+    "description": "Reconduit comme premier adjoint d'Anne Hidalgo après les élections municipales de 2020, en charge de l'urbanisme. Patrick Bloche lui succède en juillet 2024 lorsqu'il rejoint l'Assemblée nationale."
+  },
+  {
+    "id": "premier-adjoint-paris-2018",
+    "title": "Premier adjoint à la maire de Paris",
+    "organization": "Ville de Paris",
+    "start_date": "2018-09-24",
+    "end_date": "2020-07-04",
+    "description": "Nommé premier adjoint d'Anne Hidalgo en septembre 2018 en remplacement de Bruno Julliard. Quitte simultanément ses fonctions de premier secrétaire de la fédération socialiste de Paris, poste auquel il avait été élu en 2015."
+  },
+  {
+    "id": "adjoint-budget-paris",
+    "title": "Adjoint à la maire de Paris (budget et transformation des politiques publiques)",
+    "organization": "Ville de Paris",
+    "start_date": "2017-01-01",
+    "end_date": "2018-09-23",
+    "description": "Adjoint d'Anne Hidalgo chargé du budget et de la transformation des politiques publiques."
+  },
+  {
+    "id": "adjoint-rh-paris",
+    "title": "Adjoint à la maire de Paris (ressources humaines, services publics et modernisation)",
+    "organization": "Ville de Paris",
+    "start_date": "2014-04-05",
+    "end_date": "2016-12-31",
+    "description": "Élu conseiller de Paris dans le 12e arrondissement lors des élections municipales de 2014 ; devient adjoint d'Anne Hidalgo chargé des ressources humaines, des services publics et de la modernisation administrative."
+  },
+  {
+    "id": "chef-cabinet-ayrault",
+    "title": "Chef de cabinet du Premier ministre",
+    "organization": "Hôtel de Matignon",
+    "start_date": "2013-01-01",
+    "end_date": "2014-04-01",
+    "description": "Chef de cabinet du Premier ministre Jean-Marc Ayrault, après avoir été chef adjoint de cabinet dans la même équipe gouvernementale à partir de mai 2012."
+  },
+  {
+    "id": "chef-cabinet-adj-ayrault",
+    "title": "Chef adjoint de cabinet du Premier ministre",
+    "organization": "Hôtel de Matignon",
+    "start_date": "2012-05-01",
+    "end_date": "2012-12-31",
+    "description": "Rejoint l'équipe du Premier ministre Jean-Marc Ayrault après la victoire de François Hollande à l'élection présidentielle de 2012."
+  },
+  {
+    "id": "chef-cabinet-delanoe",
+    "title": "Chef de cabinet du maire de Paris",
+    "organization": "Ville de Paris",
+    "start_date": "2010-01-01",
+    "end_date": "2012-05-01",
+    "description": "Chef de cabinet du maire de Paris Bertrand Delanoë."
+  },
+  {
+    "id": "premier-secretaire-fed-ps-paris",
+    "title": "Premier secrétaire de la fédération de Paris du Parti socialiste",
+    "organization": "Parti socialiste — Fédération de Paris",
+    "start_date": "2015-01-01",
+    "end_date": "2018-09-24",
+    "description": "Élu premier secrétaire de la fédération socialiste de Paris en 2015. Quitte ce poste lors de sa nomination comme premier adjoint d'Anne Hidalgo."
+  }
+]

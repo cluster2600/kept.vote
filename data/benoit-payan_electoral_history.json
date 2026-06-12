@@ -1,0 +1,65 @@
+[
+  {
+    "id": "municipales-marseille-2014",
+    "office": "Conseiller municipal de Marseille (3e secteur)",
+    "election_date": "2014-03",
+    "result": "won",
+    "party": "Parti socialiste (PS)",
+    "vote_share": "",
+    "notes": "Élu conseiller municipal dans le 3e secteur (4e et 5e arrondissements) sous l'étiquette PS ; en opposition à la majorité Gaudin."
+  },
+  {
+    "id": "departementales-marseille-1-2015",
+    "office": "Conseiller départemental, canton de Marseille-1 (Bouches-du-Rhône)",
+    "election_date": "2015-03",
+    "result": "won",
+    "party": "Parti socialiste (PS)",
+    "vote_share": "",
+    "notes": "Élu au Conseil départemental des Bouches-du-Rhône pour le canton de Marseille-1, en binôme avec Michèle Rubirola."
+  },
+  {
+    "id": "municipales-marseille-2020",
+    "office": "Conseiller municipal de Marseille (2e secteur)",
+    "election_date": "2020-06",
+    "result": "won",
+    "party": "Printemps marseillais",
+    "vote_share": "",
+    "notes": "Tête de liste du Printemps marseillais dans le 2e secteur (2e et 3e arrondissements) ; la coalition remporte les élections municipales. Michèle Rubirola est élue maire le 4 juillet 2020."
+  },
+  {
+    "id": "maire-marseille-2020-vote",
+    "office": "Maire de Marseille",
+    "election_date": "2020-12-21",
+    "result": "won",
+    "party": "Printemps marseillais",
+    "vote_share": "",
+    "notes": "Élu maire de Marseille par le conseil municipal le 21 décembre 2020, à la suite de la démission de Michèle Rubirola, avec le soutien des huit conseillers du groupe Samia Ghali et sans opposition de la droite."
+  },
+  {
+    "id": "departementales-marseille-1-2021",
+    "office": "Conseiller départemental, canton de Marseille-1 (Bouches-du-Rhône)",
+    "election_date": "2021-06",
+    "result": "won",
+    "party": "Divers gauche (DVG)",
+    "vote_share": "",
+    "notes": "Réélu conseiller départemental du canton de Marseille-1 lors des élections départementales de juin 2021."
+  },
+  {
+    "id": "municipales-marseille-2026-t1",
+    "office": "Maire de Marseille — premier tour",
+    "election_date": "2026-03-15",
+    "result": "won",
+    "party": "Divers gauche (DVG) — Printemps marseillais",
+    "vote_share": "36.7",
+    "notes": "Arrivé en tête au premier tour avec 36,7 % des suffrages, devant le candidat RN Franck Allisio (35,02 %) et Sébastien Delogu (LFI, 11,94 %)."
+  },
+  {
+    "id": "municipales-marseille-2026-t2",
+    "office": "Maire de Marseille — second tour",
+    "election_date": "2026-03-22",
+    "result": "won",
+    "party": "Divers gauche (DVG) — Printemps marseillais",
+    "vote_share": "54.7",
+    "notes": "Réélu maire de Marseille au second tour avec 54,7 % des suffrages exprimés (163 586 voix), face au candidat RN Franck Allisio (40,1 %). Officiellement réélu par le conseil municipal le 28 mars 2026."
+  }
+]

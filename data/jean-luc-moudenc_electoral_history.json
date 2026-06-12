@@ -1,0 +1,56 @@
+[
+  {
+    "id": "municipales-toulouse-2004",
+    "office": "Maire de Toulouse",
+    "election_date": "2004-05-06",
+    "result": "won",
+    "party": "Union pour un mouvement populaire (UMP)",
+    "vote_share": "",
+    "notes": "Élu maire par le conseil municipal le 6 mai 2004, après la démission de Philippe Douste-Blazy nommé ministre de la Santé. Il succède à l'intérimaire Françoise de Veyrinas. Pas d'élection populaire directe à cette date."
+  },
+  {
+    "id": "municipales-toulouse-2008",
+    "office": "Maire de Toulouse",
+    "election_date": "2008-03-16",
+    "result": "lost",
+    "party": "Union pour un mouvement populaire (UMP)",
+    "vote_share": "49.58",
+    "notes": "Battu au second tour par Pierre Cohen (PS) avec 50,42 % des voix, soit environ 1 209 voix d'écart. Moudenc obtient 17 sièges sur 69 au conseil municipal."
+  },
+  {
+    "id": "legislatives-haute-garonne-3e-2012",
+    "office": "Député de la 3e circonscription de Haute-Garonne",
+    "election_date": "2012-06-17",
+    "result": "won",
+    "party": "Union pour un mouvement populaire (UMP)",
+    "vote_share": "",
+    "notes": "Élu député à l'Assemblée nationale. Démissionne en avril 2014 pour exercer son mandat de maire de Toulouse."
+  },
+  {
+    "id": "municipales-toulouse-2014",
+    "office": "Maire de Toulouse",
+    "election_date": "2014-03-30",
+    "result": "won",
+    "party": "Union pour un mouvement populaire (UMP)",
+    "vote_share": "52.06",
+    "notes": "Remporte le second tour face au maire sortant Pierre Cohen (PS) avec environ 52,06 % des voix. Prend ses fonctions le 4 avril 2014."
+  },
+  {
+    "id": "municipales-toulouse-2020",
+    "office": "Maire de Toulouse",
+    "election_date": "2020-06-28",
+    "result": "won",
+    "party": "Les Républicains (LR) / Divers droite (DVD)",
+    "vote_share": "51.98",
+    "notes": "Réélu au second tour avec 51,98 % des voix face à la liste de gauche (PS/EELV/PCF) menée par Antoine Maurice. Soutenu par La République En Marche."
+  },
+  {
+    "id": "municipales-toulouse-2026",
+    "office": "Maire de Toulouse",
+    "election_date": "2026-03-22",
+    "result": "won",
+    "party": "Divers droite (DVD)",
+    "vote_share": "53.87",
+    "notes": "Réélu au second tour avec 53,87 % des voix face au candidat LFI François Piquemal (46,13 %). Taux de participation historique de 62,47 %. Quatrième mandat de maire, troisième consécutif depuis 2014."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sport-om",
+    "interest": "Olympique de Marseille",
+    "description": "Supporter et défenseur du club de football phare de la ville. A publiquement demandé à la direction de l'OM de ne pas recruter le joueur Mason Greenwood en juillet 2024, invoquant des considérations éthiques, avant que le club ne passe outre. A également affirmé ne vouloir vendre le Stade Vélodrome qu'à l'OM.",
+    "source_url": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Payan"
+  },
+  {
+    "id": "patrimoine-archeologique",
+    "interest": "Patrimoine archéologique",
+    "description": "A mené en 2017 la mobilisation pour la préservation des vestiges antiques de Massalia découverts sur le site de la Corderie, empêchant leur destruction lors de la construction d'un immeuble commercial. Le site a été classé monument historique en 2018.",
+    "source_url": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Payan"
+  },
+  {
+    "id": "geopolitique-palestine",
+    "interest": "Relations internationales et géopolitique",
+    "description": "A signé un accord de jumelage entre Marseille et Bethléem (Cisjordanie) le jour de la reconnaissance de la Palestine par la France en septembre 2025. A défendu le maintien du jumelage avec Haïfa (Israël) tout en critiquant la politique de Netanyahou.",
+    "source_url": "https://en.wikipedia.org/wiki/Beno%C3%AEt_Payan"
+  }
+]

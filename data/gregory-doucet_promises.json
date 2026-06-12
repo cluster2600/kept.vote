@@ -1,0 +1,169 @@
+[
+  {
+    "id": "30pct-logements-sociaux-2040",
+    "title": "Atteindre 30 % de logements sociaux à Lyon d'ici 2040",
+    "description": "Engagement de doubler les investissements en faveur du logement social pour produire 1 500 nouveaux logements sociaux par an jusqu'en 2040, avec l'objectif d'atteindre 30 % de logements sociaux dans le parc résidentiel lyonnais. Inclut la transformation de bureaux vacants en logements sociaux et le développement du bail réel solidaire.",
+    "date_made": "2026-02",
+    "category": "logement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement structurant du programme, nécessitant des investissements pluriannuels et un horizon de 14 ans. Le mandat vient de débuter (mars 2026) ; aucune réalisation concrète ne peut encore être évaluée. Score modéré en raison de la contrainte budgétaire et du contexte de tension sur la construction.",
+    "key_evidence": [
+      "Programme officiel 'Pour Vivre Lyon 2026', section 'Garantir un égal accès à un logement digne'",
+      "Doublement des investissements en faveur du logement social annoncé",
+      "Objectif de 1 500 logements sociaux construits par an"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-protege/garantir-un-egal-acces-a-un-logement-digne"
+    ]
+  },
+  {
+    "id": "garantie-municipale-loyers",
+    "title": "Créer une garantie municipale des loyers",
+    "description": "Mise en place d'une caution publique municipale pour faciliter l'accès au logement locatif des ménages sans garant, tout en sécurisant les propriétaires bailleurs contre les impayés.",
+    "date_made": "2026-02",
+    "category": "logement",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesure nouvelle, annoncée dans le programme 2026. Sa mise en œuvre dépend d'un vote du conseil municipal et d'un dispositif administratif à créer. Mandat débuté en mars 2026, aucune mise en service à ce stade.",
+    "key_evidence": [
+      "Programme officiel, section logement : 'Mettre en place une garantie municipale des loyers'",
+      "Mesure d'accès au logement visant à remplacer les cautions privées"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-protege/garantir-un-egal-acces-a-un-logement-digne"
+    ]
+  },
+  {
+    "id": "metro-24h-weekends",
+    "title": "Ouvrir le métro 24h/24 les week-ends",
+    "description": "Extension de l'amplitude horaire du réseau TCL (métro de Lyon) à 24 heures sur 24 les week-ends, pour permettre des déplacements nocturnes sûrs. Mesure prévue en partenariat avec la Métropole de Lyon.",
+    "date_made": "2026-02",
+    "category": "transport",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Mesure populaire mais nécessitant une décision de la Métropole de Lyon (compétente pour les transports en commun) et un accord avec le SYTRAL. La compétence est partiellement hors du périmètre direct du maire. Aucune décision formelle connue à la date de juin 2026.",
+    "key_evidence": [
+      "Programme 2026, section mobilité : 'Ouvrir le métro 24 heures sur 24 les week-ends'",
+      "Mesure conditionnée à un accord avec la Métropole de Lyon"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-respire/pour-une-mobilite-choisie-abordable-et-accessible"
+    ]
+  },
+  {
+    "id": "extension-gratuite-tcl-moins-18ans",
+    "title": "Étendre la gratuité des transports en commun aux moins de 18 ans",
+    "description": "Extension de la gratuité du réseau TCL (bus, métro, tramway) aux jeunes de moins de 18 ans dont un parent est abonné, en complément de la gratuité totale déjà en place pour les enfants de moins de 11 ans. Mesure conditionnée à un accord avec la Métropole de Lyon.",
+    "date_made": "2026-02",
+    "category": "transport",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesure sociale forte, inscrite dans le programme officiel. Dépend de la Métropole de Lyon pour la compétence transport ; un accord politique entre la Ville et la Métropole est nécessaire.",
+    "key_evidence": [
+      "Programme 2026, section mobilité : 'Étendre la gratuité du réseau TCL aux jeunes de -18 ans dont un parent est abonné'"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-respire/pour-une-mobilite-choisie-abordable-et-accessible"
+    ]
+  },
+  {
+    "id": "400-policiers-municipaux",
+    "title": "Porter l'effectif de la police municipale à 400 agents",
+    "description": "Recrutement de policiers municipaux supplémentaires pour atteindre un objectif de 400 agents, soit une hausse d'environ 30 % des effectifs. Création d'une brigade anti-incivilités de 50 agents et de postes de police mobiles dans l'espace public.",
+    "date_made": "2026-02",
+    "category": "sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Engagement chiffré et précis, dans le périmètre direct de la commune. Les recrutements municipaux relèvent du conseil municipal et du budget de la Ville. Mandat débuté en mars 2026 ; les procédures de recrutement demanderont plusieurs années.",
+    "key_evidence": [
+      "Programme 2026, section sécurité : 'Renforcer les effectifs de police municipale en portant l'objectif de recrutement à 400 policiers'",
+      "Création d'une brigade anti-incivilités de 50 agents annoncée"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-protege/lyon-en-toute-securite"
+    ]
+  },
+  {
+    "id": "maison-sante-par-arrondissement",
+    "title": "Ouvrir au moins une maison ou un centre de santé par arrondissement",
+    "description": "Engagement de soutenir la création d'une maison de santé pluridisciplinaire (médecins généralistes, spécialistes, infirmiers, kinés, santé mentale) sans dépassement d'honoraires dans chacun des neuf arrondissements de Lyon.",
+    "date_made": "2026-02",
+    "category": "santé",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Mesure ambitieuse sur un sujet (désert médical, attractivité des professionnels de santé) qui dépasse le seul levier municipal. La ville peut soutenir financièrement mais ne peut imposer les installations médicales. Horizon pluriannuel.",
+    "key_evidence": [
+      "Programme 2026, section santé : 'Ouvrir au moins une maison ou un centre de santé par arrondissement'"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-protege/la-sante-un-droit-pour-toutes-et-tous"
+    ]
+  },
+  {
+    "id": "mutuelle-sante-municipale",
+    "title": "Créer une mutuelle de santé municipale",
+    "description": "Création d'une mutuelle de santé portée par la Ville de Lyon, accessible à tous les Lyonnais à un tarif inférieur aux offres du marché, dans le but de lutter contre le renoncement aux soins.",
+    "date_made": "2026-02",
+    "category": "santé",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Mesure innovante dont la faisabilité juridique et financière doit être précisée. Aucune collectivité française de taille comparable n'a encore déployé un tel dispositif. Degré d'incertitude élevé.",
+    "key_evidence": [
+      "Programme 2026, section santé : 'Créer une mutuelle de santé municipale'"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-protege/la-sante-un-droit-pour-toutes-et-tous"
+    ]
+  },
+  {
+    "id": "60-rues-aux-enfants",
+    "title": "Créer 60 nouvelles 'rues aux enfants'",
+    "description": "Engagement de piétoniser et végétaliser 60 rues supplémentaires à proximité des établissements scolaires, afin d'améliorer la sécurité des enfants et la qualité de l'air, en continuité avec les actions engagées lors du premier mandat.",
+    "date_made": "2026-02",
+    "category": "environnement / mobilité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Mesure dans la continuité directe du premier mandat, où des 'rues aux enfants' ont déjà été mises en place. La Ville dispose de leviers opérationnels directs. Objectif chiffré et réaliste sur six ans.",
+    "key_evidence": [
+      "Programme 2026, section mobilité : 'Créer 60 nouvelles rues aux enfants'",
+      "Continuité avec le programme 2020-2026 de sécurisation des abords d'écoles"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-respire/pour-une-mobilite-choisie-abordable-et-accessible"
+    ]
+  },
+  {
+    "id": "budget-hebergement-urgence-40pct",
+    "title": "Augmenter de 40 % le budget dédié à l'hébergement d'urgence",
+    "description": "Engagement d'augmenter de 40 % le budget municipal consacré à l'hébergement d'urgence, afin d'ouvrir de nouveaux lieux d'accueil et de lutter contre le sans-abrisme, notamment infantile. Création d'une délégation municipale dédiée à la lutte contre le sans-abrisme des familles.",
+    "date_made": "2026-02",
+    "category": "solidarité",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Engagement budgétaire précis, relevant du vote du conseil municipal sur le budget de la Ville. Dépend de la situation financière de la collectivité et des arbitrages budgétaires du mandat.",
+    "key_evidence": [
+      "Programme 2026, section logement/solidarité : 'Ouvrir de nouveaux lieux d'hébergement grâce à une augmentation de 40% du budget dédié à l'hébergement d'urgence'"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-protege/garantir-un-egal-acces-a-un-logement-digne"
+    ]
+  },
+  {
+    "id": "nouvelles-lignes-tramway",
+    "title": "Ouvrir de nouvelles lignes de tramway (T9, T10, tramway Ouest lyonnais)",
+    "description": "Programme de développement de trois nouvelles lignes de tramway : le tramway de l'Ouest lyonnais (reliant le plateau du 5e à la Presqu'île, horizon 2032), le T9 (Charpennes–Vaulx-en-Velin) et le T10 (7e arrondissement–Vénissieux–Saint-Fons). Ces projets relèvent principalement de la Métropole de Lyon.",
+    "date_made": "2026-02",
+    "category": "transport",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Projets inscrits dans le programme 2026 mais relevant de la compétence de la Métropole de Lyon et du SYTRAL. Horizon pluriannuel (tramway Ouest lyonnais à horizon 2032). La Ville peut peser sur les décisions métropolitaines mais n'en est pas le maître d'ouvrage direct.",
+    "key_evidence": [
+      "Programme 2026, section mobilité : nouvelles lignes de tramway T9, T10 et tramway Ouest lyonnais",
+      "Horizon 2032 mentionné pour le tramway de l'Ouest lyonnais"
+    ],
+    "source_url": [
+      "https://www.pourvivrelyonmunicipales2026.fr/pour-une-ville-qui-respire/pour-une-mobilite-choisie-abordable-et-accessible"
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "promesse-police-municipale-500",
+    "title": "Porter la police municipale à 500 agents",
+    "description": "Moudenc s'est engagé à augmenter les effectifs de la police municipale de Toulouse pour atteindre 500 agents, afin de renforcer la sécurité du quotidien dans les quartiers et les espaces publics.",
+    "date_made": "2026-02",
+    "category": "Sécurité",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement chiffré clair et vérifiable dans le programme publié sur le site de campagne et repris dans la synthèse IFRAP. Le recrutement de policiers municipaux est une compétence directe de la ville ; la réalisation dépend des finances municipales et du délai de recrutement.",
+    "key_evidence": [
+      "Programme Moudenc 2026 — mesure sécurité : 500 policiers municipaux",
+      "Synthèse IFRAP des programmes candidats Toulouse municipales 2026"
+    ],
+    "source_url": [
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026",
+      "https://www.mediacites.fr/pouvoirs/toulouse/2026/04/13/les-300-promesses-de-jean-luc-moudenc-pour-son-mandat-2026-2032/"
+    ]
+  },
+  {
+    "id": "promesse-brigade-armee-transports",
+    "title": "Création d'une brigade armée dans les transports en commun",
+    "description": "Création d'une unité de police municipale armée dédiée à la sécurité dans le réseau de transports en commun Tisséo (métro, tramway, bus), notamment pour lutter contre les incivilités et agressions.",
+    "date_made": "2026-02",
+    "category": "Sécurité / Transports",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesure annoncée dans le programme de campagne. Sa mise en oeuvre implique un accord de compétences entre la ville et Tisséo. Début de mandat, aucune information de livraison disponible.",
+    "key_evidence": [
+      "Programme Moudenc 2026 — sécurité : brigade armée transports en commun",
+      "Synthèse IFRAP des programmes candidats Toulouse 2026"
+    ],
+    "source_url": [
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026"
+    ]
+  },
+  {
+    "id": "promesse-metro-ligne-c-poursuite",
+    "title": "Poursuite et livraison de la ligne C du métro",
+    "description": "Engagement à poursuivre et mener à terme le chantier de la troisième ligne de métro (ligne C) de Toulouse Métropole, reliant le nord-ouest au sud-est de l'agglomération sur environ 27 km avec 21 stations. Cette promesse a été réitérée neuf fois dans le programme quartier par quartier.",
+    "date_made": "2026-03",
+    "category": "Transports / Mobilités",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Le projet est largement engagé (travaux en cours, financements actés). La livraison est attendue à l'horizon 2028-2030 selon le calendrier du maître d'ouvrage Toulouse Métropole. Moudenc s'approprie ce projet comme pièce centrale de son bilan et de son programme.",
+    "key_evidence": [
+      "Médiacités : la ligne C mentionnée 9 fois dans le programme quartier par quartier de Moudenc",
+      "Budget estimé : environ 3,8 milliards d'euros"
+    ],
+    "source_url": [
+      "https://www.mediacites.fr/pouvoirs/toulouse/2026/04/13/les-300-promesses-de-jean-luc-moudenc-pour-son-mandat-2026-2032/",
+      "https://www.mediacites.fr/municipales-2026/toulouse/2026/02/16/mobilites-jean-luc-moudenc-vante-son-bilan-quitte-a-tordre-les-chiffres/"
+    ]
+  },
+  {
+    "id": "promesse-stationnement-pnr-2900-places",
+    "title": "Atteindre 2 900 places de parking aux abords des métros et tramways",
+    "description": "Augmentation du nombre de places de stationnement dans les parcs relais (P+R) situés aux abords des stations de métro et de tramway, pour atteindre 2 900 places afin de faciliter l'intermodalité voiture/transport en commun.",
+    "date_made": "2026-02",
+    "category": "Transports / Mobilités",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Objectif chiffré clairement formulé dans le programme. Dépend des acquisitions foncières et de l'avancement de la ligne C.",
+    "key_evidence": [
+      "Programme Moudenc 2026 — mobilités : 2 900 places P+R",
+      "Synthèse IFRAP"
+    ],
+    "source_url": [
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026"
+    ]
+  },
+  {
+    "id": "promesse-maisons-sante-pluriprofessionnelles",
+    "title": "Création de nouvelles maisons de santé pluriprofessionnelles",
+    "description": "Poursuivre le déploiement des maisons de santé pluriprofessionnelles (MSP) à Toulouse pour rapprocher les professionnels de santé des habitants, avec pour objectif que 90 % des Toulousains aient une MSP à proximité.",
+    "date_made": "2026-02",
+    "category": "Santé",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "La ville comptait déjà 19 MSP à l'approche des élections. La politique de déploiement est documentée par les communiqués du candidat et la presse locale. La continuation est plausible.",
+    "key_evidence": [
+      "19 MSP existantes en 2026, 2 ouvertures supplémentaires annoncées",
+      "Gazette du Midi : interview Moudenc sur les maisons de santé"
+    ],
+    "source_url": [
+      "https://gazette-du-midi.fr/au-sommaire/collectivites/municipales-2026-a-toulouse-jean-luc-moudenc-poursuivre-le-deploiement-de",
+      "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/mutuelle-pour-tous-telemedecine-propositions-moudenc-sante-toulouse-362120/"
+    ]
+  },
+  {
+    "id": "promesse-mutuelle-communale-tous-toulousains",
+    "title": "Extension de la mutuelle communale à tous les Toulousains",
+    "description": "Élargissement du dispositif de mutuelle communale de Toulouse, initialement réservé aux agents municipaux, à l'ensemble des habitants de la ville, afin de faciliter l'accès à une complémentaire santé.",
+    "date_made": "2026-02",
+    "category": "Santé / Social",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Mesure annoncée dans le programme de campagne et détaillée dans la presse locale. Elle implique une négociation avec des opérateurs d'assurance complémentaire. Début de mandat, aucune livraison confirmée.",
+    "key_evidence": [
+      "Journal Toulousain : propositions de Moudenc pour la santé à Toulouse",
+      "Synthèse IFRAP des programmes"
+    ],
+    "source_url": [
+      "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/mutuelle-pour-tous-telemedecine-propositions-moudenc-sante-toulouse-362120/",
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026"
+    ]
+  },
+  {
+    "id": "promesse-renovation-energetique-batiments-ville",
+    "title": "Rénovation énergétique de la totalité des bâtiments de la ville",
+    "description": "Engagement à rénover énergétiquement l'ensemble du patrimoine bâti municipal sur la durée du mandat 2026-2032, pour réduire l'empreinte carbone de la collectivité et ses dépenses énergétiques.",
+    "date_made": "2026-02",
+    "category": "Environnement / Logement",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Objectif ambitieux dont la portée exacte (totalité des bâtiments) est difficile à vérifier sans bilan intermédiaire. Mesure inscrite dans le programme de campagne.",
+    "key_evidence": [
+      "Programme Moudenc 2026 — logement : rénovation énergétique totalité des bâtiments de la ville",
+      "Synthèse IFRAP"
+    ],
+    "source_url": [
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026"
+    ]
+  },
+  {
+    "id": "promesse-agrandissement-stadium-43000-places",
+    "title": "Agrandissement du Stadium de Toulouse à 43 000 places",
+    "description": "Projet d'extension du Stadium Municipal de Toulouse pour porter sa capacité à 43 000 places, afin d'accroître son attractivité pour les grands événements sportifs nationaux et internationaux.",
+    "date_made": "2026-02",
+    "category": "Culture / Sport",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Projet d'ampleur impliquant des financements importants et la coordination avec les clubs sportifs. Annoncé dans le programme mais sans calendrier précis ni financement acté. Confiance modérée.",
+    "key_evidence": [
+      "Programme Moudenc 2026 — culture/sport : agrandissement Stadium à 43 000 places",
+      "Synthèse IFRAP"
+    ],
+    "source_url": [
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026"
+    ]
+  },
+  {
+    "id": "promesse-zero-hausse-impots-locaux",
+    "title": "Opposition à toute hausse des impôts locaux",
+    "description": "Engagement ferme de ne pas augmenter la fiscalité locale (taxe foncière notamment) pendant le mandat 2026-2032, tout en maintenant le niveau de services aux habitants.",
+    "date_made": "2026-02",
+    "category": "Finances locales / Économie",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Engagement typique de droite, tenu sur les mandats précédents selon les sources disponibles. Vérifiable annuellement sur les budgets municipaux votés. Début de mandat, aucune infraction constatée.",
+    "key_evidence": [
+      "Programme Moudenc 2026 — politiques économiques : opposition à toute hausse des impôts locaux",
+      "Synthèse IFRAP"
+    ],
+    "source_url": [
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026"
+    ]
+  },
+  {
+    "id": "promesse-auditorium-montaudran",
+    "title": "Construction d'un auditorium au quartier Montaudran",
+    "description": "Développement du quartier culturel de Montaudran par la construction d'un auditorium, dans le cadre du projet de quartier de la culture lié au site aéronautique de Montaudran Aerospace.",
+    "date_made": "2026-02",
+    "category": "Culture",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Projet culturel majeur inscrit au programme, cohérent avec le développement du quartier Montaudran. Implique des financements importants ; aucune date de livraison précise n'a été trouvée dans les sources.",
+    "key_evidence": [
+      "Programme Moudenc 2026 — culture : auditorium quartier Montaudran",
+      "Synthèse IFRAP"
+    ],
+    "source_url": [
+      "https://www.ifrap.org/etat-et-collectivites/les-programmes-detailles-des-cinq-candidats-toulouse-municipales-2026"
+    ]
+  }
+]

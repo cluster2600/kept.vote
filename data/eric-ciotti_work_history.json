@@ -1,0 +1,66 @@
+[
+  {
+    "id": "maire-nice",
+    "title": "Maire de Nice",
+    "organization": "Ville de Nice",
+    "start_date": "2026-03",
+    "end_date": "",
+    "description": "Élu maire de Nice au second tour des élections municipales du 22 mars 2026, avec 48,54 % des suffrages exprimés, devançant le maire sortant Christian Estrosi (37,20 %). Il préside également la Métropole Nice Côte d'Azur."
+  },
+  {
+    "id": "president-udr",
+    "title": "Président",
+    "organization": "Union des droites pour la République (UDR)",
+    "start_date": "2024-08",
+    "end_date": "",
+    "description": "Fonde et préside l'Union des droites pour la République (UDR) le 31 août 2024, après avoir rompu avec Les Républicains à la suite de son annonce d'alliance avec le Rassemblement National pour les législatives de 2024."
+  },
+  {
+    "id": "president-groupe-udr-an",
+    "title": "Président du groupe Union des droites pour la République à l'Assemblée nationale",
+    "organization": "Assemblée nationale",
+    "start_date": "2024-07",
+    "end_date": "",
+    "description": "Préside le groupe parlementaire UDR constitué à l'Assemblée nationale à l'issue des élections législatives de juillet 2024."
+  },
+  {
+    "id": "depute-alpes-maritimes",
+    "title": "Député de la 1re circonscription des Alpes-Maritimes",
+    "organization": "Assemblée nationale",
+    "start_date": "2007-06",
+    "end_date": "",
+    "description": "Élu pour la première fois en juin 2007, constamment réélu (2012, 2017, 2022). Membre de la commission des Finances et questeur de l'Assemblée nationale. A présidé ou rapporté plusieurs commissions d'enquête (jihadistes 2015, attaque préfecture de police 2019, Covid-19 2020, dérives des comptes publics 2024)."
+  },
+  {
+    "id": "president-lr",
+    "title": "Président des Républicains",
+    "organization": "Les Républicains (LR)",
+    "start_date": "2022-12",
+    "end_date": "2024-09",
+    "description": "Élu président de LR au second tour le 11 décembre 2022 avec 53,7 % des voix face à Bruno Retailleau. Quitte officiellement LR le 22 septembre 2024, après la création de l'UDR."
+  },
+  {
+    "id": "conseiller-departemental",
+    "title": "Conseiller départemental des Alpes-Maritimes",
+    "organization": "Conseil départemental des Alpes-Maritimes",
+    "start_date": "2004-03",
+    "end_date": "",
+    "description": "Élu conseiller général/départemental depuis 2004, mandat toujours en cours en parallèle de ses fonctions de député."
+  },
+  {
+    "id": "president-conseil-departemental",
+    "title": "Président du Conseil départemental des Alpes-Maritimes",
+    "organization": "Conseil départemental des Alpes-Maritimes",
+    "start_date": "2008-12",
+    "end_date": "2017-09",
+    "description": "Élu président le 18 décembre 2008, succédant à Christian Estrosi. A conduit une politique de réduction de la dette (-100 M€) et de baisse de la taxe foncière départementale (-15 %). Démissionne en septembre 2017 en application de la loi sur le non-cumul des mandats, après sa réélection comme député en juin 2017."
+  },
+  {
+    "id": "premier-adjoint-nice",
+    "title": "Premier adjoint au maire de Nice",
+    "organization": "Ville de Nice",
+    "start_date": "2008-03",
+    "end_date": "2008-12",
+    "description": "Brève fonction de premier adjoint au maire de Nice sous Christian Estrosi avant de prendre la présidence du Conseil départemental."
+  }
+]
