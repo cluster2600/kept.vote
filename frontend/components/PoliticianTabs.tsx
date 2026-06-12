@@ -88,6 +88,8 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
     companies.length +
     interests.length;
 
+  const hasPromises = promises.length > 0;
+
   const allTabs: { key: TabKey; label: string; count: number }[] = [
     { key: "promises", label: "Promises", count: promises.length },
     { key: "background", label: "Background", count: backgroundCount },
@@ -95,11 +97,16 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
     { key: "controversies", label: "Controversies", count: polemics.length },
     { key: "sources", label: "Sources", count: sources.total },
   ];
-  // Always keep the Promises tab (it shows an empty state for 0-promise
-  // politicians, e.g. sitting ministers); hide other tabs only when empty.
-  const tabs = allTabs.filter((t) => t.key === "promises" || t.count > 0);
+  // Promise-driven: only surface the Promises tab when there are promises to
+  // track. Technocrat ministers (0 promises) get a clean dossier that opens on
+  // their richest section (Background, first in order) rather than leading with
+  // an empty "No promises" card. Any politician who later gains campaign pledges
+  // gets the tab — and the Promises-first default — back automatically.
+  const tabs = allTabs.filter((t) =>
+    t.key === "promises" ? hasPromises : t.count > 0,
+  );
 
-  const [active, setActive] = useState<TabKey>(tabs[0]?.key ?? "promises");
+  const [active, setActive] = useState<TabKey>(tabs[0]?.key ?? "background");
 
   return (
     <div className="mt-6">

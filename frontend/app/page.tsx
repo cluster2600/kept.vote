@@ -80,6 +80,10 @@ function Stat({ label, value }: { label: string; value: number }) {
 
 function PoliticianCard({ politician: p }: { politician: PoliticianSummary }) {
   const subtitle = [p.party, p.country].filter(Boolean).join(" · ");
+  // Promise-driven: politicians with no tracked promises (e.g. technocrat
+  // ministers) read as a profile/dossier, not an empty promise tracker — so
+  // skip the "0 promises" badge and the empty track-record bar entirely.
+  const hasPromises = p.promise_count > 0;
   const verified =
     p.kept_count +
     p.broken_count +
@@ -98,24 +102,50 @@ function PoliticianCard({ politician: p }: { politician: PoliticianSummary }) {
             <p className="mt-0.5 text-sm text-slate-500">{subtitle}</p>
           )}
         </div>
-        <span className="shrink-0 rounded-full bg-slate-100 px-2.5 py-1 text-xs font-medium text-slate-600">
-          {p.promise_count} promise{p.promise_count === 1 ? "" : "s"}
-        </span>
-      </div>
-
-      <div className="mt-4">
-        <TrackRecord
-          kept={p.kept_count}
-          broken={p.broken_count}
-          inProgress={p.in_progress_count}
-          compromise={p.compromise_count}
-          noAction={p.no_action_count}
-          showLegend
-        />
-        {verified === 0 && (
-          <p className="mt-2 text-xs text-slate-400">No verified promises yet</p>
+        {hasPromises ? (
+          <span className="shrink-0 rounded-full bg-slate-100 px-2.5 py-1 text-xs font-medium text-slate-600">
+            {p.promise_count} promise{p.promise_count === 1 ? "" : "s"}
+          </span>
+        ) : (
+          <span className="shrink-0 rounded-full bg-blue-50 px-2.5 py-1 text-xs font-medium text-blue-700">
+            Profile
+          </span>
         )}
       </div>
+
+      {hasPromises ? (
+        <div className="mt-4">
+          <TrackRecord
+            kept={p.kept_count}
+            broken={p.broken_count}
+            inProgress={p.in_progress_count}
+            compromise={p.compromise_count}
+            noAction={p.no_action_count}
+            showLegend
+          />
+          {verified === 0 && (
+            <p className="mt-2 text-xs text-slate-400">
+              No verified promises yet
+            </p>
+          )}
+        </div>
+      ) : (
+        <p className="mt-3 inline-flex items-center gap-1 text-sm font-medium text-slate-500">
+          View dossier
+          <svg
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            className="h-3.5 w-3.5"
+            aria-hidden
+          >
+            <path
+              fillRule="evenodd"
+              d="M7.21 14.77a.75.75 0 0 1 .02-1.06L11.168 10 7.23 6.29a.75.75 0 1 1 1.04-1.08l4.5 4.25a.75.75 0 0 1 0 1.08l-4.5 4.25a.75.75 0 0 1-1.06-.02Z"
+              clipRule="evenodd"
+            />
+          </svg>
+        </p>
+      )}
     </Link>
   );
 }
