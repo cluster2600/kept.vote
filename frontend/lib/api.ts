@@ -438,11 +438,30 @@ function deriveStatusMeta(status: string): PolemicStatusMeta {
     /investigation|enqu[eê]te|information judiciaire|judicial inquiry|preliminary|mise en examen/.test(s)
   )
     return { label: "Under investigation", badge: AMBER_BADGE, dot: "bg-amber-500" };
+  // A case sent to court but not yet judged (citation directe, procès renvoyé,
+  // "non jugé", awaiting trial) is pending — never read it as concluded. Guard
+  // against already-decided outcomes so an acquittal/conviction line isn't
+  // mislabelled as awaiting trial.
+  const awaitingTrial =
+    /citation directe|renvoy[ée]+ (?:à|au|devant)|proc[èe]s (?:à venir|renvoy)|non jug|awaiting trial|to stand trial|stand trial|à compara[îi]tre/.test(
+      s,
+    ) && !/relax|acquitt|condamn|convict|rel[aâ]ch/.test(s);
+  if (awaitingTrial)
+    return { label: "Awaiting trial", badge: AMBER_BADGE, dot: "bg-amber-500" };
   if (s.includes("non-lieu") || s.includes("no charges"))
     return { label: "No charges", badge: EMERALD_BADGE, dot: "bg-emerald-500" };
   if (s.includes("party") || s.includes("disciplinary") || s.includes("suspension") || s.includes("expulsion"))
     return { label: "Party matter", badge: SLATE_BADGE, dot: "bg-slate-400" };
-  if (s.includes("no legal proceedings") || s.includes("political") || s.includes("communication"))
+  // No proceedings opened (matter handled administratively, e.g. via a déport,
+  // or "classé sans suite") — distinct from a concluded non-lieu; read as a
+  // neutral, no-action-by-the-courts state.
+  if (
+    /no judicial proceedings|no legal proceedings|aucune proc[ée]dure judiciaire|class[ée] sans suite|no proceedings/.test(
+      s,
+    )
+  )
+    return { label: "No proceedings", badge: SKY_BADGE, dot: "bg-sky-500" };
+  if (s.includes("political") || s.includes("communication") || s.includes("débat politique"))
     return { label: "Political", badge: SKY_BADGE, dot: "bg-sky-500" };
   if (s.includes("convict"))
     return { label: "Conviction", badge: SLATE_BADGE, dot: "bg-slate-400" };
