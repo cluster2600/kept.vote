@@ -1,1 +1,173 @@
-[]
+[
+  {
+    "id": "spem-conseil-administration",
+    "entity": "Société Publique des Écoles Marseillaises (SPEM)",
+    "role": "board_member",
+    "ownership_stake": "Aucune participation personnelle au capital. Mandat exercé ès qualités au titre de la fonction de maire (société publique locale copilotée par l'État et la Ville de Marseille).",
+    "period": "Depuis la création de la SPEM (plan écoles)",
+    "status": "current",
+    "detail": "Benoît Payan préside le conseil d'administration de la SPEM, structure chargée du 'plan écoles' (rénovation/reconstruction d'établissements scolaires, programme d'environ 1,8 milliard d'euros). Siège exercé ès qualités, sans rémunération personnelle ni participation au capital. La SPEM fait l'objet d'une enquête préliminaire pour soupçons de favoritisme (voir fichier justice); présomption d'innocence.",
+    "source_url": [
+      "https://marsactu.fr/bref/plan-ecoles-la-justice-ouvre-une-enquete-apres-un-signalement-du-prefet-pour-favoritisme/",
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/tour-de-passe-passe-meche-a-combustion-lente-ces-revelations-qui-placent-benoit-payan-dans-le-viseur-de-la-justice-3293052.html"
+    ]
+  },
+  {
+    "id": "soleam",
+    "entity": "SOLEAM (Société Locale d'Équipement et d'Aménagement de l'aire Marseillaise)",
+    "role": "board_member",
+    "ownership_stake": "Aucune participation au capital. Délégué du conseil municipal.",
+    "period": "04/2014 - 10/2018",
+    "status": "historical",
+    "detail": "Délégué du conseil municipal au sein de SOLEAM, alors qu'il était conseiller municipal d'opposition. Aucune rémunération (0 € déclaré sur la période). Mandat figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=payan-benoit"
+    ]
+  },
+  {
+    "id": "rtm-regie-transports-marseillais",
+    "entity": "Régie des Transports Marseillais (RTM)",
+    "role": "board_member",
+    "ownership_stake": "Aucune participation au capital. Mandat exercé ès qualités.",
+    "period": "Depuis 07/2020",
+    "status": "declared",
+    "detail": "Membre du conseil d'administration de la Régie des Transports Marseillais. Aucune rémunération déclarée (0 € en 2020 et 2021). Mandat figurant dans la déclaration d'intérêts HATVP du 18/02/2021.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=payan-benoit"
+    ]
+  },
+  {
+    "id": "epa-euromediterranee",
+    "entity": "Établissement Public d'Aménagement Euroméditerranée (EPAEM)",
+    "role": "board_member",
+    "ownership_stake": "Sans objet (établissement public). Mandat exercé ès qualités.",
+    "period": "Depuis 07/2020",
+    "status": "declared",
+    "detail": "Membre du conseil d'administration de l'Établissement Public d'Aménagement Euroméditerranée. Aucune rémunération déclarée (0 €). Mandat figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "grand-port-maritime-marseille",
+    "entity": "Grand Port Maritime de Marseille (GPMM)",
+    "role": "board_member",
+    "ownership_stake": "Sans objet (établissement public). Membre du conseil de surveillance, ès qualités.",
+    "period": "Depuis 07/2020",
+    "status": "declared",
+    "detail": "Membre du conseil de surveillance du Grand Port Maritime de Marseille. Aucune rémunération déclarée (0 €). Mandat figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "scic-friches-belle-de-mai",
+    "entity": "S.C.I.C SA Friches Belle de Mai",
+    "role": "board_member",
+    "ownership_stake": "Aucune participation personnelle au capital déclarée. Mandat exercé ès qualités.",
+    "period": "Depuis 10/2020",
+    "status": "declared",
+    "detail": "Membre du conseil d'administration de la société coopérative d'intérêt collectif (SCIC) Friches de la Belle de Mai. Aucune rémunération déclarée (0 €). Mandat figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "agam-agence-urbanisme-agglomeration-marseillaise",
+    "entity": "AGAM - Agence d'Urbanisme de l'agglomération marseillaise",
+    "role": "board_member",
+    "ownership_stake": "Sans objet (association/agence). Délégué du conseil municipal.",
+    "period": "04/2014 - 12/2018",
+    "status": "historical",
+    "detail": "Délégué du conseil municipal au sein de l'AGAM en tant que conseiller municipal d'opposition. Aucune rémunération (0 € déclaré). Mandat figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "bouches-du-rhone-tourisme",
+    "entity": "Bouches-du-Rhône Tourisme",
+    "role": "board_member",
+    "ownership_stake": "Sans objet. Membre de l'assemblée générale, ès qualités (conseiller départemental).",
+    "period": "04/2015 - 03/2020",
+    "status": "historical",
+    "detail": "Membre de l'assemblée générale de Bouches-du-Rhône Tourisme en tant que conseiller départemental d'opposition. Aucune rémunération (0 € déclaré). Mandat figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "ecole-journalisme-communication-marseille",
+    "entity": "École de Journalisme et de Communication de Marseille (EJCM)",
+    "role": "board_member",
+    "ownership_stake": "Sans objet. Mandat exercé ès qualités.",
+    "period": "Depuis 10/2020",
+    "status": "declared",
+    "detail": "Membre du conseil d'administration de l'École de Journalisme et de Communication de Marseille. Aucune rémunération déclarée (0 €). Mandat figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "instances-jeux-olympiques-2020-2021",
+    "entity": "Instances liées aux Jeux Olympiques (GIP JO 2024, COJO, SOLIDEO)",
+    "role": "board_member",
+    "ownership_stake": "Sans objet. Mandats exercés ès qualités.",
+    "period": "07/2020 - 12/2021",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration du GIP Jeux Olympiques 2024, du Comité d'Organisation des Jeux Olympiques (COJO) et de la Société de Livraison des Ouvrages Olympiques (SOLIDEO), au titre de l'organisation des épreuves olympiques à Marseille. Aucune rémunération déclarée (0 €). Mandats figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "etablissements-scolaires-conseils-administration",
+    "entity": "Conseils d'administration d'établissements scolaires (lycée Saint-Charles, collèges Adolphe Thiers, Longchamp, Chartreux, Chape, Sacré-Cœur, Chevreul Blancarde, Saint-Joseph de la Madeleine)",
+    "role": "board_member",
+    "ownership_stake": "Sans objet. Représentant désigné par le conseil municipal ou départemental.",
+    "period": "À partir de 2014-2015 (certains mandats poursuivis)",
+    "status": "declared",
+    "detail": "Représentant du conseil municipal puis du conseil départemental (CD13) au sein des conseils d'administration de plusieurs établissements scolaires publics et privés, en tant qu'élu d'opposition. Aucune rémunération (0 € déclaré). Mandats figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "parti-socialiste-bureau-national",
+    "entity": "Parti Socialiste",
+    "role": "board_member",
+    "ownership_stake": "Sans objet (parti politique). Membre du bureau national.",
+    "period": "Depuis 05/2018",
+    "status": "declared",
+    "detail": "Membre du Bureau National du Parti Socialiste. Aucune rémunération déclarée (0 €). Fonction figurant dans la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "activites-professionnelles-consultant",
+    "entity": "Activités professionnelles rémunérées et activités de consultant",
+    "role": "none",
+    "ownership_stake": "Néant",
+    "period": "À la date de la déclaration et au cours des cinq années précédentes",
+    "status": "none",
+    "detail": "Aucune activité professionnelle rémunérée ni activité de consultant déclarée à la HATVP (rubriques 1° et 2° de la déclaration d'intérêts indiquées 'Néant'). Benoît Payan était auparavant éducateur spécialisé; sa déclaration mentionne sa fonction d'élu comme activité.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  },
+  {
+    "id": "participations-financieres-capital-societe",
+    "entity": "Participations financières directes dans le capital d'une société",
+    "role": "none",
+    "ownership_stake": "Néant (0 part détenue)",
+    "period": "À la date de l'élection/nomination",
+    "status": "none",
+    "detail": "Aucune participation financière directe au capital d'une société (rubrique 4° de la déclaration d'intérêts indiquée 'Néant'). La déclaration mentionne uniquement un compte PEA (LCL) d'une valeur d'environ 4 337,48 €, sans détention de parts de société.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/payan-benoit-di12709-commune-marseille.pdf"
+    ]
+  }
+]

@@ -1,1 +1,129 @@
-[]
+[
+  {
+    "id": "nantes-metropole",
+    "entity": "Nantes Métropole",
+    "role": "director",
+    "ownership_stake": "n/a (public intercommunal authority - EPCI)",
+    "period": "2014-present (re-elected for a third term in April 2026)",
+    "status": "current",
+    "detail": "President of Nantes Métropole, the metropolitan public authority (établissement public de coopération intercommunale). She has chaired it since April 2014 and was re-elected in 2020 and again in April 2026. This presidency is the basis for most of the ex officio seats she holds in affiliated public bodies, local public companies (SPL) and semi-public companies (SEM).",
+    "source_url": [
+      "https://metropole.nantes.fr/territoire-institutions/nantes-metropole/elus-metropolitains/johanna-rolland",
+      "https://www.mediacites.fr/reportage/nantes/2026/04/03/johanna-rolland-reelue-presidente-de-nantes-metropole-avec-une-ouverture-tres-limitee/",
+      "https://en.wikipedia.org/wiki/Johanna_Rolland"
+    ]
+  },
+  {
+    "id": "ville-de-nantes",
+    "entity": "Ville de Nantes",
+    "role": "director",
+    "ownership_stake": "n/a (municipality)",
+    "period": "2014-present",
+    "status": "current",
+    "detail": "Mayor of Nantes since April 2014, the first woman to hold the office. The mayoral mandate is the source of further ex officio representation in local bodies and companies.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Johanna_Rolland",
+      "https://metropole.nantes.fr/territoire-institutions/nantes-metropole/elus-metropolitains/johanna-rolland"
+    ]
+  },
+  {
+    "id": "samoa",
+    "entity": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique",
+    "role": "board_member",
+    "ownership_stake": "n/a (local public development company - SPL; seat held ex officio)",
+    "period": "April 2014-present",
+    "status": "declared",
+    "detail": "President of SAMOA, the public development company responsible for the Île de Nantes urban renewal project and the Quartier de la Création. Seat held ex officio as President of Nantes Métropole, as recorded in her HATVP declaration of interests and confirmed by SAMOA governance pages.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna",
+      "https://www.samoa-nantes.fr/la-samoa/statuts-et-gouvernance/"
+    ]
+  },
+  {
+    "id": "auran-agence-urbanisme",
+    "entity": "AURAN - Agence d'Urbanisme de la Région Nantaise",
+    "role": "board_member",
+    "ownership_stake": "n/a (association; seat held ex officio)",
+    "period": "April 2014-present",
+    "status": "declared",
+    "detail": "Member by right (membre de droit) of the Agence d'Urbanisme de la Région Nantaise, listed in her HATVP declaration of interests as a participation in the governing body of a public or private organism.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna"
+    ]
+  },
+  {
+    "id": "atlanpole",
+    "entity": "Atlanpole",
+    "role": "board_member",
+    "ownership_stake": "n/a (technopole / association; seat held ex officio)",
+    "period": "April 2014-present",
+    "status": "declared",
+    "detail": "President of the Board of Directors (Conseil d'administration) of Atlanpole, the Nantes-Saint-Nazaire technopole, as recorded in her HATVP declaration of interests.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna",
+      "https://www.atlanpole.fr/actualites/nantes-saint-nazaire-et-la-baule-inventent-le-nautisme-de-demain/"
+    ]
+  },
+  {
+    "id": "nantes-saint-nazaire-developpement",
+    "entity": "Nantes Saint-Nazaire Développement",
+    "role": "board_member",
+    "ownership_stake": "n/a (economic development agency; seat held ex officio)",
+    "period": "April 2014-present",
+    "status": "declared",
+    "detail": "President of Nantes Saint-Nazaire Développement, the territorial economic development agency, as recorded in her HATVP declaration of interests.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna"
+    ]
+  },
+  {
+    "id": "pole-metropolitain-nantes-saint-nazaire",
+    "entity": "Pôle métropolitain Nantes Saint-Nazaire",
+    "role": "director",
+    "ownership_stake": "n/a (public inter-territorial syndicate)",
+    "period": "2014-present",
+    "status": "declared",
+    "detail": "President of the syndicate committee (comité syndical) of the Pôle métropolitain Nantes Saint-Nazaire, an inter-territorial public cooperation body, as recorded in her HATVP declaration of interests.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna",
+      "https://en.wikipedia.org/wiki/Johanna_Rolland"
+    ]
+  },
+  {
+    "id": "pole-metropolitain-loire-bretagne",
+    "entity": "Pôle métropolitain Loire Bretagne",
+    "role": "board_member",
+    "ownership_stake": "n/a (public inter-territorial syndicate; seat held ex officio)",
+    "period": "2014-present",
+    "status": "declared",
+    "detail": "Member of the Pôle métropolitain Loire Bretagne, an inter-territorial cooperation body, as recorded in her HATVP declaration of interests.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna"
+    ]
+  },
+  {
+    "id": "institut-etudes-avancees-nantes",
+    "entity": "Institut d'Études Avancées de Nantes (IEA)",
+    "role": "founder",
+    "ownership_stake": "n/a (foundation; founding member seat held ex officio)",
+    "period": "from April 2014",
+    "status": "declared",
+    "detail": "Founding member (membre fondateur) of the Institut d'Études Avancées de Nantes, listed in her HATVP declaration of interests as a participation in the governing body of an organism.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rolland-johanna"
+    ]
+  },
+  {
+    "id": "france-urbaine",
+    "entity": "France urbaine",
+    "role": "director",
+    "ownership_stake": "n/a (national association of local elected officials)",
+    "period": "September 2020-present",
+    "status": "current",
+    "detail": "President of France urbaine, the national association representing large French cities, urban communities and metropolitan authorities. Elected on 24 September 2020, succeeding Jean-Luc Moudenc (mayor of Toulouse). Member of the bureau for the 2020-2026 mandate.",
+    "source_url": [
+      "https://www.banquedesterritoires.fr/johanna-rolland-nouvelle-presidente-de-france-urbaine",
+      "https://franceurbaine.org/app/uploads/2024/11/les_membres_du_bureau_de_france_urbaine_mandat_2020-2026_v2.pdf"
+    ]
+  }
+]

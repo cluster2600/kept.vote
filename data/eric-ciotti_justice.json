@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cci-parking-cards-2022-campaign-inquiry",
+    "case": "Enquête sur l'usage de cartes de stationnement de la CCI pendant la campagne des législatives de 2022",
+    "period": "2022 (faits visés); signalement avril 2024; enquête ouverte le 31 mai 2024",
+    "type": "Enquête préliminaire pour détournement de fonds publics présumé",
+    "description": "Le parquet de Nice a ouvert le 31 mai 2024 une enquête préliminaire après un signalement adressé le 26 avril 2024 par la branche départementale de l'association anticorruption Anticor. Le signalement vise l'usage de cartes de stationnement du port de Nice, mises à disposition à titre gratuit par la Chambre de commerce et d'industrie (CCI), dont Éric Ciotti et certains de ses proches/collaborateurs auraient bénéficié pour se garer gratuitement au port de Nice pendant la campagne des élections législatives de 2022. Selon Anticor, au moins huit personnes auraient bénéficié de ces cartes; si elles ont été utilisées dans le cadre de la campagne, cela pourrait constituer un avantage indu.",
+    "status": "ongoing",
+    "outcome": "Enquête préliminaire au stade de l'investigation; aucune mise en examen, poursuite ni condamnation rapportée à la date de référence. Éric Ciotti n'a pas été déclaré coupable.",
+    "court": "Parquet de Nice (procureur de la République de Nice)",
+    "presumption_note": "Éric Ciotti bénéficie de la présomption d'innocence. Il s'agit d'une enquête préliminaire ouverte sur signalement associatif; aucune charge n'a été retenue ni établie par une juridiction.",
+    "key_facts": [
+      "Signalement déposé par Anticor (groupe local des Alpes-Maritimes) le 26 avril 2024.",
+      "Enquête préliminaire ouverte par le parquet de Nice le 31 mai 2024.",
+      "Faits visés: usage présumé de cartes de stationnement gratuites de la CCI au port de Nice pendant la campagne des législatives de 2022.",
+      "Selon l'association, au moins huit personnes auraient bénéficié des cartes en cause.",
+      "Qualification envisagée par les plaignants: détournement de fonds publics."
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/infos/faits-divers-justice/legislatives-2022-eric-ciotti-vise-par-une-enquete-pour-detournement-de-fonds-publics-4235737",
+      "https://www.europe1.fr/politique/nice-eric-ciotti-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-4253224",
+      "https://www.leclubdesjuristes.com/en-bref/eric-ciotti-le-parquet-de-nice-ouvre-une-enquete-pour-detournement-de-fonds-publics-lors-de-sa-campagne-pour-pour-les-legislatives-de-2022-6277/",
+      "https://www.rcf.fr/articles/actualite/eric-ciotti-vise-par-une-enquete-pour-detournement-de-fonds-publics"
+    ]
+  },
+  {
+    "id": "conseil-departemental-avantages-collaborateurs",
+    "case": "Avantages présumés conservés au Conseil départemental des Alpes-Maritimes après la démission de 2017 et emploi de collaborateurs",
+    "period": "2017-2023 (faits signalés); signalement 12 septembre 2019; rapport CRC 15 décembre 2023; plainte Anticor 14 janvier 2025",
+    "type": "Enquête préliminaire / plainte pour détournement de fonds publics et recel présumés",
+    "description": "Éric Ciotti a présidé le Conseil départemental des Alpes-Maritimes de décembre 2008 au 1er septembre 2017, fonction qu'il a quittée après son élection comme député (loi sur le non-cumul des mandats). Anticor soutient qu'il aurait continué à bénéficier d'avantages normalement réservés au président du département (bureau, véhicule de service) et qu'un poste de « président de la commission des finances », jusqu'alors inexistant, aurait été créé pour lui. L'association met aussi en cause l'emploi de collaborateurs rémunérés par le Département qui auraient en réalité travaillé pour ses fonctions de député. Un signalement avait été transmis au procureur de Nice le 12 septembre 2019, donnant lieu à une enquête préliminaire. La Chambre régionale des comptes (CRC) Provence-Alpes-Côte d'Azur a publié un rapport le 15 décembre 2023 pointant de possibles irrégularités. Anticor a déposé une plainte le 14 janvier 2025 pour détournement de fonds publics et recel, visant également l'actuel président du Département.",
+    "status": "ongoing",
+    "outcome": "Au stade de l'enquête/plainte; aucune mise en examen, poursuite ni condamnation d'Éric Ciotti rapportée à la date de référence.",
+    "court": "Parquet de Nice (procureur de la République de Nice); rapport de la Chambre régionale des comptes Provence-Alpes-Côte d'Azur",
+    "presumption_note": "Éric Ciotti bénéficie de la présomption d'innocence. Les éléments décrits émanent d'un rapport de la CRC et d'une plainte associative; ils n'ont pas été établis par une juridiction et n'ont donné lieu à aucune condamnation.",
+    "key_facts": [
+      "Signalement d'Anticor au procureur de Nice le 12 septembre 2019, à l'origine d'une enquête préliminaire.",
+      "Rapport de la Chambre régionale des comptes PACA rendu public le 15 décembre 2023.",
+      "Plainte d'Anticor déposée le 14 janvier 2025 pour détournement de fonds publics et recel.",
+      "Avantages présumés en cause: maintien d'un bureau, mise à disposition d'un véhicule, création d'un poste de président de la commission des finances.",
+      "Emploi de collaborateurs rémunérés par le Département qui auraient travaillé pour des activités parlementaires.",
+      "La plainte vise également Charles Ange Ginésy, président actuel du Département."
+    ],
+    "source_url": [
+      "https://www.anticor.org/2025/04/09/affaire-eric-ciotti/",
+      "https://actu.orange.fr/politique/eric-ciotti-vise-par-une-plainte-d-anticor-pour-recel-et-detournement-de-fonds-magic-CNT000002igCK5.html",
+      "https://observatoire.anticor.org/tag/eric-ciotti/"
+    ]
+  }
+]

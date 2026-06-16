@@ -1,0 +1,50 @@
+[
+  {
+    "id": "municipales-2026-recours-aulas",
+    "case": "Contestation des résultats des élections municipales 2026 à Lyon (recours Jean-Michel Aulas)",
+    "period": "2026",
+    "type": "Contentieux électoral (protestation devant le tribunal administratif)",
+    "description": "À l'issue du second tour des municipales du 22 mars 2026, Grégory Doucet (EELV) a été réélu maire de Lyon avec 50,67 % des voix (104 702 voix) contre 49,33 % (101 940 voix) pour Jean-Michel Aulas. Le candidat battu Jean-Michel Aulas a annoncé dès le soir du scrutin un recours et l'a déposé le 27 mars 2026 devant le tribunal administratif de Lyon, évoquant des « irrégularités » sans en préciser publiquement la nature à ce stade. Aulas a également indiqué saisir la Commission nationale des comptes de campagne et des financements politiques (CNCCFP). Le tribunal administratif de Lyon a fait état au 30 mars 2026 de 171 protestations électorales enregistrées dans le ressort (dont 105 déférés préfectoraux), portant sur plusieurs communes du Rhône et la Métropole de Lyon.",
+    "status": "appeal_pending",
+    "outcome": "Aucune décision rendue à ce stade (juin 2026). Recours pendant. L'élection de Grégory Doucet n'a PAS été annulée ; il a été installé dans ses fonctions. Le tribunal a indiqué qu'aucune décision n'interviendrait avant l'expiration du délai de la CNCCFP (deux mois après la date limite de dépôt des comptes de campagne du 22 mai 2026, soit jusqu'au 22 juillet 2026), le juge disposant ensuite de trois mois supplémentaires pour statuer.",
+    "court": "Tribunal administratif de Lyon (et, distinctement, CNCCFP)",
+    "presumption_note": "Recours électoral en cours d'instruction. Tant qu'aucune décision juridictionnelle définitive n'est rendue, l'élection de Grégory Doucet demeure valide et son mandat s'exerce normalement. Les motifs des requérants et leur identité ne pouvaient pas être communiqués par le tribunal à ce stade. Aucune annulation prononcée.",
+    "key_facts": [
+      "Second tour le 22 mars 2026 : Doucet 50,67 % (104 702 voix), Aulas 49,33 % (101 940 voix), écart inférieur à 3 000 voix.",
+      "Recours déposé par Jean-Michel Aulas le 27 mars 2026 devant le tribunal administratif de Lyon, invoquant des « irrégularités ».",
+      "Saisine annoncée de la CNCCFP par Aulas (procédure distincte).",
+      "171 protestations électorales enregistrées dans le ressort du tribunal au 30 mars 2026, dont 105 déférés préfectoraux.",
+      "Aucune décision attendue avant le 22 juillet 2026 (délai CNCCFP) ; statut au point de recherche (juin 2026) : recours pendant, élection non annulée."
+    ],
+    "source_url": [
+      "https://www.lyonmag.com/article/151191/municipales-2026-les-recours-s-accumulent-dans-la-metropole-de-lyon-voici-quand-les-decisions-pourraient-tomber",
+      "https://www.lyonmag.com/article/151156/il-y-a-une-chance-que-cela-aboutisse-jean-michel-aulas-annonce-finalement-deux-recours-apres-les-municipales-a-lyon",
+      "https://en.wikipedia.org/wiki/2026_Lyon_municipal_election"
+    ]
+  },
+  {
+    "id": "enquete-charges-de-mission-ville-lyon",
+    "case": "Enquête sur les chargés de mission de la Ville de Lyon (soupçons de détournement de fonds publics)",
+    "period": "2024-2025 (faits portant sur 2016-2023)",
+    "type": "Enquête préliminaire pour « détournement de fonds publics par personne dépositaire de l'autorité publique »",
+    "description": "Une enquête a été ouverte par le parquet de Lyon (instruite avec le concours du Parquet national financier) concernant l'emploi de 24 chargés de mission par la Ville de Lyon, soupçonnés d'avoir en réalité exercé des fonctions de collaborateurs de cabinet — fonction plus politique qu'administrative — alors que la loi plafonne à 12 le nombre de collaborateurs de cabinet pour une ville de la taille de Lyon. L'enquête fait suite à un rapport de la Chambre régionale des comptes (CRC, 2024) relevant que le mode de recrutement, l'évaluation et les missions de ces agents permettaient de les assimiler à des collaborateurs de cabinet. Le dispositif préexistait à l'exécutif Doucet (2016-2020) ; la CRC note toutefois que l'exécutif élu le 4 juillet 2020 n'a pas supprimé ces postes et a recruté neuf chargés de mission supplémentaires (sur 24) entre juillet et novembre 2020. Dans ce cadre, Grégory Doucet a été entendu en garde à vue le 9 avril 2025 (environ 9 à 10 heures). D'autres responsables ont été entendus : l'ancien maire Georges Képénékian, d'anciens collaborateurs de Gérard Collomb, ainsi que des directeurs et directrices de cabinet (Stéphanie Burlet, Guillaume Dupeyron, David Roche, Arabelle Chambre-Foa) en audition libre.",
+    "status": "ongoing",
+    "outcome": "Enquête en cours au point de recherche (juin 2026). Aucune mise en examen de Grégory Doucet rapportée par les sources consultées. La Ville de Lyon a mis fin à la pratique fin 2024 : le conseil municipal du 12 décembre 2024 a acté le reclassement des chargés de mission concernés.",
+    "court": "Parquet de Lyon / Parquet national financier (PNF) — phase d'enquête",
+    "presumption_note": "Grégory Doucet n'a, selon les sources consultées, pas été mis en examen ; une garde à vue et des auditions ne constituent ni une mise en examen ni une condamnation. La présomption d'innocence s'applique pleinement. Le maire a contesté la qualification, indiquant que ces 24 personnes rendaient « un service public à l'interface de l'engagement des élus et des différents services ». Le dispositif est antérieur à son mandat.",
+    "key_facts": [
+      "Enquête ouverte le 7 février 2024 par le parquet de Lyon pour détournement de fonds publics ; instruite avec le PNF.",
+      "Porte sur 24 chargés de mission soupçonnés d'avoir exercé des fonctions de collaborateurs de cabinet (plafond légal : 12).",
+      "Origine : rapport de la Chambre régionale des comptes (CRC) de 2024 ; perquisitions à l'Hôtel de Ville au printemps 2024.",
+      "Dispositif préexistant (2016-2020) ; 9 chargés de mission recrutés par l'exécutif Doucet entre juillet et novembre 2020 selon la CRC.",
+      "Garde à vue de Grégory Doucet le 9 avril 2025 (env. 9-10 h) ; auditions d'anciens responsables et de directeurs de cabinet.",
+      "Pratique stoppée fin 2024 ; reclassement des postes acté par le conseil municipal du 12 décembre 2024.",
+      "Aucune mise en examen de Grégory Doucet rapportée à ce stade."
+    ],
+    "source_url": [
+      "https://tribunedelyon.fr/justice/comprendre-les-soupcons-qui-pesent-sur-maire-lyon/",
+      "https://www.lyonmag.com/article/148531/affaire-des-charges-de-mission-de-la-ville-de-lyon-la-loi-est-la-meme-pour-tous-previent-le-procureur-de-la-republique",
+      "https://www.lyoncapitale.fr/politique/gregory-doucet-en-garde-a-vue-ce-que-dit-le-rapport-a-l-origine-de-l-enquete"
+    ]
+  }
+]

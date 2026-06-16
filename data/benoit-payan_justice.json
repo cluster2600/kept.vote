@@ -1,0 +1,28 @@
+[
+  {
+    "id": "spem-plan-ecoles-favoritisme-enquete-preliminaire",
+    "case": "Plan écoles / SPEM (Société Publique des Écoles Marseillaises) - soupçons de favoritisme",
+    "period": "2025-2026 (signalement du 15 septembre 2025; enquête révélée en février 2026)",
+    "type": "Enquête préliminaire pour soupçons de favoritisme (délit de favoritisme, art. 432-14 du code pénal) dans la commande publique",
+    "description": "Le parquet de Marseille a ouvert une enquête préliminaire à la suite d'un signalement, au titre de l'article 40 du code de procédure pénale, adressé au procureur de la République le 15 septembre 2025 par l'ancien préfet des Bouches-du-Rhône Georges-François Leclerc. Le signalement vise de possibles 'délits de favoritisme' au sein de la Société publique des écoles marseillaises (SPEM), structure copilotée à parité par l'État et la Ville de Marseille et chargée du 'plan écoles' (rénovation ou reconstruction d'environ 188 établissements scolaires). Benoît Payan préside le conseil d'administration de la SPEM. L'enquête porte notamment sur l'acquisition de bâtiments scolaires provisoires (déplacement de modules du chantier de l'école Vayssière vers celui de l'école Saint-André La Castellane, dans le 16e arrondissement, pour environ 1,4 million d'euros) qui, selon le signalement, aurait dû faire l'objet d'une mise en concurrence. Un échange de courriels interne à la SPEM est cité dans le signalement. L'affaire a été révélée par le média Blast le 2 février 2026, puis confirmée par le parquet de Marseille auprès de Marsactu.",
+    "status": "ongoing",
+    "outcome": "Enquête préliminaire en cours. Aucune mise en examen. À ce stade, l'enquête vise des faits susceptibles de relever de la SPEM et doit déterminer les responsabilités individuelles et collectives; aucune charge n'a été retenue contre Benoît Payan.",
+    "court": "Parquet de Marseille (procureur de la République)",
+    "presumption_note": "Benoît Payan bénéficie de la présomption d'innocence. Il s'agit d'une enquête préliminaire ouverte sur un signalement; à la date connue, Benoît Payan n'a fait l'objet d'aucune mise en examen ni d'aucune mise en cause formelle, et aucune juridiction ne s'est prononcée sur le fond. Les soupçons restent à vérifier.",
+    "key_facts": [
+      "Signalement effectué au titre de l'article 40 du code de procédure pénale par l'ancien préfet des Bouches-du-Rhône Georges-François Leclerc, par courrier au procureur de la République de Marseille daté du 15 septembre 2025, accompagné de deux clés USB.",
+      "Le signalement évoque de possibles 'délits de favoritisme par la Société publique des écoles marseillaises (SPEM)'.",
+      "La SPEM pilote le 'plan écoles' (environ 188 établissements scolaires, programme chiffré à environ 1,8 milliard d'euros) et est copilotée à parité par l'État et la Ville de Marseille; Benoît Payan en préside le conseil d'administration.",
+      "L'élément central est l'acquisition (estimée à environ 1,4 million d'euros) de bâtiments provisoires déplacés du chantier de l'école Vayssière vers celui de l'école Saint-André La Castellane (16e arrondissement), sans mise en concurrence, alors que les services juridiques de la SPEM auraient signalé un risque.",
+      "L'affaire a été révélée par le média Blast le 2 février 2026; le parquet de Marseille a confirmé l'existence de l'enquête préliminaire à Marsactu.",
+      "À la date connue, aucune mise en examen n'a été prononcée et l'enquête en est au stade préliminaire."
+    ],
+    "source_url": [
+      "https://marsactu.fr/bref/plan-ecoles-la-justice-ouvre-une-enquete-apres-un-signalement-du-prefet-pour-favoritisme/",
+      "https://marsactu.fr/comment-le-chantier-de-lecole-la-castellane-se-retrouve-au-coeur-dune-enquete-judicaire/",
+      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/tour-de-passe-passe-meche-a-combustion-lente-ces-revelations-qui-placent-benoit-payan-dans-le-viseur-de-la-justice-3293052.html",
+      "https://madeinmarseille.net/politique/195866-a-marseille-la-justice-ouvre-une-enquete-sur-le-plan-ecoles/",
+      "https://www.blast-info.fr/articles/2026/a-marseille-le-plan-ecoles-de-macron-et-payan-dans-le-viseur-de-la-justice-SLDJ9GMEQyiC4UxevpplqQ"
+    ]
+  }
+]

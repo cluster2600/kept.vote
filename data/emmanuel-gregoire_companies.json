@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "id": "accor-hotel-arena-popb",
+    "entity": "Accor Hotel Arena (SAE POPB - Palais omnisports de Paris-Bercy)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio / représentation Ville de Paris)",
+    "period": "01/2020-07/2024",
+    "status": "historical",
+    "detail": "Président de la structure événementielle (Accor Hotel Arena / SAE POPB), fonction rémunérée (env. 15 245 EUR net/an). Déclaré dans la déclaration d'intérêts HATVP. A démissionné le 27 juillet 2024.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "ile-de-france-mobilites",
+    "entity": "Île-de-France Mobilités (Syndicat des transports d'Île-de-France)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio)",
+    "period": "03/2018-07/2020",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants du syndicat des transports d'Île-de-France. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "epic-paris-la-defense",
+    "entity": "Paris La Défense (EPIC, établissement public local)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio)",
+    "period": "07/2020-07/2024",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants de l'établissement public d'aménagement. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP. A démissionné le 27 juillet 2024.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "epf-ile-de-france",
+    "entity": "Établissement public foncier d'Île-de-France (EPFIF)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio)",
+    "period": "07/2020-07/2024",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants de l'établissement public d'aménagement/foncier. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP. A démissionné le 27 juillet 2024.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "epa-defense-seine-arche",
+    "entity": "Établissement public d'aménagement de la Défense Seine Arche (EPADESA / Paris La Défense)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio)",
+    "period": "07/2020-07/2024",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants de l'établissement public d'aménagement. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP. A démissionné le 27 juillet 2024.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "epa-paris-saclay",
+    "entity": "Établissement public d'aménagement de Paris-Saclay (EPA Paris-Saclay)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio)",
+    "period": "07/2020-07/2024",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants de l'établissement public d'aménagement. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP. A démissionné le 27 juillet 2024.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "grand-paris-amenagement",
+    "entity": "Grand Paris Aménagement (établissement public)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio)",
+    "period": "07/2020-07/2024",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants de l'établissement public d'aménagement. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP. A démissionné le 27 juillet 2024.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "gip-maximilien",
+    "entity": "GIP Maximilien (administration électronique mutualisée en Île-de-France)",
+    "role": "board_member",
+    "ownership_stake": "n/a (ex officio)",
+    "period": "09/2017-07/2020",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants du groupement d'intérêt public dédié au service public mutualisé d'administration électronique en Île-de-France. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "association-les-canaux",
+    "entity": "Association Les Canaux",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "09/2018-07/2020",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants de l'association pour le déploiement de solutions solidaires, écologiques et innovantes. Fonction non rémunérée. Déclarée dans la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "b2ge-conseil",
+    "entity": "B2GE Conseil (société de conseil)",
+    "role": "shareholder",
+    "ownership_stake": "49% du capital (49 parts)",
+    "period": "déclarée au 23/10/2024",
+    "status": "declared",
+    "detail": "Participation financière directe au capital, contrôle d'une activité de conseil. Société déclarée en cours de liquidation. Aucune rémunération/dividende perçu (0 EUR). Déclarée dans la déclaration d'intérêts HATVP. Origine: activité de conseil médical antérieure à sa carrière politique.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "m2c",
+    "entity": "M2C (société)",
+    "role": "shareholder",
+    "ownership_stake": "10% du capital (10 parts)",
+    "period": "déclarée au 23/10/2024",
+    "status": "declared",
+    "detail": "Participation financière directe au capital (valorisée 50 000 EUR dans la déclaration), sans contrôle d'activité de conseil. Dividendes perçus: 14 000 EUR en 2024. Déclarée dans la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "sciencespo-paris-enseignement",
+    "entity": "Sciences Po Paris (Institut d'études politiques de Paris)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "09/2020-07/2024",
+    "status": "historical",
+    "detail": "Activité professionnelle conservée: chargé d'enseignement. Rémunération d'environ 1 748 EUR net/an. Déclarée dans la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  },
+  {
+    "id": "inseec-enseignement",
+    "entity": "INSEEC (école de commerce)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "01/2024-02/2024",
+    "status": "historical",
+    "detail": "Activité d'enseignement ponctuelle. Rémunération de 4 200 EUR net en 2024. Déclarée dans la déclaration d'intérêts HATVP.",
+    "source_url": ["https://www.hatvp.fr/livraison/dossiers/gregoire-emmanuel-diam31130-depute-75.pdf"]
+  }
+]

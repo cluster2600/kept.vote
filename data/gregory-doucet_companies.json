@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "id": "spl-lyon-confluence",
+    "entity": "SPL Lyon Confluence (Société publique locale d'aménagement)",
+    "role": "director",
+    "ownership_stake": "none (mandat ès qualités au titre du mandat municipal/métropolitain ; pas de participation personnelle au capital)",
+    "period": "depuis 10/2020",
+    "status": "declared",
+    "detail": "Président de la SPL Lyon Confluence, déclaré à la HATVP dans la déclaration d'intérêts. Fonction exercée ès qualités, sans rémunération déclarée (0 € en 2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/doucet-gregory-dim13850-commune-lyon.pdf",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=doucet-gregory-19663"
+    ]
+  },
+  {
+    "id": "spl-lyon-part-dieu",
+    "entity": "SPL Lyon Part-Dieu (Société publique locale d'aménagement)",
+    "role": "director",
+    "ownership_stake": "none (mandat ès qualités ; pas de participation personnelle au capital)",
+    "period": "depuis 09/2020",
+    "status": "declared",
+    "detail": "Président de la SPL Lyon Part-Dieu, déclaré à la HATVP. Fonction exercée ès qualités, sans rémunération déclarée (0 € en 2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/doucet-gregory-dim13850-commune-lyon.pdf",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=doucet-gregory-19663"
+    ]
+  },
+  {
+    "id": "ccas-lyon",
+    "entity": "CCAS (Centre communal d'action sociale) de la Ville de Lyon",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "depuis 07/2020",
+    "status": "declared",
+    "detail": "Président du CCAS de Lyon ès qualités (le maire préside de droit le CCAS). Déclaré à la HATVP, sans rémunération (0 €).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/doucet-gregory-dim13850-commune-lyon.pdf"
+    ]
+  },
+  {
+    "id": "hcl-conseil-surveillance",
+    "entity": "Hospices Civils de Lyon (HCL)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "depuis 10/2020",
+    "status": "declared",
+    "detail": "Président du conseil de surveillance des Hospices Civils de Lyon (fonction généralement dévolue au maire de Lyon). Déclaré à la HATVP, sans rémunération (0 €).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/doucet-gregory-dim13850-commune-lyon.pdf"
+    ]
+  },
+  {
+    "id": "conseiller-metropolitain-lyon",
+    "entity": "Métropole de Lyon (conseil de la métropole)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "depuis 06/2020",
+    "status": "declared",
+    "detail": "Conseiller métropolitain de la Métropole de Lyon. Mandat électif déclaré à la HATVP, avec indemnité (4 812 € net en 2020, 2 406 € net en 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/doucet-gregory-dim13850-commune-lyon.pdf"
+    ]
+  },
+  {
+    "id": "planete-enfants-developpement",
+    "entity": "Planète Enfants & Développement (ONG de solidarité internationale dédiée aux enfants vulnérables)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "déclaré en 2020-2021 (fonction bénévole)",
+    "status": "declared",
+    "detail": "Fonction bénévole de vice-président, déclarée à la HATVP au titre des « fonctions bénévoles susceptibles de faire naître un conflit d'intérêts ». Non rémunérée.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/doucet-gregory-dim13850-commune-lyon.pdf",
+      "https://www.lyoncapitale.fr/actualite/transparence-de-la-vie-publique-la-declaration-dinteret-du-maire-de-lyon-devoilee"
+    ]
+  },
+  {
+    "id": "handicap-international",
+    "entity": "Handicap International - Humanité & Inclusion (ONG)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "carrière humanitaire ~2009-2020 ; emploi déclaré 12/2014-02/2020",
+    "status": "historical",
+    "detail": "Salarié de Handicap International comme responsable / directeur des opérations en Afrique de l'Ouest. Rémunération déclarée à la HATVP : de 27 969 € net (2014) à 38 639 € net (2019), puis 6 571 € net en 2020 (congé sans solde lié à la campagne municipale). Carrière antérieure dans l'humanitaire (Inter Aide aux Philippines 2002-2006, Enfants & Développement / Népal 2007-2009).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/doucet-gregory-dim13850-commune-lyon.pdf",
+      "https://www.lyoncapitale.fr/politique/gregory-doucet-maire-de-lyon"
+    ]
+  }
+]

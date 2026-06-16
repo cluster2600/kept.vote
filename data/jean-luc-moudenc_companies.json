@@ -1,44 +1,233 @@
 [
   {
-    "id": "sem-europolia",
-    "name": "SEM Europolia",
-    "role": "Président",
-    "status": "Mandat terminé (2015–2020, rémunération 0 €)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    "id": "toulouse-metropole-president",
+    "entity": "Toulouse Métropole (établissement public de coopération intercommunale)",
+    "role": "director",
+    "ownership_stake": "none (mandat public, pas de participation au capital)",
+    "period": "2014-present (réélu président pour un nouveau mandat le 9 avril 2026)",
+    "status": "current",
+    "detail": "Président de Toulouse Métropole. Fonction publique liée à son mandat d'élu local ; non rémunérée au titre de la métropole selon la déclaration d'intérêts HATVP (0 € déclaré). Mandat figurant à la rubrique 'fonctions et mandats électifs' de sa déclaration d'intérêts.",
+    "source_url": [
+      "https://metropole.toulouse.fr/elus-au-conseil-metropolitain/jean-luc-moudenc-president-de-toulouse-metropole",
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
   },
   {
-    "id": "semeccel",
-    "name": "Semeccel",
-    "role": "Président",
-    "status": "Mandat terminé (2015–2020, rémunération 0 €)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    "id": "ville-toulouse-maire",
+    "entity": "Mairie de Toulouse (commune)",
+    "role": "director",
+    "ownership_stake": "none (mandat électif)",
+    "period": "2014-present (également maire de 2004 à 2008)",
+    "status": "current",
+    "detail": "Maire de Toulouse. Mandat électif rémunéré (indemnités d'élu). Figure à la rubrique des fonctions et mandats électifs de sa déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://metropole.toulouse.fr/elus-au-conseil-municipal/jean-luc-moudenc-elu-municipal",
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
   },
   {
-    "id": "sem-agence-attractivite",
-    "name": "SEM Agence d'attractivité",
-    "role": "Président",
-    "status": "Mandat terminé (2015–2020, rémunération 0 €)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    "id": "controleur-general-economique-financier",
+    "entity": "Ministère de l'Économie et des Finances - Contrôle général économique et financier",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "fonction de contrôleur général économique et financier, activité déclarée de 01/2015 à 10/2019 (puis disponibilité sans solde à sa demande)",
+    "status": "historical",
+    "detail": "Fonctionnaire d'État de carrière. Selon sa déclaration d'intérêts HATVP, activité rémunérée jusqu'en octobre 2019 (revenus nets déclarés : 102 766 € en 2015 jusqu'à 59 936 € en 2019), puis placement en disponibilité sans solde, à sa demande, jusqu'en juillet 2020. Cette double appartenance a fait l'objet d'une saisine d'Anticor auprès de la HATVP en 2020, close en faveur de M. Moudenc.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf",
+      "https://www.mediacites.fr/breve/toulouse/2020/10/09/la-hatvp-donne-raison-au-maire-de-toulouse/"
+    ]
   },
   {
-    "id": "smeat",
-    "name": "SMEAT",
-    "role": "Président",
-    "status": "Mandat terminé (2015–2020, rémunération 0 €)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    "id": "sem-europolia-president",
+    "entity": "SEM Europolia (société d'économie mixte d'aménagement, Toulouse)",
+    "role": "director",
+    "ownership_stake": "non déclaré (participation personnelle au capital : néant)",
+    "period": "01/2015 - 07/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré). Mandat exercé au titre de ses fonctions de maire / président de la métropole.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
   },
   {
-    "id": "sem-ctv",
-    "name": "SEM CTV",
-    "role": "Président",
-    "status": "Mandat terminé (2015–2020, rémunération 0 €)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    "id": "semeccel-president",
+    "entity": "SEMECCEL (société d'économie mixte, Centre de congrès / Cité de l'espace, Toulouse)",
+    "role": "director",
+    "ownership_stake": "non déclaré (participation personnelle au capital : néant)",
+    "period": "01/2015 - 08/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
   },
   {
-    "id": "cdc-habitat",
-    "name": "CDC HABITAT",
-    "role": "Vice-Président du Conseil de Surveillance",
-    "status": "Mandat terminé (2019–2020, rémunération 0 €)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    "id": "sem-agence-attractivite-president",
+    "entity": "SEM Agence d'attractivité (de la métropole toulousaine)",
+    "role": "director",
+    "ownership_stake": "non déclaré (participation personnelle au capital : néant)",
+    "period": "12/2015 - 07/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "sem-ctv-president",
+    "entity": "SEM CTV",
+    "role": "director",
+    "ownership_stake": "non déclaré (participation personnelle au capital : néant)",
+    "period": "01/2015 - 08/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "smeat-president",
+    "entity": "SMEAT (Syndicat mixte d'études de l'agglomération toulousaine - SCoT)",
+    "role": "director",
+    "ownership_stake": "none (syndicat mixte, pas de capital)",
+    "period": "01/2015 - 08/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "cdc-habitat-vice-president-conseil-surveillance",
+    "entity": "CDC Habitat",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "04/2019 - 08/2020",
+    "status": "declared",
+    "detail": "Vice-président du conseil de surveillance. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "mission-locale-emploi-toulouse-president",
+    "entity": "Mission locale pour l'emploi de Toulouse",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "01/2015 - 08/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "association-dialogue-metropolitain-toulouse-president",
+    "entity": "Association Dialogue Métropolitain de Toulouse",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "01/2015 - 08/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "ccas-toulouse-president",
+    "entity": "CCAS de Toulouse (Centre communal d'action sociale)",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "01/2015 - 08/2020",
+    "status": "declared",
+    "detail": "Président de droit, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "chu-toulouse-president-conseil-surveillance",
+    "entity": "CHU de Toulouse",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "01/2015 - 08/2020",
+    "status": "declared",
+    "detail": "Président du conseil de surveillance, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "ght-haute-garonne-tarn-ouest-president",
+    "entity": "GHT de la Haute-Garonne et du Tarn Ouest (Groupement hospitalier de territoire)",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "07/2017 - 08/2020",
+    "status": "declared",
+    "detail": "Président, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "france-urbaine-president",
+    "entity": "France urbaine (association d'élus de grandes villes et métropoles)",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "01/2016 - 08/2020 (présidence déclarée à la HATVP ; a présidé l'AMGVF, fusionnée dans France urbaine)",
+    "status": "declared",
+    "detail": "Président de l'association France urbaine. Auparavant président de l'AMGVF (Association des maires des grandes villes de France) déclarée pour 01/2015-12/2015. Participation déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "caisse-credit-municipal-toulouse-president-de-droit",
+    "entity": "Caisse de Crédit Municipal de Toulouse",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "01/2015 - 07/2020",
+    "status": "declared",
+    "detail": "Président de droit, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "caisse-des-ecoles-toulouse-president-de-droit",
+    "entity": "Caisse des écoles de Toulouse",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "01/2015 - 07/2020",
+    "status": "declared",
+    "detail": "Président de droit, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "centre-toulousain-maisons-retraite-president-de-droit",
+    "entity": "Centre toulousain des maisons de retraite",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "01/2015 - 07/2020",
+    "status": "declared",
+    "detail": "Président de droit, ès qualités. Participation aux organes dirigeants déclarée à la HATVP, non rémunérée (0 € déclaré).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
+  },
+  {
+    "id": "participations-financieres-capital-societes",
+    "entity": "Participations financières directes dans le capital d'une société",
+    "role": "none",
+    "ownership_stake": "none",
+    "period": "à la date de la déclaration (déclaration signée le 08/06/2021)",
+    "status": "none",
+    "detail": "Néant déclaré : aucune participation financière directe dans le capital d'une société à la date de la déclaration d'intérêts HATVP. Aucune activité de consultant déclarée (rubrique 'néant').",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/moudenc-jean-luc-dim15632-commune-toulouse.pdf"
+    ]
   }
 ]
