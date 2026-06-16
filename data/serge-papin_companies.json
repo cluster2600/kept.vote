@@ -1,92 +1,177 @@
 [
   {
-    "id": "systeme-u-pdg-2005-2018",
-    "entity": "Système U (Coopérative U / Système U Centrale Nationale)",
-    "role": "Président-directeur général",
-    "ownership_stake": "Non applicable (groupement coopératif d'associés indépendants)",
-    "period": "2005-2018",
-    "status": "Ancien (mandat terminé en mai 2018)",
-    "detail": "Dirigeant exécutif du quatrième groupement de distribution français pendant plus de treize ans. Figure médiatique du secteur, il y porte le discours du « consommer mieux » et noue en 2018 une alliance d'achats avec Carrefour avant son départ.",
-    "source_url": ["https://en.wikipedia.org/wiki/Serge_Papin", "https://www.lsa-conso.fr/annuaire-professionnels-grande-consommation/papin-serge/121634"]
+    "id": "cooperative-systeme-u-pdg",
+    "entity": "Coopérative U / Système U (groupement coopératif de distribution)",
+    "role": "director",
+    "ownership_stake": "Coopérative (pas de participation au capital déclarée à titre personnel)",
+    "period": "2005-2018 (président-directeur général national); carrière dans le groupe depuis 1976",
+    "status": "historical",
+    "detail": "Président-directeur général du groupement coopératif Système U (enseignes Super U, Hyper U, U Express, Utile) de 2005 à 2018, après avoir gravi les échelons depuis 1976 (vice-président Système U Ouest 1997, DG Système U Ouest 1998). Mandats associés enregistrés à l'INPI/Pappers : dirigeant de COOPERATIVE U (avril 2017-juillet 2018), de EXPAN U NATIONALE (2017-2018), U PARTNERS (2013-2018), U ETABLISSEMENT DE PAIEMENT (2015-2018), U CENTRALE EXPORT / SYSTEME U CENTRALE EXPORT (2017-2020), administrateur U CENTRALE EXPORT jusqu'en janvier 2020. Remplacé par Dominique Schelcher en 2018. La HATVP mentionne un mandat d'administrateur résiduel à U CENTRALE EXPORT (01/2019-01/2020).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Serge_Papin",
+      "https://www.pappers.fr/dirigeant/serge_papin_1955-08",
+      "https://www.ouest-france.fr/economie/entreprises/dominique-schelcher-remplace-serge-papin-la-tete-de-systeme-u-5760234",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"
+    ]
   },
   {
-    "id": "finapa-gerant-2019",
-    "entity": "FINAPA",
-    "role": "Gérant et actionnaire majoritaire",
-    "ownership_stake": "85,12 % en pleine propriété (152 474 parts) + 14,88 % en usufruit (26 660 parts)",
-    "period": "depuis 01/2019",
-    "status": "En cours (déclaré HATVP)",
-    "detail": "Holding patrimoniale personnelle, cœur du patrimoine déclaré (plus de 7,1 M€). Rémunération de gérant de 48 000 € nets/an (2019-2024), 36 000 € en 2025. Dividendes 2025 : 293 648 € (pleine propriété) + 51 344 € (usufruit).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+    "id": "alliance-achats-auchan-systeme-u-2014",
+    "entity": "Alliance aux achats Auchan / Système U (centrale commune d'achats et de référencement, dite \"Alliance\")",
+    "role": "director",
+    "ownership_stake": "n/a (accord de coopération entre enseignes)",
+    "period": "2014-2018",
+    "status": "historical",
+    "detail": "En septembre 2014, Système U (dirigé par Serge Papin) a conclu une alliance aux achats avec Auchan pour renforcer son pouvoir de négociation face aux fournisseurs, via la centrale commune. L'alliance a été notifiée à l'Autorité de la concurrence (loi Macron du 6 août 2015) et faisait partie des rapprochements de centrales d'achat de la grande distribution. Elle a pris fin en 2018, Système U s'alliant alors avec Carrefour. Ces alliances ont fait l'objet d'enquêtes de l'Autorité de la concurrence (voir fiche justice) ; aucune sanction documentée n'a visé Système U à ce titre.",
+    "source_url": [
+      "https://www.lineaires.com/la-distribution/alliance-la-nouvelle-centrale-d-auchan-et-systeme-u",
+      "https://fr.fashionnetwork.com/news/Systeme-u-et-auchan-s-allient-sur-les-achats,429021.html",
+      "https://en.wikipedia.org/wiki/Serge_Papin"
+    ]
   },
   {
-    "id": "auchan-retail-administrateur-2023",
-    "entity": "Auchan Retail International / Auchan France",
-    "role": "Membre du conseil d'administration puis président non exécutif",
-    "ownership_stake": "Aucune participation déclarée",
-    "period": "01/2023-05/2025",
-    "status": "Ancien (mandat terminé en mai 2025)",
-    "detail": "Administrateur d'Auchan Retail International (2023), puis président non exécutif d'Auchan France (2024). Rémunération 32 500 € nets en 2024 et 2025. À ce titre, déport imposé par décret : le ministre ne peut traiter les dossiers concernant le groupe Auchan.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744", "https://www.lineaires.com/la-distribution/l-ex-patron-de-systeme-u-serge-papin-prend-place-chez-auchan-retail"]
+    "id": "alliance-achats-carrefour-systeme-u-2018",
+    "entity": "Alliance aux achats Carrefour / Système U",
+    "role": "director",
+    "ownership_stake": "n/a (accord de coopération entre enseignes)",
+    "period": "2018",
+    "status": "historical",
+    "detail": "Avant son départ de Système U en 2018, Serge Papin a noué une alliance aux achats avec Carrefour pour renforcer le pouvoir de négociation face aux fournisseurs, remplaçant l'alliance précédente avec Auchan. Cette alliance a été notifiée à l'Autorité de la concurrence et a fait l'objet, comme les autres rapprochements de centrales, d'une enquête de l'Autorité (visites inopinées chez Carrefour et Système U documentées en 2018).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Serge_Papin",
+      "https://www.lsa-conso.fr/visite-inopinee-des-services-de-l-autorite-de-la-concurrence-chez-carrefour-et-systeme-u,396671"
+    ]
   },
   {
-    "id": "nous-epiceries-anti-gaspi-2024",
-    "entity": "NOUS Épiceries Anti-Gaspi",
-    "role": "Membre du comité de surveillance",
-    "ownership_stake": "Non déclarée",
-    "period": "depuis 10/2024",
-    "status": "En cours (déclaré HATVP)",
-    "detail": "Membre du comité de surveillance d'une enseigne de lutte contre le gaspillage alimentaire. Rémunération déclarée : 0 € (2024 et 2025).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+    "id": "auchan-retail-international-administrateur",
+    "entity": "Auchan Retail International (SA)",
+    "role": "board_member",
+    "ownership_stake": "Aucune participation au capital",
+    "period": "janvier 2023 - mai 2025",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration d'Auchan Retail International de janvier 2023 à mai 2025, rémunéré 32 500 € nets en 2024 et en 2025 (0 € en 2023) selon la déclaration d'intérêts HATVP. Mandat confirmé par l'INPI/Pappers (représentant du 17/01/2023 au 29/01/2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744",
+      "https://www.pappers.fr/dirigeant/serge_papin_1955-08",
+      "https://www.linforme.com/grande-conso/article/un-nouvel-administrateur-chez-auchan-serge-papin-l-ancien-patron-de-systeme-u_329.html"
+    ]
   },
   {
-    "id": "les-editions-du-portrait-2026",
-    "entity": "Les Éditions du Portrait",
-    "role": "Actionnaire",
-    "ownership_stake": "20,3 % (2 000 parts)",
+    "id": "auchan-france-president-non-executif",
+    "entity": "Auchan France",
+    "role": "board_member",
+    "ownership_stake": "Aucune participation au capital",
+    "period": "2024 - 2025 (jusqu'à sa nomination ministérielle)",
+    "status": "historical",
+    "detail": "Annoncé en novembre 2023 comme futur président non exécutif d'Auchan France, fonction prise courant 2024. À la suite de sa nomination comme ministre (octobre 2025), la HATVP a indiqué qu'il devait se déporter sur les sujets liés à Auchan, groupe dont il a été président non exécutif. Mandats Auchan terminés début 2025 selon l'INPI.",
+    "source_url": [
+      "https://www.lsa-conso.fr/serge-papin-futur-president-non-executif-d-auchan-france,453184",
+      "https://www.agra.fr/agra-presse/distribution-serge-papin-futur-president-non-executif-dauchan-france",
+      "https://en.wikipedia.org/wiki/Serge_Papin"
+    ]
+  },
+  {
+    "id": "finapa-gerant",
+    "entity": "FINAPA (SARL, holding patrimoniale, Paris)",
+    "role": "director",
+    "ownership_stake": "Environ 85 % du capital (pleine propriété) + 14,9 % en usufruit ; valeur déclarée ~7,1 M€",
+    "period": "depuis 1998 (dirigeant 2013-2026) ; gérant déclaré depuis 01/2019",
+    "status": "current",
+    "detail": "Holding patrimoniale de Serge Papin, gérée par lui ; rémunération de gérance d'environ 48 000 € nets par an (2019-2024), 36 000 € en 2025. Constitue l'essentiel de son patrimoine déclaré (~7,1 M€). Dividendes perçus en juillet 2025 : 293 648 € (FINAPA PP) + 51 344 € (FINAPA US). Mandat de dirigeant enregistré du 05/12/2013 au 24/04/2026 selon l'INPI/Pappers.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744",
+      "https://www.pappers.fr/dirigeant/serge_papin_1955-08",
+      "https://www.societe.com/societe/finapa-419103346.html"
+    ]
+  },
+  {
+    "id": "nous-epiceries-anti-gaspi-comite-surveillance",
+    "entity": "NOUS Épiceries Anti-Gaspi (SAS, Paris)",
+    "role": "board_member",
+    "ownership_stake": "Aucune participation au capital déclarée",
+    "period": "octobre 2024 - octobre 2025",
+    "status": "historical",
+    "detail": "Membre du comité de surveillance de NOUS Épiceries Anti-Gaspi (réseau d'épiceries franchisées de lutte contre le gaspillage alimentaire), coopté le 14 octobre 2024 en remplacement de CREADEV INTERNATIONAL, rémunération 0 €. A démissionné de ce mandat au moment de sa nomination ministérielle (déclaré jusqu'à 10/2024 ouvert sur HATVP ; INPI : représentant du 22/12/2024 au 27/10/2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744",
+      "https://www.pappers.fr/entreprise/nous-epiceries-anti-gaspi-834426991",
+      "https://www.societe.com/societe/nous-epiceries-anti-gaspi-834426991.html"
+    ]
+  },
+  {
+    "id": "mission-egalim-conseiller-gouvernement",
+    "entity": "Mission de médiation et conciliation post-EGalim (gouvernement, ministères Agriculture et Industrie)",
+    "role": "advisor",
+    "ownership_stake": "n/a",
+    "period": "octobre 2020 - mars 2021",
+    "status": "historical",
+    "detail": "Chargé par les ministres Julien Denormandie (Agriculture) et Agnès Pannier-Runacher (Industrie) d'une mission d'intérêt général de médiation et conciliation pour renforcer la loi EGalim 1, en lien avec les négociations commerciales agriculture-distribution. Après environ 60 auditions, il a remis le 25 mars 2021 un rapport assorti de 9 recommandations (dont la non-négociabilité du prix des matières premières agricoles). Avait présidé un atelier des États généraux de l'alimentation en 2017.",
+    "source_url": [
+      "https://agriculture.gouv.fr/serge-papin-remet-julien-denormandie-un-rapport-sur-la-loi-egalim-1",
+      "https://www.pleinchamp.com/actualite/negociations-commerciales-les-9-propositions-de-serge-papin",
+      "https://agriculture.gouv.fr/telecharger/125783?token=bdb0edca69836227ed9006195636c0295e64d44918bdc54a465c21bc113ea3fc"
+    ]
+  },
+  {
+    "id": "les-editions-du-portrait-actionnaire",
+    "entity": "Les Éditions du Portrait (maison d'édition)",
+    "role": "shareholder",
+    "ownership_stake": "Environ 20 % du capital (2000 parts), valeur déclarée ~15 110 €",
     "period": "déclaré 2025-2026",
-    "status": "En cours (déclaré HATVP)",
-    "detail": "Participation déclarée de 20,3 % au capital, évaluée à 15 110 €.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+    "status": "declared",
+    "detail": "Participation financière directe d'environ 20,3 % au capital de la maison d'édition Les Éditions du Portrait, déclarée à la HATVP. Aucune rémunération perçue.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"
+    ]
   },
   {
-    "id": "experts-council-2026",
-    "entity": "Experts Council",
-    "role": "Actionnaire minoritaire",
-    "ownership_stake": "0,002 % (75 parts)",
+    "id": "experts-council-actionnaire",
+    "entity": "EXPERTS COUNCIL",
+    "role": "shareholder",
+    "ownership_stake": "Participation minoritaire (75 parts), valeur déclarée ~1 489 €",
     "period": "déclaré 2025-2026",
-    "status": "En cours (déclaré HATVP)",
-    "detail": "Participation minoritaire évaluée à 1 489 €.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+    "status": "declared",
+    "detail": "Participation financière directe minoritaire dans EXPERTS COUNCIL déclarée à la HATVP (environ 0,002 % du capital). Aucune rémunération perçue.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"
+    ]
   },
   {
-    "id": "befoil-2026",
+    "id": "befoil-actionnaire",
     "entity": "BEFOIL",
-    "role": "Actionnaire minoritaire",
-    "ownership_stake": "0,67 % (1 409 parts)",
+    "role": "shareholder",
+    "ownership_stake": "Participation minoritaire (1409 parts, ~0,67 %), valeur déclarée 0 €",
     "period": "déclaré 2025-2026",
-    "status": "Procédure collective en cours (valeur déclarée 0 €)",
-    "detail": "Participation déclarée à valeur nulle, la société faisant l'objet d'une procédure collective.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+    "status": "declared",
+    "detail": "Participation financière directe minoritaire dans BEFOIL, déclarée à la HATVP. La société fait l'objet d'une procédure collective en cours (mention HATVP) ; valorisation déclarée nulle. Il s'agit d'une participation patrimoniale minoritaire, sans fonction de direction déclarée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"
+    ]
   },
   {
-    "id": "sci-indivises-gerant-2019",
-    "entity": "Trois SCI (sociétés civiles immobilières, dénominations non publiées)",
-    "role": "Gérant / cogérant",
-    "ownership_stake": "Non publiée",
-    "period": "depuis 01/2019",
-    "status": "En cours (déclaré HATVP)",
-    "detail": "Gérant d'une SCI et cogérant de deux autres SCI ; rémunérations déclarées nulles (0 € de 2019 à 2025). Dénominations non publiées par la HATVP.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+    "id": "consultant-conferencier-post-systeme-u",
+    "entity": "Activité de consultant, auteur et conférencier (indépendant)",
+    "role": "consultant",
+    "ownership_stake": "n/a",
+    "period": "2018 - 2025 (avant nomination ministérielle)",
+    "status": "historical",
+    "detail": "Après son départ de Système U en 2018, Serge Papin a exercé comme consultant, auteur et conférencier sur les transitions écologique et sociale dans la distribution, et a lancé le manifeste \"Osons Demain, pour la transition écologique des entreprises\". À noter : la déclaration d'intérêts HATVP (rubriques 1 et 2) indique \"Néant\" pour les activités professionnelles rémunérées et de consultant sur les cinq années précédentes, l'essentiel de ses revenus passant par la gérance de la holding FINAPA.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Serge_Papin",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"
+    ]
   },
   {
-    "id": "mandats-anterieurs-u-fampa-2019",
-    "entity": "U Centrale Export, FAMPA, TSA Telemarket, LA PREE",
-    "role": "Administrateur / cogérant / directeur général (mandats antérieurs)",
-    "ownership_stake": "Non déclarée",
-    "period": "2019-2021",
-    "status": "Anciens (mandats échus)",
-    "detail": "Anciens mandats déclarés au titre des cinq dernières années : administrateur d'U Centrale Export (2019-2020), cogérant de FAMPA (2019-2021), administrateur de TSA Telemarket (2019-2021), directeur général de LA PREE (01-03/2019, 6 096 € nets).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=papin-serge-29744"]
+    "id": "ministre-pme-commerce",
+    "entity": "Ministère des PME, du Commerce, de l'Artisanat, du Tourisme et du Pouvoir d'achat (gouvernement Lecornu II)",
+    "role": "none",
+    "ownership_stake": "n/a (fonction publique)",
+    "period": "depuis le 12 octobre 2025",
+    "status": "current",
+    "detail": "Nommé ministre des Petites et Moyennes Entreprises, du Commerce, de l'Artisanat, du Tourisme et du Pouvoir d'achat le 12 octobre 2025 dans le second gouvernement de Sébastien Lecornu. La HATVP a demandé qu'il se déporte des sujets liés à Auchan.",
+    "source_url": [
+      "https://www.economie.gouv.fr/ministres/serge-papin",
+      "https://www.info.gouv.fr/personnalite/serge-papin",
+      "https://www.lemonde.fr/economie/article/2025/10/13/serge-papin-l-ex-patron-de-systeme-u-nomme-ministre-des-petites-et-moyennes-entreprises_6646043_3234.html"
+    ]
   }
 ]

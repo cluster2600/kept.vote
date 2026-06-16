@@ -1,12 +1,156 @@
 [
   {
-    "id": "sci-santa-villa-lucia",
-    "entity": "SCI Santa Villa Lucia",
-    "role": "Associée (détentrice de parts)",
-    "ownership_stake": "Parts déclarées à hauteur de 583 000 EUR",
-    "period": "n.c. – à la date de la déclaration 2026",
-    "status": "declared_hatvp",
-    "detail": "Société civile immobilière propriétaire d'une maison à Sainte-Maxime (Var) valorisée environ 1,2 M€. Vecteur de détention immobilière patrimoniale.",
-    "source_url": ["https://vert.eco/rapports-de-force/airbus-bnp-sanofi-zara-monique-barbut-ministre-de-lecologie-est-actionnaire-de-dizaines-de-grandes-entreprises/"]
+    "id": "veolia-environnement",
+    "entity": "Veolia Environnement",
+    "role": "consultant",
+    "ownership_stake": null,
+    "period": "01/2023 - 12/2024",
+    "status": "historical",
+    "detail": "Activité de consultant déclarée à la HATVP: participation à des groupes de réflexion pour Veolia Environnement. Rémunération nette déclarée: 2 500 € en 2023 et 3 000 € en 2024. Il ne s'agissait pas d'un mandat au conseil d'administration. Cette relation passée avec un grand groupe privé de l'eau/déchets est notée compte tenu de ses fonctions actuelles de ministre de la Transition écologique.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743",
+      "https://www.hatvp.fr/livraison/dossiers/barbut-monique-dim34788-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "wwf-france",
+    "entity": "WWF France",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "09/2021 - 09/2023",
+    "status": "historical",
+    "detail": "Présidente du WWF France (organisation non gouvernementale de protection de l'environnement). Fonction bénévole déclarée à la HATVP, rémunération nette déclarée 0 € (2021, 2022, 2023).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743",
+      "https://vert.eco/articles/ancienne-presidente-du-wwf-negociatrice-sur-le-climat-qui-est-monique-barbut-la-nouvelle-ministre-de-la-transition-ecologique"
+    ]
+  },
+  {
+    "id": "ethifinance",
+    "entity": "EthiFinance",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "04/2021 - 10/2025",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration d'EthiFinance (agence de notation extra-financière / ESG). Démission le 13 octobre 2025 (au moment de l'entrée au gouvernement). Rémunérations nettes déclarées à la HATVP: 12 000 € (2021), 12 000 € (2022), 12 000 € (2023), 9 000 € (2024), 0 € (2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743",
+      "https://www.ethifinance.com/governance-bodies/"
+    ]
+  },
+  {
+    "id": "greenback",
+    "entity": "Greenback",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "04/2022 - 10/2025",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration de Greenback. Démission en octobre 2025. Rémunérations nettes déclarées à la HATVP: 14 286 € (2022), 14 286 € (2023), 14 286 € (2024), 0 € (2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743",
+      "https://www.hatvp.fr/livraison/dossiers/barbut-monique-dim34788-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "abi",
+    "entity": "ABI",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "01/2022 - 10/2025",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration d'ABI. Démission en octobre 2025. Rémunérations nettes déclarées à la HATVP: 21 037 € (2022), 21 037 € (2023), 21 037 € (2024), 14 859 € (2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743",
+      "https://www.hatvp.fr/livraison/dossiers/barbut-monique-dim34788-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "sc-barbut-2022",
+    "entity": "SC BARBUT 2022",
+    "role": "director",
+    "ownership_stake": "50% (usufruit)",
+    "period": "12/2022 - en cours",
+    "status": "declared",
+    "detail": "Société civile familiale. Cogérante déclarée à la HATVP (rémunération 0 €). Détention de 50% du capital en usufruit, valeur vénale des parts déclarée 8 775 €; compte courant d'associé déclaré à 554 164 €.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743"
+    ]
+  },
+  {
+    "id": "sci-familiale",
+    "entity": "SCI familiale (dénomination non publiée par la HATVP)",
+    "role": "director",
+    "ownership_stake": "42-43% du capital",
+    "period": "12/2020 - en cours",
+    "status": "declared",
+    "detail": "Société civile immobilière familiale (nom non publié par la HATVP). Cogérante déclarée (rémunération 0 €). Détention d'environ 42-43% du capital, valeur vénale des parts déclarée 583 000 €. La SCI détient une maison individuelle dans le Var (dép. 83).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743"
+    ]
+  },
+  {
+    "id": "presidence-republique-envoyee-speciale",
+    "entity": "Présidence de la République (Envoyée spéciale)",
+    "role": "advisor",
+    "ownership_stake": null,
+    "period": "2019 - 10/2025",
+    "status": "historical",
+    "detail": "Envoyée spéciale du Président de la République pour la biodiversité, puis pour l'agenda global climat et environnement (fonction bénévole déclarée à la HATVP). Nommée en 2019 dans le cadre du One Planet Summit. Démission en octobre 2025 lors de son entrée au gouvernement.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=barbut-monique-29743",
+      "https://vert.eco/articles/ancienne-presidente-du-wwf-negociatrice-sur-le-climat-qui-est-monique-barbut-la-nouvelle-ministre-de-la-transition-ecologique"
+    ]
+  },
+  {
+    "id": "unccd",
+    "entity": "Convention des Nations Unies sur la lutte contre la désertification (UNCCD)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "10/2013 - 02/2019",
+    "status": "historical",
+    "detail": "Secrétaire exécutive de la Convention des Nations Unies sur la lutte contre la désertification (UNCCD), du 1er octobre 2013 au 5 février 2019. Poste de haut fonctionnaire international (rang de sous-secrétaire générale de l'ONU).",
+    "source_url": [
+      "https://www.unccd.int/convention/who-is-who/unccd-staff/monique-barbut",
+      "https://en.wikipedia.org/wiki/Monique_Barbut"
+    ]
+  },
+  {
+    "id": "gef",
+    "entity": "Fonds pour l'environnement mondial (Global Environment Facility, GEF)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "2006 - 2012",
+    "status": "historical",
+    "detail": "Présidente-directrice générale (CEO et Chairperson) du Fonds pour l'environnement mondial (GEF), de 2006 à 2012, avec rang de vice-présidente de la Banque mondiale.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Monique_Barbut",
+      "https://www.unccd.int/convention/who-is-who/unccd-staff/monique-barbut"
+    ]
+  },
+  {
+    "id": "unep",
+    "entity": "Programme des Nations Unies pour l'environnement (UNEP/PNUE)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "2003 - 2006",
+    "status": "historical",
+    "detail": "Directrice de la Division de la technologie, de l'industrie et de l'économie (DTIE) du Programme des Nations Unies pour l'environnement (PNUE/UNEP), de 2003 à 2006.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Monique_Barbut",
+      "https://www.unccd.int/convention/who-is-who/unccd-staff/monique-barbut"
+    ]
+  },
+  {
+    "id": "afd",
+    "entity": "Agence Française de Développement (AFD)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "1981 - 2003",
+    "status": "historical",
+    "detail": "Carrière à l'Agence Française de Développement (AFD), où elle a occupé plusieurs postes de direction de 1981 à 2003, notamment sur le financement de projets de développement durable et les départements et territoires d'outre-mer. Membre de la délégation française au Sommet de la Terre de Rio en 1992.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Monique_Barbut",
+      "https://vert.eco/articles/ancienne-presidente-du-wwf-negociatrice-sur-le-climat-qui-est-monique-barbut-la-nouvelle-ministre-de-la-transition-ecologique"
+    ]
   }
 ]

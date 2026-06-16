@@ -1,12 +1,92 @@
 [
   {
-    "id": "stephanie-rist-co-1",
-    "entity": "Aucune participation financière au capital d'une société déclarée",
-    "role": "néant",
-    "ownership_stake": "0 %",
-    "period": "à la date de la nomination (2025-2026)",
-    "status": "déclaré (néant)",
-    "detail": "La déclaration d'intérêts et la déclaration de situation patrimoniale de Stéphanie Rist auprès de la HATVP ne mentionnent aucune participation financière directe dans le capital d'une société, aucune part de société civile immobilière, ni aucune valeur mobilière non cotée. Aucune activité de consultant n'est déclarée. Ses participations à des organes dirigeants (conseil d'administration de l'ARS Centre-Val de Loire, conseil de surveillance du CHU d'Orléans) sont des fonctions publiques non rémunérées, figurant dans le fichier work_history.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"]
+    "id": "chr-chu-orleans-rhumatologie",
+    "entity": "Centre Hospitalier Régional / CHU d'Orléans (service de rhumatologie)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "Until 2024-2025 (attachée de rhumatologie, part-time; declared continuously 2019-2025); former cheffe de pôle",
+    "status": "historical",
+    "detail": "Rheumatologist (rhumatologue) employed part-time as 'attachée de rhumatologie' at the CHR/CHU d'Orléans, where she was previously head of department (cheffe de pôle). Declared in her HATVP declaration of interests as a salaried professional activity (activité professionnelle rémunérée), with modest net annual compensation ranging roughly from 2,304 EUR to 4,648 EUR per year between 2019 and 2025. This is professional medical employment, not a corporate ownership stake.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie",
+      "https://www.hatvp.fr/livraison/dossiers/rist-stephanie-di34829-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "assemblee-nationale-deputee-loiret",
+    "entity": "Assemblée nationale (députée, 1re circonscription du Loiret)",
+    "role": "none",
+    "ownership_stake": "none",
+    "period": "2017-2025 (mandate as MP; declared 01/2022-10/2025 in current HATVP file, prior mandate from 2017)",
+    "status": "historical",
+    "detail": "Member of Parliament (députée) for the 1st constituency of Loiret, Renaissance/LREM group, member of the commission des affaires sociales. This is an elective public mandate, not a company affiliation; included for completeness. Declared parliamentary indemnity in HATVP file (e.g. ~84,737 EUR net in 2022). She left the seat upon her appointment as Minister of Health on 12 October 2025.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie",
+      "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720066"
+    ]
+  },
+  {
+    "id": "mandats-locaux-orleans-metropole",
+    "entity": "Ville d'Orléans / Orléans Métropole (mandats locaux)",
+    "role": "none",
+    "ownership_stake": "none",
+    "period": "2020-2025 (conseillère municipale d'Orléans and conseillère d'Orléans Métropole)",
+    "status": "historical",
+    "detail": "Local elective mandates declared in the HATVP file: municipal councillor of Orléans and councillor of Orléans Métropole, with modest councillor indemnities (roughly 945-2,898 EUR/year across 2020-2025). Public elective functions, not corporate affiliations; included for completeness.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"
+    ]
+  },
+  {
+    "id": "ars-centre-val-de-loire-conseil-administration",
+    "entity": "Agence Régionale de Santé (ARS) Centre-Val de Loire",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "02/2025-10/2025",
+    "status": "historical",
+    "detail": "Seat on the board of directors (conseil d'administration) of the ARS Centre-Val de Loire, declared under 'participations aux organes dirigeants d'un organisme public ou privé' in the HATVP declaration of interests. Unpaid (0 EUR declared). Public-body governance role.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"
+    ]
+  },
+  {
+    "id": "chu-orleans-conseil-surveillance",
+    "entity": "CHU d'Orléans (conseil de surveillance)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "11/2024-10/2025",
+    "status": "historical",
+    "detail": "Seat on the supervisory board (conseil de surveillance) of the CHU d'Orléans, declared under 'participations aux organes dirigeants' in the HATVP declaration of interests. Unpaid (0 EUR declared). Public hospital governance role.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"
+    ]
+  },
+  {
+    "id": "auto-entreprise-formation-medicale",
+    "entity": "Auto-entreprise (micro-entreprise) de formation / communication médicale",
+    "role": "founder",
+    "ownership_stake": "sole proprietorship (auto-entreprise)",
+    "period": "Before her election as MP (her account: pre-2017; pharma links documented 2012-2018)",
+    "status": "historical",
+    "detail": "By her own account to the press, Rist set up an auto-entreprise (micro-entreprise) through which, as a rheumatologist, she carried out paid training sessions (formations) and conference reporting/'journalism' for which pharmaceutical laboratories were among the funders. She stated these activities predated her parliamentary mandate and that she received no further sums from laboratories after becoming a deputy. Note: her current HATVP declaration of interests records 'Néant' (none) for both consulting activities (2°) and direct financial participations in a company's capital (4°) over the five-year reporting window, consistent with these activities pre-dating that window.",
+    "source_url": [
+      "https://www.magcentre.fr/166335-pharmapapers-la-deputee-stephanie-rist-loiret-championne-des-liens-avec-les-labos-pharmaceutiques/",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rist-stephanie"
+    ]
+  },
+  {
+    "id": "liens-industrie-pharmaceutique-transparence-sante",
+    "entity": "Liens d'intérêts avec l'industrie pharmaceutique (laboratoires) — base Transparence Santé / EurosForDocs",
+    "role": "consultant",
+    "ownership_stake": "none",
+    "period": "2012-2018 (avantages/contrats disclosed on Transparence Santé)",
+    "status": "historical",
+    "detail": "SENSITIVE / PHARMA LINK. According to the 'Pharmapapers' investigation (Basta!/Observatoire des multinationales, drawing on the public Transparence Santé database) Rist was the député-médecin with the most disclosed ties to pharmaceutical laboratories: about 309 disclosed links/contracts ('liens d'intérêts') with the pharmaceutical industry between 2012 and 2018, for declared 'avantages' totalling roughly 40,196 EUR (48 of the contracts had undisclosed amounts). An earlier 2017 local-press figure cited ~22,000 EUR over 2012-2016. These were paid training/communication and congress-reporting activities (see auto-entreprise entry). They are legal, publicly disclosed declarations of interest, not allegations of wrongdoing; Rist has stated she sees no conflict of interest because the funding came from multiple laboratories and that she received nothing from laboratories after becoming an MP. The links resurfaced as a political controversy upon her October 2025 appointment as Minister of Health. Presumption of integrity applies; these are disclosed financial relationships, not findings of any breach.",
+    "source_url": [
+      "https://www.magcentre.fr/166335-pharmapapers-la-deputee-stephanie-rist-loiret-championne-des-liens-avec-les-labos-pharmaceutiques/",
+      "https://www.bastamag.net/webdocs/pharmapapers/l-argent-de-l-influence/loi-de-financement-de-la-secu-les-deputes-medecins-votent-ils-sous-l-influence-des-labos/",
+      "https://www.ici.fr/centre-val-de-loire/loiret-45/une-polemique-ressurgit-sur-les-liens-de-stephanie-rist-nouvelle-ministre-de-la-sante-avec-l-industrie-pharmaceutique-7992473",
+      "https://www.eurosfordocs.fr/"
+    ]
   }
 ]

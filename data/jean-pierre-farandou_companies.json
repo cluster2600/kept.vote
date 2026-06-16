@@ -1,51 +1,155 @@
 [
   {
-    "id": "sncf-president",
-    "entity": "SNCF (Société nationale SNCF)",
-    "role": "Président du groupe (président-directeur général / président du directoire)",
-    "ownership_stake": "Aucune (entreprise publique, dirigeant salarié)",
-    "period": "2019-2025",
-    "status": "former",
-    "detail": "Dirigeant exécutif de l'entreprise publique SNCF, sans participation au capital. Devenu ministre, il se déporte de tous les dossiers liés aux sociétés du groupe SNCF.",
+    "id": "sncf-pdg-president",
+    "entity": "SNCF (SA SNCF / Groupe SNCF)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2019-11 to 2025-10",
+    "status": "historical",
+    "detail": "Président-directeur général (PDG) du groupe SNCF, après avoir été président du directoire à compter du 1er novembre 2019. Nommé par décret du 9 octobre 2019 (succédant à Guillaume Pepy) puis confirmé comme PDG sous la nouvelle gouvernance en SA. Fonctions exercées de 01/2020 à 10/2025 selon sa déclaration d'intérêts HATVP (rémunérations nettes annuelles déclarées d'environ 380 000 a 393 000 €). A quitté la fonction lors de sa nomination comme ministre du Travail le 13 octobre 2025.",
     "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=farandou-jean-pierre-2876",
       "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039196530",
-      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
     ]
   },
   {
     "id": "keolis-president-directoire",
-    "entity": "Keolis (filiale du groupe SNCF)",
-    "role": "Président du directoire",
-    "ownership_stake": "Aucune",
-    "period": "2012-2019",
-    "status": "former",
-    "detail": "Dirigeant exécutif de Keolis, opérateur de transport public, filiale de la SNCF.",
+    "entity": "Keolis",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2012-08 to 2019-11",
+    "status": "historical",
+    "detail": "Président du directoire de Keolis (filiale du groupe SNCF, opérateur de transport public urbain et interurbain en France et a l'international) d'aout 2012 a novembre 2019, soit environ sept ans. Selon ses propres déclarations devant l'Assemblée nationale, le chiffre d'affaires du groupe a augmenté d'environ 70 % et l'EBITDA a doublé durant son mandat.",
     "source_url": [
-      "https://en.wikipedia.org/wiki/Jean-Pierre_Farandou"
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou",
+      "https://www.usinenouvelle.com/article/jean-pierre-farandou-patron-de-keolis-choisi-pour-diriger-la-sncf.N885704",
+      "https://fr.wikipedia.org/wiki/Jean-Pierre_Farandou"
     ]
   },
   {
-    "id": "la-poste-administrateur",
+    "id": "sncf-directeur-general-delegue",
+    "entity": "Groupe SNCF",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2012 to 2019",
+    "status": "historical",
+    "detail": "Directeur général délégué du groupe SNCF, fonction exercée parallèlement a la présidence du directoire de Keolis a partir de 2012.",
+    "source_url": [
+      "https://www.usinenouvelle.com/article/jean-pierre-farandou-patron-de-keolis-choisi-pour-diriger-la-sncf.N885704",
+      "https://fr.wikipedia.org/wiki/Jean-Pierre_Farandou"
+    ]
+  },
+  {
+    "id": "sncf-proximites-directeur",
+    "entity": "SNCF Proximités",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2006-10 to 2012",
+    "status": "historical",
+    "detail": "Directeur de la branche SNCF Proximités, créée et dirigée au sein du comité exécutif de la SNCF, regroupant Transilien, TER, Intercités et le groupe Keolis/Effia. Nommé en octobre 2006.",
+    "source_url": [
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou",
+      "https://fr.wikipedia.org/wiki/Jean-Pierre_Farandou"
+    ]
+  },
+  {
+    "id": "keolis-lyon-directeur-general",
+    "entity": "Keolis Lyon",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2000s (avant 2006)",
+    "status": "historical",
+    "detail": "Directeur général de Keolis Lyon, opérateur des bus, métros et tramways lyonnais, apres avoir dirigé la région SNCF Rhone-Alpes.",
+    "source_url": [
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "sncf-rhone-alpes-directeur-region",
+    "entity": "SNCF Region Rhone-Alpes",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "annees 2000 (avant Keolis Lyon)",
+    "status": "historical",
+    "detail": "Directeur de la région SNCF Rhone-Alpes, dont le réseau TER était le plus important de France.",
+    "source_url": [
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "thalys-international-dg",
+    "entity": "Thalys International",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "1993 to 1998",
+    "status": "historical",
+    "detail": "A créé a Bruxelles la structure juridique de Thalys International et en a assuré la direction générale de 1993 a 1998 (lancement de la liaison TGV Thalys).",
+    "source_url": [
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "sncf-debut-carriere",
+    "entity": "SNCF",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "1981 to 2019",
+    "status": "historical",
+    "detail": "Entré a la SNCF en 1981 apres avoir travaillé pour la compagnie minière américaine Amax a Denver (Colorado). A occupé divers postes de responsable Production et Marketing, chef de projet pour le lancement du TGV Paris-Lille en 1993, directeur des Cadres RH (1998-2000) et directeur adjoint Grandes Lignes (2000-2002).",
+    "source_url": [
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "la-poste-membre-ca",
     "entity": "Groupe La Poste",
-    "role": "Administrateur",
-    "ownership_stake": "Aucune",
-    "period": "2025",
-    "status": "former",
-    "detail": "Mandat d'administrateur du groupe La Poste. Devenu ministre, il se déporte des dossiers liés aux sociétés du groupe La Poste.",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "2025-06 to 2025-10",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration du Groupe La Poste de juin 2025 a octobre 2025, sans rémunération (0 € déclaré). Fonction déclarée dans sa déclaration d'intérêts HATVP. Apres sa nomination ministérielle, les dossiers relatifs au groupe La Poste ont été retirés de ses attributions par décret de déport (confiés au Premier ministre).",
     "source_url": [
-      "https://www.ville-rail-transports.com/politique-transports/jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf/"
+      "https://www.hatvp.fr/fiche-nominative/?declarant=farandou-jean-pierre-2876",
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
     ]
   },
   {
-    "id": "uside",
-    "entity": "Uside",
-    "role": "Lien d'intérêt déclaré (déport ministériel)",
-    "ownership_stake": "Non précisé publiquement",
-    "period": "Antérieur à 2025",
-    "status": "recused",
-    "detail": "Le décret organisant le déport du ministre mentionne expressément Uside parmi les entités dont il ne traitera pas les dossiers. La nature exacte du lien n'est pas détaillée publiquement.",
+    "id": "fer-de-france-president",
+    "entity": "Fer de France (association)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "2023-01 to 2025-12",
+    "status": "historical",
+    "detail": "Président de l'association Fer de France, qui fédère les acteurs de la filière ferroviaire francaise (autorités organisatrices, gestionnaires d'infrastructures, industriels, opérateurs, sociétés d'ingénierie). Elu pour trois ans en février 2023. Fonction bénévole (0 € déclaré) figurant dans sa déclaration d'intérêts HATVP. Dossiers relatifs a Fer de France retirés de ses attributions par décret de déport apres sa nomination ministérielle.",
     "source_url": [
-      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-ministre-du-travail-et-des-solidarites-jean-pierre-farandou-se-deporte-des-dossiers-lies-a-la-sncf-et-la-poste_7609559.html"
+      "https://www.hatvp.fr/fiche-nominative/?declarant=farandou-jean-pierre-2876",
+      "https://www.groupe-sncf.com/fr/groupe/gouvernance/anciens-presidents/jean-pierre-farandou"
+    ]
+  },
+  {
+    "id": "gfv-participation",
+    "entity": "GFV (groupement foncier viticole)",
+    "role": "shareholder",
+    "ownership_stake": "2000 parts (env. 20 000 €) ; 2,7 % du capital en nue-propriete",
+    "period": "declared 2025/2026",
+    "status": "declared",
+    "detail": "Participation financière directe déclarée a la HATVP : 2000 parts évaluées a 20 000 € dans un GFV (groupement foncier viticole), détenues en nue-propriété (2,7 % du capital social), avec un revenu de 472 € l'année précédente. Nom de la société non publié par la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=farandou-jean-pierre-2876"
+    ]
+  },
+  {
+    "id": "ministre-travail-solidarites",
+    "entity": "Ministere du Travail et des Solidarites (Gouvernement Lecornu II)",
+    "role": "none",
+    "ownership_stake": "none",
+    "period": "2025-10-13 to present",
+    "status": "current",
+    "detail": "Ministre du Travail et des Solidarités dans le second gouvernement de Sébastien Lecornu, nommé le 12-13 octobre 2025 (succédant a Catherine Vautrin). Fonction publique gouvernementale, mentionnée pour completude de l'historique d'affiliation.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/jean-pierre-farandou",
+      "https://solidarites.gouv.fr/biographie-de-jean-pierre-farandou"
     ]
   }
 ]

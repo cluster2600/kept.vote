@@ -1,1 +1,270 @@
-[]
+[
+  {
+    "id": "conseil-etat",
+    "entity": "Conseil d'État",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2005-2012; 2020-2025 (conseiller d'État since Sept. 2020; assesseur 1ère chambre, section du contentieux, Aug. 2024 - Oct. 2025)",
+    "status": "historical",
+    "detail": "Career member of the Conseil d'État: auditeur (2005), rapporteur, then conseiller d'État. On return from DGESCO he served as assessor to the 1st chamber (santé, social, urbanisme) of the litigation section from Aug. 2024 until his ministerial appointment in Oct. 2025. Public-sector judicial/advisory body, not a commercial entity.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf",
+      "https://en.wikipedia.org/wiki/%C3%89douard_Geffray"
+    ]
+  },
+  {
+    "id": "cnil-secretaire-general",
+    "entity": "Commission nationale de l'informatique et des libertés (CNIL)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2012-2017",
+    "status": "historical",
+    "detail": "Secretary-General of the CNIL, the French data-protection authority, overseeing legal, international and expertise affairs. Independent administrative authority (public sector).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/%C3%89douard_Geffray",
+      "https://www.whoswho.fr/biographie/edouard-geffray-19752"
+    ]
+  },
+  {
+    "id": "dgesco",
+    "entity": "Direction générale de l'enseignement scolaire (DGESCO) / Ministère de l'Éducation nationale",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2017-2019 (DGRH); 2019-2024 (DGESCO)",
+    "status": "historical",
+    "detail": "Director-General of Human Resources of the Ministry of National Education (Sept. 2017 - July 2019), then Director-General of School Education (DGESCO) (Aug. 2019 - July 2024). Senior public administration role; salaried by the ministry.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf",
+      "https://en.wikipedia.org/wiki/%C3%89douard_Geffray"
+    ]
+  },
+  {
+    "id": "ena-formateur",
+    "entity": "École nationale d'administration (ENA)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2019-2025",
+    "status": "historical",
+    "detail": "Paid teaching activity (cours de légistique et de culture générale) declared to HATVP; modest annual net amounts (1,322 - 9,665 EUR/year).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "sciences-po-enseignement",
+    "entity": "Institut d'études politiques de Paris (Sciences Po)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "Feb. 2025 - June 2025",
+    "status": "historical",
+    "detail": "Paid teaching activity declared to HATVP (1,464 EUR net in 2025).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "unss",
+    "entity": "Union nationale du sport scolaire (UNSS)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member and President of the conseil d'administration (in the minister's absence) by virtue of his DGESCO role. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "aefe",
+    "entity": "Agence pour l'enseignement du français à l'étranger (AEFE)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration as representative of the Ministry of Education. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "cned",
+    "entity": "Centre national d'enseignement à distance (CNED)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "onisep",
+    "entity": "Office national d'information sur les enseignements et les professions (ONISEP)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "reseau-canope",
+    "entity": "Réseau Canopé",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "france-education-international",
+    "entity": "France Éducation International",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "insep",
+    "entity": "Institut national du sport, de l'expertise et de la performance (INSEP)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio representative of the Ministry of Education on the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "agence-nationale-du-sport",
+    "entity": "Agence nationale du sport",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "health-data-hub",
+    "entity": "Health Data Hub",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "gip-france-enfance-protegee",
+    "entity": "GIP France Enfance Protégée",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "cnc",
+    "entity": "Centre national du cinéma et de l'image animée (CNC)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'administration. Unremunerated. Geffray also led a CNC/Education/Culture mission on the 'Ma classe au cinéma' scheme and submitted a report on film education in schools (Sept. 2025).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf",
+      "https://en.wikipedia.org/wiki/%C3%89douard_Geffray"
+    ]
+  },
+  {
+    "id": "pass-culture-comite-strategique",
+    "entity": "Pass Culture (comité stratégique)",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "2022-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the strategic committee on proposal of the State. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "institut-francais",
+    "entity": "Institut français",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Ex-officio member of the conseil d'orientation stratégique as representative of the Minister of Education. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "other-ex-officio-dgesco-board-seats",
+    "entity": "Other ex-officio conseil d'administration seats held as DGESCO (CNSA, CEREQ, France compétences (suppléant), COET-MOF, Cn2r, Fondation de la Résistance, ONACVG, Établissement public du Palais de la Porte Dorée, Ordre de la Libération)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2024",
+    "status": "historical",
+    "detail": "Group of additional unremunerated ex-officio public-establishment board memberships held by virtue of the DGESCO function, all declared to HATVP with 0 EUR remuneration. Listed together for completeness.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "cnes-comite-ethique",
+    "entity": "Centre national d'études spatiales (CNES)",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "declared (as of Nov. 2025 declaration)",
+    "status": "declared",
+    "detail": "President of the CNES ethics committee, declared as a bénévole (volunteer) function liable to give rise to a conflict of interest. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "gendarmerie-reserve-citoyenne",
+    "entity": "Gendarmerie nationale (réserve citoyenne)",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "declared (as of Nov. 2025 declaration)",
+    "status": "declared",
+    "detail": "Member of the citizen reserve of the Gendarmerie nationale, declared as a bénévole function. Unremunerated.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "credit-agricole-shares",
+    "entity": "Crédit Agricole",
+    "role": "shareholder",
+    "ownership_stake": "62 parts (96 EUR dividend in prior year)",
+    "period": "declared (as of Nov. 2025 declaration)",
+    "status": "declared",
+    "detail": "Direct financial participation declared to HATVP: 62 shares/parts of Crédit Agricole. Minor passive holding; the only declared direct equity participation.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/geffray-edouard-di34895-gouvernement.pdf"
+    ]
+  }
+]

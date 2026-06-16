@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "id": "ministere-culture",
+    "entity": "Ministère de la Culture (Gouvernement français)",
+    "role": "none",
+    "ownership_stake": "",
+    "period": "depuis le 26 février 2026",
+    "status": "current",
+    "detail": "Nommée ministre de la Culture par le président Emmanuel Macron le 26 février 2026, dans le gouvernement Sébastien Lecornu, succédant à Rachida Dati. À l'occasion de cette nomination, sa déclaration de situation patrimoniale et sa déclaration d'intérêts ont été déposées auprès de la HATVP, leur publication restant à venir au moment de la nomination.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard",
+      "https://www.hatvp.fr/presse/publication-des-declarations-des-membres-et-anciens-membres-du-gouvernement/",
+      "https://variety.com/2026/film/global/catherine-pegard-france-culture-minister-rachida-dati-1236673764/"
+    ]
+  },
+  {
+    "id": "etablissement-public-versailles",
+    "entity": "Établissement public du château, du musée et du domaine national de Versailles",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2 octobre 2011 – 3 mars 2024",
+    "status": "historical",
+    "detail": "Présidente de l'Établissement public de Versailles, nommée par le conseil des ministres le 31 août 2011 (entrée en fonction le 2 octobre 2011), succédant à Jean-Jacques Aillagon. Elle a exercé trois mandats — le maximum statutaire — puis est demeurée à titre intérimaire au-delà de la fin officielle de son mandat (mars 2021/octobre 2022), situation critiquée par la Cour des comptes. Remplacée par Christophe Leribault en mars 2024.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard",
+      "https://www.franceinfo.fr/culture/patrimoine/chateau-de-versailles/la-cour-des-comptes-critique-le-maintien-de-catherine-pegard-a-la-tete-du-chateau-de-versailles-apres-trois-mandats_6169620.html",
+      "https://www.chateauversailles.fr/"
+    ]
+  },
+  {
+    "id": "elysee-conseiller-sarkozy",
+    "entity": "Présidence de la République (Élysée) — cabinet de Nicolas Sarkozy",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "2007–2011",
+    "status": "historical",
+    "detail": "Conseillère du président Nicolas Sarkozy à partir de mai 2007. À compter de mars 2008, elle a dirigé le 'pôle politique' nouvellement créé à l'Élysée, regroupant les plus proches collaborateurs du président, et a ensuite été chargée des questions culturelles. Sa nomination, en tant qu'ancienne rédactrice en chef d'un grand hebdomadaire, avait suscité une controverse sur les relations entre presse et pouvoir.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard",
+      "https://www.francebleu.fr/infos/politique/remaniement-qui-est-catherine-pegard-l-ancienne-presidente-du-chateau-de-versailles-nommee-ministre-de-la-culture-5658326"
+    ]
+  },
+  {
+    "id": "le-point",
+    "entity": "Le Point (hebdomadaire)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "1982–2007",
+    "status": "historical",
+    "detail": "Journaliste politique au Point à partir de 1982, spécialisée dans l'actualité parlementaire. Adjointe de Denis Jeambar à partir de 1988, puis rédactrice en chef à partir de 1995 (après le départ de Jeambar pour Europe 1) jusqu'à son départ en 2007. Elle y tenait un 'Carnet politique' hebdomadaire.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard",
+      "https://www.francebleu.fr/infos/politique/remaniement-qui-est-catherine-pegard-l-ancienne-presidente-du-chateau-de-versailles-nommee-ministre-de-la-culture-5658326"
+    ]
+  },
+  {
+    "id": "le-quotidien-de-paris",
+    "entity": "Le Quotidien de Paris",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "1978–1982",
+    "status": "historical",
+    "detail": "Journaliste couvrant la vie politique au Quotidien de Paris au début de sa carrière, avant de rejoindre Le Point.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard"
+    ]
+  },
+  {
+    "id": "radio-classique-paris-premiere",
+    "entity": "Radio Classique / Paris Première (chroniques)",
+    "role": "consultant",
+    "ownership_stake": "",
+    "period": "années 2000 (jusqu'en 2007)",
+    "status": "historical",
+    "detail": "Parallèlement à sa carrière à la presse écrite, elle commentait l'actualité politique sur Radio Classique (avec Jean-Marc Lech) et a co-animé, à partir d'octobre 2004, l'émission 'Les Femmes et les Patrons d'abord' sur Paris Première aux côtés d'Alexandra Golovanoff.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Catherine_P%C3%A9gard"
+    ]
+  }
+]
