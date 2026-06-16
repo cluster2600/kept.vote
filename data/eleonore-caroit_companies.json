@@ -1,12 +1,99 @@
 [
   {
-    "id": "lawyer-independent-practice",
-    "entity": "Independent legal practice (avocate indépendante)",
-    "role": "Independent lawyer",
-    "ownership_stake": "none declared",
-    "period": "2022–",
+    "id": "eleonore-caroit",
+    "entity": "Mourre, Chessa, Le Lay Arbitration (MCL Arbitration, ex-Mourre Gutiérrez Chessa / MGC)",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "2022-present (non-practicing)",
+    "status": "historical",
+    "detail": "Partner ('associée') of the arbitration boutique. Since her election as deputy on 19 June 2022 she has been removed ('omise') from the Paris bar roll and from her participation in the AARPI (French professional partnership) and all firm activities. Per the firm and her HATVP declaration of interests, while removed she does not contribute to the firm's charges or profits, does not take part in professional work and has no access to files; she declared 0 EUR net income from this in 2023 and 2024. International arbitration counsel for more than ten years prior.",
+    "source_url": [
+      "https://mcl-arbitration.com/team/eleonore-caroit/",
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
+  },
+  {
+    "id": "eleonore-caroit",
+    "entity": "Independent lawyer / AARPI (Association d'Avocats à Responsabilité Professionnelle Individuelle) de droit français",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "01/2022-present",
     "status": "declared",
-    "detail": "Self-employed practice as an independent lawyer registered to the bars of Paris, New York and Geneva. HATVP declares no direct financial participation in the capital of any company (item 4: Néant).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=caroit-eleonore-24320"]
+    "detail": "Declared activity in her HATVP declaration of interests: independent lawyer ('avocate indépendante'). In 2022 she practiced as a partner based abroad of a French-law AARPI; per the partnership's statutes she did not participate in its charges or profits. Declared income: 40,169 EUR net in 2022, 0 EUR in 2023, 0 EUR in 2024. This corresponds to her non-practicing partnership at the MCL/MGC arbitration firm.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
+  },
+  {
+    "id": "eleonore-caroit",
+    "entity": "Bastion Avocats",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "08/2020-12/2021",
+    "status": "historical",
+    "detail": "Salaried lawyer ('avocate salariée') as declared in her HATVP declaration of interests. Declared income: 43,809 EUR net in 2020 and 113,400 EUR net in 2021.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
+  },
+  {
+    "id": "eleonore-caroit",
+    "entity": "LALIVE SA",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "01/2018-03/2020",
+    "status": "historical",
+    "detail": "Salaried lawyer ('avocate salariée') at the Geneva-based international law firm LALIVE, as declared in her HATVP declaration of interests. Declared income: 126,250 EUR net (2018), 129,588 EUR net (2019), 34,347 EUR net (2020).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
+  },
+  {
+    "id": "eleonore-caroit",
+    "entity": "Agence Française de Développement (AFD)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "09/2022-present",
+    "status": "declared",
+    "detail": "Member of the board of directors ('membre du Conseil d'Administration'). Appointed administrator of the AFD by the President of the National Assembly in her capacity as deputy during her first mandate; re-appointed in April 2023 after her re-election. Declared remuneration: 0 EUR (2022, 2023).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
+  },
+  {
+    "id": "eleonore-caroit",
+    "entity": "Business France",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "03/2024-06/2024",
+    "status": "historical",
+    "detail": "Member of the board of directors ('membre du conseil d'administration') as declared in her HATVP declaration of interests. Declared remuneration: 0 EUR (2024).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
+  },
+  {
+    "id": "eleonore-caroit",
+    "entity": "Parti Renaissance",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "01/2022-12/2022",
+    "status": "historical",
+    "detail": "Referent for Latin America ('Référente pour l'Amérique latine') within the Renaissance party, declared as a position in a governing body in her HATVP declaration of interests. Declared remuneration: 0 EUR (2022).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
+  },
+  {
+    "id": "eleonore-caroit",
+    "entity": "Direct financial participations in company capital",
+    "role": "none",
+    "ownership_stake": "",
+    "period": "as of 2024 declaration",
+    "status": "none",
+    "detail": "In her HATVP declaration of interests, Caroit declared 'Néant' (none) for both direct financial participations in the capital of any company and for consultancy activities. No company shareholdings are documented.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/caroit-eleonore-dia31786-depute-099.pdf"
+    ]
   }
 ]

@@ -1,1 +1,177 @@
-[]
+[
+  {
+    "id": "michel-fournier",
+    "entity": "Association des maires ruraux de France (AMRF)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2020-2025",
+    "status": "historical",
+    "detail": "President of the AMRF, the national association of rural mayors, from November 2020 until he stepped back from the presidency on 20 October 2025 following his appointment to government. Unpaid (0 EUR declared each year). The AMRF is a non-profit association representing mayors of rural communes; Fournier is its long-standing public face.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032",
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)",
+      "https://www.amrf.fr/lamrf/les-instances/"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Association des maires ruraux des Vosges (AMR88)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "1992-2025",
+    "status": "historical",
+    "detail": "Founder (1992) and president of the departmental rural-mayors association of the Vosges. HATVP declaration records the presidency from 01/2019, with a step-back ('mise en retrait') from 27 October 2025, including from the Vosges Rurality Laboratory co-led with the Vosges Prefecture since 2021. Unpaid.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032",
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Commune des Voivres (Les Voivres, 88240, Vosges)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "1989-present",
+    "status": "current",
+    "detail": "Mayor of Les Voivres, a small commune in the Vosges, since 1989; re-elected without opposition at the March 2026 municipal elections. Entered the municipal council in 1983. He continued as mayor after his October 2025 government appointment. Declared net mayoral remuneration ranged from ~6,284 EUR (2019) to ~9,962 EUR (2024).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032",
+      "https://vosgesinfo.fr/epinalinfo/2026/03/elections-municipales-michel-fournier-reelu-sans-opposition-a-voivres/",
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Communauté d'agglomération d'Epinal (CAE)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2017-present",
+    "status": "current",
+    "detail": "Vice-president of the Epinal agglomeration community, in charge of territorial cohesion and rural affairs, since 2017 (declared from 01/2019). This is his largest declared elective remuneration, ~19,798-20,924 EUR net/year between 2020 and 2024.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Communauté de communes du Val de Vôge",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2007-2017",
+    "status": "historical",
+    "detail": "President of the Val de Vôge community of communes (Vosges) from 2007 to 2017, prior to the creation/merger into the Epinal agglomeration community.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/michel-fournier"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "PETR Pays d'Epinal Coeur des Vosges (Pole d'Equilibre Territorial et Rural)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-present",
+    "status": "current",
+    "detail": "Vice-president then bureau member of the PETR Pays d'Epinal Coeur des Vosges. Per HATVP, he stopped serving as vice-president and receiving indemnities on 21 September 2020, then remained a bureau member. Small declared indemnities in 2019-2020 (1,589 / 1,179 EUR), nil thereafter.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Agence nationale de la cohesion des territoires (ANCT)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2020-2025",
+    "status": "historical",
+    "detail": "Member of the ANCT governing bodies: vice-president (Nov 2020-Jul 2022), president (Jul 2022-Dec 2022), then vice-president (Dec 2022 until resignation on 20 October 2025). Unpaid. The ANCT is a public agency for territorial cohesion.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "SEM Les diners insolites",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-2022",
+    "status": "historical",
+    "detail": "President (then CA and AG member on behalf of the PETR Pays d'Epinal Coeur des Vosges) of the local semi-public company (SEM) 'Les diners insolites'. Per HATVP, the company was the subject of a judicial liquidation closed by judgment of the Epinal commercial court dated 9 April 2024. This is a corporate insolvency of the entity, not a personal legal matter concerning Fournier.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "SEM Terr'enr",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2020-present",
+    "status": "declared",
+    "detail": "Member of the board of directors of the SEM (semi-public company) Terr'enr, declared from 10/2020. Unpaid.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "SEM Vosges TV",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2019-present",
+    "status": "declared",
+    "detail": "Representative of the Epinal agglomeration community (CAE) on the board of directors of the SEM Vosges TV. Unpaid.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "SCI (societe civile immobiliere, name not published by HATVP)",
+    "role": "owner",
+    "ownership_stake": "45%",
+    "period": "2020-present",
+    "status": "declared",
+    "detail": "Manager (gerant) of and 45% capital holder (45 shares, valued ~4,500 EUR) in a family real-estate civil company (SCI) declared to HATVP from 10/2020; the SCI's principal asset is a property in the Vosges (dept 88). No remuneration declared.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Association aux Sources de Saone et Meuse",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2020-present",
+    "status": "declared",
+    "detail": "Vice-president of the local association 'aux Sources de Saone et Meuse', declared from 01/2020. Unpaid.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Ministere charge de la ruralite (Gouvernement francais)",
+    "role": "none",
+    "ownership_stake": "",
+    "period": "2025-present",
+    "status": "current",
+    "detail": "Context (government office, not a company): appointed on 12 October 2025 as Ministre delegue aupres de la ministre de l'amenagement du territoire et de la decentralisation, charge de la ruralite, in the Lecornu government. Listed here only to situate his other mandates; not a commercial entity.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/michel-fournier",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=fournier-michel-18032"
+    ]
+  },
+  {
+    "id": "michel-fournier",
+    "entity": "Professional background (agent commercial / former occupations)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "1972-1980s",
+    "status": "historical",
+    "detail": "Professional background before politics: born 11 January 1950 in Chatel-sur-Moselle (Vosges), from a farming family. Worked as a farm labourer and roller-shutter fitter, passed the customs service exam in 1968, and from 1972 settled in Les Voivres as a multi-card commercial agent ('agent commercial multicartes'). Note: contrary to a common assumption he is not documented as a former teacher/instituteur in the sourced biographies reviewed.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Michel_Fournier_(homme_politique)",
+      "https://www.vosgesmatin.fr/politique/2021/04/21/michel-fournier-president-des-maires-ruraux-de-france-les-mille-et-une-vies-d-un-rebelle"
+    ]
+  }
+]

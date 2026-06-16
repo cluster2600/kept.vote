@@ -1,15 +1,29 @@
 [
   {
-    "id": "fonds-dotation-sesame",
-    "entity": "Fonds de dotation Sesame (Sesame endowment fund), Grenoble",
-    "role": "Founder",
-    "ownership_stake": "not applicable (non-profit endowment fund, no equity ownership)",
-    "period": "2022-present",
-    "status": "declared",
-    "detail": "Founded the Grenoble endowment fund Sesame in 2022 (publicly launched June 2023), a non-profit vehicle connecting local businesses with solidarity associations. As an endowment fund (fonds de dotation) it confers no personal equity stake. Her formal current role within the fund during her ministerial term is not publicly detailed.",
+    "id": "camille-galliard-minier",
+    "entity": "Avocate au barreau de Grenoble",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2003-2017",
+    "status": "historical",
+    "detail": "Avocate inscrite au barreau de Grenoble de 2003 à 2017, exerçant en droit de la famille et en droit pénal pendant environ douze ans, d'abord comme collaboratrice puis comme associee au sein d'un cabinet d'avocats grenoblois. Omise du barreau a sa demande en 2017 lors de son entree en politique. Docteure en droit (2003).",
     "source_url": [
       "https://solidarites.gouv.fr/biographie-de-camille-galliard-minier",
-      "https://www.placegrenet.fr/2023/06/14/lancement-du-fonds-de-dotation-sesame-porte-par-des-entreprises-a-destination-des-actions-de-solidarite/606186"
+      "https://www.carenews.com/carenews-info/news/qui-est-camille-galliard-minier-la-nouvelle-ministre-chargee-de-l-autonomie-et"
+    ]
+  },
+  {
+    "id": "camille-galliard-minier",
+    "entity": "Fonds de dotation Sesame",
+    "role": "founder",
+    "ownership_stake": "",
+    "period": "2022-",
+    "status": "historical",
+    "detail": "Fondatrice du fonds de dotation Sesame, structure philanthropique grenobloise creee pour mettre en lien des entreprises du territoire avec des associations de solidarite (soutien financier, materiel ou benevolat). Lancee publiquement en juin 2023, elle y a exerce comme deleguee generale, la presidence ayant ete assuree a titre provisoire par Genevieve Fioraso. La date de fondation est indiquee comme 2022 par la biographie officielle et 2023 par la presse. Un fonds de dotation est une structure a but non lucratif, pas une societe commerciale.",
+    "source_url": [
+      "https://solidarites.gouv.fr/biographie-de-camille-galliard-minier",
+      "https://www.placegrenet.fr/2023/06/14/lancement-du-fonds-de-dotation-sesame-porte-par-des-entreprises-a-destination-des-actions-de-solidarite/606186",
+      "https://www.carenews.com/carenews-info/news/qui-est-camille-galliard-minier-la-nouvelle-ministre-chargee-de-l-autonomie-et"
     ]
   }
 ]

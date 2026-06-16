@@ -1,22 +1,105 @@
 [
   {
-    "id": "imprimerie-george-sand",
-    "entity": "Imprimerie George Sand (La Chatre)",
-    "role": "Manager / director (gerant)",
-    "ownership_stake": "none declared",
-    "period": "1992-2004",
-    "status": "former",
-    "detail": "Managed the George Sand printing works in La Chatre before and during his early parliamentary career.",
-    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf", "https://www.lemoci.com/nicolas-forissier-nouveau-ministre-delegue-au-commerce-exterieur/"]
+    "id": "nicolas-forissier",
+    "entity": "NFCONSULTING (SAS)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2020-present",
+    "status": "current",
+    "detail": "President since 15 June 2020 of NFCONSULTING, a société par actions simplifiée based in La Châtre (36400), registered under management consulting / head-office activities (SIREN 789488921). No employees.",
+    "source_url": [
+      "https://politique.pappers.fr/acteurs/nicolas-forissier?acteur_tab=entreprises",
+      "https://www.pappers.fr/entreprise/nfconsulting-789488921",
+      "https://www.societe.com/societe/nfconsulting-789488921.html"
+    ]
   },
   {
-    "id": "cfce-ubifrance-chair",
-    "entity": "Centre francais du commerce exterieur / Ubifrance",
-    "role": "Chairman of the board of directors",
-    "ownership_stake": "not applicable (public agency)",
-    "period": "2003-2004",
-    "status": "former",
-    "detail": "Chaired the board of the French public foreign-trade promotion agency.",
-    "source_url": ["https://cybercercle.com/wp-content/uploads/2017/10/Biographie_NFPDF.pdf"]
+    "id": "nicolas-forissier",
+    "entity": "SCI DE LA RUE DES TROIS MARCHANDS",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2023-present",
+    "status": "current",
+    "detail": "Manager (gérant) and indefinitely liable partner since 31 October 2023 of this société civile immobilière (real estate company) based in La Châtre (36400), SIREN 391280468.",
+    "source_url": [
+      "https://politique.pappers.fr/acteurs/nicolas-forissier?acteur_tab=entreprises",
+      "https://www.pappers.fr/entreprise/391280468"
+    ]
+  },
+  {
+    "id": "nicolas-forissier",
+    "entity": "SCI DE MALATRET",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2022-present",
+    "status": "current",
+    "detail": "Manager (gérant) since 26 September 2022 of this société civile immobilière based in Pouilly-les-Feurs (42110, Loire), SIREN 434717070.",
+    "source_url": [
+      "https://politique.pappers.fr/acteurs/nicolas-forissier?acteur_tab=entreprises",
+      "https://www.pappers.fr/entreprise/434717070"
+    ]
+  },
+  {
+    "id": "nicolas-forissier",
+    "entity": "CENTRE CAPITAL DEVELOPPEMENT (SA)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "historical",
+    "status": "historical",
+    "detail": "Former administrator (board member) of CENTRE CAPITAL DEVELOPPEMENT, a financial services company based in Orléans (45100), SIREN 341256543.",
+    "source_url": [
+      "https://politique.pappers.fr/acteurs/nicolas-forissier?acteur_tab=entreprises",
+      "https://www.pappers.fr/entreprise/341256543"
+    ]
+  },
+  {
+    "id": "nicolas-forissier",
+    "entity": "SEM d'Aménagement pour le Développement Économique de l'Aéroport (Châteauroux-Déols)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "historical",
+    "status": "historical",
+    "detail": "Listed as a director (administrateur) of the local mixed-economy company (SEM) managing the economic development of the Châteauroux-Déols airport zone. In his official Assemblée nationale biography he is noted as sitting on the board of the Établissement public régional Aéroport Châteauroux-Centre in his capacity as regional councillor.",
+    "source_url": [
+      "https://www.verif.com/dirigeants/Nicolas-FORISSIER-2869931/",
+      "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1327"
+    ]
+  },
+  {
+    "id": "nicolas-forissier",
+    "entity": "Communauté de communes de La Châtre et Sainte-Sévère",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2002-2017",
+    "status": "historical",
+    "detail": "President of the communauté de communes de La Châtre et Sainte-Sévère (intercommunal authority) from 2002 to 2017, during his tenure as mayor of La Châtre.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nicolas_Forissier",
+      "https://www.info.gouv.fr/personnalite/nicolas-forissier"
+    ]
+  },
+  {
+    "id": "nicolas-forissier",
+    "entity": "Centre français du commerce extérieur (CFCE) / Ubifrance",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "historical",
+    "status": "historical",
+    "detail": "Chaired the board of administration of the Centre français du commerce extérieur (CFCE) and subsequently of Ubifrance (public foreign-trade promotion agency), per his official government biography.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/nicolas-forissier"
+    ]
+  },
+  {
+    "id": "nicolas-forissier",
+    "entity": "Bpifrance",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "historical",
+    "status": "historical",
+    "detail": "Sat on the national orientation committee (comité national d'orientation) of Bpifrance, per his official government biography.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/nicolas-forissier"
+    ]
   }
 ]
