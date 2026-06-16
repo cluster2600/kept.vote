@@ -1,42 +1,136 @@
 [
   {
-    "id": "ines-plateforme-formation-2019",
-    "entity": "INES (Institut National de l'Énergie Solaire) - plateforme formation",
-    "role": "Présidente de l'association / membre du conseil d'administration",
-    "ownership_stake": "not applicable (non-profit association)",
-    "period": "2019-2023",
-    "status": "Past; unremunerated (0 EUR declared)",
-    "detail": "President of the INES training-platform association (Jan 2019-Jun 2021), then board member of INES training/evaluation platform (Jul 2021-Jun 2023). Solar-energy institute based in Le Bourget-du-Lac (Savoie).",
-    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+    "id": "lunabee-studio",
+    "entity": "Lunabee Studio (startup chambérienne, applications iOS/Android)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "01/2019 - 06/2022 (HATVP); carrière dans le numérique dès mars 2013 selon presse",
+    "status": "historical",
+    "detail": "Responsable administratif et RH. Rémunération nette déclarée HATVP : 12 664 € (2019), 16 765 € (2020), 27 179 € (2021), 17 952 € (2022). Lunabee Studio est une startup de Chambéry spécialisée dans la création d'applications natives iOS et Android. Décrit comme la majeure partie de son parcours professionnel.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf",
+      "https://presse.economie.gouv.fr/biographie-de-marina-ferrari/"
+    ]
   },
   {
-    "id": "agate-agence-alpine-2019",
+    "id": "caisse-epargne-parts-sociales",
+    "entity": "Caisse d'Épargne",
+    "role": "shareholder",
+    "ownership_stake": "10 parts sociales (200 €)",
+    "period": "détenu à la date de la déclaration (10/2025)",
+    "status": "declared",
+    "detail": "Participation financière directe déclarée à la HATVP : 10 parts sociales d'une valeur de 200 €. Revenus perçus : 3,49 € en 2024. Parts sociales de banque mutualiste (faible montant).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "ines-plateforme-formation-presidente",
+    "entity": "INES - Institut National de l'Énergie Solaire, plateforme formation-évaluation",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "Présidente 01/2019 - 06/2021 (HATVP) ; présidence avril 2016 - juillet 2021 (bio officielle)",
+    "status": "historical",
+    "detail": "Présidente de l'association / plateforme formation-évaluation de l'INES. Aucune rémunération nette (0 €). Puis membre du conseil d'administration de l'INES plateforme formation-évaluation de 07/2021 à 06/2023 (0 €).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf",
+      "https://presse.economie.gouv.fr/biographie-de-marina-ferrari/"
+    ]
+  },
+  {
+    "id": "agate-agence-alpine-territoires",
     "entity": "AGATE - Agence Alpine des Territoires",
-    "role": "Membre du conseil d'administration",
-    "ownership_stake": "not applicable",
-    "period": "2019-2024",
-    "status": "Past; unremunerated (0 EUR declared)",
-    "detail": "Board member of the Alpine Territories Agency until February 2024.",
-    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 - 02/2024",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration. Aucune rémunération (0 € de 2019 à 2024). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
   },
   {
-    "id": "universite-savoie-mont-blanc-2019",
-    "entity": "Université Savoie Mont Blanc / Fondation USMB",
-    "role": "Membre du conseil d'administration",
-    "ownership_stake": "not applicable",
-    "period": "2019-2024",
-    "status": "Past; unremunerated (0 EUR declared)",
-    "detail": "Board member of the University Savoie Mont Blanc (2019-2021) and of its Foundation (2021-2024).",
-    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+    "id": "spls-savoie",
+    "entity": "SPLS de la Savoie (Société Publique Locale)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 - 06/2021",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration. Aucune rémunération (0 €). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
   },
   {
-    "id": "tenerrdis-asder-conservatoire-2019",
-    "entity": "TENERRDIS, ASDER, Conservatoire du Littoral, SPL-S de la Savoie",
-    "role": "Membre du conseil d'administration",
-    "ownership_stake": "not applicable",
-    "period": "2019-2021",
-    "status": "Past; unremunerated (0 EUR declared)",
-    "detail": "Board memberships (2019-2021) in regional bodies: TENERRDIS energy-transition competitiveness cluster, ASDER (Savoyard renewable-energy association), Conservatoire du Littoral, and the SPL-S de la Savoie (local public company).",
-    "source_url": ["https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"]
+    "id": "universite-savoie-mont-blanc-ca",
+    "entity": "Université Savoie Mont Blanc",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 - 06/2021",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration. Aucune rémunération (0 €). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "fondation-universite-savoie-mont-blanc",
+    "entity": "Fondation de l'Université Savoie Mont Blanc",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "07/2021 - 02/2024",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration. Aucune rémunération (0 €). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "conservatoire-du-littoral",
+    "entity": "Conservatoire du Littoral",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 - 06/2021",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration. Aucune rémunération (0 €). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "asder-energies-renouvelables",
+    "entity": "ASDER - Association Savoyarde pour le Développement des Énergies Renouvelables",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 - 06/2021",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration. Aucune rémunération (0 €). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "tenerrdis-pole-competitivite",
+    "entity": "TENERRDIS - pôle de compétitivité pour la transition énergétique",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 - 06/2021",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration. Aucune rémunération (0 €). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "mouvement-democrate-savoie",
+    "entity": "Mouvement Démocrate (MoDem) - fédération départementale de la Savoie",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "depuis 11/2020",
+    "status": "current",
+    "detail": "Présidente du mouvement départemental (parti politique). Aucune rémunération (0 € de 2020 à 2024). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/ferrari-marina-di34853-gouvernement.pdf"
+    ]
   }
 ]

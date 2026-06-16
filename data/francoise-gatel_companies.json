@@ -1,72 +1,146 @@
 [
   {
-    "id": "francoise-gatel-co-1",
-    "entity": "Pluriel Atlantique",
-    "role": "Associée (participation au capital)",
-    "ownership_stake": "117 parts",
-    "period": "Détenue à la date de la déclaration (2026)",
-    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
-    "detail": "Participation financière directe évaluée à 9 059 €. Aucune rémunération perçue au cours de l'année précédente.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+    "id": "petites-cites-caractere-france",
+    "entity": "Petites Cités de caractère de France (association)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 – présent (présidence depuis 2014 selon Wikipédia)",
+    "status": "current",
+    "detail": "Présidente de l'association Petites Cités de caractère de France, réseau de sauvegarde du patrimoine comme levier de développement des territoires. Déclarée à la HATVP comme participation à un organe dirigeant, rémunération 0 € sur 2019-2025.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dim34841-gouvernement.pdf",
+      "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Gatel"
+    ]
   },
   {
-    "id": "francoise-gatel-co-2",
+    "id": "petites-cites-caractere-bretagne",
+    "entity": "Petites Cités de caractère de Bretagne (association)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 – présent (vice-présidence depuis 2008 selon presse régionale)",
+    "status": "current",
+    "detail": "Présidente de l'association Petites Cités de caractère de Bretagne. Déclarée à la HATVP comme participation à un organe dirigeant, rémunération 0 € sur 2019-2025. Précédemment vice-présidente depuis 2008.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dim34841-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "france-patrimoines-territoires-exception",
+    "entity": "France Patrimoines et territoires d'exception (association)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "01/2019 – présent",
+    "status": "current",
+    "detail": "Vice-présidente et trésorière de l'association France Patrimoines et territoires d'exception. Déclarée à la HATVP comme participation à un organe dirigeant, rémunération 0 € sur 2019-2025.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dim34841-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "pluriel-atlantique",
+    "entity": "PLURIEL ATLANTIQUE",
+    "role": "shareholder",
+    "ownership_stake": "117 parts, évaluation 9 059 €",
+    "period": "déclaré (déclaration d'intérêts 2025-2026)",
+    "status": "declared",
+    "detail": "Participation financière directe au capital déclarée à la HATVP (rubrique 4° des intérêts), évaluée à 9 059 € (117 parts), rémunération 0 € l'année précédente.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dim34841-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "innovation-pluriel",
     "entity": "Innovation Pluriel",
-    "role": "Associée (participation au capital)",
-    "ownership_stake": "117 parts",
-    "period": "Détenue à la date de la déclaration (2026)",
-    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
-    "detail": "Participation financière directe évaluée à 10 248 €. Aucune rémunération perçue au cours de l'année précédente.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+    "role": "shareholder",
+    "ownership_stake": "117 parts, évaluation 10 248 €",
+    "period": "déclaré (déclaration d'intérêts 2025-2026)",
+    "status": "declared",
+    "detail": "Participation financière directe au capital déclarée à la HATVP (rubrique 4° des intérêts), évaluée à 10 248 € (117 parts), rémunération 0 € l'année précédente.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dim34841-gouvernement.pdf"
+    ]
   },
   {
-    "id": "francoise-gatel-co-3",
+    "id": "nouvelles-parts-sociales-b",
     "entity": "Nouvelles Parts Sociales B",
-    "role": "Détentrice de parts sociales",
-    "ownership_stake": "4 047 parts",
-    "period": "Détenue à la date de la déclaration (2026)",
-    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
-    "detail": "Participation évaluée à 4 047 €. Rémunération de 125 € au cours de l'année précédente.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+    "role": "shareholder",
+    "ownership_stake": "4047 parts, évaluation 4 047 €",
+    "period": "déclaré (déclaration d'intérêts 2025-2026)",
+    "status": "declared",
+    "detail": "Participation financière directe déclarée à la HATVP (rubrique 4° des intérêts), évaluée à 4 047 € (4047 parts), rémunération 125 € l'année précédente.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dim34841-gouvernement.pdf"
+    ]
   },
   {
-    "id": "francoise-gatel-co-4",
-    "entity": "Groupements fonciers viticoles / forestiers (GFV / GFI, dénominations non publiées)",
-    "role": "Associée (parts non cotées)",
-    "ownership_stake": "Participations comprises entre ~1 % et ~2,6 % selon les groupements",
-    "period": "Détenue à la date de la déclaration (2026)",
-    "status": "Déclaré à la HATVP (déclarations d'intérêts et de patrimoine)",
-    "detail": "Plusieurs parts de groupements fonciers viticoles (GFV) et d'un groupement forestier (GFI), dont les dénominations sont non publiées par la HATVP. Valeurs vénales cumulées des parts non cotées d'environ 159 000 €. Petites rémunérations annuelles déclarées (88 €, 178 €, 181 €).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+    "id": "gfv-gfi-participations-non-publiees",
+    "entity": "Groupements fonciers viticoles (GFV) et groupement foncier (GFI) — noms non publiés par la HATVP",
+    "role": "shareholder",
+    "ownership_stake": "Participations minoritaires (env. 1 % à 2,6 % selon les structures); valeurs vénales déclarées de 30 958 € à 48 000 € par GFV et 35 000 € pour le GFI; parts détenues de 70 à 2430",
+    "period": "déclaré (déclaration d'intérêts et de patrimoine 2025-2026)",
+    "status": "declared",
+    "detail": "Plusieurs participations financières dans des groupements fonciers viticoles (GFV) et un groupement foncier (GFI, à capital variable), déclarées à la HATVP (rubriques 4° des intérêts et 3° du patrimoine). Les dénominations précises sont signalées comme « Données non publiées » par la HATVP. Rémunérations annuelles déclarées de l'ordre de 88 € à 181 €.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dim34841-gouvernement.pdf",
+      "https://www.hatvp.fr/livraison/dossiers/gatel-francoise-dspm34839-gouvernement.pdf"
+    ]
   },
   {
-    "id": "francoise-gatel-co-5",
-    "entity": "Petites cités de caractère de Bretagne",
-    "role": "Présidente (fonction dans un organe dirigeant, non rémunérée)",
-    "ownership_stake": "Sans objet (association)",
-    "period": "01/2019 à ce jour",
-    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
-    "detail": "Présidence d'une association de valorisation du patrimoine, déclarée comme fonction dirigeante. Rémunération 0 € chaque année (2019-2025).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+    "id": "communaute-communes-pays-chateaugiron",
+    "entity": "Communauté de communes du Pays de Châteaugiron (intercommunalité)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "historique – jusqu'en septembre 2017",
+    "status": "historical",
+    "detail": "Présidente de la communauté de communes du Pays de Châteaugiron pendant son mandat de maire de Châteaugiron. Elle a démissionné de cette présidence en septembre 2017 pour respecter la législation sur le cumul des mandats après son élection au Sénat.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Gatel",
+      "https://www.ouest-france.fr/bretagne/chateaugiron-35410/chateaugiron-francoise-gatel-quitte-son-poste-de-maire-5243442"
+    ]
   },
   {
-    "id": "francoise-gatel-co-6",
-    "entity": "Petites cités de caractère de France",
-    "role": "Présidente (fonction dans un organe dirigeant, non rémunérée)",
-    "ownership_stake": "Sans objet (association)",
-    "period": "01/2019 à ce jour",
-    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
-    "detail": "Présidence d'une fédération nationale de valorisation du patrimoine. Rémunération 0 € chaque année (2019-2025).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+    "id": "association-maires-france-amf",
+    "entity": "Association des maires de France (AMF)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "historique – vice-présidente à partir de novembre 2014, démission septembre 2017",
+    "status": "historical",
+    "detail": "Élue vice-présidente de l'Association des maires de France (AMF) lors du 97e congrès des maires et présidents d'intercommunalité en novembre 2014. Elle a quitté ses mandats à l'AMF en septembre 2017 pour respecter la règle du non-cumul des mandats.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Gatel",
+      "https://www.ouest-france.fr/bretagne/chateaugiron-35410/chateaugiron-francoise-gatel-quitte-son-poste-de-maire-5243442"
+    ]
   },
   {
-    "id": "francoise-gatel-co-7",
-    "entity": "France Patrimoines et territoires d'exception",
-    "role": "Vice-présidente et trésorière (organe dirigeant, non rémunérée)",
-    "ownership_stake": "Sans objet (association)",
-    "period": "01/2019 à ce jour",
-    "status": "Déclaré à la HATVP (déclaration d'intérêts)",
-    "detail": "Fonction de vice-présidente et trésorière. Rémunération 0 € chaque année (2019-2025).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=gatel-francoise"]
+    "id": "association-maires-ille-et-vilaine-amf35",
+    "entity": "Association des maires d'Ille-et-Vilaine (AMF 35)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "historique – présidente, réélue après 2014",
+    "status": "historical",
+    "detail": "Élue par ses pairs présidente de l'Association des maires d'Ille-et-Vilaine (AMF 35), reconduite après les élections municipales de 2014.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Gatel",
+      "https://redon.maville.com/actu/actudet_-association-des-maires-35-francoise-gatel-udi-reelue-presidente_fil-2580523_actu.Htm"
+    ]
+  },
+  {
+    "id": "chambre-commerce-industrie-rennes",
+    "entity": "Chambre de commerce et d'industrie (CCI) de Rennes",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "historique – 1976 à fin de carrière",
+    "status": "historical",
+    "detail": "A rejoint la Chambre de commerce et d'industrie de Rennes en 1976 comme chargée de mission ; elle y a effectué l'ensemble de sa carrière professionnelle.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Gatel"
+    ]
   }
 ]

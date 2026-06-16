@@ -1,14 +1,41 @@
 [
   {
-    "id": "naima-moutchou-co-1",
-    "entity": "SCM SAINT O' (société civile de moyens)",
-    "role": "Associée / détentrice de parts",
-    "ownership_stake": "100 % du capital social",
-    "period": "Déclaré au 5 mars 2026",
-    "status": "Déclaré (HATVP) — valeurs mobilières non cotées",
-    "detail": "Société civile de moyens liée à l'activité d'avocate. Valeur vénale totale des parts déclarée à 0 €. Un compte courant Société Générale au nom de « SCM Saint O' » présentait un solde de 5 422 €.",
+    "id": "avocate-barreau-paris",
+    "entity": "Profession d'avocate (barreau de Paris)",
+    "role": "owner",
+    "ownership_stake": "Exercice en nom propre (sole practitioner)",
+    "period": "2008-present (inscrite au barreau de Paris depuis 2008; activité conservée hors mandats)",
+    "status": "current",
+    "detail": "Naïma Moutchou est avocate, inscrite au barreau de Paris depuis 2008. Sa déclaration de situation patrimoniale HATVP (déposée le 5 mars 2026) mentionne, au titre des fonds de commerce/clientèles/charges et offices, une 'Clientèle - Activité d'avocat' avec un actif de 112 527 € et un dernier résultat fiscal de 40 042 €. Elle a débuté sa carrière au cabinet du bâtonnier Christian Charrière-Bournazel (droit des affaires et droit de la presse). Sa déclaration d'intérêts ne fait toutefois état d'aucune activité professionnelle rémunérée à la date de la nomination (rubrique 1° : 'Néant'), son activité d'avocat étant suspendue durant ses fonctions.",
     "source_url": [
-      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima"
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima",
+      "https://www.hatvp.fr/livraison/dossiers/moutchou-naima-dspm34834-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "scm-saint-o",
+    "entity": "SCM Saint O' (Société Civile de Moyens)",
+    "role": "owner",
+    "ownership_stake": "100 % du capital social",
+    "period": "déclarée au 5 mars 2026",
+    "status": "current",
+    "detail": "Dans sa déclaration de situation patrimoniale HATVP (5 mars 2026), au titre des autres valeurs mobilières non cotées en bourse, Naïma Moutchou déclare détenir 100 % du capital social de la SCM (société civile de moyens) Saint O', en pleine propriété, pour une valeur vénale totale des parts déclarée à 0 €. Une société civile de moyens est une structure permettant à des professionnels libéraux (ici l'activité d'avocat) de mettre en commun des moyens d'exercice. Un compte courant 'SCM Saint O' (Société Générale, solde 5 422 €) figure également parmi les comptes bancaires déclarés.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima",
+      "https://www.hatvp.fr/livraison/dossiers/moutchou-naima-dspm34834-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "interets-organes-dirigeants-neant",
+    "entity": "Participations aux organes dirigeants / participations financières directes",
+    "role": "none",
+    "ownership_stake": "",
+    "period": "déclarée au 24 novembre 2025 (déclaration d'intérêts) / 5 mars 2026 (modification substantielle)",
+    "status": "declared",
+    "detail": "Dans sa déclaration d'intérêts HATVP, Naïma Moutchou déclare 'Néant' aux rubriques relatives aux participations aux organes dirigeants d'un organisme public ou privé ou d'une société (rubrique 3°), aux participations financières directes dans le capital d'une société (rubrique 4°), aux activités de consultant (rubrique 2°) et aux fonctions bénévoles susceptibles de faire naître un conflit d'intérêts (rubrique 6°). Aucun mandat d'administrateur, de directeur ou de membre de conseil d'administration de société, SEM, SPL ou association n'est déclaré. Pour mémoire, elle a exercé bénévolement comme avocate au sein de la Licra (Ligue internationale contre le racisme et l'antisémitisme), mais cette activité n'est pas portée comme fonction dirigeante dans la déclaration.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=moutchou-naima",
+      "https://www.hatvp.fr/livraison/dossiers/moutchou-naima-di34835-gouvernement.pdf"
     ]
   }
 ]

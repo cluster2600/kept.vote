@@ -1,12 +1,42 @@
 [
   {
-    "id": "none-declared",
-    "entity": "none declared",
-    "role": "not applicable",
-    "ownership_stake": "not applicable",
-    "period": "not applicable",
-    "status": "not applicable",
-    "detail": "Aucune participation dans une société, ni fonction de dirigeant ou d'actionnaire d'entreprise n'a été identifiée dans les sources publiques consultées. David Amiel a exercé comme salarié (notamment directeur de la stratégie d'une branche de La Poste) sans détention de capital documentée.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=amiel-david"]
+    "id": "la-poste-strategie-numerique",
+    "entity": "La Poste (groupe La Poste)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2021-2022",
+    "status": "historical",
+    "detail": "Directeur de la stratégie numérique du groupe La Poste avant de rejoindre la campagne présidentielle de 2022. Cette ancienne fonction a justifié un déport (obligation de se déporter des dossiers concernant La Poste) acté par décret après sa nomination ministérielle, sur recommandation de la HATVP.",
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052541377",
+      "https://acteurspublics.fr/ressource/conflits-dinterets-deport-du-ministre-de-la-fonction-publique-et-de-la-reforme-de-letat-david-amiel/",
+      "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/normalien-macroniste-historique-depute-a-29-ans-qui-est-david-amiel-le-nouveau-ministre-des-comptes-publics_7822934.html"
+    ]
+  },
+  {
+    "id": "auteur-livre-fayard",
+    "entity": "Éditions Fayard (ouvrage \"Le progrès ne tombe pas du ciel\")",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "2019",
+    "status": "historical",
+    "detail": "Co-auteur, avec Ismaël Emelien, de l'essai \"Le progrès ne tombe pas du ciel\" (Fayard, 2019). Activité d'auteur susceptible de générer des droits d'auteur ; aucun montant de droits publié à ce stade. La déclaration d'intérêts détaillée déposée auprès de la HATVP est mentionnée comme \"déposée - publication à venir\".",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/David_Amiel",
+      "https://www.eyrolles.com/Accueil/Auteur/david-amiel-148198/"
+    ]
+  },
+  {
+    "id": "hatvp-declaration-interets-statut",
+    "entity": "HATVP - déclaration d'intérêts (membre du Gouvernement)",
+    "role": "none",
+    "ownership_stake": "",
+    "period": "2025-2026",
+    "status": "declared",
+    "detail": "Déclaration d'intérêts déposée auprès de la Haute Autorité pour la transparence de la vie publique ; au moment de la recherche, la fiche nominative indique \"Déclaration déposée - publication à venir\" pour les volets intérêts et patrimoine. Aucune participation au capital d'une société ni mandat d'administrateur sourcé publiquement à ce jour. Patrimoine estimé entre 1,5 et 2 millions d'euros selon la presse rapportant les déclarations HATVP du gouvernement Lecornu.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=amiel-david",
+      "https://contribuablesassocies.org/2026/04/23/la-hatvp-revele-le-nom-des-ministres-millionnaires-du-gouvernement-lecornu/"
+    ]
   }
 ]

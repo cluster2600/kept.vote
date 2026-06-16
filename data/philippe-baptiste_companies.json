@@ -1,42 +1,128 @@
 [
   {
-    "id": "cnes-participations-president",
-    "entity": "CNES Participations",
-    "role": "Président",
-    "ownership_stake": "not applicable (fonction ès qualités de PDG du CNES)",
-    "period": "2021-04 à 2024-12",
-    "status": "ended",
-    "detail": "Présidence de la structure de participations du CNES, exercée ès qualités de président-directeur général du CNES, sans rémunération. Déclaration d'intérêts HATVP.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+    "id": "cnes-pdg",
+    "entity": "Centre national d'études spatiales (CNES)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "04/2021 - 12/2024",
+    "status": "historical",
+    "detail": "Président-directeur général (PDG) du CNES, l'agence spatiale française (EPIC), nommé en Conseil des ministres le 14 avril 2021 pour succéder à Jean-Yves Le Gall. Rémunération nette déclarée à la HATVP : 138 171 € (2021), 219 184 € (2022), 230 839 € (2023), 234 654 € (2024). Fonctions exercées jusqu'à sa nomination comme ministre.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436",
+      "https://www.info.gouv.fr/personnalite/philippe-baptiste",
+      "https://cnes.fr/philippe-baptiste"
+    ]
   },
   {
-    "id": "esa-delegation-france",
+    "id": "esa-conseil-delegation-francaise",
     "entity": "Agence spatiale européenne (ESA)",
-    "role": "Chef de la délégation française au conseil de l'ESA",
-    "ownership_stake": "not applicable",
-    "period": "2021-04 à 2024-12",
-    "status": "ended",
-    "detail": "Le président du CNES est le représentant de la France au conseil de l'ESA. Fonction non rémunérée. Déclaration d'intérêts HATVP.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "04/2021 - 12/2024",
+    "status": "historical",
+    "detail": "Chef de la délégation française au conseil de l'ESA. Selon la déclaration d'intérêts HATVP, le président du CNES est le représentant de la France au conseil de l'Agence spatiale européenne. Fonction non rémunérée (0 €).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"
+    ]
+  },
+  {
+    "id": "cnes-participations",
+    "entity": "CNES Participations",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "04/2021 - 12/2024",
+    "status": "historical",
+    "detail": "Président de CNES Participations (structure de prise de participations rattachée au CNES), au titre de sa fonction de PDG du CNES. Fonction non rémunérée (0 €) selon la déclaration HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"
+    ]
   },
   {
     "id": "musee-air-espace-ca",
     "entity": "Musée de l'air et de l'espace",
-    "role": "Membre du conseil d'administration",
-    "ownership_stake": "not applicable",
-    "period": "2024-09 à 2024-12",
-    "status": "ended",
-    "detail": "Membre du conseil d'administration, fonction non rémunérée. Déclaration d'intérêts HATVP.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"]
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "09/2024 - 12/2024",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration du musée de l'air et de l'espace (Le Bourget). Fonction non rémunérée (0 €) selon la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"
+    ]
   },
   {
-    "id": "bcg-partner",
+    "id": "cnrs-directeur-recherche",
+    "entity": "Centre national de la recherche scientifique (CNRS)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "01/2020 - 10/2020 (carrière de chercheur depuis 1999)",
+    "status": "historical",
+    "detail": "Directeur de recherche au CNRS (rémunération nette 2020 déclarée : 45 521 €). Chercheur au CNRS depuis 1999 ; ancien directeur général délégué à la science du CNRS (2014) ; fondateur de l'Institut des sciences de l'information et de leurs interactions (INS2I).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436",
+      "https://www.info.gouv.fr/personnalite/philippe-baptiste"
+    ]
+  },
+  {
+    "id": "boston-consulting-group",
     "entity": "Boston Consulting Group (BCG)",
-    "role": "Partner and director (bureau de Paris)",
-    "ownership_stake": "non déclarée",
-    "period": "2020-11 à 2021-04",
-    "status": "ended",
-    "detail": "Associé du cabinet de conseil en stratégie BCG. Déclaré comme activité de consultant à la HATVP.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436", "https://en.wikipedia.org/wiki/Philippe_Baptiste"]
+    "role": "consultant",
+    "ownership_stake": "",
+    "period": "11/2020 - 04/2021",
+    "status": "historical",
+    "detail": "Partner and director au Boston Consulting Group (activité de consultant). Rémunération nette déclarée à la HATVP : 30 443 € (2020) et 79 962 € (2021).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436",
+      "https://www.info.gouv.fr/personnalite/philippe-baptiste"
+    ]
+  },
+  {
+    "id": "total-directeur-scientifique-cto",
+    "entity": "Groupe Total (devenu TotalEnergies)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2016 - 2017 (et 2019)",
+    "status": "historical",
+    "detail": "Directeur scientifique puis CTO (directeur de la technologie) du groupe Total selon la biographie gouvernementale. Des sources de presse mentionnent également un retour en 2019 comme préfigurateur de la Digital Factory. Rôle de recherche/innovation en entreprise.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/philippe-baptiste",
+      "https://www.usinenouvelle.com/article/un-dirigeant-au-profil-atypique-et-en-rupture-pour-prendre-la-tete-du-centre-national-d-etudes-spatiales.N1077404"
+    ]
+  },
+  {
+    "id": "ecole-polytechnique-professeur",
+    "entity": "École polytechnique",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2002 - 2012",
+    "status": "historical",
+    "detail": "Professeur à l'École polytechnique, notamment directeur du laboratoire d'informatique (LIX). A également exercé un mandat au conseil d'administration de CentraleSupélec (à partir d'octobre 2019, selon la presse).",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/philippe-baptiste",
+      "https://www.letudiant.fr/educpros/personnalites/baptiste-philippe.html"
+    ]
+  },
+  {
+    "id": "esiee-paris-conseil-scientifique",
+    "entity": "ESIEE Paris",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "jusqu'en 01/2025",
+    "status": "historical",
+    "detail": "Membre du conseil scientifique de l'ESIEE Paris (école d'ingénieurs, Cité Descartes / Marne-la-Vallée), déclaré au titre des fonctions bénévoles susceptibles de faire naître un conflit d'intérêts. Démission déposée et acceptée en janvier 2025 selon la déclaration HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"
+    ]
+  },
+  {
+    "id": "lorraine-universite-excellence-advisory-board",
+    "entity": "Lorraine Université d'Excellence",
+    "role": "advisor",
+    "ownership_stake": "",
+    "period": "jusqu'en 2024",
+    "status": "historical",
+    "detail": "Membre de l'advisory board de Lorraine Université d'Excellence, déclaré au titre des fonctions bénévoles susceptibles de faire naître un conflit d'intérêts. Démission envoyée et acceptée en 2024 selon la déclaration HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=baptiste-philippe-12436"
+    ]
   }
 ]
