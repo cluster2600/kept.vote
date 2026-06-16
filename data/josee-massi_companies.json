@@ -1,2 +1,63 @@
 [
+  {
+    "id": "metropole-tpm-presidente",
+    "entity": "Métropole Toulon Provence Méditerranée (TPM)",
+    "role": "board_member",
+    "ownership_stake": "n/a (public intercommunal body, ex-officio)",
+    "period": "présidente depuis le 9 avril 2026 ; vice-présidente 2023-2026 ; conseillère communautaire depuis 2014",
+    "status": "current",
+    "detail": "Élue présidente de la Métropole TPM le 9 avril 2026 par le Conseil métropolitain, succédant à Hubert Falco et Jean-Pierre Giran. Auparavant vice-présidente (à partir du 4 mai 2023) et conseillère communautaire depuis 2014. Fonction ex officio liée à son mandat de maire de Toulon, non rémunératrice d'un intérêt privé.",
+    "source_url": [
+      "https://metropoletpm.fr/actualites/josee-massi-elue-presidente-de-tpm",
+      "https://toulon.fr/josee-massi-maire-de-toulon"
+    ]
+  },
+  {
+    "id": "var-habitat-administrateur",
+    "entity": "Var Habitat (office public de l'habitat / HLM du Var)",
+    "role": "board_member",
+    "ownership_stake": "n/a (office public HLM, mandat d'administrateur)",
+    "period": "non précisé (fonction listée comme \"autre fonction\" actuelle sur le site officiel de la Ville de Toulon)",
+    "status": "current",
+    "detail": "Administratrice de Var Habitat, l'office public de l'habitat (HLM) du Var, fonction publique liée à ses mandats locaux selon la fiche officielle de la Ville de Toulon.",
+    "source_url": [
+      "https://toulon.fr/josee-massi-maire-de-toulon"
+    ]
+  },
+  {
+    "id": "ccas-toulon-administrateur",
+    "entity": "Centre Communal d'Action Sociale (CCAS) de Toulon",
+    "role": "board_member",
+    "ownership_stake": "n/a (établissement public communal)",
+    "period": "jusqu'en 2020",
+    "status": "historical",
+    "detail": "Administratrice du Centre Communal d'Action Sociale de Toulon jusqu'en 2020, selon la fiche officielle de la Ville de Toulon.",
+    "source_url": [
+      "https://toulon.fr/josee-massi-maire-de-toulon"
+    ]
+  },
+  {
+    "id": "cedis-direction",
+    "entity": "Centre Départemental pour l'Insertion Sociale (CEDIS) - association loi 1901",
+    "role": "employee",
+    "ownership_stake": "n/a (association à but non lucratif, fonction salariée de direction)",
+    "period": "milieu des années 1990 jusqu'à environ 2014 (plus de vingt ans)",
+    "status": "historical",
+    "detail": "Directrice pendant plus de vingt ans du CEDIS, association d'insertion sociale du Var. À ce titre, elle a notamment porté la création de l'entreprise d'insertion \"Mamans cuisinières du Monde\", l'implantation de micro-crèches dans les quartiers prioritaires de Toulon et la création de centres sociaux. Parcours professionnel antérieur à sa carrière élective, mentionné par le site officiel de la Ville de Toulon.",
+    "source_url": [
+      "https://toulon.fr/josee-massi-maire-de-toulon"
+    ]
+  },
+  {
+    "id": "hatvp-declaration-interets",
+    "entity": "Déclaration d'intérêts HATVP (Josée Massi, présidente TPM / maire de Toulon)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "2026",
+    "status": "declared",
+    "detail": "Déclaration d'intérêts déposée auprès de la Haute Autorité pour la transparence de la vie publique, statut \"Déclaration déposée - publication à venir\" à la date de consultation (juin 2026). Contenu détaillé non encore publié ; aucun intérêt privé spécifique ne peut donc être sourcé à ce stade.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=massi-josee"
+    ]
+  }
 ]

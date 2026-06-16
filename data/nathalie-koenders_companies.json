@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "caisse-epargne-bourgogne-franche-comte",
+    "entity": "Caisse d'Epargne et de Prévoyance de Bourgogne Franche-Comté (CEBFC)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "depuis le 01/07/2021",
+    "status": "current",
+    "detail": "Membre du conseil de surveillance de la CEBFC depuis le 1er juillet 2021 (donnée INPI/Pappers). Sa déclaration d'intérêts (HATVP) fait état de jetons de présence/indemnités perçus à ce titre (environ 5 000 € déclarés au titre de 2023-2024). L'opposition municipale (Agir pour Dijon / Emmanuel Bichot) a soulevé un possible conflit d'intérêts, la Caisse d'épargne étant partenaire financier de la ville et de la métropole. Aucune procédure judiciaire connue ; situation non irrégulière en principe.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/nathalie_koenders_1977-03",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=koenders-nathalie",
+      "https://dijon-actualites.fr/2024/10/17/agir-pour-dijon-des-interrogations-sur-les-indemnites-bancaires-de-madame-koenders/",
+      "https://www.k6fm.com/emmanuel-bichot-soupconne-un-conflit-d-interet-entre-la-ville-et-la-caisse-d-epargne"
+    ]
+  },
+  {
+    "id": "dijon-bourgogne-tourisme-congres",
+    "entity": "Dijon Bourgogne Tourisme & Congrès (EPIC, office de tourisme)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "19/01/2017 - 07/06/2021",
+    "status": "historical",
+    "detail": "Ancienne représentante au sein de l'EPIC Dijon Bourgogne Tourisme & Congrès (établissement public local à caractère industriel et commercial, office de tourisme), du 19 janvier 2017 au 7 juin 2021. Mandat ex-officio lié à ses fonctions municipales (donnée INPI/Pappers).",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/nathalie_koenders_1977-03"
+    ]
+  },
+  {
+    "id": "splaad-amenagement-agglomeration-dijonnaise",
+    "entity": "SPLAAD - Société Publique Locale Aménagement de l'Agglomération Dijonnaise",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "mandature 2020 - septembre 2024",
+    "status": "historical",
+    "detail": "A siégé au conseil d'administration de la SPLAAD comme représentante de Dijon Métropole après les municipales de 2020. Remplacée par Antoine Hoareau au conseil d'administration de la SPLAAD à la suite d'une décision du 27 septembre 2024 (réorganisation après le départ de Pierre Pribetich). Siège ex-officio lié au mandat métropolitain.",
+    "source_url": [
+      "https://journal-du-palais.fr/au-sommaire/entreprises/ca-bouge-a-dijon-metropole",
+      "https://actulegales.fr/recherche/siren/514021856"
+    ]
+  },
+  {
+    "id": "dijon-metropole-vice-presidence",
+    "entity": "Dijon Métropole",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "depuis 2020 (1ère VP depuis septembre 2024)",
+    "status": "current",
+    "detail": "Première vice-présidente de Dijon Métropole, élue avec 57 voix sur 58 en septembre 2024. Fonction exercée ès qualités de maire / élue de Dijon. François Rebsamen reste président de Dijon Métropole.",
+    "source_url": [
+      "https://www.dijon-metropole.fr/trombinoscope/nathalie-koenders/",
+      "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/interview-nathalie-koenders-reelue-maire-de-dijon-ce-resultat-m-honore-et-m-oblige-3321801.html"
+    ]
+  },
+  {
+    "id": "ville-de-dijon-maire",
+    "entity": "Ville de Dijon",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "depuis novembre 2024 (réélue le 22 mars 2026)",
+    "status": "current",
+    "detail": "Maire de Dijon depuis novembre 2024 (succession de François Rebsamen, entré au gouvernement), réélue maire au second tour des municipales le 22 mars 2026 avec 58,41 % des suffrages. Première femme maire de Dijon. Fonction publique élective, sans participation capitalistique.",
+    "source_url": [
+      "https://www.dijon.fr/nouvelle-municipalite-mode-demploi/la-nouvelle-maire-qui-est-elle/",
+      "https://www.k6fm.com/municipales-2026-nathalie-koenders-reelue-largement-a-la-mairie-de-dijon"
+    ]
+  }
+]

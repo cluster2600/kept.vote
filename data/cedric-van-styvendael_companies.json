@@ -1,1 +1,103 @@
-[]
+[
+  {
+    "id": "habitat-et-territoires-conseil",
+    "entity": "Habitat et Territoires Conseil (filiale de l'Union sociale pour l'habitat)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "années 2000 (avant 2009)",
+    "status": "historical",
+    "detail": "Au début de sa carrière, Cédric Van Styvendael rejoint le cabinet de conseil Habitat et Territoires Conseil, filiale de l'Union sociale pour l'habitat (mouvement HLM), avant de devenir directeur général d'un bailleur social.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/C%C3%A9dric_Van_Styvendael"
+    ]
+  },
+  {
+    "id": "villeurbanne-est-habitat-dg",
+    "entity": "Villeurbanne Est Habitat (office HLM)",
+    "role": "director",
+    "ownership_stake": null,
+    "period": "2009 - 2013",
+    "status": "historical",
+    "detail": "En 2009, il devient directeur général de Villeurbanne Est Habitat (env. 8 500 logements, 170 collaborateurs), bailleur social. Il conduit ensuite en 2013 la fusion avec Porte des Alpes Habitat.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/C%C3%A9dric_Van_Styvendael"
+    ]
+  },
+  {
+    "id": "est-metropole-habitat-dg",
+    "entity": "Est Métropole Habitat (OPH / bailleur social)",
+    "role": "director",
+    "ownership_stake": null,
+    "period": "2013 - juin 2019",
+    "status": "historical",
+    "detail": "Directeur général d'Est Métropole Habitat, organisme HLM né en 2013 de la fusion de Villeurbanne Est Habitat et Porte des Alpes Habitat (env. 15 500 logements, 320 collaborateurs). Il quitte ces fonctions en juin 2019.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/C%C3%A9dric_Van_Styvendael",
+      "https://www.lemoniteur.fr/article/cedric-van-styvendael-directeur-general-de-l-organisme-hlm-est-metropole-habitat-et-president-d-housing-europe.1771539"
+    ]
+  },
+  {
+    "id": "gie-la-ville-autrement-dg",
+    "entity": "GIE « La Ville Autrement »",
+    "role": "director",
+    "ownership_stake": null,
+    "period": "juin 2019 - 2020",
+    "status": "historical",
+    "detail": "En juin 2019, il devient directeur général du groupement d'intérêt économique (GIE) « La Ville Autrement », regroupant notamment Est Métropole Habitat, Rhône-Saône Habitat, Alynea, la Fondation Aralis et la Société Villeurbannaise d'Urbanisme, avant son élection comme maire. La Chambre régionale des comptes a évoqué dans un rapport (publié nov. 2022) ce poste sans relever aucun fait illégal ; l'intéressé conteste l'interprétation d'un poste « cousu main ».",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/C%C3%A9dric_Van_Styvendael",
+      "https://www.mediacites.fr/repere-pour-vous/lyon/2022/11/09/villeurbanne-lancien-emploi-du-maire-cedric-van-styvendael-fait-tiquer-les-magistrats-financiers/"
+    ]
+  },
+  {
+    "id": "housing-europe-president",
+    "entity": "Housing Europe (fédération européenne du logement social / public)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "juin 2017 - septembre 2020",
+    "status": "historical",
+    "detail": "Élu président de Housing Europe, fédération européenne du logement social, public et coopératif, en juin 2017. Fonction bénévole (non rémunérée) figurant dans sa déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/C%C3%A9dric_Van_Styvendael",
+      "https://www.lemoniteur.fr/article/cedric-van-styvendael-directeur-general-de-l-organisme-hlm-est-metropole-habitat-et-president-d-housing-europe.1771539"
+    ]
+  },
+  {
+    "id": "est-metropole-habitat-president",
+    "entity": "Est Métropole Habitat (OPH / bailleur social)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "octobre 2020 - mars 2026",
+    "status": "historical",
+    "detail": "Après son élection comme maire, il revient à Est Métropole Habitat non plus comme directeur général mais comme président de l'office HLM (présidence du conseil d'administration), fonction liée à son mandat de maire de Villeurbanne.",
+    "source_url": [
+      "http://www.lyonpoleimmo.com/2020/10/06/62045/cedric-van-styvendael-devient-president-dest-metropole-habitat/",
+      "https://www.brefeco.com/actualite/intercommunalite/cedric-van-styvendael-prend-les-renes-dest-metropole-habitat"
+    ]
+  },
+  {
+    "id": "vrac-association-cofondateur",
+    "entity": "VRAC (Vers un Réseau d'Achat en Commun) - association",
+    "role": "founder",
+    "ownership_stake": null,
+    "period": "à partir de 2013",
+    "status": "historical",
+    "detail": "Participe à la création de l'association VRAC (groupements d'achat solidaires dans les quartiers prioritaires) avec Marc Uhry et Boris Tavernier.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/C%C3%A9dric_Van_Styvendael"
+    ]
+  },
+  {
+    "id": "metropole-lyon-vice-president-culture",
+    "entity": "Métropole de Lyon",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "juillet 2020 - mars 2026",
+    "status": "historical",
+    "detail": "Conseiller métropolitain de la Métropole de Lyon (circonscription Villeurbanne) et vice-président chargé de la Culture (2020-2026), fonctions exercées au titre de son mandat électif. Réélu conseiller métropolitain en mars 2026.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/C%C3%A9dric_Van_Styvendael",
+      "https://www.grandlyon.com/elu/cedric-van-styvendael"
+    ]
+  }
+]

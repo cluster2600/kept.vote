@@ -1,16 +1,53 @@
 [
   {
-    "id": "christophe-bechu-co-1",
-    "name": "Agence de financement des infrastructures de transport de France (AFITF)",
-    "role": "Président du conseil d'administration",
-    "description": "Établissement public administratif chargé de coordonner le financement des grands projets d'infrastructures de transport. Béchu en a présidé le conseil d'administration à partir d'avril 2018, fonction reconduite en juin 2021.",
-    "source_url": "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+    "id": "afitf-president-conseil-administration",
+    "entity": "Agence de financement des infrastructures de transport de France (AFITF)",
+    "role": "board_member",
+    "ownership_stake": "N/A (établissement public administratif de l'État)",
+    "period": "2018-2022 (nommé en avril 2018, reconduit en juin 2021)",
+    "status": "historical",
+    "detail": "Président du conseil d'administration de l'AFITF, établissement public chargé du financement des grandes infrastructures de transport. Béchu a occupé cette présidence à partir de 2018, avant sa nomination au gouvernement en 2022.",
+    "source_url": [
+      "https://www.lemoniteur.fr/article/christophe-bechu-president-du-conseil-d-administration-de-l-agence-de-financement-des-infrastructures-de-transport-de-france.1961284",
+      "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+    ]
   },
   {
-    "id": "christophe-bechu-co-2",
-    "name": "Dexia Crédit Local",
-    "role": "Membre du conseil d'administration",
-    "description": "Membre du conseil d'administration de Dexia Crédit Local entre 2007 et 2009, à l'époque de la crise du groupe bancaire franco-belge.",
-    "source_url": "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu"
+    "id": "dexia-credit-local-administrateur",
+    "entity": "Dexia Crédit Local",
+    "role": "board_member",
+    "ownership_stake": "N/A",
+    "period": "2007-2009",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration de Dexia Crédit Local de 2007 à 2009, selon une publication de L'Express (octobre 2008) reprise par Wikipédia.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Christophe_B%C3%A9chu",
+      "https://www.lexpress.fr/actualite/politique/dexia-rebsamen-part-les-autres-restent_639459.html"
+    ]
+  },
+  {
+    "id": "angers-loire-metropole-president",
+    "entity": "Angers Loire Métropole",
+    "role": "director",
+    "ownership_stake": "N/A (établissement public de coopération intercommunale)",
+    "period": "2014-présent (réélu pour des mandats successifs)",
+    "status": "current",
+    "detail": "Président d'Angers Loire Métropole (communauté urbaine puis métropole) depuis 2014, fonction exercée parallèlement à ses mandats de maire d'Angers puis de membre du conseil municipal. Cette présidence emporte des fonctions ex officio dans les structures satellites de la collectivité.",
+    "source_url": [
+      "https://www.angersloiremetropole.fr/medias/11250-christophe-bechu-elu-president-d-angers-loire-metropole/index.html",
+      "https://presse.angers.fr/communique/christophe-bechu-est-elu-president-dangers-loire-metropole"
+    ]
+  },
+  {
+    "id": "assistant-parlementaire-laffineur",
+    "entity": "Cabinet du député Marc Laffineur (assistant parlementaire)",
+    "role": "employee",
+    "ownership_stake": "N/A",
+    "period": "1998-2000",
+    "status": "historical",
+    "detail": "En début de carrière, Christophe Béchu a été assistant parlementaire du député Marc Laffineur de 1998 à 2000.",
+    "source_url": [
+      "https://biographie.whoswho.fr/bio/christophe-bechu_51920"
+    ]
   }
 ]

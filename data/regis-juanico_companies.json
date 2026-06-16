@@ -1,10 +1,42 @@
 [
   {
-    "id": "regis-juanico-conseils",
-    "name": "Régis Juanico Conseils",
-    "role": "Dirigeant / fondateur",
-    "status": "inactive_as_of_2026",
-    "description": "Société de conseil spécialisée dans les politiques publiques sportives, la lutte contre la sédentarité et la promotion des modes de vie actifs, fondée en 2022 après la fin du mandat de député. Activité suspendue lors de l'élection au poste de maire de Saint-Étienne en mars 2026.",
-    "source_url": "https://juanico2026.fr/juanico/"
+    "id": "ville-saint-etienne-maire",
+    "entity": "Ville de Saint-Étienne",
+    "role": "director",
+    "ownership_stake": "n/a (public office)",
+    "period": "2026–present",
+    "status": "current",
+    "detail": "Élu maire de Saint-Étienne le 27 mars 2026 à l'issue des élections municipales (liste d'union de la gauche, 44,13% au second tour), la ville basculant à gauche après douze ans de gestion par la droite. Fonction publique élective, et non une participation économique privée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=juanico-regis",
+      "https://www.saint-etienne.fr/actualites/regis-juanico-elu-maire-de-saint-etienne",
+      "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/regis-juanico-nouveau-maire-de-saint-etienne-deja-sur-le-terrain-3326303.html"
+    ]
+  },
+  {
+    "id": "saint-etienne-metropole-president",
+    "entity": "Saint-Étienne Métropole",
+    "role": "director",
+    "ownership_stake": "n/a (public office)",
+    "period": "2026–present",
+    "status": "current",
+    "detail": "Élu président de Saint-Étienne Métropole le 2 avril 2026, lors du premier conseil métropolitain, à la tête d'un exécutif de 19 vice-présidents. Présidence ès qualités d'un établissement public de coopération intercommunale (EPCI), confirmée par la fiche HATVP qui le mentionne comme « Président de Saint-Étienne Métropole ».",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=juanico-regis",
+      "https://mesinfos.fr/42000-saint-etienne/regis-juanico-nouveau-president-de-saint-etienne-metropole-243702.html",
+      "https://www.if-saint-etienne.fr/politique-societe/regis-juanico-est-elu-president-de-saint-etienne-metropole"
+    ]
+  },
+  {
+    "id": "hatvp-declaration-interets",
+    "entity": "HATVP — déclaration d'intérêts (Maire de Saint-Étienne / Président de Saint-Étienne Métropole)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "2026",
+    "status": "declared",
+    "detail": "Déclaration d'intérêts déposée auprès de la Haute Autorité pour la transparence de la vie publique au titre de ses fonctions de maire de Saint-Étienne et président de Saint-Étienne Métropole; mention « Déclaration déposée — publication à venir / En cours » sur la fiche nominative. Le contenu détaillé n'est pas publié en ligne (seules les déclarations de situation patrimoniale des membres du gouvernement et du collège de la HATVP sont publiées). Aucune participation économique privée n'a pu être sourcée publiquement.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=juanico-regis"
+    ]
   }
 ]

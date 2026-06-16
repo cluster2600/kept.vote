@@ -1,26 +1,79 @@
 [
   {
-    "id": "ep-co-areva",
-    "name": "Areva SA",
-    "role": "Directeur des affaires publiques",
-    "status": "Terminé",
-    "description": "Directeur des affaires publiques du groupe nucléaire Areva d'octobre 2007 à octobre 2010. Rôle de représentation et de gestion des relations avec les pouvoirs publics pour ce grand groupe industriel de l'énergie nucléaire.",
-    "source_url": "https://reporterre.net/Le-Premier-ministre-Edouard-Philippe-vient-d-Areva-et-n-a-pas-la-fibre-ecolo"
+    "id": "edouard-philippe-areva",
+    "entity": "Areva",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2007–2010",
+    "status": "historical",
+    "detail": "Recruté en octobre 2007, Édouard Philippe a occupé les fonctions de directeur des affaires publiques (et de la communication) du groupe nucléaire public Areva jusqu'en 2010, avant de devenir maire du Havre. Son rôle consistait notamment à assurer la liaison entre le groupe et le monde politique. Plusieurs sources de presse soulignent qu'il a cumulé durant cette période son emploi chez Areva avec son mandat d'adjoint au maire du Havre.",
+    "source_url": [
+      "https://www.lejdd.fr/Politique/edouard-philippe-areva-les-annees-mystere-3903513",
+      "https://www.lejdd.fr/Politique/edouard-philippe-trois-accrocs-sur-son-cv-3331013",
+      "https://www.universalis.fr/encyclopedie/edouard-philippe/2-carriere-politique-et-incursions-dans-le-prive/"
+    ]
   },
   {
-    "id": "ep-co-debevoise",
-    "name": "Debevoise & Plimpton LLP",
-    "role": "Avocat",
-    "status": "Terminé",
-    "description": "Avocat au sein du cabinet d'avocats international Debevoise & Plimpton LLP, spécialisé en droit des affaires. Poste occupé entre Sciences Po / ENA et son arrivée chez Areva (environ 2005–2007).",
-    "source_url": "https://www.lejdd.fr/Politique/edouard-philippe-trois-accrocs-sur-son-cv-3331013"
+    "id": "edouard-philippe-debevoise-plimpton",
+    "entity": "Debevoise & Plimpton LLP",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2004/2005–2007",
+    "status": "historical",
+    "detail": "Avant de rejoindre Areva, Édouard Philippe a exercé comme avocat au barreau de Paris au sein du cabinet d'affaires américain Debevoise & Plimpton, qu'il a intégré vers 2004-2005, après avoir débuté sa carrière au Conseil d'État (maître des requêtes). Les sources présentent de légères divergences sur les dates exactes (entrée en 2004 ou 2005, jusqu'en 2007).",
+    "source_url": [
+      "https://reporterre.net/Edouard-Philippe-a-travaille-pour-un-cabinet-d-avocats-pro-OGM",
+      "https://www.lejdd.fr/Politique/edouard-philippe-trois-accrocs-sur-son-cv-3331013"
+    ]
   },
   {
-    "id": "ep-co-wilhelm",
-    "name": "Wilhelm & Associés",
-    "role": "Avocat associé",
-    "status": "Terminé",
-    "description": "Avocat au sein du cabinet Wilhelm & Associés de mars 2011 à juillet 2012, entre son départ d'Areva et son élection comme député.",
-    "source_url": "https://www.lejdd.fr/Politique/edouard-philippe-trois-accrocs-sur-son-cv-3331013"
+    "id": "edouard-philippe-horizons",
+    "entity": "Horizons (parti politique)",
+    "role": "founder",
+    "ownership_stake": "n/a",
+    "period": "2021–présent",
+    "status": "current",
+    "detail": "Parti politique de centre-droit fondé le 9 octobre 2021 par Édouard Philippe, alors maire du Havre et ancien Premier ministre. Il en est le fondateur et président. Il ne s'agit pas d'une société commerciale mais d'une formation politique, mentionnée ici en raison de sa notoriété et de son rôle dirigeant. Christophe Béchu en est le secrétaire général.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Horizons_(political_party)",
+      "https://economie-politique.org/horizons/"
+    ]
+  },
+  {
+    "id": "edouard-philippe-le-havre-seine-metropole",
+    "entity": "Le Havre Seine Métropole (communauté urbaine)",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "2020–présent",
+    "status": "current",
+    "detail": "Élu président de la communauté urbaine Le Havre Seine Métropole le 15 juillet 2020, fonction qu'il exerce ès qualités de maire du Havre. Il s'agit d'un établissement public de coopération intercommunale (et non d'une société), regroupant 54 communes. Mandat exercé à titre public, sans rémunération de type privé.",
+    "source_url": [
+      "https://www.lehavreseinemetropole.fr/actualites/edouard-philippe-elu-president-de-la-communaute-urbaine-le-havre-seine-metropole",
+      "https://lehavre.fr/ma-ville/le-conseil-municipal/les-elus/edouard-philippe"
+    ]
+  },
+  {
+    "id": "edouard-philippe-pole-metropolitain-estuaire-seine",
+    "entity": "Pôle métropolitain de l'estuaire de la Seine",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "2020–présent",
+    "status": "current",
+    "detail": "Élu président du Pôle métropolitain de l'estuaire de la Seine, structure publique de coopération entre collectivités, fonction exercée ès qualités dans le cadre de ses mandats locaux.",
+    "source_url": [
+      "https://www.lehavreseinemetropole.fr/actualites/edouard-philippe-elu-president-du-pole-metropolitain-de-lestuaire-de-la-seine"
+    ]
+  },
+  {
+    "id": "edouard-philippe-aivp",
+    "entity": "Association internationale Villes et Ports (AIVP)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "2021–présent",
+    "status": "current",
+    "detail": "Préside l'Association internationale Villes et Ports (AIVP) depuis novembre 2021. Il s'agit d'une association, mandat exercé en lien avec ses fonctions de maire d'une ville portuaire.",
+    "source_url": [
+      "https://lehavre.fr/ma-ville/le-conseil-municipal/les-elus/edouard-philippe"
+    ]
   }
 ]
