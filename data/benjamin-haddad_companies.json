@@ -1,12 +1,43 @@
 [
   {
-    "id": "company-tocqueville-board",
-    "entity": "Fondation Tocqueville (non-profit foundation / think tank)",
-    "role": "Member of the Board of Directors",
-    "ownership_stake": "none (non-profit, no equity)",
-    "period": "2020-06 to present (as declared)",
-    "status": "declared",
-    "detail": "Unremunerated seat on the board of directors of a non-profit think-tank foundation, declared under category 3 of the HATVP declaration of interests (0 EUR each year). Not a commercial company and no capital participation.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254"]
+    "id": "atlantic-council",
+    "entity": "Atlantic Council (Europe Center / Future Europe Initiative), Washington, DC",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "February 2019 - June 2022",
+    "status": "historical",
+    "detail": "Senior Director of the Europe Center (also described as Director of the Future Europe Initiative) at the Atlantic Council, a US foreign-policy think tank. Expert on European politics and transatlantic relations; author of 'Le paradis perdu' / 'Paradise Lost: Europe in the World of Trump'. According to his own HATVP declaration d'interets, he received net compensation from the Atlantic Council of approximately 97,075 EUR (2019), 129,500 EUR (2020), 146,800 EUR (2021, about 12,200 EUR/month) and 76,400 EUR (Jan-Jun 2022). After his 2024 appointment as Minister for European Affairs, some media outlets raised questions of potential conflict of interest given the think tank's funding sources; these are commentary/allegations and no official inquiry, charge or court ruling has been documented.",
+    "source_url": [
+      "https://www.atlanticcouncil.org/expert/benjamin-haddad/",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=haddad-benjamin-24254",
+      "https://www.atlanticcouncil.org/news/press-releases/atlantic-council-names-benjamin-haddad-top-french-analyst-to-lead-europe-work/",
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad"
+    ]
+  },
+  {
+    "id": "hudson-institute",
+    "entity": "Hudson Institute, Washington, DC",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2014 - 2018",
+    "status": "historical",
+    "detail": "Research fellow at the Hudson Institute, a US think tank, specializing in European and transatlantic affairs before moving to the Atlantic Council. Wikipedia and his Atlantic Council bio describe him as a fellow at Hudson from 2014 to 2018.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_Haddad",
+      "https://www.atlanticcouncil.org/expert/benjamin-haddad/",
+      "https://www.hudson.org/foreign-policy/benjamin-haddad-on-radio-monte-carlo"
+    ]
+  },
+  {
+    "id": "sciences-po-lecturer",
+    "entity": "Sciences Po Paris",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "circa 2018-2022 (exact dates not specified)",
+    "status": "historical",
+    "detail": "Lecturer in international affairs at Sciences Po Paris, his alma mater (MA in international affairs). Listed as a teaching affiliation in his Atlantic Council biography.",
+    "source_url": [
+      "https://www.atlanticcouncil.org/expert/benjamin-haddad/"
+    ]
   }
 ]

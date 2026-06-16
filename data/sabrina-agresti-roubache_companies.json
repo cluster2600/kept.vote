@@ -1,41 +1,160 @@
 [
   {
-    "id": "seconde-vague-productions",
-    "entity": "Seconde Vague Productions",
-    "role": "Dirigeante / présidente",
-    "ownership_stake": "Reprise via la holding Gurkin (part non précisée publiquement)",
-    "period": "2017-2023",
-    "status": "Quittée à l'entrée au gouvernement",
-    "detail": "Société de production fondée par Paul Saadoun (décédé en 2018), reprise par Sabrina Agresti-Roubache via Gurkin en mars 2019. La HATVP a assorti la validation de sa déclaration d'une réserve : prendre un décret de déport pour s'abstenir de toute décision concernant deux sociétés qu'elle présidait jusqu'à sa nomination.",
+    "id": "gurkin-production",
+    "entity": "GURKIN PRODUCTION (SARL, RCS 800 182 412, Marseille)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "07/02/2014 - 14/05/2023",
+    "status": "historical",
+    "detail": "Société de production de films cinématographiques, vidéo et programmes de télévision (enregistrement sonore et édition musicale), créée le 05/02/2014 à Marseille. Capital 100 €. Sabrina Agresti-Roubache y figure comme ancienne dirigeante du 07/02/2014 au 14/05/2023. Société aujourd'hui cessée.",
     "source_url": [
-      "https://wikimonde.com/article/Sabrina_Agresti-Roubache",
-      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html"
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/gurkin-production-800182412"
     ]
   },
   {
-    "id": "gurkin-entertainment-production",
-    "entity": "Gurkin (Gurkin Entertainment / Gurkin Production)",
-    "role": "Fondatrice / dirigeante",
-    "ownership_stake": "Fondatrice (société personnelle)",
-    "period": "2014-",
-    "status": "Active (déport en fonctions ministérielles)",
-    "detail": "Société de production créée en 2014 (forme SARL) pour ses projets personnels ; production exécutive de la série « Marseille » pour Netflix.",
+    "id": "gurkin-invest-films",
+    "entity": "GURKIN INVEST FILMS (SAS, RCS 820 632 537, La Ciotat)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "16/03/2017 - 07/03/2023",
+    "status": "historical",
+    "detail": "Société de production audiovisuelle créée le 12/05/2016 à La Ciotat. Capital 3 230 €. Sabrina Agresti-Roubache y figure comme ancienne dirigeante du 16/03/2017 au 07/03/2023.",
     "source_url": [
-      "https://www.pappers.fr/entreprise/gurkin-entertainment-829499664",
-      "https://wikimonde.com/article/Sabrina_Agresti-Roubache"
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/gurkin-invest-films-820632537"
     ]
   },
   {
     "id": "gurkin-invest-films-corse",
-    "entity": "Gurkin Invest Films Corse",
-    "role": "Dirigeante / fondatrice",
-    "ownership_stake": "Non précisée publiquement",
-    "period": "Société fermée",
-    "status": "Fermée",
-    "detail": "Société domiciliée à l'adresse de Jean Casta, ancien maire de Pietralba (Haute-Corse), condamné en 2013 dans une affaire de cercle de jeux parisien liée à l'organisation criminelle corse « Brise de Mer ». L'intéressée a déclaré ignorer ce passé judiciaire et avoir choisi cette domiciliation pour des raisons économiques (Casta présenté comme cousin de son mari).",
+    "entity": "GURKIN INVEST FILMS CORSE (SAS, RCS 824 768 287, Pietralba)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "11/01/2017 - liquidation vers 2020",
+    "status": "historical",
+    "detail": "Société de production audiovisuelle créée le 18/12/2016 à Pietralba (Haute-Corse). Capital 1 000 €. Sabrina Agresti-Roubache y figure comme présidente depuis le 11/01/2017. Société cessée/liquidée vers 2020. Cette société était domiciliée chez Jean Casta, ancien maire de Pietralba (voir fichier justice: condamnation de Casta en 2013 - tiers, sans rapport avec une mise en cause de Mme Agresti-Roubache).",
     "source_url": [
-      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/on-vous-explique-pourquoi-la-declaration-d-interet-de-sabrina-agresti-roubache-fait-polemique-2896877.html",
-      "https://www.manageo.fr/entreprises/824768287.html"
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/gurkin-invest-films-corse-824768287",
+      "https://marsactu.fr/bref/sabrina-agresti-roubache-pointee-pour-sa-declaration-dinterets/"
+    ]
+  },
+  {
+    "id": "gurkin-entertainment",
+    "entity": "GURKIN ENTERTAINMENT (SAS, RCS 829 499 664, Marseille 10e)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "09/05/2017 - cessée",
+    "status": "historical",
+    "detail": "Société de production de films/vidéo et programmes de télévision, créée le 02/05/2017 à Marseille (10e). Capital 1 000 €. Sabrina Agresti-Roubache y figure comme présidente depuis le 09/05/2017. Société cessée.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/gurkin-entertainment-829499664"
+    ]
+  },
+  {
+    "id": "gurkin-entertainment-capital",
+    "entity": "GURKIN ENTERTAINMENT CAPITAL (SAS, RCS 830 547 584, Marseille 10e)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "29/06/2017 - 07/06/2023",
+    "status": "historical",
+    "detail": "SAS d'activités de services financiers (hors assurance et caisses de retraite), créée le 06/06/2017 à Marseille (10e). Capital 100 €. Ancienne dirigeante du 29/06/2017 au 07/06/2023. Société cessée.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/gurkin-entertainment-capital-830547584"
+    ]
+  },
+  {
+    "id": "seconde-vague-productions",
+    "entity": "SECONDE VAGUE PRODUCTIONS (SAS, RCS 750 724 957, La Ciotat)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "06/05/2019 - 09/03/2023",
+    "status": "historical",
+    "detail": "Société de production audiovisuelle créée le 13/02/2012, basée à La Ciotat. Capital 120 000 €; résultat net 280 k€ (2021). Sabrina Agresti-Roubache y figure comme ancienne dirigeante du 06/05/2019 au 09/03/2023. Selon la presse, elle aurait acquis cette société (auparavant liée à Paul Saadoun).",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/seconde-vague-productions-750724957"
+    ]
+  },
+  {
+    "id": "backlotm",
+    "entity": "BACKLOTM (SAS, RCS 848 067 559, Ensues-la-Redonne)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "02/01/2023 - 14/05/2023",
+    "status": "historical",
+    "detail": "SAS de services d'information, créée le 13/01/2019. Capital 1 500 €. Sabrina Agresti-Roubache y figure comme ancienne représentante du 02/01/2023 au 14/05/2023. Société cessée.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/backlotm-848067559"
+    ]
+  },
+  {
+    "id": "moonsize",
+    "entity": "MOONSIZE (SARL, RCS 507 459 089, Marseille)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "20/04/2017 - cessée",
+    "status": "historical",
+    "detail": "SARL d'activités de publicité et études de marché, créée le 28/07/2008 à Marseille. Capital 200 €. Sabrina Agresti-Roubache y figure comme gérante depuis le 20/04/2017. Société cessée.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/moonsize-507459089"
+    ]
+  },
+  {
+    "id": "maelys-sci",
+    "entity": "MAELYS (SCI, RCS 512 804 824, Marseille 11e)",
+    "role": "director",
+    "ownership_stake": "associée indéfiniment responsable (stake non chiffré)",
+    "period": "05/06/2009 - cessée",
+    "status": "historical",
+    "detail": "Société civile immobilière (activités immobilières) créée le 14/05/2009 à Marseille (11e). Capital 85 000 €. Sabrina Agresti-Roubache y figure comme gérante et associée indéfiniment responsable depuis le 05/06/2009. Société cessée.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/maelys-512804824"
+    ]
+  },
+  {
+    "id": "sasu-la-pomme-bar",
+    "entity": "SASU LA POMME BAR (SAS, RCS 810 123 091, Marseille)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "à partir du 30/03/2015 (liquidatrice)",
+    "status": "historical",
+    "detail": "SAS de restauration créée le 02/02/2015 à Marseille. Capital 100 €. Sabrina Agresti-Roubache y figure comme liquidatrice depuis le 30/03/2015. Société cessée.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/sasu-la-pomme-bar-810123091"
+    ]
+  },
+  {
+    "id": "strategy-for-impact",
+    "entity": "STRATEGY FOR IMPACT (SAS, RCS 938 057 619, Marseille)",
+    "role": "director",
+    "ownership_stake": "non documenté",
+    "period": "03/12/2024 - 19/12/2025",
+    "status": "historical",
+    "detail": "SAS d'activités des sièges sociaux / conseil de gestion, créée le 23/11/2024 à Marseille (après son passage au gouvernement 2023-2024). Sabrina Agresti-Roubache y figure comme ancienne dirigeante du 03/12/2024 au 19/12/2025. La création/reprise d'activité dans les trois ans suivant la sortie du gouvernement relève d'un contrôle déontologique HATVP.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/strategy-for-impact-938057619",
+      "https://www.hatvp.fr/wordpress/wp-content/uploads/2025/02/2024-322-Sabrina-Agresti-Roubache-creation-societe.pdf"
+    ]
+  },
+  {
+    "id": "world-trade-center-marseille-provence",
+    "entity": "WORLD TRADE CENTER MARSEILLE PROVENCE (SA, RCS 070 805 320, Marseille)",
+    "role": "board_member",
+    "ownership_stake": "non documenté",
+    "period": "26/09/2017 - 02/03/2023",
+    "status": "historical",
+    "detail": "SA à conseil d'administration (activités administratives et soutien aux entreprises), liée à la Chambre de commerce et d'industrie. Sabrina Agresti-Roubache y figure comme ancienne représentante du 26/09/2017 au 02/03/2023. Rôle institutionnel/mandat de représentation, non une participation capitalistique documentée.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/sabrina_roubache_1976-10",
+      "https://www.pappers.fr/entreprise/world-trade-center-marseille-provence-070805320"
     ]
   }
 ]

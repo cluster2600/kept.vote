@@ -1,15 +1,147 @@
 [
   {
-    "id": "sas-anne-le-henanff-conseil-communication",
-    "entity": "SAS Anne Le Hénanff conseil et communication",
-    "role": "Présidente salariée",
-    "ownership_stake": "Non publiée (société de conseil personnelle)",
-    "period": "2017-2024 (présidente salariée déclarée de janvier 2020 à janvier 2024)",
-    "status": "mise en veille depuis le début du mandat de députée (rémunération à 0 € en 2023-2024)",
-    "detail": "Société de conseil dans le numérique et la cybersécurité créée par Anne Le Hénanff. La HATVP indique l'absence de participation financière directe dans le capital d'une société (rubrique 4° : Néant) à la date de la nomination.",
+    "id": "anne-le-henanff-conseils-et-communication",
+    "entity": "SAS Anne Le Hénanff Conseils et Communication",
+    "role": "founder",
+    "ownership_stake": "associée unique (sole shareholder); share capital 1 000 €",
+    "period": "2016-2025 (created 18 April 2016; dissolved by sole shareholder 23 May 2025; RCS radiation 5 September 2025)",
+    "status": "historical",
+    "detail": "Digital/communications and management consultancy (NAF 7022Z) based in Vannes (Morbihan). She was salaried president; in her HATVP declaration she lists herself as 'présidente salariée' of this company from 01/2020 to 01/2024 (net remuneration: 2020 €6,262; 2021 €6,258; 2022 €1,899; 2023 €0; 2024 €0). The company's INSEE establishment was closed 25 July 2025 and the firm was dissolved/liquidated, with Anne Le Hénanff acting as sole shareholder and liquidator per the legal dissolution notice. (Note: the RNE/registry lists the manager under the name 'Anne LE DIRACH', the same person; the dissolution legal notice names 'Madame Anne LE HENANFF' as associée unique and liquidateur.)",
     "source_url": [
       "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278",
-      "https://www.frenchweb.fr/qui-est-anne-le-henanff-nouvelle-ministre-de-lintelligence-artificielle-et-du-numerique/457722"
+      "https://www.societe.com/societe/anne-le-henanff-conseils-et-communication-819703919.html"
+    ]
+  },
+  {
+    "id": "morbihan-energies",
+    "entity": "Morbihan Energies (syndicat départemental d'énergies)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "01/2020-11/2020",
+    "status": "historical",
+    "detail": "Declared in HATVP déclaration d'intérêts as 'chargée de mission' (mission officer). Net remuneration 2020: €13,826.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "women4cyber-europe",
+    "entity": "Women4Cyber Europe",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "01/2020-07/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP as member of the board of directors (conseil d'administration). Unpaid (€0 net all years).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "women4cyber-france",
+    "entity": "Women4Cyber France",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "10/2021-07/2025",
+    "status": "historical",
+    "detail": "Declared in HATVP as elected member of the board of directors (membre élue du conseil d'administration). Unpaid (€0 net all years).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "caisse-epargne-bpl-cos",
+    "entity": "Caisse d'Epargne Bretagne Pays de Loire (Conseil d'orientation et de surveillance)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "09/2021-07/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP as member of the Conseil d'orientation et de surveillance (COS). Net remuneration 2021: €3,600; 2022: €0.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "fnccr",
+    "entity": "FNCCR (Fédération nationale des collectivités concédantes et régies)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "01/2021-07/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP as administratrice (board director). Net remuneration 2021: €450; 2022: €150. Also listed as a benevolent membership.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "megalis-bretagne",
+    "entity": "Mégalis Bretagne (syndicat mixte de coopération territoriale)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "01/2020-07/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP as elected member of the bureau (membre élue au bureau). Unpaid (€0 net all years).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "incrt",
+    "entity": "INCRT (Institut national pour la cybersécurité et la résilience des territoires)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "06/2020-07/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP as member of the board of directors and bureau (membre du conseil d'administration et du bureau). Unpaid (€0 net all years).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "syndicat-energie-finistere",
+    "entity": "Syndicat Départemental d'Energie du Finistère",
+    "role": "consultant",
+    "ownership_stake": "n/a",
+    "period": "01/2022-02/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP under consulting activities: 'note de cadrage cybersécurité' (cybersecurity framing note). Net remuneration 2022: €2,040.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "region-pays-de-la-loire-conseil",
+    "entity": "Région Pays de la Loire",
+    "role": "consultant",
+    "ownership_stake": "n/a",
+    "period": "01/2022-03/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP under consulting activities: 'étude d'organisation de la cybersécurité' (cybersecurity organisation study). Net remuneration 2022: €4,800.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "fondation-universite-bretagne-sud-chaire",
+    "entity": "Fondation Université Bretagne Sud",
+    "role": "consultant",
+    "ownership_stake": "n/a",
+    "period": "01/2020-01/2021",
+    "status": "historical",
+    "detail": "Declared in HATVP under consulting activities as 'titulaire de chaire' (chair holder). Net remuneration 2020: €18,900; 2021: €2,700.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
+    ]
+  },
+  {
+    "id": "universite-catholique-ouest-arradon",
+    "entity": "Université Catholique de l'Ouest - Arradon",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "05/2021-03/2022",
+    "status": "historical",
+    "detail": "Declared in HATVP as 'enseignant vacataire' (visiting lecturer). Net remuneration 2021: €234; 2022: €75.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-henanff-anne-24278"
     ]
   }
 ]

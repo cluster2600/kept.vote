@@ -1,12 +1,41 @@
 [
   {
-    "id": "aucune-participation-dirigeante",
-    "entity": "Aucune société déclarée",
-    "role": "Néant",
-    "ownership_stake": "Néant",
-    "period": "À la date de la nomination et au cours des cinq années précédentes",
-    "status": "declared",
-    "detail": "La déclaration d'intérêts HATVP ne mentionne aucune participation aux organes dirigeants d'un organisme public ou privé (rubrique 3 : Néant), aucune participation financière directe au capital d'une société (rubrique 4 : Néant) et aucune activité de consultant (rubrique 2 : Néant).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu"]
+    "id": "macp-conseiller",
+    "entity": "MACP",
+    "role": "advisor",
+    "ownership_stake": "none",
+    "period": "01/2020 - 07/2020",
+    "status": "historical",
+    "detail": "Listed in his HATVP declaration d'interets (deposited 26 October 2025) as 'Conseiller' (advisor) employed by MACP from January 2020 to July 2020, with declared net remuneration of 50,733 EUR for 2020. Reported as salaried employment, not an ownership or directorship role.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu",
+      "https://www.hatvp.fr/livraison/dossiers/lefevre-mathieu-di34872-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "ministere-interieur-conseiller",
+    "entity": "Ministere de l'Interieur (cabinet)",
+    "role": "advisor",
+    "ownership_stake": "none",
+    "period": "07/2020 - 05/2022",
+    "status": "historical",
+    "detail": "Listed in his HATVP declaration d'interets as 'Conseiller' employed by the Ministere de l'Interieur from July 2020 to May 2022 (declared net remuneration 62,600 EUR in 2020, 87,650 EUR in 2021, 39,770 EUR in 2022). Press reports describe him as an adviser, then chief of staff (chef de cabinet/conseiller special), to Interior Minister Gerald Darmanin. A public-sector ministerial cabinet role, not a commercial company; included for completeness as prior declared employment.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu",
+      "https://lhemicycle.com/2025/02/18/mathieu-lefevre-lhomme-qui-murmurait-a-loreille-de-darmanin/"
+    ]
+  },
+  {
+    "id": "no-company-ownership-declared",
+    "entity": "No company ownership or directorship",
+    "role": "none",
+    "ownership_stake": "none",
+    "period": "as of 26/10/2025",
+    "status": "none",
+    "detail": "His HATVP declaration d'interets reports 'Neant' (none) for consultant activities (rubric 2), for participation in the governing bodies of any public or private organisation or company over the prior five years (rubric 3), and for any direct financial holdings in the capital of a company (rubric 4). No company directorships, shareholdings, or business ownership were declared. Searches of business registries (Pappers/INPI) for this individual returned only unrelated namesakes.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lefevre-mathieu",
+      "https://www.hatvp.fr/livraison/dossiers/lefevre-mathieu-di34872-gouvernement.pdf"
+    ]
   }
 ]

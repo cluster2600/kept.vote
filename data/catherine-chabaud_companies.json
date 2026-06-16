@@ -1,22 +1,131 @@
 [
   {
-    "id": "innovations-bleues",
-    "entity": "Innovations Bleues (association)",
-    "role": "Co-fondatrice / dirigeante",
-    "ownership_stake": "Sans objet (association à but non lucratif)",
-    "period": "2014-présent",
-    "status": "declared",
-    "detail": "Association d'intérêt général créée en 2014, dédiée au développement durable des activités maritimes et fluviales (programmes EcoNav, Ocean As Common, Greenlandia). Catherine Chabaud en est co-fondatrice et figure dirigeante. Non commercial.",
-    "source_url": ["http://innovationsbleues.org/", "https://fr.m.wikipedia.org/wiki/Catherine_Chabaud"]
+    "id": "yacht-club-de-france",
+    "entity": "Yacht Club de France",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "2025-present",
+    "status": "current",
+    "detail": "Elected President of the Yacht Club de France at the annual general assembly on 21 May 2025, becoming the first woman to lead the institution. Non-commercial sporting/maritime club presidency.",
+    "source_url": [
+      "https://ycf-club.fr/catherine-chabaud-elue-presidente-du-yacht-club-de-france/",
+      "https://www.mer.gouv.fr/biographie-de-catherine-chabaud"
+    ]
   },
   {
-    "id": "yacht-club-de-france",
-    "entity": "Yacht Club de France (association)",
-    "role": "Présidente (quittée pour cause de conflit d'intérêts)",
-    "ownership_stake": "Sans objet (association)",
-    "period": "2025",
-    "status": "declared",
-    "detail": "Élue présidente le 21 mai 2025 ; après sa nomination au gouvernement, elle se met en situation d'empêchement puis quitte la présidence. La HATVP lui impose un déport sur tous les sujets concernant le Yacht Club de France.",
-    "source_url": ["https://ycf-club.fr/catherine-chabaud-elue-presidente-du-yacht-club-de-france/", "https://marine-oceans.com/actualites/yacht-club-de-france-la-ministre-catherine-chabaud-quitte-la-presidence/", "https://lcp.fr/actualites/declarations-d-interets-des-ministres-14-ministres-sommes-de-se-deporter-de-certains"]
+    "id": "academie-de-marine",
+    "entity": "Académie de marine",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "2024-present",
+    "status": "current",
+    "detail": "Member of the Académie de marine, which she joined in 2024. Learned/advisory body on maritime affairs.",
+    "source_url": [
+      "https://www.mer.gouv.fr/biographie-de-catherine-chabaud",
+      "https://en.wikipedia.org/wiki/Catherine_Chabaud"
+    ]
+  },
+  {
+    "id": "institut-francais-de-la-mer",
+    "entity": "Institut français de la mer (IFM)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "2024-present",
+    "status": "current",
+    "detail": "Joined the Institut français de la mer in 2024; reported as vice-president of the IFM. Maritime advocacy/think-tank association.",
+    "source_url": [
+      "https://www.mer.gouv.fr/biographie-de-catherine-chabaud",
+      "https://en.wikipedia.org/wiki/Catherine_Chabaud"
+    ]
+  },
+  {
+    "id": "innovations-bleues",
+    "entity": "Innovations Bleues",
+    "role": "founder",
+    "ownership_stake": "n/a",
+    "period": "historical-present",
+    "status": "current",
+    "detail": "Co-founder of the association Innovations Bleues, dedicated to the sustainable development of maritime activities through eco-innovation; co-pilots the 'Voilier du Futur' (Future Sailing) project, a demonstrator of the energy and ecological transition of ships.",
+    "source_url": [
+      "https://innovationsbleues.org/",
+      "https://www.ecologie.gouv.fr/catherine-chabaud"
+    ]
+  },
+  {
+    "id": "fondation-de-la-mer",
+    "entity": "Fondation de la Mer",
+    "role": "founder",
+    "ownership_stake": "n/a",
+    "period": "2015-present",
+    "status": "current",
+    "detail": "Co-founder (June 2015) of the Fondation de la Mer, a foundation intended to promote the maritime dimension of France.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Catherine_Chabaud",
+      "https://www.ecologie.gouv.fr/catherine-chabaud"
+    ]
+  },
+  {
+    "id": "plateforme-ocean-et-climat",
+    "entity": "Plateforme Océan et Climat (Ocean & Climate Platform)",
+    "role": "founder",
+    "ownership_stake": "n/a",
+    "period": "2010-2015",
+    "status": "historical",
+    "detail": "Co-founder of the Plateforme Océan et Climat during her tenure (2010-2015) as a member of the Conseil économique, social et environnemental (CESE). Coalition of ocean-and-climate organisations.",
+    "source_url": [
+      "https://www.mer.gouv.fr/biographie-de-catherine-chabaud",
+      "https://en.wikipedia.org/wiki/Catherine_Chabaud"
+    ]
+  },
+  {
+    "id": "appel-ocean-bien-commun",
+    "entity": "Appel pour l'Océan, bien commun de l'Humanité",
+    "role": "founder",
+    "ownership_stake": "n/a",
+    "period": "2018-present",
+    "status": "current",
+    "detail": "Co-initiated in 2018 (on World Ocean Day) the appeal 'L'Océan, bien commun de l'Humanité', aimed at raising awareness and finding solutions against marine pollution.",
+    "source_url": [
+      "https://www.mer.gouv.fr/biographie-de-catherine-chabaud"
+    ]
+  },
+  {
+    "id": "calliste-sci",
+    "entity": "CALLISTE (SCI, 803 584 556)",
+    "role": "shareholder",
+    "ownership_stake": "associate (associé indéfiniment responsable); stake not disclosed",
+    "period": "2021-present",
+    "status": "current",
+    "detail": "Listed in the INPI/Pappers business registry as 'associé indéfiniment responsable' since 29 January 2021 of CALLISTE, a société civile immobilière (real-estate company, capital EUR 9,990) based in Beaucouzé (Pays de la Loire), her home region. Identity match on name and birth month (11/1962, French) per Pappers dirigeant record.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/catherine_chabaud_1962-11",
+      "https://www.pappers.fr/entreprise/calliste-803584556"
+    ]
+  },
+  {
+    "id": "ephese-sarl",
+    "entity": "EPHESE (SARL, 378 559 074)",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "until 2019 (liquidator from 31/12/2019; company ceased)",
+    "status": "historical",
+    "detail": "Per INPI/Pappers, served as liquidator of EPHESE (a SARL, 'activités des sièges sociaux / conseil de gestion') from 31 December 2019; the company has since ceased. Based in Bécon-les-Granits (Pays de la Loire). Identity match on name and birth month per Pappers dirigeant record.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/catherine_chabaud_1962-11",
+      "https://www.pappers.fr/entreprise/ephese-378559074"
+    ]
+  },
+  {
+    "id": "sci-loreto",
+    "entity": "SCI LORETO (388 935 892)",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "2016-2020",
+    "status": "historical",
+    "detail": "Per INPI/Pappers, former representative ('ancien représentant') of SCI LORETO, a société civile immobilière in Bécon-les-Granits (Pays de la Loire), from 27 July 2016 to 12 February 2020. Identity match on name and birth month per Pappers dirigeant record.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/catherine_chabaud_1962-11",
+      "https://www.pappers.fr/entreprise/sci-loreto-388935892"
+    ]
   }
 ]

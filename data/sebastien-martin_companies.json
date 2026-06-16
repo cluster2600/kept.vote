@@ -1,26 +1,85 @@
 [
   {
-    "id": "sem-val-de-bourgogne",
-    "entity": "SEM Val de Bourgogne (société d'économie mixte)",
-    "role": "Président du conseil d'administration",
-    "ownership_stake": "Aucune participation personnelle (mandat ès qualités d'élu)",
-    "period": "Janvier 2020 - novembre 2025",
-    "status": "former",
-    "detail": "Présidence du conseil d'administration de la SEM Val de Bourgogne exercée au titre de ses fonctions d'élu local (déclaration d'intérêts HATVP).",
+    "id": "le-grand-chalon",
+    "entity": "Communauté d'agglomération Le Grand Chalon (Chalon-sur-Saône)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2014-2025",
+    "status": "historical",
+    "detail": "Président de la communauté d'agglomération Le Grand Chalon du 17 avril 2014 au 22 novembre 2025. Mandat exécutif local figurant dans sa déclaration d'intérêts auprès de la HATVP. Après sa nomination au gouvernement, il a quitté la présidence tout en restant conseiller communautaire (à compter de novembre 2025 selon la fiche HATVP).",
     "source_url": [
-      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872",
+      "https://www.economie.gouv.fr/ministres/sebastien-martin",
+      "https://www.info-chalon.com/articles/2025/10/26/104570/l-aventure-ministerielle-de-sebastien-martin-n-est-pas-sans-consequences-locales/"
     ]
   },
   {
-    "id": "spl-sud-bourgogne-amenagement",
-    "entity": "SPL Sud Bourgogne Aménagement (société publique locale)",
-    "role": "Membre du conseil d'administration",
-    "ownership_stake": "Aucune participation personnelle (mandat ès qualités d'élu)",
-    "period": "Mandat d'élu local",
-    "status": "former",
-    "detail": "Mandat d'administrateur exercé au titre de ses fonctions d'élu local (déclaration d'intérêts HATVP).",
+    "id": "intercommunalites-de-france",
+    "entity": "Intercommunalités de France (anciennement Assemblée des Communautés de France / AdCF)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2020-2025",
+    "status": "historical",
+    "detail": "Président de l'association Intercommunalités de France (ex-AdCF) à partir de novembre 2020, réélu par la suite. Association nationale représentant les intercommunalités françaises. Fonction associative figurant dans ses fonctions déclarées.",
     "source_url": [
-      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872"
+      "https://www.lejsl.com/politique/2020/11/05/sebastien-martin-prend-la-tete-de-l-assemblee-des-communautes-de-france",
+      "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/sebastien-martin-president-du-grand-chalon-reelu-president-de-l-association-intercommunalites-de-france.html",
+      "https://en.wikipedia.org/wiki/S%C3%A9bastien_Martin"
+    ]
+  },
+  {
+    "id": "conseil-departemental-saone-et-loire",
+    "entity": "Conseil départemental de Saône-et-Loire (canton de Givry)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2015-2025",
+    "status": "historical",
+    "detail": "Conseiller départemental de Saône-et-Loire (canton de Givry) depuis avril 2015 ; vice-président (1er vice-président selon plusieurs sources) du conseil départemental, fonction déclarée d'environ janvier 2020 à novembre 2025 selon la fiche HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872",
+      "https://www.economie.gouv.fr/ministres/sebastien-martin",
+      "https://www.info-chalon.com/articles/2025/11/17/105183/conseil-departemental-de-saone-et-loire-la-chalonnaise-amelle-deschamps-s-installe-a-la-1ere-vice-presidence-du-departement/"
+    ]
+  },
+  {
+    "id": "mairie-chalon-sur-saone",
+    "entity": "Ville de Chalon-sur-Saône",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2014-2025",
+    "status": "historical",
+    "detail": "Conseiller municipal de Chalon-sur-Saône à compter du 23 mars 2014, mandat local déclaré auprès de la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=martin-sebastien-5872",
+      "https://www.legrandchalon.fr/personne/martin-sebastien/"
+    ]
+  },
+  {
+    "id": "assemblee-nationale-saone-et-loire-5e",
+    "entity": "Assemblée nationale (5e circonscription de Saône-et-Loire)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2025",
+    "status": "historical",
+    "detail": "Député de la 5e circonscription de Saône-et-Loire, élu lors d'une législative partielle (en fonction du 26 mai 2025 jusqu'à sa nomination au gouvernement en octobre 2025, le mandat étant ensuite suspendu). Membre de la commission des Affaires culturelles et de l'Éducation.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA870010",
+      "https://en.wikipedia.org/wiki/S%C3%A9bastien_Martin",
+      "https://www.info-chalon.com/articles/2025/10/12/104151/sebastien-martin-depute-de-saone-et-loire-nomme-ministre-delegue-a-l-industrie/"
+    ]
+  },
+  {
+    "id": "ministre-delegue-industrie",
+    "entity": "Gouvernement français – Ministre délégué chargé de l'Industrie",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2025-present",
+    "status": "current",
+    "detail": "Ministre délégué chargé de l'Industrie auprès du ministre de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique, nommé le 12 octobre 2025 (gouvernement Lecornu). Fonction gouvernementale, et non une affiliation à une entité privée.",
+    "source_url": [
+      "https://www.economie.gouv.fr/ministres/sebastien-martin",
+      "https://www.info.gouv.fr/personnalite/sebastien-martin",
+      "https://www.francebleu.fr/infos/politique/le-president-du-grand-chalon-sebastien-martin-nomme-ministre-delegue-a-l-industrie-dans-le-nouveau-gouvernement-lecornu-2193310"
     ]
   }
 ]
