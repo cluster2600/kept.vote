@@ -1,0 +1,25 @@
+[
+  {
+    "id": "berge-cjr-faux-temoignage-creches",
+    "case": "Soupçon de faux témoignage devant une commission d'enquête parlementaire (affaire des crèches privées / liens avec la lobbyiste Elsa Hervy)",
+    "period": "2024-2026",
+    "type": "investigation",
+    "description": "Aurore Bergé fait l'objet, depuis janvier 2025, d'une information judiciaire ouverte par la Cour de justice de la République (CJR) pour suspicion de faux témoignage sous serment devant une commission d'enquête parlementaire. Il lui est reproché d'avoir déclaré, le 30 avril 2024, n'avoir aucun lien 'personnel, intime ou amical' avec Elsa Hervy, déléguée générale de la Fédération française des entreprises de crèches (FFEC), ce que des révélations ultérieures (ouvrage 'Les Ogres' de Victor Castanet, septembre 2024) ont mis en cause. Entendue deux fois en 2025 comme témoin assisté, elle n'a jamais été mise en examen.",
+    "status": "ongoing",
+    "outcome": "Enquête close sans mise en examen ; le parquet général près la Cour de cassation a requis un non-lieu le 20 mai 2026 ; la décision finale appartient à la commission d'instruction de la CJR, non encore rendue au 16 juin 2026.",
+    "court": "Cour de justice de la République (CJR), commission d'instruction ; réquisitions du parquet général près la Cour de cassation",
+    "presumption_note": "Aurore Bergé bénéficie de la présomption d'innocence. Elle n'a fait l'objet d'aucune mise en examen ni condamnation. Son statut durant l'instruction était celui de témoin assisté. Un non-lieu a été REQUIS par le parquet mais n'a pas été formellement prononcé par la commission d'instruction à la date du 16 juin 2026.",
+    "key_facts": [
+      "Information judiciaire ouverte par la CJR fin janvier 2025 sur signalement du bureau de l'Assemblée nationale, pour faux témoignage sous serment devant une commission d'enquête.",
+      "Statut de témoin assisté : entendue en juin et en octobre 2025 ; aucune mise en examen prononcée.",
+      "Les investigations n'ont pas établi l'existence d'un lien personnel, intime ou amical entre Aurore Bergé et Elsa Hervy, ni la fausseté de ses déclarations du 30 avril 2024.",
+      "Le parquet général près la Cour de cassation a requis un non-lieu le 20 mai 2026 ; la commission d'instruction de la CJR doit statuer définitivement (décision non rendue au 16 juin 2026)."
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/info-en-continu/20260520-soup%C3%A7on-de-faux-t%C3%A9moignage-sur-les-cr%C3%A8ches-le-parquet-g%C3%A9n%C3%A9ral-requiert-un-non-lieu-en-faveur-d-aurore-berg%C3%A9",
+      "https://www.franceinfo.fr/societe/enfance-et-adolescence/soupcons-de-faux-temoignage-sur-les-creches-l-enquete-visant-aurore-berge-terminee-sans-mise-en-examen_7982750.html",
+      "https://lcp.fr/actualites/creches-une-information-judiciaire-ouverte-contre-aurore-berge-pour-faux-temoignage",
+      "https://www.franceinfo.fr/politique/la-ministre-deleguee-aurore-berge-visee-par-une-information-judiciaire-pour-faux-temoignage-en-commission-d-enquete-parlementaire_7047671.html"
+    ]
+  }
+]

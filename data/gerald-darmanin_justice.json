@@ -1,0 +1,65 @@
+[
+  {
+    "id": "darmanin-viol-patterson-spatz",
+    "case": "Accusation de viol / abus de faiblesse (plainte de Sophie Patterson-Spatz, faits allégués à Paris en 2009)",
+    "period": "2017-2024",
+    "type": "dismissal",
+    "description": "Sophie Patterson-Spatz a accusé Gérald Darmanin de l'avoir violée à Paris en 2009, alors qu'elle sollicitait son aide pour faire réexaminer une affaire judiciaire la concernant. Darmanin a toujours nié les faits, affirmant que la relation sexuelle était consentie. Après plusieurs classements puis l'ouverture d'une information judiciaire, un non-lieu a été prononcé en sa faveur et est devenu définitif.",
+    "status": "dismissed",
+    "outcome": "Non-lieu définitif ; aucune mise en examen, aucune condamnation",
+    "court": "Tribunal judiciaire de Paris (juge d'instruction) ; Cour d'appel de Paris (chambre de l'instruction) ; Cour de cassation",
+    "presumption_note": "Il s'agit d'accusations qui n'ont JAMAIS donné lieu à condamnation. Gérald Darmanin n'a même pas été mis en examen. Un non-lieu a été rendu en sa faveur et confirmé jusqu'en cassation : la procédure est close à son avantage. Darmanin a constamment nié et bénéficie pleinement de la présomption d'innocence.",
+    "key_facts": [
+      "Première plainte pour viol déposée par Sophie Patterson-Spatz au printemps 2017 ; la plainte initiale a été classée sans suite par le parquet de Paris (juillet 2017), puis l'enquête a été relancée fin janvier 2018 après de nouveaux éléments.",
+      "Après trois classements successifs, la plaignante a obtenu à l'été 2020 la désignation d'un juge d'instruction ; Gérald Darmanin n'a pas été mis en examen.",
+      "Le juge d'instruction a rendu une ordonnance de non-lieu en juillet 2022 ; la chambre de l'instruction de la cour d'appel de Paris a confirmé ce non-lieu le 24 janvier 2023.",
+      "La Cour de cassation a rejeté le pourvoi de la plaignante, décision rendue publique le 14 février 2024, rendant le non-lieu DÉFINITIF (aucune condamnation)."
+    ],
+    "source_url": [
+      "https://www.france24.com/fr/france/20240214-accusation-de-viol-contre-g%C3%A9rald-darmanin-la-cour-de-cassation-valide-le-non-lieu",
+      "https://www.letemps.ch/monde/europe/accusations-de-viol-le-non-lieu-en-faveur-de-gerald-darmanin-est-valide-par-la-cour-de-cassation",
+      "https://www.ici.fr/infos/faits-divers-justice/accusation-de-viol-la-cour-de-cassation-valide-le-non-lieu-en-faveur-de-gerald-darmanin-8765800",
+      "https://www.franceinfo.fr/politique/gerald-darmanin/accusations-de-viol-a-l-encontre-de-gerald-darmanin-le-non-lieu-en-faveur-du-ministre-de-l-interieur-est-confirme-en-appel_5620133.html"
+    ]
+  },
+  {
+    "id": "darmanin-abus-faiblesse-tourcoing-2018",
+    "case": "Enquête pour abus de faiblesse (plainte d'une habitante de Tourcoing, faits allégués 2014-2017 liés à un logement et à un emploi)",
+    "period": "2018",
+    "type": "dismissal",
+    "description": "Une habitante de Tourcoing a affirmé s'être sentie obligée d'avoir une relation sexuelle avec Gérald Darmanin pour obtenir un logement et un emploi lorsqu'il était maire de Tourcoing. Elle a déposé une plainte le 13 février 2018, ouvrant une enquête préliminaire pour abus de faiblesse. Darmanin a démenti les accusations.",
+    "status": "dismissed",
+    "outcome": "Enquête classée sans suite ; aucune poursuite, aucune condamnation",
+    "court": "Parquet de Paris (enquête préliminaire)",
+    "presumption_note": "Allégation qui n'a donné lieu à AUCUNE poursuite ni condamnation. Le parquet a estimé que les investigations ne permettaient pas d'établir, dans tous ses éléments constitutifs, une infraction pénale. Présomption d'innocence pleinement applicable ; Darmanin a nié les faits.",
+    "key_facts": [
+      "Plainte déposée le 13 février 2018 pour abus de faiblesse, distincte de l'affaire Patterson-Spatz.",
+      "La plaignante affirmait s'être sentie obligée d'avoir un rapport sexuel pour obtenir logement social et emploi pendant le mandat de maire de Darmanin (2014-2017).",
+      "Le parquet de Paris a classé l'enquête sans suite en mai 2018, estimant que les faits ne caractérisaient pas une infraction.",
+      "Gérald Darmanin a démenti et n'a fait l'objet d'aucune mise en examen dans ce dossier."
+    ],
+    "source_url": [
+      "https://www.francebleu.fr/infos/faits-divers-justice/l-enquete-pour-abus-de-faiblesse-visant-le-ministre-gerald-darmanin-est-classee-sans-suite-1526492021",
+      "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/tourcoing/affaire-darmanin-plaignante-tourcquennoise-s-est-sentie-obligee-avoir-rapport-sexuel-1430289.html"
+    ]
+  },
+  {
+    "id": "darmanin-denonciation-calomnieuse-plainte",
+    "case": "Plainte de Gérald Darmanin pour dénonciation calomnieuse (en réaction aux accusations de Sophie Patterson-Spatz)",
+    "period": "2018-",
+    "type": "other",
+    "description": "En réaction aux accusations portées contre lui, Gérald Darmanin a annoncé en février 2018 déposer plainte pour dénonciation calomnieuse contre Sophie Patterson-Spatz. Dans cette procédure, Darmanin est le plaignant et non la personne visée. Le dossier est lié au contentieux de l'affaire de viol close par non-lieu.",
+    "status": "other",
+    "outcome": "Procédure initiée par Darmanin en tant que plaignant ; statut judiciaire non clairement tranché publiquement",
+    "court": "Parquet / juridiction parisienne",
+    "presumption_note": "Cette procédure ne constitue pas une mise en cause pénale de Darmanin : il en est le plaignant. Elle est mentionnée pour exhaustivité du contentieux mais n'implique aucune accusation ni condamnation à son encontre.",
+    "key_facts": [
+      "Darmanin a annoncé son intention de porter plainte pour dénonciation calomnieuse en février 2018.",
+      "La plainte vise la plaignante de l'affaire de viol, après que Darmanin a affirmé que la relation était consentie.",
+      "Dans cette procédure, Gérald Darmanin a le statut de plaignant, non de mis en cause."
+    ],
+    "source_url": [
+      "https://www.ici.fr/infos/faits-divers-justice/le-ministre-gerald-darmanin-va-porter-plainte-pour-denonciation-calomnieuse-suite-aux-accusations-d-1519729601"
+    ]
+  }
+]

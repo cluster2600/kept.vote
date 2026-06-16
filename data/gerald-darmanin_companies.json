@@ -1,1 +1,176 @@
-[]
+[
+  {
+    "id": "darmanin-sci-none",
+    "entity": "Sociétés civiles immobilières (SCI)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "déclaration HATVP du 05/12/2025",
+    "status": "none",
+    "detail": "Sa déclaration de situation patrimoniale (HATVP, déposée le 5 décembre 2025) indique « Néant » à la rubrique des parts de sociétés civiles immobilières (SCI). Aucune SCI déclarée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald",
+      "https://www.hatvp.fr/livraison/dossiers/darmanin-gerald-dsp34805-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "darmanin-participations-capital-none",
+    "entity": "Participations financières directes dans le capital de sociétés",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "déclaration HATVP du 05/12/2025",
+    "status": "none",
+    "detail": "La déclaration d'intérêts HATVP indique « Néant » pour les participations financières directes dans le capital d'une société. Darmanin ne déclare aucune action ni part dans une société commerciale ; il déclare un compte-titres Arkéa Direct d'une valeur de 0 €.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald",
+      "https://www.hatvp.fr/livraison/dossiers/darmanin-gerald-di34806-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "darmanin-consultant-none",
+    "entity": "Activités de consultant",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "5 années précédant la déclaration (HATVP 05/12/2025)",
+    "status": "none",
+    "detail": "La rubrique 2° (activités de consultant) de la déclaration d'intérêts HATVP indique « Néant ». Aucune activité de conseil déclarée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-humensis",
+    "entity": "Humensis (maison d'édition)",
+    "role": "consultant",
+    "ownership_stake": "n/a",
+    "period": "11/2017-01/2021 et 01/2024-09/2025",
+    "status": "historical",
+    "detail": "Darmanin déclare des droits d'auteur perçus auprès de l'éditeur Humensis pour la publication d'ouvrages (notamment 10 172 € nets en 2021, et une avance de 18 000 € en 2024). Il s'agit de revenus d'auteur, non d'une participation au capital.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald",
+      "https://www.hatvp.fr/livraison/dossiers/darmanin-gerald-di34806-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "darmanin-sem-vr",
+    "entity": "SEM VR (société d'économie mixte)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "04/2014-02/2019",
+    "status": "historical",
+    "detail": "Président du conseil d'administration de la SEM VR, fonction non rémunérée (0 € déclaré chaque année), dans le cadre de ses mandats locaux dans le Nord. Déclaré à la HATVP au titre des participations aux organes dirigeants.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-spl-euralille",
+    "entity": "SPL Euralille (société publique locale)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "04/2014-12/2017",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration de la société publique locale Euralille, fonction non rémunérée (0 €), au titre de ses mandats à la Métropole européenne de Lille.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-spl-delta3",
+    "entity": "SPL Delta 3 (plateforme de Dourges)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "03/2016-06/2017",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration de la SPL Delta 3 (plateforme logistique de Dourges) et président du comité syndical Delta 3 ; fonctions non rémunérées (0 €), dans le cadre de ses mandats régionaux.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-spla-fabrique-quartiers",
+    "entity": "SPLA Fabrique des Quartiers",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "04/2014-12/2017",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration de la SPLA (société publique locale d'aménagement) Fabrique des Quartiers, fonction non rémunérée (0 €), au titre de ses mandats à la Métropole de Lille.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-lmh-lille-metropole-habitat",
+    "entity": "LMH (Lille Métropole Habitat, bailleur social)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "01/2015-04/2016",
+    "status": "historical",
+    "detail": "Administrateur de LMH (Lille Métropole Habitat), bailleur social, fonction non rémunérée (0 €). Déclaré à la HATVP au titre des participations aux organes dirigeants.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-grand-port-dunkerque",
+    "entity": "Grand Port maritime de Dunkerque",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "11/2016-02/2018",
+    "status": "historical",
+    "detail": "Membre du conseil de surveillance du Grand Port maritime de Dunkerque, fonction non rémunérée (0 €), au titre de ses mandats régionaux dans les Hauts-de-France.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-canal-seine-nord",
+    "entity": "Société du Canal Seine-Nord Europe",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "12/2016-06/2017",
+    "status": "historical",
+    "detail": "Membre du conseil de surveillance de la Société du Canal Seine-Nord Europe, fonction non rémunérée (0 €), au titre de ses mandats régionaux.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald"
+    ]
+  },
+  {
+    "id": "darmanin-organismes-publics-divers",
+    "entity": "Organismes publics et associatifs locaux divers (CH Dron, GIP IMA, Le Fresnoy, Opéra de Lille, Pictanovo, IEP de Lille, EPF de Lille, Railenium, Atelier lyrique de Tourcoing, etc.)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "2014-2022",
+    "status": "historical",
+    "detail": "La déclaration d'intérêts HATVP recense au total 37 participations à des organes dirigeants d'organismes publics, parapublics ou associatifs (établissements de santé, GIP, structures culturelles, syndicats mixtes de transport, agences d'aménagement), toutes non rémunérées (0 €) et liées à ses mandats locaux dans le Nord et les Hauts-de-France.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald",
+      "https://www.hatvp.fr/livraison/dossiers/darmanin-gerald-di34806-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "darmanin-assistant-parlementaire-ump",
+    "entity": "Parlement européen / UMP (carrière privée et politique d'avant les mandats)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "circa 2005-2012",
+    "status": "historical",
+    "detail": "Avant ses mandats électifs, Darmanin a été assistant parlementaire (notamment de Jacques Toubon au Parlement européen, 2005-2007, puis de Christian Vanneste à partir de 2007) et conseiller chargé des affaires juridiques de l'UMP sous Xavier Bertrand (2008). Il a aussi été formateur au CNFPT (2007-2009) puis directeur de cabinet de David Douillet (2009-2012). Ces fonctions sont antérieures à la fenêtre de cinq ans de la déclaration HATVP de 2025 et n'y figurent donc pas.",
+    "source_url": [
+      "https://www.lemoniteur.fr/article/gerald-darmanin-ministre-de-l-action-et-des-comptes-publics.1496614",
+      "https://en.wikipedia.org/wiki/Christian_Vanneste"
+    ]
+  },
+  {
+    "id": "darmanin-patrimoine-pas-de-societe-commerciale",
+    "entity": "Synthèse patrimoniale (absence de société commerciale détenue)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "déclaration HATVP du 05/12/2025",
+    "status": "declared",
+    "detail": "Le patrimoine déclaré ne comporte ni fonds de commerce, ni clientèle, ni charge ou office (rubrique 9° « Néant »), ni valeurs mobilières non cotées (rubrique 3° « Néant »). Il se limite pour l'essentiel à un appartement de 95 m² (225 000 €), une assurance vie, des livrets et comptes courants, et un prêt habitation. Aucune activité entrepreneuriale ou détention de société commerciale n'est déclarée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=darmanin-gerald",
+      "https://www.hatvp.fr/livraison/dossiers/darmanin-gerald-dsp34805-gouvernement.pdf"
+    ]
+  }
+]

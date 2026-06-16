@@ -1,0 +1,131 @@
+[
+  {
+    "id": "zemmour-rubempre",
+    "entity": "Rubempré (SARL) — SIREN 508074259, 10 rue Lavoisier, 75008 Paris",
+    "role": "owner",
+    "ownership_stake": "90% du capital (gérant associé)",
+    "period": "2008-présent",
+    "status": "current",
+    "detail": "Société créée en 2008 (dénommée d'après le personnage balzacien Lucien de Rubempré), dont Éric Zemmour est gérant associé et détient 90% du capital. Initialement société de collecte/synthèse et communication d'informations aux médias, son objet a été étendu à l'\"édition de livres\" le 16 juillet 2021; elle sert de véhicule pour ses droits d'auteur et son autoédition.",
+    "source_url": [
+      "https://www.pappers.fr/entreprise/rubempre-508074259",
+      "https://www.pappers.fr/dirigeant/eric_zemmour_1958-08",
+      "https://www.societe.com/societe/rubempre-508074259.html",
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "zemmour-rubempre-hatvp",
+    "entity": "Rubempré — valorisation et revenus (déclaration HATVP, candidature présidentielle 2022)",
+    "role": "owner",
+    "ownership_stake": "90%",
+    "period": "déclaration mars 2022 (bilan au 31/12/2020)",
+    "status": "declared",
+    "detail": "Dans sa déclaration de patrimoine à la HATVP (publiée le 8 mars 2022), Rubempré était valorisée à 1 530 000 € (bilan au 31 décembre 2020). L'essentiel de ses revenus venait de cette société: 521 700 € en 2020 puis 180 000 € en 2021, principalement issus des droits d'auteur de ses livres et de sa rémunération de gérant.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse"
+    ]
+  },
+  {
+    "id": "zemmour-rubempre-marque-inpi",
+    "entity": "Marque \"Rubempré\" (dépôt INPI)",
+    "role": "owner",
+    "ownership_stake": "n/a",
+    "period": "dépôt 23 juillet 2021",
+    "status": "current",
+    "detail": "La SARL Rubempré a déposé la marque \"Rubempré\" le 23 juillet 2021 auprès de l'INPI, dans les classes 09, 16 et 35, en lien avec son activité d'édition de livres.",
+    "source_url": [
+      "https://www.livreshebdo.fr/article/qui-est-rubempre-la-maison-qui-publiera-eric-zemmour-la-rentree",
+      "https://actualitte.com/article/101659/edition/zemmour-opte-pour-l-autoedition-du-livre-refuse-par-albin-michel"
+    ]
+  },
+  {
+    "id": "zemmour-rubempre-cogerance-2025",
+    "entity": "Rubempré — cogérance",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "à compter du 1er janvier 2025",
+    "status": "current",
+    "detail": "Mylène Chichportich-Zemmour (épouse d'Éric Zemmour) a été nommée cogérante de Rubempré à compter du 1er janvier 2025, selon les registres d'entreprises (Pappers).",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/mylene_chichportich_1962-01",
+      "https://www.pappers.fr/entreprise/rubempre-508074259"
+    ]
+  },
+  {
+    "id": "zemmour-le-figaro",
+    "entity": "Le Figaro (groupe Dassault Médias)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "années 1990s/2000s - 2021",
+    "status": "historical",
+    "detail": "Éric Zemmour a été journaliste puis chroniqueur au Figaro jusqu'en 2021. Sa déclaration HATVP indique un salaire perçu au Figaro de 66 181 € en 2020 (environ 5 515 € net/mois). Il a quitté le journal en 2021 lors de son engagement politique.",
+    "source_url": [
+      "https://www.publicsenat.fr/actualites/non-classe/presidentielle-que-revelent-les-declarations-de-patrimoine-de-macron-pecresse",
+      "https://www.strategies.fr/actualites/medias/LQ683324C/eric-zemmour-ne-reviendra-pas-sur-cnews-ni-au-figaro.html"
+    ]
+  },
+  {
+    "id": "zemmour-cnews",
+    "entity": "CNews (groupe Canal+ / Vivendi)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2019-2021",
+    "status": "historical",
+    "detail": "Éric Zemmour a été chroniqueur/éditorialiste de l'émission quotidienne \"Face à l'info\" sur CNews de 2019 à 2021. Il a quitté la chaîne au moment de son entrée en campagne présidentielle (le CSA/Arcom imposant le décompte de son temps de parole).",
+    "source_url": [
+      "https://www.strategies.fr/actualites/medias/LQ683324C/eric-zemmour-ne-reviendra-pas-sur-cnews-ni-au-figaro.html",
+      "https://www.euronews.com/my-europe/2021/11/30/eric-zemmour-meet-the-right-wing-tv-pundit-set-to-shake-up-france-s-presidential-race"
+    ]
+  },
+  {
+    "id": "zemmour-rtl",
+    "entity": "RTL (groupe RTL / Bertelsmann)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2010-2019",
+    "status": "historical",
+    "detail": "Éric Zemmour a travaillé pour RTL de 2010 à 2019, d'abord avec la chronique quotidienne \"Z comme Zemmour\", puis comme analyste dans la matinale d'Yves Calvi.",
+    "source_url": [
+      "https://www.euronews.com/my-europe/2021/11/30/eric-zemmour-meet-the-right-wing-tv-pundit-set-to-shake-up-france-s-presidential-race"
+    ]
+  },
+  {
+    "id": "zemmour-itele",
+    "entity": "i-Télé / I>Télé (devenue CNews ; groupe Canal+)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2003-2014",
+    "status": "historical",
+    "detail": "Éric Zemmour a coanimé l'émission \"Ça se dispute\" sur i-Télé de 2003 à 2014. Son contrat a été rompu fin 2014 par la rédaction d'i-Télé à la suite de ses propos dans le Corriere della Sera.",
+    "source_url": [
+      "https://www.cnews.fr/tele/2014-12-20/licenciement-deric-zemmour-approuvez-vous-itele-696758",
+      "https://www.euronews.com/my-europe/2021/11/30/eric-zemmour-meet-the-right-wing-tv-pundit-set-to-shake-up-france-s-presidential-race"
+    ]
+  },
+  {
+    "id": "zemmour-paris-premiere",
+    "entity": "Paris Première (groupe M6)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2011-2021",
+    "status": "historical",
+    "detail": "Éric Zemmour a coanimé l'émission hebdomadaire \"Zemmour et Naulleau\" sur Paris Première de 2011 à 2021, aux côtés d'Éric Naulleau.",
+    "source_url": [
+      "https://www.euronews.com/my-europe/2021/11/30/eric-zemmour-meet-the-right-wing-tv-pundit-set-to-shake-up-france-s-presidential-race"
+    ]
+  },
+  {
+    "id": "zemmour-reconquete",
+    "entity": "Reconquête (parti politique — NON une société commerciale)",
+    "role": "founder",
+    "ownership_stake": "n/a",
+    "period": "2021-présent",
+    "status": "current",
+    "detail": "Éric Zemmour a fondé et préside le parti politique Reconquête (créé fin 2021 dans le cadre de sa candidature présidentielle de 2022). Il s'agit d'un parti politique (association loi 1901 financée par dons et financement public), et non d'une entreprise commerciale; mentionné ici pour contexte.",
+    "source_url": [
+      "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+      "https://www.euronews.com/my-europe/2021/11/30/eric-zemmour-meet-the-right-wing-tv-pundit-set-to-shake-up-france-s-presidential-race"
+    ]
+  }
+]

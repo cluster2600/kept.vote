@@ -1,0 +1,68 @@
+[
+  {
+    "id": "presidential-immunity-note",
+    "case": "Presidential immunity (Article 67 of the Constitution)",
+    "period": "2017-present",
+    "type": "other",
+    "description": "As President of the Republic, Emmanuel Macron benefits from the jurisdictional status set out in Article 67 of the French Constitution. During his term he cannot, before any French court or administrative authority, be required to testify, be the subject of an investigative act, an information judiciaire, or a prosecution, and any limitation period or procedural deadline is suspended until one month after he leaves office. This is a constitutional protection, not a finding on the merits of any matter.",
+    "status": "other",
+    "outcome": "Constitutional immunity in force for the duration of the presidential term; not a judicial outcome.",
+    "court": "Constitutional framework (Conseil constitutionnel jurisprudence; art. 67-68 Constitution)",
+    "presumption_note": "This entry describes a legal status, not an accusation. No charge or conviction is implied. Presumption of innocence fully applies to any matter referenced elsewhere.",
+    "key_facts": [
+      "Article 67 grants temporary inviolability during the mandate, not permanent immunity.",
+      "Proceedings may resume one month after the end of the term (art. 67, para. 3).",
+      "In December 2025 Macron's counsel invoked Article 67 in a civil matter, arguing the President cannot be subject to a civil judicial action during his term.",
+      "Impeachment (destitution) under Article 68 remains the sole mechanism to act against a sitting President."
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Statut_juridictionnel_du_pr%C3%A9sident_de_la_R%C3%A9publique_fran%C3%A7aise",
+      "https://www.justice.gouv.fr/actualites/espace-presse/archives-responsabilite-penale-du-president-republique",
+      "https://www.franceinfo.fr/economie/emploi/metiers/droit-et-justice/interview-perquisition-refusee-a-l-elysee-en-quoi-consiste-l-article-67-de-la-constitution-invoque-pour-refuser-l-acces-aux-enqueteurs_7940507.html"
+    ]
+  },
+  {
+    "id": "mckinsey-campaign-finance-2017-2022",
+    "case": "\"Affaire McKinsey\" - judicial investigations into the 2017 and 2022 presidential campaign accounts",
+    "period": "2022-present (opened October 2022)",
+    "type": "investigation",
+    "description": "In October 2022 the Parquet national financier (PNF) opened two judicial investigations into the role of consulting firms, notably McKinsey & Company, in Emmanuel Macron's 2017 and 2022 presidential campaigns. One investigation concerns alleged \"tenue non conforme de comptes de campagne\" and \"minoration d'elements comptables\" (improper or understated campaign accounting); the other concerns alleged \"favoritisme\" and \"recel de favoritisme\" in the award of public consulting contracts. The investigations target the conditions of the firms' intervention and the campaign accounts; Emmanuel Macron has not been placed under investigation (mis en examen) and, as sitting President, cannot be questioned or charged during his term.",
+    "status": "ongoing",
+    "outcome": "No charges against Macron personally; investigation continuing under instruction (juge d'instruction Serge Tournaire). Searches conducted in 2022 and again at McKinsey on 6 November 2025.",
+    "court": "Parquet national financier / juges d'instruction, Paris",
+    "presumption_note": "Presumption of innocence applies. These are open investigations; Emmanuel Macron has not been charged or convicted, is not formally a mis en examen, and is protected by presidential immunity (art. 67).",
+    "key_facts": [
+      "Two informations judiciaires / enquetes opened by the PNF in October 2022 on the 2017 and 2022 campaign accounts.",
+      "Origin: a Senate report (2022) and a separate PNF probe into McKinsey for suspected 'blanchiment aggrave de fraude fiscale'.",
+      "Suspicion that McKinsey staff may have worked unpaid for the 2017 campaign, raising the question of an undeclared campaign expense.",
+      "Renaissance party HQ and McKinsey's Paris offices were searched in December 2022; a further search of McKinsey occurred on 6 November 2025."
+    ],
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Affaire_McKinsey",
+      "https://www.franceinfo.fr/politique/emmanuel-macron/campagne-presidentielle-d-emmanuel-macron-en-2017-une-information-judiciaire-ouverte-pour-financement-illegal_5498565.html",
+      "https://www.publicsenat.fr/actualites/institutions/une-nouvelle-enquete-sur-le-cabinet-mckinsey-et-ses-liens-avec-emmanuel-macron-en-echo-aux-travaux-du-senat"
+    ]
+  },
+  {
+    "id": "macron-v-owens-defamation-2025",
+    "case": "Emmanuel & Brigitte Macron v. Candace Owens (defamation, Delaware)",
+    "period": "2025-present (complaint filed 23 July 2025)",
+    "type": "civil",
+    "description": "On 23 July 2025 Emmanuel Macron and his wife Brigitte Macron filed a civil defamation complaint in the Superior Court of the State of Delaware (USA) against US commentator Candace Owens, Candace Owens LLC and GeorgeTom Inc. The 219-page complaint sets out 22 counts of defamation and false light over Owens's promotion of the false conspiracy theory that Brigitte Macron was born male. Here Emmanuel Macron is the plaintiff (claimant), not a defendant or the subject of any accusation of wrongdoing.",
+    "status": "ongoing",
+    "outcome": "Pending before the Delaware Superior Court; defendant filed a motion to dismiss. No judgment as of June 2026.",
+    "court": "Superior Court of the State of Delaware (case N25C-07-194)",
+    "presumption_note": "Macron is the claimant, not an accused party; no allegation of wrongdoing against him is involved. The defendant is presumed not liable until any judgment.",
+    "key_facts": [
+      "Plaintiffs: Emmanuel Macron and Brigitte Macron.",
+      "Defendants: Candace Owens, Candace Owens LLC and GeorgeTom Inc.; both companies incorporated in Delaware, founding jurisdiction.",
+      "22 counts of defamation and false light over an eight-part series alleging Brigitte Macron was born male.",
+      "Defendant filed a motion to dismiss; matter unresolved as of mid-2026."
+    ],
+    "source_url": [
+      "https://clarelocke.com/wp-content/uploads/2025/07/Complaint89.pdf",
+      "https://www.lawyer-monthly.com/2025/08/candace-owens-macron-defamation-lawsuit/",
+      "https://courtconnect.courts.delaware.gov/cc/cconnect/ck_public_qry_doct.cp_dktrpt_docket_report?backto=P&case_id=N25C-07-194&begin_date=&end_date="
+    ]
+  }
+]

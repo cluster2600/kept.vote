@@ -1,0 +1,104 @@
+[
+  {
+    "id": "rassemblement-national",
+    "entity": "Rassemblement National (ex-Front national)",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "01/2017 – présent (présidence du parti puis présidente du groupe à l'Assemblée ; membre du bureau exécutif)",
+    "status": "declared",
+    "detail": "Selon sa déclaration d'intérêts HATVP, Marine Le Pen est membre du bureau exécutif (bureau du conseil d'administration du RN) et présidente du groupe RN à l'Assemblée nationale ; rémunération déclarée de 60 000 € nets/an de 2017 à 2023, puis 30 999 € en 2024. Elle a présidé le parti de 2011 à 2021 puis présidé le groupe parlementaire.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine",
+      "https://www.hatvp.fr/livraison/dossiers/le-pen-marine-diam35065-depute-62.pdf"
+    ]
+  },
+  {
+    "id": "sci-montretout-saint-cloud",
+    "entity": "SCI (société civile immobilière, manoir de Montretout / Saint-Cloud, identité de la SCI non publiée sur la fiche HATVP)",
+    "role": "shareholder",
+    "ownership_stake": "12 % du capital — 550 parts, évaluées 616 800 €",
+    "period": "Détention déclarée (déclaration d'intérêts HATVP, à jour au 30 janvier 2026)",
+    "status": "current",
+    "detail": "Marine Le Pen déclare une participation financière directe de 12 % (550 parts) dans une SCI évaluée à 616 800 €, sans rémunération. Cette SCI correspond, selon la presse, à la détention liée au domaine de Montretout à Saint-Cloud, détenu en partie en indivision familiale ; aucune rémunération n'en est tirée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine",
+      "https://lelab.europe1.fr/marine-le-pen-est-elle-vraiment-chatelaine-895"
+    ]
+  },
+  {
+    "id": "sci-secondaire",
+    "entity": "SCI (seconde société civile immobilière, identité non publiée sur la fiche HATVP)",
+    "role": "shareholder",
+    "ownership_stake": "25 parts, évaluées 46 656 €",
+    "period": "Détention déclarée (déclaration d'intérêts HATVP, à jour au 30 janvier 2026)",
+    "status": "current",
+    "detail": "Seconde participation financière directe déclarée par Marine Le Pen dans une SCI, portant sur 25 parts évaluées à 46 656 €, sans rémunération perçue.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine"
+    ]
+  },
+  {
+    "id": "elevage-de-chats",
+    "entity": "Élevage de chats (activité économique en nom propre de Marine Le Pen)",
+    "role": "owner",
+    "ownership_stake": "n/a",
+    "period": "02/2021 – présent",
+    "status": "current",
+    "detail": "Marine Le Pen déclare à la HATVP une activité professionnelle d'élevage de chats exercée en son nom propre depuis février 2021 ; les rémunérations déclarées correspondent au bénéfice net d'exploitation (0 € en 2021, 501 € en 2022, 5 777 € en 2023, 518 € en 2024, 0 € en 2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine",
+      "https://www.hatvp.fr/livraison/dossiers/le-pen-marine-diam35065-depute-62.pdf"
+    ]
+  },
+  {
+    "id": "avocate-barreau-paris",
+    "entity": "Barreau de Paris (profession d'avocate)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "1992 – 1998 (carrière antérieure à la vie politique)",
+    "status": "historical",
+    "detail": "Titulaire d'une maîtrise de droit et d'un DEA de droit pénal (Paris-II Panthéon-Assas), Marine Le Pen a prêté serment au barreau de Paris en 1992 et exercé environ six ans comme avocate (d'abord au cabinet de Georges-Paul Wagner, puis à son compte), avant d'abandonner cette carrière en 1998 pour créer le service juridique du Front national.",
+    "source_url": [
+      "https://www.journaldunet.com/management/emploi-cadres/1193727-candidats-a-la-presidentielle-quel-est-leur-parcours-en-entreprise/1193748-marine-le-pen",
+      "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    ]
+  },
+  {
+    "id": "jeanne-microparti",
+    "entity": "Jeanne (micro-parti de financement lié au FN/RN)",
+    "role": "founder",
+    "ownership_stake": "n/a",
+    "period": "Créé fin 2010, dans l'entourage de Marine Le Pen",
+    "status": "historical",
+    "detail": "Le micro-parti Jeanne a été lancé fin 2010 par des proches de Marine Le Pen comme structure de financement du FN (notamment via des prêts et des kits de campagne), avec pour fonction de financer le mouvement en marge de l'association de financement Cotelec contrôlée par Jean-Marie Le Pen. Jeanne a été visé par l'« affaire Jeanne » (enquête pour escroquerie et faux), aboutissant à une amende contre le micro-parti.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Jeanne_(micro-parti)",
+      "https://fr.wikipedia.org/wiki/Affaire_Jeanne"
+    ]
+  },
+  {
+    "id": "cotelec",
+    "entity": "Cotelec (association de financement, micro-parti de Jean-Marie Le Pen)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "Contexte de financement du parti (prêts au FN/RN, années 2010–2017)",
+    "status": "historical",
+    "detail": "Cotelec est l'association de financement créée et contrôlée par Jean-Marie Le Pen, qui a notamment consenti vers 2017 un prêt d'environ 6 millions d'euros au parti de Marine Le Pen (FN/RN), partiellement remboursé. Marine Le Pen n'y exerce pas de mandat ; l'entité est citée comme contexte des montages de financement du parti (et visée dans des enquêtes sur les prêts aux candidats).",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Jeanne_(micro-parti)",
+      "https://www.lejdd.fr/Politique/querelle-dargent-entre-marine-et-jean-marie-le-pen-3908431"
+    ]
+  },
+  {
+    "id": "collaborateurs-parlementaires",
+    "entity": "Collaborateurs parlementaires (déclarés à la HATVP)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "Mandat de députée (à jour au 30 janvier 2026)",
+    "status": "declared",
+    "detail": "Au titre de ses obligations de transparence, Marine Le Pen déclare comme collaborateurs parlementaires Raphaël Rible (assistant parlementaire), Arnaud de Rigné (assistant parlementaire) et Ambroise de Rancourt (directeur de cabinet). Élément déclaratif d'intérêts, sans participation au capital d'une société.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=le-pen-marine"
+    ]
+  }
+]

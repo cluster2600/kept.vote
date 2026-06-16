@@ -1,0 +1,80 @@
+[
+  {
+    "id": "rothschild-cie-banque",
+    "entity": "Banque Rothschild & Cie (Rothschild & Cie Banque)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "September 2008 - 2012",
+    "status": "historical",
+    "detail": "Macron worked as an M&A investment banker at the French Rothschild bank from September 2008, becoming associate-manager (associe-gerant / partner) in December 2010. His best-known deal was advising Nestle on its ~12 billion USD acquisition of Pfizer's infant-nutrition (baby food) division in 2012, for which press reported he earned roughly 2.8-2.9 million euros before tax over 2010-2012.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "https://www.franceinfo.fr/elections/presidentielle/quand-emmanuel-macron-etait-banquier-d-affaires-un-element-prometteur-mais-sans-plus_2171646.html",
+      "https://www.letemps.ch/economie/emmanuel-macron-surdoue-passe-rotschild"
+    ]
+  },
+  {
+    "id": "rothschild-employee-investment-fund",
+    "entity": "Fonds de placement dans les PME (captive Rothschild & Cie employee fund)",
+    "role": "shareholder",
+    "ownership_stake": "0.5% of the fund's share capital (valued at 61,516 euros in 2017)",
+    "period": "Subscribed March 2012; declared March 2017",
+    "status": "declared",
+    "detail": "In his HATVP declaration of interests of 16 March 2017 (filed for his presidential candidacy), Macron declared holding 0.5% of a captive PME (small-and-medium enterprise) investment fund offered to Rothschild & Cie employees, which he subscribed to in March 2012, valued at 61,516 euros. The HATVP reviewed his declarations and found no element calling into question their sincerity.",
+    "source_url": [
+      "https://www.hatvp.fr/presse/presidentielle-2022-le-role-de-la-haute-autorite/",
+      "https://pour.press/macron-declare-les-oeufs-mais-pas-les-poules/"
+    ]
+  },
+  {
+    "id": "en-marche-renaissance",
+    "entity": "En Marche! (later La Republique En Marche, then Renaissance)",
+    "role": "founder",
+    "ownership_stake": "n/a (political association/party, not a commercial entity)",
+    "period": "Founded 6 April 2016; led until May 2017",
+    "status": "historical",
+    "detail": "Macron founded the political movement En Marche! on 6 April 2016 in Amiens and served as its president until shortly after his May 2017 election, when Catherine Barbaroux succeeded him. It is a political organisation (declared as an association, EMA En Marche) rather than a commercial company.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Renaissance_(parti)",
+      "https://en.wikipedia.org/wiki/Renaissance_(French_political_party)"
+    ]
+  },
+  {
+    "id": "inspection-generale-finances",
+    "entity": "Inspection generale des finances (French civil service corps)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2004-2008 (in post); on leave / detached thereafter",
+    "status": "historical",
+    "detail": "After graduating from the ENA in 2004, Macron joined the Inspection generale des finances as a finance inspector (inspecteur des finances), the senior state-audit corps. He took leave from the corps to join Rothschild in 2008. This is public-sector employment, listed for completeness of professional affiliations.",
+    "source_url": [
+      "https://www.britannica.com/biography/Emmanuel-Macron",
+      "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+    ]
+  },
+  {
+    "id": "commission-attali",
+    "entity": "Commission pour la liberation de la croissance francaise (\"Commission Attali\")",
+    "role": "advisor",
+    "ownership_stake": "n/a",
+    "period": "2007-2008",
+    "status": "historical",
+    "detail": "Macron served as deputy general rapporteur (rapporteur general adjoint) of the Attali Commission set up by President Sarkozy to recommend pro-growth reforms; it reported in January 2008. An advisory public role, listed for completeness.",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Commission_pour_la_lib%C3%A9ration_de_la_croissance_fran%C3%A7aise"
+    ]
+  },
+  {
+    "id": "hatvp-patrimony-2022",
+    "entity": "HATVP declaration of patrimonial situation / interests (Haute Autorite pour la transparence de la vie publique)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "Declarations filed 2017 and 2022 (2022 published JORF 28 April 2022)",
+    "status": "declared",
+    "detail": "Per his HATVP/Legifrance declarations, Macron declared no real estate (no full ownership, usufruct, or SCI shares) and no vehicles/boats above 10,000 euros; his declared patrimony (around half a million euros) consisted chiefly of bank accounts and financial savings products (e.g. a Livret de developpement durable, Livret A, and life insurance). This entry records the absence of company directorships or material corporate holdings as of those declarations.",
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044454045",
+      "https://www.franceinfo.fr/politique/emmanuel-macron/presidentielle-2022-consultez-les-declarations-de-patrimoine-et-d-interets-des-12-candidats_4998801.html"
+    ]
+  }
+]

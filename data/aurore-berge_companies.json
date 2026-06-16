@@ -1,24 +1,101 @@
 [
   {
-    "id": "sarl-prosonor",
+    "id": "berge-prosonor-gerante",
     "entity": "SARL PROSONOR",
-    "role": "Associée / détentrice de parts",
-    "ownership_stake": "30 %",
-    "period": "déclarée en 2024",
-    "status": "declared",
-    "detail": "Détention de 30 % des parts de la SARL PROSONOR, telle que déclarée dans la déclaration HATVP (membre du gouvernement).",
+    "role": "director",
+    "ownership_stake": "30% (300 parts)",
+    "period": "02/2024 - présent",
+    "status": "current",
+    "detail": "Aurore Bergé est gérante de la SARL PROSONOR (société familiale, implantée à Chambly/Versailles) depuis février 2024, fonction reprise à la suite du décès d'Alain Bergé. Elle déclare à la HATVP détenir 30 % du capital (300 parts), pour une rémunération de 0 € et une valeur vénale déclarée de 0 €.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore",
+      "https://www.pappers.fr/entreprise/prosonor-338561228",
+      "https://www.societe.com/manager/Aurore.BERGE.778BtO0OWSy.html"
+    ]
+  },
+  {
+    "id": "berge-prosonor-actionnaire",
+    "entity": "SARL PROSONOR",
+    "role": "shareholder",
+    "ownership_stake": "30% (300 parts)",
+    "period": "déclaration de mai 2026",
+    "status": "current",
+    "detail": "Participation financière directe déclarée à la HATVP : 30 % du capital de la SARL PROSONOR (300 parts), figurant à la fois dans sa déclaration d'intérêts (participations financières) et dans sa déclaration de situation patrimoniale (valeurs mobilières non cotées), valorisée à 0 €.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore",
+      "https://www.hatvp.fr/livraison/dossiers/berge-aurore-dim35130-gouvernement.pdf"
+    ]
+  },
+  {
+    "id": "berge-hopscotch-conseil",
+    "entity": "Hopscotch Groupe (agence de communication / relations publiques)",
+    "role": "director",
+    "ownership_stake": "n/a",
+    "period": "vers 2009 - 2017",
+    "status": "historical",
+    "detail": "Avant son entrée en politique, Aurore Bergé a mené une carrière de conseil en communication, notamment comme directrice conseil au sein du groupe Hopscotch, où elle gérait la communication corporate de clients tels que Microsoft France et Huawei. Cette activité, antérieure à 2017, ne figure pas dans la fenêtre de cinq ans de sa déclaration d'intérêts HATVP de 2026.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Aurore_Berg%C3%A9",
+      "https://www.emilemagazine.fr/article/2016/10/25/portrait-soutien-20-dalain-jupp",
+      "https://www.egalite-femmes-hommes.gouv.fr/biographie-daurore-berge-ministre-deleguee-chargee-de-legalite-entre-les-femmes-et-les-hommes-et-de-la-lutte-contre-les-discriminations"
+    ]
+  },
+  {
+    "id": "berge-cnl-ca",
+    "entity": "Centre national du livre (CNL)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "10/2017 - 09/2022",
+    "status": "historical",
+    "detail": "Membre bénévole (non rémunérée) du conseil d'administration du Centre national du livre, selon sa déclaration d'intérêts HATVP.",
     "source_url": [
       "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
     ]
   },
   {
-    "id": "sarl-saxho",
-    "entity": "SARL SAXHO",
-    "role": "Associée / détentrice de parts",
-    "ownership_stake": "39 %",
-    "period": "déclarée en 2024",
-    "status": "declared",
-    "detail": "Détention de 39 % des parts de la SARL SAXHO, telle que déclarée dans la déclaration HATVP (membre du gouvernement).",
+    "id": "berge-france-televisions-ca",
+    "entity": "France Télévisions",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "09/2022 - 07/2023",
+    "status": "historical",
+    "detail": "Membre bénévole (non rémunérée) du conseil d'administration de France Télévisions, selon sa déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "berge-aresv-ca",
+    "entity": "Agence régionale des espaces verts d'Île-de-France (ARESV / AEV)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "07/2021 - 05/2023",
+    "status": "historical",
+    "detail": "Membre bénévole (non rémunérée) du conseil d'administration de l'Agence régionale des espaces verts d'Île-de-France, selon sa déclaration d'intérêts HATVP (liée à son mandat de conseillère régionale).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "berge-ofb-ca",
+    "entity": "Office français de la biodiversité (OFB)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "10/2024 - 12/2024",
+    "status": "historical",
+    "detail": "Membre bénévole (non rémunérée) du conseil d'administration de l'Office français de la biodiversité sur une courte période fin 2024, selon sa déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
+    ]
+  },
+  {
+    "id": "berge-consultant-neant",
+    "entity": "Activités de consultant (déclaration HATVP)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "fenêtre de 5 ans précédant la déclaration de 2026",
+    "status": "none",
+    "detail": "Dans sa déclaration d'intérêts HATVP de mai 2026, la rubrique 'activités de consultant' est renseignée 'Néant' : aucune activité de conseil rémunérée n'est déclarée sur la période couverte.",
     "source_url": [
       "https://www.hatvp.fr/fiche-nominative/?declarant=berge-aurore"
     ]
