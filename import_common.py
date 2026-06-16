@@ -27,6 +27,12 @@ DATA_PREFIX = os.getenv("DATA_PREFIX", "macron")
 POLITICIAN_SLUG = os.getenv("POLITICIAN_SLUG", "emmanuel-macron")
 BIO_JSON = os.getenv("BIO_JSON")
 
+# The built-in DEFAULT_BIO is Macron-only and exists purely for backward
+# compatibility with the original seed flow. It must NEVER stand in for any
+# other slug: doing so would name-match and hijack an existing row. So the
+# default bio is only ever used when the active slug is this one.
+DEFAULT_SLUG = "emmanuel-macron"
+
 # Used when BIO_JSON is unset (Macron — backward compatibility).
 DEFAULT_BIO = {
     "name": "Emmanuel Macron",
@@ -103,6 +109,19 @@ async def get_or_create_politician(session) -> Politician:
     ).scalars().first()
     if p is not None:
         return p
+
+    # Slug not found — we may have to create the politician. Guard rail: only the
+    # Macron slug may fall back to the built-in DEFAULT_BIO. For any other slug
+    # with no explicit BIO_JSON, refuse rather than risk the default bio
+    # name-matching and hijacking an unrelated existing row (which is exactly how
+    # a non-Macron slug could overwrite Macron's record). Require a real bio file.
+    if BIO_JSON is None and POLITICIAN_SLUG != DEFAULT_SLUG:
+        raise SystemExit(
+            f"Politician slug '{POLITICIAN_SLUG}' not found and no BIO_JSON was "
+            f"given. Refusing to fall back to the default (Macron) bio — that "
+            f"would risk hijacking another politician's row. Pass "
+            f"BIO_JSON=data/{POLITICIAN_SLUG}_bio.json to create this politician."
+        )
 
     bio = load_bio()
     name = bio.get("name")
