@@ -1,0 +1,27 @@
+[
+  {
+    "id": "annie-genevard-cjr-dermatose-bovine",
+    "case": "Plainte devant la Cour de Justice de la République (DNC / abattage de bovins dans le Doubs)",
+    "period": "2026 (plainte déposée le 9 mars 2026)",
+    "type": "dismissal",
+    "description": "L'association BonSens.org, des éleveurs (dont la famille Lhomme dans le Doubs) et des collectifs ont déposé une plainte devant la commission des requêtes de la Cour de Justice de la République visant la ministre de l'Agriculture Annie Genevard et le ministre de l'Intérieur Laurent Nuñez. Les plaignants invoquaient l'atteinte volontaire à la vie d'un animal sans nécessité (art. 522-1 du code pénal) à propos de l'abattage, en décembre 2025, d'environ 290 bovins dans le cadre de la lutte contre la dermatose nodulaire contagieuse (DNC). La plainte vise Annie Genevard au titre de ses fonctions ministérielles, et non à titre personnel.",
+    "status": "dismissed",
+    "outcome": "Selon des sources de presse, la commission des requêtes de la Cour de Justice de la République a rejeté la plainte le 27 mai 2026 (non-renvoi devant la commission d'instruction). Aucune mise en examen ni poursuite engagée à l'encontre de la ministre. Les plaignants ont indiqué vouloir saisir la Cour européenne des droits de l'homme.",
+    "court": "Cour de Justice de la République (commission des requêtes)",
+    "presumption_note": "Aucune charge retenue contre Annie Genevard. La plainte visait son action dans l'exercice de ses fonctions ministérielles et a été rejetée au stade du filtrage. Présomption d'innocence pleinement applicable; aucune responsabilité pénale établie.",
+    "key_facts": [
+      "Plainte déposée le 9 mars 2026 devant la commission des requêtes de la CJR",
+      "Plaignants: association BonSens.org, éleveurs (famille Lhomme, Doubs) et collectifs",
+      "Fondement invoqué: art. 522-1 du code pénal (atteinte volontaire à la vie d'un animal sans nécessité)",
+      "Objet: abattage d'environ 290 bovins en décembre 2025 (lutte contre la dermatose nodulaire contagieuse)",
+      "Co-visée: Laurent Nuñez, ministre de l'Intérieur",
+      "Rejet de la plainte par la CJR rapporté le 27 mai 2026",
+      "Pas de mise en examen ni de poursuite contre la ministre"
+    ],
+    "source_url": [
+      "https://bonsens.info/communique-de-presse-depot-de-plainte-devant-la-cour-de-justice-de-la-republique-contre-les-ministres-genevard-et-nunez/",
+      "https://putsch.media/20260313/actualites/societe/plainte-a-la-cjr-contre-genevard-et-nunez-290-bovins-tues-sans-necessite-selon-bon-sens/",
+      "https://www.francesoir.fr/societe-justice/dermatose-bovine-dans-le-doubs-la-famille-lhomme-saisit-la-cour-europeenne-des"
+    ]
+  }
+]

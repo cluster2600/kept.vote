@@ -1,0 +1,25 @@
+[
+  {
+    "id": "jean-noel-barrot-moreau-cjr-diffamation",
+    "case": "Plainte pour diffamation de Xavier Moreau contre Jean-Noël Barrot (Cour de justice de la République)",
+    "period": "2025-2026",
+    "type": "dismissal",
+    "description": "Xavier Moreau, fondateur du site Stratpol et ressortissant franco-russe basé en Russie, a déposé une plainte pour diffamation contre Jean-Noël Barrot, ministre de l'Europe et des Affaires étrangères. Mi-décembre 2025, en annonçant des sanctions de l'UE contre douze 'agents de la déstabilisation russe en Europe', Barrot avait nommément qualifié Xavier Moreau de 'relais de la propagande du Kremlin en Europe'. Moreau a estimé ces propos diffamatoires et a saisi la Commission des requêtes de la Cour de justice de la République, juridiction compétente pour les actes commis par les ministres dans l'exercice de leurs fonctions.",
+    "type_note": "Barrot était ici le ministre visé par la plainte (défendeur/mis en cause), non le plaignant.",
+    "status": "dismissed",
+    "outcome": "Plainte classée. Dans une décision rendue le 27 mai 2026, la Commission des requêtes de la Cour de justice de la République a écarté (classé) la plainte, estimant que 'M. Barrot n'a pas excédé les limites de la liberté d'expression sur un débat d'intérêt général'. La décision précise que les actes de la Commission des requêtes ne sont susceptibles d'aucun recours. Xavier Moreau a annoncé vouloir poursuivre l'action devant la 17e chambre du tribunal correctionnel de Paris.",
+    "court": "Cour de justice de la République (Commission des requêtes)",
+    "presumption_note": "La plainte visant Jean-Noël Barrot a été classée; aucune mise en examen ni condamnation. Barrot bénéficie pleinement de la présomption d'innocence et la décision lui est favorable.",
+    "key_facts": [
+      "Propos tenus par Barrot mi-décembre 2025 lors de l'annonce de sanctions UE contre des agents d'ingérence russe.",
+      "Barrot a cité 'Xavier Moreau, ressortissant franco-russe basé en Russie qui est un relais de la propagande du Kremlin en Europe'.",
+      "Plainte déposée par le cabinet CAB Associés (Me Carlo Alberto Brusa), enregistrée mi-mars 2026.",
+      "Décision de classement rendue le 27 mai 2026 par la Commission des requêtes de la CJR.",
+      "Le plaignant a annoncé son intention de saisir la 17e chambre correctionnelle de Paris."
+    ],
+    "source_url": [
+      "https://francais.rt.com/france/134778-diffamation-quai-dorsay-justice-moreau",
+      "https://francais.rt.com/france/128790-xavier-moreau-engage-poursuites-contre-jean-noel-barrot-apres-ses-accusations-jugees-diffamatoires"
+    ]
+  }
+]

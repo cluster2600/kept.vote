@@ -1,12 +1,129 @@
 [
   {
-    "id": "no-company-participations",
-    "entity": "Aucune participation financière directe au capital d'une société",
-    "role": "Néant",
-    "ownership_stake": "0 %",
-    "period": "2025",
-    "status": "none declared",
-    "detail": "La déclaration HATVP (rubriques 4° intérêts et 2°/3° patrimoine) ne mentionne aucune participation financière directe au capital d'une société, ni part de SCI, ni valeur mobilière non cotée.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"]
+    "id": "annie-genevard-min-agriculture",
+    "entity": "Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire (France)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "09/2024 - en cours (juin 2026)",
+    "status": "current",
+    "detail": "Ministre de l'Agriculture, nommée le 21 septembre 2024 (gouvernement Barnier), reconduite sous Bayrou puis dans les gouvernements Lecornu. Activité rémunérée par le Ministère public selon la déclaration d'intérêts HATVP (déposée le 10 novembre 2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie",
+      "https://agriculture.gouv.fr/annie-genevard-ministre-de-lagriculture-et-de-la-souverainete-alimentaire"
+    ]
+  },
+  {
+    "id": "annie-genevard-deputee-doubs",
+    "entity": "Assemblée nationale (députée de la 5e circonscription du Doubs)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "2012 - 09/2024 (mandat suspendu lors de l'entrée au gouvernement)",
+    "status": "historical",
+    "detail": "Députée du Doubs depuis 2012, vice-présidente de l'Assemblée nationale. La déclaration HATVP recense le mandat de députée du Doubs de 01/2020 à 09/2024 avec indemnités déclarées. Mandat parlementaire suspendu lors de la nomination au gouvernement.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie",
+      "https://en.wikipedia.org/wiki/Annie_Genevard"
+    ]
+  },
+  {
+    "id": "annie-genevard-lr-secretaire-generale",
+    "entity": "Les Républicains (parti politique)",
+    "role": "director",
+    "ownership_stake": null,
+    "period": "Présidente du conseil national 11/2019-06/2022; présidente par intérim 06/2022-06/2023 (direction du parti juillet-décembre 2022); secrétaire générale à partir de 06/2023 (jusqu'au 21 mai 2025)",
+    "status": "historical",
+    "detail": "Fonctions dirigeantes au sein du parti Les Républicains déclarées à la HATVP, toutes à titre bénévole (0 € de rémunération). Présidente du conseil national, puis présidente par intérim du parti (juillet-décembre 2022), puis secrétaire générale. Secrétaire générale également de 2017 à 2019 sous Laurent Wauquiez.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie",
+      "https://en.wikipedia.org/wiki/Annie_Genevard"
+    ]
+  },
+  {
+    "id": "annie-genevard-conseil-national-montagne",
+    "entity": "Conseil national de la montagne",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "03/2021 - 08/2024",
+    "status": "historical",
+    "detail": "Présidente de la commission permanente du Conseil national de la montagne, fonction déclarée à la HATVP, sans rémunération (0 €).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"
+    ]
+  },
+  {
+    "id": "annie-genevard-anct",
+    "entity": "Agence nationale de la cohésion des territoires (ANCT)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "09/2022 - 06/2024",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration de l'ANCT, fonction déclarée à la HATVP, sans rémunération (0 €).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"
+    ]
+  },
+  {
+    "id": "annie-genevard-maire-morteau",
+    "entity": "Commune de Morteau (Doubs)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "Adjointe au maire 1995-2002; maire 2002 - 21 juillet 2017",
+    "status": "historical",
+    "detail": "Maire de Morteau de 2002 à 2017 (succédant à Jean-Marie Binetruy); adjointe au maire de 1995 à 2002. Mandat municipal quitté en 2017 en raison des règles de non-cumul des mandats. Non recensé dans la déclaration HATVP de 2025 (antériorité au-delà de la période déclarée).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Annie_Genevard",
+      "https://www.info.gouv.fr/personnalite/annie-genevard"
+    ]
+  },
+  {
+    "id": "annie-genevard-pays-horloger",
+    "entity": "Syndicat mixte du Pays Horloger (préfiguration du Parc naturel régional du Doubs Horloger)",
+    "role": "director",
+    "ownership_stake": null,
+    "period": "2001 - 2017",
+    "status": "historical",
+    "detail": "Présidente du syndicat mixte du Pays Horloger, à l'initiative de la création du Parc naturel régional du Doubs Horloger. Fonction antérieure à la période couverte par la déclaration HATVP de 2025.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Annie_Genevard",
+      "http://www.pays-horloger.fr/franche-comte/3-haut-doubs/syndicat-mixte.php"
+    ]
+  },
+  {
+    "id": "annie-genevard-amf",
+    "entity": "Association des maires de France (AMF)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "Membre du comité directeur à partir de 2008; vice-présidente 2014-2017",
+    "status": "historical",
+    "detail": "Membre du comité directeur de l'Association des maires de France à partir de 2008, puis vice-présidente de 2014 à 2017. Fonctions antérieures à la période couverte par la déclaration HATVP de 2025.",
+    "source_url": [
+      "https://www.mystudies.com/fr-fr/blog/actualites/portrait-nouveau-ministre-agriculture-annie-genevard-27-09-2024.html",
+      "https://en.wikipedia.org/wiki/Annie_Genevard"
+    ]
+  },
+  {
+    "id": "annie-genevard-professeur-lettres",
+    "entity": "Éducation nationale (enseignement secondaire)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "Carrière antérieure à l'engagement politique",
+    "status": "historical",
+    "detail": "Professeur certifiée de Lettres classiques (titulaire du CAPES), enseignante de français en lycée avant sa carrière politique. Aujourd'hui retraitée de l'enseignement.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/annie-genevard",
+      "https://en.wikipedia.org/wiki/Annie_Genevard"
+    ]
+  },
+  {
+    "id": "annie-genevard-participations-financieres",
+    "entity": "Participations financières directes dans le capital d'une société",
+    "role": "none",
+    "ownership_stake": null,
+    "period": "Déclaration d'intérêts HATVP déposée le 10 novembre 2025",
+    "status": "none",
+    "detail": "Aucune participation financière directe dans le capital d'une société déclarée (rubrique 4° : Néant). Aucune activité de consultant déclarée (rubrique 2° : Néant). Aucune part de société civile immobilière, valeur mobilière non cotée ni instrument financier déclaré dans la situation patrimoniale.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=genevard-annie"
+    ]
   }
 ]

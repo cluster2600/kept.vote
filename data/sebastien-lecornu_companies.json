@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "sebastien-lecornu-sapn-administrateur",
+    "entity": "Société des autoroutes Paris-Normandie (SAPN)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "2016-2017",
+    "status": "historical",
+    "detail": "Administrateur de la SAPN (représentation liée à ses fonctions départementales) entre juillet 2016 et juin 2017. M. Lecornu a déclaré à la HATVP avoir perçu 7 874 euros bruts de jetons de présence à ce titre. Mandat ayant fait l'objet d'une enquête (classée sans suite) pour prise illégale d'intérêts, les jetons ayant été remboursés.",
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-d-elisabeth-borne/l-enquete-pour-prise-illegale-d-interets-visant-le-ministre-sebastien-lecornu-classee-sans-suite_5922413.html",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien"
+    ]
+  },
+  {
+    "id": "sebastien-lecornu-spl-campus-espace",
+    "entity": "SPL Campus de l'espace",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "2015-2022",
+    "status": "historical",
+    "detail": "Représentation au conseil d'administration au titre de ses fonctions de président du conseil départemental de l'Eure (société publique locale). Mandat de nature institutionnelle, non rémunéré à titre personnel.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien"
+    ]
+  },
+  {
+    "id": "sebastien-lecornu-epf-normandie",
+    "entity": "Établissement public foncier de Normandie (EPFN)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "2015-2022",
+    "status": "historical",
+    "detail": "Représentation au conseil d'administration de l'EPFN au titre de ses fonctions de président du conseil départemental de l'Eure. Mandat de nature institutionnelle.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien"
+    ]
+  },
+  {
+    "id": "sebastien-lecornu-no-private-corporate-holdings",
+    "entity": "Aucune participation/direction dans une société commerciale privée",
+    "role": "none",
+    "ownership_stake": null,
+    "period": "2026",
+    "status": "none",
+    "detail": "La déclaration d'intérêts de M. Lecornu, publiée par la HATVP le 20 avril 2026 dans le cadre du gouvernement qu'il dirige, ne fait pas état de participation au capital ni de direction dans une société commerciale privée détenue à titre personnel. Ses affiliations connues correspondent à des mandats publics/institutionnels (notamment SAPN, SPL Campus de l'espace, EPF de Normandie) liés à ses fonctions électives. Sa carrière s'est essentiellement déroulée dans la vie publique.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=lecornu-sebastien",
+      "https://www.hatvp.fr/presse/publication-des-declarations-de-30-membres-du-gouvernement-de-m-sebastien-lecornu/"
+    ]
+  }
+]

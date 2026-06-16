@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "laurent-nunez-none-declared",
+    "entity": "Aucune affiliation d'entreprise déclarée",
+    "role": "none",
+    "ownership_stake": null,
+    "period": "à la date de la nomination (2025) et au cours des 5 années précédentes",
+    "status": "none",
+    "detail": "Carrière de haut fonctionnaire / préfet. La déclaration d'intérêts déposée auprès de la HATVP (déclaration d'intérêts du 17 novembre 2025 ; déclaration de modification substantielle du 8 février 2026) ne mentionne aucune activité de consultant (rubrique 2 : Néant), aucune participation aux organes dirigeants d'un organisme public ou privé ou d'une société (rubrique 3 : Néant), et aucune participation financière directe dans le capital d'une société (rubrique 4 : Néant). Les seules activités professionnelles rémunérées déclarées sont des fonctions publiques (secrétaire d'État au ministère de l'Intérieur, coordonnateur national du renseignement et de la lutte contre le terrorisme/CNRLT, préfet de police de Paris). Le patrimoine déclaré est composé de biens immobiliers, comptes bancaires, assurances-vie et un PEA, sans parts de société ni SCI (rubriques 2 et 3 du patrimoine : Néant).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=nunez-laurent",
+      "https://www.hatvp.fr/livraison/dossiers/nunez-laurent-dim34796-gouvernement.pdf"
+    ]
+  }
+]

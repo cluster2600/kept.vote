@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "roland-lescure-ixis-am",
+    "entity": "Ixis Asset Management",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "1999-2005",
+    "status": "historical",
+    "detail": "Held various positions at Ixis Asset Management (a French asset management firm, part of the Caisse des dépôts / CNCE group, later merged into Natixis) before moving on to Natixis Asset Management.",
+    "source_url": ["https://www.esm.europa.eu/profile/roland-lescure"]
+  },
+  {
+    "id": "roland-lescure-natixis-am",
+    "entity": "Natixis Asset Management",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "2005-2006",
+    "status": "historical",
+    "detail": "Deputy Chief Executive Officer (directeur general delegue) of Natixis Asset Management.",
+    "source_url": ["https://www.esm.europa.eu/profile/roland-lescure", "https://www.corim.qc.ca/fr/biographie/1111/Roland_Lescure"]
+  },
+  {
+    "id": "roland-lescure-groupama-am",
+    "entity": "Groupama Asset Management",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "2006-2009",
+    "status": "historical",
+    "detail": "Deputy Chief Executive Officer and Chief Investment Officer (directeur general adjoint et directeur des gestions) of Groupama Asset Management.",
+    "source_url": ["https://www.esm.europa.eu/profile/roland-lescure", "https://www.corim.qc.ca/fr/biographie/1111/Roland_Lescure"]
+  },
+  {
+    "id": "roland-lescure-cdpq",
+    "entity": "Caisse de depot et placement du Quebec (CDPQ / La Caisse)",
+    "role": "employee",
+    "ownership_stake": null,
+    "period": "2009-2017",
+    "status": "historical",
+    "detail": "Executive Vice-President and Chief Investment Officer (1st Vice-President and Chief of Investments) of Quebec's public pension and insurance fund manager, reporting to president Michael Sabia. Oversaw the bulk of the institution's investment activities (a portfolio of well over 200 billion dollars). Left in 2017 to enter French politics.",
+    "source_url": ["https://www.esm.europa.eu/profile/roland-lescure", "https://www.lacaisse.com/en/news/pressreleases/chief-investment-officer-roland-lescure-announces-decision-leave-caisse-enter", "https://www.lacaisse.com/en/news/pressreleases/appointment-roland-lescure"]
+  },
+  {
+    "id": "roland-lescure-esm-governor",
+    "entity": "European Stability Mechanism (ESM)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "from October 2025",
+    "status": "current",
+    "detail": "Member of the ESM Board of Governors as French Minister of the Economy and Finance (ex officio governor for France). Alternate governor: Bertrand Dumont.",
+    "source_url": ["https://www.esm.europa.eu/profile/roland-lescure"]
+  },
+  {
+    "id": "roland-lescure-amerique-avec-vous",
+    "entity": "L'Amerique avec vous (association)",
+    "role": "director",
+    "ownership_stake": null,
+    "period": "declared as of February 2026",
+    "status": "declared",
+    "detail": "President of the association 'L'Amerique avec vous', declared in his HATVP declaration of interests as an unpaid (benevole) function susceptible of giving rise to a conflict of interest.",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"]
+  },
+  {
+    "id": "roland-lescure-hatvp-no-shareholdings",
+    "entity": "HATVP declaration of interests (no corporate shareholdings or directorships declared)",
+    "role": "none",
+    "ownership_stake": null,
+    "period": "5 years preceding declaration deposited 7 February 2026",
+    "status": "declared",
+    "detail": "Lescure's HATVP declaration of interests records 'Neant' (none) for: consultant activities (item 2); participation in the governing bodies of any public or private organisation or company (item 3); and direct financial holdings in the capital of any company (item 4), over the five years preceding the declaration. His declared assets (HATVP situation patrimoniale, deposited 19 October 2025) consist of real estate, life insurance policies and bank accounts, with no listed securities or financial instruments ('Neant' for items 3 and 4 of the patrimoniale).",
+    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=lescure-roland"]
+  }
+]

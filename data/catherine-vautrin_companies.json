@@ -1,22 +1,123 @@
 [
   {
-    "id": 1,
+    "id": "catherine-vautrin-cvpconseil-sas",
     "entity": "SAS CVPConseil",
-    "role": "President and sole shareholder",
-    "ownership_stake": "100% (100 of 100 shares)",
-    "period": "Company role declared 2019-2024; 100% ownership stated as of nomination",
+    "role": "owner",
+    "ownership_stake": "100% (100 parts)",
+    "period": "2019-présent (présidente déclarée 01/2019 à 01/2024 ; participation maintenue)",
     "status": "declared",
-    "detail": "Wholly owned consultancy (SAS). Declared market value 105,674 EUR. She received 30,000 EUR in dividends in respect of the 2024 financial year. A related consulting activity (CVPConseil, consumer mediation) is listed for 01/2020-01/2025 with 0 EUR remuneration reported.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-di34799-gouvernement.pdf"]
+    "detail": "Société par actions simplifiée détenue à 100% par Catherine Vautrin, dont elle a été présidente. Activité déclarée de conseil, notamment médiation de la consommation (via l'employeur 'CVPConseil', 01/2020-01/2025). Valeur vénale des parts déclarée à la HATVP : 105 674 euros. Dividendes déclarés au titre de l'exercice 2024 : 30 000 euros. Déclarée à la HATVP (déclaration d'intérêts du 2 novembre 2025 et modification substantielle du 14 février 2026).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine",
+      "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-dim34800-gouvernement.pdf"
+    ]
   },
   {
-    "id": 2,
-    "entity": "Société Civile Immobilière (SCI) [name not published by HATVP]",
-    "role": "Manager (gerante) and 50% partner",
-    "ownership_stake": "50% (442 of 884 shares)",
-    "period": "2019-2024 (manager role declared)",
+    "id": "catherine-vautrin-sci-familiale",
+    "entity": "SCI familiale (dénomination non publiée par la HATVP)",
+    "role": "owner",
+    "ownership_stake": "50% (442 parts sur 884)",
+    "period": "2019-présent (gérante déclarée 01/2019 à 01/2024)",
     "status": "declared",
-    "detail": "Real-estate holding company; she was gerante and holds 50% of shares (declared value 227,055 EUR). No remuneration declared.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine", "https://www.hatvp.fr/livraison/dossiers/vautrin-catherine-di34799-gouvernement.pdf"]
+    "detail": "Société civile immobilière dont Catherine Vautrin est gérante et détient 50% du capital (nue-propriété partagée). Valeur vénale des parts déclarée : environ 227 055 euros. Détient une maison individuelle dans la Marne (département 51). Dénomination non publiée par la HATVP. Déclarée dans la déclaration de situation patrimoniale et la déclaration d'intérêts.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-champagne-parc-auto",
+    "entity": "Champagne Parc Auto (société de stationnement, agglomération de Reims)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "01/2019-09/2020",
+    "status": "historical",
+    "detail": "Présidente déclarée (sans rémunération). Mandat exercé au titre de ses fonctions à la communauté urbaine du Grand Reims. Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-aeroport-vatry",
+    "entity": "Aéroport de Vatry",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "09/2020-01/2024",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration (sans rémunération), au titre de ses mandats locaux (Grand Reims). Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-office-tourisme-reims",
+    "entity": "Office de Tourisme de Reims",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "07/2020-01/2024",
+    "status": "historical",
+    "detail": "Présidente (sans rémunération), au titre de ses fonctions à la communauté urbaine du Grand Reims / ville de Reims. Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-chu-reims-surveillance",
+    "entity": "Conseil de surveillance du CHU de Reims",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "01/2019-01/2024",
+    "status": "historical",
+    "detail": "Représentante titulaire, membre du conseil de surveillance (sans rémunération), au titre de ses mandats locaux. Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-syndicat-mixte-nord-remois",
+    "entity": "Syndicat Mixte Nord Rémois",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "01/2019-12/2020",
+    "status": "historical",
+    "detail": "Présidente (sans rémunération), au titre de ses mandats locaux. Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-anru",
+    "entity": "Agence Nationale de Rénovation Urbaine (ANRU)",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "08/2022-01/2024",
+    "status": "historical",
+    "detail": "Présidente (sans rémunération), organisme public. Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-epf-grand-est",
+    "entity": "Établissement public foncier Grand Est",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "12/2020-01/2024",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration (sans rémunération), organisme public, au titre de ses mandats locaux. Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
+  },
+  {
+    "id": "catherine-vautrin-invest-in-reims",
+    "entity": "Association Invest in Reims",
+    "role": "board_member",
+    "ownership_stake": null,
+    "period": "01/2019-06/2022",
+    "status": "historical",
+    "detail": "Représentante titulaire, présidente (sans rémunération), au titre de ses mandats locaux. Déclaré à la HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=vautrin-catherine"
+    ]
   }
 ]

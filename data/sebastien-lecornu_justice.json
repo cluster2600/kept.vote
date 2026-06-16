@@ -1,0 +1,69 @@
+[
+  {
+    "id": "sebastien-lecornu-sapn-prise-illegale-interets",
+    "case": "SAPN / prise illégale d'intérêts (jetons de présence)",
+    "period": "2016-2023",
+    "type": "investigation",
+    "description": "Une enquête préliminaire a visé Sébastien Lecornu pour soupçons de prise illégale d'intérêts et d'omission de déclaration à la HATVP. Alors qu'il présidait le conseil départemental de l'Eure, il avait été désigné administrateur de la Société des autoroutes Paris-Normandie (SAPN) et avait perçu 7 874 euros bruts de jetons de présence (juillet 2016-juin 2017) tout en participant à des délibérations départementales concernant la société.",
+    "status": "dismissed",
+    "outcome": "Enquête classée sans suite par le Parquet national financier le 30 juin 2023, après que M. Lecornu eut remboursé les 7 874 euros de jetons de présence litigieux. Le PNF a estimé qu'aucun élément ne permettait d'établir qu'il avait cherché à faire prévaloir les intérêts de la SAPN sur ceux du département.",
+    "court": "Parquet national financier (PNF)",
+    "presumption_note": "Enquête classée sans suite ; aucune charge retenue, aucune condamnation. M. Lecornu bénéficie de la présomption d'innocence et n'a fait l'objet d'aucune poursuite à l'issue de cette procédure.",
+    "key_facts": [
+      "Signalement reçu en janvier 2019, enquête préliminaire confiée au PNF en mars 2019, portant sur des faits de 2016-2017.",
+      "M. Lecornu était administrateur de la SAPN entre juillet 2016 et juin 2017 et avait déclaré 7 874 euros bruts de jetons de présence à la HATVP.",
+      "Il présidait simultanément le conseil départemental de l'Eure et a participé à des votes de délibérations concernant la SAPN.",
+      "Le PNF a classé l'affaire sans suite le 30 juin 2023 après remboursement des 7 874 euros."
+    ],
+    "source_url": [
+      "https://www.franceinfo.fr/politique/gouvernement-d-elisabeth-borne/l-enquete-pour-prise-illegale-d-interets-visant-le-ministre-sebastien-lecornu-classee-sans-suite_5922413.html",
+      "https://www.europe1.fr/politique/le-pnf-classe-lenquete-pour-prise-illegale-dinterets-visant-le-ministre-sebastien-lecornu-4191840",
+      "https://observatoire.anticor.org/2022/10/15/fin-des-enquetes-sur-les-ministres-lecornu-et-dussopt-sur-des-soupcons-de-prise-illegale-dinteret/"
+    ]
+  },
+  {
+    "id": "sebastien-lecornu-favoritisme-expositions-narcy",
+    "case": "Favoritisme présumé / commandes d'expositions à Jean-Claude Narcy",
+    "period": "2021-2026",
+    "type": "investigation",
+    "description": "Le Parquet national financier a ouvert une enquête préliminaire pour favoritisme, prise illégale d'intérêts et recel concernant deux expositions photographiques commandées à l'ancien journaliste de TF1 Jean-Claude Narcy. Selon la presse, les prestations « Ces héros venus d'outre-mer » (2021) et « L'Eure, terre de talents » (2022) auraient été facturées 39 900 et 40 000 euros, juste en deçà du seuil imposant un appel d'offres.",
+    "status": "ongoing",
+    "outcome": null,
+    "court": "Parquet national financier (PNF)",
+    "presumption_note": "Enquête en cours ; M. Lecornu n'a pas été mis en examen et bénéficie de la présomption d'innocence. Les soupçons rapportés par la presse constituent des allégations non établies judiciairement. Compte tenu de ses fonctions ministérielles, le dossier pourrait être transmis à la commission d'instruction de la Cour de justice de la République.",
+    "key_facts": [
+      "Enquête préliminaire ouverte par le PNF, selon la presse vers mai 2023, pour favoritisme, prise illégale d'intérêts et recel.",
+      "Le 11 avril 2025, M. Lecornu a été entendu en audition libre par la brigade de répression de la corruption et de la fraude fiscale, en sa qualité d'ancien président du conseil départemental de l'Eure.",
+      "Les deux expositions ont été confiées à Jean-Claude Narcy, ancien présentateur de TF1 ; la presse évoque des montants de facturation juste sous le seuil de mise en concurrence.",
+      "Selon Anticor (septembre 2025), l'enquête pourrait être transmise à la commission d'instruction de la Cour de justice de la République, compétente pour les actes accomplis dans l'exercice de fonctions ministérielles.",
+      "Aucune mise en examen ni décision de poursuite ou de classement n'a été documentée à la date de juin 2026."
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/normandie/eure/le-ministre-sebastien-lecornu-entendu-par-la-police-dans-une-enquete-pour-favoritisme-3138986.html",
+      "https://france3-regions.franceinfo.fr/normandie/eure/justice-sebastien-lecornu-a-t-il-favorise-un-ancien-journaliste-de-tf1-lors-de-la-commande-d-une-exposition-photo-dans-l-eure-3168216.html",
+      "https://observatoire.anticor.org/2025/09/11/un-premier-ministre-nomme-malgre-une-enquete-judiciaire-qui-le-vise/",
+      "https://observatoire.anticor.org/2025/06/09/j-c-narcy-va-tappeler-il-faut-laider-le-ministre-sebastien-lecornu-soupconne-de-favoritisme/"
+    ]
+  },
+  {
+    "id": "sebastien-lecornu-outre-mer-achat-livres-dubois",
+    "case": "Commande de livres à Max Dubois (ministère des Outre-mer)",
+    "period": "2021-2025",
+    "type": "investigation",
+    "description": "Dans le cadre du même volet d'enquête sur sa période au ministère des Outre-mer, la presse a rapporté que M. Lecornu aurait commandé sans mise en concurrence un ouvrage / stock de livres sur le service militaire adapté à Max Dubois, ancien membre de l'équipe de campagne d'Emmanuel Macron, pour un montant évoqué d'environ 100 000 euros.",
+    "status": "ongoing",
+    "outcome": null,
+    "court": "Parquet national financier (PNF)",
+    "presumption_note": "Élément rapporté par la presse (Mediapart, Anticor) comme une allégation s'inscrivant dans l'enquête pour favoritisme en cours ; aucune mise en examen ni décision judiciaire. M. Lecornu bénéficie de la présomption d'innocence.",
+    "key_facts": [
+      "Selon Mediapart et l'Observatoire Anticor (juillet-septembre 2025), une commande de livres aurait été passée à Max Dubois, proche d'Emmanuel Macron, pour un montant évoqué d'environ 100 000 euros.",
+      "La commande aurait été passée sans appel d'offres ; une partie seulement des exemplaires aurait été livrée plusieurs années après.",
+      "Ces faits sont rattachés au champ de l'enquête du PNF sur la période de M. Lecornu au ministère des Outre-mer.",
+      "Aucune décision judiciaire documentée à la date de juin 2026."
+    ],
+    "source_url": [
+      "https://observatoire.anticor.org/2025/07/09/le-gros-cheque-de-sebastien-lecornu-a-lancien-referent-outre-mer-de-macron/",
+      "https://imazpress.com/actus-reunion/lecornu"
+    ]
+  }
+]
