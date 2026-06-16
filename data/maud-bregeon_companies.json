@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "edf-employee",
+    "entity": "EDF (Électricité de France)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2014–2022",
+    "status": "historical",
+    "detail": "Ingénieure chez EDF dans le domaine du nucléaire de 2014 à 2022. Diplômée ingénieure de l'École Polytechnique de l'Université de Nantes (Polytech Nantes) en 2014, elle débute dans une unité créée après la catastrophe de Fukushima pour gérer les situations accidentelles graves sur les centrales (sûreté nucléaire), puis travaille sur des fonctions liées aux contrats et aux situations de crise. Elle indique avoir démissionné d'EDF après son élection à l'Assemblée nationale en 2022 pour 'avoir les mains libres'. Son lien avec EDF a suscité des questions de conflit d'intérêts dans la presse (Mediapart, surnom de 'députée EDF') lorsqu'elle a été rapporteure de textes énergétiques/nucléaires; il s'agit d'une controverse politique et déontologique, pas d'une procédure judiciaire.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.usinenouvelle.com/elles-et-ils-font-l-industrie/dirigeants/nomination/une-ingenieure-passee-par-edf-qui-est-maud-bregeon-la-nouvelle-ministre-deleguee-chargee-de-lenergie.NXKMI5SNSNEX5A3HKGCJ7OEEQM.html",
+      "https://www.mediapart.fr/journal/politique/150123/questions-sur-maud-bregeon-la-deputee-edf"
+    ]
+  },
+  {
+    "id": "andra-conseil-administration",
+    "entity": "ANDRA (Agence nationale pour la gestion des déchets radioactifs)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "2022– (XVIe législature)",
+    "status": "historical",
+    "detail": "Membre du conseil d'administration de l'ANDRA en tant que représentante de l'Assemblée nationale (désignation au titre d'un organisme extra-parlementaire), pendant son mandat de députée des Hauts-de-Seine. Rôle de mandat public lié à ses fonctions parlementaires, non rémunéré au sens d'une participation capitalistique.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Maud_Bregeon",
+      "https://www.assemblee-nationale.fr/dyn/16/organes/orgextparl/andra/documents"
+    ]
+  },
+  {
+    "id": "hatvp-declarations",
+    "entity": "HATVP (déclaration d'intérêts / de patrimoine)",
+    "role": "none",
+    "ownership_stake": "none declared / not yet public",
+    "period": "2024–2026",
+    "status": "declared",
+    "detail": "Déclarations d'intérêts et de situation patrimoniale déposées auprès de la Haute Autorité pour la transparence de la vie publique au titre de ses fonctions ministérielles (ancienne ministre déléguée porte-parole du gouvernement Barnier, puis ministre déléguée chargée de l'Énergie). Au moment de la consultation, la fiche HATVP indique 'Déclaration déposée – publication à venir' pour les volets Intérêts et Patrimoine; le contenu détaillé (participations financières, fonctions exercées) n'est pas encore publié.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=bregeon-maud-24159"
+    ]
+  }
+]

@@ -1,1 +1,113 @@
-[]
+[
+  {
+    "id": "ehpad-portes-ariege",
+    "entity": "EHPAD des Portes d'Ariège (Ariège-Pyrénées)",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "08/2020 - 07/2022",
+    "status": "historical",
+    "detail": "Directeur d'établissement sanitaire et social (EHPAD). Profession principale avant son entrée à l'Assemblée. Rémunération nette déclarée HATVP: 22 134 EUR (2020), 55 074 EUR (2021), 34 060 EUR (2022). Panifous a dirigé plusieurs EHPAD ariégeois entre 2000 et 2022; il est titulaire d'un Master 2 en droit de la santé. Salarié, non propriétaire de l'établissement.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169",
+      "https://en.wikipedia.org/wiki/Laurent_Panifous"
+    ]
+  },
+  {
+    "id": "maire-le-fossat",
+    "entity": "Commune du Fossat (Ariège)",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "2014 - 07/2022 (maire); conseiller municipal depuis 08/2022",
+    "status": "current",
+    "detail": "Maire du Fossat du 30 mars 2014 au 28 juillet 2022 (démission après son élection comme député, regle de non-cumul). Reste conseiller municipal depuis 08/2022 (mandat non rémunéré). Indemnité de maire déclarée HATVP: ~15 300 EUR/an de 2017 a 2019, décroissant ensuite. Successeur comme maire: Véronique Arnaud.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169",
+      "https://en.wikipedia.org/wiki/Laurent_Panifous"
+    ]
+  },
+  {
+    "id": "ccal-arize-leze",
+    "entity": "Communauté de communes Arize-Lèze",
+    "role": "director",
+    "ownership_stake": "none",
+    "period": "2017 - 07/2022 (président); conseiller communautaire 08/2022 - 09/2024",
+    "status": "historical",
+    "detail": "Président de la communauté de communes Arize-Lèze de 2017 à juillet 2022 (démission liée a l'élection comme député). Indemnité déclarée HATVP: 3 360 EUR/an (2017-2019). Conseiller communautaire d'aout 2022 a septembre 2024 (non rémunéré).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169",
+      "https://en.wikipedia.org/wiki/Laurent_Panifous"
+    ]
+  },
+  {
+    "id": "institut-national-cancer",
+    "entity": "Institut national du cancer (INCa)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "01/2023 - 06/2024",
+    "status": "historical",
+    "detail": "Administrateur de l'Institut national du cancer. Fonction non rémunérée (0 EUR déclaré). Déclaré dans la rubrique 'participations aux organes dirigeants d'un organisme public ou privé' de la déclaration d'intérêts HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "petr-ariege",
+    "entity": "PETR - Pôle d'équilibre territorial rural de l'Ariège",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "09/2020 - 07/2022",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants (élaboration du projet de territoire - service d'ingénierie financière). Fonction non rémunérée (0 EUR). Déclaré HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "smival-leze",
+    "entity": "SMIVAL - Syndicat mixte interdépartemental de la Vallée de Lèze",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "01/2018 - 07/2022",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants. Syndicat de rivière, mise en oeuvre des politiques de gestion des milieux aquatiques et de prévention des inondations (GEMAPI). Fonction non rémunérée (0 EUR). Déclaré HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "smectom-plantaurel",
+    "entity": "SMECTOM du Plantaurel - Syndicat mixte de collecte et traitement des ordures ménagères",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "01/2018 - 07/2022",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants. Collecte et traitement des déchets. Fonction non rémunérée (0 EUR). Déclaré HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "agence-ariege-attractivite",
+    "entity": "AAA - Agence Ariège Attractivité",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "01/2018 - 07/2022",
+    "status": "historical",
+    "detail": "Participation aux organes dirigeants. Agence de développement économique de l'Ariège. Fonction non rémunérée (0 EUR). Déclaré HATVP.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  },
+  {
+    "id": "portefeuille-titres-pea",
+    "entity": "Portefeuille de valeurs mobilières cotées (PEA / comptes-titres, Crédit Agricole)",
+    "role": "shareholder",
+    "ownership_stake": "participations minoritaires (quelques milliers d'EUR par ligne)",
+    "period": "déclaré au 07/11/2025 / modification 21/02/2026",
+    "status": "declared",
+    "detail": "Participations financières directes minoritaires dans 24 lignes de titres cotés et ETF logés dans des PEA/comptes-titres Crédit Agricole (ex.: Engie, Orange, Danone, Thales, Veolia, STMicroelectronics, ArcelorMittal, Michelin, ASML, JCDecaux, divers ETF Amundi). Placements financiers ordinaires, aucune fonction dirigeante. Valeurs unitaires de l'ordre de 1 700 a 16 000 EUR. Aucun dividende déclaré l'année précédente.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=panifous-laurent-24169"
+    ]
+  }
+]

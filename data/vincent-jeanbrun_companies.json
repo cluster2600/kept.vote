@@ -1,12 +1,149 @@
 [
   {
-    "id": "no-company-participations",
-    "entity": "none declared",
-    "role": "not applicable",
-    "ownership_stake": "none declared",
-    "period": "not applicable",
-    "status": "not applicable",
-    "detail": "HATVP declaration of patrimony (22 October 2025) records no direct financial participations in the capital of a company (heading 4: Neant) and no shares in real-estate civil companies (SCI) (heading 2: Neant). His non-remunerated leadership roles are in associations/public bodies (cemetery and geothermal syndicates, CCAS, Caisse des ecoles, Comite de bassin d'emploi Sud 94, associations 'Plus belle L'Hay' and 'Ile de France Rassemblee'), not commercial companies.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"]
+    "id": "vincent-jeanbrun-maire-lhay-les-roses",
+    "entity": "Commune de L'Haÿ-les-Roses (Val-de-Marne)",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "2014-2025 (maire élu en 2014, réélu en 2020 ; mandat de maire mentionné jusqu'en octobre 2024 dans la déclaration HATVP, à la suite de son entrée à l'Assemblée nationale puis au gouvernement)",
+    "status": "historical",
+    "detail": "Maire de L'Haÿ-les-Roses (commune de plus de 20 000 habitants). Fonction exécutive locale, non une société. Rémunération nette déclarée à la HATVP : env. 47 004 € (2020), 55 079 € (2021), 55 820 € (2022), 56 874 € (2023), 30 666 € (2024).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent",
+      "https://en.wikipedia.org/wiki/Vincent_Jeanbrun"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-grand-orly-seine-bievre",
+    "entity": "Établissement public territorial Grand-Orly Seine Bièvre",
+    "role": "board_member",
+    "ownership_stake": "N/A",
+    "period": "depuis 2016",
+    "status": "current",
+    "detail": "Conseiller territorial de l'établissement public territorial (EPT) Grand-Orly Seine Bièvre depuis le 1er janvier 2016, au titre de son mandat municipal à L'Haÿ-les-Roses. Figure à l'annuaire des élus de l'EPT.",
+    "source_url": [
+      "https://www.grandorlyseinebievre.fr/annuaire-des-personnes/vincent-jeanbrun",
+      "https://en.wikipedia.org/wiki/Vincent_Jeanbrun"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-conseiller-regional-idf",
+    "entity": "Conseil régional d'Île-de-France",
+    "role": "board_member",
+    "ownership_stake": "N/A",
+    "period": "depuis juin 2021",
+    "status": "current",
+    "detail": "Conseiller régional d'Île-de-France depuis juin 2021 (président du groupe de la majorité régionale). Mandat électif déclaré à la HATVP. Rémunération nette déclarée : 12 929 € (2021), 12 621 € (2022), 10 566 € (2023), 12 917 € (2024), 27 756 € (2025).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent",
+      "https://en.wikipedia.org/wiki/Vincent_Jeanbrun"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-syndicat-cimetiere",
+    "entity": "Syndicat intercommunal du cimetière (intercommunal des cimetières)",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "2020-2024",
+    "status": "historical",
+    "detail": "Président du syndicat intercommunal du cimetière (mandat 03/2020-12/2024 selon la déclaration HATVP). Rémunération nette déclarée d'environ 11 936 € à 12 593 € par an. C'est notamment la gestion de logements rattachés à ce syndicat qui est au cœur de l'enquête pour prise illégale d'intérêts (allégations, présomption d'innocence).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-syndicat-geothermie",
+    "entity": "Syndicat intercommunal de la Géothermie",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "2020-2024",
+    "status": "historical",
+    "detail": "Président du syndicat intercommunal de la Géothermie (mandat 03/2020-12/2024 selon la déclaration HATVP). Rémunération nette déclarée d'environ 12 094 € à 12 600 € par an.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-ccas-lhay",
+    "entity": "Centre communal d'action sociale (CCAS) de L'Haÿ-les-Roses",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "2018-2024",
+    "status": "historical",
+    "detail": "Président ès qualités (en tant que maire) du conseil d'administration du CCAS de L'Haÿ-les-Roses (01/2018-10/2024 selon la HATVP). Fonction non rémunérée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-caisse-des-ecoles",
+    "entity": "Caisse des écoles de L'Haÿ-les-Roses",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "2018-2024",
+    "status": "historical",
+    "detail": "Président du conseil d'administration de la Caisse des écoles (01/2018-10/2024 selon la HATVP). Fonction non rémunérée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-comite-bassin-emploi-sud-94",
+    "entity": "Comité de bassin d'emploi sud 94",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "2018-2023",
+    "status": "historical",
+    "detail": "Président de l'association Comité de bassin d'emploi sud 94 (01/2018-12/2023 selon la HATVP). Fonction non rémunérée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-asso-plus-belle-lhay",
+    "entity": "Association Plus belle L'Haÿ",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "depuis janvier 2025",
+    "status": "current",
+    "detail": "Président de l'association Plus belle L'Haÿ (depuis 01/2025 selon la HATVP). Fonction non rémunérée. Vraisemblablement une structure politique/locale liée à L'Haÿ-les-Roses.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-asso-ile-de-france-rassemblee",
+    "entity": "Association Île-de-France Rassemblée",
+    "role": "director",
+    "ownership_stake": "N/A",
+    "period": "2020-2024",
+    "status": "historical",
+    "detail": "Président de l'association Île-de-France Rassemblée (07/2020-08/2024 selon la HATVP). Fonction non rémunérée.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-auteur-albin-michel",
+    "entity": "Albin Michel (maison d'édition)",
+    "role": "consultant",
+    "ownership_stake": "N/A",
+    "period": "2023 (09/2023-12/2023)",
+    "status": "historical",
+    "detail": "Activité rémunérée déclarée à la HATVP en tant qu'auteur de livre pour l'éditeur Albin Michel. Rémunération nette déclarée : 33 587 € en 2023. Relation contractuelle d'auteur, non un mandat social.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
+  },
+  {
+    "id": "vincent-jeanbrun-participations-financieres-societes",
+    "entity": "Participations financières directes dans des sociétés",
+    "role": "none",
+    "ownership_stake": "Néant",
+    "period": "à la date de la déclaration",
+    "status": "none",
+    "detail": "La déclaration d'intérêts HATVP indique 'Néant' pour les participations financières directes dans le capital d'une société (rubrique 4). Aucune participation au capital d'une société commerciale déclarée. Aucun siège dans une SEM (société d'économie mixte) ou SPL (société publique locale) n'a été trouvé dans les sources consultées (déclaration HATVP, annuaire Grand-Orly Seine Bièvre).",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=jeanbrun-vincent"
+    ]
   }
 ]

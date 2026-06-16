@@ -1,12 +1,136 @@
 [
   {
-    "id": "sempro-plessis-robinson",
-    "entity": "SEMPRO - Societe d'economie mixte d'amenagement et de construction de la ville du Plessis-Robinson",
-    "role": "Director (former)",
-    "ownership_stake": "None declared (salaried/executive role, mixed-economy public company)",
-    "period": "Early/mid 2000s (exact dates not confirmed)",
-    "status": "Former role; not a personal shareholding",
-    "detail": "Local mixed-economy (SEM) development and construction company of Le Plessis-Robinson, of which Berger was reported to be director early in his career. This is a parapublic management role, not a declared private ownership interest.",
-    "source_url": ["https://actulegales.fr/recherche/siren/332062140", "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/"]
+    "id": "ministre-delegue-interieur",
+    "entity": "Gouvernement de la République française - Ministère de l'Intérieur",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "depuis le 27 février 2026",
+    "status": "current",
+    "detail": "Ministre délégué auprès du ministre de l'Intérieur (Laurent Nuñez), nommé le 26-27 février 2026 dans le gouvernement de Sébastien Lecornu. Fonction gouvernementale, pas une affiliation à une société.",
+    "source_url": [
+      "https://www.interieur.gouv.fr/ministres/jean-didier-berger",
+      "https://www.info.gouv.fr/personnalite/jean-didier-berger",
+      "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/"
+    ]
+  },
+  {
+    "id": "depute-hauts-de-seine-12",
+    "entity": "Assemblée nationale - 12e circonscription des Hauts-de-Seine",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "depuis le 18 juillet 2024",
+    "status": "current",
+    "detail": "Député (Les Républicains) de la 12e circonscription des Hauts-de-Seine, élu en juillet 2024 avec 53,86 % des suffrages. Vice-président de la commission des finances. Mandat de parlementaire, pas une affiliation d'entreprise.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/deputes/PA408578",
+      "https://politique.pappers.fr/acteurs/jean-didier-berger?acteur_tab=mandats",
+      "https://en.wikipedia.org/wiki/Jean-Didier_Berger"
+    ]
+  },
+  {
+    "id": "maire-clamart",
+    "entity": "Ville de Clamart (Hauts-de-Seine)",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "2014 - 2025",
+    "status": "historical",
+    "detail": "Maire de Clamart, élu en 2014 à la tête d'une liste d'union de la droite (plus de 53 % dès le premier tour), réélu en 2020. A quitté la mairie en 2025 pour se consacrer à son mandat de député. Mandat électif local.",
+    "source_url": [
+      "https://www.clamart.fr/fr/annuaire-des-personnes/jean-didier-berger",
+      "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/",
+      "https://en.wikipedia.org/wiki/Jean-Didier_Berger"
+    ]
+  },
+  {
+    "id": "president-ept-vallee-sud-grand-paris",
+    "entity": "Établissement public territorial (EPT) Vallée Sud - Grand Paris",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "2016 - 2025",
+    "status": "historical",
+    "detail": "Président de l'EPT Vallée Sud - Grand Paris à partir de 2016 (l'EPT dont relève Clamart au sein de la Métropole du Grand Paris). A été remplacé par Carl Segaud à la tête de l'établissement en 2025. NB : le brief mentionnait 'Grand Paris Sud Est Avenir', ce qui est inexact - Clamart relève de Vallée Sud - Grand Paris.",
+    "source_url": [
+      "https://www.valleesud.fr/fr/annuaire-des-personnes/berger-jean-didier",
+      "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/",
+      "https://www.lejournaldugrandparis.fr/carl-segaud-elu-a-la-tete-de-vallee-sud-grand-paris/"
+    ]
+  },
+  {
+    "id": "president-alliance-territoires-grand-paris",
+    "entity": "Alliance des territoires du Grand Paris",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "historique (jusqu'en 2025-2026)",
+    "status": "historical",
+    "detail": "Président de l'Alliance des territoires du Grand Paris, association/réseau fédérant l'ensemble des établissements publics territoriaux (EPT) de l'agglomération parisienne. Fonction associative liée à ses mandats territoriaux.",
+    "source_url": [
+      "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/",
+      "https://www.lejournaldugrandparis.fr/jean-didier-berger-alliance-des-territoires-aujourdhui-la-mgp-fait-du-saupoudrage/"
+    ]
+  },
+  {
+    "id": "premier-vice-president-region-idf",
+    "entity": "Conseil régional d'Île-de-France",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "2021 - 2025",
+    "status": "historical",
+    "detail": "Conseiller régional puis premier vice-président du Conseil régional d'Île-de-France en charge des Finances, de l'Évaluation des politiques publiques et des Fonds européens (mandature présidée par Valérie Pécresse, réélue en 2021). Mandat électif régional.",
+    "source_url": [
+      "https://www.lejournaldugrandparis.fr/valerie-pecresse-reelue-a-la-presidence-de-la-region-jean-didier-berger-1er-vice-president/",
+      "https://en.wikipedia.org/wiki/Jean-Didier_Berger"
+    ]
+  },
+  {
+    "id": "conseiller-departemental-hauts-de-seine",
+    "entity": "Conseil départemental des Hauts-de-Seine",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "historique",
+    "status": "historical",
+    "detail": "Conseiller départemental des Hauts-de-Seine. Mandat électif départemental, exercé en parallèle de ses autres responsabilités territoriales.",
+    "source_url": [
+      "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/"
+    ]
+  },
+  {
+    "id": "president-oph-vallee-sud-habitat",
+    "entity": "Office public de l'habitat (OPH) Vallée Sud Habitat (anciennement Clamart Habitat)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "vers janvier 2017 - octobre 2023 (selon registres publics)",
+    "status": "historical",
+    "detail": "Président de l'office public de l'habitat Clamart Habitat / Vallée Sud Habitat (bailleur social, organisme public de logement basé à Clamart) ; mandat de président lié à ses fonctions d'élu local. Il s'agit d'un établissement public (OPH), non d'une société commerciale.",
+    "source_url": [
+      "https://www.manageo.fr/entreprises/451576656.html",
+      "https://valleesudhabitat.fr/accueil/mentions-legales/"
+    ]
+  },
+  {
+    "id": "directeur-sem-sempro",
+    "entity": "SEMPRO (société d'économie mixte départementale d'aménagement et de logement)",
+    "role": "director",
+    "ownership_stake": "non documenté (poste de direction salariée, pas de participation au capital connue)",
+    "period": "années 2000 (avant 2014)",
+    "status": "historical",
+    "detail": "A dirigé la SEM départementale Sempro, société d'économie mixte spécialisée dans l'aménagement urbain et le logement, après avoir fait ses débuts auprès de Philippe Pemezec, maire du Plessis-Robinson. Parcours professionnel antérieur à sa carrière d'élu national. Background privé/parapublic dans l'aménagement et le logement (et la communication).",
+    "source_url": [
+      "https://www.lejournaldugrandparis.fr/jean-didier-berger-nomme-ministre-delegue-a-linterieur/",
+      "https://www.aefinfo.fr/depeche/746734-le-parcours-de-jean-didier-berger-nomme-ministre-delegue-aupres-du-ministre-de-linterieur",
+      "https://viadeo.journaldunet.com/p/jean-didier-berger-837144"
+    ]
+  },
+  {
+    "id": "declaration-interets-hatvp",
+    "entity": "Haute Autorité pour la transparence de la vie publique (HATVP) - déclaration d'intérêts",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "déclarations déposées (dont déclaration de modification substantielle du 12 août 2025)",
+    "status": "declared",
+    "detail": "Jean-Didier Berger a déposé ses déclarations d'intérêts et de patrimoine auprès de la HATVP au titre de ses mandats (député, élu local). Aucune participation financière privée significative ou société commerciale détenue n'a pu être documentée publiquement à partir des sources consultées ; la déclaration détaillée n'a pas pu être extraite (visionneuse PDF protégée). Consulter la fiche nominative HATVP pour le détail.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=berger-jean-didier",
+      "https://www.clamart.fr/fr/la-mairie/transparence-de-la-vie-publique"
+    ]
   }
 ]

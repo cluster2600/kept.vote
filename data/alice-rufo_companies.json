@@ -1,22 +1,116 @@
 [
   {
-    "id": "co-none-personal",
-    "entity": "Aucune participation ou direction personnelle",
-    "role": "—",
-    "ownership_stake": "none declared",
-    "period": "",
-    "status": "none declared",
-    "detail": "La déclaration d'intérêts HATVP indique « Néant » pour les participations aux organes dirigeants d'un organisme public ou privé (rubrique 3) et pour les participations financières directes dans le capital d'une société (rubrique 4). Aucune activité de consultant déclarée (rubrique 2 : Néant).",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+    "id": "ministre-deleguee-armees",
+    "entity": "Ministère des Armées et des Anciens combattants (Gouvernement français)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "12/10/2025 - present",
+    "status": "current",
+    "detail": "Ministre déléguée auprès de la ministre des Armées et des Anciens combattants (second gouvernement Lecornu, ministre de tutelle Catherine Vautrin). Nommée par décret du président de la République sur proposition du Premier ministre. En charge notamment de l'Europe de la défense. Government appointment, not a private company.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://www.info.gouv.fr/personnalite/alice-rufo",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"
+    ]
   },
   {
-    "id": "co-powens-conjoint",
-    "entity": "SAS Powens (activité du conjoint)",
-    "role": "Président (fonction exercée par son conjoint, Jean Guillaume, et non par la déclarante)",
-    "ownership_stake": "non précisé",
-    "period": "à compter du 01/10/2024",
-    "status": "declared",
-    "detail": "Rubrique 5 de la déclaration d'intérêts HATVP (activités professionnelles du conjoint) : son conjoint est nommé Président de la SAS Powens le 1er octobre 2024. Élément déclaré au titre de la transparence ; il s'agit de l'activité du conjoint, non d'un intérêt détenu par Alice Rufo.",
-    "source_url": ["https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"]
+    "id": "dgris-ministere-armees",
+    "entity": "Direction générale des relations internationales et de la stratégie (DGRIS), Ministère des Armées",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "01/11/2022 - 10/2025",
+    "status": "historical",
+    "detail": "Directrice générale des relations internationales et de la stratégie du ministère des Armées. Nommée en Conseil des ministres par décret du 5 octobre 2022, prise de fonctions au 1er novembre 2022. Rémunération nette déclarée à la HATVP: 18 892 EUR (2022), 119 163 EUR (2023), 167 638 EUR (2024), 141 008 EUR (2025).",
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046368752",
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"
+    ]
+  },
+  {
+    "id": "elysee-conseillere-diplomatique-adjointe",
+    "entity": "Présidence de la République (Élysée)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2017 - 10/2022 (conseillère diplomatique adjointe depuis 2019; intérêts HATVP: 01/2020 - 10/2022)",
+    "status": "historical",
+    "detail": "Rappelée au pôle diplomatique de l'Élysée en 2017 (conseillère Asie, Russie, Turquie, Caucase, Balkans, Réfugiés), puis conseillère diplomatique adjointe à partir de 2019, avec les affaires stratégiques et le désarmement ajoutés à son portefeuille en 2020. Rémunération nette déclarée à la HATVP pour le poste de conseillère diplomatique adjointe: 108 000 EUR (2020), 108 000 EUR (2021), 101 431 EUR (2022).",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852"
+    ]
+  },
+  {
+    "id": "cour-des-comptes-conseillere-referendaire",
+    "entity": "Cour des comptes",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "circa 2015-2017 (date précise de nomination non publiée)",
+    "status": "historical",
+    "detail": "Nommée conseillère référendaire à la Cour des comptes (corps d'accueil de magistrate financière) avant d'être rappelée au pôle diplomatique de l'Élysée en 2017. Public-sector magistracy appointment.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants"
+    ]
+  },
+  {
+    "id": "presidence-republique-conseillere-technique-2012",
+    "entity": "Présidence de la République (Élysée)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2012 - circa 2015",
+    "status": "historical",
+    "detail": "Rejoint la Présidence de la République en 2012 comme conseillère technique pour les affaires stratégiques et l'Asie-Pacifique, puis conseillère chargée des sommets internationaux, des Amériques et de l'Asie-Pacifique. Government/Presidency staff appointment.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants"
+    ]
+  },
+  {
+    "id": "sgdsn-rapporteur-livre-blanc",
+    "entity": "Secrétariat général de la défense et de la sécurité nationale (SGDSN)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2011 - 2012",
+    "status": "historical",
+    "detail": "Rejoint le SGDSN en 2011 comme rapporteur sur la mission d'actualisation du Livre blanc sur la sécurité et la défense nationale. Public-sector secondment.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants"
+    ]
+  },
+  {
+    "id": "mae-affaires-etrangeres-debut-carriere",
+    "entity": "Ministère des Affaires étrangères (devenu Ministère de l'Europe et des Affaires étrangères)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "circa 2010 - 2012 (début de carrière, avec retour à la Direction des affaires stratégiques avant 2012)",
+    "status": "historical",
+    "detail": "Débute sa carrière à la direction Afrique du Nord - Moyen-Orient du ministère des Affaires étrangères, puis retour à la Direction des affaires stratégiques avant de rejoindre l'Élysée en 2012. Diplomatic civil-service employment.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants"
+    ]
+  },
+  {
+    "id": "sciences-po-maitre-de-conferences",
+    "entity": "Institut d'études politiques de Paris (Sciences Po Paris)",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "2010 - 2011",
+    "status": "historical",
+    "detail": "Maître de conférences en droit public et en culture générale à Sciences Po Paris durant la période 2010-2011 (en parallèle de ses débuts dans l'administration). Teaching role.",
+    "source_url": [
+      "https://www.defense.gouv.fr/ministere/alice-rufo-ministre-deleguee-aupres-ministre-armees-anciens-combattants"
+    ]
+  },
+  {
+    "id": "participations-financieres-organes-dirigeants-neant",
+    "entity": "Sociétés privées / organes dirigeants / participations financières",
+    "role": "none",
+    "ownership_stake": "none",
+    "period": "déclaration d'intérêts HATVP (gouvernement, dépôt 09/12/2025; modification substantielle 17/04/2026)",
+    "status": "none",
+    "detail": "Déclaration d'intérêts HATVP: rubrique 2 (activités de consultant) Néant; rubrique 3 (participations aux organes dirigeants d'un organisme public ou privé) Néant; rubrique 4 (participations financières directes dans le capital d'une société) Néant; rubrique 6 (fonctions bénévoles) Néant; rubrique 7 (fonctions et mandats électifs) Néant. Aucune affiliation à une société privée déclarée. Note: la rubrique 5 (activités du conjoint) mentionne que son conjoint a été nommé président de la SAS Powens le 01/10/2024 — affiliation du conjoint, et non d'Alice Rufo elle-même.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=rufo-alice-7852",
+      "https://www.hatvp.fr/livraison/dossiers/rufo-alice-di34867-gouvernement.pdf"
+    ]
   }
 ]

@@ -1,14 +1,54 @@
 [
   {
-    "id": "sci-europa",
-    "entity": "SCI EUROPA (Société Civile Immobilière, family real-estate company)",
-    "role": "Co-manager (co-gérante) and shareholder; holds voting rights",
-    "ownership_stake": "33.33%",
-    "period": "Declared 2024 (date of acquisition not stated)",
-    "status": "Active (declared)",
-    "detail": "Family non-trading real-estate company holding her primary residence. Declared in section (D) of her European Parliament Declaration of Private Interests as a participation in a company; she notes it is a family SCI and that she holds voting rights. No commercial/political-influence concern indicated.",
+    "id": "maison-de-l-europe-rennes",
+    "entity": "Maison de l'Europe de Rennes",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "circa 2016-2019 (director); earlier as mission officer / chargee de mission",
+    "status": "historical",
+    "detail": "Association promoting European culture and citizenship at local level. Vedrenne served as director (directrice) of the Maison de l'Europe de Rennes from around 2016 to 2019, having earlier worked there as a chargee de mission. This is part of her professional background before being elected MEP in 2019. Salaried/management role, not an ownership interest.",
     "source_url": [
-      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/d4aed4fb-0703-4e7f-a73e-7a00e3fe9cbe_1720453242695.pdf"
+      "https://www.info.gouv.fr/personnalite/marie-pierre-vedrenne",
+      "https://www.mouvementdemocrate.fr/fiche/marie-pierre-vedrenne-7006"
+    ]
+  },
+  {
+    "id": "jeunes-europeens-france",
+    "entity": "Les Jeunes Europeens - France (Young European Federalists France)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "circa 2007 onward (vice-president at national level); earlier head of the Rennes local section",
+    "status": "historical",
+    "detail": "Pro-European citizens' association. Vedrenne led the Rennes local section of Les Jeunes Europeens and became vice-president at the national level from around 2007. Volunteer/associative civic role, no ownership.",
+    "source_url": [
+      "https://www.info.gouv.fr/personnalite/marie-pierre-vedrenne",
+      "https://www.mouvementdemocrate.fr/fiche/marie-pierre-vedrenne-7006"
+    ]
+  },
+  {
+    "id": "iris-board",
+    "entity": "Institut de relations internationales et strategiques (IRIS)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "during European Parliament term (2019-2024 / 10th term); declared activity",
+    "status": "historical",
+    "detail": "French think tank on geopolitics and strategy (association reconnue d'utilite publique). Listed as a member of the Board of Directors of IRIS in connection with her MEP mandate, per her European Parliament profile and Wikipedia. Non-remunerated/representative board role; no ownership interest. Status of the role following her appointment to the government (Oct 2025) not independently confirmed here.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Marie-Pierre_Vedrenne",
+      "https://www.europarl.europa.eu/meps/en/197502/MARIE-PIERRE_VEDRENNE/home"
+    ]
+  },
+  {
+    "id": "conseil-regional-bretagne",
+    "entity": "Conseil regional de Bretagne (Brittany Regional Council)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "2021 onward (elected regional councillor)",
+    "status": "current",
+    "detail": "Elected regional councillor (conseillere regionale) of Brittany since the 2021 regional elections, sitting notably on the Economy commission. Public elected mandate, not a commercial company. Included as a declared public-interest mandate. Listed in the Brittany region's official directory of elected officials.",
+    "source_url": [
+      "https://www.bretagne.bzh/region/elus/annuaire/marie-pierre-vedrenne/",
+      "https://www.mouvementdemocrate.fr/fiche/marie-pierre-vedrenne-7006"
     ]
   }
 ]
