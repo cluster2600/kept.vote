@@ -1,0 +1,49 @@
+[
+  {
+    "id": "laurence-ruffin-recours-annulation-2026",
+    "case": "Recours en annulation de l'élection municipale de Grenoble (second tour, mars 2026)",
+    "period": "2026",
+    "type": "Contentieux électoral (recours en annulation devant le tribunal administratif)",
+    "description": "Le 30 mars 2026, la liste d'opposition de droite 'Réconcilier Grenoble' (candidat Alain Carignon), par l'intermédiaire de l'avocat Bernard Boulloud, a annoncé le dépôt d'un recours devant le tribunal administratif de Grenoble visant à faire annuler les résultats du second tour des municipales remporté par Laurence Ruffin. Le recours invoque des faits présumés de diffamation, d'injures et de 'harcèlement', des rappels répétés de la condamnation pour corruption (1995, réhabilitée) d'Alain Carignon, ainsi qu'une 'propagande déguisée' pendant la période de silence électoral (manifestation contre le racisme la veille du scrutin, tracts). Laurence Ruffin n'est pas mise en cause pénalement par ce recours, qui porte sur la sincérité du scrutin.",
+    "status": "ongoing",
+    "outcome": "Pendant. Le tribunal administratif de Grenoble dispose d'environ deux mois pour déterminer si les faits invoqués sont de nature à altérer la sincérité du scrutin. L'écart de voix au second tour était de 6 774 voix (plus de 13 points d'avance pour Laurence Ruffin).",
+    "court": "Tribunal administratif de Grenoble",
+    "presumption_note": "Recours électoral en cours d'instruction ; aucune décision rendue à la date de référence. Il s'agit d'un contentieux administratif sur la régularité du scrutin et non d'une procédure pénale visant Laurence Ruffin personnellement.",
+    "key_facts": [
+      "Recours annoncé le 30 mars 2026 par la liste 'Réconcilier Grenoble' (Alain Carignon).",
+      "Avocat requérant : Bernard Boulloud.",
+      "Motifs invoqués : diffamation/injures/'harcèlement', rappels de la condamnation réhabilitée de Carignon, 'propagande déguisée' pendant le silence électoral.",
+      "Le tribunal administratif de Grenoble a environ deux mois pour statuer.",
+      "Écart au second tour : 6 774 voix ; Laurence Ruffin élue avec 56,59 % des suffrages exprimés.",
+      "Une éventuelle annulation pourrait conduire à un nouveau scrutin."
+    ],
+    "source_url": [
+      "https://tgplus.fr/article/municipales-2026-un-recours-depose-pour-demander-lannulation-des-elections-a-grenoble/",
+      "https://www.francebleu.fr/auvergne-rhone-alpes/isere-38/grenoble/municipales-a-grenoble-la-droite-a-depose-un-recours-pour-annuler-l-election-de-laurence-ruffin-8198020"
+    ]
+  },
+  {
+    "id": "laurence-ruffin-procuration-colistier-2026",
+    "case": "Soupçons de procuration frauduleuse visant un colistier (NON la maire) lors du 1er tour des municipales 2026",
+    "period": "2026",
+    "type": "Soupçons d'abus de faiblesse / faux en écriture (procuration de vote) - affaire concernant un colistier",
+    "description": "Avant et après le premier tour du 15 mars 2026, des soupçons de fraude à la procuration ont visé Thibault Martin, juriste de 29 ans figurant en 38e position sur la liste de Laurence Ruffin (colistier). Selon les proches d'une électrice vulnérable (résidente d'Ehpad, sous tutelle, environ 86-87 ans, souffrant de troubles de la mémoire), un vote aurait été exprimé en son nom par procuration au profit de ce colistier sans qu'elle s'en souvienne. La famille a annoncé son intention de déposer plainte pour 'abus de faiblesse' et 'faux en écriture'. La liste de Laurence Ruffin a répondu que la procuration avait été demandée par courriel le 4 mars 2026, portée par Thibault Martin (électeur du même bureau) et enregistrée/validée au commissariat de Grenoble le 6 mars 2026, qualifiant les accusations de 'mensongères, infondées et diffamatoires'. Cette affaire concerne un colistier et NON Laurence Ruffin personnellement.",
+    "status": "other",
+    "outcome": "Allégations contestées. Aucune condamnation. À la date de référence, l'affaire en est au stade des accusations/intentions de plainte ; la liste de Laurence Ruffin dément toute irrégularité.",
+    "court": "Non précisé (intention de plainte annoncée par la famille de l'électrice)",
+    "presumption_note": "Affaire visant un colistier (Thibault Martin), PAS Laurence Ruffin elle-même. Les faits sont au stade de soupçons/allégations, fermement contestés par l'intéressé et la liste. Présomption d'innocence pleine et entière ; aucune mise en cause de la maire à titre personnel.",
+    "key_facts": [
+      "Personne concernée : Thibault Martin, colistier (38e de liste), 29 ans, juriste - PAS Laurence Ruffin.",
+      "Électrice vulnérable : résidente d'Ehpad sous tutelle, troubles de la mémoire.",
+      "Selon la liste Ruffin : procuration demandée par courriel le 4 mars 2026, validée au commissariat de Grenoble le 6 mars 2026.",
+      "Famille de l'électrice : annonce d'une plainte pour 'abus de faiblesse' et 'faux en écriture'.",
+      "La liste de Laurence Ruffin qualifie les accusations de 'mensongères, infondées et diffamatoires'.",
+      "Le clan Carignon a dénoncé des procurations 'abusives' ; le clan Ruffin a répliqué en parlant de 'diffamation'."
+    ],
+    "source_url": [
+      "https://www.placegrenet.fr/2026/03/17/on-avait-deja-vote-pour-elle-une-procuration-frauduleuse-utilisee-par-un-colistier-de-laurence-ruffin-au-nom-dune-electrice-vulnerable/674667",
+      "https://tgplus.fr/article/municipales-a-grenoble-soupcons-de-fraude-a-la-procuration-sur-une-personne-vulnerable/",
+      "https://www.francebleu.fr/auvergne-rhone-alpes/isere-38/grenoble/municipales-a-grenoble-le-clan-carignon-denonce-des-procurations-abusives-diffamation-repond-le-clan-ruffin-2908604"
+    ]
+  }
+]

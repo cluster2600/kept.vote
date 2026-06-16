@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "vincent-bouget-professeur-education-nationale",
+    "entity": "Ministère de l'Éducation nationale",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "depuis 2015 environ (carrière débutée à Sarcelles, retour à Nîmes vers 2015)",
+    "status": "historical",
+    "detail": "Profession déclarée : professeur d'histoire-géographie, enseignant dans un lycée de Nîmes. Activité salariée déclarée à la HATVP (rémunération nette de l'ordre de 10 000 à 15 000 € par an de 2015 à 2021), placée en disponibilité du fait de ses mandats. Il s'agit de sa profession de base, non d'une participation à une entreprise commerciale.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/bouget-vincent-dim27326-departement-30.pdf",
+      "https://www.francebleu.fr/occitanie/gard-30/nimes/municipales-2026-a-nimes-vincent-bouget-professeur-communiste-nouveau-maire-de-la-ville-4182889"
+    ]
+  },
+  {
+    "id": "vincent-bouget-pcf-gard-secretaire-departemental",
+    "entity": "Fédération PCF du Gard (Parti communiste français)",
+    "role": "employee",
+    "ownership_stake": "",
+    "period": "2014/2015 – 2024 (secrétaire départemental ; rôle salarié déclaré HATVP 01/2015 – 08/2021)",
+    "status": "historical",
+    "detail": "Secrétaire départemental de la Fédération PCF du Gard pendant une dizaine d'années, fonction salariée déclarée à la HATVP (rémunération nette d'environ 18 000–19 000 €/an de 2015 à 2021). A également été membre du Conseil national du PCF (06/2016 – 08/2021), fonction non rémunérée. Il a passé la main comme secrétaire départemental en octobre 2024. Organe d'un parti politique, et non une société commerciale.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/bouget-vincent-dim27326-departement-30.pdf",
+      "https://www.francebleu.fr/infos/politique/le-nimois-vincent-bouget-va-passer-la-main-apres-10-ans-comme-secretaire-departemental-du-parti-communiste-francais-6164607"
+    ]
+  },
+  {
+    "id": "vincent-bouget-cooperative-les-spots",
+    "entity": "Coopérative Les Spots",
+    "role": "shareholder",
+    "ownership_stake": "2 parts, évaluées à 100 €",
+    "period": "déclaré à la HATVP (déclaration de 2021 / modification substantielle 2023)",
+    "status": "declared",
+    "detail": "Seule participation financière directe au capital d'une société déclarée à la HATVP : 2 parts de la Coopérative Les Spots, évaluées à 100 €, sans rémunération l'année précédente. Participation symbolique de type coopérative.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/bouget-vincent-dim27326-departement-30.pdf"
+    ]
+  },
+  {
+    "id": "vincent-bouget-president-nimes-metropole",
+    "entity": "Nîmes Métropole (communauté d'agglomération)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "depuis le 14 avril 2026",
+    "status": "current",
+    "detail": "Élu président de Nîmes Métropole le 14 avril 2026 (74 voix sur 95 exprimées), ex officio en sa qualité de maire de Nîmes. Premier président de gauche de l'agglomération. Mandat public électif (établissement public de coopération intercommunale), et non une participation dans une société.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=bouget-vincent-22380",
+      "https://www.objectifgard.com/politique/nimes-metropole-le-maire-de-nimes-vincent-bouget-elu-president-162575.php",
+      "https://www.nimes-metropole.fr/mon-agglo/communes-et-elus/elus/vincent-bouget"
+    ]
+  }
+]

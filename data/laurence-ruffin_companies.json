@@ -1,30 +1,42 @@
 [
   {
-    "id": "laurence-ruffin-co-1",
-    "name": "Alma (société coopérative et participative, SCOP)",
-    "role": "Présidente-directrice générale (2009-2025)",
-    "description": "Éditeur de logiciels grenoblois issu de l'université, basé à Saint-Martin-d'Hères, détenu à 100 % par ses salariés et actif dans l'industrie et la santé (environ 180 salariés). Elle l'a dirigé une quinzaine d'années avant d'en transmettre la présidence et la direction générale en 2025.",
-    "source_url": "https://www.presences-grenoble.fr/actualites-services-grenoble/alma-scop-laurence-ruffin-organise-la-transition.htm"
+    "id": "laurence-ruffin-alma-scop",
+    "entity": "Alma (Scop) - SA coopérative de production, éditeur de logiciels, Saint-Martin-d'Hères (SIREN 317495646)",
+    "role": "director",
+    "ownership_stake": "Non précisé (Scop : capital détenu majoritairement par les salariés-associés ; aucune participation individuelle de contrôle documentée)",
+    "period": "2008-2025 (directrice générale à partir de 2008/2009 ; présidente du conseil d'administration à partir de 2011, jusqu'à fin 2025)",
+    "status": "historical",
+    "detail": "Parcours professionnel principal de Laurence Ruffin : dirigeante d'Alma, société coopérative et participative (Scop) spécialisée dans l'édition de logiciels professionnels (notamment FAO/CFAO pour la découpe et la tôlerie), basée à Saint-Martin-d'Hères (agglomération grenobloise). Entrée comme directrice générale vers 2008-2009, puis présidente du conseil d'administration à partir de 2011. Lui a succédé à la présidence Simon Mirouze (conseil d'administration de décembre 2025). La page officielle grenoble.fr indique sa profession : 'Dirigeante d'entreprise coopérative'.",
+    "source_url": [
+      "https://www.grenoble.fr/elu/235/1225-laurence-ruffin.htm",
+      "https://www.pappers.fr/entreprise/alma-317495646",
+      "https://fr.wikipedia.org/wiki/Alma_(Scop)"
+    ]
   },
   {
-    "id": "laurence-ruffin-co-2",
-    "name": "Confédération générale des SCOP et des SCIC",
-    "role": "Vice-présidente (depuis 2022)",
-    "description": "Organisation nationale représentant les sociétés coopératives et participatives (SCOP) et les sociétés coopératives d'intérêt collectif (SCIC), dont elle est élue vice-présidente en 2022.",
-    "source_url": "https://laurenceruffin.fr/biographie-de-laurence-ruffin/"
+    "id": "laurence-ruffin-cgscop",
+    "entity": "Confédération générale des Scop et des Scic (CG Scop)",
+    "role": "board_member",
+    "ownership_stake": "Sans objet (mandat associatif/fédératif, non capitalistique)",
+    "period": "Avant 2026 (parcours coopératif)",
+    "status": "historical",
+    "detail": "Dans le cadre de son engagement dans l'économie sociale et solidaire, Laurence Ruffin a exercé des responsabilités au sein du mouvement coopératif, étant notamment présentée comme vice-présidente de la Confédération générale des Scop et des Scic. À confirmer/actualiser à la lumière de sa déclaration d'intérêts HATVP lorsqu'elle sera publiée.",
+    "source_url": [
+      "https://laurenceruffin.fr/biographie-de-laurence-ruffin/",
+      "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/premiere-femme-maire-de-grenoble-ex-pdg-d-une-cooperative-en-classe-avec-emmanuel-macron-qui-est-l-ecologiste-laurence-ruffin-3321468.html"
+    ]
   },
   {
-    "id": "laurence-ruffin-co-3",
-    "name": "French Tech in the Alps (SCIC)",
-    "role": "Cofondatrice",
-    "description": "Société coopérative d'intérêt collectif liée à l'écosystème French Tech du bassin grenoblois, dont elle est cofondatrice.",
-    "source_url": "https://laurenceruffin.fr/biographie-de-laurence-ruffin/"
-  },
-  {
-    "id": "laurence-ruffin-co-4",
-    "name": "Transméa et CoopVenture",
-    "role": "Cofondatrice / participante",
-    "description": "Opérateurs économiques coopératifs dédiés au maintien des savoir-faire et des emplois sur le territoire (transmission d'entreprises aux salariés, financement coopératif), qu'elle a contribué à cofonder.",
-    "source_url": "https://laurenceruffin.fr/biographie-de-laurence-ruffin/"
+    "id": "laurence-ruffin-mandats-ex-officio-2026",
+    "entity": "Grenoble-Alpes Métropole et représentations ès qualités (CHU Grenoble Alpes, Centre Hospitalier Rhumatologique d'Uriage, association des Maires et adjoint-es de l'Isère)",
+    "role": "board_member",
+    "ownership_stake": "Sans objet (mandats publics ès qualités de maire)",
+    "period": "2026-en cours",
+    "status": "current",
+    "detail": "Au titre de son mandat de maire de Grenoble (installée en mars 2026), Laurence Ruffin est 1ère vice-présidente de Grenoble-Alpes Métropole, chargée de la stratégie économique et industrielle. Elle représente la Ville dans plusieurs organismes extérieurs : le Centre Hospitalier Universitaire Grenoble Alpes (CHU), le Centre Hospitalier Rhumatologique d'Uriage, et l'association des Maires et adjoint-es de l'Isère. Aucun mandat dans une SEM/SPL spécifique n'a été identifié de source publique à la date de référence (à confirmer via la déclaration d'intérêts HATVP à venir).",
+    "source_url": [
+      "https://www.grenoble.fr/elu/235/1225-laurence-ruffin.htm",
+      "https://www.grenoblealpesmetropole.fr/actualite/628/45-conseil-le-nouvel-executif-metropolitain-devoile.htm"
+    ]
   }
 ]
