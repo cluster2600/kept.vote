@@ -417,6 +417,27 @@ class NetWorthTimelineRead(BaseModel):
     created_at: datetime.datetime
 
 
+class JusticeCaseRead(BaseModel):
+    """A judicial / legal-record entry as returned by the API."""
+
+    model_config = ConfigDict(from_attributes=True)
+
+    id: uuid.UUID
+    politician_id: uuid.UUID
+    external_id: str | None = None
+    case_title: str
+    period: str | None = None
+    type: str | None = None
+    description: str | None = None
+    status: str | None = None
+    outcome: str | None = None
+    court: str | None = None
+    presumption_note: str | None = None
+    key_facts: list[str] | None = None
+    source_urls: list[str] | None = None
+    created_at: datetime.datetime
+
+
 # ---------------------------------------------------------------------------
 # Aggregated sources
 # ---------------------------------------------------------------------------

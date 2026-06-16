@@ -235,6 +235,11 @@ class Politician(Base):
         cascade="all, delete-orphan",
         passive_deletes=True,
     )
+    justice_cases: Mapped[list["JusticeCase"]] = relationship(
+        back_populates="politician",
+        cascade="all, delete-orphan",
+        passive_deletes=True,
+    )
 
 
 class Promise(Base):
@@ -709,6 +714,47 @@ class NetWorthTimeline(Base):
     politician: Mapped["Politician"] = relationship(back_populates="net_worth_timeline")
 
 
+class JusticeCase(Base):
+    """A judicial / legal-record entry for a politician.
+
+    Models the full lifecycle of a legal matter — from investigation through
+    indictment, trial, and final outcome (conviction / acquittal / dismissal /
+    appeal). ``type`` and ``status`` are stored as free text (rather than DB
+    enums) so a new dataset value never forces a migration; the documented
+    vocabularies are: ``type`` ∈ {investigation, indictment, trial, conviction,
+    acquittal, dismissal, appeal, civil, other} and ``status`` ∈ {ongoing,
+    convicted, acquitted, dismissed, no_charges, appeal_pending, settled, other}.
+
+    ``description``, ``outcome`` and ``presumption_note`` are preserved verbatim
+    so the neutral, presumption-of-innocence framing is never altered. The
+    importer refuses any record without a source — no unsourced legal claims.
+    """
+
+    __tablename__ = "justice_cases"
+
+    id: Mapped[uuid.UUID] = _uuid_pk()
+    politician_id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True),
+        ForeignKey("politicians.id", ondelete="CASCADE"),
+        nullable=False,
+        index=True,
+    )
+    external_id: Mapped[str | None] = mapped_column(String(255), nullable=True, index=True)
+    case_title: Mapped[str] = mapped_column(Text, nullable=False)
+    period: Mapped[str | None] = mapped_column(Text)
+    type: Mapped[str | None] = mapped_column(String(64), index=True)
+    description: Mapped[str | None] = mapped_column(Text)
+    status: Mapped[str | None] = mapped_column(String(64), index=True)
+    outcome: Mapped[str | None] = mapped_column(Text)
+    court: Mapped[str | None] = mapped_column(Text)
+    presumption_note: Mapped[str | None] = mapped_column(Text)
+    key_facts: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    created_at: Mapped[datetime.datetime] = _created_at()
+
+    politician: Mapped["Politician"] = relationship(back_populates="justice_cases")
+
+
 # ---------------------------------------------------------------------------
 # Lifecycle helpers
 # ---------------------------------------------------------------------------
@@ -748,7 +794,7 @@ async def init_db() -> None:
                         'policies','work_history','education','electoral_history',
                         'finance_entries','net_worth_timeline','real_estate',
                         'companies','stock_holdings','interests','honors',
-                        'key_legislation','polemics'
+                        'key_legislation','polemics','justice_cases'
                       )
                   LOOP
                     EXECUTE format(

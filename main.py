@@ -46,6 +46,7 @@ from database import (
     FinanceEntry,
     Honor,
     Interest,
+    JusticeCase,
     KeyLegislation,
     NetWorthTimeline,
     Policy,
@@ -75,6 +76,7 @@ from schemas import (
     HealthResponse,
     HonorRead,
     InterestRead,
+    JusticeCaseRead,
     KeyLegislationRead,
     NetWorthTimelineRead,
     PolemicRead,
@@ -534,6 +536,29 @@ async def list_net_worth(
     return list(result.scalars().all())
 
 
+@app.get(
+    "/api/politicians/{politician_id}/justice",
+    response_model=list[JusticeCaseRead],
+    tags=["politicians", "profile"],
+)
+async def list_justice(
+    politician_id: uuid.UUID, session: DBSession
+) -> list[JusticeCase]:
+    """List a politician's judicial / legal-record entries (import order).
+
+    Each entry carries its own status (ongoing / convicted / acquitted /
+    dismissed / no_charges / appeal_pending / settled) and a verbatim
+    presumption-of-innocence note. The importer guarantees every row is sourced.
+    """
+    await _ensure_politician_exists(session, politician_id)
+    result = await session.execute(
+        select(JusticeCase)
+        .where(JusticeCase.politician_id == politician_id)
+        .order_by(JusticeCase.created_at.asc())
+    )
+    return list(result.scalars().all())
+
+
 def _domain(url: str) -> str:
     """Return a clean hostname (no leading ``www.``) for grouping/display."""
     try:
@@ -609,6 +634,7 @@ async def list_sources(
         ("honors", Honor),
         ("key_legislation", KeyLegislation),
         ("net_worth", NetWorthTimeline),
+        ("justice", JusticeCase),
     ]
     for section, model in section_models:
         rows = (

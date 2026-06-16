@@ -8,6 +8,7 @@ import type {
   FinanceEntry,
   Honor,
   Interest,
+  JusticeCase,
   KeyLegislationItem,
   NetWorthPoint,
   Polemic,
@@ -27,6 +28,7 @@ import ElectoralHistory from "@/components/ElectoralHistory";
 import KeyLegislationSection from "@/components/KeyLegislationSection";
 import HonorsSection from "@/components/HonorsSection";
 import PolemicsSection from "@/components/PolemicsSection";
+import JusticeSection from "@/components/JusticeSection";
 import SourcesSection from "@/components/SourcesSection";
 import PromisesTab from "@/components/PromisesTab";
 
@@ -45,6 +47,7 @@ export interface PoliticianTabsProps {
   companies: Company[];
   interests: Interest[];
   polemics: Polemic[];
+  justice: JusticeCase[];
   sources: SourcesResponse;
 }
 
@@ -52,6 +55,7 @@ type TabKey =
   | "promises"
   | "background"
   | "finances"
+  | "justice"
   | "controversies"
   | "sources";
 
@@ -71,6 +75,7 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
     companies,
     interests,
     polemics,
+    justice,
     sources,
   } = props;
 
@@ -94,6 +99,7 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
     { key: "promises", label: "Promises", count: promises.length },
     { key: "background", label: "Background", count: backgroundCount },
     { key: "finances", label: "Finances", count: financesCount },
+    { key: "justice", label: "Justice", count: justice.length },
     { key: "controversies", label: "Controversies", count: polemics.length },
     { key: "sources", label: "Sources", count: sources.total },
   ];
@@ -204,6 +210,8 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
             )}
           </div>
         )}
+
+        {active === "justice" && <JusticeSection items={justice} />}
 
         {active === "controversies" && <PolemicsSection items={polemics} />}
 

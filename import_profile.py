@@ -31,6 +31,7 @@ from database import (
     FinanceEntry,
     Honor,
     Interest,
+    JusticeCase,
     KeyLegislation,
     NetWorthTimeline,
     Polemic,
@@ -271,6 +272,24 @@ def _net_worth_fields(e: dict) -> dict:
     }
 
 
+def _justice_fields(e: dict) -> dict:
+    # Maps a justice-record onto the JusticeCase columns. The dataset key "case"
+    # holds the matter's title; everything else is preserved verbatim so the
+    # neutral, presumption-of-innocence framing is never altered.
+    return {
+        "case_title": e.get("case") or e.get("title") or "(case)",
+        "period": e.get("period"),
+        "type": e.get("type"),
+        "description": e.get("description"),
+        "status": e.get("status"),
+        "outcome": e.get("outcome"),
+        "court": e.get("court"),
+        "presumption_note": e.get("presumption_note"),
+        "key_facts": _as_list(e.get("key_facts")),
+        "source_urls": _as_list(e.get("source_url")),
+    }
+
+
 def _has_source(entry: dict) -> bool:
     """True if the record carries at least one non-empty source URL."""
     return bool(_as_list(entry.get("source_url")))
@@ -297,6 +316,24 @@ async def main() -> None:
     legislation = _load("key_legislation")
     net_worth = _load("net_worth_timeline")
 
+    # Justice / legal record is a NEW, optional section living in its own
+    # <slug>_justice.json that not every politician has. Load it only when the
+    # file is present, so re-running the standard 14-section profile import for
+    # a politician with no justice file never errors and never touches their
+    # existing justice_cases. Same editorial rule as polemics: never publish an
+    # unsourced legal claim — drop any record without a source.
+    justice = None
+    if os.path.exists(data_path("justice")):
+        justice_raw = _load("justice")
+        justice = [j for j in justice_raw if _has_source(j)]
+        j_dropped = [j for j in justice_raw if not _has_source(j)]
+        if j_dropped:
+            titles = "; ".join(
+                (j.get("case") or j.get("title") or "(untitled)")[:60]
+                for j in j_dropped
+            )
+            print(f"Dropped {len(j_dropped)} unsourced justice case(s): {titles}")
+
     await init_db()  # ensure the new tables exist (no-op if already created)
 
     async with SessionLocal() as session:
@@ -317,6 +354,8 @@ async def main() -> None:
             ("key legislation", KeyLegislation, legislation, _legislation_fields),
             ("net worth", NetWorthTimeline, net_worth, _net_worth_fields),
         ]
+        if justice is not None:
+            sections.append(("justice", JusticeCase, justice, _justice_fields))
         results = []
         for name, model, entries, fmap in sections:
             c, u, p = await _upsert_section(

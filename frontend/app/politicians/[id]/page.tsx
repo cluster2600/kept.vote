@@ -9,6 +9,7 @@ import {
   listFinances,
   listHonors,
   listInterests,
+  listJustice,
   listKeyLegislation,
   listNetWorth,
   listPolemics,
@@ -23,6 +24,7 @@ import {
   type FinanceEntry,
   type Honor,
   type Interest,
+  type JusticeCase,
   type KeyLegislationItem,
   type NetWorthPoint,
   type Polemic,
@@ -59,6 +61,7 @@ export default async function PoliticianPage({
   let honors: Honor[];
   let legislation: KeyLegislationItem[];
   let netWorth: NetWorthPoint[];
+  let justice: JusticeCase[];
   try {
     [
       politician,
@@ -76,6 +79,7 @@ export default async function PoliticianPage({
       honors,
       legislation,
       netWorth,
+      justice,
     ] = await Promise.all([
       getPolitician(params.id),
       listPoliticianPromises(params.id),
@@ -92,6 +96,7 @@ export default async function PoliticianPage({
       listHonors(params.id),
       listKeyLegislation(params.id),
       listNetWorth(params.id),
+      listJustice(params.id),
     ]);
   } catch (e) {
     if (e instanceof NotFoundError) notFound();
@@ -159,6 +164,7 @@ export default async function PoliticianPage({
         companies={companies}
         interests={interests}
         polemics={polemics}
+        justice={justice}
         sources={sources}
       />
     </div>

@@ -226,6 +226,23 @@ export interface NetWorthPoint {
   source_urls: string[] | null;
 }
 
+export interface JusticeCase {
+  id: string;
+  politician_id: string;
+  external_id: string | null;
+  case_title: string;
+  period: string | null;
+  type: string | null;
+  description: string | null;
+  status: string | null;
+  outcome: string | null;
+  court: string | null;
+  presumption_note: string | null;
+  key_facts: string[] | null;
+  source_urls: string[] | null;
+  created_at: string;
+}
+
 export interface SourceRef {
   url: string;
   domain: string;
@@ -326,6 +343,9 @@ export const listKeyLegislation = (id: string) =>
 export const listNetWorth = (id: string) =>
   apiFetch<NetWorthPoint[]>(`/api/politicians/${id}/net-worth`);
 
+export const listJustice = (id: string) =>
+  apiFetch<JusticeCase[]>(`/api/politicians/${id}/justice`);
+
 // ---- Presentation helpers ------------------------------------------------
 export interface StatusMeta {
   label: string;
@@ -418,6 +438,10 @@ const SLATE_BADGE = "bg-slate-100 text-slate-600 ring-1 ring-inset ring-slate-50
 const AMBER_BADGE = "bg-amber-50 text-amber-800 ring-1 ring-inset ring-amber-600/20";
 const SKY_BADGE = "bg-sky-50 text-sky-700 ring-1 ring-inset ring-sky-600/20";
 const EMERALD_BADGE = "bg-emerald-50 text-emerald-700 ring-1 ring-inset ring-emerald-600/20";
+// Reserved for an *established* adverse outcome (a court conviction) — the one
+// place a firmer tone is warranted, because it labels a settled fact, not an
+// allegation. Never applied to ongoing/pending matters.
+const ROSE_BADGE = "bg-rose-50 text-rose-700 ring-1 ring-inset ring-rose-600/20";
 
 /** Derive a concise, neutral badge from a free-text status sentence. The full
  *  sentence is shown verbatim by the component; this only picks a short label
@@ -481,6 +505,32 @@ export function polemicStatusMeta(status: string | null): PolemicStatusMeta {
     };
   }
   return deriveStatusMeta(status);
+}
+
+// Explicit, tone-controlled mapping for a justice_case's status enum. Cleared
+// outcomes are emerald, in-progress matters amber, a civil settlement sky, and
+// only an *established conviction* gets the firmer rose tone — an ongoing or
+// pending matter is never hardened into a conviction here. Any value outside
+// the documented enum (free text) falls back to the shared legal-badge logic.
+const JUSTICE_STATUS_META: Record<string, PolemicStatusMeta> = {
+  ongoing: { label: "Ongoing", badge: AMBER_BADGE, dot: "bg-amber-500" },
+  appeal_pending: { label: "Appeal pending", badge: AMBER_BADGE, dot: "bg-amber-500" },
+  convicted: { label: "Convicted", badge: ROSE_BADGE, dot: "bg-rose-500" },
+  acquitted: { label: "Acquitted", badge: EMERALD_BADGE, dot: "bg-emerald-500" },
+  dismissed: { label: "Dismissed", badge: EMERALD_BADGE, dot: "bg-emerald-500" },
+  no_charges: { label: "No charges", badge: EMERALD_BADGE, dot: "bg-emerald-500" },
+  settled: { label: "Settled", badge: SKY_BADGE, dot: "bg-sky-500" },
+  other: { label: "Noted", badge: SLATE_BADGE, dot: "bg-slate-400" },
+};
+
+/** Resolve a badge for a justice_case status. Known enum values map to a fixed,
+ *  tone-controlled badge; anything else reuses the polemic/legal derivation. */
+export function justiceStatusMeta(status: string | null): PolemicStatusMeta {
+  if (status) {
+    const key = status.trim().toLowerCase();
+    if (JUSTICE_STATUS_META[key]) return JUSTICE_STATUS_META[key];
+  }
+  return polemicStatusMeta(status);
 }
 
 // Status styling for declared-asset entries. Muted/neutral tones; the point is
