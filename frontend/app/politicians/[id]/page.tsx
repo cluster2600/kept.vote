@@ -46,62 +46,59 @@ export default async function PoliticianPage({
 }: {
   params: { id: string };
 }) {
+  // The core politician record is the only thing whose absence means "no such
+  // page": a 404 here is a genuine not-found → render the 404 page.
   let politician: Politician;
-  let promises: PromiseWithVerification[];
-  let workHistory: WorkHistoryItem[];
-  let finances: FinanceEntry[];
-  let polemics: Polemic[];
-  let stocks: StockHolding[];
-  let realEstate: RealEstate[];
-  let companies: Company[];
-  let sources: SourcesResponse;
-  let electoral: ElectoralHistoryItem[];
-  let interests: Interest[];
-  let education: EducationItem[];
-  let honors: Honor[];
-  let legislation: KeyLegislationItem[];
-  let netWorth: NetWorthPoint[];
-  let justice: JusticeCase[];
   try {
-    [
-      politician,
-      promises,
-      workHistory,
-      finances,
-      polemics,
-      stocks,
-      realEstate,
-      companies,
-      sources,
-      electoral,
-      interests,
-      education,
-      honors,
-      legislation,
-      netWorth,
-      justice,
-    ] = await Promise.all([
-      getPolitician(params.id),
-      listPoliticianPromises(params.id),
-      listWorkHistory(params.id),
-      listFinances(params.id),
-      listPolemics(params.id),
-      listStocks(params.id),
-      listRealEstate(params.id),
-      listCompanies(params.id),
-      getSources(params.id),
-      listElectoralHistory(params.id),
-      listInterests(params.id),
-      listEducation(params.id),
-      listHonors(params.id),
-      listKeyLegislation(params.id),
-      listNetWorth(params.id),
-      listJustice(params.id),
-    ]);
+    politician = await getPolitician(params.id);
   } catch (e) {
     if (e instanceof NotFoundError) notFound();
     throw e;
   }
+
+  // Profile sections are resilient. A single section endpoint that 404s (e.g.
+  // the justice route before it's deployed), 500s, or errors transiently must
+  // NEVER blank the whole page — degrade it to empty and still render the rest.
+  const safe = <T,>(p: Promise<T>, fallback: T): Promise<T> =>
+    p.catch((err) => {
+      console.error(`[politician ${params.id}] section fetch failed:`, err);
+      return fallback;
+    });
+  const emptySources: SourcesResponse = { total: 0, domain_count: 0, sources: [] };
+
+  const [
+    promises,
+    workHistory,
+    finances,
+    polemics,
+    stocks,
+    realEstate,
+    companies,
+    sources,
+    electoral,
+    interests,
+    education,
+    honors,
+    legislation,
+    netWorth,
+    justice,
+  ] = await Promise.all([
+    safe(listPoliticianPromises(params.id), [] as PromiseWithVerification[]),
+    safe(listWorkHistory(params.id), [] as WorkHistoryItem[]),
+    safe(listFinances(params.id), [] as FinanceEntry[]),
+    safe(listPolemics(params.id), [] as Polemic[]),
+    safe(listStocks(params.id), [] as StockHolding[]),
+    safe(listRealEstate(params.id), [] as RealEstate[]),
+    safe(listCompanies(params.id), [] as Company[]),
+    safe(getSources(params.id), emptySources),
+    safe(listElectoralHistory(params.id), [] as ElectoralHistoryItem[]),
+    safe(listInterests(params.id), [] as Interest[]),
+    safe(listEducation(params.id), [] as EducationItem[]),
+    safe(listHonors(params.id), [] as Honor[]),
+    safe(listKeyLegislation(params.id), [] as KeyLegislationItem[]),
+    safe(listNetWorth(params.id), [] as NetWorthPoint[]),
+    safe(listJustice(params.id), [] as JusticeCase[]),
+  ]);
 
   const counts = tally(promises);
 
