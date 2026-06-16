@@ -295,44 +295,69 @@ def _has_source(entry: dict) -> bool:
     return bool(_as_list(entry.get("source_url")))
 
 
-async def main() -> None:
-    work = _load("work_history")
-    finances = _load("finances")
-    # Editorial rule: never publish an unsourced allegation. Drop any polemic
-    # whose source_url array is empty/missing.
-    polemics_raw = _load("polemics")
-    polemics = [p for p in polemics_raw if _has_source(p)]
-    dropped = [p for p in polemics_raw if not _has_source(p)]
-    if dropped:
-        titles = "; ".join((p.get("title") or "(untitled)")[:60] for p in dropped)
-        print(f"Dropped {len(dropped)} unsourced polemic(s): {titles}")
-    stocks = _load("stocks_portfolio")
-    real_estate = _load("real_estate")
-    companies = _load("companies")
-    electoral = _load("electoral_history")
-    interests = _load("interests")
-    education = _load("education")
-    honors = _load("honors")
-    legislation = _load("key_legislation")
-    net_worth = _load("net_worth_timeline")
+# (display name, file-section token, model, field_map). The file token is the
+# ``data/<prefix>_<token>.json`` suffix; the display name is for the summary.
+_SECTION_SPECS = [
+    ("work history", "work_history", WorkHistory, _work_fields),
+    ("finances", "finances", FinanceEntry, _finance_fields),
+    ("controversies", "polemics", Polemic, _polemic_fields),
+    ("stocks", "stocks_portfolio", StockHolding, _stock_fields),
+    ("real estate", "real_estate", RealEstate, _real_estate_fields),
+    ("companies", "companies", Company, _company_fields),
+    ("electoral history", "electoral_history", ElectoralHistory, _electoral_fields),
+    ("interests", "interests", Interest, _interest_fields),
+    ("education", "education", Education, _education_fields),
+    ("honors", "honors", Honor, _honor_fields),
+    ("key legislation", "key_legislation", KeyLegislation, _legislation_fields),
+    ("net worth", "net_worth_timeline", NetWorthTimeline, _net_worth_fields),
+    ("justice", "justice", JusticeCase, _justice_fields),
+]
 
-    # Justice / legal record is a NEW, optional section living in its own
-    # <slug>_justice.json that not every politician has. Load it only when the
-    # file is present, so re-running the standard 14-section profile import for
-    # a politician with no justice file never errors and never touches their
-    # existing justice_cases. Same editorial rule as polemics: never publish an
-    # unsourced legal claim — drop any record without a source.
-    justice = None
-    if os.path.exists(data_path("justice")):
-        justice_raw = _load("justice")
-        justice = [j for j in justice_raw if _has_source(j)]
-        j_dropped = [j for j in justice_raw if not _has_source(j)]
-        if j_dropped:
+# Legal sections must never publish an unsourced claim — drop records lacking a
+# source URL. Optional sections are imported (in a full run) only if their file
+# exists, so a standard profile import never requires them.
+_DROP_UNSOURCED = {"polemics", "justice"}
+_OPTIONAL = {"justice"}
+
+
+def _load_section(token: str) -> list[dict]:
+    """Load one section's records, dropping unsourced rows for legal sections."""
+    raw = _load(token)
+    if token in _DROP_UNSOURCED:
+        kept = [r for r in raw if _has_source(r)]
+        dropped = [r for r in raw if not _has_source(r)]
+        if dropped:
+            label = "justice case" if token == "justice" else "polemic"
             titles = "; ".join(
-                (j.get("case") or j.get("title") or "(untitled)")[:60]
-                for j in j_dropped
+                (r.get("case") or r.get("title") or "(untitled)")[:60]
+                for r in dropped
             )
-            print(f"Dropped {len(j_dropped)} unsourced justice case(s): {titles}")
+            print(f"Dropped {len(dropped)} unsourced {label}(s): {titles}")
+        return kept
+    return raw
+
+
+async def main() -> None:
+    # Optional ``SECTIONS`` env (comma-separated file tokens, e.g.
+    # "justice,companies") restricts the import to just those sections — used by
+    # targeted enrichment batches that must not touch a politician's other
+    # sections. Unset = full profile import (all standard sections; an optional
+    # section such as justice is imported only when its file is present).
+    requested = None
+    if os.getenv("SECTIONS"):
+        requested = {s.strip() for s in os.getenv("SECTIONS").split(",") if s.strip()}
+
+    to_run = []  # (display, model, entries, field_map)
+    for display, token, model, fmap in _SECTION_SPECS:
+        if requested is not None:
+            if token not in requested:
+                continue
+            if not os.path.exists(data_path(token)):
+                print(f"Skipped requested section '{token}': no file at {data_path(token)}")
+                continue
+        elif token in _OPTIONAL and not os.path.exists(data_path(token)):
+            continue
+        to_run.append((display, model, _load_section(token), fmap))
 
     await init_db()  # ensure the new tables exist (no-op if already created)
 
@@ -340,34 +365,18 @@ async def main() -> None:
         politician = await get_or_create_politician(session)
         print(f"Target politician: {politician.name} ({politician.id})")
 
-        sections = [
-            ("work history", WorkHistory, work, _work_fields),
-            ("finances", FinanceEntry, finances, _finance_fields),
-            ("controversies", Polemic, polemics, _polemic_fields),
-            ("stocks", StockHolding, stocks, _stock_fields),
-            ("real estate", RealEstate, real_estate, _real_estate_fields),
-            ("companies", Company, companies, _company_fields),
-            ("electoral history", ElectoralHistory, electoral, _electoral_fields),
-            ("interests", Interest, interests, _interest_fields),
-            ("education", Education, education, _education_fields),
-            ("honors", Honor, honors, _honor_fields),
-            ("key legislation", KeyLegislation, legislation, _legislation_fields),
-            ("net worth", NetWorthTimeline, net_worth, _net_worth_fields),
-        ]
-        if justice is not None:
-            sections.append(("justice", JusticeCase, justice, _justice_fields))
         results = []
-        for name, model, entries, fmap in sections:
+        for display, model, entries, fmap in to_run:
             c, u, p = await _upsert_section(
                 session, politician.id, model, entries, fmap
             )
-            results.append((name, len(entries), c, u, p))
+            results.append((display, len(entries), c, u, p))
 
         await session.commit()
 
     print("\nImported profile sections:")
     for name, total, c, u, p in results:
-        print(f"  {name:<14} {total:>3} items  ({c} created, {u} updated, {p} pruned)")
+        print(f"  {name:<18} {total:>3} items  ({c} created, {u} updated, {p} pruned)")
 
 
 if __name__ == "__main__":
