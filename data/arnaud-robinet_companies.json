@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "id": "universite-reims-champagne-ardenne-pharmacologie",
+    "entity": "Université de Reims Champagne-Ardenne / CHU de Reims (maître de conférences - praticien hospitalier en pharmacologie)",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "depuis 2007",
+    "status": "current",
+    "detail": "Profession d'origine. Maître de conférences des universités - praticien hospitalier (MCU-PH) en pharmacologie à l'Université de Reims Champagne-Ardenne et au CHU de Reims depuis 2007. Docteur en biochimie et biologie moléculaire (2003). Fonction académique et hospitalière exercée parallèlement à ses mandats électifs.",
+    "source_url": [
+      "https://www.fhf.fr/actualites/articles/arnaud-robinet-president-de-la-federation-hospitaliere-de-france",
+      "https://en.wikipedia.org/wiki/Arnaud_Robinet"
+    ]
+  },
+  {
+    "id": "reims-tourisme-et-congres",
+    "entity": "Reims Tourisme et Congrès (EPIC, office de tourisme de l'agglomération de Reims)",
+    "role": "director",
+    "ownership_stake": "n/a (établissement public)",
+    "period": "mandat en cours",
+    "status": "current",
+    "detail": "Établissement public local à caractère industriel et commercial (EPIC) constituant l'office de tourisme de Reims. Arnaud Robinet y figure comme dirigeant/président au titre de ses fonctions de maire de Reims (mandat ex officio). SIREN 534 489 281.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/arnaud_robinet_1975-04",
+      "https://www.pappers.fr/entreprise/reims-tourisme-et-congres-534489281"
+    ]
+  },
+  {
+    "id": "etablissement-public-aeroport-vatry",
+    "entity": "Établissement public de gestion de l'aéroport de Vatry (EPGA Vatry)",
+    "role": "board_member",
+    "ownership_stake": "n/a (établissement public)",
+    "period": "depuis le 06/06/2024",
+    "status": "current",
+    "detail": "Administrateur de l'établissement public local à caractère industriel et commercial gérant l'aéroport de Châlons-Vatry (Bussy-Lettrée), mandat exercé au titre de ses fonctions territoriales. SIREN 820 964 260.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/arnaud_robinet_1975-04",
+      "https://www.pappers.fr/entreprise/etablissement-public-de-gestion-de-laeroport-de-vatry-820964260"
+    ]
+  },
+  {
+    "id": "sem-touristique-grand-verdun",
+    "entity": "Société d'économie mixte locale touristique du Grand Verdun",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "06/12/2022 au 19/05/2024 (ancien représentant)",
+    "status": "historical",
+    "detail": "SA d'économie mixte locale à conseil d'administration (Verdun). Arnaud Robinet y a figuré comme ancien représentant entre le 6 décembre 2022 et le 19 mai 2024, semble-t-il au titre de la Fédération hospitalière de France ou d'un mandat institutionnel. SIREN 813 678 638.",
+    "source_url": [
+      "https://www.pappers.fr/dirigeant/arnaud_robinet_1975-04",
+      "https://www.pappers.fr/entreprise/societe-deconomie-mixte-locale-touristique-du-grand-verdun-813678638"
+    ]
+  },
+  {
+    "id": "communaute-urbaine-grand-reims",
+    "entity": "Communauté urbaine du Grand Reims",
+    "role": "director",
+    "ownership_stake": "n/a (EPCI)",
+    "period": "depuis 2017 (réélu 2020, 2026)",
+    "status": "current",
+    "detail": "Président de la communauté urbaine du Grand Reims (établissement public de coopération intercommunale). Mandat exercé ex officio au titre de son mandat de maire de Reims ; réélu président en avril 2026.",
+    "source_url": [
+      "https://www.francebleu.fr/infos/politique/arnaud-robinet-elu-president-de-la-communaute-urbaine-du-grand-reims-7863801",
+      "https://www.ici.fr/grand-est/marne-51/reims/arnaud-robinet-reelu-president-de-la-communaute-urbaine-du-grand-reims-7268174"
+    ]
+  },
+  {
+    "id": "federation-hospitaliere-de-france",
+    "entity": "Fédération hospitalière de France (FHF)",
+    "role": "board_member",
+    "ownership_stake": "n/a (association / fédération)",
+    "period": "président depuis le 21 septembre 2022",
+    "status": "current",
+    "detail": "Président de la Fédération hospitalière de France depuis le 21 septembre 2022. Précédemment président de la FHF Grand Est (depuis 2018) et président du conseil de surveillance du CHU de Reims. Fonctions bénévoles déclarées au titre de son engagement dans le monde hospitalier.",
+    "source_url": [
+      "https://www.fhf.fr/actualites/articles/arnaud-robinet-president-de-la-federation-hospitaliere-de-france",
+      "https://www.fhf.fr/actualites/communiques-de-presse/arnaud-robinet-elu-president-de-la-fhf-mon-mandat-est-clair-accelerer-la-refondation-de-notre"
+    ]
+  }
+]

@@ -1,42 +1,147 @@
 [
   {
-    "id": "sem-ser-montpellier-president",
-    "name": "SEM Société d'Équipements de la Région Montpelliéraine (SERM)",
-    "role": "Président (fonction au titre du mandat, non rémunérée)",
-    "stake": "none declared",
-    "status": "Déclaré HATVP depuis 08/2020 (0 € net)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    "id": "michael-delafosse-education-nationale-professeur",
+    "entity": "Ministère de l'Éducation nationale",
+    "role": "employee",
+    "ownership_stake": "none",
+    "period": "01/2014–01/2020",
+    "status": "historical",
+    "detail": "Professeur certifié d'histoire et de géographie. Activité professionnelle rémunérée déclarée à la HATVP (rémunérations nettes annuelles d'environ 20 000 à 22 600 € sur la période). Activité interrompue avec la prise des fonctions exécutives municipales.",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=delafosse-michael"
+    ]
   },
   {
-    "id": "spl-amenagement-3m-president",
-    "name": "SPL Société d'Aménagement de Montpellier Méditerranée Métropole",
-    "role": "Président (fonction au titre du mandat, non rémunérée)",
-    "stake": "none declared",
-    "status": "Déclaré HATVP depuis 08/2020 (0 € net)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    "id": "michael-delafosse-sem-ser-montpellieraine",
+    "entity": "SEM Société d'Équipements de la Région Montpelliéraine (SERM)",
+    "role": "director",
+    "ownership_stake": "none (ex officio, au titre du mandat électif)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Président de la société d'économie mixte, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
   },
   {
-    "id": "sem-montpellier-events-admin",
-    "name": "SEM Montpellier Events",
-    "role": "Administrateur (fonction au titre du mandat, non rémunérée)",
-    "stake": "none declared",
-    "status": "Déclaré HATVP depuis 08/2020 (0 € net)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    "id": "michael-delafosse-spl-amenagement-3m",
+    "entity": "SPL Société d'Aménagement de Montpellier Méditerranée Métropole",
+    "role": "director",
+    "ownership_stake": "none (ex officio, au titre du mandat électif)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Président de la société publique locale d'aménagement, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
   },
   {
-    "id": "sem-min-montpellier-admin",
-    "name": "SEM Marché d'intérêt national de Montpellier",
-    "role": "Administrateur (fonction au titre du mandat, non rémunérée)",
-    "stake": "none declared",
-    "status": "Déclaré HATVP depuis 08/2020 (0 € net)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    "id": "michael-delafosse-sem-montpellier-events",
+    "entity": "SEM Montpellier Events",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, au titre du mandat électif)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Administrateur de la société d'économie mixte, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
   },
   {
-    "id": "sa-aeroport-montpellier-admin",
-    "name": "SA Aéroport de Montpellier",
-    "role": "Membre du conseil d'administration (fonction au titre du mandat, non rémunérée)",
-    "stake": "none declared",
-    "status": "Déclaré HATVP depuis 08/2020 (0 € net)",
-    "source_url": "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    "id": "michael-delafosse-sem-min-montpellier",
+    "entity": "SEM Marché d'intérêt national (MIN) de Montpellier",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, au titre du mandat électif)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Administrateur de la société d'économie mixte gérant le marché d'intérêt national, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
+  },
+  {
+    "id": "michael-delafosse-sa-aeroport-montpellier",
+    "entity": "SA Aéroport de Montpellier (Montpellier Méditerranée)",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, au titre du mandat électif)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Membre du conseil d'administration de la société de l'aéroport, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
+  },
+  {
+    "id": "michael-delafosse-universite-montpellier-ca",
+    "entity": "Université de Montpellier",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, au titre du mandat électif)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Membre du conseil d'administration, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
+  },
+  {
+    "id": "michael-delafosse-regie-des-eaux",
+    "entity": "Régie des Eaux (Montpellier Méditerranée Métropole)",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, représentant de la Métropole)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Représentant de la Métropole au sein de la Régie des Eaux, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
+  },
+  {
+    "id": "michael-delafosse-conservatoire-rayonnement-regional",
+    "entity": "Conservatoire à Rayonnement Régional de Montpellier",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, représentant de la Métropole)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Représentant de la Métropole, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
+  },
+  {
+    "id": "michael-delafosse-montpellier-danse",
+    "entity": "Montpellier Danse",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, représentant de la Métropole)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Représentant de la Métropole, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
+  },
+  {
+    "id": "michael-delafosse-festival-cinema-mediterraneen",
+    "entity": "Festival du Cinéma Méditerranéen de Montpellier (Cinemed)",
+    "role": "board_member",
+    "ownership_stake": "none (ex officio, représentant de la Métropole)",
+    "period": "depuis 08/2020",
+    "status": "declared",
+    "detail": "Représentant de la Métropole, fonction déclarée à la HATVP au titre du mandat électif. Rémunération déclarée : 0 € net (2020 et 2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
+  },
+  {
+    "id": "michael-delafosse-federation-hospitaliere-de-france",
+    "entity": "Fédération Hospitalière de France (FHF)",
+    "role": "board_member",
+    "ownership_stake": "none",
+    "period": "depuis 01/2021",
+    "status": "declared",
+    "detail": "Président (au niveau régional / d'une instance) déclaré à la HATVP au titre du mandat. Rémunération déclarée : 0 € net (2021).",
+    "source_url": [
+      "https://www.hatvp.fr/livraison/dossiers/delafosse-michael-dim12076-commune-montpellier.pdf"
+    ]
   }
 ]

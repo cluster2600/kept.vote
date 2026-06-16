@@ -1,10 +1,67 @@
 [
   {
-    "id": "cazenave-ere",
-    "name": "École de la rénovation énergétique (éRE)",
-    "role": "Co-founder and majority shareholder (left strategic council July 2022)",
-    "stake": "54%",
-    "status": "Active (private vocational training company / société à mission, campuses in Bordeaux/Villenave-d'Ornon, Biarritz and Rennes; reported value of stake €105,672)",
-    "source_url": "https://rue89bordeaux.com/2024/01/thomas-cazenave-aux-prises-avec-un-discret-conflit-dinterets-revele-le-monde/"
+    "id": "ere-ecole-renovation-energetique",
+    "entity": "ERE - École de la Rénovation Énergétique (SIREN 900955964, Bègles/Villenave-d'Ornon)",
+    "role": "shareholder",
+    "ownership_stake": "54 % du capital (3 240 actions), participation estimée à 105 672 euros",
+    "period": "2021-",
+    "status": "declared",
+    "detail": "École privée de formation aux métiers de la rénovation énergétique, constituée en société à mission, cofondée en juillet 2021 par Thomas Cazenave avec quatre associés (campus à Bordeaux/Villenave-d'Ornon, Biarritz et Rennes). Il a quitté le conseil stratégique en juillet 2022 après son élection comme député. Il est resté actionnaire majoritaire (54 %) pendant son mandat ministériel ; cette participation figure dans sa déclaration d'intérêts déposée à la HATVP. Selon son entourage, il n'a jamais exercé de rôle opérationnel ou exécutif et n'a perçu aucune rémunération. Pendant sa fonction de ministre, la gestion de ses actions a été confiée à un tiers via un mandat sans droit de regard, et un décret de déport a été pris (voir volet justice).",
+    "source_url": [
+      "https://rue89bordeaux.com/2024/01/thomas-cazenave-aux-prises-avec-un-discret-conflit-dinterets-revele-le-monde/",
+      "https://www.hatvp.fr/livraison/dossiers/cazenave-thomas-di27454-gouvernement.pdf",
+      "https://www.pappers.fr/entreprise/ere-ecole-de-la-renovation-energetique-900955964"
+    ]
+  },
+  {
+    "id": "ere-cofondateur",
+    "entity": "ERE - École de la Rénovation Énergétique (création)",
+    "role": "founder",
+    "ownership_stake": "Cofondateur (l'un des cinq associés fondateurs)",
+    "period": "2021-2022",
+    "status": "historical",
+    "detail": "Thomas Cazenave a lancé l'école éRE en juillet 2021 avec quatre associés, après sa carrière de haut fonctionnaire et sa candidature aux municipales de Bordeaux en 2020. Il a siégé au conseil stratégique de l'établissement jusqu'en juillet 2022, date de son élection comme député Renaissance de la 1re circonscription de la Gironde, fonction qu'il a alors quittée tout en conservant ses parts.",
+    "source_url": [
+      "https://rue89bordeaux.com/2024/01/thomas-cazenave-aux-prises-avec-un-discret-conflit-dinterets-revele-le-monde/"
+    ]
+  },
+  {
+    "id": "bordeaux-metropole-presidence",
+    "entity": "Bordeaux Métropole",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2026-",
+    "status": "current",
+    "detail": "Élu président de Bordeaux Métropole le 24 avril 2026, à la suite des élections municipales et communautaires de mars 2026. Mandat ex officio lié à sa fonction d'élu local et de maire de Bordeaux. Auparavant conseiller métropolitain depuis 2020.",
+    "source_url": [
+      "https://www.bordeaux-metropole.fr/actualites/elections-municipales-communautaires-2026-resultats",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=cazenave-thomas-1812"
+    ]
+  },
+  {
+    "id": "ville-bordeaux-maire",
+    "entity": "Ville de Bordeaux",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2026-",
+    "status": "current",
+    "detail": "Élu maire de Bordeaux le 22 mars 2026, succédant à l'écologiste Pierre Hurmic. Conseiller municipal de Bordeaux depuis 2020 (élu d'opposition jusqu'en 2026). La fonction de maire emporte la présidence ou la représentation ex officio dans diverses structures locales (SEM/SPL, syndicats), non détaillées ici faute de liste publiée et sourcée.",
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/thomas-cazenave-nouveau-maire-de-bordeaux-apres-l-emotion-de-la-victoire-les-grands-chantiers-a-engager-3324521.html",
+      "https://www.hatvp.fr/fiche-nominative/?declarant=cazenave-thomas-1812"
+    ]
+  },
+  {
+    "id": "ditp-delegue-interministeriel",
+    "entity": "Direction interministérielle de la transformation publique (DITP)",
+    "role": "director",
+    "ownership_stake": "",
+    "period": "2017-2019",
+    "status": "historical",
+    "detail": "Haut fonctionnaire (inspecteur des finances), Thomas Cazenave a été nommé délégué interministériel à la transformation publique par décret du 22 novembre 2017, dirigeant la DITP, jusqu'à la cessation de ses fonctions par décret du 7 novembre 2019. Auparavant directeur général adjoint de Pôle emploi (2011-2016), puis conseiller à Bercy et à l'Élysée.",
+    "source_url": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036074928",
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039349981"
+    ]
   }
 ]

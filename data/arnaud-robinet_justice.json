@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bygmalion-temoin-2014",
+    "case": "Affaire Bygmalion (financement de la campagne présidentielle UMP 2012)",
+    "period": "2014",
+    "type": "Audition en qualité de témoin dans une enquête pénale",
+    "description": "Dans le cadre de l'enquête sur les fausses factures Bygmalion liées au financement de la campagne présidentielle de Nicolas Sarkozy en 2012, le nom d'Arnaud Robinet, alors député et secrétaire national de l'UMP chargé des retraites, a été cité par la presse (Libération) comme ayant animé une convention sur les retraites le 21 mars 2012, prétendument facturée par Bygmalion à l'UMP. Entendu par les enquêteurs en mai-juin 2014, Arnaud Robinet a indiqué n'avoir jamais participé à une telle convention, présentant son agenda à l'appui, et a affirmé n'avoir même pas été informé de l'événement. Il a reconnu avoir suivi des formations média auprès de Bygmalion en 2009, qu'il a présentées comme réelles et non fictives. Son nom ne figurait sur aucune facture ni invitation. Il a indiqué ne pas porter plainte.",
+    "status": "no_charges",
+    "outcome": "Entendu uniquement comme témoin. Aucune mise en examen ni poursuite n'a visé Arnaud Robinet dans cette affaire ; il n'a fait l'objet d'aucune charge.",
+    "court": "Police judiciaire de Nanterre / instruction parisienne (information judiciaire Bygmalion)",
+    "presumption_note": "Arnaud Robinet a été entendu comme simple témoin et n'a jamais été mis en cause, mis en examen ni poursuivi dans cette affaire. Il bénéficie pleinement de la présomption d'innocence. La seule mention de son nom relevait d'un article de presse qu'il a contesté pièces à l'appui ; aucune charge n'a été retenue contre lui.",
+    "key_facts": [
+      "Cité dans un article de Libération (mai 2014) comme animateur supposé d'une convention UMP sur les retraites le 21 mars 2012.",
+      "Entendu par la police judiciaire de Nanterre en qualité de témoin.",
+      "A présenté son agenda pour démontrer qu'il n'avait pas participé à cette convention.",
+      "A reconnu des formations média auprès de Bygmalion en 2009, présentées comme réelles.",
+      "Son nom ne figurait sur aucune facture ni invitation Bygmalion.",
+      "A choisi de ne pas porter plainte ; n'a fait l'objet d'aucune poursuite."
+    ],
+    "source_url": [
+      "https://france3-regions.franceinfo.fr/grand-est/marne/reims-metropole/reims/arnaud-robinet-je-n-ai-rien-voir-cette-affaire-486417.html",
+      "https://www.francebleu.fr/infos/faits-divers-justice/affaire-bygmalion-arnaud-robinet-ne-porte-pas-plainte-1401287608",
+      "https://www.francebleu.fr/infos/faits-divers-justice/affaire-bygmalion-catherine-vautrin-demissionne-de-la-direction-de-l-ump-arnaud-robinet-entendu-par-la-justice-1401205719"
+    ]
+  }
+]

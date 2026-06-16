@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "hatvp-declaration-interets-2025",
+    "entity": "Haute Autorité pour la transparence de la vie publique (HATVP) — déclaration d'intérêts",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "déposée le 20 mai 2025 (publication à venir)",
+    "status": "declared",
+    "detail": "En tant que maire de Lille et vice-président de la Métropole Européenne de Lille, Arnaud Deslandes a déposé une déclaration d'intérêts auprès de la HATVP. À la date de consultation, la fiche indique « Déclaration d'intérêts — En cours » (déposée, publication à venir), de sorte que le détail des intérêts privés, participations financières et mandats au sein de sociétés n'est pas encore publiquement consultable. Aucune participation commerciale n'a pu être confirmée à partir des sources publiques disponibles.",
+    "source_url": [
+      "https://www.hatvp.fr/fiche-nominative/?declarant=deslandes-arnaud"
+    ]
+  },
+  {
+    "id": "mel-vice-presidence-rayonnement-international",
+    "entity": "Métropole Européenne de Lille (MEL)",
+    "role": "board_member",
+    "ownership_stake": "n/a",
+    "period": "depuis le 24 avril 2025",
+    "status": "current",
+    "detail": "Élu 2e vice-président de la Métropole Européenne de Lille le 24 avril 2025, en charge du Rayonnement international, des relations internationales, de l'Eurométropole et de la coopération transfrontalière. Mandat public exercé ès qualités (conseiller métropolitain depuis juillet 2020), et non une participation dans une société commerciale. Succession à Martine Aubry dans cet exécutif intercommunal.",
+    "source_url": [
+      "https://www.lillemetropole.fr/communique-de-presse/arnaud-deslandes-rejoint-lexecutif-metropolitain-comme-2e-vice-president",
+      "https://www.lillemetropole.fr/annuaire-des-elus/deslandes-arnaud"
+    ]
+  },
+  {
+    "id": "ville-de-lille-maire",
+    "entity": "Ville de Lille",
+    "role": "none",
+    "ownership_stake": "n/a",
+    "period": "depuis le 21 mars 2025 (réélu en mars 2026)",
+    "status": "current",
+    "detail": "Maire de Lille depuis le 21 mars 2025, après la démission de Martine Aubry, puis réélu à l'issue des élections municipales de mars 2026 (liste socialiste soutenue par les écologistes). À ce titre, le maire occupe en principe des sièges ès qualités au sein de structures satellites de la commune (SEM/SPL, syndicats, organismes), mais aucune désignation nominative précise n'a pu être confirmée par une source publique à la date de consultation. Mandat électif public, et non une participation dans une société commerciale.",
+    "source_url": [
+      "https://www.francebleu.fr/hauts-de-france/nord-59/lille/municipales-2026-le-socialiste-arnaud-deslandes-conserve-son-fauteuil-de-maire-a-lille-avec-le-soutien-des-ecologistes-4691046",
+      "https://fr.wikipedia.org/wiki/Arnaud_Deslandes"
+    ]
+  },
+  {
+    "id": "ville-de-lille-cabinet-aubry",
+    "entity": "Ville de Lille — cabinet de Martine Aubry",
+    "role": "employee",
+    "ownership_stake": "n/a",
+    "period": "2013–2020 (directeur de cabinet), antérieurement stagiaire/collaborateur",
+    "status": "historical",
+    "detail": "Diplômé de Sciences Po Lille (2007), il intègre le cabinet de la maire de Lille où il devient directeur de cabinet de Martine Aubry de 2013 à 2020. Emploi de collaborateur de cabinet d'une collectivité publique (fonction non commerciale), antérieur à ses mandats électifs (adjoint au maire en 2020, premier adjoint en 2023).",
+    "source_url": [
+      "https://fr.wikipedia.org/wiki/Arnaud_Deslandes",
+      "https://www.europe1.fr/politique/qui-est-arnaud-deslandes-successeur-de-martine-aubry-a-la-tete-de-la-mairie-de-lille-669018"
+    ]
+  }
+]

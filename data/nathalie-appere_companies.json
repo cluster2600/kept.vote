@@ -1,1 +1,93 @@
-[]
+[
+  {
+    "id": "rennes-metropole",
+    "entity": "Rennes Métropole (établissement public de coopération intercommunale / métropole)",
+    "role": "board_member",
+    "ownership_stake": "n/a (mandat électif public)",
+    "period": "depuis 2020",
+    "status": "current",
+    "detail": "Présidente de Rennes Métropole depuis le 9 juillet 2020 (réélue en 2020 ; mandat exercé ès qualités de maire de Rennes). Rennes Métropole est une collectivité publique, non une société commerciale ; cette fonction est mentionnée ici car elle entraîne de nombreuses représentations dans des organismes liés (SEM/SPL, bailleurs). Fonction exécutive publique, sans participation capitalistique.",
+    "source_url": [
+      "https://www.hatvp.fr/pages_nominatives/appere-nathalie.html",
+      "https://metropole.rennes.fr/annuaire-des-elus/nathalie-appere/",
+      "https://en.wikipedia.org/wiki/Nathalie_App%C3%A9r%C3%A9"
+    ]
+  },
+  {
+    "id": "ville-de-rennes",
+    "entity": "Ville de Rennes (commune)",
+    "role": "board_member",
+    "ownership_stake": "n/a (mandat électif public)",
+    "period": "maire depuis 2014",
+    "status": "current",
+    "detail": "Maire de Rennes depuis le 4 avril 2014, réélue en 2020 et en mars 2026. Collectivité publique et non société commerciale ; fonction exécutive locale, sans participation au capital. Mentionnée car elle est à l'origine de plusieurs mandats de représentation dans des organismes satellites.",
+    "source_url": [
+      "https://www.hatvp.fr/pages_nominatives/appere-nathalie.html",
+      "https://metropole.rennes.fr/annuaire-des-elus/nathalie-appere/",
+      "https://www.wiki-rennes.fr/Nathalie_App%C3%A9r%C3%A9"
+    ]
+  },
+  {
+    "id": "archipel-habitat",
+    "entity": "Archipel Habitat (office public de l'habitat de Rennes Métropole)",
+    "role": "board_member",
+    "ownership_stake": "n/a (organisme public de logement social)",
+    "period": "2014-2020",
+    "status": "historical",
+    "detail": "Présidente d'Archipel Habitat, l'office public de l'habitat (OPH) de Rennes Métropole, de 2014 à 2020 (présidence ès qualités d'élue). D'après la presse locale citant ses déclarations HATVP, elle a déclaré une rémunération versée par Archipel Habitat (827 euros brut en 2018) au titre de ce mandat. Lui a succédé Honoré Puil. Organisme public, sans participation capitalistique personnelle.",
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/citedia-semtcar-archipel-habitat-faut-il-de-la-transparence-sur-les-indemnites-de-nos-elus/",
+      "https://www.lejournaldesentreprises.com/breve/honore-puil-elu-president-darchipel-habitat-540216"
+    ]
+  },
+  {
+    "id": "anah-agence-nationale-habitat",
+    "entity": "Agence nationale de l'habitat (Anah)",
+    "role": "board_member",
+    "ownership_stake": "n/a (établissement public national)",
+    "period": "2015-2020",
+    "status": "historical",
+    "detail": "Présidente de l'Agence nationale de l'habitat (Anah), établissement public administratif de l'État chargé de l'amélioration de l'habitat privé, de 2015 à 2020, selon la presse locale. Fonction publique, sans participation au capital.",
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/citedia-semtcar-archipel-habitat-faut-il-de-la-transparence-sur-les-indemnites-de-nos-elus/"
+    ]
+  },
+  {
+    "id": "chu-rennes-conseil-surveillance",
+    "entity": "CHU de Rennes (centre hospitalier universitaire)",
+    "role": "board_member",
+    "ownership_stake": "n/a (établissement public de santé)",
+    "period": "mandat exercé pendant ses fonctions de maire",
+    "status": "historical",
+    "detail": "Présidente du conseil de surveillance du CHU de Rennes (fonction exercée ès qualités de maire de Rennes). Le maire de Rennes préside de droit le conseil de surveillance du CHU. Établissement public de santé, sans dimension capitalistique. Période exacte non précisée par les sources retenues.",
+    "source_url": [
+      "https://www.rennes-infos-autrement.fr/citedia-semtcar-archipel-habitat-faut-il-de-la-transparence-sur-les-indemnites-de-nos-elus/"
+    ]
+  },
+  {
+    "id": "chgr-guillaume-regnier",
+    "entity": "Centre hospitalier Guillaume-Régnier (hôpital psychiatrique, Rennes)",
+    "role": "board_member",
+    "ownership_stake": "n/a (établissement public de santé)",
+    "period": "2010-2012",
+    "status": "historical",
+    "detail": "Présidente du conseil de surveillance du centre hospitalier Guillaume-Régnier (hôpital psychiatrique de Rennes) à partir de 2010 ; en 2012 elle s'est mobilisée face à la saturation des capacités d'accueil de l'établissement. Établissement public de santé, sans participation au capital.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nathalie_App%C3%A9r%C3%A9",
+      "https://www.wiki-rennes.fr/Nathalie_App%C3%A9r%C3%A9"
+    ]
+  },
+  {
+    "id": "france-urbaine",
+    "entity": "France urbaine (association d'élus de grandes villes et métropoles)",
+    "role": "board_member",
+    "ownership_stake": "n/a (association)",
+    "period": "depuis 2020",
+    "status": "historical",
+    "detail": "Secrétaire générale de France urbaine, association nationale réunissant des élus de grandes villes, agglomérations et métropoles, fonction prise le 24 septembre 2020 (succédant à André Rossinot). Association à but non lucratif, sans dimension capitalistique. Maintien à jour non vérifié au-delà de la source.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nathalie_App%C3%A9r%C3%A9",
+      "https://www.rennes-infos-autrement.fr/citedia-semtcar-archipel-habitat-faut-il-de-la-transparence-sur-les-indemnites-de-nos-elus/"
+    ]
+  }
+]

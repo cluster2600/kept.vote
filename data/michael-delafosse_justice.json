@@ -1,0 +1,74 @@
+[
+  {
+    "id": "michael-delafosse-emplois-fictifs-mairie-montpellier",
+    "case": "Enquête préliminaire sur des emplois présumés fictifs à la mairie de Montpellier",
+    "period": "2024–present (faits portant sur la gestion 2015–2021)",
+    "type": "Preliminary investigation (enquête préliminaire) — alleged fictitious / unassigned posts",
+    "description": "Une enquête préliminaire a été ouverte autour de novembre 2024 après des perquisitions menées à l'hôtel de ville de Montpellier le 14 novembre 2024 par la brigade financière du SRPJ. L'enquête fait suite à un rapport de la Chambre régionale des comptes (publié en 2023) couvrant la période 2015-2021, qui pointait notamment un nombre élevé d'agents sans affectation (environ 297 agents en fin 2021) et un coût important pour la collectivité. Aucune mise en examen ni condamnation n'est rapportée; Michaël Delafosse n'a à ce stade fait l'objet d'aucune poursuite pénale formelle dans ce cadre.",
+    "status": "ongoing",
+    "outcome": "Aucune condamnation. Enquête en cours; pas de poursuite pénale formelle rapportée à ce stade.",
+    "court": "Parquet de Montpellier (enquête confiée à la brigade financière / SRPJ)",
+    "presumption_note": "Michaël Delafosse bénéficie de la présomption d'innocence. Il s'agit d'une enquête préliminaire portant sur des faits allégués; aucune mise en examen ni condamnation n'a été prononcée. Les éléments ci-dessus sont des allégations et des investigations, pas des faits établis ni une culpabilité reconnue.",
+    "key_facts": [
+      "Perquisitions à l'hôtel de ville de Montpellier le 14 novembre 2024 par la brigade financière du SRPJ.",
+      "Enquête déclenchée à la suite d'un rapport de la Chambre régionale des comptes portant sur la gestion 2015-2021.",
+      "Le rapport relevait environ 297 agents sans affectation fin 2021, pour un coût annuel estimé à environ 10,8 millions d'euros.",
+      "Le conseil municipal de Montpellier a voté en février 2025 l'octroi de la protection fonctionnelle au maire, décision contestée par une partie de l'opposition.",
+      "Aucune mise en examen ni condamnation rapportée concernant Michaël Delafosse à ce stade."
+    ],
+    "source_url": [
+      "https://infoccitanie.fr/montpellier-enquete-pour-detournement-de-fonds-la-defense-de-michael-delafosse-financee-par-largent-public/",
+      "https://infoccitanie.fr/perquisition-a-la-mairie-de-montpellier-ce-rapport-accablant-de-la-chambre-regionale-des-comptes-qui-est-a-lorigine-des-enquetes/",
+      "https://www.midilibre.fr/2025/02/13/perquisitions-policieres-a-lhotel-de-ville-de-montpellier-la-protection-fonctionnelle-votee-pour-michael-delafosse-contestee-12510147.php"
+    ]
+  },
+  {
+    "id": "michael-delafosse-directeur-cabinet-remuneration",
+    "case": "Enquête préliminaire sur la rémunération de l'ancien directeur de cabinet du maire (soupçons de détournement de fonds publics et recel)",
+    "period": "2024–present",
+    "type": "Preliminary investigation (enquête préliminaire) — alleged embezzlement of public funds / receiving (détournement de fonds publics et recel)",
+    "description": "Une seconde enquête préliminaire, distincte mais liée aux mêmes perquisitions de novembre 2024, porte sur des soupçons de « détournement de fonds publics et recel » concernant la rémunération de l'ancien directeur de cabinet du maire de Montpellier. Selon la presse locale, des compléments de rémunération auraient été versés au-delà des plafonds applicables, justifiés par des fonctions supplémentaires. Aucune mise en examen ni condamnation n'est rapportée; Michaël Delafosse n'est pas personnellement poursuivi à ce stade.",
+    "status": "ongoing",
+    "outcome": "Aucune condamnation. Enquête en cours; pas de poursuite pénale formelle rapportée à ce stade.",
+    "court": "Parquet de Montpellier (enquête confiée à la brigade financière / SRPJ)",
+    "presumption_note": "Michaël Delafosse bénéficie de la présomption d'innocence. Il s'agit d'une enquête préliminaire portant sur des faits allégués visant la rémunération d'un ancien collaborateur; aucune mise en examen ni condamnation n'a été prononcée. Les éléments ci-dessus sont des allégations et des investigations, pas des faits établis ni une culpabilité reconnue.",
+    "key_facts": [
+      "Enquête ouverte dans le cadre des mêmes perquisitions de novembre 2024 à la mairie de Montpellier.",
+      "Soupçons de « détournement de fonds publics et recel » visant la rémunération de l'ancien directeur de cabinet du maire.",
+      "La presse locale évoque des compléments de rémunération versés au-delà des plafonds applicables, justifiés par des fonctions supplémentaires (y compris au sein du CCAS).",
+      "L'ancien directeur de cabinet serait par ailleurs en litige juridique avec la mairie et la métropole, selon des élus d'opposition.",
+      "Aucune mise en examen ni condamnation rapportée concernant Michaël Delafosse à ce stade."
+    ],
+    "source_url": [
+      "https://infoccitanie.fr/montpellier-enquete-pour-detournement-de-fonds-la-defense-de-michael-delafosse-financee-par-largent-public/",
+      "https://www.midilibre.fr/2025/02/13/perquisitions-policieres-a-lhotel-de-ville-de-montpellier-la-protection-fonctionnelle-votee-pour-michael-delafosse-contestee-12510147.php"
+    ]
+  },
+  {
+    "id": "michael-delafosse-grammont-funerarium",
+    "case": "Affaire du funérarium / crématorium de Grammont — citation directe pour complicité présumée",
+    "period": "2022–present (procès au fond fixé au 6 décembre 2027)",
+    "type": "Citation directe (direct summons) before the tribunal correctionnel — alleged complicity in failure to protect employees and in undeclared work",
+    "description": "À la suite de plaintes déposées en octobre 2022 par plusieurs salariées du complexe funéraire de Grammont — géré par une société dont Montpellier Méditerranée Métropole est actionnaire majoritaire — dénonçant des faits présumés de harcèlement, d'agressions sexuelles et de travail dissimulé, une citation directe a été déposée par l'avocat Stéphane Fernandez. Elle vise plusieurs cadres et salariés ainsi que Michaël Delafosse, maire de Montpellier et président de la Métropole, pour « complicité » présumée dans l'absence de mesures de protection de la santé physique et mentale des salariés et pour « complicité de travail dissimulé ». Une audience de consignation s'est tenue le 6 mai 2026; le procès au fond a été fixé / renvoyé au 6 décembre 2027. Une enquête pénale parallèle est toujours en cours. Aucune condamnation n'a été prononcée.",
+    "status": "ongoing",
+    "outcome": "Aucune condamnation. Procès au fond fixé au 6 décembre 2027; enquête pénale parallèle toujours en cours. La défense de M. Delafosse a évoqué la possibilité de plaider des « poursuites abusives ».",
+    "court": "Tribunal correctionnel de Montpellier",
+    "presumption_note": "Michaël Delafosse bénéficie de la présomption d'innocence. Il est visé par une citation directe pour des faits de complicité allégués; aucun jugement sur le fond n'a été rendu et aucune condamnation n'a été prononcée. Les éléments ci-dessus relèvent d'allégations et d'une procédure judiciaire en cours, pas de faits établis ni d'une culpabilité reconnue.",
+    "key_facts": [
+      "Plaintes déposées en octobre 2022 par d'anciennes salariées du complexe funéraire de Grammont.",
+      "Faits présumés dénoncés : harcèlement, agressions sexuelles et travail dissimulé.",
+      "La société exploitant le complexe a Montpellier Méditerranée Métropole pour actionnaire majoritaire.",
+      "Citation directe déposée par l'avocat Stéphane Fernandez visant cadres, salariés et le maire-président pour complicité présumée.",
+      "Delafosse visé pour « complicité » dans l'absence de mesures de protection des salariés et pour « complicité de travail dissimulé ».",
+      "Audience de consignation tenue le 6 mai 2026 (consignations de 800 à 1 000 euros pour les parties civiles).",
+      "Procès au fond fixé / renvoyé au 6 décembre 2027; enquête pénale parallèle toujours en cours.",
+      "Michaël Delafosse a obtenu la protection fonctionnelle pour la prise en charge de ses frais de défense."
+    ],
+    "source_url": [
+      "https://lepoing.net/affaire-du-funerarium-de-grammont-le-proces-fixe-en-decembre-2027/",
+      "https://lepoing.net/affaire-du-funerarium-de-grammont-delafosse-cite-a-comparaitre-devant-la-justice/",
+      "https://echo-des-tribunes.com/herault-tribune/articles/affaire-du-funerarium-de-grammont-le-proces-renvoye-a-decembre-2027",
+      "https://www.ici.fr/emissions/l-info-d-ici-ici-herault/le-proces-sur-l-affaire-du-funerarium-de-grammont-gere-par-la-metropole-de-montpellier-aura-lieu-en-decembre-2027-7925257"
+    ]
+  }
+]

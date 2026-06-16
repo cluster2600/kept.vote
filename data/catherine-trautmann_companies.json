@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "eurometropole-strasbourg-presidente",
+    "entity": "Eurométropole de Strasbourg",
+    "role": "board_member",
+    "ownership_stake": "n/a (public intercommunal authority / EPCI)",
+    "period": "April 2026 – present",
+    "status": "current",
+    "detail": "Following her election as Mayor of Strasbourg in March 2026, Catherine Trautmann was elected President of the Eurométropole de Strasbourg on 10 April 2026 (80 of 107 votes), surrounding herself with 18 vice-presidents. The Eurométropole is a public intercommunal authority (établissement public de coopération intercommunale), not a commercial company; the presidency carries no ownership stake. She retained the transport portfolio for herself. She had previously been President of the Communauté urbaine de Strasbourg / Eurométropole during earlier mandates.",
+    "source_url": [
+      "https://www.strasbourg.eu/-/catherine-trautmann-devient-presidente-de-l-eurometropole-et-s-entoure-de-18-vice-presidents",
+      "https://www.francebleu.fr/grand-est/alsace-cea/catherine-trautmann-officiellement-elue-presidente-de-l-eurometropole-de-strasbourg-1241565",
+      "https://www.rue89strasbourg.com/eurometropole-nouvelle-presidente-majorite-2026-2032-385345"
+    ]
+  },
+  {
+    "id": "ville-de-strasbourg-maire",
+    "entity": "Ville de Strasbourg",
+    "role": "board_member",
+    "ownership_stake": "n/a (local public authority)",
+    "period": "1989–1997; 2000–2001; March 2026 – present",
+    "status": "current",
+    "detail": "Mayor of Strasbourg. Re-elected in the March 2026 municipal elections (37% at the second round, ahead of Jeanne Barseghian and Jean-Philippe Vetter), returning to the Hôtel de Ville some 25 years after her previous mandate. The mayoralty is an elected public office, not a corporate role; it confers ex-officio representation in numerous local public companies (SEM/SPL such as CTS, Parcus, Habitation Moderne, Locusem, SPL Deux-Rives) via designation by the council.",
+    "source_url": [
+      "https://www.franceinfo.fr/elections/la-socialiste-catherine-trautmann-fait-son-retour-a-la-mairie-de-strasbourg-vingt-cinq-ans-apres-son-dernier-mandat_7879733.html",
+      "https://pokaa.fr/2026/03/22/elections-municipales-cest-officiel-catherine-trautmann-est-elue-maire-de-strasbourg/"
+    ]
+  },
+  {
+    "id": "port-autonome-strasbourg-presidente",
+    "entity": "Port autonome de Strasbourg (PAS)",
+    "role": "board_member",
+    "ownership_stake": "n/a (public establishment; State and Ville de Strasbourg joint governance)",
+    "period": "2008–2020",
+    "status": "historical",
+    "detail": "President of the Board of Directors (conseil d'administration) of the Port autonome de Strasbourg, a public port establishment jointly governed by the French State and the Ville de Strasbourg. She was renewed as a board member by a Strasbourg city council decision of 28 December 2014. She was succeeded by Anne-Marie Jean, elected president by the board on 8 October 2020.",
+    "source_url": [
+      "https://www.lemoniteur.fr/article/catherine-trautmann-presidente-du-port-autonome-de-strasbourg.677734",
+      "https://www.strasbourg.port.fr/actualites/anne-marie-jean-nouvelle-presidente-du-port-autonome-de-strasbourg/",
+      "https://www.actu-transport-logistique.fr/npi-magazine/a-la-une/anne-marie-jean-nouvelle-presidente-du-port-autonome-de-strasbourg-712018.php"
+    ]
+  },
+  {
+    "id": "commission-europeenne-coordinatrice-corridor",
+    "entity": "European Commission – TEN-T North Sea–Baltic core network corridor",
+    "role": "advisor",
+    "ownership_stake": "n/a (EU institutional mandate)",
+    "period": "appointed September 2014; renewed; ongoing",
+    "status": "current",
+    "detail": "European Coordinator for the trans-European transport (TEN-T) North Sea–Baltic core network corridor, appointed by the European Commission. This is an EU institutional/advisory mandate (a 2,500 km multimodal corridor linking Helsinki/Tallinn to North Sea ports), not a corporate directorship; mandate terms run four years and are renewable. She has continued to be cited in this role through 2024–2026.",
+    "source_url": [
+      "https://transport.ec.europa.eu/news-events/news/statement-catherine-trautmann-north-sea-baltic-ten-t-corridor-coordinator-2017-06-27_en",
+      "https://www.banquedesterritoires.fr/catherine-trautmann-nouvelle-coordinatrice-du-corridor-de-transport-europeen-mer-du-nord-baltique"
+    ]
+  },
+  {
+    "id": "hatvp-declaration-interets",
+    "entity": "HATVP – déclaration d'intérêts (private commercial holdings)",
+    "role": "none",
+    "ownership_stake": "none identified",
+    "period": "n/a",
+    "status": "none",
+    "detail": "No private commercial company directorship, shareholding or ownership stake in Catherine Trautmann's name was identified in publicly accessible sources at the time of compilation (June 2026). Her documented roles are public/institutional (Mayor of Strasbourg, President of the Eurométropole, former President of the Port autonome de Strasbourg, EU corridor coordinator) rather than private business interests. A current HATVP déclaration d'intérêts should be consulted on hatvp.fr to confirm; the automated fetch of the HATVP fiche could not be completed during compilation. No commercial entity is declared here pending direct verification of the HATVP filing.",
+    "source_url": [
+      "https://www.hatvp.fr/"
+    ]
+  }
+]
