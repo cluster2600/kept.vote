@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": "Parliamentary initiative on transparency of parliamentarians' secondary income",
+    "type": "Parliamentary initiative",
+    "year": "2022",
+    "role": "Author / lead sponsor",
+    "description": "Initiative requiring members of the federal parliament to disclose income earned from their secondary (outside) activities and to indicate the general order of magnitude of each such income. Initially accepted in commission, it was rejected by the Council of States on 28 May 2024 by 22 votes to 18. Mazzone indicated she might pursue the goal via a popular initiative.",
+    "status": "Rejected by the Council of States (28 May 2024)",
+    "source_url": [
+      "https://www.swissinfo.ch/fre/les-parlementaires-devront-%C3%AAtre-plus-transparents-sur-leurs-revenus/48908968",
+      "https://www.20min.ch/fr/story/parlement-les-senateurs-refusent-de-devoiler-leurs-revenus-accessoires-103116178"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Geneva cantonal popular initiative 'Pour un pilotage democratique de l'aeroport de Geneve'",
+    "type": "Cantonal popular initiative",
+    "year": "2016",
+    "role": "President of the sponsoring coalition (CARPE)",
+    "description": "Cantonal popular initiative seeking democratic control over the development and operation of Geneva airport, with attention to its environmental and population impact. As president of the CARPE coalition she fronted the campaign, which submitted around 14,450 signatures in December 2016.",
+    "status": "Submitted (14,450 signatures, December 2016)",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Lisa_Mazzone",
+      "https://lisamazzone.ch/transparence"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Geneva 'stop bunkers' campaign on housing of asylum seekers",
+    "type": "Campaign / parliamentary motion (cantonal)",
+    "year": "2015",
+    "role": "Leading proponent in the Grand Council of Geneva",
+    "description": "She was a leading figure in the 'stop bunkers' movement opposing the use of underground nuclear shelters to house asylum seekers in Geneva, supporting a motion from the left and the PDC asking the cantonal government not to lodge asylum seekers underground for more than three months.",
+    "status": "Campaign / motion in the Grand Council of Geneva",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Lisa_Mazzone",
+      "https://www.tdg.ch/geneve/actu-genevoise/geneve-doit-abandonner-hebergement-abris-pci/story/31914728"
+    ]
+  }
+]

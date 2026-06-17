@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "institution": "University of St. Gallen (HSG)",
+    "degree": "Licentiate in law (lic. iur.)",
+    "field": "Law / Jurisprudence",
+    "start_date": "",
+    "end_date": "1990",
+    "source_url": ["https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher"]
+  },
+  {
+    "id": "2",
+    "institution": "Canton of St. Gallen (bar admission)",
+    "degree": "Admission to the bar (Anwaltspatent)",
+    "field": "Law",
+    "start_date": "",
+    "end_date": "1992",
+    "source_url": ["https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher"]
+  },
+  {
+    "id": "3",
+    "institution": "SVCL (Swiss association for collaborative law)",
+    "degree": "Collaborative Lawyer SVCL",
+    "field": "Collaborative law",
+    "start_date": "",
+    "end_date": "2013",
+    "source_url": ["https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher"]
+  }
+]

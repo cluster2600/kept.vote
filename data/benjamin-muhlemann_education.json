@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "institution": "Kantonsschule Glarus",
+    "degree": "Matura",
+    "field": "",
+    "start_date": "",
+    "end_date": "1998",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_M%C3%BChlemann"
+    ]
+  },
+  {
+    "id": "2",
+    "institution": "Zurich University of Applied Sciences (ZHAW), Winterthur",
+    "degree": "",
+    "field": "Journalism and Organizational Communication",
+    "start_date": "",
+    "end_date": "",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_M%C3%BChlemann"
+    ]
+  }
+]

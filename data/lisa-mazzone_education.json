@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "institution": "University of Geneva",
+    "degree": "Bachelor en Lettres (Bachelor of Arts in Humanities)",
+    "field": "French literature and Latin",
+    "start_date": "",
+    "end_date": "2013",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Lisa_Mazzone"
+    ]
+  },
+  {
+    "id": "2",
+    "institution": "College Andre-Chavanne, Geneva",
+    "degree": "Matura (Swiss secondary-school leaving certificate)",
+    "field": "",
+    "start_date": "",
+    "end_date": "",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Lisa_Mazzone"
+    ]
+  }
+]

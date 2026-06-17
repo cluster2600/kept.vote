@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "entity": "Ospita – Die Schweizer Gesundheitsunternehmen (association of private/independent healthcare providers)",
+    "role": "President",
+    "ownership_stake": "",
+    "period": "2025–present",
+    "status": "active",
+    "detail": "President of the Ospita association, representing Swiss private/independent healthcare companies. Listed among his registered interest bindings as a Ständerat. Described in reporting as a lucrative mandate.",
+    "source_url": [
+      "https://www.infosperber.ch/politik/schweiz/die-streng-geheimen-jobs-des-neuen-fdp-praesidenten/",
+      "https://www.ospita.ch/de/aktuelles/medienmitteilungen.html"
+    ]
+  },
+  {
+    "id": "2",
+    "entity": "IRF Reputation AG (communications / public affairs agency), Zurich",
+    "role": "Senior Advisor Public Affairs (employee)",
+    "ownership_stake": "",
+    "period": "2025–present",
+    "status": "active",
+    "detail": "Employed as a public affairs / communications consultant. His parliamentary interest declaration lists the employer but not the agency's clients, which he has declined to disclose.",
+    "source_url": [
+      "https://www.irf-reputation.ch/de/unternehmen/team/benjamin-muehlemann.html",
+      "https://www.infosperber.ch/politik/schweiz/die-streng-geheimen-jobs-des-neuen-fdp-praesidenten/"
+    ]
+  },
+  {
+    "id": "3",
+    "entity": "Ost – Ostschweizer Fachhochschule (Eastern Switzerland University of Applied Sciences)",
+    "role": "Member of the university council (Hochschulrat)",
+    "ownership_stake": "",
+    "period": "2024–present",
+    "status": "active",
+    "detail": "Member of the governing council of the university of applied sciences OST; listed among his interest bindings.",
+    "source_url": [
+      "https://www.fdp.ch/personen/staenderaete/staenderat-detail/members/user/benjamin-m-hlemman"
+    ]
+  },
+  {
+    "id": "4",
+    "entity": "Glarner Kantonalbank (cantonal bank)",
+    "role": "Member of the board of directors (Verwaltungsrat)",
+    "ownership_stake": "",
+    "period": "2021–2025",
+    "status": "former",
+    "detail": "Served on the board of the Glarner Kantonalbank, initially (2021–2024) as the cantonal government's representative, then for a one-year transitional period as an independent member following the death of board chairman Martin Leutenegger. Did not stand for re-election in 2025; succeeded by Angela Petruzzi.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_M%C3%BChlemann",
+      "https://glkb.ch/verwaltungsrat",
+      "https://www.finews.ch/news/banken/65079-glkb-verwaltungsrat-angela-petruzzi"
+    ]
+  },
+  {
+    "id": "5",
+    "entity": "Kantonsspital Glarus AG (Glarus cantonal hospital)",
+    "role": "Member of the board of directors (Verwaltungsrat)",
+    "ownership_stake": "",
+    "period": "",
+    "status": "active",
+    "detail": "Member of the board of directors of the Glarus cantonal hospital.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_M%C3%BChlemann",
+      "https://ksgl.ch/ksgl/verwaltungsrat"
+    ]
+  },
+  {
+    "id": "6",
+    "entity": "Stiftung Konzertsaal und Hotel Braunwald (concert hall and hotel foundation, Glarus Süd)",
+    "role": "Member of the foundation board (Stiftungsrat)",
+    "ownership_stake": "",
+    "period": "2014–present",
+    "status": "active",
+    "detail": "Member of the foundation board of the concert hall and hotel foundation in Braunwald; listed among his interest bindings.",
+    "source_url": [
+      "https://www.fdp.ch/personen/staenderaete/staenderat-detail/members/user/benjamin-m-hlemman"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "office": "Member of the Council of States (Ständerat)",
+    "jurisdiction": "Canton Glarus",
+    "election_date": "2023-10-22",
+    "result": "Elected in the first round with 8,704 votes (absolute majority was 5,721); no second ballot required. Defended the FDP seat left vacant by the retirement of Thomas Hefti.",
+    "party": "FDP.Die Liberalen",
+    "source_url": [
+      "https://benjamin-muehlemann.ch/2023/10/22/wahl-staenderat/",
+      "https://www.gl.ch/public-newsroom.html/31/newsroomnews/8206/title/m%C3%BChlemann-und-zopfi-in-den-st%C3%A4nderat-schnyder-in-den-nationalrat-gew%C3%A4hlt",
+      "https://www.watson.ch/wahlen-2023/glarus/206079453-wahlen-kanton-glarus-2023-die-resultate-zu-staenderat-und-nationalrat"
+    ]
+  },
+  {
+    "id": "2",
+    "office": "Member of the cantonal government (Regierungsrat)",
+    "jurisdiction": "Canton Glarus",
+    "election_date": "2014",
+    "result": "Elected to the cantonal executive at the 2014 Landsgemeinde. Subsequently re-elected; served until May 2024. Held the office of Landammann (cantonal president) from the 2022 Landsgemeinde.",
+    "party": "FDP.Die Liberalen",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_M%C3%BChlemann",
+      "https://www.gl.ch/regierung.html/271"
+    ]
+  },
+  {
+    "id": "3",
+    "office": "Member of the Landrat (cantonal parliament)",
+    "jurisdiction": "Canton Glarus",
+    "election_date": "2010",
+    "result": "Elected to the Glarus cantonal parliament; served from 2010 to 2014.",
+    "party": "FDP.Die Liberalen",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Benjamin_M%C3%BChlemann"
+    ]
+  }
+]

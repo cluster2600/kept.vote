@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "office": "Member of the National Council (Conseil national)",
+    "jurisdiction": "Canton of Geneva, Switzerland",
+    "election_date": "2015-10-18",
+    "result": "Elected. She won a Geneva seat for the Greens and became, at 27, the youngest member of the Swiss federal parliament at the time.",
+    "party": "Les VERT-E-S (Green Party of Switzerland)",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Lisa_Mazzone",
+      "https://verts-ge.ch/lisa-mazzone-nouvelle-conseillere-nationale/"
+    ]
+  },
+  {
+    "id": "2",
+    "office": "Member of the Council of States (Conseil des Etats)",
+    "jurisdiction": "Canton of Geneva, Switzerland",
+    "election_date": "2019-10-20",
+    "result": "Elected. She won the Geneva Council of States seat left vacant by the retiring Robert Cramer, entering the upper house in December 2019.",
+    "party": "Les VERT-E-S (Green Party of Switzerland)",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Lisa_Mazzone",
+      "https://www.ge.ch/elections/20191020/CDE/candidat/40010003/"
+    ]
+  },
+  {
+    "id": "3",
+    "office": "Member of the Council of States (Conseil des Etats)",
+    "jurisdiction": "Canton of Geneva, Switzerland",
+    "election_date": "2023-11-12",
+    "result": "Defeated. In the second round of the October/November 2023 federal election she failed to win re-election, finishing behind Mauro Poggia (MCG) and Carlo Sommaruga (PS) and losing her seat. She announced her withdrawal from politics, leaving the Council of States at the end of 2023.",
+    "party": "Les VERT-E-S (Green Party of Switzerland)",
+    "source_url": [
+      "https://www.lematin.ch/story/defaite-a-geneve-lisa-mazzone-pour-moi-cest-termine-441807871993",
+      "https://www.lenouvelliste.ch/suisse/federales-2023-la-droite-recupere-un-siege-a-geneve-au-detriment-des-vert-e-s-1339577",
+      "https://www.tdg.ch/politique-genevoise-pourquoi-lisa-mazzone-a-perdu-son-siege-667760252646"
+    ]
+  }
+]

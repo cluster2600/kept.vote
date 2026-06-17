@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "office": "Member of the Cantonal Council of St. Gallen (Kantonsrätin)",
+    "jurisdiction": "Canton of St. Gallen (St. Gallen constituency)",
+    "election_date": "2018",
+    "result": "Elected (served 2018-2020; entered as a substitute member, left upon election to the National Council)",
+    "party": "FDP.Die Liberalen",
+    "source_url": ["https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher", "https://www.vincenz-stauffacher.ch/person"]
+  },
+  {
+    "id": "2",
+    "office": "Member of the National Council (Nationalrätin)",
+    "jurisdiction": "Canton of St. Gallen",
+    "election_date": "2019-10-20",
+    "result": "Elected (newly elected; reported approx. 22,951 votes)",
+    "party": "FDP.Die Liberalen",
+    "source_url": ["https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher", "https://www.parlament.ch/de/biografie/susanne-vincenz-stauffacher/4296"]
+  },
+  {
+    "id": "3",
+    "office": "Member of the National Council (Nationalrätin)",
+    "jurisdiction": "Canton of St. Gallen",
+    "election_date": "2023-10-22",
+    "result": "Re-elected (reported approx. 30,199 votes)",
+    "party": "FDP.Die Liberalen",
+    "source_url": ["https://stgallen24.ch/wahlen/nationalratswahlen-2023-sg/kandidaten/4115-vincenz-stauffacher-susanne", "https://www.sg.ch/news/sgch_allgemein/2023/10/st-gallerinnen-und-st-galler-haben-gewaehlt.html"]
+  }
+]

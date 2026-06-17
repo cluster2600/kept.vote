@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "role": "Legal trainee (Praktikum)",
+    "organization": "Hofmann und Partner, Rapperswil",
+    "start_date": "1991",
+    "end_date": "1993",
+    "description": "Legal traineeship preceding admission to the bar.",
+    "source_url": ["https://www.vincenz-stauffacher.ch/person"]
+  },
+  {
+    "id": "2",
+    "role": "Self-employed attorney (Rechtsanwältin), own law firm",
+    "organization": "Law firm Vincenz, St. Gallen (formerly Vincenz & Dornier)",
+    "start_date": "1993",
+    "end_date": "",
+    "description": "Founded her own law practice in St. Gallen; also serves as a notary public. Specialises notably in family law and works as a Collaborative Lawyer (SVCL, qualification completed 2013).",
+    "source_url": ["https://www.vincenz-stauffacher.ch/person", "https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher"]
+  },
+  {
+    "id": "3",
+    "role": "Member of the bar examination commission (Anwaltsprüfungskommission)",
+    "organization": "Canton of St. Gallen",
+    "start_date": "2003",
+    "end_date": "2011",
+    "description": "Member of the cantonal commission examining candidates for admission to the bar.",
+    "source_url": ["https://www.vincenz-stauffacher.ch/person"]
+  },
+  {
+    "id": "4",
+    "role": "Lay/expert judge (Fachrichterin)",
+    "organization": "Insurance Court (Versicherungsgericht) of the Canton of St. Gallen",
+    "start_date": "2003",
+    "end_date": "2016",
+    "description": "Served as expert judge at the cantonal insurance court.",
+    "source_url": ["https://www.vincenz-stauffacher.ch/person", "https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher"]
+  },
+  {
+    "id": "5",
+    "role": "Vice-president of the appeals commission (Rekurskommission) and chair of the division for special-needs education professions",
+    "organization": "EDK/GDK (Swiss Conference of Cantonal Ministers of Education / of Health)",
+    "start_date": "2008",
+    "end_date": "2015",
+    "description": "Vice-president of the joint appeals commission of the EDK and GDK; chaired the division for special-needs (heilpädagogische) professions.",
+    "source_url": ["https://www.vincenz-stauffacher.ch/person"]
+  },
+  {
+    "id": "6",
+    "role": "Ombudswoman for Age and Disability (Ombudsfrau Alter und Behinderung)",
+    "organization": "Canton of St. Gallen (since 2018 also Appenzell Ausserrhoden and Appenzell Innerrhoden)",
+    "start_date": "2013",
+    "end_date": "",
+    "description": "Ombudswoman for the elderly and people with disabilities, initially for canton St. Gallen and from 2018 also for cantons AR and AI.",
+    "source_url": ["https://www.vincenz-stauffacher.ch/person", "https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher"]
+  },
+  {
+    "id": "7",
+    "role": "Member of the National Council (Nationalrätin), FDP-Liberale Fraktion",
+    "organization": "Federal Assembly of Switzerland",
+    "start_date": "2019-12-02",
+    "end_date": "",
+    "description": "National Councillor for canton St. Gallen. Member of the Committee for the Environment, Spatial Planning and Energy (UREK-N), the Court Commission (Gerichtskommission), the Pardons Commission (Begnadigungskommission), deputy on the Immunity Commission, and member of the delegation for relations with the Liechtenstein parliament.",
+    "source_url": ["https://www.parlament.ch/de/biografie/susanne-vincenz-stauffacher/4296", "https://www.vincenz-stauffacher.ch/person"]
+  },
+  {
+    "id": "8",
+    "role": "President (Präsidentin)",
+    "organization": "FDP.Die Liberalen Frauen Schweiz (FDP Women Switzerland)",
+    "start_date": "2020",
+    "end_date": "2025",
+    "description": "Led the women's organisation of the FDP, succeeding Doris Fiala; drove the popular initiative for individual taxation.",
+    "source_url": ["https://en.wikipedia.org/wiki/Susanne_Vincenz-Stauffacher", "https://www.vincenz-stauffacher.ch/person"]
+  },
+  {
+    "id": "9",
+    "role": "Co-president (Co-Präsidentin)",
+    "organization": "FDP.Die Liberalen Schweiz (national party)",
+    "start_date": "2025-10-18",
+    "end_date": "",
+    "description": "Elected co-president of the national FDP together with Benjamin Mühlemann, succeeding Thierry Burkart; first co-presidency in the party's history.",
+    "source_url": ["https://www.fdp.ch/aktuell/medienmitteilungen/medienmitteilung-detail/news/gemeinsam-fuer-die-schweiz", "https://www.20min.ch/story/fdp-praesidium-vincenz-stauffacher-und-muehlemann-uebernehmen-103435430"]
+  }
+]
