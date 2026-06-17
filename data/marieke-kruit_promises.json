@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Advance affordable housing",
+    "description": "Make stronger progress on affordable housing (bezahlbarer Wohnraum) in Bern, a central plank of her programme and her mayoral campaign.",
+    "date_made": "2024-10-02",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "A long-standing, repeatedly stated priority backed by her role as former tenants'-association president; concrete city-wide delivery over the term is not yet measurable.",
+    "key_evidence": ["Named affordable housing among priorities she wants to push in the executive (Journal B, Oct 2024)", "Wikipedia lists promotion of affordable housing as part of her political programme"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "2",
+    "title": "Drive the energy transition (Energiewende)",
+    "description": "Push forward the city's energy transition as one of her named priorities for the term.",
+    "date_made": "2024-10-02",
+    "category": "Energy / climate",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Explicitly listed as a priority; implementation spans multiple directorates and is early in the term.",
+    "key_evidence": ["Listed Energiewende among areas that must move forward (Journal B, Oct 2024)"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "3",
+    "title": "Make Bern a heat-resilient, climate-friendly city",
+    "description": "Pursue concrete measures against climate warming and adapt the city to heat (hitzevertraegliche Stadt), including greening of public space, framed as central to her mayoralty.",
+    "date_made": "2024-10-02",
+    "category": "Climate adaptation",
+    "status": "in_progress",
+    "confidence_score": "0.55",
+    "reasoning": "Repeatedly emphasised; some projects (square redesigns) already exist, but city-wide heat-resilience goals are long-term.",
+    "key_evidence": ["Said her special focus is on climate, in both senses (Journal B, Oct 2024)", "Cited Breitenrainplatz as a model and called for more such places"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "4",
+    "title": "Promote city-compatible transport",
+    "description": "Continue promoting city-compatible transport (stadtvertraeglicher Verkehr), including cycling and public transport, building on her record as transport director.",
+    "date_made": "2024-10-02",
+    "category": "Mobility",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Consistent with her directorate record; cycling-network expansion was reported as about one-third complete, so work continues.",
+    "key_evidence": ["Listed promotion of city-compatible transport among priorities (Journal B, Oct 2024)", "Cited cycle-network expansion and traffic-calming as transport director (Nau.ch, Sep 2024)"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/", "https://www.nau.ch/news/schweiz/pro-velo-kritik-an-eigener-stapi-kandidatin-66824020"]
+  },
+  {
+    "id": "5",
+    "title": "Strengthen equal opportunities",
+    "description": "Increase equal opportunities (Chancengerechtigkeit) and work towards an open, diverse and non-discriminatory city.",
+    "date_made": "2024-10-02",
+    "category": "Social policy / equality",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Stated value and priority; broad and hard to measure within the early term.",
+    "key_evidence": ["Listed Chancengerechtigkeit among priorities (Journal B, Oct 2024)", "Described 20-year vision of a diverse, non-discriminatory city"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "6",
+    "title": "Stronger cross-departmental cooperation and a 'big picture' view",
+    "description": "Pledged more binding cross-departmental cooperation in the executive on key future issues (heat-resilient city, business-friendliness, digitalisation) and a stronger focus on the city as a whole.",
+    "date_made": "2024-10-02",
+    "category": "Governance",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "A governance intention as incoming mayor; outcomes depend on collegial executive practice and are not yet documented.",
+    "key_evidence": ["Said the executive needs a stronger view of the big picture and more binding cross-departmental cooperation (Journal B, Oct 2024)"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "7",
+    "title": "Maintain stable city finances",
+    "description": "Ensure stable municipal finances as the basis for future projects and social balance.",
+    "date_made": "2024-10-02",
+    "category": "Public finances",
+    "status": "in_progress",
+    "confidence_score": "0.45",
+    "reasoning": "Stated as a condition for her other goals; fiscal outcomes over the term are not yet assessable.",
+    "key_evidence": ["Said only with stable finances does the city have room for future projects and social balance (Journal B, Oct 2024)"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "8",
+    "title": "Develop high-quality new neighbourhoods (e.g. Ausserholligen)",
+    "description": "Advance the development of livable new neighbourhoods such as Ausserholligen, with dense but green design, short distances and a mix of housing, work, education and culture.",
+    "date_made": "2024-10-02",
+    "category": "Urban development",
+    "status": "in_progress",
+    "confidence_score": "0.5",
+    "reasoning": "Specific project cited as an example of her ambitions; multi-year development whose progress is not yet measurable.",
+    "key_evidence": ["Cited Ausserholligen as an example of a new neighbourhood with high quality of life to advance (Journal B, Oct 2024)"],
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  }
+]

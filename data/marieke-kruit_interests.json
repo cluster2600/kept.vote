@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "area": "Affordable housing",
+    "description": "Promotion of affordable housing (bezahlbarer Wohnraum) is a central plank of her political programme; she has been president of the cantonal tenants' association.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit", "https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "2",
+    "area": "Climate and a heat-resilient city",
+    "description": "Climate protection and adapting Bern to a 'heat-resilient city' (hitzevertraegliche Stadt), including measures against climate warming and more urban greenery, are recurring priorities.",
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "3",
+    "area": "Sustainable / city-compatible mobility",
+    "description": "Promotion of city-compatible transport (stadtvertraeglicher Verkehr), including cycling and public transport infrastructure, traffic-calming and the cycle-route network, stemming from her time as transport director.",
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/", "https://www.nau.ch/news/schweiz/pro-velo-kritik-an-eigener-stapi-kandidatin-66824020"]
+  },
+  {
+    "id": "4",
+    "area": "Equal opportunities",
+    "description": "Increasing equal opportunities (Chancengleichheit / Chancengerechtigkeit) and a non-discriminatory, inclusive city.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit", "https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "5",
+    "area": "Sustainability and urban green spaces",
+    "description": "Commitment to greater sustainability in the city and to high-quality public space and green areas (e.g. redesigned squares such as the Breitenrainplatz).",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit", "https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "6",
+    "area": "Sound municipal finances and cross-departmental governance",
+    "description": "Emphasises stable city finances as the basis for future projects and social balance, and more binding cross-departmental cooperation on issues such as a heat-resilient city, business-friendliness and digitalisation.",
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  }
+]

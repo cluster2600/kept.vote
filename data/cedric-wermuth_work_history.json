@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "role": "Co-President",
+    "organization": "Social Democratic Party of Switzerland (SP/PS)",
+    "start_date": "2020-10-17",
+    "end_date": "",
+    "description": "Co-president of the SP/PS alongside Mattea Meyer, elected on 17 October 2020 succeeding Christian Levrat; the duo received about 96% of delegates' votes.",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth", "https://www.srf.ch/news/schweiz/neues-sp-praesidium-sp-waehlt-mattea-meyer-und-cedric-wermuth-an-die-parteispitze"]
+  },
+  {
+    "id": "2",
+    "role": "Member of the National Council (Nationalrat)",
+    "organization": "Federal Assembly of Switzerland",
+    "start_date": "2011-12-05",
+    "end_date": "",
+    "description": "National Councillor for the canton of Aargau, in office since December 2011. Member of the Finance Committee (FK-N) and the Economic Affairs and Taxation Committee (WAK-N); previously sat on the State Politics and Business Audit committees.",
+    "source_url": ["https://www.parlament.ch/de/biografie/c%C3%A9dric-wermuth/4057", "https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "3",
+    "role": "President",
+    "organization": "Young Socialists of Switzerland (JUSO)",
+    "start_date": "2008",
+    "end_date": "2011",
+    "description": "President of the JUSO; previously the organisation's central secretary from 2005.",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "4",
+    "role": "Member, Residents' Council (Einwohnerrat)",
+    "organization": "City of Baden",
+    "start_date": "2010",
+    "end_date": "2011",
+    "description": "Served on the Baden Residents' Council.",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "5",
+    "role": "Staff member, development cooperation",
+    "organization": "Solidar Suisse",
+    "start_date": "",
+    "end_date": "",
+    "description": "Worked in development cooperation for the labour-aligned NGO Solidar Suisse; also worked as a personal assistant to Aargau politician Urs Hofmann during this period.",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "6",
+    "role": "Consultant",
+    "organization": "Spinas Civil Voices",
+    "start_date": "",
+    "end_date": "",
+    "description": "Reported to consult for Spinas Civil Voices, a Zurich communications/civil-society agency.",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  }
+]

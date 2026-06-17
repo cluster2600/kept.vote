@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "election": "JUSO presidency",
+    "office": "President, Young Socialists of Switzerland (JUSO)",
+    "date": "2008",
+    "result": "Elected (served 2008-2011)",
+    "votes": "",
+    "party": "JUSO / SP",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "2",
+    "election": "2011 Swiss federal election",
+    "office": "National Council (Aargau)",
+    "date": "2011-10-23",
+    "result": "Elected (took office 5 December 2011)",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth", "https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "3",
+    "election": "2015 Swiss federal election",
+    "office": "National Council (Aargau)",
+    "date": "2015-10-18",
+    "result": "Re-elected",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "4",
+    "election": "2019 Swiss federal election (Council of States, Aargau)",
+    "office": "Council of States (Ständerat), Aargau",
+    "date": "2019-10-20",
+    "result": "Not elected; finished third in the first round with 55,274 votes and withdrew before the second round in favour of left-green coordination",
+    "votes": "55274",
+    "party": "SP",
+    "source_url": ["https://www.nzz.ch/schweiz/wermuth-verzichtet-auf-2-wahlgang-ld.1517078", "https://www.swissinfo.ch/ger/c%C3%A9dric-wermuth-sp-zieht-staenderats-kandidatur-zurueck/45317038"]
+  },
+  {
+    "id": "5",
+    "election": "2019 Swiss federal election (National Council)",
+    "office": "National Council (Aargau)",
+    "date": "2019-10-20",
+    "result": "Re-elected to the National Council",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "6",
+    "election": "SP/PS co-presidency",
+    "office": "Co-President, Social Democratic Party of Switzerland",
+    "date": "2020-10-17",
+    "result": "Elected (with Mattea Meyer; approx. 96% of delegates' votes)",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://www.srf.ch/news/schweiz/neues-sp-praesidium-sp-waehlt-mattea-meyer-und-cedric-wermuth-an-die-parteispitze", "https://www.letemps.ch/suisse/cedric-wermuth-mattea-meyer-copresidence-ps"]
+  },
+  {
+    "id": "7",
+    "election": "2023 Swiss federal election",
+    "office": "National Council (Aargau)",
+    "date": "2023-10-22",
+    "result": "Re-elected",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://www.aargauerzeitung.ch/aargau/kanton-aargau/wahlen-2023-sp-aargau-nominiert-gabriela-suter-einstimmig-fuer-staenderat-und-macht-ausnahme-fuer-cedric-wermuth-ld.2329092"]
+  }
+]

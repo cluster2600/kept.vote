@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "election": "Swiss federal election 2015 (National Council)",
+    "office": "Member of the National Council, canton Schwyz",
+    "date": "2015-10-18",
+    "result": "Elected",
+    "votes": "5521",
+    "party": "Swiss People's Party (SVP)",
+    "source_url": ["https://en.wikipedia.org/wiki/Marcel_Dettling", "https://www.parlament.ch/de/biografie/marcel-dettling/4160"]
+  },
+  {
+    "id": "2",
+    "election": "Swiss federal election 2019 (National Council)",
+    "office": "Member of the National Council, canton Schwyz",
+    "date": "2019-10-20",
+    "result": "Re-elected",
+    "votes": "18147",
+    "party": "Swiss People's Party (SVP)",
+    "source_url": ["https://www.bote.ch/nachrichten/schwyz/schwyz_bdu/neuste-ergebnisse-nationalratswahlen;art146989,1203310"]
+  },
+  {
+    "id": "3",
+    "election": "Swiss federal election 2023 (National Council)",
+    "office": "Member of the National Council, canton Schwyz",
+    "date": "2023-10-22",
+    "result": "Re-elected (most votes in the canton)",
+    "votes": "30922",
+    "party": "Swiss People's Party (SVP)",
+    "source_url": ["https://www.einsiedleranzeiger.ch/2023/10/22/dettling-svp-buergi-svp-blunschy-mitte-und-theiler-fdp-sind-den-nationalrat-gewaehlt-worden/", "https://www.srf.ch/news/schweiz/wahlen-2023/wahlen-2023-schwyz/nationalrat-kanton-schwyz-die-svp-kann-ihre-beiden-sitze-verteidigen"]
+  },
+  {
+    "id": "4",
+    "election": "SVP Switzerland party presidency election 2024",
+    "office": "President of the SVP Switzerland",
+    "date": "2024-03-23",
+    "result": "Elected (unanimous, sole candidate)",
+    "votes": "",
+    "party": "Swiss People's Party (SVP)",
+    "source_url": ["https://www.svp.ch/aktuell/publikationen/medienmitteilungen/einstimmig-gewaehlt-marcel-dettling-ist-neuer-praesident-der-svp-schweiz/", "https://www.srf.ch/news/schweiz/delegiertenversammlung-der-svp-dettling-ist-neuer-svp-praesident-nein-zum-strom-mantelerlass"]
+  }
+]

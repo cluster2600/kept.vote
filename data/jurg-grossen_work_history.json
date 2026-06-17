@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "role": "Co-owner and co-managing director (Co-Geschäftsinhaber)",
+    "organization": "Elektroplan Buchs & Grossen AG",
+    "start_date": "1994",
+    "end_date": "",
+    "description": "Electrical planning and building automation/technology firm in Frutigen; Grossen co-leads the company he helped take over after the death of the original owner.",
+    "source_url": ["https://grunliberale.ch/personen/juerg-grossen/", "https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "2",
+    "role": "Co-owner and co-managing director",
+    "organization": "ElektroLink AG",
+    "start_date": "2009",
+    "end_date": "",
+    "description": "Building-technology / electrical engineering company in Frutigen affiliated with Elektroplan Buchs & Grossen.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "3",
+    "role": "Founder and Chairman of the Board (Verwaltungsratspräsident)",
+    "organization": "Smart Energy Link AG",
+    "start_date": "2017",
+    "end_date": "",
+    "description": "Smart-grid / intelligent building and electricity-control software company co-founded by Grossen with Urs Böhlen, Christian Klossner and Jürg Tschanz.",
+    "source_url": ["https://smartenergylink.ch/de/uber-uns/", "https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "4",
+    "role": "Member of the National Council (Nationalrat)",
+    "organization": "Federal Assembly of Switzerland, canton of Bern",
+    "start_date": "2011-12-05",
+    "end_date": "",
+    "description": "Elected member of the National Council for the canton of Bern; member of the Committee for Economic Affairs and Taxation (WAK-N).",
+    "source_url": ["https://www.parlament.ch/de/biografie/j%C3%BCrg-grossen/4083", "https://grunliberale.ch/personen/juerg-grossen/"]
+  },
+  {
+    "id": "5",
+    "role": "President (Parteipräsident)",
+    "organization": "Green Liberal Party of Switzerland (GLP)",
+    "start_date": "2017-08-26",
+    "end_date": "",
+    "description": "National president of the GLP; previously vice-president (2016-2017) and member of the executive board (Geschäftsleitung) since 2016.",
+    "source_url": ["https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen", "https://grunliberale.ch/personen/juerg-grossen/"]
+  },
+  {
+    "id": "6",
+    "role": "Co-President (Co-Präsident)",
+    "organization": "GLP canton of Bern",
+    "start_date": "2012",
+    "end_date": "2016",
+    "description": "Co-president of the cantonal Green Liberal Party of Bern.",
+    "source_url": ["https://grunliberale.ch/personen/juerg-grossen/"]
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "1",
+    "organization": "Sozialdemokratische Partei der Schweiz (SP/PS)",
+    "role": "Co-President",
+    "type": "Political party",
+    "period": "2020-present",
+    "description": "Interest binding recorded in the Register of Interests / Lobbywatch; he is co-president of the party.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "2",
+    "organization": "Gewerkschaft Unia",
+    "role": "Affiliation / interest binding",
+    "type": "Trade union",
+    "period": "",
+    "description": "Recorded interest binding with Switzerland's largest trade union.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "3",
+    "organization": "Schweizerischer Verband des Personals öffentlicher Dienste (VPOD)",
+    "role": "Affiliation / interest binding",
+    "type": "Public-services trade union",
+    "period": "",
+    "description": "Recorded interest binding with the public-service personnel union VPOD.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "4",
+    "organization": "Solidar Suisse",
+    "role": "Affiliation / interest binding (former employee)",
+    "type": "Development NGO",
+    "period": "",
+    "description": "Recorded interest binding; previously worked in development cooperation for the organisation.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth", "https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "5",
+    "organization": "Amnesty International - Schweizer Sektion",
+    "role": "Affiliation / interest binding",
+    "type": "Human-rights NGO",
+    "period": "",
+    "description": "Recorded interest binding with the Swiss section of Amnesty International.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "6",
+    "organization": "Solidarité sans frontières",
+    "role": "Affiliation / interest binding",
+    "type": "Migration / asylum NGO",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "7",
+    "organization": "Verein Netzwerk Asyl Aargau",
+    "role": "Affiliation / interest binding",
+    "type": "Asylum-support association",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "8",
+    "organization": "Greenpeace Schweiz",
+    "role": "Affiliation / interest binding",
+    "type": "Environmental NGO",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "9",
+    "organization": "Pro Natura - Schweizerischer Bund für Naturschutz",
+    "role": "Affiliation / interest binding",
+    "type": "Environmental NGO",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "10",
+    "organization": "VCS Verkehrs-Club der Schweiz",
+    "role": "Affiliation / interest binding",
+    "type": "Transport / environment association",
+    "period": "",
+    "description": "Recorded interest binding with the Swiss transport club.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "11",
+    "organization": "Pro Velo Schweiz",
+    "role": "Affiliation / interest binding",
+    "type": "Cycling association",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "12",
+    "organization": "Nie wieder Atomkraftwerke - NWA Aargau",
+    "role": "Affiliation / interest binding",
+    "type": "Anti-nuclear association",
+    "period": "",
+    "description": "Recorded interest binding with the Aargau anti-nuclear-power association.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "13",
+    "organization": "Komitee Bahnanschluss Mittelland",
+    "role": "Co-founder / member",
+    "type": "Transport committee",
+    "period": "",
+    "description": "Mittelland rail-link committee, co-established with FDP Councillor Thierry Burkart to improve rail transport in the canton.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth", "https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "14",
+    "organization": "Mieterinnen- und Mieterverband Aargau",
+    "role": "Affiliation / interest binding",
+    "type": "Tenants' association",
+    "period": "",
+    "description": "Recorded interest binding with the Aargau tenants' association.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "15",
+    "organization": "Robert-Grimm-Gesellschaft",
+    "role": "Affiliation / interest binding",
+    "type": "Labour-history association",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "16",
+    "organization": "Unterstützungsverein der Archive der Aargauer Arbeiterbewegung",
+    "role": "Affiliation / interest binding",
+    "type": "Labour-movement archive association",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "17",
+    "organization": "Direkte Solidarität mit Chiapas",
+    "role": "Affiliation / interest binding",
+    "type": "Solidarity NGO",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "18",
+    "organization": "easyvote",
+    "role": "Affiliation / interest binding",
+    "type": "Civic-education programme",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "19",
+    "organization": "Schweizer Paraplegiker-Stiftung",
+    "role": "Affiliation / interest binding",
+    "type": "Health foundation",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "20",
+    "organization": "Schweizerische Rettungsflugwacht (Rega)",
+    "role": "Affiliation / interest binding",
+    "type": "Air-rescue organisation",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "21",
+    "organization": "SRG Aargau Solothurn",
+    "role": "Affiliation / interest binding",
+    "type": "Public-broadcasting regional society",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "22",
+    "organization": "Arbeiterstrandbad Tennwil",
+    "role": "Affiliation / interest binding",
+    "type": "Association",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "23",
+    "organization": "Parlamentarische Freundschaftsgruppe Schweiz - Kosovo",
+    "role": "Co-president (parliamentary friendship group)",
+    "type": "Parliamentary group",
+    "period": "",
+    "description": "Recorded interest binding; has served as co-president of the Switzerland-Kosovo group.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth", "https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "24",
+    "organization": "Parlamentarische Gruppe Schweiz - Suryoye",
+    "role": "Member (parliamentary group)",
+    "type": "Parliamentary group",
+    "period": "",
+    "description": "Recorded interest binding; Swiss-Syriac parliamentary group.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth", "https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "25",
+    "organization": "Parlamentarische Gruppe Koloniale Schweiz",
+    "role": "Member (parliamentary group)",
+    "type": "Parliamentary group",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  },
+  {
+    "id": "26",
+    "organization": "Verein Projekt Doppeltür",
+    "role": "Affiliation / interest binding",
+    "type": "Association",
+    "period": "",
+    "description": "Recorded interest binding.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/211/C%C3%A9dric%20Wermuth"]
+  }
+]

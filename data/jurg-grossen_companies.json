@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1",
+    "organization": "Elektroplan Buchs & Grossen AG",
+    "role": "Co-owner, co-managing director and board member",
+    "type": "Company (electrical planning / building technology)",
+    "period": "since 1994",
+    "description": "Grossen's principal company in Frutigen, active in electrical planning and building automation. He is co-owner (holding roughly a quarter of the company) and co-manages the firm.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen", "https://grunliberale.ch/personen/juerg-grossen/"]
+  },
+  {
+    "id": "2",
+    "organization": "ElektroLink AG",
+    "role": "Co-owner / board member",
+    "type": "Company (electrical engineering / building technology)",
+    "period": "since 2009",
+    "description": "Affiliated electrical engineering company in Frutigen in which Grossen holds an ownership stake and a board mandate.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "3",
+    "organization": "Smart Energy Link AG",
+    "role": "Founder and Chairman of the Board (Verwaltungsratspräsident)",
+    "type": "Company (smart-grid / energy software)",
+    "period": "since 2017",
+    "description": "Smart-grid software company co-founded by Grossen, developing solutions for intelligent buildings and electricity control.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen", "https://smartenergylink.ch/de/uber-uns/"]
+  },
+  {
+    "id": "4",
+    "organization": "Netto-Null.swiss AG",
+    "role": "Board member / associated company",
+    "type": "Company (climate / net-zero consulting)",
+    "period": "current (per register of interests)",
+    "description": "Company focused on supporting the achievement of net-zero climate goals; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "5",
+    "organization": "Licht- und Wasserwerk Adelboden AG",
+    "role": "Mandate (per register of interests)",
+    "type": "Company (energy / utility)",
+    "period": "current (per register of interests)",
+    "description": "Local electricity and water utility in Adelboden listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "6",
+    "organization": "Swiss eMobility",
+    "role": "President",
+    "type": "Industry association (electromobility)",
+    "period": "since 2017",
+    "description": "National industry/promotion association for electromobility; Grossen serves as its president.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen", "https://swiss-emobility.ch/de/news/aktuell/meldungen/44-Drei-Fragen-an-Juerg-Grossen.php"]
+  },
+  {
+    "id": "7",
+    "organization": "Swissolar - Schweizerischer Fachverband für Sonnenenergie",
+    "role": "President",
+    "type": "Industry association (solar energy)",
+    "period": "since May 2021",
+    "description": "Swiss professional association for solar energy; Grossen has been its president since the end of May 2021.",
+    "source_url": ["https://www.swissolar.ch/de/news/detail/juerg-grossen-ist-neuer-swissolar-praesident-gabriela-suter-ist-neue-vizepraesidentin-44689", "https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "8",
+    "organization": "SmartGridready",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Industry association / standards initiative (smart grid)",
+    "period": "current (per register of interests)",
+    "description": "Association promoting smart-grid-ready standards; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "9",
+    "organization": "Bauen digital Schweiz",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (digital construction)",
+    "period": "current (per register of interests)",
+    "description": "Association promoting digitalisation in the construction sector; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "10",
+    "organization": "LITRA - Informationsdienst für den öffentlichen Verkehr",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (public transport policy)",
+    "period": "current (per register of interests)",
+    "description": "Information service / lobby for public transport; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "11",
+    "organization": "Swiss Data Alliance",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (digital / data policy)",
+    "period": "current (per register of interests)",
+    "description": "Association on digital and data policy; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "12",
+    "organization": "Swiss Family Business",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (family businesses)",
+    "period": "current (per register of interests)",
+    "description": "Association representing Swiss family-owned businesses; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "13",
+    "organization": "BEBike",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association / initiative (cycling, canton of Bern)",
+    "period": "current (per register of interests)",
+    "description": "Cycling-related organisation listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "14",
+    "organization": "Verein zur Förderung der sportlichen Betätigung",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (sport promotion)",
+    "period": "current (per register of interests)",
+    "description": "Association promoting physical/sporting activity; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "15",
+    "organization": "Verein Interessengemeinschaft IG Grimseltunnel",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (infrastructure interest group)",
+    "period": "current (per register of interests)",
+    "description": "Interest group associated with the Grimsel tunnel project; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "16",
+    "organization": "Pro Alps",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (Alpine region)",
+    "period": "current (per register of interests)",
+    "description": "Association concerning the Alpine region; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "17",
+    "organization": "Jugendsession",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (youth participation)",
+    "period": "current (per register of interests)",
+    "description": "Swiss Youth Session; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "18",
+    "organization": "Swiss Chamber Music Festival",
+    "role": "Mandate / association tie (per register of interests)",
+    "type": "Association (culture)",
+    "period": "current (per register of interests)",
+    "description": "Cultural / music festival organisation listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "19",
+    "organization": "Grünliberale Partei Schweiz (GLP)",
+    "role": "President",
+    "type": "Political party",
+    "period": "since 2017",
+    "description": "Grossen's party-presidency role, also recorded among his declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "20",
+    "organization": "Prix Watt d'Or",
+    "role": "Tie recorded in interest register",
+    "type": "Award / energy initiative",
+    "period": "current (per register of interests)",
+    "description": "Swiss energy award; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "21",
+    "organization": "Parliamentary group Energieversorgung (energy supply)",
+    "role": "Member",
+    "type": "Parliamentary intergroup",
+    "period": "current",
+    "description": "Parliamentary intergroup on energy supply; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "22",
+    "organization": "Parliamentary group Elektromobilität (electromobility)",
+    "role": "Member",
+    "type": "Parliamentary intergroup",
+    "period": "current",
+    "description": "Parliamentary intergroup on electromobility; listed among Grossen's declared interest bindings.",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  }
+]

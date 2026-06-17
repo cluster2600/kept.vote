@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "99% Initiative (popular initiative for the taxation of capital income)",
+    "description": "Popular initiative launched by the JUSO to tax capital income above a threshold at 150%, redirecting revenue to low and middle incomes. As SP co-president, Wermuth was a leading supporter; the SP contributed about CHF 60,000 to the campaign.",
+    "date": "2021-09-26",
+    "role": "Leading supporter / campaigner (SP co-president)",
+    "status": "Rejected at the ballot (about 64.9% no)",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth", "https://www.20min.ch/story/scheitert-die-juso-mit-ihrer-99-prozent-initiative-385450288550"]
+  },
+  {
+    "id": "2",
+    "title": "Responsible Business Initiative (Konzernverantwortungsinitiative)",
+    "description": "Popular initiative requiring Swiss-based companies to be held liable for human-rights and environmental violations abroad. Supported by the SP; Wermuth was a public advocate in debates.",
+    "date": "2020-11-29",
+    "role": "Supporter / campaigner",
+    "status": "Gained a majority of voters but failed for lack of a majority of cantons",
+    "source_url": ["https://www.sp-ps.ch/artikel/category/kampagne/konzernverantwortungsinitiative/", "https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  },
+  {
+    "id": "3",
+    "title": "Referendum against the abolition of the issuance stamp duty (Stempelsteuer reform)",
+    "description": "The SP under Wermuth co-led a referendum against a corporate tax relief abolishing the issuance stamp duty.",
+    "date": "2022-02-13",
+    "role": "Referendum co-leader (SP co-president)",
+    "status": "Referendum successful; the reform was rejected by voters",
+    "source_url": ["https://www.tagesanzeiger.ch/sp-ergreift-referendum-gegen-steuer-erleichterung-205800410605"]
+  },
+  {
+    "id": "4",
+    "title": "COVID-19 Act (federal law)",
+    "description": "Wermuth voted in favour of the COVID-19 Act, advocating vaccination as the key measure to end the pandemic while expressing personal reservations about COVID certificates.",
+    "date": "2021",
+    "role": "Supporting National Councillor",
+    "status": "Adopted (and confirmed in popular votes)",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  }
+]

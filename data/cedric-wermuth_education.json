@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "institution": "University of Zurich",
+    "degree": "Licentiate / Master of Arts (lic. phil. / MA)",
+    "field": "Political science, history, economics and philosophy",
+    "start_date": "",
+    "end_date": "",
+    "description": "Studied political science, history, economics and philosophy; holds a Licentiate/Master of Arts degree.",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth", "https://www.parlament.ch/de/biografie/c%C3%A9dric-wermuth/4057"]
+  },
+  {
+    "id": "2",
+    "institution": "Kantonsschule Wohlen (Gymnasium)",
+    "degree": "Matura (secondary school diploma)",
+    "field": "",
+    "start_date": "",
+    "end_date": "",
+    "description": "Graduated from high school in Wohlen, canton of Aargau.",
+    "source_url": ["https://en.wikipedia.org/wiki/C%C3%A9dric_Wermuth"]
+  }
+]

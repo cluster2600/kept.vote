@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "'Climate warming is not bad for farmers' / 'witch hunt' remarks",
+    "description": "In an interview with NZZ am Sonntag shortly before his election as SVP president, Dettling said global warming was 'not bad' for farmers and called blaming humans for climate change 'a new form of witch hunt'. The statements drew sharp criticism, with scientists and political opponents contesting them and questioning his suitability for the post.",
+    "date": "2024-02",
+    "category": "Controversial statement / climate",
+    "source_url": ["https://www.nzz.ch/schweiz/neuer-svp-praesident-marcel-dettling-im-interview-ueber-den-klimawandel-und-europa-ld.1814592", "https://www.tagesanzeiger.ch/bald-svp-chef-marcel-dettling-klimaerwaermung-nicht-schlecht-734041980509", "https://www.srf.ch/news/schweiz/marcel-dettling-und-das-klima-experte-widerspricht-klimaaussagen-des-kuenftigen-svp-praesidenten"]
+  },
+  {
+    "id": "2",
+    "title": "Accusation of administrative 'abuse' during the 10-million campaign",
+    "description": "During the campaign on the SVP's '10-million Switzerland' initiative, Dettling accused the federal administration of 'total abuse', after an internal protocol from the migration secretariat surfaced, arguing that civil servants should not engage in campaign activity. The episode was reported in the press.",
+    "date": "2025",
+    "category": "Political dispute / institutions",
+    "source_url": ["https://www.blick.ch/politik/familie-und-freunde-aufklaeren-jans-beamtin-ruft-zum-anti-svp-kampf-auf-id22005234.html"]
+  },
+  {
+    "id": "3",
+    "title": "'Cities overrun rural regions' framing after referendum defeat",
+    "description": "After voters rejected the '10-million Switzerland' initiative, Dettling said 'Switzerland has nothing to celebrate today' and criticised cities for dominating opinion formation and 'erasing' rural Switzerland, drawing commentary about urban-rural polarisation.",
+    "date": "2025",
+    "category": "Controversial framing / urban-rural divide",
+    "source_url": ["https://weltwoche.ch/daily/svp-praesident-dettling-staedte-ueberfahren-laendliche-regionen/", "https://www.swissinfo.ch/ger/schweizer-politik/resultat-abstimmung-keine-10-millionen-schweiz/91567054"]
+  }
+]

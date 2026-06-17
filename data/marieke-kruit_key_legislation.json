@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Expansion of the cycle-route network and cycling measures",
+    "description": "As transport director she oversaw cycling-infrastructure measures, including reportedly seven new cycle streets (Velostrassen), additional cycle lanes and routes, and about 660 new bicycle parking spaces at the main station. She stated the planned cycle-route network was about one-third built out.",
+    "date": "2021-2024",
+    "role": "Director for Civil Engineering, Transport and Urban Greenery (responsible directorate)",
+    "status": "ongoing / partially implemented",
+    "source_url": ["https://www.nau.ch/news/schweiz/pro-velo-kritik-an-eigener-stapi-kandidatin-66824020"]
+  },
+  {
+    "id": "2",
+    "title": "Traffic-calming of the street network",
+    "description": "Under her directorate, traffic-calmed zones grew to over 60 percent of Bern's street network.",
+    "date": "2021-2024",
+    "role": "Director for Civil Engineering, Transport and Urban Greenery",
+    "status": "implemented / ongoing",
+    "source_url": ["https://www.nau.ch/news/schweiz/pro-velo-kritik-an-eigener-stapi-kandidatin-66824020"]
+  },
+  {
+    "id": "3",
+    "title": "Redesign of public squares (e.g. Breitenrainplatz)",
+    "description": "Urban-greening and public-space projects under her directorate, such as the redesigned Breitenrainplatz with seating, fountains and trees, intended as a model for heat-resilient public space.",
+    "date": "2021-2024",
+    "role": "Director for Civil Engineering, Transport and Urban Greenery",
+    "status": "implemented",
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "4",
+    "title": "Coloured-bag / container recycling scheme (Farbsack und Containerpflicht)",
+    "description": "Recycling scheme handled by her directorate; she publicly acknowledged that progress on the coloured-bag waste-separation system and the associated container requirement had fallen short of the directorate's own expectations.",
+    "date": "2021-2024",
+    "role": "Director for Civil Engineering, Transport and Urban Greenery",
+    "status": "delayed / behind schedule",
+    "source_url": ["https://journal-b.ch/artikel/wir-brauchen-noch-staerker-den-blick-fuer-das-grosse-ganze/"]
+  },
+  {
+    "id": "5",
+    "title": "Releasing Bernmobil from the obligation to buy electricity from EWB",
+    "description": "The city executive relaxed Bernmobil's obligation to purchase electricity exclusively from Energie Wasser Bern, freeing the municipal transport operator to procure electricity on more favourable terms; reporting noted this also removed a potential conflict of interest for Kruit as a Bernmobil board member.",
+    "date": "",
+    "role": "Member of the city executive",
+    "status": "implemented",
+    "source_url": ["https://www.derbund.ch/berner-stadtregierung-loest-bernmobil-die-fesseln-740531395705"]
+  }
+]

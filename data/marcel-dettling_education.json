@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "institution": "Primary school, Oberiberg",
+    "degree": "",
+    "field": "",
+    "start_date": "",
+    "end_date": "",
+    "description": "Attended six years of primary school in Oberiberg (per press portrait).",
+    "source_url": ["https://www.svp.ch/menschen/portrait/marcel-dettling/"]
+  },
+  {
+    "id": "2",
+    "institution": "Secondary school, Unteriberg",
+    "degree": "",
+    "field": "",
+    "start_date": "",
+    "end_date": "",
+    "description": "Attended three years of secondary school in Unteriberg (per press portrait). He trained and works as a farmer (Landwirt); no further formal degree is documented in available sources.",
+    "source_url": ["https://www.svp.ch/menschen/portrait/marcel-dettling/"]
+  }
+]

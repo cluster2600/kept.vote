@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "role": "Farmer (Landwirt)",
+    "organization": "Family mountain farm, Oberiberg (Schwyz)",
+    "start_date": "",
+    "end_date": "",
+    "description": "Operates a mountain farm in Oberiberg, canton Schwyz, with his family; farming is his stated profession.",
+    "source_url": ["https://www.svp.ch/menschen/portrait/marcel-dettling/", "https://marcel-dettling.ch/ueber-mich/"]
+  },
+  {
+    "id": "2",
+    "role": "Member of the Cantonal Council (Kantonsrat)",
+    "organization": "Canton of Schwyz",
+    "start_date": "2008",
+    "end_date": "2016",
+    "description": "Served as a member of the cantonal council (cantonal parliament) of Schwyz.",
+    "source_url": ["https://en.wikipedia.org/wiki/Marcel_Dettling", "https://marcel-dettling.ch/ueber-mich/"]
+  },
+  {
+    "id": "3",
+    "role": "Member of the National Council (Nationalrat)",
+    "organization": "Swiss Parliament, for canton Schwyz",
+    "start_date": "2015-11-30",
+    "end_date": "",
+    "description": "Elected to the National Council in 2015 (taking office 30 November 2015) and re-elected in 2019 and 2023. Member of the Committee for the Environment, Spatial Planning and Energy (UREK-N).",
+    "source_url": ["https://www.parlament.ch/de/biografie/marcel-dettling/4160", "https://daten.lobbywatch.ch/de/parlamentarier/277/Marcel%20Dettling"]
+  },
+  {
+    "id": "4",
+    "role": "Member of the party leadership committee (Parteileitungsausschuss)",
+    "organization": "Swiss People's Party (SVP Switzerland)",
+    "start_date": "2018",
+    "end_date": "",
+    "description": "Member of the SVP Switzerland party leadership committee from 2018.",
+    "source_url": ["https://marcel-dettling.ch/ueber-mich/"]
+  },
+  {
+    "id": "5",
+    "role": "Vice-President",
+    "organization": "Swiss People's Party (SVP Switzerland)",
+    "start_date": "2022",
+    "end_date": "2024",
+    "description": "Served as vice-president of the SVP Switzerland before being elected party president.",
+    "source_url": ["https://marcel-dettling.ch/ueber-mich/", "https://en.wikipedia.org/wiki/Marcel_Dettling"]
+  },
+  {
+    "id": "6",
+    "role": "President",
+    "organization": "Swiss People's Party (SVP Switzerland)",
+    "start_date": "2024-03-23",
+    "end_date": "",
+    "description": "Elected president of the SVP Switzerland on 23 March 2024 at the delegates' assembly in Langenthal, succeeding Marco Chiesa.",
+    "source_url": ["https://www.svp.ch/aktuell/publikationen/medienmitteilungen/einstimmig-gewaehlt-marcel-dettling-ist-neuer-praesident-der-svp-schweiz/", "https://www.swissinfo.ch/ger/marcel-dettling-ist-neuer-pr%C3%A4sident-der-svp-schweiz/74169820"]
+  }
+]

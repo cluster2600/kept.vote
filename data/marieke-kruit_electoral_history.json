@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "election": "Stadtratswahlen Bern 2012 (Bern city parliament election)",
+    "office": "Mitglied des Stadtrats (member of city parliament)",
+    "date": "2012-11-25",
+    "result": "Elected",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "2",
+    "election": "Stadtratswahlen Bern 2016 (Bern city parliament election)",
+    "office": "Mitglied des Stadtrats (member of city parliament)",
+    "date": "2016",
+    "result": "Re-elected",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "3",
+    "election": "Gemeinderatswahlen Bern 2020 (Bern city executive election)",
+    "office": "Gemeinderätin (member of city executive)",
+    "date": "2020-11-29",
+    "result": "Elected; second-best result on the list, succeeding Ursula Wyss",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "4",
+    "election": "Gemeinderatswahlen Bern 2024 (Bern city executive election)",
+    "office": "Gemeinderätin (member of city executive)",
+    "date": "2024-11-24",
+    "result": "Re-elected; Red-Green-Centre (RGM) retained its 4:1 majority in the executive",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://www.srf.ch/news/schweiz/abstimmungen-24-november-2024/wahlen-stadt-bern-rot-gruen-verteidigt-vier-sitze-in-berner-stadtregierung", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "5",
+    "election": "Stadtpräsidiumswahl Bern 2024, first round (mayoral election)",
+    "office": "Stadtpräsidentin (mayor)",
+    "date": "2024-11-24",
+    "result": "Best-placed candidate but missed the absolute majority; reported around 46.5 percent of the vote",
+    "votes": "approx. 19,912 (vs. incumbent Alec von Graffenried approx. 11,284)",
+    "party": "SP",
+    "source_url": ["https://www.srf.ch/news/schweiz/abstimmungen-24-november-2024/historische-wahl-erste-berner-stadtpraesidentin-ich-bin-uebergluecklich", "https://www.bern.ch/themen/stadt-recht-und-politik/abstimmungen-und-wahlen/wahlen/gemeindewahlen-2024/wahlresultate"]
+  },
+  {
+    "id": "6",
+    "election": "Stadtpräsidiumswahl Bern 2024, second round (mayoral election)",
+    "office": "Stadtpräsidentin (mayor)",
+    "date": "2024-11",
+    "result": "Elected unopposed (stille Wahl) after Alec von Graffenried and all other executive members withdrew; became Bern's first female mayor",
+    "votes": "",
+    "party": "SP",
+    "source_url": ["https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/marieke-kruit-wird-definitiv-stadtpraesidentin-von-bern", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  }
+]

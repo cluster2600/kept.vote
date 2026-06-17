@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Popular initiative 'No 10-million Switzerland!' (Sustainability Initiative)",
+    "description": "SVP popular initiative seeking to limit the permanent resident population (with intermediate thresholds and the prospect of ending the EU free-movement agreement if exceeded). As party president, Dettling was a leading public campaigner for the initiative.",
+    "date": "2025",
+    "role": "Lead campaigner as SVP president",
+    "status": "Rejected by voters (reported 54.8% no)",
+    "source_url": ["https://www.tagesanzeiger.ch/svp-chef-marcel-dettling-im-interview-zur-10-millionen-initiative-874981851983", "https://www.swissinfo.ch/ger/schweizer-politik/resultat-abstimmung-keine-10-millionen-schweiz/91567054"]
+  },
+  {
+    "id": "2",
+    "title": "Electricity framework act ('Strom-Mantelerlass') referendum position",
+    "description": "Under Dettling's presidency, the SVP delegates' assembly that elected him also adopted a 'No' position on the federal electricity supply framework act (Mantelerlass).",
+    "date": "2024-03-23",
+    "role": "SVP president at the deciding delegates' assembly",
+    "status": "SVP recommended a No; the act was approved by voters in the June 2024 referendum",
+    "source_url": ["https://www.srf.ch/news/schweiz/delegiertenversammlung-der-svp-dettling-ist-neuer-svp-praesident-nein-zum-strom-mantelerlass"]
+  }
+]

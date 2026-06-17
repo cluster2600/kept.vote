@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "institution": "Kaufmännische Lehre (commercial apprenticeship)",
+    "degree": "Kaufmännische Lehre (commercial vocational training)",
+    "field": "Commerce / business administration",
+    "start_date": "",
+    "end_date": "",
+    "description": "Completed a commercial apprenticeship before working as a journalist.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "2",
+    "institution": "Berufsmaturitätsschule (vocational baccalaureate school)",
+    "degree": "Berufsmatur (vocational baccalaureate)",
+    "field": "",
+    "start_date": "",
+    "end_date": "",
+    "description": "Obtained the vocational baccalaureate (Berufsmatur), enabling university study.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "3",
+    "institution": "Universität Bern (University of Bern)",
+    "degree": "lic. phil. (licentiate in philosophy)",
+    "field": "Psychology",
+    "start_date": "",
+    "end_date": "",
+    "description": "Studied psychology at the University of Bern and subsequently trained as a psychotherapist.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit", "https://www.bern.ch/politik-und-verwaltung/gemeinderat/mitglieder-des-gemeinderats-der-stadt-bern/marieke-kruit"]
+  }
+]

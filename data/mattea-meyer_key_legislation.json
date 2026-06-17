@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Popular initiative for a 13th AHV pension (Initiative fuer eine 13. AHV-Rente)",
+    "description": "Trade-union and SP-backed popular initiative introducing a 13th monthly old-age pension. As SP co-president, Meyer was a leading campaigner. Approved by 58.2 percent of voters and a majority of cantons, the first time a union initiative expanding social benefits was accepted. Meyer reacted: 'We did it!'",
+    "date": "2024-03-03",
+    "role": "Leading campaigner (SP co-president)",
+    "status": "Accepted in popular vote",
+    "source_url": [
+      "https://www.srf.ch/news/schweiz/abstimmungen-3-maerz-2024/initiative-fuer-13-ahv-rente/abstimmung-vom-3-maerz-2024-58-2-prozent-sagen-ja-zur-13-ahv-rente",
+      "https://spglarus.ch/2024/03/04/mattea-meyer-wir-haben-es-geschafft/"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Premium Relief Initiative (Praemien-Entlastungs-Initiative)",
+    "description": "SP popular initiative to cap health-insurance premiums at 10 percent of disposable income, with additional costs borne by federal and cantonal governments. Meyer was a prominent public advocate, appearing in televised debates. The initiative was rejected by voters on 9 June 2024.",
+    "date": "2024-06-09",
+    "role": "Leading campaigner (SP co-president); proponent in public debates",
+    "status": "Rejected in popular vote",
+    "source_url": [
+      "https://www.sp-ps.ch/artikel/praemienwahnsinn-stoppen-ja-zur-praemien-entlastungs-initiative-am-9-juni/",
+      "https://www.admin.ch/gov/en/start/documentation/votes/20240609/premium-relief-initiative.html"
+    ]
+  }
+]

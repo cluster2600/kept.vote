@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "area": "Immigration and population growth",
+    "description": "A central political priority. As SVP president he fronted the party's 'No 10-million Switzerland' (sustainability) initiative seeking to cap the resident population, citing concerns over loss of farmland, housing shortages, crowded transport and schools.",
+    "source_url": ["https://www.tagesanzeiger.ch/svp-chef-marcel-dettling-im-interview-zur-10-millionen-initiative-874981851983", "https://www.20min.ch/story/marcel-dettling-warnt-vor-10-millionen-schweiz-103563340"]
+  },
+  {
+    "id": "2",
+    "area": "Relations with the European Union",
+    "description": "Opposes closer institutional ties with the EU and the free movement of persons; the 10-million initiative envisaged ending the free-movement agreement if thresholds were exceeded.",
+    "source_url": ["https://en.wikipedia.org/wiki/Marcel_Dettling", "https://www.nzz.ch/schweiz/neuer-svp-praesident-marcel-dettling-im-interview-ueber-den-klimawandel-und-europa-ld.1814592"]
+  },
+  {
+    "id": "3",
+    "area": "Agriculture and livestock farming",
+    "description": "A farmer by profession, he is active in numerous agricultural and livestock organisations (Schwyz farmers' association, Central Switzerland farmers' union, calf-fatteners, cattle producers, dairy cooperative) and represents agricultural interests in parliament.",
+    "source_url": ["https://marcel-dettling.ch/ueber-mich/", "https://daten.lobbywatch.ch/de/parlamentarier/277/Marcel%20Dettling"]
+  },
+  {
+    "id": "4",
+    "area": "Energy and environment policy",
+    "description": "Member of the National Council Committee for the Environment, Spatial Planning and Energy (UREK-N). The SVP under his leadership opposed the electricity 'Mantelerlass' (framework act).",
+    "source_url": ["https://daten.lobbywatch.ch/de/parlamentarier/277/Marcel%20Dettling", "https://www.srf.ch/news/schweiz/delegiertenversammlung-der-svp-dettling-ist-neuer-svp-praesident-nein-zum-strom-mantelerlass"]
+  },
+  {
+    "id": "5",
+    "area": "Rural vs urban Switzerland",
+    "description": "Frequently frames politics as a contest between rural regions and cities, arguing that cities 'overrun' rural Switzerland in opinion formation.",
+    "source_url": ["https://weltwoche.ch/daily/svp-praesident-dettling-staedte-ueberfahren-laendliche-regionen/", "https://www.swissinfo.ch/ger/schweizer-politik/resultat-abstimmung-keine-10-millionen-schweiz/91567054"]
+  }
+]

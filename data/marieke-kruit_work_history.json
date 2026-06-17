@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "role": "Radio and television journalist",
+    "organization": "Various Swiss broadcasters",
+    "start_date": "",
+    "end_date": "",
+    "description": "Worked as a radio and television journalist after completing a commercial apprenticeship, before studying psychology.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "2",
+    "role": "Leiterin Tagesklinik (Head of day clinic)",
+    "organization": "Psychiatrische Dienste Thun (Psychiatric Services Thun)",
+    "start_date": "2011",
+    "end_date": "2016",
+    "description": "Headed the day clinic of the Psychiatric Services Thun.",
+    "source_url": ["https://www.bern.ch/politik-und-verwaltung/gemeinderat/mitglieder-des-gemeinderats-der-stadt-bern/marieke-kruit", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "3",
+    "role": "Co-Bereichsleiterin der psychiatrischen Ambulatorien (Co-head of psychiatric outpatient clinics)",
+    "organization": "Spital Region Oberaargau (SRO)",
+    "start_date": "2015",
+    "end_date": "2020",
+    "description": "Co-led the four psychiatric outpatient clinics of the Spital Region Oberaargau from December 2015 until her election to the city executive.",
+    "source_url": ["https://www.bern.ch/politik-und-verwaltung/gemeinderat/mitglieder-des-gemeinderats-der-stadt-bern/marieke-kruit", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "4",
+    "role": "Mitglied des Stadtrats (Member of city parliament)",
+    "organization": "Stadtrat der Stadt Bern",
+    "start_date": "2013",
+    "end_date": "2020",
+    "description": "Member of the Bern city parliament (legislative) for the SP, first elected in November 2012 and re-elected in 2016.",
+    "source_url": ["https://www.bern.ch/politik-und-verwaltung/gemeinderat/mitglieder-des-gemeinderats-der-stadt-bern/marieke-kruit", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "5",
+    "role": "Gemeinderätin / Direktorin für Tiefbau, Verkehr und Stadtgrün (City executive member / Director for Civil Engineering, Transport and Urban Greenery)",
+    "organization": "Gemeinderat der Stadt Bern",
+    "start_date": "2021-01-01",
+    "end_date": "2024-12-31",
+    "description": "Member of the Bern city executive heading the Department for Civil Engineering, Transport and Urban Greenery (TVS).",
+    "source_url": ["https://www.bern.ch/politik-und-verwaltung/gemeinderat/mitglieder-des-gemeinderats-der-stadt-bern/marieke-kruit", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "6",
+    "role": "Stadtpräsidentin (Mayor) / head of Präsidialdirektion",
+    "organization": "Stadt Bern",
+    "start_date": "2025-01-01",
+    "end_date": "",
+    "description": "First female mayor of Bern, heading the Präsidialdirektion. Took office on 1 January 2025 after being elected unopposed in the second round of the November 2024 election.",
+    "source_url": ["https://www.bern.ch/politik-und-verwaltung/gemeinderat/mitglieder-des-gemeinderats-der-stadt-bern/marieke-kruit", "https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  },
+  {
+    "id": "7",
+    "role": "Präsidentin (President)",
+    "organization": "Mieterinnen- und Mieterverband Kanton Bern (Tenants' Association of the Canton of Bern)",
+    "start_date": "",
+    "end_date": "",
+    "description": "Served as president of the cantonal tenants' association in Bern.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  }
+]

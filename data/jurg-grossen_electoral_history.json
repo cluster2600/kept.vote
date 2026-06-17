@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "election": "2011 Swiss federal election",
+    "office": "National Council (Nationalrat), canton of Bern",
+    "date": "2011-10-23",
+    "result": "Elected (first election to the National Council; took office 5 December 2011). The GLP rose to a 5.4% national vote share and 12 seats.",
+    "votes": "",
+    "party": "Green Liberal Party (GLP)",
+    "source_url": ["https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen", "https://www.parlament.ch/de/biografie/j%C3%BCrg-grossen/4083"]
+  },
+  {
+    "id": "2",
+    "election": "2015 Swiss federal election",
+    "office": "National Council (Nationalrat), canton of Bern",
+    "date": "2015-10-18",
+    "result": "Re-elected.",
+    "votes": "",
+    "party": "Green Liberal Party (GLP)",
+    "source_url": ["https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen"]
+  },
+  {
+    "id": "3",
+    "election": "GLP party presidency 2017",
+    "office": "President of the Green Liberal Party of Switzerland",
+    "date": "2017-08-26",
+    "result": "Elected to succeed Martin Bäumle as national GLP president.",
+    "votes": "",
+    "party": "Green Liberal Party (GLP)",
+    "source_url": ["https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen", "https://grunliberale.ch/personen/juerg-grossen/"]
+  },
+  {
+    "id": "4",
+    "election": "2019 Swiss federal election",
+    "office": "National Council (Nationalrat), canton of Bern",
+    "date": "2019-10-20",
+    "result": "Re-elected. The GLP rose to a 7.8% national vote share and 16 seats nationwide.",
+    "votes": "",
+    "party": "Green Liberal Party (GLP)",
+    "source_url": ["https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen"]
+  },
+  {
+    "id": "5",
+    "election": "2023 Swiss federal election",
+    "office": "National Council (Nationalrat), canton of Bern",
+    "date": "2023-10-22",
+    "result": "Re-elected to the National Council; the GLP held 3 seats in Bern (Grossen, Katrin Bertschy, Melanie Mettler).",
+    "votes": "",
+    "party": "Green Liberal Party (GLP)",
+    "source_url": ["https://www.derbund.ch/eidgenoessische-wahlen-2023-das-sind-die-berner-nationalraetinnen-und-nationalraete-894288738764"]
+  },
+  {
+    "id": "6",
+    "election": "2023 Council of States election, canton of Bern",
+    "office": "Council of States (Ständerat), canton of Bern",
+    "date": "2023-10-22",
+    "result": "Not elected. As a GLP candidate Grossen finished outside the top ranks (reported around 5th place) and did not win a seat in the upper chamber.",
+    "votes": "Approx. 72,860 votes (first round, as reported by press)",
+    "party": "Green Liberal Party (GLP)",
+    "source_url": ["https://www.srf.ch/news/schweiz/wahlen-2023/staenderatswahlen-2023-viele-bisherige-noch-im-amt-aber-auch-ueberraschende-neuzugaenge", "https://www.derbund.ch/nationale-wahlen-2023-staenderat-nationalrat-kanton-bern-live-ticker-186702129978"]
+  }
+]

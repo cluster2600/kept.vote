@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "role": "President",
+    "organization": "Die Mitte (The Centre), national party",
+    "start_date": "2025-06-28",
+    "end_date": "",
+    "description": "Elected national president of Die Mitte by the party delegates in Bern on 28 June 2025, succeeding Gerhard Pfister. Stated he would continue the party's established course with a focus on continuity and stability.",
+    "source_url": [
+      "https://die-mitte.ch/philipp-matthias-bregy-ist-neuer-praesident-der-mitte-schweiz/",
+      "https://en.wikipedia.org/wiki/Philipp_Matthias_Bregy"
+    ]
+  },
+  {
+    "id": "2",
+    "role": "President of the parliamentary group (Fraktionspräsident)",
+    "organization": "Die Mitte parliamentary group, Federal Assembly",
+    "start_date": "2021-05-21",
+    "end_date": "",
+    "description": "Elected leader of The Centre's parliamentary group in the Federal Assembly, succeeding Andrea Gmuer-Schoenenberger.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Philipp_Matthias_Bregy",
+      "https://www.nzz.ch/schweiz/bregy-ist-bereit-nach-nur-zwei-jahren-uebernimmt-er-den-wohl-schwierigsten-und-einflussreichsten-posten-im-bundeshaus-ld.1625178"
+    ]
+  },
+  {
+    "id": "3",
+    "role": "Member of the National Council (Nationalrat) for canton Valais",
+    "organization": "Federal Assembly of Switzerland",
+    "start_date": "2019-03-04",
+    "end_date": "",
+    "description": "Took the National Council seat vacated by Viola Amherd after her election to the Federal Council; sworn in on 4 March 2019. Sits on the Committee for Legal Affairs (RK-N) and the Committee for Economic Affairs and Taxation (WAK-N). Re-elected in 2019 and 2023.",
+    "source_url": [
+      "https://www.parlament.ch/de/biografie/philipp-matthias-bregy/4230",
+      "https://daten.lobbywatch.ch/de/parlamentarier/340/Philipp%20Matthias%20Bregy",
+      "https://www.srf.ch/news/amherd-nachfolge-neu-nationalrat-bregy-ich-bin-ein-sehr-emotionaler-mensch"
+    ]
+  },
+  {
+    "id": "4",
+    "role": "Lawyer and notary, partner",
+    "organization": "Rieder.Pfammatter.Bregy Advokatur und Notariat",
+    "start_date": "",
+    "end_date": "",
+    "description": "Practising lawyer and notary, partner at the law firm Rieder.Pfammatter.Bregy in the Upper Valais.",
+    "source_url": [
+      "https://daten.lobbywatch.ch/de/parlamentarier/340/Philipp%20Matthias%20Bregy",
+      "https://en.wikipedia.org/wiki/Philipp_Matthias_Bregy"
+    ]
+  },
+  {
+    "id": "5",
+    "role": "Member of the municipal council (Gemeinderat) of Naters",
+    "organization": "Municipality of Naters, Valais",
+    "start_date": "2013",
+    "end_date": "2019",
+    "description": "Served on the municipal council of Naters from 2013 until his election to the National Council in 2019.",
+    "source_url": [
+      "https://die-mitte.ch/philipp-matthias-bregy-ist-neuer-praesident-der-mitte-schweiz/"
+    ]
+  },
+  {
+    "id": "6",
+    "role": "Member of the cantonal parliament (Grossrat), incl. CVP Oberwallis group leader",
+    "organization": "Grand Council of the canton of Valais",
+    "start_date": "2009",
+    "end_date": "2018",
+    "description": "Member of the Valais cantonal parliament from 2009 to 2018; served four years as parliamentary group leader (Fraktionschef) of the CVP Oberwallis.",
+    "source_url": [
+      "https://die-mitte.ch/philipp-matthias-bregy-ist-neuer-praesident-der-mitte-schweiz/"
+    ]
+  }
+]

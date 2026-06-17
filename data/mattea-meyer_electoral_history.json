@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "election": "2010 Winterthur municipal council (by succession)",
+    "office": "Member of the municipal council (Gemeinderat) of Winterthur",
+    "date": "2010",
+    "result": "Took up seat (moved up / nachgerueckt)",
+    "votes": "",
+    "party": "SP",
+    "source_url": [
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf",
+      "https://www.winterthur-glossar.ch/mattea-meyer"
+    ]
+  },
+  {
+    "id": "2",
+    "election": "2011 cantonal elections, canton Zurich",
+    "office": "Member of the Cantonal Council (Kantonsrat) of Zurich",
+    "date": "2011",
+    "result": "Elected (served 2011-2015); reported as the youngest member of the cantonal council",
+    "votes": "",
+    "party": "SP",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mattea_Meyer",
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf"
+    ]
+  },
+  {
+    "id": "3",
+    "election": "2015 Swiss federal election (National Council), canton Zurich",
+    "office": "Member of the National Council",
+    "date": "2015-10-18",
+    "result": "Elected; took office 30 November 2015",
+    "votes": "",
+    "party": "SP",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mattea_Meyer",
+      "https://www.parlament.ch/de/biografie/mattea-meyer/4198"
+    ]
+  },
+  {
+    "id": "4",
+    "election": "2019 Swiss federal election (National Council), canton Zurich",
+    "office": "Member of the National Council",
+    "date": "2019-10-20",
+    "result": "Re-elected",
+    "votes": "",
+    "party": "SP",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mattea_Meyer",
+      "https://www.nzz.ch/zuerich/nationalratswahlen-in-zuerich-die-auf-und-absteiger-ld.1516658"
+    ]
+  },
+  {
+    "id": "5",
+    "election": "2023 Swiss federal election (National Council), canton Zurich",
+    "office": "Member of the National Council",
+    "date": "2023-10-22",
+    "result": "Re-elected",
+    "votes": "",
+    "party": "SP",
+    "source_url": [
+      "https://app.statistik.zh.ch/wahlen_abstimmungen/prod/Actual/Det/0_0_20231022/247586",
+      "https://www.parlament.ch/de/biografie/mattea-meyer/4198"
+    ]
+  },
+  {
+    "id": "6",
+    "election": "2020 SP Switzerland party congress (presidency)",
+    "office": "Co-President of the SP Switzerland",
+    "date": "2020-10-17",
+    "result": "Elected (with Cedric Wermuth); the Meyer/Wermuth ticket received 538 of 561 valid votes, opponent Martin Schwab received 23",
+    "votes": "538",
+    "party": "SP",
+    "source_url": [
+      "https://www.srf.ch/news/schweiz/neues-sp-praesidium-sp-waehlt-mattea-meyer-und-cedric-wermuth-an-die-parteispitze",
+      "https://www.nzz.ch/schweiz/sp-praesidium-machtuebernahme-von-mattea-meyer-und-cedric-wermuth-ld.1581825"
+    ]
+  }
+]

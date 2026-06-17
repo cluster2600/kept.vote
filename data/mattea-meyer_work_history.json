@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "role": "Co-President",
+    "organization": "Social Democratic Party of Switzerland (SP/PS)",
+    "start_date": "2020-10-17",
+    "end_date": "",
+    "description": "Co-chairs the SP Switzerland together with Cedric Wermuth, elected by the party congress on 17 October 2020, succeeding Christian Levrat.",
+    "source_url": [
+      "https://www.srf.ch/news/schweiz/neues-sp-praesidium-sp-waehlt-mattea-meyer-und-cedric-wermuth-an-die-parteispitze",
+      "https://en.wikipedia.org/wiki/Mattea_Meyer"
+    ]
+  },
+  {
+    "id": "2",
+    "role": "Member of the National Council (Nationalrat)",
+    "organization": "Federal Assembly of Switzerland, canton Zurich",
+    "start_date": "2015-11-30",
+    "end_date": "",
+    "description": "National Councillor for the SP, canton of Zurich. Member of the Finance Commission (2015-2019), the Immunity Commission (president 2017-2019), and since December 2019 the Commission for Social Security and Health (SGK-N).",
+    "source_url": [
+      "https://www.parlament.ch/de/biografie/mattea-meyer/4198",
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf"
+    ]
+  },
+  {
+    "id": "3",
+    "role": "Personal assistant to National Councillors",
+    "organization": "Parliamentary office of NR Cedric Wermuth and NR Marina Carobbio",
+    "start_date": "2012",
+    "end_date": "2015",
+    "description": "Part-time personal staff member to National Councillors Wermuth and Carobbio.",
+    "source_url": [
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf"
+    ]
+  },
+  {
+    "id": "4",
+    "role": "Legal assistant (Anwaltsassistentin)",
+    "organization": "Law office (part-time)",
+    "start_date": "2007",
+    "end_date": "2012",
+    "description": "Worked part-time as a legal assistant.",
+    "source_url": [
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf"
+    ]
+  },
+  {
+    "id": "5",
+    "role": "Volunteer German teacher for asylum seekers",
+    "organization": "AOZ (Asyl-Organisation Zuerich)",
+    "start_date": "2016",
+    "end_date": "2017",
+    "description": "Volunteered once a week teaching German to asylum seekers.",
+    "source_url": [
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf"
+    ]
+  }
+]

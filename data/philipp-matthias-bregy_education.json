@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "institution": "University of Bern",
+    "degree": "Master of Laws (lic. iur. / Master)",
+    "field": "Law",
+    "start_date": "1998",
+    "end_date": "2004",
+    "description": "Studied law at the University of Bern from 1998 to 2004, graduating with a Master of Laws in 2004. Subsequently active as a lawyer and notary.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Philipp_Matthias_Bregy"
+    ]
+  },
+  {
+    "id": "2",
+    "institution": "Lycee-college Spiritus Sanctus, Brig",
+    "degree": "Matura (secondary school leaving certificate)",
+    "field": "General secondary education",
+    "start_date": "",
+    "end_date": "",
+    "description": "Completed his Matura at the Catholic Lycee-college Spiritus Sanctus in Brig; previously attended local schools in Naters between 1985 and 1993.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Philipp_Matthias_Bregy"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "area": "Energy and renewable energy policy",
+    "description": "Central political focus on the expansion of renewable electricity, especially solar power. As president of Swissolar and a member of the National Council's economic affairs committee, Grossen advocates accelerating the build-out of solar and other renewables.",
+    "source_url": ["https://www.swissolar.ch/de/news/detail/juerg-grossen-ist-neuer-swissolar-praesident-gabriela-suter-ist-neue-vizepraesidentin-44689", "https://www.tagesanzeiger.ch/glp-chef-juerg-grossen-im-interview-die-bevoelkerung-ist-bereit-etwas-mehr-fuer-gruenen-strom-zu-bezahlen-791709836096"]
+  },
+  {
+    "id": "2",
+    "area": "Electromobility",
+    "description": "Promotion of electric mobility, charging infrastructure and the removal of barriers to electric-vehicle adoption; president of the Swiss eMobility association and active in the parliamentary intergroup on electromobility.",
+    "source_url": ["https://swiss-emobility.ch/de/news/aktuell/meldungen/44-Drei-Fragen-an-Juerg-Grossen.php", "https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "3",
+    "area": "Climate policy and nuclear phase-out",
+    "description": "Advocates climate-protection measures and has argued that the expansion of renewables will diminish the importance of nuclear power; supporter of ending nuclear power in Switzerland.",
+    "source_url": ["https://www.nzz.ch/schweiz/juerg-grossen-mit-dem-ausbau-der-erneuerbaren-wird-die-kernkraft-an-bedeutung-verlieren-ld.1927433", "https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen"]
+  },
+  {
+    "id": "4",
+    "area": "Liberal economic policy and innovation",
+    "description": "Champions a liberal economic order aligned with environmental protection, emphasising competition, innovation and an open, connected Switzerland.",
+    "source_url": ["https://grunliberale.ch/personen/juerg-grossen/"]
+  },
+  {
+    "id": "5",
+    "area": "Smart buildings and digitalisation",
+    "description": "Interest in smart-grid technology, intelligent buildings and digitalisation of the construction sector, reflected in his company Smart Energy Link and ties to Bauen digital Schweiz and SmartGridready.",
+    "source_url": ["https://smartenergylink.ch/de/uber-uns/", "https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  },
+  {
+    "id": "6",
+    "area": "Marriage equality and social liberalism",
+    "description": "Supporter of marriage equality (\"Marriage for All\") and socially liberal positions.",
+    "source_url": ["https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen"]
+  }
+]

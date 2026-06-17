@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "organization": "Bernmobil (public transport company of the city of Bern)",
+    "role": "Verwaltungsrätin (board member)",
+    "type": "Municipal public-transport enterprise / board mandate ex officio",
+    "period": "as transport director (2021-2024)",
+    "description": "As director for civil engineering, transport and urban greenery she sat on the board of the municipal transport operator Bernmobil. Reporting noted a potential conflict of interest because Bernmobil was obliged to buy electricity from Energie Wasser Bern, which the city executive later relaxed.",
+    "source_url": ["https://www.derbund.ch/berner-stadtregierung-loest-bernmobil-die-fesseln-740531395705"]
+  },
+  {
+    "id": "2",
+    "organization": "ara region bern ag (regional wastewater treatment company)",
+    "role": "Verwaltungsrätin (board member)",
+    "type": "Public utility / board mandate",
+    "period": "listed in the 2023 annual report",
+    "description": "Listed as a member of the board of directors of ara region bern ag in connection with her municipal executive functions.",
+    "source_url": ["https://www.arabern.ch/fileadmin/Geschaeftsberichte/2023/Geschaeftsbericht-2023/"]
+  },
+  {
+    "id": "3",
+    "organization": "Mieterinnen- und Mieterverband Kanton Bern (Tenants' Association of the Canton of Bern)",
+    "role": "Präsidentin (president)",
+    "type": "Interest association",
+    "period": "",
+    "description": "Served as president of the cantonal tenants' association, a tenant-advocacy interest organisation.",
+    "source_url": ["https://de.wikipedia.org/wiki/Marieke_Kruit"]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Energy Act / Energy Strategy 2050 (Energiegesetz)",
+    "description": "As a GLP National Councillor and energy entrepreneur, Grossen has been a prominent advocate of the Swiss Energy Strategy 2050, supporting the expansion of renewable energy and the gradual phase-out of nuclear power.",
+    "date": "2017",
+    "role": "Supporter / advocate (National Councillor)",
+    "status": "Energy Act adopted in popular vote (2017)",
+    "source_url": ["https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen", "https://www.nzz.ch/schweiz/juerg-grossen-mit-dem-ausbau-der-erneuerbaren-wird-die-kernkraft-an-bedeutung-verlieren-ld.1927433"]
+  },
+  {
+    "id": "2",
+    "title": "CO2 Act revision (revised CO2 law, 2021 referendum)",
+    "description": "Grossen and the GLP supported the revised CO2 Act, which included measures on transport and buildings emissions. The law was rejected in the popular referendum of 13 June 2021.",
+    "date": "2021-06-13",
+    "role": "Supporter (party president / National Councillor)",
+    "status": "Rejected in popular referendum",
+    "source_url": ["https://www.bafu.admin.ch/bafu/de/home/themen/klima/dossiers/klimaschutz-und-co2-gesetz/gebaeude-und-mobilitaet.html", "https://en.wikipedia.org/wiki/J%C3%BCrg_Grossen"]
+  },
+  {
+    "id": "3",
+    "title": "Electricity Act / Mantelerlass (Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien)",
+    "description": "Grossen was a public face of the cross-party 'Yes' alliance for the federal electricity-supply law (the so-called Mantelerlass / Stromgesetz), framing it as a compromise between secure electricity supply and nature/landscape protection, with solar power as a central pillar of the planned expansion.",
+    "date": "2024-06-09",
+    "role": "Campaign supporter / spokesperson (party president, National Councillor)",
+    "status": "Accepted in popular referendum (9 June 2024)",
+    "source_url": ["https://www.srf.ch/news/schweiz/stromversorgungsgesetz/stromversorgungsgesetz-ueberparteiliche-allianz-fordert-mehr-schweizer-strom", "https://www.beobachter.ch/umwelt-klima/energie/darum-gehts-beim-stromgesetz-708930"]
+  },
+  {
+    "id": "4",
+    "title": "Electromobility and charging-infrastructure initiatives",
+    "description": "Grossen has tabled and championed parliamentary motions and interventions to promote electromobility, in particular the expansion of charging infrastructure and the removal of fiscal and regulatory barriers to electric vehicles, in his role as president of Swiss eMobility.",
+    "date": "",
+    "role": "Initiator / advocate (National Councillor)",
+    "status": "Ongoing parliamentary advocacy",
+    "source_url": ["https://swiss-emobility.ch/de/news/aktuell/meldungen/44-Drei-Fragen-an-Juerg-Grossen.php", "https://daten.lobbywatch.ch/de/parlamentarier/106/J%C3%BCrg%20Grossen"]
+  }
+]

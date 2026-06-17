@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "election": "Succession to the National Council seat of Viola Amherd",
+    "office": "Member of the National Council (Nationalrat), canton Valais",
+    "date": "2019-03-04",
+    "result": "Took office by succession",
+    "votes": "",
+    "party": "CVP (now Die Mitte)",
+    "source_url": [
+      "https://www.srf.ch/news/amherd-nachfolge-neu-nationalrat-bregy-ich-bin-ein-sehr-emotionaler-mensch",
+      "https://www.blick.ch/news/politik/mike-egger-26-und-philipp-matthias-bregy-40-diese-zwei-neuen-verjuengen-den-nationalrat-um-34-jahre-id15197710.html"
+    ]
+  },
+  {
+    "id": "2",
+    "election": "Swiss federal elections 2019",
+    "office": "Member of the National Council (Nationalrat), canton Valais",
+    "date": "2019-10-20",
+    "result": "Elected",
+    "votes": "",
+    "party": "CVP (now Die Mitte)",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Philipp_Matthias_Bregy"
+    ]
+  },
+  {
+    "id": "3",
+    "election": "Swiss federal elections 2023",
+    "office": "Member of the National Council (Nationalrat), canton Valais",
+    "date": "2023-10-22",
+    "result": "Re-elected",
+    "votes": "Approximately 28,872 votes (reported)",
+    "party": "Die Mitte",
+    "source_url": [
+      "https://www.1815.ch/news/wallis/aktuell/nationalratswahlen-im-ticker/",
+      "https://swissinfo.ch/ger/alle-news-in-kuerze/acht-bisherige-walliser-nationalraete-schaffen-wiederwahl/48915208"
+    ]
+  },
+  {
+    "id": "4",
+    "election": "Election for the presidency of Die Mitte (party delegates' assembly)",
+    "office": "President of Die Mitte (The Centre)",
+    "date": "2025-06-28",
+    "result": "Elected, succeeding Gerhard Pfister",
+    "votes": "",
+    "party": "Die Mitte",
+    "source_url": [
+      "https://die-mitte.ch/philipp-matthias-bregy-ist-neuer-praesident-der-mitte-schweiz/"
+    ]
+  }
+]

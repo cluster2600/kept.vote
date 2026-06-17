@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "institution": "University of Zurich",
+    "degree": "Master of Science (MSc)",
+    "field": "Human and Economic Geography",
+    "start_date": "",
+    "end_date": "2016",
+    "description": "Master's degree in human and economic geography. (Wikipedia dates the MSc to 2015; the official SP CV gives 2016.)",
+    "source_url": [
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf",
+      "https://en.wikipedia.org/wiki/Mattea_Meyer"
+    ]
+  },
+  {
+    "id": "2",
+    "institution": "University of Zurich",
+    "degree": "Bachelor of Arts (BA)",
+    "field": "History, Geography and Political Science",
+    "start_date": "2007",
+    "end_date": "2011",
+    "description": "Undergraduate studies in history, geography and political science; included one semester at the University of Aix-Marseille.",
+    "source_url": [
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf",
+      "https://en.wikipedia.org/wiki/Mattea_Meyer"
+    ]
+  },
+  {
+    "id": "3",
+    "institution": "Kantonsschule Rychenberg, Winterthur",
+    "degree": "Matura (bilingual German/English)",
+    "field": "Major subject: Latin",
+    "start_date": "",
+    "end_date": "2006",
+    "description": "Completed secondary school with a bilingual (German/English) Matura and Latin as a major subject.",
+    "source_url": [
+      "https://www.sp-ps.ch/wp-content/uploads/2020/03/lebenslauf_meyer_mattea_d_1.pdf"
+    ]
+  }
+]
