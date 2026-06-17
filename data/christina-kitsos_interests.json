@@ -1,0 +1,52 @@
+[
+  {
+    "id": "int-licra",
+    "item": "LICRA - Genève (Ligue internationale contre le racisme et l'antisémitisme)",
+    "type": "association membership",
+    "period": "",
+    "value": "",
+    "detail": "Membre de la LICRA - Genève, selon la fiche officielle de la Ville de Genève.",
+    "status": "active",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "int-marbres-parthenon",
+    "item": "Comité suisse pour la Réunification des Marbres du Parthénon",
+    "type": "association/committee membership",
+    "period": "",
+    "value": "",
+    "detail": "Membre du Comité suisse pour la Réunification des Marbres du Parthénon.",
+    "status": "active",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "int-instruments-paix",
+    "item": "Fondation Les instruments de la Paix",
+    "type": "foundation membership",
+    "period": "",
+    "value": "",
+    "detail": "Membre de la Fondation Les instruments de la Paix.",
+    "status": "active",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "int-sharing-perama",
+    "item": "Sharing Perama",
+    "type": "association membership",
+    "period": "",
+    "value": "",
+    "detail": "Membre de l'association Sharing Perama.",
+    "status": "active",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "int-liens-interets-2025",
+    "item": "Déclaration officielle des liens d'intérêts (Ville de Genève, 2025)",
+    "type": "declaration of interests",
+    "period": "2025",
+    "value": "",
+    "detail": "Document officiel listant les liens d'intérêts de Christina Kitsos publié par la Ville de Genève (PDF).",
+    "status": "active",
+    "source_url": ["https://www.geneve.ch/document/liens-interets-kitsos-2025"]
+  }
+]

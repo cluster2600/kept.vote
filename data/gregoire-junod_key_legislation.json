@@ -1,0 +1,29 @@
+[
+  {
+    "id": "leg-plan-climat-2021",
+    "law_name": "Plan climat de la Ville de Lausanne ('0% carbone, 100% solidaire')",
+    "year": "2021",
+    "area": "Climat / Énergie / Environnement",
+    "description": "Plan climat communal adopté sous la Municipalité dirigée par Grégoire Junod, structuré autour de plus de 150 mesures (mobilité, énergie des bâtiments, gestion des déchets), avec pour objectifs zéro émission directe dans la mobilité d'ici 2030 et la neutralité carbone pour l'ensemble des émissions directes au plus tard en 2050 (réduction de 49% d'ici 2030, 71% d'ici 2040).",
+    "significance": "Cadre stratégique central de la politique climatique lausannoise, positionnant Lausanne comme 'ville modèle' en matière de transition écologique.",
+    "source_url": ["https://www.lausanne.ch/portrait/climat/plan-climat.html", "https://www.lausanne.ch/apps/actualites/index.php?actu_id=58690"]
+  },
+  {
+    "id": "leg-plaines-du-loup",
+    "law_name": "Écoquartier des Plaines-du-Loup (Métamorphose)",
+    "year": "2016",
+    "area": "Développement urbain / Logement",
+    "description": "Lancement et réalisation, sous la conduite du dicastère du développement urbain dirigé par Grégoire Junod, du vaste écoquartier des Plaines-du-Loup au nord de Lausanne, destiné à accueillir à terme environ 11'000 habitants-emplois, avec une part importante de logements à loyer abordable (1'200 logements abordables créés durant la législature 2021-2026).",
+    "significance": "Plus grand projet d'aménagement urbain de Lausanne, vitrine de la politique du logement abordable et de l'urbanisme durable de la Ville.",
+    "source_url": ["https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  },
+  {
+    "id": "leg-renforcement-controle-culture-2021",
+    "law_name": "Renforcement du contrôle des institutions culturelles subventionnées",
+    "year": "2024",
+    "area": "Culture / Gouvernance",
+    "description": "Mesures annoncées par la Ville de Lausanne pour renforcer la surveillance de ses institutions culturelles subventionnées: audits RH réguliers et création d'une cellule indépendante pour traiter les cas de harcèlement, à la suite des crises de gouvernance révélées dans plusieurs institutions (Béjart Ballet, Opéra, Conservatoire).",
+    "significance": "Réponse institutionnelle aux crises de gouvernance dans le secteur culturel lausannois, dont le syndic a la charge.",
+    "source_url": ["https://www.swissinfo.ch/fre/lausanne-renforce-la-surveillance-de-ses-institutions-culturelles/46706894"]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "prom-logement-30pct",
+    "title": "Quota de 30% de logements à loyer abordable dans les grands projets",
+    "description": "Junod et l'alliance de gauche défendent l'instauration d'un quota d'environ 30% de logements à loyer abordable dans chaque grand projet d'aménagement, afin de faire de l'accès au logement un pilier du pouvoir d'achat. Le logement abordable a été un thème central de la campagne 2026.",
+    "date_made": "2026",
+    "category": "housing",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Position défendue par le syndic et le PS lausannois durant la campagne des communales 2026; s'inscrit dans la continuité de la politique du logement abordable menée aux Plaines-du-Loup.",
+    "key_evidence": [
+      "Le Temps: la bataille du logement (quota de logements abordables) au coeur des élections municipales 2026"
+    ],
+    "source_url": ["https://www.letemps.ch/suisse/vaud/quota-de-logements-abordables-ou-construire-plus-vite-a-lausanne-la-bataille-du-logement-est-au-coeur-des-elections-municipales"]
+  },
+  {
+    "id": "prom-neutralite-carbone-2050",
+    "title": "Poursuivre le plan climat: neutralité carbone et décarbonation des bâtiments",
+    "description": "Poursuite de la mise en oeuvre du plan climat lausannois ('0% carbone, 100% solidaire'), avec pour objectifs zéro émission directe dans la mobilité d'ici 2030 et la neutralité carbone des émissions directes au plus tard en 2050. Junod cite la décarbonation des bâtiments et du chauffage à distance comme un défi majeur de la nouvelle législature.",
+    "date_made": "2026",
+    "category": "climate_energy",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Engagement réaffirmé par le syndic pour la législature 2026-2031, dans la continuité du plan climat adopté en 2021.",
+    "key_evidence": [
+      "Plan climat de la Ville (objectifs 2030/2050)",
+      "Junod cite la décarbonation des bâtiments et du chauffage à distance comme priorité"
+    ],
+    "source_url": ["https://www.lausanne.ch/portrait/climat/plan-climat.html", "https://www.letemps.ch/suisse/vaud/plus-jamais-lausanne-se-voit-ville-modele"]
+  },
+  {
+    "id": "prom-developpement-urbain-sites",
+    "title": "Urbanisme différencié sur les sites prioritaires de développement",
+    "description": "Poursuivre un urbanisme différencié sur les sites prioritaires (Boveresses, Beaulieu, Sébeillon, secteur de la gare), en prolongement de l'écoquartier des Plaines-du-Loup conçu comme laboratoire de la ville de demain.",
+    "date_made": "2026",
+    "category": "urban_development",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Orientation de développement urbain portée par le syndic, en charge du développement urbain, pour la législature 2026-2031.",
+    "key_evidence": [
+      "Programme/vision de développement urbain de Lausanne (sites prioritaires)"
+    ],
+    "source_url": ["https://www.albinfo.ch/fr/gregoire-junod-une-legislature-de-transformations-majeures-et-une-vision-claire-pour-lavenir-de-lausanne/"]
+  },
+  {
+    "id": "prom-securite-cohesion",
+    "title": "Renforcer la sécurité, la cohésion sociale et l'intégration",
+    "description": "Poursuivre une 'Lausanne ouverte et solidaire' axée sur l'amélioration durable de la qualité de vie, avec un accent sur la sécurité, la cohésion sociale et l'intégration. Cet engagement intervient alors que la police lausannoise traverse une crise (messages racistes), Junod plaidant pour un changement de culture interne.",
+    "date_made": "2026",
+    "category": "security_social",
+    "status": "in_progress",
+    "confidence_score": "0.65",
+    "reasoning": "Priorités énoncées par le syndic pour la nouvelle législature; la sécurité et la culture interne de la police sont des dossiers actifs.",
+    "key_evidence": [
+      "Vision 'Lausanne ouverte et solidaire' (sécurité, cohésion, intégration)",
+      "Engagement pour un changement de culture dans la police"
+    ],
+    "source_url": ["https://www.albinfo.ch/fr/gregoire-junod-une-legislature-de-transformations-majeures-et-une-vision-claire-pour-lavenir-de-lausanne/", "https://www.rts.ch/info/regions/vaud/2025/article/lausanne-8-policiers-suspendus-pour-messages-racistes-le-syndic-reagit-28985660.html"]
+  },
+  {
+    "id": "prom-riponne-tunnel",
+    "title": "Réaménagement des places de la Riponne et du Tunnel",
+    "description": "Mener à bien le réaménagement des places de la Riponne et du Tunnel pour transformer ce secteur du centre-ville en un lieu convivial, sans voitures et largement arborisé.",
+    "date_made": "2021",
+    "category": "urban_development",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Grand chantier en cours mentionné dans la biographie officielle du syndic; objectif de centre-ville végétalisé et apaisé.",
+    "key_evidence": [
+      "Biographie officielle (Ville de Lausanne): réaménagement Riponne/Tunnel, secteur sans voitures et arborisé"
+    ],
+    "source_url": ["https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  },
+  {
+    "id": "prom-maison-cinema-vidy",
+    "title": "Culture: Maison du cinéma (Capitole) et rénovation du Théâtre de Vidy",
+    "description": "Poursuivre les transformations culturelles: rénovation et agrandissement du Théâtre de Vidy, et rénovation du cinéma Capitole pour doter Lausanne d'une 'Maison du cinéma', tout en élargissant l'accès à la culture pour toutes et tous.",
+    "date_made": "2021",
+    "category": "culture",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Chantiers culturels en cours mentionnés dans la biographie officielle du syndic en charge de la culture.",
+    "key_evidence": [
+      "Biographie officielle: rénovation du Capitole ('Maison du cinéma') et du Théâtre de Vidy"
+    ],
+    "source_url": ["https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  },
+  {
+    "id": "prom-vegetalisation-desimpermeabilisation",
+    "title": "Végétaliser et désimperméabiliser l'espace public",
+    "description": "Adapter le plan d'affectation communal et l'espace public pour végétaliser, désimperméabiliser et protéger la ville face aux enjeux climatiques (priorités issues d'ateliers participatifs: réglementer, végétaliser, désimperméabiliser, protéger).",
+    "date_made": "2026",
+    "category": "climate_environment",
+    "status": "in_progress",
+    "confidence_score": "0.6",
+    "reasoning": "Orientation d'adaptation climatique de la Ville, dans le cadre du plan climat et de la révision des outils d'aménagement.",
+    "key_evidence": [
+      "Programme de législature / adaptation: végétaliser, désimperméabiliser, protéger"
+    ],
+    "source_url": ["https://www.lausanne.ch/officiel/municipalite/programme-legislature/ville-qui-s-adapte/environnement-biodiversite.html"]
+  }
+]

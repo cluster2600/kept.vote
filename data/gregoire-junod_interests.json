@@ -1,0 +1,22 @@
+[
+  {
+    "id": "int-bejart-presidence",
+    "item": "Président ad intérim du Conseil de fondation du Béjart Ballet Lausanne (BBL)",
+    "type": "board_mandate",
+    "period": "jusqu'en 2024 environ",
+    "value": "",
+    "detail": "En tant que syndic en charge de la culture, Grégoire Junod a assuré la présidence par intérim du Conseil de fondation du Béjart Ballet Lausanne, institution culturelle subventionnée par la Ville. Il a été remplacé par l'avocate Sylvie Buhagiar.",
+    "status": "former",
+    "source_url": ["https://www.letemps.ch/culture/a-lausanne-le-ballet-bejart-en-difficulte-financiere", "https://www.radiolac.ch/culture/bejart-ballet-nouvelle-presidente-au-conseil-de-fondation/"]
+  },
+  {
+    "id": "int-fondations-culturelles",
+    "item": "Membre de plusieurs conseils de fondation d'institutions culturelles lausannoises",
+    "type": "board_mandate",
+    "period": "depuis 2016 (en tant que syndic)",
+    "value": "",
+    "detail": "En sa qualité de syndic en charge de la culture, Grégoire Junod siège dans plusieurs conseils de fondation d'institutions culturelles de la Ville (presse évoquant qu'il siège dans environ sept fondations culturelles).",
+    "status": "active",
+    "source_url": ["https://www.letemps.ch/culture/institutions-culturelles-conteste-totalement-quil-y-ait-un-degat-dimage-lausanne"]
+  }
+]

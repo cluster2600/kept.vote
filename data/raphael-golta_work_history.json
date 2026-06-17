@@ -1,0 +1,106 @@
+[
+  {
+    "id": "wh-stadtpraesident-2026",
+    "role": "Stadtpräsident (Mayor) and head of the Präsidialdepartement",
+    "organization": "City of Zurich (Stadt Zürich)",
+    "start_date": "2026",
+    "end_date": "",
+    "description": "Mayor of the City of Zurich and head of the Presidential Department, elected in 2026 succeeding Corine Mauch (SP). Responsibilities include city representation, strategic city planning and a portfolio in which affordable-housing policy responsibilities converge.",
+    "category": "political",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html",
+      "https://www.srf.ch/news/schweiz/neuer-zuercher-stadtpraesident-grosse-dankbarkeit-und-demut-golta-folgt-auf-corine-mauch"
+    ]
+  },
+  {
+    "id": "wh-sozialvorsteher-2014",
+    "role": "Stadtrat and Vorsteher des Sozialdepartements (member of city executive, head of Social Department)",
+    "organization": "City of Zurich (Stadt Zürich)",
+    "start_date": "2014",
+    "end_date": "2026",
+    "description": "Member of the nine-seat Zurich city executive (Stadtrat) and head of the Social Department for twelve years. Launched measures including economic basic assistance for undocumented migrants (Basishilfe), scholarships for provisionally admitted foreigners and adult further education, a heating-cost allowance and wage subsidies for private daycare staff.",
+    "category": "political",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html",
+      "https://de.wikipedia.org/wiki/Raphael_Golta",
+      "https://www.nzz.ch/zuerich/naechster-stadtpraesident-von-zuerich-wer-ist-raphael-golta-sp-mann-ld.1928288"
+    ]
+  },
+  {
+    "id": "wh-kantonsrat-2003",
+    "role": "Member of the cantonal parliament (Kantonsrat)",
+    "organization": "Canton of Zurich",
+    "start_date": "2003",
+    "end_date": "2014",
+    "description": "Elected to the Zurich Kantonsrat in May 2003; served on the Finance and Economy Commission (Finanzkommission, 2007–2010) and as SP parliamentary group leader (Fraktionspräsident, 2010–2014). Resigned upon election to the city executive.",
+    "category": "political",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html",
+      "https://de.wikipedia.org/wiki/Raphael_Golta"
+    ]
+  },
+  {
+    "id": "wh-softwaredev-2012",
+    "role": "Software developer",
+    "organization": "Fabware GmbH (Technopark Zürich)",
+    "start_date": "2012",
+    "end_date": "2014",
+    "description": "Worked as a software developer until his election to the city executive.",
+    "category": "private",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Raphael_Golta",
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "wh-accountmanager-2009",
+    "role": "Account Manager (event sector)",
+    "organization": "MCI Zürich",
+    "start_date": "2009",
+    "end_date": "2011",
+    "description": "Account manager in the events sector.",
+    "category": "private",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Raphael_Golta",
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "wh-presstrends-2004",
+    "role": "Managing partner (geschäftsführender Teilhaber)",
+    "organization": "presstrends GmbH",
+    "start_date": "2004",
+    "end_date": "2009",
+    "description": "Co-owner and managing director of presstrends GmbH.",
+    "category": "private",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Raphael_Golta",
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "wh-ipmz-2002",
+    "role": "Research assistant (media economics / media management)",
+    "organization": "Institut für Publizistikwissenschaft und Medienforschung (IPMZ), University of Zurich",
+    "start_date": "2002",
+    "end_date": "2007",
+    "description": "Assistant at the University of Zurich's media research institute (IPMZ), in the media economics and media management division.",
+    "category": "academic",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Raphael_Golta",
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "wh-kommunikation-1998",
+    "role": "Communications staff member",
+    "organization": "International press-industry association",
+    "start_date": "1998",
+    "end_date": "2004",
+    "description": "Communications staff member in an international press-industry association.",
+    "category": "private",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  }
+]

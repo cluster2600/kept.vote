@@ -1,0 +1,18 @@
+[
+  {
+    "id": "pol-aide-jeunes-1000",
+    "title": "Critiques de la droite contre l'aide de 1000 francs aux jeunes",
+    "period": "2024",
+    "category": "controverse politique / dépense publique",
+    "description": "L'annonce par Christina Kitsos d'une aide financière de 1000 francs aux jeunes de 18 à 25 ans en difficulté d'insertion professionnelle a suscité de vives critiques de la droite genevoise. Le PLR (par la voix du conseiller municipal Kevin Schmid) a dénoncé une mesure «électoraliste, populiste et inefficace», l'accusant d'utiliser les impôts municipaux pour faire un «cadeau» en période électorale. Le MCG, par la voix de Mauro Poggia, a également désapprouvé la mesure, y voyant «la politique de la simplicité».",
+    "status": "documented",
+    "confidence_score": "0.85",
+    "key_facts": [
+      "Aide annuelle de 1000 francs pour les 18-25 ans sous conditions, renouvelable une fois",
+      "400 000 francs inscrits au budget 2024",
+      "Critiques publiques du PLR (Kevin Schmid) et du MCG (Mauro Poggia)",
+      "Annonce intervenue dans un contexte de période électorale"
+    ],
+    "source_url": ["https://www.tdg.ch/aide-aux-jeunes-a-geneve-le-plr-critique-christina-kistos-505006970573", "https://www.blick.ch/fr/suisse/le-mcg-mauro-poggia-critique-la-mesure-de-la-ville-de-geneve-1000-francs-pour-les-jeunes-chercheurs-demploi-cest-la-politique-de-la-simplicite-id20297783.html"]
+  }
+]

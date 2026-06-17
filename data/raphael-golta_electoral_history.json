@@ -1,0 +1,72 @@
+[
+  {
+    "id": "el-stapi-2026-r2",
+    "election": "Zurich city presidency (Stadtpräsidium) election, second round",
+    "date": "2026-05-10",
+    "role_sought": "Stadtpräsident (Mayor) of the City of Zurich",
+    "result": "Elected",
+    "vote_share": "Approx. 42,000 votes; roughly 9,500 votes went to scattered/independent names",
+    "opponent": "No official rival candidate (Golta ran as the only candidate; runoff required by municipal rules even with a single candidate)",
+    "detail": "After missing the absolute majority in the first round, Golta won the second round as the sole candidate and succeeded long-serving SP mayor Corine Mauch.",
+    "source_url": [
+      "https://www.srf.ch/news/schweiz/wahlen-praesidium-stadt-zuerich-raphael-golta-sp-ist-neuer-stadtpraesident-von-zuerich",
+      "https://www.20min.ch/story/zuerich-rapahel-golta-ist-definitiv-zuercher-stapi-103560623",
+      "https://www.srf.ch/news/schweiz/neuer-zuercher-stadtpraesident-grosse-dankbarkeit-und-demut-golta-folgt-auf-corine-mauch"
+    ]
+  },
+  {
+    "id": "el-stapi-2026-r1",
+    "election": "Zurich city presidency (Stadtpräsidium) election, first round",
+    "date": "2026-03-08",
+    "role_sought": "Stadtpräsident (Mayor) of the City of Zurich",
+    "result": "Top result but missed absolute majority; forced into a runoff",
+    "vote_share": "54,832 votes (absolute majority required: 57,562)",
+    "opponent": "Përparim Avdili (FDP), who drew votes from Golta but failed to be elected to the city executive",
+    "detail": "Golta led the field but fell short of the absolute majority, partly because FDP challenger Avdili took votes; a second round was scheduled.",
+    "source_url": [
+      "https://www.20min.ch/story/zuerich-so-links-wie-noch-nie-das-ist-zuerichs-neu-gewaehlter-stadtrat-103522507",
+      "https://www.tagesanzeiger.ch/wahlen-stadt-zuerich-2026-im-ticker-wer-wird-stadtpraesident-157300806574"
+    ]
+  },
+  {
+    "id": "el-stadtrat-2026",
+    "election": "Zurich city executive (Stadtrat) general renewal election",
+    "date": "2026-03-08",
+    "role_sought": "Member of the Zurich city executive (Stadtrat)",
+    "result": "Re-elected",
+    "vote_share": "Not specified in sources",
+    "opponent": "Multi-candidate executive race; SP and Greens expanded their seats (7 of 9 seats left-green)",
+    "detail": "Golta was returned to the nine-seat city executive in an election that produced the most left-leaning Zurich city government to date.",
+    "source_url": [
+      "https://www.20min.ch/story/zuerich-so-links-wie-noch-nie-das-ist-zuerichs-neu-gewaehlter-stadtrat-103522507",
+      "https://www.srf.ch/news/schweiz/abstimmungen-8-3-2026/linksgruene-taktik-hatte-erfolg-zuerich-waehlt-so-links-wie-noch-nie"
+    ]
+  },
+  {
+    "id": "el-stadtrat-2014",
+    "election": "Zurich city executive (Stadtrat) general renewal election",
+    "date": "2014-02-09",
+    "role_sought": "Member of the Zurich city executive (Stadtrat)",
+    "result": "Elected",
+    "vote_share": "Not specified in sources",
+    "opponent": "Multi-candidate executive race",
+    "detail": "First elected to the Zurich Stadtrat; subsequently took over the Social Department and resigned from the cantonal parliament.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Raphael_Golta"
+    ]
+  },
+  {
+    "id": "el-kantonsrat-2003",
+    "election": "Zurich cantonal parliament (Kantonsrat) election",
+    "date": "2003-05",
+    "role_sought": "Member of the Zurich Kantonsrat",
+    "result": "Elected",
+    "vote_share": "Not specified in sources",
+    "opponent": "Proportional cantonal list election",
+    "detail": "Elected to the cantonal parliament in May 2003; served until 2014.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Raphael_Golta",
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  }
+]

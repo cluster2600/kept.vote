@@ -1,0 +1,51 @@
+[
+  {
+    "id": "cc-int-1",
+    "item": "Stiftungsratspraesident (President of the Foundation Council) of eduction21 (eduction21, foundation for education for sustainable development / BNE)",
+    "type": "foundation_mandate",
+    "period": "2018-2024",
+    "value": "",
+    "detail": "Took over the presidency of the foundation council of eduction21 from Zurich government councillor Silvia Steiner on 1 May 2018; the role was tied to his function as Basel education director. He was succeeded by Lucerne education director Armin Hartmann after stepping down as Basel education director.",
+    "status": "former",
+    "source_url": [
+      "https://www.education21.ch/de/medienmitteilung/conradin-cramer-neuer-praesident-von-education21",
+      "https://www.bs.ch/medienmitteilungen/ed/2018-conradin-cramer-wird-stiftungsratspraesident-von-education21"
+    ]
+  },
+  {
+    "id": "cc-int-2",
+    "item": "Board member of the Trinationaler Eurodistrict Basel (TEB)",
+    "type": "cross_border_cooperation_mandate",
+    "period": "as Regierungsrat / Regierungspraesident",
+    "value": "",
+    "detail": "Represents Basel-Stadt on the board of the Trinational Eurodistrict Basel, a cross-border cooperation body in the Basel region. Mandate tied to his government office.",
+    "status": "active",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer"
+    ]
+  },
+  {
+    "id": "cc-int-3",
+    "item": "Former member of the student fraternity Zofingia",
+    "type": "association_membership",
+    "period": "",
+    "value": "",
+    "detail": "Former member of the students' fraternity (Studentenverbindung) Zofingia.",
+    "status": "former",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-int-4",
+    "item": "Board member (Vorstand) of E.E. Zunft zum Schluessel, Basel",
+    "type": "guild_mandate",
+    "period": "",
+    "value": "",
+    "detail": "Board member of the Basel guild E.E. Zunft zum Schluessel.",
+    "status": "active",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  }
+]

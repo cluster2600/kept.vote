@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ed-001",
+    "institution": "Vocational apprenticeship",
+    "qualification": "Apprenticeship as a cook (Koch)",
+    "field": "Culinary / hospitality",
+    "years": "1984-1987",
+    "detail": "Completed a vocational apprenticeship as a cook before pursuing further academic education.",
+    "source_url": ["https://en.wikipedia.org/wiki/Viktor_Rossi", "https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html"]
+  },
+  {
+    "id": "ed-002",
+    "institution": "Privatschule Humboldtianum, Bern",
+    "qualification": "Gymnasiale Matura (maturity diploma)",
+    "field": "Economics",
+    "years": "",
+    "detail": "Obtained a maturity diploma with an economics focus at the private school Humboldtianum in Bern.",
+    "source_url": ["https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  },
+  {
+    "id": "ed-003",
+    "institution": "University of Bern",
+    "qualification": "Teacher's degree (Lehrerstudium)",
+    "field": "Law and Economics",
+    "years": "1996",
+    "detail": "Completed teacher-training studies in economics and law at the University of Bern, qualifying in 1996.",
+    "source_url": ["https://en.wikipedia.org/wiki/Viktor_Rossi", "https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html"]
+  },
+  {
+    "id": "ed-004",
+    "institution": "University of Bern",
+    "qualification": "Diploma of Advanced Studies (DAS) in Law",
+    "field": "Law",
+    "years": "2015",
+    "detail": "Earned a Diploma of Advanced Studies in Law in 2015, in addition to further training in leadership, project and process management.",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  }
+]

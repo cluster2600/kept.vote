@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ed1",
+    "institution": "St Michael Teacher Training College (Lehrerseminar St. Michael), Zug",
+    "qualification": "Teaching diploma (Primarlehrerpatent)",
+    "field": "Primary education",
+    "years": "1984",
+    "detail": "Completed primary teacher training, qualifying him as a teacher.",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "ed2",
+    "institution": "University of Fribourg",
+    "qualification": "Master's degree (lic. phil.)",
+    "field": "History and German studies",
+    "years": "1996",
+    "detail": "Studied history and German; his work included the history of Swiss Federal Councillors, with a thesis on Federal Councillor Philipp Etter of Zug.",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps",
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  },
+  {
+    "id": "ed3",
+    "institution": "Stanford University, USA",
+    "qualification": "Visiting Scholar",
+    "field": "History",
+    "years": "1996",
+    "detail": "Spent a period as a visiting scholar at Stanford University.",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "ed4",
+    "institution": "University of St Gallen (Executive School of Management, Technology and Law)",
+    "qualification": "Certificate of Advanced Studies (CAS)",
+    "field": "Continuing education in politics (Weiterbildung fuer Politik)",
+    "years": "2011",
+    "detail": "Completed a CAS programme in political continuing education.",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  }
+]

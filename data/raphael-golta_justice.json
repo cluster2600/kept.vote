@@ -1,0 +1,24 @@
+[
+  {
+    "id": "just-basishilfe-administrative",
+    "case": "Wirtschaftliche Basishilfe (Sans-Papiers) – administrative/supervisory proceedings",
+    "period": "2021–2025",
+    "type": "Administrative-law / supervisory proceedings (not criminal)",
+    "description": "Supervisory and administrative-law proceedings over the City of Zurich's economic basic-assistance programme for undocumented migrants, launched under Golta as Social Department head. The matter concerned the legality of the city's action as an institution, not personal wrongdoing by Golta. The district council (Bezirksrat) upheld a supervisory complaint and ordered the programme stopped; the cantonal government (Regierungsrat) confirmed the cash payments were unlawful. The city parliament voted to challenge the decision before the administrative court (Verwaltungsgericht).",
+    "status": "ongoing",
+    "outcome": "Administrative bodies (Bezirksrat, Regierungsrat) found the programme unlawful; the city parliament decided to take the case to the administrative court. No personal criminal liability for Golta reported.",
+    "court": "Bezirksrat Zürich; Regierungsrat des Kantons Zürich; Verwaltungsgericht des Kantons Zürich",
+    "presumption_note": "These are institutional administrative-law proceedings about municipal competence, not criminal charges against Raphael Golta personally; no personal wrongdoing or criminal liability has been alleged or established.",
+    "key_facts": [
+      "The Bezirksrat upheld an FDP supervisory complaint and ordered the programme stopped.",
+      "The Regierungsrat confirmed the cash payments were unlawful.",
+      "The city parliament voted 62–58 to bring the matter to the administrative court.",
+      "Proceedings concern the city's legal competence, not personal conduct of Golta."
+    ],
+    "source_url": [
+      "https://www.srf.ch/news/schweiz/bezirksrat-stoppt-basishilfe-zuerich-muss-finanzielle-hilfen-fuer-sans-papiers-einstellen",
+      "https://www.nzz.ch/zuerich/entscheid-liegt-vor-bargeldzahlungen-an-sans-papiers-in-zuerich-widerrechtlich-ld.1890402",
+      "https://www.nzz.ch/zuerich/zuercher-stadtparlament-akzeptiert-entscheid-des-kantons-zur-basishilfe-nicht-ld.1892680"
+    ]
+  }
+]

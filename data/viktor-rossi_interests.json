@@ -1,0 +1,12 @@
+[
+  {
+    "id": "int-001",
+    "item": "Member of the Green Liberal Party (GLP / PVL)",
+    "type": "political_affiliation",
+    "period": "present",
+    "value": "",
+    "detail": "Viktor Rossi is a member of the Green Liberal Party of Switzerland; he is the first Federal Chancellor to come from the GLP.",
+    "status": "active",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://grunliberale.ch/partei/menschen/bundeskanzler/"]
+  }
+]

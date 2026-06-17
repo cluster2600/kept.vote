@@ -1,0 +1,57 @@
+[
+  {
+    "id": "elec-maire-2026",
+    "election": "Désignation de la Maire de Genève pour 2026-2027 (rotation annuelle au sein du Conseil administratif)",
+    "date": "2026-06-01",
+    "role_sought": "Maire de la Ville de Genève",
+    "result": "Désignée Maire",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "À Genève, la mairie tourne annuellement entre les cinq membres du Conseil administratif et n'est pas élue au suffrage populaire. Christina Kitsos prend la mairie pour l'année 2026-2027 (entrée en fonction le 1er juin 2026), pour la deuxième fois, avec Marjorie de Chastonay comme vice-présidente.",
+    "source_url": ["https://www.geneve.ch/actualites/christina-kitsos-nouvelle-maire-ville-geneve-annee-2026-2027", "https://www.tdg.ch/christina-kitsos-la-socialiste-redevient-maire-de-geneve-514941893746"]
+  },
+  {
+    "id": "elec-ca-2025",
+    "election": "Élections municipales genevoises 2025 - Conseil administratif de la Ville de Genève",
+    "date": "2025-04-13",
+    "role_sought": "Conseillère administrative (membre de l'exécutif de la Ville de Genève)",
+    "result": "Élue (meilleure élue / en tête)",
+    "vote_share": "17 014 voix au 2e tour (en tête; 18 697 voix au 1er tour, majorité absolue fixée à 20 100)",
+    "opponent": "Alfonso Gomez (Les Vert-e-s, 14 950 voix), Joëlle Bertossa (PS), Marjorie de Chastonay (Les Vert-e-s), Marie Barbey-Chappuis (Le Centre)",
+    "detail": "Réélue en tête de tous les candidats. La gauche conserve ses quatre sièges au Conseil administratif. Premier tour le 23 mars 2025, second tour le 13 avril 2025.",
+    "source_url": ["https://www.rts.ch/info/regions/geneve/2025/article/geneve-24-communes-votent-pour-leurs-executifs-municipaux-ce-dimanche-28853417.html", "https://www.tdg.ch/municipales-a-geneve-la-gauche-perpetue-sa-domination-en-ville-336100599881"]
+  },
+  {
+    "id": "elec-ca-2020",
+    "election": "Élections municipales genevoises 2020 - Conseil administratif de la Ville de Genève",
+    "date": "2020-04-05",
+    "role_sought": "Conseillère administrative (membre de l'exécutif de la Ville de Genève)",
+    "result": "Élue",
+    "vote_share": "17 438 voix au 2e tour (15 247 au 1er tour)",
+    "opponent": "Sami Kanaan (PS, 18 054 voix), Frédérique Perler (Les Vert-e-s, 15 872), Alfonso Gomez (Les Vert-e-s, 14 694)",
+    "detail": "Première élection au Conseil administratif de la Ville de Genève. Premier tour le 15 mars 2020, second tour le 5 avril 2020. La liste rose-verte remporte quatre sièges. Christina Kitsos prend la tête du Département de la cohésion sociale et de la solidarité.",
+    "source_url": ["https://www.geneve.ch/actualites/elections-municipales-2020-nouveau-conseil-administratif", "https://www.tdg.ch/le-quatuor-rose-vert-en-tete-pour-l-executif-de-la-ville-de-geneve-463519413605"]
+  },
+  {
+    "id": "elec-cm-2015",
+    "election": "Élections municipales genevoises 2015 - Conseil municipal de la Ville de Genève",
+    "date": "2015-04-19",
+    "role_sought": "Conseillère municipale (législatif de la Ville de Genève)",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue au Conseil municipal de la Ville de Genève sur la liste du Parti socialiste; a siégé jusqu'en 2020.",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "elec-grand-conseil-ne-2005",
+    "election": "Élections cantonales neuchâteloises 2005 - Grand Conseil",
+    "date": "2005-04-10",
+    "role_sought": "Députée au Grand Conseil du Canton de Neuchâtel",
+    "result": "Élue",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Élue députée socialiste au Grand Conseil neuchâtelois à l'âge de 24 ans; a siégé jusqu'en 2008, notamment à la Commission des affaires extérieures.",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  }
+]

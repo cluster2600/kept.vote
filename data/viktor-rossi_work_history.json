@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wh-001",
+    "role": "Federal Chancellor of Switzerland (Bundeskanzler)",
+    "organization": "Federal Chancellery of Switzerland (Bundeskanzlei)",
+    "start_date": "2024-01-01",
+    "end_date": "",
+    "description": "Chief of staff of the Federal Council; supports the Federal President and the Federal Council collegium in their governmental duties and attends the weekly Federal Council meetings with an advisory vote. First Federal Chancellor from the Green Liberal Party. Elected by the Federal Assembly on 13 December 2023.",
+    "category": "government",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  },
+  {
+    "id": "wh-002",
+    "role": "Vice-Chancellor of Switzerland (Vizekanzler)",
+    "organization": "Federal Chancellery of Switzerland (Bundeskanzlei)",
+    "start_date": "2019-05-01",
+    "end_date": "2023-12-31",
+    "description": "Headed the Federal Council division (Bereich Bundesrat) of the Federal Chancellery. Elected Vice-Chancellor by the Federal Council in December 2018, taking office on 1 May 2019.",
+    "category": "government",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  },
+  {
+    "id": "wh-003",
+    "role": "Delegate / supervisor for the GENOVA IT key project",
+    "organization": "Federal Chancellery of Switzerland (Bundeskanzlei)",
+    "start_date": "2015",
+    "end_date": "2019",
+    "description": "Acted as the Federal Chancellor's delegate as commissioning authority (Auftraggeber) for the GENOVA ICT key project, introducing the standard records-management/GEVER solution for the central federal administration.",
+    "category": "government",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  },
+  {
+    "id": "wh-004",
+    "role": "Head of the Records Management and Logistics section (Sektion Geschäftsverwaltung und Logistik)",
+    "organization": "Federal Chancellery of Switzerland (Bundeskanzlei)",
+    "start_date": "2010-10",
+    "end_date": "2019-04",
+    "description": "Led the Records Management and Logistics section of the Federal Chancellery after joining the office in October 2010.",
+    "category": "government",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  },
+  {
+    "id": "wh-005",
+    "role": "Director",
+    "organization": "Bildung Formation Biel-Bienne (BFB), Biel",
+    "start_date": "1999",
+    "end_date": "2010",
+    "description": "Directed the commercial training institution BFB in Biel for eleven years. He had first joined as a teacher of trade/commerce before taking over leadership of the school in 1999.",
+    "category": "education_administration",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  },
+  {
+    "id": "wh-006",
+    "role": "President / Vice-president and Secretary, cantonal vocational-school conferences (Canton of Bern)",
+    "organization": "Canton of Bern (Konferenz der Berufsfachschulen / Kaufmännische Rektorenkonferenz des Kantons Bern)",
+    "start_date": "2004",
+    "end_date": "2010",
+    "description": "While director of BFB, served as vice-president and secretary of the conference of vocational and higher professional schools of the Canton of Bern, and as president of the Canton of Bern's conference of commercial-school rectors (Kaufmännische Rektorenkonferenz), president from 2009.",
+    "category": "association",
+    "source_url": ["https://www.bk.admin.ch/bk/de/home/bk/bundeskanzler.html", "https://en.wikipedia.org/wiki/Viktor_Rossi"]
+  }
+]

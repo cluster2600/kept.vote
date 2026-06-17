@@ -1,0 +1,91 @@
+[
+  {
+    "id": "prom-bureaux-temps",
+    "title": "Créer des «bureaux des temps» et un bureau des temps pour mieux organiser le temps des Genevois-e-s",
+    "description": "Dans le cadre de son année de mairie 2026-2027 placée sous le thème «Le temps partagé», Christina Kitsos s'engage à mettre sur pied des «bureaux des temps»: une démarche artistique et participative pour aller à la rencontre de la population et écouter ses difficultés dans la gestion des rythmes du quotidien, ainsi qu'un bureau des temps visant à améliorer l'organisation temporelle des services de la Ville.",
+    "date_made": "2026-06-01",
+    "category": "qualité de vie / services publics",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Engagement annoncé officiellement à l'occasion de sa prise de mairie 2026-2027; projet phare de son thème «Le temps partagé», mais mesure essentiellement symbolique et participative dont la portée concrète reste à concrétiser.",
+    "key_evidence": [
+      "Communiqué officiel de la Ville de Genève annonçant le thème «Le temps partagé» et les «bureaux des temps»",
+      "Couverture presse (Tribune de Genève) sur sa volonté de «repenser le temps des Genevois»"
+    ],
+    "source_url": ["https://www.geneve.ch/actualites/christina-kitsos-nouvelle-maire-ville-geneve-annee-2026-2027", "https://www.tdg.ch/christina-kitsos-la-socialiste-redevient-maire-de-geneve-514941893746"]
+  },
+  {
+    "id": "prom-creches-places",
+    "title": "Poursuivre la création de places de crèche et la municipalisation progressive des structures d'accueil",
+    "description": "Christina Kitsos s'engage à poursuivre la création de nouvelles places d'accueil de la petite enfance (objectif d'environ 100 places nouvelles par an en moyenne) via l'intégration progressive des nouvelles structures dans le système municipal, afin de combler un déficit estimé entre 800 et 1000 places.",
+    "date_made": "2025-02-07",
+    "category": "petite enfance / service public",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Promesse de campagne réaffirmée pour les municipales 2025 et au cœur de son programme; s'appuie sur une réforme déjà engagée (carte blanche du Conseil municipal pour réformer les crèches), ce qui en renforce la crédibilité.",
+    "key_evidence": [
+      "Programme PS / déclarations de Kitsos lors des municipales 2025",
+      "Réforme de municipalisation déjà votée par le Conseil municipal"
+    ],
+    "source_url": ["https://www.tdg.ch/ville-de-geneve-le-parti-socialiste-presente-son-programme-721915710574", "https://www.tdg.ch/christina-kitsos-obtient-un-blanc-seing-pour-reformer-les-creches-620548830733"]
+  },
+  {
+    "id": "prom-hebergement-urgence",
+    "title": "Pérenniser et consolider le dispositif intercommunal d'hébergement d'urgence des sans-abri",
+    "description": "Kitsos s'engage à poursuivre son projet majeur d'hébergement d'urgence pour les personnes sans-abri (plus de 500 places à l'année), dont le financement est désormais assuré à environ 40% par la Ville et 60% par les autres communes genevoises.",
+    "date_made": "2025-02-07",
+    "category": "action sociale / sans-abrisme",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Engagement de continuité s'appuyant sur un dispositif déjà existant et financé de manière intercommunale; forte crédibilité car bilan tangible, mais pérennité dépendante des accords intercommunaux.",
+    "key_evidence": [
+      "Déclarations de Kitsos lors des municipales 2025 sur la poursuite du dispositif",
+      "Couverture presse Le Temps sur l'accueil des sans-abri"
+    ],
+    "source_url": ["https://www.tdg.ch/ville-de-geneve-christina-kitsos-se-represente-interview-400370687508", "https://www.letemps.ch/suisse/geneve/christina-kitsos-propos-laccueil-sansabri-geneve-vais-prendre-baton-pelerin"]
+  },
+  {
+    "id": "prom-correspondants-nuit-extension",
+    "title": "Étendre le dispositif des correspondant-e-s de nuit à l'ensemble du territoire municipal",
+    "description": "Kitsos s'engage à étendre le dispositif des correspondant-e-s de nuit (médiation sociale et prévention nocturne), déployé d'abord aux Pâquis-Grottes-Saint-Gervais puis à Plainpalais, avec l'objectif qu'il couvre à terme l'ensemble du territoire de la Ville de Genève.",
+    "date_made": "2024-01-01",
+    "category": "médiation sociale / sécurité de proximité",
+    "status": "in_progress",
+    "confidence_score": "0.8",
+    "reasoning": "Objectif explicitement formulé par Kitsos («le dispositif est appelé à couvrir tout le territoire municipal»); déploiement déjà engagé par étapes, ce qui appuie la crédibilité, mais extension complète encore à réaliser.",
+    "key_evidence": [
+      "Déclaration de Kitsos sur la vocation du dispositif à couvrir tout le territoire municipal",
+      "Extension déjà actée aux Pâquis et à Plainpalais (RTS, Léman Bleu)"
+    ],
+    "source_url": ["https://www.rts.ch/info/regions/geneve/2024/article/la-municipalite-de-geneve-etend-le-dispositif-des-correspondants-de-nuit-28666481.html", "https://www.lemanbleu.ch/fr/Actualites/Geneve/Des-correspondants-de-nuit-etendus-aux-Paquis.html"]
+  },
+  {
+    "id": "prom-soutien-jeunesse",
+    "title": "Renforcer le soutien à la jeunesse et l'insertion professionnelle des 18-25 ans",
+    "description": "Kitsos s'engage à développer la politique municipale de la jeunesse, notamment via le dispositif d'aide à l'employabilité des 18-25 ans en difficulté (aide ciblée de 1000 francs, en partenariat avec l'association Autonomia), afin de favoriser l'insertion professionnelle des jeunes.",
+    "date_made": "2024-01-01",
+    "category": "jeunesse / insertion professionnelle",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Mesure lancée durant son mandat et inscrite au budget 2024; engagement crédible car déjà opérationnel, mais contesté politiquement par la droite, ce qui pèse sur sa pérennité budgétaire.",
+    "key_evidence": [
+      "Lancement du dispositif d'aide aux jeunes avec 400 000 francs au budget 2024",
+      "Page officielle Ville de Genève sur le soutien financier aux jeunes"
+    ],
+    "source_url": ["https://www.tdg.ch/ville-de-geneve-1000-francs-par-jeune-pour-trouver-un-emploi-643274229678", "https://www.geneve.ch/public/jeunes/trouver-ecoute-soutien/soutenu-financierement"]
+  },
+  {
+    "id": "prom-planification-scolaire",
+    "title": "Assurer la planification scolaire et parascolaire et des équipements de qualité pour les enfants",
+    "description": "Kitsos s'engage à poursuivre le travail sur la planification scolaire et parascolaire afin d'assurer la mise à disposition d'équipements de qualité (écoles, structures d'accueil parascolaire) pour tous les enfants de la Ville de Genève.",
+    "date_made": "2025-01-23",
+    "category": "enfance / équipements publics",
+    "status": "in_progress",
+    "confidence_score": "0.7",
+    "reasoning": "Engagement réaffirmé dans son portrait/bilan de campagne et cohérent avec ses compétences départementales; objectif de continuité plausible mais formulé de manière générale.",
+    "key_evidence": [
+      "Portrait officiel de campagne mentionnant la planification scolaire et parascolaire comme priorité"
+    ],
+    "source_url": ["https://www.christina-kitsos.ch/portrait", "https://2025.ps-geneve.ch/nos-candidates-au-conseil-administratif/christina-kitsos/"]
+  }
+]

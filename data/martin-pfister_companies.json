@@ -1,0 +1,52 @@
+[
+  {
+    "id": "co1",
+    "entity": "Pfister Frei Partner GmbH, Zug",
+    "role": "Managing partner (Gesellschafter / Geschaeftsfuehrer)",
+    "ownership_stake": "",
+    "period": "2010-2016",
+    "status": "former",
+    "detail": "Association-management and non-profit consulting firm in which Pfister was a managing partner; held mandates for feu suisse, the College for Naturopathy and Homeopathy (hfnh) and the Conference of the Colleges for Alternative Medicine (hfam).",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "co2",
+    "entity": "Gesellschaft zum Zytturm (Zug)",
+    "role": "President",
+    "ownership_stake": "",
+    "period": "",
+    "status": "reported",
+    "detail": "President of the Gesellschaft zum Zytturm, a Zug civic society, per his official cantonal biography.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister",
+      "https://www.srf.ch/news/schweiz/bundesrat-martin-pfister-ein-zentralschweizer-fuer-bundesbern"
+    ]
+  },
+  {
+    "id": "co3",
+    "entity": "Psychiatriekonkordat of the cantons Uri, Schwyz and Zug",
+    "role": "President",
+    "ownership_stake": "",
+    "period": "held while a Zug cantonal minister (2016-2025)",
+    "status": "former (ex officio)",
+    "detail": "President of the inter-cantonal psychiatry concordat, a role linked to his function as Zug health director.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister",
+      "https://www.srf.ch/news/schweiz/bundesrat-martin-pfister-ein-zentralschweizer-fuer-bundesbern"
+    ]
+  },
+  {
+    "id": "co4",
+    "entity": "Interkantonale Vereinbarung ueber die Hochspezialisierte Medizin (IVHSM)",
+    "role": "Member of the deliberative body (Beschlussorgan)",
+    "ownership_stake": "",
+    "period": "held while a Zug cantonal minister (2016-2025)",
+    "status": "former (ex officio)",
+    "detail": "Member of the decision-making body of the inter-cantonal agreement on highly specialised medicine, in his capacity as Zug health director.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  }
+]

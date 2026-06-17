@@ -1,0 +1,102 @@
+[
+  {
+    "id": "wh1",
+    "role": "Member of the Federal Council, Head of the Federal Department of Defence, Civil Protection and Sport (VBS/DDPS)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2025-04-01",
+    "end_date": "",
+    "description": "Elected to the Federal Council by the Federal Assembly on 12 March 2025 to succeed Viola Amherd; took office on 1 April 2025 and was assigned the defence department (defence, civil protection and sport).",
+    "category": "government",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps",
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  },
+  {
+    "id": "wh2",
+    "role": "Member of the Executive Council (Regierungsrat), Head of the Health Department",
+    "organization": "Canton of Zug",
+    "start_date": "2016-01-17",
+    "end_date": "2025-03-31",
+    "description": "Cantonal minister responsible for the Health Department (Gesundheitsdirektion). Elected in a by-election on 17 January 2016 to succeed Peter Hegglin and re-elected with strong results. Served as Landammann (cantonal president) in 2021/2022 and Vice-Landammann in 2019/2020. As head of the Conference of Central Swiss Health Directors he had a prominent role in the cantonal COVID-19 response.",
+    "category": "government",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps",
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  },
+  {
+    "id": "wh3",
+    "role": "Member of the Cantonal Council (Kantonsrat)",
+    "organization": "Canton of Zug",
+    "start_date": "2006",
+    "end_date": "2016",
+    "description": "Member of the cantonal parliament of Zug, elected in 2006. From 2009 to 2012 he served as parliamentary group leader (Fraktionschef) of the CVP.",
+    "category": "politics",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps",
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  },
+  {
+    "id": "wh4",
+    "role": "Managing partner (association management and non-profit consulting)",
+    "organization": "Pfister Frei Partner GmbH, Zug",
+    "start_date": "2010",
+    "end_date": "2016",
+    "description": "Managing partner responsible for association management and supervision of consulting dossiers for non-profit organisations, including mandates for feu suisse, the College for Naturopathy and Homeopathy (hfnh) and the Conference of the Colleges for Alternative Medicine (hfam).",
+    "category": "business",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "wh5",
+    "role": "Self-employed consultant (Büro Pfister)",
+    "organization": "Büro Pfister, Baar",
+    "start_date": "2008",
+    "end_date": "2010",
+    "description": "Self-employed consultant in association management; managed consulting dossiers for non-profit organisations and book publications.",
+    "category": "business",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "wh6",
+    "role": "Managing director of associations (Verbandsmanager)",
+    "organization": "Various professional associations",
+    "start_date": "2002",
+    "end_date": "2008",
+    "description": "Employed as managing director of associations, including mandates for energie-agentur-elektrogeraete (eae), swiss automotive aftermarket (SAA) and Kueche Schweiz.",
+    "category": "business",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "wh7",
+    "role": "Lecturer / academic assistant, Contemporary History Department",
+    "organization": "University of Fribourg",
+    "start_date": "1993",
+    "end_date": "2003",
+    "description": "Teaching assistant (1993-1996) and academic assistant (1997-2000) at the Contemporary History Department under Prof. Urs Altermatt, and lecturer in 2003. His thesis dealt with Federal Councillor Philipp Etter of Zug.",
+    "category": "academia",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps",
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  },
+  {
+    "id": "wh8",
+    "role": "Teacher",
+    "organization": "Various schools (primary to baccalaureate level)",
+    "start_date": "1984",
+    "end_date": "1992",
+    "description": "Held teaching positions at various levels, from primary school to baccalaureate school.",
+    "category": "education",
+    "source_url": [
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  }
+]

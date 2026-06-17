@@ -1,0 +1,110 @@
+[
+  {
+    "id": "int-nexpo",
+    "item": "Verein Nexpo – die neue Expo (President)",
+    "type": "Association / city-mandate board (Städtische Interessenvertretung)",
+    "period": "Current (as Stadtpräsident)",
+    "value": "Unpaid/official mandate",
+    "detail": "President of the association behind the planned new national exposition (Nexpo).",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-metropolitanraum",
+    "item": "Verein Metropolitanraum Zürich und Umgebung (President)",
+    "type": "Association / city-mandate board",
+    "period": "Current (as Stadtpräsident)",
+    "value": "Official mandate",
+    "detail": "President of the association for the Zurich metropolitan area.",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-wohnbaukommission",
+    "item": "Wohnbaukommission Kanton Zürich (Vice-President)",
+    "type": "Cantonal commission / city-mandate board",
+    "period": "Current (as Stadtpräsident)",
+    "value": "Official mandate",
+    "detail": "Vice-president of the cantonal housing-construction commission.",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-rzu",
+    "item": "RZU Planungsdachverband Zürich und Umgebung (board member)",
+    "type": "Regional planning association / city-mandate board",
+    "period": "Current (as Stadtpräsident)",
+    "value": "Official mandate",
+    "detail": "Board member of the regional planning umbrella association for Zurich and surroundings.",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-gza",
+    "item": "Greater Zurich Area (foundation board / Stiftungsrat)",
+    "type": "Economic-promotion foundation / city-mandate board",
+    "period": "Current (as Stadtpräsident)",
+    "value": "Official mandate",
+    "detail": "Foundation board member of the Greater Zurich Area economic-promotion foundation.",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-bluelion",
+    "item": "BlueLion Stiftung (foundation board / Stiftungsrat)",
+    "type": "Startup-incubator foundation / city-mandate board",
+    "period": "Current (as Stadtpräsident)",
+    "value": "Official mandate",
+    "detail": "Foundation board member of the BlueLion startup-incubator foundation.",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-zoo",
+    "item": "Zoo Zürich Stiftung (foundation board / Stiftungsrat)",
+    "type": "Foundation / city-mandate board",
+    "period": "Current (as Stadtpräsident)",
+    "value": "Official mandate",
+    "detail": "Foundation board member of the Zurich Zoo foundation.",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-mieterverband",
+    "item": "Mieter*innenverband Zürich (board member)",
+    "type": "Tenants' association",
+    "period": "2011–2014",
+    "value": "Past mandate",
+    "detail": "Former board member of the Zurich tenants' association, relevant to his housing-policy profile.",
+    "status": "Past",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "int-private",
+    "item": "Private interest ties (Private Interessenbindungen)",
+    "type": "Disclosure",
+    "period": "Current (as Stadtpräsident)",
+    "value": "None declared",
+    "detail": "The official city page lists 'keine' (none) under private interest ties for the mayor.",
+    "status": "Active",
+    "source_url": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  }
+]

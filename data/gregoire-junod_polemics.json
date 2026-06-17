@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pol-police-racisme-2025",
+    "title": "Crise des messages racistes au sein de la police lausannoise",
+    "period": "2025",
+    "category": "governance_institutional",
+    "description": "En août 2025, la Municipalité de Lausanne révèle la découverte de messages et images à caractère raciste, antisémite, islamophobe et sexiste échangés depuis 2016 dans des groupes WhatsApp de policiers (près de 10'000 pages de conversations et 6'000 photos/vidéos analysées). Plusieurs policiers sont suspendus, le total atteignant huit en septembre 2025. Le syndic Grégoire Junod, en tant qu'autorité communale, déclare qu'il faut être 'intransigeant' et reconnaît 'un problème de discrimination systémique à traiter', appelant à un 'changement de culture'. Le syndicat de police conteste la gestion de l'affaire et demande la récusation de la Ville; un agent suspendu a été réintégré.",
+    "status": "ongoing",
+    "confidence_score": "0.9",
+    "key_facts": [
+      "Découverte révélée publiquement le 15 août 2025",
+      "Jusqu'à huit policiers suspendus, enquêtes pénales ouvertes",
+      "Junod évoque un 'problème de discrimination systémique' et un nécessaire 'changement de culture'",
+      "Bras de fer entre la Ville et le syndicat de police; un agent réintégré"
+    ],
+    "source_url": ["https://www.rts.ch/info/regions/vaud/2025/article/lausanne-8-policiers-suspendus-pour-messages-racistes-le-syndic-reagit-28985660.html", "https://www.letemps.ch/suisse/vaud/quatre-policiers-lausannois-sont-suspendus-pour-des-propos-racistes", "https://lecourrier.ch/2025/09/01/police-lausannoise-quatre-nouvelles-suspensions/"]
+  },
+  {
+    "id": "pol-institutions-culturelles",
+    "title": "Crises de gouvernance dans les institutions culturelles subventionnées",
+    "period": "2021-2024",
+    "category": "governance_institutional",
+    "description": "Plusieurs institutions culturelles lausannoises subventionnées (Béjart Ballet Lausanne, Opéra de Lausanne, HEMU-Conservatoire, festival BDFIL) ont été secouées par des révélations sur des problèmes de management, des relations de travail conflictuelles et des accusations de harcèlement. Le syndic Grégoire Junod, en charge de la culture et présidant ou siégeant dans plusieurs conseils de fondation (dont la présidence ad intérim du Béjart Ballet), a été critiqué sur la gouvernance de ces institutions. Il a contesté tout 'dégât d'image' pour Lausanne tout en annonçant un renforcement des contrôles (audits RH, cellule anti-harcèlement).",
+    "status": "addressed",
+    "confidence_score": "0.85",
+    "key_facts": [
+      "Crises au Béjart Ballet, à l'Opéra de Lausanne, au Conservatoire et à BDFIL",
+      "Junod a assuré la présidence ad intérim du Conseil de fondation du Béjart Ballet",
+      "Béjart Ballet en difficulté financière (perte d'environ 1 million sur un budget de 10 millions)",
+      "La Ville a annoncé des audits RH réguliers et une cellule indépendante anti-harcèlement"
+    ],
+    "source_url": ["https://www.letemps.ch/culture/institutions-culturelles-conteste-totalement-quil-y-ait-un-degat-dimage-lausanne", "https://www.rts.ch/info/regions/vaud/13086134-gregoire-junod-la-culture-lausannoise-ne-se-porte-pas-du-tout-mal.html", "https://www.swissinfo.ch/fre/lausanne-renforce-la-surveillance-de-ses-institutions-culturelles/46706894"]
+  },
+  {
+    "id": "pol-ssp-misogynie",
+    "title": "Échange tendu avec le syndicat SSP (accusation de misogynie)",
+    "period": "2020s",
+    "category": "labor_relations",
+    "description": "Grégoire Junod a publiquement accusé le syndicat des services publics (SSP) de misogynie dans le cadre d'un différend, épisode rapporté par la presse. L'affaire illustre des tensions entre l'exécutif lausannois et certains partenaires syndicaux.",
+    "status": "other",
+    "confidence_score": "0.55",
+    "key_facts": [
+      "Junod accuse le syndicat SSP de misogynie selon 24 heures"
+    ],
+    "source_url": ["https://www.24heures.ch/lausanne-gregoire-junod-accuse-le-syndicat-ssp-de-misogynie-570832377741"]
+  }
+]

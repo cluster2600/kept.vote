@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pol-basishilfe-sanspapiers",
+    "title": "Basishilfe for Sans-Papiers ruled unlawful",
+    "period": "2021–2025",
+    "category": "Social policy / legality of municipal action",
+    "description": "Golta's Social Department introduced the 'wirtschaftliche Basishilfe', distributing cash-equivalent support to undocumented migrants via aid organisations. Bourgeois parties (notably the FDP) argued this amounted to a parallel welfare system violating federal and cantonal law and circumventing mandatory reporting of welfare recipients to migration authorities. The FDP filed a supervisory complaint with the district council (Bezirksrat), which upheld it; the cantonal government (Regierungsrat) later reached the same conclusion that the cash payments were unlawful. The city parliament voted narrowly (62 to 58) to challenge the cantonal decision before the administrative court.",
+    "status": "Documented; ruled unlawful by administrative bodies, litigation pursued",
+    "confidence_score": "high",
+    "key_facts": [
+      "City council approved roughly CHF 2 million for an 18-month pilot.",
+      "FDP supervisory complaint to the Bezirksrat was upheld; the project was ordered stopped.",
+      "The Regierungsrat confirmed the cash payments were unlawful.",
+      "Authorities cited circumvention of the duty to report foreign welfare recipients to the Migration Office.",
+      "The city parliament voted 62–58 to take the case to the administrative court."
+    ],
+    "source_url": [
+      "https://www.srf.ch/news/schweiz/bezirksrat-stoppt-basishilfe-zuerich-muss-finanzielle-hilfen-fuer-sans-papiers-einstellen",
+      "https://www.nzz.ch/zuerich/entscheid-liegt-vor-bargeldzahlungen-an-sans-papiers-in-zuerich-widerrechtlich-ld.1890402",
+      "https://www.nzz.ch/zuerich/zuercher-stadtparlament-akzeptiert-entscheid-des-kantons-zur-basishilfe-nicht-ld.1892680",
+      "https://www.limmattalerzeitung.ch/limmattal/zuerich/wirtschaftliche-basishilfe-zweite-schlappe-fuer-stadt-zuerich-regierungsrat-ist-gegen-geld-fuer-sans-papiers-ld.2788123"
+    ]
+  },
+  {
+    "id": "pol-anwaltskosten-auslaender",
+    "title": "City pays lawyers for foreign welfare recipients",
+    "period": "2024",
+    "category": "Social policy / public spending",
+    "description": "Under Golta the City of Zurich decided to cover legal-representation costs for foreign social-welfare recipients. Bourgeois parties, notably the FDP, sharply criticised the move, drawing parallels to earlier contested aid projects associated with Golta. Critics framed it as ideologically driven spending; the Social Department defended it as ensuring access to legal protection.",
+    "status": "Documented; politically contested",
+    "confidence_score": "medium",
+    "key_facts": [
+      "The city agreed to fund lawyers for foreign welfare recipients.",
+      "The FDP and other bourgeois critics objected, recalling earlier Golta-linked aid schemes.",
+      "Critics characterised the measure as ideological redistribution of public money."
+    ],
+    "source_url": [
+      "https://www.nzz.ch/zuerich/die-stadt-zuerich-bezahlt-auslaendischen-sozialhilfebezuegern-jetzt-den-anwalt-bei-der-fdp-kommen-ungute-erinnerungen-an-fruehere-hilfsprojekte-raphael-goltas-auf-ld.1869491",
+      "https://www.nzz.ch/meinung/der-zuercher-sp-stadtrat-raphael-golta-verteilt-wieder-einmal-fremdes-geld-und-setzt-seine-eigene-ideologie-durch-ld.1870379"
+    ]
+  },
+  {
+    "id": "pol-rekursfrist-lapsus",
+    "title": "Missed appeal deadline in Basishilfe procedure",
+    "period": "2021",
+    "category": "Administrative procedure",
+    "description": "In the Basishilfe dispute, the City of Zurich's Social Department under Golta missed a procedural appeal deadline (Rekursfrist), an administrative lapse that drew critical press coverage and was described as embarrassing for the city.",
+    "status": "Documented",
+    "confidence_score": "medium",
+    "key_facts": [
+      "The city failed to meet an appeal deadline in the basic-assistance procedure.",
+      "The lapse was reported critically as a procedural failure by the Social Department."
+    ],
+    "source_url": [
+      "https://www.nzz.ch/zuerich/peinlicher-lapsus-zuerich-verschlaeft-bei-basishilfe-rekursfrist-ld.1668200"
+    ]
+  }
+]

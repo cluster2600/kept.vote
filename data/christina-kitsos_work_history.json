@@ -1,0 +1,122 @@
+[
+  {
+    "id": "wh-maire-2026",
+    "role": "Maire de la Ville de Genève (présidence tournante du Conseil administratif)",
+    "organization": "Ville de Genève",
+    "start_date": "2026-06-01",
+    "end_date": "2027-05-31",
+    "description": "Maire de Genève pour l'année 2026-2027. La mairie genevoise tourne annuellement entre les cinq membres du Conseil administratif; il s'agit de son deuxième mandat de Maire. Année placée sous le thème «Le temps partagé», avec la création de «bureaux des temps».",
+    "category": "political",
+    "source_url": ["https://www.geneve.ch/actualites/christina-kitsos-nouvelle-maire-ville-geneve-annee-2026-2027", "https://www.tdg.ch/christina-kitsos-la-socialiste-redevient-maire-de-geneve-514941893746"]
+  },
+  {
+    "id": "wh-maire-2024",
+    "role": "Maire de la Ville de Genève (présidence tournante du Conseil administratif)",
+    "organization": "Ville de Genève",
+    "start_date": "2024-06-01",
+    "end_date": "2025-05-31",
+    "description": "Premier mandat de Maire de Genève, dans le cadre de la rotation annuelle de la présidence du Conseil administratif, sous le thème «Ce qui nous lie».",
+    "category": "political",
+    "source_url": ["https://www.christina-kitsos.ch/portrait", "https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "wh-conseillere-administrative",
+    "role": "Conseillère administrative, en charge du Département de la cohésion sociale et de la solidarité (DCSS)",
+    "organization": "Ville de Genève (Conseil administratif)",
+    "start_date": "2020-06-01",
+    "end_date": "",
+    "description": "Membre de l'exécutif municipal (Conseil administratif), élue en 2020 et réélue en 2025. Dirige le Département de la cohésion sociale et de la solidarité (petite enfance, enfance, jeunesse, social, santé, seniors, état civil).",
+    "category": "political",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "wh-conseillere-municipale",
+    "role": "Conseillère municipale",
+    "organization": "Conseil municipal de la Ville de Genève",
+    "start_date": "2015-06-01",
+    "end_date": "2020-05-31",
+    "description": "Élue au Conseil municipal (législatif) de la Ville de Genève. A siégé dans les commissions des arts et de la culture, des finances, de la cohésion sociale et de la solidarité, des pétitions, et a présidé la commission des sports.",
+    "category": "political",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "wh-dip-migration",
+    "role": "Chargée des affaires migratoires",
+    "organization": "Département de l'instruction publique, de la formation et de la jeunesse (DIP), Canton de Genève",
+    "start_date": "2013-01-01",
+    "end_date": "2020-01-01",
+    "description": "En charge des affaires migratoires au sein du DIP du Canton de Genève.",
+    "category": "public_administration",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "wh-dip-sga",
+    "role": "Secrétaire générale adjointe",
+    "organization": "Département de l'instruction publique, de la culture et du sport (DIP), Canton de Genève",
+    "start_date": "2010-01-01",
+    "end_date": "2013-01-01",
+    "description": "Secrétaire générale adjointe au DIP du Canton de Genève.",
+    "category": "public_administration",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "wh-dip-comm",
+    "role": "Chargée de communication",
+    "organization": "Département de l'instruction publique, de la culture et du sport (DIP), Canton de Genève",
+    "start_date": "2009-01-01",
+    "end_date": "2010-01-01",
+    "description": "Chargée de communication au DIP du Canton de Genève; première fonction au sein de l'administration cantonale genevoise.",
+    "category": "public_administration",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "wh-atelier-ckc",
+    "role": "Fondatrice et directrice de l'agence de communication Atelier cKc",
+    "organization": "Atelier cKc",
+    "start_date": "2006-01-01",
+    "end_date": "2008-12-31",
+    "description": "A fondé et dirigé sa propre agence de communication pendant environ trois ans, travaillant notamment pour des associations et fondations telles que Stop Sida et SOS Racisme.",
+    "category": "private_sector",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "wh-enseignante",
+    "role": "Enseignante de philosophie et de français",
+    "organization": "Cycle d'orientation et École du secteur tertiaire (Canton de Neuchâtel)",
+    "start_date": "2005-01-01",
+    "end_date": "2008-12-31",
+    "description": "Enseignante de philosophie et de français au cycle d'orientation ainsi qu'à l'École du secteur tertiaire.",
+    "category": "education",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  },
+  {
+    "id": "wh-assistante-parlementaire",
+    "role": "Assistante parlementaire de Didier Berberat (Conseiller national/aux États)",
+    "organization": "Assemblée fédérale (Berne)",
+    "start_date": "2007-01-01",
+    "end_date": "2008-12-31",
+    "description": "Assistante parlementaire de l'ancien Conseiller national et Conseiller aux États neuchâtelois Didier Berberat (PS).",
+    "category": "political",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "wh-deputee-neuchatel",
+    "role": "Députée au Grand Conseil",
+    "organization": "Grand Conseil du Canton de Neuchâtel",
+    "start_date": "2005-01-01",
+    "end_date": "2008-12-31",
+    "description": "Élue députée socialiste au Grand Conseil neuchâtelois à l'âge de 24 ans; a siégé notamment à la Commission des affaires extérieures.",
+    "category": "political",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "wh-assistante-unine",
+    "role": "Assistante à l'Institut de journalisme et communication",
+    "organization": "Université de Neuchâtel",
+    "start_date": "2000-01-01",
+    "end_date": "2002-12-31",
+    "description": "Assistante du professeur Antoine Maurice à l'Institut de journalisme et communication de l'Université de Neuchâtel.",
+    "category": "education",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  }
+]

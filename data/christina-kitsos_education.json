@@ -1,0 +1,29 @@
+[
+  {
+    "id": "edu-mba-hec-unige",
+    "institution": "Université de Genève (HEC)",
+    "qualification": "Master of Business Administration (MBA)",
+    "field": "Administration / gestion (HEC)",
+    "years": "2005",
+    "detail": "MBA effectué aux Hautes Études Commerciales (HEC) de l'Université de Genève afin de renforcer ses compétences en administration.",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "edu-master-unine",
+    "institution": "Université de Neuchâtel",
+    "qualification": "Master (Maîtrise) en Lettres et sciences humaines",
+    "field": "Français moderne, philosophie, communication et journalisme",
+    "years": "2003",
+    "detail": "Master en Lettres et sciences humaines de l'Université de Neuchâtel.",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos", "https://www.christina-kitsos.ch/portrait"]
+  },
+  {
+    "id": "edu-sorbonne",
+    "institution": "Université de la Sorbonne - Paris IV",
+    "qualification": "Maîtrise de Lettres modernes",
+    "field": "Lettres modernes",
+    "years": "",
+    "detail": "Maîtrise de Lettres modernes obtenue à l'Université de la Sorbonne - Paris IV.",
+    "source_url": ["https://www.geneve.ch/autorites-administration/conseil-administratif/membres-conseil-administratif/christina-kitsos"]
+  }
+]

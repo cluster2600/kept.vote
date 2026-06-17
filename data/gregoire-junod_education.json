@@ -1,0 +1,20 @@
+[
+  {
+    "id": "edu-unil-2001",
+    "institution": "Université de Lausanne (UNIL)",
+    "qualification": "Licence (lic.)",
+    "field": "Histoire et études économiques",
+    "years": "1996-2001",
+    "detail": "Licence en histoire et études économiques obtenue en 2001. Lauréat d'un Prix de Faculté en 2002.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod", "https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  },
+  {
+    "id": "edu-gymnase-cite",
+    "institution": "Gymnase de la Cité, Lausanne",
+    "qualification": "Maturité gymnasiale",
+    "field": "",
+    "years": "",
+    "detail": "Maturité obtenue au gymnase de la Cité à Lausanne.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod"]
+  }
+]

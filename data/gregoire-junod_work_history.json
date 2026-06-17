@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wh-syndic-2016",
+    "role": "Syndic (maire), en charge de la Culture et du Développement urbain",
+    "organization": "Ville de Lausanne (Municipalité)",
+    "start_date": "2016-07-01",
+    "end_date": "",
+    "description": "Élu tacitement syndic de Lausanne en 2016, succédant à Daniel Brélaz. Réélu en 2021 et reconduit pour un troisième mandat (législature 2026-2031). Dirige le dicastère Culture et Développement urbain.",
+    "category": "executive_office",
+    "source_url": ["https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html", "https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod"]
+  },
+  {
+    "id": "wh-municipal-2011",
+    "role": "Conseiller municipal (membre de l'exécutif), directeur du Logement et de la Sécurité publique",
+    "organization": "Ville de Lausanne (Municipalité)",
+    "start_date": "2011",
+    "end_date": "2016",
+    "description": "Élu pour la première fois à la Municipalité de Lausanne en 2011. Directeur de la Culture et du Logement (2011-2012), puis directeur du Logement et de la Sécurité publique (2012-2016).",
+    "category": "executive_office",
+    "source_url": ["https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html", "https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod"]
+  },
+  {
+    "id": "wh-grandconseil-2007",
+    "role": "Député au Grand Conseil du canton de Vaud (membre de la commission des finances)",
+    "organization": "Grand Conseil du canton de Vaud",
+    "start_date": "2007",
+    "end_date": "2012",
+    "description": "Député cantonal vaudois, membre de la commission des finances.",
+    "category": "legislative_office",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod", "https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  },
+  {
+    "id": "wh-conseil-communal-1998",
+    "role": "Conseiller communal (membre du législatif)",
+    "organization": "Conseil communal de Lausanne",
+    "start_date": "1998",
+    "end_date": "2007",
+    "description": "Membre du Conseil communal (législatif) de la Ville de Lausanne.",
+    "category": "legislative_office",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod", "https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  },
+  {
+    "id": "wh-unia-2005",
+    "role": "Secrétaire syndical / administrateur",
+    "organization": "Unia (syndicat)",
+    "start_date": "2005",
+    "end_date": "2011",
+    "description": "Débute sa carrière professionnelle comme administrateur au syndicat Unia, nommé secrétaire syndical en 2005, fonction qu'il occupe jusqu'à son élection à la Municipalité de Lausanne.",
+    "category": "professional",
+    "source_url": ["https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html", "https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod"]
+  },
+  {
+    "id": "wh-ps-lausanne-pres-2004",
+    "role": "Président du Parti socialiste lausannois",
+    "organization": "Parti socialiste lausannois",
+    "start_date": "2004",
+    "end_date": "2008",
+    "description": "Président de la section lausannoise du Parti socialiste, après en avoir été le secrétaire de 1997 à 2001.",
+    "category": "party",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod", "https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  }
+]

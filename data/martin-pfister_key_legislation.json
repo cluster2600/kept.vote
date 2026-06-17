@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kl1",
+    "law_name": "Army Despatch 2026 (Armeebotschaft 2026)",
+    "year": "2026",
+    "area": "Defence / military procurement",
+    "description": "As head of the defence department, Pfister presented the Federal Council's 2026 army despatch, which proposed an overall increase of around 3.4 billion francs and prioritised ground-based air defence, drone defence and cyber security. It included an additional credit (reported at roughly 394-400 million francs) for the F-35 fighter jet programme to cover cost increases since the popular vote, and indicated the planned fleet would be reduced from 36 to around 30 jets.",
+    "significance": "Central defence-financing package of Pfister's tenure, shaping Swiss rearmament priorities and the contested F-35 procurement.",
+    "source_url": [
+      "https://www.blick.ch/politik/armeebotschaft-2026-vbs-pfister-praesentiert-seinen-einkaufszettel-id21799678.html",
+      "https://www.watson.ch/schweiz/gesellschaft-politik/743854455-f-35-patriot-mehrwertsteuer-die-neuen-armee-plaene-des-bundesrats",
+      "https://www.20min.ch/story/armeebotschaft-drohnen-killer-co-pfister-will-34-milliarden-fuer-die-armee-103530232"
+    ]
+  },
+  {
+    "id": "kl2",
+    "law_name": "Proposed temporary VAT increase to finance the army",
+    "year": "2025",
+    "area": "Defence financing / taxation",
+    "description": "Pfister advanced a plan to finance higher army spending partly through a temporary increase of value-added tax (reported at around 0.8 percentage points from 2028 for about ten years), consistent with his stated preference for raising revenue rather than loosening the federal debt brake.",
+    "significance": "Signals his approach to defence financing through additional revenue rather than debt, a notable policy stance for the defence minister.",
+    "source_url": [
+      "https://www.watson.ch/schweiz/gesellschaft-politik/743854455-f-35-patriot-mehrwertsteuer-die-neuen-armee-plaene-des-bundesrats",
+      "https://www.blick.ch/politik/vbs-chef-pfister-und-seine-mehrwertsteuer-plaene-wir-haben-grosse-luecken-in-der-luftabwehr-id21827054.html"
+    ]
+  }
+]

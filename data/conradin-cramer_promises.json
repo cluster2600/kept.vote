@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cc-prom-1",
+    "title": "Deliver a successful Eurovision Song Contest 2025 in Basel",
+    "description": "As government president, Cramer committed Basel-Stadt to hosting the Eurovision Song Contest in May 2025 after Basel prevailed over Geneva, framing it as a chance to show the world Basel's hospitality and openness.",
+    "date_made": "2024",
+    "category": "culture_events",
+    "status": "completed",
+    "confidence_score": "0.9",
+    "reasoning": "Basel hosted the ESC at St. Jakobshalle with the final on 17 May 2025; organisers and the canton declared it a success, with reports of around half a million on-site visitors.",
+    "key_evidence": [
+      "Basel won the host-city bid over Geneva for ESC 2025.",
+      "The contest took place in May 2025 at St. Jakobshalle, Basel.",
+      "Cramer drew a positive balance, citing over 500,000 visitors to the host city."
+    ],
+    "source_url": [
+      "https://www.bs.ch/en/schwerpunkte/esc-basel-2025",
+      "https://www.20min.ch/story/esc-basel-ueber-eine-halbe-million-menschen-besuchten-die-host-city-103344096"
+    ]
+  },
+  {
+    "id": "cc-prom-2",
+    "title": "Adjust and partly relax housing protection (Wohnschutz)",
+    "description": "Cramer announced he would adjust Basel-Stadt's strict housing-protection regime to ease minor and energy-efficiency renovations and clear a renovation backlog, while keeping core tenant protections.",
+    "date_made": "2024",
+    "category": "housing",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "Cramer flagged Wohnschutz changes in his first-100-days balance and subsequently presented a partial revision of the housing-protection ordinance introducing a materiality threshold and reduced reporting duties; further legislative steps and possible counter-initiatives remain open.",
+    "key_evidence": [
+      "Announced planned changes to housing and climate protection in his 107-days balance as president.",
+      "Presented a partial revision of the Wohnschutz ordinance with a per-apartment materiality threshold.",
+      "Tenants' association threatened new popular initiatives in response."
+    ],
+    "source_url": [
+      "https://www.bzbasel.ch/basel/basel-stadt/bilanz-die-ersten-107-tage-als-regierungspraesident-cramer-plant-veraenderungen-bei-wohn-und-klimaschutz-ld.2655329",
+      "https://www.bzbasel.ch/basel/basel-stadt/gegen-sanierungsstau-cramer-lockert-wohnschutz-aber-vor-allem-zugunsten-des-klimaschutzes-ld.2785829"
+    ]
+  },
+  {
+    "id": "cc-prom-3",
+    "title": "Strengthen the integrative school via the measures package / Foerderklassen counter-proposal",
+    "description": "As education director, Cramer pledged to act 'quickly' to relieve the integrative school by introducing partially separate support groups and support classes, learning islands and additional support services, as the government's response to the Foerderklassen-Initiative.",
+    "date_made": "2024",
+    "category": "education",
+    "status": "in_progress",
+    "confidence_score": "0.85",
+    "reasoning": "The Grosser Rat passed the measures package in autumn 2024 (about CHF 13.7 million per year); first measures were due from January 2025 with full rollout targeted by 2028, so implementation is underway.",
+    "key_evidence": [
+      "Measures package adopted by the Grosser Rat in autumn 2024 as counter-proposal to the Foerderklassen-Initiative.",
+      "First measures planned from January 2025, full implementation targeted by 2028.",
+      "Cramer publicly stated 'we must act, and quickly' on the integrative school."
+    ],
+    "source_url": [
+      "https://www.bs.ch/ed/weiterentwicklung-der-integrativen-schule",
+      "https://www.bazonline.ch/conradin-cramer-zur-integrativen-schule-wir-muessen-handeln-und-zwar-schnell-291966439050"
+    ]
+  },
+  {
+    "id": "cc-prom-4",
+    "title": "Develop and evaluate the canton's climate strategy and climate office",
+    "description": "Cramer made climate one of the focal dossiers of his Praesidialdepartement and announced an external evaluation of the canton's climate office to improve coordination of climate policy.",
+    "date_made": "2024",
+    "category": "climate",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "At his 100-day press conference Cramer announced an external evaluation of the climate office created two years earlier; climate is identified as a core focus area of his department.",
+    "key_evidence": [
+      "Climate identified as one of Cramer's main focus areas in the Praesidialdepartement.",
+      "Announced external evaluation of the canton's climate office to improve coordination."
+    ],
+    "source_url": [
+      "https://www.bzbasel.ch/basel/basel-stadt/bilanz-die-ersten-107-tage-als-regierungspraesident-cramer-plant-veraenderungen-bei-wohn-und-klimaschutz-ld.2655329",
+      "https://www.baseljetzt.ch/unter-der-lupe-die-wichtigsten-dossiers-des-regierungspraesidenten-conradin-cramer/276095"
+    ]
+  },
+  {
+    "id": "cc-prom-5",
+    "title": "Set a cultural framework (Kulturleitbild) for 2026-2031",
+    "description": "Cramer made culture a priority of his department, with work on a new cultural framework document (Kulturleitbild) for the years 2026 to 2031 emphasising flagship cultural institutions ('lighthouses') such as the art museum and theatre.",
+    "date_made": "2024",
+    "category": "culture",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Reporting on his early tenure describes the preparation of the 2026-2031 cultural framework as a key project of the Praesidialdepartement under Cramer.",
+    "key_evidence": [
+      "Cultural framework (Kulturleitbild) for 2026-2031 being developed in his department.",
+      "Cramer's stated focus on flagship institutions such as the art museum and theatre."
+    ],
+    "source_url": [
+      "https://www.bazonline.ch/basel-hat-einen-neuen-chef-so-will-conradin-cramer-das-praesidialdepartement-praegen-582340555146",
+      "https://www.baseljetzt.ch/unter-der-lupe-die-wichtigsten-dossiers-des-regierungspraesidenten-conradin-cramer/276095"
+    ]
+  },
+  {
+    "id": "cc-prom-6",
+    "title": "Strengthen safeguarding at canton-funded ballet/dance schools",
+    "description": "Following abuse allegations at the Ballettschule Theater Basel, Cramer committed his department to requiring affected ballet/dance schools to adopt a code of conduct and set up an independent reporting office as a condition of cooperation with the canton.",
+    "date_made": "2023",
+    "category": "education_safeguarding",
+    "status": "in_progress",
+    "confidence_score": "0.75",
+    "reasoning": "Cramer announced the code-of-conduct and reporting-office requirement; by the start of a later school year three of five relevant ballet associations had submitted documents, indicating implementation in progress.",
+    "key_evidence": [
+      "Cramer announced a mandatory code of conduct and independent reporting office for the schools.",
+      "Three of five ballet associations had submitted documents by a subsequent school-year start."
+    ],
+    "source_url": [
+      "https://www.bzbasel.ch/basel/basel-stadt/missstaende-nach-missbrauchsfaellen-im-ballett-basler-regierungsrat-fordert-eine-unabhaengige-meldestelle-ld.2445392"
+    ]
+  }
+]

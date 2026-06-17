@@ -1,0 +1,17 @@
+[
+  {
+    "id": "pol-001",
+    "title": "SVP frustration over a Green Liberal winning the Federal Chancellor post",
+    "period": "2023-12",
+    "category": "political_controversy",
+    "description": "Rossi's election as the first Federal Chancellor from the Green Liberal Party drew sharp criticism from the SVP, whose own candidate Gabriel Lüchinger lost in the second ballot. SVP figures argued that parts of the Centre and FDP had backed a candidate from a left/centre-left party; SVP National Councillor Thomas Matter complained that a large part of the Centre and FDP had effectively hoisted the GLP into the federal executive sphere. Commentators also noted that official statements did not foreground his GLP membership even though, for the first time, a member of a non-Federal-Council party was chosen. This was a partisan dispute over the election outcome rather than any personal misconduct by Rossi.",
+    "status": "historical",
+    "confidence_score": "0.7",
+    "key_facts": [
+      "Rossi is the first Federal Chancellor from the GLP.",
+      "He won the second ballot with 135 of 245 votes against SVP candidate Gabriel Lüchinger (103 votes).",
+      "SVP National Councillor Thomas Matter publicly criticised the Centre and FDP for backing him."
+    ],
+    "source_url": ["https://www.20min.ch/story/viktor-rossi-erster-glp-bundeskanzler-sorgt-bei-der-svp-fuer-rote-koepfe-508935561703", "https://www.nzz.ch/schweiz/die-kleinste-fraktion-erhaelt-den-spitzenjob-viktor-rossi-wird-der-neue-bundeskanzler-ld.1770319"]
+  }
+]

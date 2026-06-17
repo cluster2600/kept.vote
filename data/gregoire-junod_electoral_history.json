@@ -1,0 +1,79 @@
+[
+  {
+    "id": "elec-2026-syndic",
+    "election": "Élection à la syndicature de Lausanne 2026",
+    "date": "2026-04-26",
+    "role_sought": "Syndic de Lausanne",
+    "result": "Élu (tacitement)",
+    "vote_share": "",
+    "opponent": "Aucun (seul candidat en lice)",
+    "detail": "Après la victoire de l'alliance rose-rouge-verte (six des sept sièges de la Municipalité), Grégoire Junod, seul candidat à la syndicature, est reconduit pour un troisième mandat. Élection tacite. Il a indiqué que ce mandat serait 'selon toute vraisemblance' son dernier.",
+    "source_url": ["https://www.24heures.ch/lausanne-le-syndic-gregoire-junod-se-succede-a-lui-meme-503176963947", "https://www.swissinfo.ch/fre/syndicatures:-nombreuses-%C3%A9lections-tacites-1er-tour-le-26-avril/91218451", "https://www.letemps.ch/suisse/vaud/gregoire-junod-syndic-de-lausanne-selon-toute-vraisemblance-ce-sera-ma-derniere-legislature"]
+  },
+  {
+    "id": "elec-2026-muni",
+    "election": "Élections communales de Lausanne 2026 (Municipalité)",
+    "date": "2026-03-29",
+    "role_sought": "Membre de la Municipalité de Lausanne",
+    "result": "Élu (2e tour)",
+    "vote_share": "",
+    "opponent": "Listes de droite (PLR, UDC) et autres",
+    "detail": "Au 1er tour (8 mars 2026), ballottage général; Grégoire Junod arrive en tête des sortants. Au 2e tour (29 mars 2026), l'alliance rose-rouge-verte fait le plein avec ses quatre sortants en tête (Émilie Moeschler 1re, Xavier Company 2e, Grégoire Junod 3e, Natacha Litzistorf 4e). La gauche conserve six des sept sièges de l'exécutif.",
+    "source_url": ["https://www.rts.ch/info/regions/vaud/2026/article/elections-communales-vaudoises-resultats-du-second-tour-dimanche-29197332.html", "https://latele.ch/index.php/articles/lausanne-ballottage-general-le-syndic-gregoire-junod-en-tete"]
+  },
+  {
+    "id": "elec-2021-syndic",
+    "election": "Élection à la syndicature de Lausanne 2021",
+    "date": "2021-03-28",
+    "role_sought": "Syndic de Lausanne",
+    "result": "Élu / reconduit",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Réélu syndic de Lausanne le 28 mars 2021 pour la législature 2021-2026, dans le cadre de la large victoire de l'alliance rose-verte-rouge.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod", "https://lecourrier.ch/2021/03/28/lalliance-rose-verte-rouge-plebiscitee-a-lausanne/"]
+  },
+  {
+    "id": "elec-2021-muni",
+    "election": "Élections communales de Lausanne 2021 (Municipalité)",
+    "date": "2021-03-28",
+    "role_sought": "Membre de la Municipalité de Lausanne",
+    "result": "Élu",
+    "vote_share": "Environ 43,3% au 1er tour (15 882 voix)",
+    "opponent": "Listes de droite et autres",
+    "detail": "Au 1er tour du 7 mars 2021, ballottage général (taux de participation 37,65%); les sortants en tête, Grégoire Junod recueillant environ 15 882 voix (env. 43,3%). Élection complétée au 2e tour du 28 mars 2021.",
+    "source_url": ["https://www.radiolac.ch/actualite/suisse/lausanne-ballottage-general-le-syndic-gregoire-junod-en-tete/", "https://www.lausanne.ch/officiel/votations-elections/elections/elections-communales/elections-resultats.html"]
+  },
+  {
+    "id": "elec-2016-syndic",
+    "election": "Élection à la syndicature de Lausanne 2016",
+    "date": "2016",
+    "role_sought": "Syndic de Lausanne",
+    "result": "Élu (tacitement)",
+    "vote_share": "",
+    "opponent": "Aucun (élection tacite)",
+    "detail": "Élu tacitement syndic de Lausanne en 2016, à 40 ans, succédant à Daniel Brélaz (syndic depuis 2002). Entré en fonction le 1er juillet 2016.",
+    "source_url": ["https://www.rts.ch/info/regions/vaud/7608399-le-socialiste-gregoire-junod-elu-tacitement-syndic-de-lausanne.html", "https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod"]
+  },
+  {
+    "id": "elec-2016-muni",
+    "election": "Élections communales de Lausanne 2016 (Municipalité)",
+    "date": "2016-02-28",
+    "role_sought": "Membre de la Municipalité de Lausanne",
+    "result": "Élu",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Réélu à la Municipalité de Lausanne lors de l'élection du 28 février 2016, avant de devenir syndic par élection tacite.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod"]
+  },
+  {
+    "id": "elec-2011-muni",
+    "election": "Élections communales de Lausanne 2011 (Municipalité)",
+    "date": "2011",
+    "role_sought": "Membre de la Municipalité de Lausanne",
+    "result": "Élu",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Première élection à la Municipalité (exécutif) de Lausanne en 2011, en charge de la Culture et du Logement, puis du Logement et de la Sécurité publique.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Junod", "https://www.lausanne.ch/officiel/municipalite/composition/Biographies/Biographie-Gregoire-Junod.html"]
+  }
+]

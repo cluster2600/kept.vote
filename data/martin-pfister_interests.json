@@ -1,0 +1,52 @@
+[
+  {
+    "id": "in1",
+    "item": "Offiziersgesellschaft des Kantons Zug (Officers' Society of Canton Zug)",
+    "type": "association membership",
+    "period": "",
+    "value": "",
+    "detail": "Member of the cantonal officers' society; Pfister holds the rank of Oberst (Colonel) in the Swiss Army.",
+    "status": "reported",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister",
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "in2",
+    "item": "Verein Ehemalige Rettungsregiment 91 (association of former members of Rescue Regiment 91)",
+    "type": "association membership",
+    "period": "",
+    "value": "",
+    "detail": "Membership reflecting his military background in disaster-relief / rescue units.",
+    "status": "reported",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  },
+  {
+    "id": "in3",
+    "item": "Arbeitsgemeinschaft Wirtschaft und Gesellschaft (AWG)",
+    "type": "association membership",
+    "period": "",
+    "value": "",
+    "detail": "Member of the AWG, an economy-and-society interest group.",
+    "status": "reported",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister"
+    ]
+  },
+  {
+    "id": "in4",
+    "item": "Die Mitte Baar (local party section)",
+    "type": "political party membership",
+    "period": "",
+    "value": "",
+    "detail": "Member of the local section of The Centre in Baar; previously president of the CVP Baar (2005-2012).",
+    "status": "reported",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister",
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cc-elec-1",
+    "election": "Grosser Rat (cantonal parliament) elections, Basel-Stadt",
+    "date": "2004",
+    "role_sought": "Member of the Grosser Rat",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Served as a member of the cantonal parliament of Basel-Stadt from 2005 to 2016 (LDP).",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-elec-2",
+    "election": "Election of the President of the Grosser Rat",
+    "date": "2013-02-06",
+    "role_sought": "President of the Grosser Rat (2013/2014 term)",
+    "result": "Elected",
+    "vote_share": "90 of 98 votes",
+    "opponent": "",
+    "detail": "Elected President of the Grand Council with 90 of 98 votes, then the youngest Grand Council president in about a century.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-elec-3",
+    "election": "Swiss National Council election (Nationalratswahl)",
+    "date": "2015-10-18",
+    "role_sought": "National Council seat (Basel-Stadt)",
+    "result": "Not elected (first runner-up)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Reached second place on the LDP list and became the first substitute (erster Nachrueckender) to the elected MP Christoph Eymann.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-elec-4",
+    "election": "Regierungsrat (cantonal government) general elections, Basel-Stadt",
+    "date": "2016-10-23",
+    "role_sought": "Member of the Regierungsrat",
+    "result": "Elected (first round)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Nominated by the LDP on 8 March 2016, elected to the cantonal government in the first round of voting; took office on 8 February 2017 as head of the education department.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-elec-5",
+    "election": "Regierungsrat general elections, Basel-Stadt",
+    "date": "2020-10-25",
+    "role_sought": "Member of the Regierungsrat (re-election)",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the cantonal government for the 2021-2025 term (LDP).",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer"
+    ]
+  },
+  {
+    "id": "cc-elec-6",
+    "election": "By-election (Ersatzwahl) for the Regierungspraesidium, Basel-Stadt - second round",
+    "date": "2024-04-07",
+    "role_sought": "Regierungspraesident (president of the cantonal government)",
+    "result": "Elected (second round)",
+    "vote_share": "37,440 votes",
+    "opponent": "Mustafa Atici (SP, 3,573 votes); Eric Weber (VA, 1,494 votes)",
+    "detail": "By-election triggered by Beat Jans's departure from the cantonal government after his election to the Federal Council. Cramer won the presidency in the second round with 37,440 votes (turnout 47.64%).",
+    "source_url": [
+      "https://www.bs.ch/medienmitteilungen/staatskanzlei/2024-ersatzwahlen-den-regierungsrat-und-ins-regierungspraesidium-gewaehlt-wurden-mustafa-atici-und-conradin-cramer"
+    ]
+  },
+  {
+    "id": "cc-elec-7",
+    "election": "Regierungsrat general elections, Basel-Stadt - first round",
+    "date": "2024-10-20",
+    "role_sought": "Member of the Regierungsrat (re-election)",
+    "result": "Re-elected (first round)",
+    "vote_share": "28,032 votes",
+    "opponent": "",
+    "detail": "Re-elected to the cantonal government in the first round with 28,032 votes (absolute majority 23,189).",
+    "source_url": [
+      "https://www.bs.ch/medienmitteilungen/staatskanzlei/2024-sechs-kandidierende-im-ersten-wahlgang-den-regierungsrat-gewaehlt"
+    ]
+  },
+  {
+    "id": "cc-elec-8",
+    "election": "Regierungspraesidium general elections, Basel-Stadt - first round",
+    "date": "2024-10-20",
+    "role_sought": "Regierungspraesident (re-election)",
+    "result": "Re-elected (first round)",
+    "vote_share": "24,480 votes",
+    "opponent": "Anina Ineichen (Gruene, 14,439 votes); Eric Weber (VA, 1,436 votes)",
+    "detail": "Confirmed as government president in the first round with 24,480 votes (absolute majority 22,396; turnout 44.62%).",
+    "source_url": [
+      "https://www.bs.ch/medienmitteilungen/staatskanzlei/2024-sechs-kandidierende-im-ersten-wahlgang-den-regierungsrat-gewaehlt"
+    ]
+  }
+]

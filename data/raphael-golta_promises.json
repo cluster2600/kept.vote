@@ -1,0 +1,103 @@
+[
+  {
+    "id": "pr-affordable-housing",
+    "title": "Prioritise securing and creating affordable housing",
+    "description": "Golta has said that securing and creating affordable housing is especially important to the population and that, because the relevant responsibilities converge at the city presidency, he will make this a particular focus of his term.",
+    "date_made": "2026-05",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": "high",
+    "reasoning": "Repeatedly stated as a top personal priority in post-election interviews; consistent with his record as a former tenants'-association board member and vice-president of the cantonal housing commission.",
+    "key_evidence": [
+      "Stated affordable housing as a central focus of his mayoralty in interviews after his election.",
+      "Vice-president of the Wohnbaukommission Kanton Zürich."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/raphael-golta-so-will-zuerichs-neuer-stadtpraesident-regieren-460400974492",
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/behoerden-und-organe/stadtrat/raphael-golta.html"
+    ]
+  },
+  {
+    "id": "pr-accessible-mayor",
+    "title": "Be an accessible, dialogue-oriented mayor",
+    "description": "Golta pledged to be a 'nahbarer' (accessible) city president who actively seeks dialogue with residents.",
+    "date_made": "2026-05",
+    "category": "Governance / public engagement",
+    "status": "in_progress",
+    "confidence_score": "high",
+    "reasoning": "Directly quoted in interviews and headlines as a defining promise for his style of office.",
+    "key_evidence": [
+      "Quoted: 'I want to be an accessible city president' and to enter into dialogue with people."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/wahl-stadtpraesident-zuerich-wie-viele-stimmen-holt-raphael-golta-506779095130",
+      "https://www.nau.ch/politik/regional/raphael-golta-neuer-stadtprasident-von-zurich-im-interview-67132475"
+    ]
+  },
+  {
+    "id": "pr-bold-zurich",
+    "title": "Make Zurich bolder and more willing to try new ideas",
+    "description": "Golta said he wants to make Zurich bolder, try out new approaches and demonstrate that progress and fairness can go together.",
+    "date_made": "2026",
+    "category": "City strategy",
+    "status": "in_progress",
+    "confidence_score": "medium",
+    "reasoning": "Stated as a campaign and governing aspiration; broad in nature but consistently expressed.",
+    "key_evidence": [
+      "Campaign and interview statements about making the city bolder and pairing progress with fairness."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/raphael-golta-so-will-zuerichs-neuer-stadtpraesident-regieren-460400974492",
+      "https://www.nzz.ch/zuerich/naechster-stadtpraesident-von-zuerich-wer-ist-raphael-golta-sp-mann-ld.1928288"
+    ]
+  },
+  {
+    "id": "pr-climate-policy",
+    "title": "Pursue visionary climate policy in a livable city",
+    "description": "Golta set out the goal of a forward-looking climate policy combined with a strong economy and a livable city.",
+    "date_made": "2026",
+    "category": "Climate / environment",
+    "status": "in_progress",
+    "confidence_score": "medium",
+    "reasoning": "Stated as a campaign focus area; aligns with the strongly left-green Zurich city executive elected in 2026.",
+    "key_evidence": [
+      "Campaign platform listing visionary climate policy alongside a strong economy."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/raphael-golta-so-will-zuerichs-neuer-stadtpraesident-regieren-460400974492"
+    ]
+  },
+  {
+    "id": "pr-opportunity-for-all",
+    "title": "Ensure Zurich offers opportunities to all, not only the wealthy",
+    "description": "Golta pledged that as mayor he wants Zurich to offer opportunities to everyone, including people in difficult situations, not just high earners and the wealthy.",
+    "date_made": "2026",
+    "category": "Social fairness",
+    "status": "in_progress",
+    "confidence_score": "high",
+    "reasoning": "Central to his campaign messaging and consistent with his twelve-year record as social director.",
+    "key_evidence": [
+      "Stated goal that the city should offer chances to all residents, including those in hardship."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/raphael-golta-so-will-zuerichs-neuer-stadtpraesident-regieren-460400974492",
+      "https://www.watson.ch/schweiz/sp/977478485-wahlen-in-zuerich-wer-ist-der-neue-stadtpraesident-raphael-golta"
+    ]
+  },
+  {
+    "id": "pr-culture-interim-uses",
+    "title": "Balance culture and urban development via interim uses",
+    "description": "Golta said he wants culture and housing to coexist despite Zurich's limited space, including by promoting interim uses (Zwischennutzungen) of available space.",
+    "date_made": "2026",
+    "category": "Culture / urban development",
+    "status": "in_progress",
+    "confidence_score": "medium",
+    "reasoning": "Stated in interviews about how he intends to manage the city-presidency portfolio covering urban development and culture.",
+    "key_evidence": [
+      "Statements about enabling interim uses so culture and housing can coexist in a space-constrained city."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/raphael-golta-so-will-zuerichs-neuer-stadtpraesident-regieren-460400974492"
+    ]
+  }
+]

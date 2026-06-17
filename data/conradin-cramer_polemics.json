@@ -1,0 +1,78 @@
+[
+  {
+    "id": "cc-pol-1",
+    "title": "School-camp parental contributions dispute (Klassenlager/Schullager)",
+    "period": "2019",
+    "category": "education_policy_dispute",
+    "description": "Following a 2017 Federal Court ruling limiting how much parents can be charged for mandatory school camps, the Basel Young Socialists (Juso) and parents accused education director Cramer of charging up to CHF 25 per child per day rather than the lower amount they argued the ruling required, and the Juso threatened legal action and called for his resignation if he did not implement the decision. Cramer argued the ruling concerned the canton of Thurgau and that Basel-Stadt's situation differed; the canton later increased the camp budget to safeguard ski camps.",
+    "status": "resolved",
+    "confidence_score": "0.85",
+    "key_facts": [
+      "Triggered by a 2017 Federal Court ruling on maximum parental contributions for compulsory school events.",
+      "Basel Young Socialists (Juso) threatened a complaint and demanded Cramer's resignation if he did not comply.",
+      "Cramer defended the canton's approach, arguing the ruling applied to a different cantonal starting point.",
+      "The canton later raised the camp budget by roughly CHF 440,000 to protect ski camps."
+    ],
+    "source_url": [
+      "https://www.bzbasel.ch/basel/basel-stadt/nach-basler-schullager-eklat-linke-und-eltern-setzen-regierungsrat-cramer-unter-druck-ld.1398115",
+      "https://primenews.ch/news/2019/11/basler-juso-droht-conradin-cramer-mit-klage",
+      "https://www.bzbasel.ch/basel/basel-stadt/budgeterhohung-um-rund-440-000-franken-conradin-cramer-will-die-skilager-retten-ld.1530327"
+    ]
+  },
+  {
+    "id": "cc-pol-2",
+    "title": "Biozentrum cost overruns - parliamentary inquiry (PUK) criticism and conflict-of-interest concern",
+    "period": "2022",
+    "category": "oversight_governance",
+    "description": "A parliamentary investigation commission (PUK) of the Grosser Rat sharply criticised the Basel-Stadt government and the university council over the troubled new building of the University of Basel's Biozentrum, where costs rose from an originally budgeted figure of around CHF 330 million to roughly CHF 430 million and the building was delivered years late. The PUK report found insufficient planning, neglected supervisory duties and an unclear cost-overrun process, and flagged as problematic that the education director (Cramer) simultaneously sat on the university council and was represented in the project's steering bodies. The government, of which Cramer was a member, rejected the PUK's reservations and argued oversight had been guaranteed; the late timing of its response angered MPs across the parties.",
+    "status": "concluded",
+    "confidence_score": "0.8",
+    "key_facts": [
+      "PUK final report presented September 2022 after about two and a half years of work.",
+      "Costs rose from roughly CHF 330 million to about CHF 430 million; the building was delivered years late.",
+      "PUK flagged the education director's dual role on the university council and in project steering as a structural conflict of interest.",
+      "The criticism targeted the government and university council collectively rather than Cramer personally; the government rejected the reservations."
+    ],
+    "source_url": [
+      "https://www.bs.ch/nm/2022-puk-biozentrum-legt-ihren-schlussbericht-zum-neubauprojekt-biozentrum-vor-gr.html",
+      "https://www.bazonline.ch/basler-regierungsrat-und-universitaetsrat-ernten-massive-kritik-182513414038",
+      "https://www.bzbasel.ch/basel/basel-stadt/biozentrum-basler-regierung-reagiert-mit-unverstaendnis-auf-kritik-ld.2360432"
+    ]
+  },
+  {
+    "id": "cc-pol-3",
+    "title": "Abuse allegations at the Ballettschule Theater Basel - departmental safeguarding response",
+    "period": "2022-2023",
+    "category": "safeguarding_oversight",
+    "description": "After dozens of former students of the Ballettschule Theater Basel reported years of humiliation, inappropriate behaviour and harmful training methods, Cramer's education department came under scrutiny for its supervision of the canton-funded competitive-sport/dance training. In response, Cramer announced that the affected ballet/dance schools (BTB and Basel Dance Academy) would have to adopt a code of conduct and set up an independent reporting office (Meldestelle) as a condition of continued cooperation with the canton. The allegations concern the schools and individual staff; Cramer himself is not accused of wrongdoing, and the item reflects his role as supervising minister.",
+    "status": "measures_implemented",
+    "confidence_score": "0.78",
+    "key_facts": [
+      "Numerous former students reported abuse and misconduct spanning years at the Ballettschule Theater Basel.",
+      "Cramer's education department required affected schools to adopt a code of conduct and an independent reporting office.",
+      "The allegations are directed at the schools and individual staff, not at Cramer personally."
+    ],
+    "source_url": [
+      "https://www.bzbasel.ch/basel/basel-stadt/missstaende-nach-missbrauchsfaellen-im-ballett-basler-regierungsrat-fordert-eine-unabhaengige-meldestelle-ld.2445392",
+      "https://www.srf.ch/news/schweiz/schuldirektorin-freigestellt-massive-vorwuerfe-von-schuelerinnen-der-ballettschule-theater-basel"
+    ]
+  },
+  {
+    "id": "cc-pol-4",
+    "title": "Loosening of housing protection (Wohnschutz) - criticism from tenants' association",
+    "period": "2025",
+    "category": "policy_controversy",
+    "description": "Cramer's partial revision of the housing-protection ordinance, intended to ease minor and energy-efficiency renovations and clear a renovation backlog, drew criticism from the Basel tenants' association (Mieterverband), which warned the changes would allow higher rent increases and threatened to launch new popular initiatives. Property owners and parts of the political centre-right welcomed the move. Cramer pointed to a sharp rise in applications after the easing as evidence the corrections were taking effect.",
+    "status": "ongoing",
+    "confidence_score": "0.8",
+    "key_facts": [
+      "The tenants' association (Mieterverband) threatened new popular initiatives against the relaxation.",
+      "Cramer framed the change as targeting the renovation backlog and energy-efficiency upgrades.",
+      "Applications under the ordinance reportedly rose by about 40 percent after the easing."
+    ],
+    "source_url": [
+      "https://www.bzbasel.ch/basel/basel-stadt/wohnschutz-basler-mieterverband-droht-conradin-cramer-mit-neuen-volksinitiativen-ld.2784430",
+      "https://www.bazonline.ch/basel-40-prozent-mehr-gesuche-nach-wohnschutz-225944367019"
+    ]
+  }
+]

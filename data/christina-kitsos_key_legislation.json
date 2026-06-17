@@ -1,0 +1,38 @@
+[
+  {
+    "id": "leg-municipalisation-creches",
+    "law_name": "Réforme de la gouvernance de la petite enfance / municipalisation progressive des structures d'accueil préscolaire",
+    "year": "2024",
+    "area": "Petite enfance / service public",
+    "description": "Réforme de la gouvernance du domaine de la petite enfance en Ville de Genève, prévoyant l'intégration progressive (par étapes) des nouvelles structures d'accueil préscolaire dans le système municipal. Christina Kitsos a obtenu le feu vert du Conseil municipal pour réformer les crèches.",
+    "significance": "Considérée par Kitsos comme un levier essentiel pour l'égalité et la création de nouvelles places de crèche; la Ville estime qu'il manque entre 800 et 1000 places. Réforme phare de son département, défendue comme relevant du service public.",
+    "source_url": ["https://www.tdg.ch/christina-kitsos-obtient-un-blanc-seing-pour-reformer-les-creches-620548830733", "https://www.tdg.ch/geneve-la-municipalisation-des-creches-par-christina-kitsos-628222750968"]
+  },
+  {
+    "id": "leg-hebergement-urgence",
+    "law_name": "Dispositif intercommunal d'hébergement d'urgence pour personnes sans-abri",
+    "year": "2023",
+    "area": "Action sociale / sans-abrisme",
+    "description": "Mise en place d'un dispositif d'hébergement d'urgence de plus de 500 places ouvertes à l'année, avec un financement intercommunal (environ 40% par la Ville de Genève et 60% par les autres communes genevoises), après obtention du soutien de l'ensemble des communes du canton.",
+    "significance": "Réforme structurelle de l'accueil des personnes sans-abri, sécurisant le financement du dispositif au-delà de la seule Ville de Genève et le rendant pérenne sur toute l'année.",
+    "source_url": ["https://www.christina-kitsos.ch/portrait", "https://www.letemps.ch/suisse/geneve/christina-kitsos-propos-laccueil-sansabri-geneve-vais-prendre-baton-pelerin"]
+  },
+  {
+    "id": "leg-correspondants-nuit",
+    "law_name": "Dispositif des correspondant-e-s de nuit",
+    "year": "2024",
+    "area": "Médiation sociale / sécurité de proximité",
+    "description": "Déploiement et extension d'un dispositif de correspondant-e-s de nuit, agents de médiation sociale assurant la prévention nocturne et le vivre-ensemble. Déployé d'abord dans le secteur Pâquis-Grottes-Saint-Gervais (2023), puis étendu, avec l'objectif de couvrir à terme l'ensemble du territoire municipal.",
+    "significance": "Réponse de proximité aux enjeux de cohabitation et de sécurité dans l'espace public nocturne, présentée comme une alternative sociale à une approche purement sécuritaire.",
+    "source_url": ["https://www.rts.ch/info/regions/geneve/2024/article/la-municipalite-de-geneve-etend-le-dispositif-des-correspondants-de-nuit-28666481.html", "https://www.tdg.ch/des-correspondants-de-nuit-bientot-deployes-aux-paquis-799060386704"]
+  },
+  {
+    "id": "leg-aide-jeunes-1000",
+    "law_name": "Aide financière à l'employabilité des 18-25 ans (1000 francs)",
+    "year": "2024",
+    "area": "Jeunesse / insertion professionnelle",
+    "description": "Nouvelle prestation de la politique municipale de la jeunesse: une aide annuelle ponctuelle de 1000 francs (renouvelable une fois) destinée aux jeunes de 18 à 25 ans en difficulté d'insertion, sous conditions, pour financer du matériel, une formation ou un permis de conduire. 400 000 francs inscrits au budget 2024; partenariat avec l'association Autonomia pour la gestion des demandes.",
+    "significance": "Mesure ciblée d'insertion professionnelle des jeunes; vivement critiquée par la droite (PLR, MCG) comme «électoraliste» en période électorale.",
+    "source_url": ["https://www.tdg.ch/ville-de-geneve-1000-francs-par-jeune-pour-trouver-un-emploi-643274229678", "https://www.geneve.ch/public/jeunes/trouver-ecoute-soutien/soutenu-financierement"]
+  }
+]

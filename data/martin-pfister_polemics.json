@@ -1,0 +1,39 @@
+[
+  {
+    "id": "po1",
+    "title": "ADS-15 reconnaissance drone procurement kept despite defects",
+    "period": "2025",
+    "category": "procurement / defence policy",
+    "description": "Pfister's department decided to continue with the troubled ADS-15 (Hermes 900) reconnaissance drone programme despite the drones failing to meet certain army requirements and reported safety problems. The decision was criticised in the press, with Pfister arguing that too much money had already been spent and the capability gap would be too large to abandon the project.",
+    "status": "ongoing",
+    "confidence_score": "0.8",
+    "key_facts": [
+      "The army's reconnaissance drone programme (ADS-15) has been beset by delays and technical problems.",
+      "Pfister's VBS decided to retain the procurement rather than cancel it.",
+      "Commentators, including Tages-Anzeiger, called the decision a mistake."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/drohne-der-armee-vbs-haelt-an-beschaffung-der-armee-fest-402391207070"
+    ]
+  },
+  {
+    "id": "po2",
+    "title": "F-35 cost overruns and fleet reduction",
+    "period": "2025-2026",
+    "category": "procurement / public finances",
+    "description": "Under Pfister, the F-35A fighter jet procurement became a major political controversy after the lack of a guaranteed fixed price led to higher costs than presented before the popular vote, prompting the Federal Council to seek an additional credit (reported around 394-400 million francs) and to plan for around 30 jets instead of the originally communicated 36. The Federal Audit Office had earlier warned about the price assumptions, and critics said public trust had been damaged.",
+    "status": "ongoing",
+    "confidence_score": "0.75",
+    "key_facts": [
+      "The original F-35 deal was presented with a price that did not hold as a fixed price.",
+      "An additional credit was requested within the 2026 army despatch.",
+      "The planned number of jets was reduced from 36 toward about 30.",
+      "The cost issue predates Pfister's tenure but became central to his early defence stewardship."
+    ],
+    "source_url": [
+      "https://www.tagesanzeiger.ch/f-35-pfister-fordert-400-millionen-zusatzkredit-vom-parlament-586827058141",
+      "https://www.nau.ch/politik/bundeshaus/schweiz-bestellt-nur-30-f-35-und-setzt-auf-europaische-raketenabwehr-67102591",
+      "https://www.nzz.ch/schweiz/bundesrat-martin-pfister-weiss-um-die-probleme-im-vbs-und-sagt-wir-duerfen-die-menschen-nicht-anluegen-ld.1923843"
+    ]
+  }
+]

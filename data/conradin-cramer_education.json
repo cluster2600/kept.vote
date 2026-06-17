@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cc-edu-1",
+    "institution": "Gymnasium Baeumlihof, Basel",
+    "qualification": "Matura (Swiss secondary school leaving certificate)",
+    "field": "General secondary education",
+    "years": "until 1998",
+    "detail": "Attended the Baeumlihof Gymnasium in Basel and completed the Swiss Matura.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-edu-2",
+    "institution": "University of Basel and Albert-Ludwigs-Universitaet Freiburg im Breisgau",
+    "qualification": "Studium der Jurisprudenz (law studies)",
+    "field": "Law",
+    "years": "1998-2003",
+    "detail": "Studied law at the University of Basel and at the Albert-Ludwigs-Universitaet in Freiburg im Breisgau (Germany).",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-edu-3",
+    "institution": "Basel-Stadt (cantonal bar admission)",
+    "qualification": "Anwaltspatent (admission to the bar) and Promotion zum Dr. iur. (doctorate in law)",
+    "field": "Law",
+    "years": "2006-2007",
+    "detail": "Obtained the doctorate (Dr. iur.) and the cantonal bar admission; his dissertation 'Der Bonus im Arbeitsvertrag' was published by Staempfli Verlag (Bern, 2007) and awarded the prize of the Faculty of Law of the University of Basel in 2007.",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-edu-4",
+    "institution": "Basel-Stadt (notarial examination)",
+    "qualification": "Notariatsexamen and admission as public notary",
+    "field": "Notarial law",
+    "years": "2008-2009",
+    "detail": "Passed the notarial examination and was admitted as a public notary of the canton of Basel-Stadt.",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer"
+    ]
+  },
+  {
+    "id": "cc-edu-5",
+    "institution": "University of California, Berkeley (USA)",
+    "qualification": "Master of Laws (LL.M.)",
+    "field": "Law",
+    "years": "2010-2011",
+    "detail": "Obtained an LL.M. degree from UC Berkeley.",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-edu-6",
+    "institution": "University of Basel",
+    "qualification": "Habilitation / venia docendi for private law (Privatdozent)",
+    "field": "Private law",
+    "years": "2017",
+    "detail": "Completed his habilitation in December 2017 and was awarded the venia docendi for private law and the title of Privatdozent by the University of Basel.",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "eh1",
+    "election": "2025 Swiss Federal Council election (to succeed Viola Amherd)",
+    "date": "2025-03-12",
+    "role_sought": "Member of the Swiss Federal Council",
+    "result": "Elected (second round)",
+    "vote_share": "134 of votes cast (absolute majority 123)",
+    "opponent": "Markus Ritter (The Centre)",
+    "detail": "Elected by the United Federal Assembly. In the first round Pfister received 122 votes to Ritter's 105 (absolute majority 123), forcing a second round, in which Pfister won 134 votes to Ritter's 110. Pfister was widely seen as the outsider against the favourite Ritter.",
+    "source_url": [
+      "https://www.swissinfo.ch/ger/pfister-schafft-die-wahl-in-den-bundesrat-im-zweiten-wahlgang/88997721",
+      "https://www.srf.ch/news/schweiz/bundesratswahl-2025-martin-pfister-ist-bundesrat-die-wahl-im-ueberblick",
+      "https://www.parlament.ch/de/services/news/Seiten/2025/20250312154422658194158159026_bsd158.aspx"
+    ]
+  },
+  {
+    "id": "eh2",
+    "election": "Zug Executive Council (Regierungsrat) by-election 2016",
+    "date": "2016-01-17",
+    "role_sought": "Member of the Zug Executive Council (Regierungsrat)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected in a by-election to fill the vacancy left by Peter Hegglin; subsequently took over the cantonal Health Department.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister",
+      "https://www.vbs.admin.ch/en/head-ddps"
+    ]
+  },
+  {
+    "id": "eh3",
+    "election": "Zug Executive Council (Regierungsrat) election 2022",
+    "date": "2022",
+    "role_sought": "Member of the Zug Executive Council (Regierungsrat)",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the Zug government; reported to have won the most votes of any candidate despite having to defend the canton's COVID-19 measures as health director.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Martin_Pfister",
+      "https://www.srf.ch/news/schweiz/bundesrat-martin-pfister-ein-zentralschweizer-fuer-bundesbern"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cc-work-1",
+    "role": "Regierungspräsident (President of the cantonal government), head of the Präsidialdepartement",
+    "organization": "Regierungsrat des Kantons Basel-Stadt",
+    "start_date": "2024",
+    "end_date": "",
+    "description": "Elected Regierungspräsident in the 2024 by-election (second round, 7 April 2024) and confirmed at the October 2024 general elections. Heads the Präsidialdepartement, whose dossiers include culture, housing/housing protection (Wohnschutz), climate strategy and major events; oversaw Basel as host city of the Eurovision Song Contest 2025.",
+    "category": "government",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://www.bs.ch/medienmitteilungen/staatskanzlei/2024-ersatzwahlen-den-regierungsrat-und-ins-regierungspraesidium-gewaehlt-wurden-mustafa-atici-und-conradin-cramer"
+    ]
+  },
+  {
+    "id": "cc-work-2",
+    "role": "Regierungsrat, Vorsteher des Erziehungsdepartements (Minister of Education)",
+    "organization": "Regierungsrat des Kantons Basel-Stadt",
+    "start_date": "2017-02-08",
+    "end_date": "2024",
+    "description": "Member of the cantonal government from 8 February 2017; headed the education department (Erziehungsdepartement) until taking over the Präsidialdepartement as government president in 2024. Major files included the integrative school and the Foerderklassen counter-proposal, school camps and safeguarding at the canton's ballet/dance schools.",
+    "category": "government",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-work-3",
+    "role": "Advokat (lawyer, from 2007) and Notar (notary, from 2009)",
+    "organization": "VISCHER AG, Basel and Zurich",
+    "start_date": "2007",
+    "end_date": "2016",
+    "description": "Worked full-time as a lawyer from 2007 and as a public notary from 2009 at the law firm VISCHER until taking office as a member of the cantonal government.",
+    "category": "legal_profession",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-work-4",
+    "role": "Lehrbeauftragter (lecturer) for private law, with focus on company and contract law",
+    "organization": "University of Basel, Faculty of Law",
+    "start_date": "2013",
+    "end_date": "2019",
+    "description": "Held a teaching position for private law (Privatrecht) at the University of Basel; in December 2017 completed his habilitation and received the venia docendi and the title of Privatdozent.",
+    "category": "academic",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-work-5",
+    "role": "Mitglied des Grossen Rates (member of the cantonal parliament); President 2013/2014",
+    "organization": "Grosser Rat des Kantons Basel-Stadt",
+    "start_date": "2005",
+    "end_date": "2016",
+    "description": "Member of the cantonal parliament of Basel-Stadt. President of the Grosser Rat for the 2013/2014 term (elected 6 February 2013, then the youngest Grand Council president in about a century). Member of the parliament's Buero (executive committee) 2009-2014 and president of the planning/building commission (Bau- und Raumplanungskommission) 2014-2016.",
+    "category": "legislative",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-work-6",
+    "role": "Mitglied des Einwohnerrates (municipal council member)",
+    "organization": "Gemeinde Riehen",
+    "start_date": "2002",
+    "end_date": "2006",
+    "description": "Member of the municipal council of Riehen.",
+    "category": "local_government",
+    "source_url": [
+      "https://www.bs.ch/regierungsrat/conradin-cramer",
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  },
+  {
+    "id": "cc-work-7",
+    "role": "Praesident der Jungliberalen Basel (President of the Young Liberals)",
+    "organization": "Jungliberale Partei Basel",
+    "start_date": "1999",
+    "end_date": "2005",
+    "description": "President of the Young Liberal Party of Basel.",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Conradin_Cramer"
+    ]
+  }
+]

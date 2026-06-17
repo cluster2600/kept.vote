@@ -1,0 +1,24 @@
+[
+  {
+    "id": "el-001",
+    "election": "Election of the Federal Chancellor by the Federal Assembly (United Federal Assembly)",
+    "date": "2023-12-13",
+    "role_sought": "Federal Chancellor of Switzerland (Bundeskanzler)",
+    "result": "Elected (took office 1 January 2024)",
+    "vote_share": "135 of 245 valid votes (2nd ballot)",
+    "opponent": "Gabriel Lüchinger (SVP, 103 votes in 2nd ballot); also candidates Nathalie Goumaz (SVP) and independent Lukas Gresch-Brunner",
+    "detail": "Succeeded Walter Thurnherr (Centre/Mitte). Rossi reached an absolute majority in the second ballot. First Federal Chancellor from the Green Liberal Party.",
+    "source_url": ["https://www.parlament.ch/de/services/news/Seiten/2023/20231213134751119194158159038_bsd157.aspx", "https://www.swissinfo.ch/ger/vizekanzler-viktor-rossi-glp-zum-neuen-bundeskanzler-gewaehlt/49055900", "https://www.nzz.ch/schweiz/die-kleinste-fraktion-erhaelt-den-spitzenjob-viktor-rossi-wird-der-neue-bundeskanzler-ld.1770319"]
+  },
+  {
+    "id": "el-002",
+    "election": "Election of the Vice-Chancellor by the Federal Council",
+    "date": "2018-12",
+    "role_sought": "Vice-Chancellor of Switzerland (Vizekanzler)",
+    "result": "Elected (took office 1 May 2019)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "The Federal Council elected Rossi Vice-Chancellor in December 2018; he succeeded Jörg De Bernardi and led the Federal Council division of the Chancellery.",
+    "source_url": ["https://en.wikipedia.org/wiki/Viktor_Rossi", "https://www.news.admin.ch/de/nsb?id=73412"]
+  }
+]
