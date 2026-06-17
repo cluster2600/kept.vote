@@ -1,0 +1,57 @@
+[
+  {
+    "id": "jura-cantonal-parliament-1995",
+    "election": "Jura cantonal parliament election",
+    "date": "1995",
+    "role_sought": "Member of the Parliament of the Canton of Jura",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected to the Jura cantonal parliament for the Socialist Party (after serving earlier as a substitute deputy from age 30). Re-elected in 1998; presided over the chamber in 2000.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider", "https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider"]
+  },
+  {
+    "id": "jura-government-2002",
+    "election": "Jura cantonal government election",
+    "date": "2002",
+    "role_sought": "Member of the Jura cantonal government (Conseil d'État)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected to the Jura cantonal executive, taking office in 2002/2003; re-elected in 2006 and 2010. Did not stand again in 2015.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider", "https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider"]
+  },
+  {
+    "id": "council-of-states-2019",
+    "election": "Federal election (Council of States), canton of Jura",
+    "date": "2019-10-20",
+    "role_sought": "Member of the Council of States for Jura",
+    "result": "Elected",
+    "vote_share": "8,895 votes (best result in the canton)",
+    "opponent": "Charles Juillard (PDC/Le Centre), 7,630 votes",
+    "detail": "Returned to politics and won a Council of States seat with the canton's best result, ahead of Charles Juillard.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider", "https://www.jura.ch/fr/Autorites/Elections-2019/Resultats/Election-du-Conseil-des-Etats/Election-du-Conseil-des-Etats-1.html"]
+  },
+  {
+    "id": "federal-council-2022",
+    "election": "Swiss Federal Council election",
+    "date": "2022-12-07",
+    "role_sought": "Member of the Federal Council (succeeding Simonetta Sommaruga)",
+    "result": "Elected (3rd round)",
+    "vote_share": "123 votes (3rd round)",
+    "opponent": "Eva Herzog (SP, 116 votes); Daniel Jositsch (SP, 6 votes)",
+    "detail": "On the official SP ticket alongside Eva Herzog. Led the first round (96 votes vs 83) to general surprise; in the third round elected by 123 votes to 116 for Herzog. First Federal Councillor from the canton of Jura.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider", "https://www.rts.ch/info/suisse/13594684-la-jurassienne-elisabeth-baumeschneider-cree-la-surprise-en-accedant-au-conseil-federal.html"]
+  },
+  {
+    "id": "federal-council-reelection-2023",
+    "election": "Swiss Federal Council re-election (full renewal)",
+    "date": "2023-12-13",
+    "role_sought": "Member of the Federal Council (re-election)",
+    "result": "Re-elected",
+    "vote_share": "151 votes",
+    "opponent": "",
+    "detail": "Re-elected to the Federal Council with 151 votes during the full renewal following the 2023 federal elections.",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider", "https://www.letemps.ch/suisse/suivez-l-election-du-conseil-federal-en-direct"]
+  }
+]

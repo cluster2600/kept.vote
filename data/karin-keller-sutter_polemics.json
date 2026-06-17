@@ -1,0 +1,80 @@
+[
+  {
+    "id": "credit-suisse-puk-criticism",
+    "title": "Criticism over the handover and handling of the Credit Suisse crisis (PUK report)",
+    "period": "2023-2024",
+    "category": "Governance / financial crisis",
+    "description": "The parliamentary investigation commission (PUK) examining the downfall of Credit Suisse found that the handover of the Finance Department from Ueli Maurer to Keller-Sutter at the end of 2022 had not functioned optimally, with the incoming minister given only brief oral information and the bank described as stable. The PUK also criticised insufficient transparency toward the Federal Council at points. The report attributed primary responsibility to years of mismanagement by Credit Suisse's own leadership, and noted that information sharing within the government improved under Keller-Sutter from 2023.",
+    "status": "Report published December 2024; Keller-Sutter said she felt vindicated on key points",
+    "confidence_score": "high",
+    "key_facts": [
+      "PUK report on the Credit Suisse collapse published in December 2024.",
+      "Found the December 2022 departmental handover from Maurer to Keller-Sutter was not optimal.",
+      "Primary responsibility attributed to Credit Suisse's own management over many years.",
+      "Information-sharing within the Federal Council improved under Keller-Sutter from 2023."
+    ],
+    "source_url": ["https://www.srf.ch/news/wirtschaft/puk-bericht-zur-credit-suisse-finanzministerin-ubs-darf-gar-nicht-erst-ins-schlittern-kommen", "https://www.appenzellerzeitung.ch/wirtschaft/bericht-zur-credit-suisse-schnelle-reaktion-puk-nervt-sich-ueber-keller-sutter-ld.2714161", "https://www.20min.ch/story/credit-suisse-notuebernahme-das-musst-du-zum-puk-bericht-wissen-103223807"]
+  },
+  {
+    "id": "use-of-emergency-law-cs-ubs",
+    "title": "Use of emergency law (Notrecht) for the UBS-Credit Suisse takeover",
+    "period": "2023",
+    "category": "Rule of law / financial policy",
+    "description": "The Federal Council's reliance on emergency law to grant guarantees enabling UBS to take over Credit Suisse in March 2023 drew debate among legal scholars and politicians over whether the conditions for emergency law were met and over parliamentary oversight. Keller-Sutter, as Finance Minister, publicly defended the package, describing it as a commercial solution rather than a bailout, and the government pledged to transfer the measures into ordinary law.",
+    "status": "Subject of parliamentary and academic debate; emergency credits later addressed by Parliament",
+    "confidence_score": "high",
+    "key_facts": [
+      "Federal Council adopted guarantees under emergency law on 19 March 2023.",
+      "Keller-Sutter described the deal as a commercial solution, not a bailout.",
+      "Legal commentators questioned the use of emergency law and oversight.",
+      "Government committed to converting emergency measures into ordinary law."
+    ],
+    "source_url": ["https://www.tagesanzeiger.ch/karin-keller-sutter-verhaengnisvoller-satz-bei-ubs-cs-fusion-858083236201", "https://www.20min.ch/story/staatsrechtler-keller-sutter-darf-9-milliarden-deal-nicht-unterschreiben-684098589864", "https://www.srf.ch/news/wirtschaft/uebernahme-der-cs-keller-sutter-zu-ubs-deal-kein-risiko-mehr-fuer-steuerzahlende"]
+  },
+  {
+    "id": "trump-tariff-call-2025",
+    "title": "Trump phone call and 39% US tariffs on Switzerland",
+    "period": "2025",
+    "category": "Foreign trade policy",
+    "description": "As President of the Confederation in 2025, Keller-Sutter came under scrutiny after a late-July phone call with US President Donald Trump on trade preceded the US imposing a 39% tariff on Swiss imports, higher than expected. Swiss media criticised the handling of the talks; the tabloid Blick called her too naive and 24 Heures described it as a heavy political defeat. Trump publicly said she did not want to listen to his concerns about the trade deficit. Swiss officials had believed a roughly 10% rate was within reach.",
+    "status": "Ongoing trade negotiations; political controversy in Switzerland",
+    "confidence_score": "high",
+    "key_facts": [
+      "Phone call between Keller-Sutter and Trump around 31 July 2025.",
+      "US announced a 39% tariff on Swiss imports on 1 August 2025.",
+      "Swiss media described the outcome as a significant defeat.",
+      "Swiss side had expected a far lower tariff rate from the talks."
+    ],
+    "source_url": ["https://www.theguardian.com/us-news/2025/aug/04/swiss-president-shares-plunge-us-tariffs-trump", "https://www.swissinfo.ch/eng/swiss-tariff-deal-push-hits-roadblock-in-heated-trump-call/89772044", "https://www.factcheck.org/2025/08/trump-exaggerates-trade-deficit-with-switzerland-by-ignoring-surplus-in-services/"]
+  },
+  {
+    "id": "e-id-referendum-defeat-2021",
+    "title": "Defeat of the first electronic identity (E-ID) law at the ballot box",
+    "period": "2021",
+    "category": "Digital policy",
+    "description": "Keller-Sutter as Justice Minister strongly promoted a first law creating a legal basis for electronic identification services (E-ID). The proposal, which would have given private providers a central role, was rejected by voters in March 2021 amid data-protection and privacy concerns.",
+    "status": "Law rejected; a revised, state-run E-ID was later developed",
+    "confidence_score": "high",
+    "key_facts": [
+      "E-ID law rejected in a popular vote in March 2021.",
+      "Criticism focused on the role of private providers and data protection.",
+      "Keller-Sutter had strongly campaigned for the proposal."
+    ],
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "counter-terrorism-law-criticism",
+    "title": "Human-rights criticism of the counter-terrorism police-measures law (PMT)",
+    "period": "2021",
+    "category": "Civil liberties",
+    "description": "The federal counter-terrorism police-measures law defended by Keller-Sutter's department was criticised, including by the UN High Commissioner for Human Rights, for its vague definition of terrorism and the breadth of preventive measures it authorised. It was nonetheless approved by voters in June 2021.",
+    "status": "Approved by voters; criticism continued",
+    "confidence_score": "medium",
+    "key_facts": [
+      "PMT law approved in a popular vote in June 2021.",
+      "Criticised by the UN human-rights office over its vague terrorism definition.",
+      "Expanded preventive police powers significantly."
+    ],
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  }
+]

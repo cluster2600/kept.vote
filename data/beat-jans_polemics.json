@@ -1,0 +1,60 @@
+[
+  {
+    "id": "vuepf-surveillance-expansion",
+    "title": "Expansion of telecommunications surveillance and data retention via ordinance",
+    "period": "2025-2026",
+    "category": "Surveillance / data protection / civil liberties",
+    "description": "Under Jans' FDJP, the Federal Council proposed a partial revision of the VUEPF surveillance ordinances extending identification and metadata-retention obligations to a wide range of electronic communication providers, including messaging and email services. Privacy groups, several Federal Council parties during consultation, and an international coalition criticised the plan as a disproportionate expansion of mass surveillance enacted via ordinance rather than primary law.",
+    "status": "Ongoing / under revision",
+    "confidence_score": "high",
+    "key_facts": [
+      "The revision targets the Ordinance on the Surveillance of Post and Telecommunications (VUEPF).",
+      "Critics, including Digitale Gesellschaft and Campax, submitted a petition with over 15,000 signatures to Jans in August 2025.",
+      "Opponents argue retention of metadata for at least six months and identity verification of users is disproportionate.",
+      "Critics objected to using an ordinance route, raising legality-principle concerns; calls were made for a fundamental revision and renewed consultation."
+    ],
+    "source_url": [
+      "https://www.digitale-gesellschaft.ch/2025/05/02/bundesrat-will-ueberwachungsstaat-per-verordnung-massiv-ausbauen-stellungnahme-zur-teilrevision-vuepf-und-vd-uepf/",
+      "https://www.digitale-gesellschaft.ch/2025/08/14/campax-und-digitale-gesellschaft-fordern-stopp-der-vuepf-verschaerfung-ueber-15000-unterschriften-gegen-den-ueberwachungsstaat/",
+      "https://www.20min.ch/story/internetueberwachung-beat-jans-plant-ausbau-103326918",
+      "https://www.woz.ch/2520/vuepf/beat-jans-will-den-ueberwachungsstaat/!5PVH5GHWYXNR"
+    ]
+  },
+  {
+    "id": "asylum-policy-criticism",
+    "title": "Criticism of asylum policy from both right and left",
+    "period": "2024-2025",
+    "category": "Asylum and migration policy",
+    "description": "Jans faced sustained criticism over his asylum policy. The Swiss People's Party (SVP) repeatedly summoned him to parliamentary asylum debates, arguing the measures were insufficient and questioning the gap between announced fast-track procedures and actual processing times, while parts of the left and aid organisations criticised the tougher restrictions. Jans defended his policy publicly, noting record return figures.",
+    "status": "Ongoing political debate",
+    "confidence_score": "high",
+    "key_facts": [
+      "Jans publicly defended Swiss asylum policy against criticism in parliamentary debates.",
+      "The SVP repeatedly summoned Jans for asylum debates; he countered the criticism.",
+      "Coverage noted a gap between the announced 24-hour fast-track procedure and average actual processing times.",
+      "Switzerland reported one of the highest deportation/return rates in Europe in 2024."
+    ],
+    "source_url": [
+      "https://www.swissinfo.ch/eng/swiss-politics/federal-councillor-beat-jans-defends-swiss-asylum-policy/87759480",
+      "https://www.bluewin.ch/en/news/switzerland/svp-summons-jans-again-for-asylum-debate-he-counters-sharply-2859868.html",
+      "https://www.bluewin.ch/en/news/international/federal-councillor-beat-jans-defends-swiss-asylum-policy-2411879.html"
+    ]
+  },
+  {
+    "id": "heimatort-mosen-asylum-vote",
+    "title": "Jans' ancestral home municipality of Mosen votes against housing asylum seekers",
+    "period": "2024",
+    "category": "Asylum / local politics",
+    "description": "The Lucerne municipality of Mosen, the family place of citizenship (Heimatort) of Beat Jans, voted in March 2024 against converting local facilities to accommodate asylum seekers. Media highlighted the contrast between the Justice Minister's national asylum responsibilities and the rejection by his ancestral home municipality.",
+    "status": "Resolved (local vote)",
+    "confidence_score": "high",
+    "key_facts": [
+      "Mosen (canton Lucerne) is the place of citizenship associated with Jans' paternal family.",
+      "Residents voted against using local facilities to house asylum seekers.",
+      "The story was framed by NZZ around Jans' role as federal Justice Minister responsible for asylum."
+    ],
+    "source_url": [
+      "https://www.nzz.ch/schweiz/der-heimatort-von-bundesrat-beat-jans-sagt-nein-zur-unterbringung-von-asylbewerbern-ld.1820072"
+    ]
+  }
+]

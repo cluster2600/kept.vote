@@ -1,0 +1,56 @@
+[
+  {
+    "id": "co2-act-2021-rejected",
+    "law_name": "Revision of the CO2 Act (rejected in referendum)",
+    "year": "2021",
+    "area": "Climate / energy policy",
+    "description": "Major revision of the CO2 Act intended to cut greenhouse-gas emissions through measures such as a flight ticket levy and higher fuel charges. It was rejected by 51.6% of voters on 13 June 2021.",
+    "significance": "Before joining government, Roesti was a leading opponent of the law; the SVP, of which he was president-era figure, was the only major party to oppose it and was widely credited with its defeat. As Swissoil president he campaigned against it. This stance later contrasted sharply with his role as energy minister.",
+    "source_url": ["https://www.srf.ch/news/abstimmungen-13-juni-2021/co2-gesetz/co2-gesetz-heftige-diskussion-zum-klimaschutz", "https://www.svp.ch/partei/publikationen/parteizeitung/2021-2/svp-klartext-februar-2021/co2-gesetz-unnuetz-kostspielig-ungerecht/"]
+  },
+  {
+    "id": "climate-innovation-act-2023",
+    "law_name": "Federal Act on Climate Protection Targets, Innovation and Energy Security (Climate and Innovation Act)",
+    "year": "2023",
+    "area": "Climate / energy policy",
+    "description": "Law setting Switzerland's net-zero-by-2050 target with support measures (counter-proposal to the Glacier Initiative). Approved by about 59% of voters on 18 June 2023, with seven of 26 cantons rejecting it.",
+    "significance": "As newly installed DETEC head, Roesti campaigned for the law and defended it in public debate against his own party, which was the only major party to oppose it - including against SVP vice-president Magdalena Martullo-Blocher in the SRF Arena. A notable reversal from his earlier opposition to climate legislation.",
+    "source_url": ["https://www.srf.ch/news/schweiz/abstimmung-am-18-juni-umweltminister-albert-roesti-wirbt-fuer-klimaschutzgesetz", "https://www.nzz.ch/schweiz/abstimmung-zum-klimaschutzgesetz-roesti-gegen-roesti-ld.1734651"]
+  },
+  {
+    "id": "electricity-supply-act-stromgesetz-2024",
+    "law_name": "Federal Act on a Secure Electricity Supply from Renewable Energy Sources (Stromgesetz / Energie-Mantelerlass)",
+    "year": "2024",
+    "area": "Energy policy",
+    "description": "Framework law to accelerate the expansion of solar, wind and hydroelectric power and strengthen domestic supply security. Approved by 68.7% of voters on 9 June 2024, with all cantons in favour; entered into force from January 2025.",
+    "significance": "The flagship law of Roesti's tenure as energy minister, which he steered to a clear popular victory - again campaigning against his own SVP, which together with landscape conservationists opposed it. His second referendum win over his party.",
+    "source_url": ["https://www.swissinfo.ch/ger/schweizer-politik/abstimmung-schweiz-juni-2024-stromgesetz/79847809", "https://www.srf.ch/news/schweiz/stromversorgungsgesetz/eidgenoessische-abstimmungen-stromversorgungsgesetz-ist-angenommen", "https://www.bfe.admin.ch/bfe/en/home/supply/electricity-supply/federal-act-renewable-electricity-supply.html/"]
+  },
+  {
+    "id": "motorway-expansion-2024-rejected",
+    "law_name": "Federal decree on motorway expansion (national roads development step 2023)",
+    "year": "2024",
+    "area": "Transport / infrastructure",
+    "description": "Federal decree to fund the expansion of six motorway sections. Rejected by about 53% of voters on 24 November 2024.",
+    "significance": "A direct ballot defeat for Roesti as transport minister, who had campaigned strongly for the projects. The outcome was read by the left-green camp as support for a transport transition and climate protection.",
+    "source_url": ["https://www.swissinfo.ch/ger/schweizer-politik/abstimmungen-autobahnausbau-24-11-2024/88232831", "https://www.srf.ch/news/schweiz/abstimmungen-24-november-2024/ausbau-autobahnen/nach-niederlage-an-der-urne-ausgebremst-beim-autobahn-ausbau-was-jetzt-bundesrat-roesti"]
+  },
+  {
+    "id": "nuclear-moratorium-lifting-debate",
+    "law_name": "Proposal to lift the ban on new nuclear power plants (counter-project to 'Stop Blackout' / 'Jederzeit Strom' initiative)",
+    "year": "2024-2025",
+    "area": "Energy policy",
+    "description": "Under Roesti, DETEC moved to reopen the question of new nuclear power, proposing to lift the legal moratorium on building new nuclear plants that had been in place since the 2017 Energy Strategy. The matter was advanced as an indirect counter-proposal to a popular initiative.",
+    "significance": "Marks a significant shift in Swiss energy policy debate, reopening the nuclear question; consistent with Roesti's earlier role as president of the pro-nuclear association AVES.",
+    "source_url": ["https://www.nau.ch/politik/bundeshaus/chronologie-der-schweizer-atomdebatte-67120868", "https://www.srf.ch/news/schweiz/stromversorgungsgesetz/abstimmung-stromgesetz-atomkraft-der-elefant-von-dem-niemand-spricht"]
+  },
+  {
+    "id": "srg-halving-initiative-2026",
+    "law_name": "Popular initiative '200 francs are enough!' (SRG halving initiative) and counter-measures",
+    "year": "2026",
+    "area": "Media policy / broadcasting",
+    "description": "Popular initiative to cut the radio/TV licence fee to 200 francs, rejected by over 60% of voters and the cantons on 8 March 2026. The Federal Council, with Roesti as media minister, opposed the initiative while implementing a separate phased reduction of the household fee toward 300 francs by 2029.",
+    "significance": "Roesti had earlier been a co-initiator of the SRG halving initiative before joining government; as media minister he then campaigned against it, defending a smaller fee reduction - another instance of his position shifting upon entering office.",
+    "source_url": ["https://www.srf.ch/news/schweiz/abstimmungen-8-3-2026/abstimmungen-vom-8-maerz-srg-initiative-scheitert-am-volks-und-staendemehr", "https://www.20min.ch/story/medienkonferenz-enges-rennen-roesti-erklaert-argumente-gegen-die-srg-initiative-103490289", "https://www.uvek.admin.ch/de/srginitiative"]
+  }
+]

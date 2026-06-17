@@ -1,0 +1,82 @@
+[
+  {
+    "id": "helvetas-development-cooperation",
+    "role": "Development cooperation worker",
+    "organization": "Helvetas",
+    "start_date": "1987",
+    "end_date": "1989",
+    "description": "Worked in development cooperation projects in Haiti and Paraguay for the Swiss development organisation Helvetas.",
+    "category": "development-cooperation",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://www.admin.ch/en/federal-councillor-beat-jans"]
+  },
+  {
+    "id": "pro-natura-management",
+    "role": "Head of Politics and International department; member of management board",
+    "organization": "Pro Natura (Swiss Federation for Nature Conservation)",
+    "start_date": "1995",
+    "end_date": "2010",
+    "description": "Worked for the nature-conservation organisation Pro Natura, rising to head of the Politics and International department and a member of the executive management board. Resigned in 2010 on assuming his National Council seat.",
+    "category": "environmental-ngo",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://en.wikipedia.org/wiki/Beat_Jans"]
+  },
+  {
+    "id": "ecos-natur-managing-director",
+    "role": "Managing director of the Verein Natur (later Swiss Forum for Sustainable Development / eco.ch)",
+    "organization": "Ecos AG (Basel sustainability think tank)",
+    "start_date": "2010",
+    "end_date": "2014",
+    "description": "Ran the affairs of the Verein Natur (from 2014 the Swiss Forum for Sustainable Development, eco.ch) for the Basel sustainability think tank Ecos AG.",
+    "category": "sustainability",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "university-of-basel-lecturer",
+    "role": "Lecturer (Dozent)",
+    "organization": "University of Basel",
+    "start_date": "2009",
+    "end_date": "2018",
+    "description": "Taught as a part-time lecturer at the University of Basel.",
+    "category": "academia",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "sustainability-consultant",
+    "role": "Self-employed consultant in sustainability and communications",
+    "organization": "Independent / self-employed",
+    "start_date": "2014",
+    "end_date": "2020",
+    "description": "Worked as a self-employed consultant in the fields of sustainability and communications.",
+    "category": "consulting",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "national-council-member",
+    "role": "Member of the National Council (Nationalrat)",
+    "organization": "Federal Assembly of Switzerland",
+    "start_date": "2010",
+    "end_date": "2020",
+    "description": "SP member of the National Council for Basel-Stadt; member of the Committee for the Environment, Spatial Planning and Energy (2010-2020) and the Committee for Economic Affairs and Taxation (2013-2019). Vice-president of the SP Switzerland 2015-2020.",
+    "category": "elected-office",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://www.parlament.ch/de/biografie/beat-jans/4032"]
+  },
+  {
+    "id": "basel-stadt-government-president",
+    "role": "Member and President (Regierungspraesident) of the cantonal government",
+    "organization": "Government Council (Regierungsrat) of Basel-Stadt",
+    "start_date": "2021",
+    "end_date": "2023",
+    "description": "Elected to the Basel-Stadt cantonal government in 2020 and served as President of the Government from 2021 to 2023, with a focus on Switzerland-EU relations for the border region.",
+    "category": "elected-office",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://www.admin.ch/en/federal-councillor-beat-jans"]
+  },
+  {
+    "id": "federal-councillor-fdjp",
+    "role": "Federal Councillor, Head of the Federal Department of Justice and Police (FDJP/DFJP)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2024-01-01",
+    "end_date": "",
+    "description": "Elected to the Federal Council on 13 December 2023 to succeed Alain Berset; took office 1 January 2024 as head of the FDJP, responsible for asylum and migration, internal security, civil status and civil rights, gambling oversight and international judicial and police cooperation.",
+    "category": "elected-office",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-beat-jans", "https://www.ejpd.admin.ch/de/beat-jans"]
+  }
+]

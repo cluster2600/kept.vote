@@ -1,0 +1,38 @@
+[
+  {
+    "id": "accelerated-asylum-procedures-24h",
+    "law_name": "Accelerated 24-hour asylum procedures at federal asylum centres",
+    "year": "2024",
+    "area": "Asylum and migration",
+    "description": "As FDJP head, Jans rolled out accelerated asylum procedures, including a fast-track 24-hour procedure for applicants with low prospects of success, and extended these procedures to federal asylum centres with a procedural function. Switzerland also limited the days on which asylum applications can be lodged.",
+    "significance": "Central plank of Jans' asylum policy aimed at speeding up rejections and returns; Switzerland recorded one of the highest return/deportation rates in Europe in 2024. Critics questioned whether the measures were substantively tougher or largely presentational.",
+    "source_url": ["https://www.swissinfo.ch/eng/swiss-politics/asylum-seekers-face-tougher-approach-from-switzerland/72810206", "https://www.swissinfo.ch/eng/foreign-affairs/justice-minister-to-tackle-asylum-application-backlog/74875147"]
+  },
+  {
+    "id": "eu-bilaterals-iii-immigration-safeguard",
+    "law_name": "Switzerland-EU package (Bilaterals III) - immigration safeguard clause",
+    "year": "2025",
+    "area": "Free movement of persons / migration",
+    "description": "The Federal Council approved the negotiated Switzerland-EU package and opened the consultation on 13 June 2025. Within the package, a safeguard clause allows Switzerland to temporarily restrict free movement of persons when defined thresholds (net immigration, unemployment, social assistance) are exceeded. Domestic implementation of immigration-related elements engages the FDJP and the State Secretariat for Migration under Jans, while the overall negotiation was led by the Department of Foreign Affairs.",
+    "significance": "Politically sensitive immigration dimension of the most significant Switzerland-EU treaty package in years; the safeguard clause is designed as an exceptional, time-limited tool.",
+    "source_url": ["https://www.admin.ch/gov/en/start/documentation/swisseurelations.html", "https://www.europa.eda.admin.ch/en/content-package-switzerland-eu", "https://dip.euaa.europa.eu/developments/switzerland/federal-council-defines-criteria-temporarily-restrict-freedom-movement"]
+  },
+  {
+    "id": "e-id-act-2025",
+    "law_name": "Federal Act on Electronic Identity (e-ID Act)",
+    "year": "2025",
+    "area": "Digital identity / data protection",
+    "description": "The state-issued e-ID Act, in Jans' FDJP portfolio (Federal Office of Justice), was narrowly approved in the popular vote of 28 September 2025 (about 50.4 percent in favour), creating the legal basis for a government-issued digital identity. After the vote, Jans instructed the Federal Office of Justice to incorporate opponents' main concerns, with a focus on strengthening data protection.",
+    "significance": "Revives the e-ID project after voters rejected a privately issued version in 2021; establishes a state-run digital identity infrastructure.",
+    "source_url": ["https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html", "https://www.eid.admin.ch/en/akzeptanz-der-e-id-mit-zusaetzlichen-massnahmen-staerken-e", "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-have-decided-on-electronic-id-and-abolishing-rental-tax/90057432"]
+  },
+  {
+    "id": "vuepf-surveillance-ordinance-revision",
+    "law_name": "Partial revision of the Ordinance on the Surveillance of Post and Telecommunications (VUEPF / VD-UEPF)",
+    "year": "2025",
+    "area": "Telecommunications surveillance / data retention",
+    "description": "The Federal Council, on a proposal from Jans' FDJP, put forward a partial revision of the VUEPF surveillance ordinances that would extend identification and data-retention obligations to a broad range of electronic communication service providers and retain metadata for at least six months. The draft was issued via ordinance rather than primary legislation.",
+    "significance": "A contested expansion of state surveillance capacities; privacy organisations and several Federal Council parties criticised it, and Parliament called for fundamental revision (see polemics).",
+    "source_url": ["https://www.digitale-gesellschaft.ch/2025/05/02/bundesrat-will-ueberwachungsstaat-per-verordnung-massiv-ausbauen-stellungnahme-zur-teilrevision-vuepf-und-vd-uepf/", "https://www.20min.ch/story/internetueberwachung-beat-jans-plant-ausbau-103326918"]
+  }
+]

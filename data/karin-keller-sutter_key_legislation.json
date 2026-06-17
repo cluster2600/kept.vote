@@ -1,0 +1,65 @@
+[
+  {
+    "id": "dublin-asylum-implementation",
+    "law_name": "Rigorous implementation of the Dublin asylum framework and asylum/foreign nationals policy",
+    "year": "2019-2022",
+    "area": "Asylum and migration",
+    "description": "As Head of the Federal Department of Justice and Police, pursued strict implementation of the Dublin Agreement and intensified negotiations with third states on the readmission of asylum seekers.",
+    "significance": "Continued Switzerland's restrictive asylum-enforcement line; a defining theme of her tenure as Justice Minister.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "weapons-law-revision-2019",
+    "law_name": "Revision of the Weapons Act (implementation of the EU firearms directive / Schengen)",
+    "year": "2019",
+    "area": "Security / Schengen",
+    "description": "Tightening of Swiss weapons law to align with the revised EU firearms directive, defended by her department and approved in a popular vote in May 2019.",
+    "significance": "Secured Switzerland's continued participation in Schengen/Dublin by adopting the EU firearms rules despite a referendum challenge.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "anti-racism-norm-extension-2020",
+    "law_name": "Extension of the anti-racism criminal norm to sexual orientation",
+    "year": "2020",
+    "area": "Criminal law / anti-discrimination",
+    "description": "Extension of the criminal provision against discrimination to cover discrimination on the basis of sexual orientation, approved in a popular vote in February 2020.",
+    "significance": "Extended legal protection against discrimination to LGBT people.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "marriage-for-all-2021",
+    "law_name": "Marriage for All (Ehe für alle) - Civil Code amendment",
+    "year": "2021",
+    "area": "Civil law / equality",
+    "description": "Amendment to the Civil Code opening civil marriage to same-sex couples, with adoption rights and access to sperm donation for female couples. Approved by 64.1% of voters on 26 September 2021 and in force from 1 July 2022. As Justice Minister, Keller-Sutter represented the government position in favour.",
+    "significance": "Landmark equality reform; Keller-Sutter said it ended existing inequalities of treatment.",
+    "source_url": ["https://en.wikipedia.org/wiki/2021_Swiss_same-sex_marriage_referendum", "https://www.swissinfo.ch/eng/politics/voters-have-last-word-on-marriage-for-all-bill/46969634"]
+  },
+  {
+    "id": "counter-terrorism-act-2021",
+    "law_name": "Federal Act on Police Measures to Combat Terrorism (PMT)",
+    "year": "2021",
+    "area": "Security / police law",
+    "description": "Law expanding preventive police measures against terrorism, defended by her department and approved in a popular vote in June 2021. Its broad definition of terrorism drew criticism, including from the UN High Commissioner for Human Rights.",
+    "significance": "Significantly expanded preventive police powers; controversial on human-rights grounds.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "credit-suisse-ubs-emergency-2023",
+    "law_name": "Emergency measures for the takeover of Credit Suisse by UBS (March 2023)",
+    "year": "2023",
+    "area": "Financial stability / banking",
+    "description": "As Finance Minister, led the federal response to the collapse of Credit Suisse. On 19 March 2023 the Federal Council adopted, partly under emergency law (Notrecht), a package including federal guarantees and liquidity assistance enabling UBS to take over Credit Suisse. The government later committed to converting the emergency measures into ordinary law and reviewing too-big-to-fail rules.",
+    "significance": "One of the largest banking rescues in Swiss history; reshaped the Swiss banking landscape and the too-big-to-fail debate.",
+    "source_url": ["https://www.efd.admin.ch/de/credit-suisse", "https://www.srf.ch/news/wirtschaft/cs-uebernahme-durch-die-ubs-ubs-uebernimmt-credit-suisse-die-wichtigsten-punkte"]
+  },
+  {
+    "id": "oecd-minimum-tax-2023",
+    "law_name": "Implementation of the OECD/G20 minimum tax (15%) - constitutional amendment",
+    "year": "2023",
+    "area": "Taxation",
+    "description": "Constitutional amendment to implement the OECD/G20 minimum taxation of 15% for large internationally active corporate groups (annual revenue above EUR 750 million). Championed by Keller-Sutter as Finance Minister and approved by voters and the cantons on 18 June 2023.",
+    "significance": "Aligned Switzerland with the international minimum-tax regime while seeking to retain tax revenue domestically.",
+    "source_url": ["https://www.efd.admin.ch/de/umsetzung-oecd-mindeststeuer-schweiz", "https://www.swissinfo.ch/ger/business/oecd-mindeststeuer-resultat/48599680"]
+  }
+]

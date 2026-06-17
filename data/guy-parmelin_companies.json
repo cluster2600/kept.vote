@@ -1,0 +1,42 @@
+[
+  {
+    "id": "parmelin-family-farm",
+    "entity": "Parmelin family farm and vineyard (Bursins, Vaud)",
+    "role": "owner",
+    "ownership_stake": "Co-owner with brother Christophe Parmelin",
+    "period": "1985-2015",
+    "status": "historical",
+    "detail": "Master winegrower and farmer who ran the family agricultural and viticultural business; gave up active operation on entering the Federal Council in 2016.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "fenaco-board",
+    "entity": "fenaco (Swiss federation of agricultural cooperatives)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "1996-2015",
+    "status": "historical",
+    "detail": "Member of the board of directors of fenaco from 1996, and vice-president from 2009 to 2015. Resigned on his election to the Federal Council.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://www.letemps.ch/suisse/guy-parmelin-elargi-centres-dinteret"]
+  },
+  {
+    "id": "eca-vaud-board",
+    "entity": "Etablissement cantonal d'assurance contre l'incendie et les elements naturels (ECA Vaud)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2012-2015",
+    "status": "historical",
+    "detail": "Member of the board of the Vaud cantonal fire and natural-elements insurance institution; ended on his election to the Federal Council.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://www.letemps.ch/suisse/guy-parmelin-elargi-centres-dinteret"]
+  },
+  {
+    "id": "fspc-cereal-producers",
+    "entity": "Federation suisse des producteurs de cereales (FSPC)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "before 2015",
+    "status": "historical",
+    "detail": "Sat on the committee of the Swiss cereal producers' federation, one of several agricultural-federation committees on which he served during his parliamentary career.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/"]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bern-government-election-2010",
+    "election": "Bern cantonal government (Regierungsrat) election",
+    "date": "2010",
+    "role_sought": "Member of the Bern cantonal government",
+    "result": "Not elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Ran unsuccessfully for the Bern cantonal government.",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"]
+  },
+  {
+    "id": "national-council-election-2011",
+    "election": "Swiss federal election 2011 (National Council)",
+    "date": "2011-10-23",
+    "role_sought": "Member of the National Council (canton Bern)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First elected to the National Council for the SVP in the canton of Bern; took office 5 December 2011.",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti", "https://www.parlament.ch/de/biografie/albert-r%c3%b6sti/4100"]
+  },
+  {
+    "id": "council-of-states-bern-2015",
+    "election": "Swiss federal election 2015 (Council of States, canton Bern)",
+    "date": "2015",
+    "role_sought": "Member of the Council of States (canton Bern)",
+    "result": "Not elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Ran unsuccessfully for the Council of States for the canton of Bern while serving as SVP national campaign manager for the 2015 federal election.",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"]
+  },
+  {
+    "id": "national-council-reelections",
+    "election": "Swiss federal elections (National Council, canton Bern) 2015 and 2019",
+    "date": "2015 / 2019",
+    "role_sought": "Member of the National Council (canton Bern)",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the National Council, serving continuously until 31 December 2022, when he stepped down following his election to the Federal Council.",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti", "https://www.parlament.ch/de/biografie/albert-r%c3%b6sti/4100"]
+  },
+  {
+    "id": "federal-council-withdrawal-2015",
+    "election": "Swiss Federal Council election 2015",
+    "date": "2015-11",
+    "role_sought": "Member of the Federal Council",
+    "result": "Withdrew candidacy",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Nominated by the Bern SVP in November 2015 as a Federal Council candidate but withdrew his candidacy two weeks later.",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"]
+  },
+  {
+    "id": "federal-council-election-2022",
+    "election": "Swiss Federal Council by-election 2022",
+    "date": "2022-12-07",
+    "role_sought": "Member of the Federal Council (SVP seat, succeeding Ueli Maurer)",
+    "result": "Elected (first round)",
+    "vote_share": "131 of 243 valid votes",
+    "opponent": "Hans-Ueli Vogt (SVP), who received 98 votes",
+    "detail": "Elected by the United Federal Assembly on 7 December 2022 in the first round to succeed retiring SVP Federal Councillor Ueli Maurer. Took office 1 January 2023.",
+    "source_url": ["https://en.wikipedia.org/wiki/2022_Swiss_Federal_Council_election", "https://www.parlament.ch/de/services/news/Seiten/2022/20221207091205858194158159038_bsd057.aspx", "https://www.swissinfo.ch/ger/bundesversammlung-waehlt-albert-roesti-zum-neuen-svp-bundesrat/48114820"]
+  }
+]

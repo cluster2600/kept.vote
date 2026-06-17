@@ -1,0 +1,32 @@
+[
+  {
+    "id": "nzz-mediengruppe-board",
+    "entity": "NZZ Media Group (Neue Zürcher Zeitung AG)",
+    "role": "Member of the board of directors (Verwaltungsrat)",
+    "ownership_stake": "",
+    "period": "2012-2016",
+    "status": "Historical",
+    "detail": "Served on the board of directors of the NZZ Media Group while a member of the Council of States. Term ended in 2016, before her election to the Federal Council.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "swiss-retail-federation-president",
+    "entity": "Swiss Retail Federation",
+    "role": "President",
+    "ownership_stake": "",
+    "period": "2013-2018",
+    "status": "Historical (resigned on taking federal office)",
+    "detail": "President of the Swiss Retail Federation, an association of Swiss retailers, while serving in the Council of States. Stepped down in connection with her election to the Federal Council in late 2018.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "st-gallen-symposium-trustees",
+    "entity": "St. Gallen Foundation for International Studies (St. Gallen Symposium)",
+    "role": "Vice president of the board of trustees",
+    "ownership_stake": "",
+    "period": "until 2018",
+    "status": "Historical",
+    "detail": "Served as vice president of the board of trustees of the St. Gallen Foundation for International Studies, organiser of the St. Gallen Symposium. Relinquished mandates on taking federal office.",
+    "source_url": ["https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  }
+]

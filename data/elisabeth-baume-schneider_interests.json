@@ -1,0 +1,172 @@
+[
+  {
+    "id": "rero-plus-foundation",
+    "item": "RERO+ (foundation)",
+    "type": "Foundation board (Stiftungsrat) — President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "President of the foundation board of RERO+ (library network of western Switzerland).",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "fondation-gobat-paix",
+    "item": "Fondation Gobat pour la Paix (Gobat Foundation for Peace)",
+    "type": "Foundation board (Stiftungsrat) — Member",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "Member of the foundation board of the Gobat Foundation for Peace.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "conseil-universite-neuchatel",
+    "item": "Conseil de l'Université de Neuchâtel",
+    "type": "University council committee — Vice-President (paid)",
+    "period": "until 2022 (Council of States register)",
+    "value": "Paid",
+    "detail": "Vice-President of the council of the University of Neuchâtel.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "hetsl-foundation-board",
+    "item": "Haute École de travail social et de la santé (HETSL), Lausanne",
+    "type": "Public-law institution, foundation board (Stiftungsrat) — President",
+    "period": "from 2021; declared 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "President of the HETSL council/foundation board (public-law institution she had previously directed).",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf", "https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider"]
+  },
+  {
+    "id": "theatre-du-jura",
+    "item": "Théâtre du Jura, Delémont",
+    "type": "Public-law institution, board (Stiftungsrat) — Member",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "Member of the board of the Théâtre du Jura.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "csias-skos",
+    "item": "Conférence suisse des institutions d'action sociale (CSIAS/SKOS)",
+    "type": "Association (Verein), board (Vorstand) — Vice-President (paid)",
+    "period": "from 2019; declared 2022 (Council of States register)",
+    "value": "Paid",
+    "detail": "Vice-President of the board of the Swiss Conference for Social Welfare (CSIAS/SKOS).",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf", "https://skos.ch/fr/la-csias/comite-directeur"]
+  },
+  {
+    "id": "svizra27",
+    "item": "Svizra27 — Exposition nationale du Nord-Ouest de la Suisse",
+    "type": "Association (Verein) committee — Vice-President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "Vice-President of the committee of the Svizra27 national exhibition project for north-western Switzerland.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "nez-rouge-jura",
+    "item": "Section Nez Rouge Jura",
+    "type": "Association (Verein) committee — President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "President of the Jura section of Nez Rouge (designated-driver charity).",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "alliance-enfance",
+    "item": "Alliance-Enfance",
+    "type": "Association (Verein) committee — Co-President (paid)",
+    "period": "until 2022 (Council of States register)",
+    "value": "Paid",
+    "detail": "Co-President of Alliance-Enfance (early-childhood policy alliance).",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "ssup-societe-utilite-publique",
+    "item": "SSUP — Société suisse d'utilité publique, Zurich",
+    "type": "Association (Verein) committee — Member",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "Committee member of the Swiss Society for the Common Good (SSUP/SGG).",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "federation-suisse-peche",
+    "item": "Fédération suisse de pêche (Swiss Fishing Federation)",
+    "type": "Association (Verein) board (Vorstand) — Vice-President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "Vice-President of the board of the Swiss Fishing Federation.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "nike-patrimoine-culturel",
+    "item": "NIKE — Centre national d'information sur le patrimoine culturel",
+    "type": "Association (Verein) board (Vorstand) — President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "President of the board of NIKE, the national centre for information on cultural heritage.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "semaine-du-gout",
+    "item": "La Semaine du Goût",
+    "type": "Foundation (Fondation) board (Vorstand) — Member",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "Board member of the foundation La Semaine du Goût.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "association-au-ptit-plus",
+    "item": "Association Au P'tit Plus",
+    "type": "Association (Verein) committee — President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "President of the committee of the Association Au P'tit Plus.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "association-musee-du-pire",
+    "item": "Association Musée du Pire",
+    "type": "Association (Verein) committee — President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "President of the committee of the Association Musée du Pire.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "arcexpress",
+    "item": "Arcexpress",
+    "type": "Association (Verein) committee — President",
+    "period": "until 2022 (Council of States register)",
+    "value": "Unpaid",
+    "detail": "President of the committee of Arcexpress.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  },
+  {
+    "id": "commission-vocabulaires-nationaux",
+    "item": "Commission Vocabulaires nationaux",
+    "type": "Commission (Kommission) — Member",
+    "period": "until 2022 (Council of States register)",
+    "value": "Not disclosed",
+    "detail": "Member of the Commission Vocabulaires nationaux.",
+    "status": "Historical / stepped down after election to the Federal Council",
+    "source_url": ["https://www.parlament.ch/centers/documents/de/liste%20d'int%C3%A9r%C3%AAts%20Elisabeth%20Baume-Schneider.pdf"]
+  }
+]

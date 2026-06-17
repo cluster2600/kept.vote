@@ -1,0 +1,29 @@
+[
+  {
+    "id": "medicine-zurich-lausanne",
+    "institution": "University of Zurich / University of Lausanne",
+    "qualification": "Degree in human medicine",
+    "field": "Medicine",
+    "years": "until 1987",
+    "detail": "Studied medicine, completing his studies in 1987.",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis", "https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "master-public-health-geneva",
+    "institution": "University of Geneva",
+    "qualification": "Master of Public Health (post-graduate diploma)",
+    "field": "Public health / epidemiology",
+    "years": "1996",
+    "detail": "Post-graduate diploma in public health.",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis", "https://www.eda.admin.ch/dam/eda/en/documents/das-eda/departementsvorsteher/CV_Ignazio_Cassis_EN.pdf"]
+  },
+  {
+    "id": "doctorate-lausanne",
+    "institution": "University of Lausanne",
+    "qualification": "Doctorate in medicine (Dr. med., MD)",
+    "field": "Medicine",
+    "years": "1998",
+    "detail": "Awarded a doctorate in medicine; in 1998 also obtained FMH specialist titles in internal medicine and in prevention and public health.",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis", "https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  }
+]

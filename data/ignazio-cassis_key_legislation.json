@@ -1,0 +1,38 @@
+[
+  {
+    "id": "insta-framework-agreement-end-2021",
+    "law_name": "Termination of negotiations on the Institutional Framework Agreement (InstA) with the EU",
+    "year": "2021",
+    "area": "Foreign policy / Switzerland-EU relations",
+    "description": "On 26 May 2021 the Federal Council, with Cassis as Foreign Minister, broke off seven years of negotiations on the Institutional Framework Agreement with the European Union, citing unresolved differences over the free movement of persons, state aid and wage protection.",
+    "significance": "Ended a flagship dossier of Swiss-EU relations, led to Switzerland's exclusion from full association with Horizon Europe and Erasmus+, and reset the bilateral path that later produced the Bilaterals III package.",
+    "source_url": ["https://www.swissinfo.ch/eng/politics/swiss-blame-eu-for-lack-of-progress-in-framework-deal/46567132", "https://www.eda.admin.ch/en/development-relations-switzerland-eu"]
+  },
+  {
+    "id": "bilaterals-iii-2026",
+    "law_name": "Bilaterals III package of agreements with the EU",
+    "year": "2026",
+    "area": "Foreign policy / Switzerland-EU relations",
+    "description": "Negotiations launched after the 2021 collapse led to a new package of agreements between Switzerland and the EU, signed on 2 March 2026, covering institutional questions and renewed Swiss association to EU programmes in research and education.",
+    "significance": "Marks a stabilisation of the Switzerland-EU relationship and restores Swiss access to programmes such as Horizon Europe and Erasmus+; the package faces domestic ratification and likely referendum.",
+    "source_url": ["https://www.europa.eda.admin.ch/en/content-package-switzerland-eu", "https://www.eda.admin.ch/en/development-relations-switzerland-eu"]
+  },
+  {
+    "id": "russia-sanctions-2022",
+    "law_name": "Adoption of EU sanctions against Russia",
+    "year": "2022",
+    "area": "Foreign policy / sanctions / neutrality",
+    "description": "Following Russia's full-scale invasion of Ukraine in February 2022, the Federal Council, with Cassis as President of the Confederation and Foreign Minister, decided to adopt the EU's economic sanctions packages against Russia.",
+    "significance": "A major shift in Swiss practice on neutrality and sanctions; Russia later designated Switzerland an 'unfriendly state'. Sanctions have been progressively extended in line with subsequent EU packages.",
+    "source_url": ["https://www.euronews.com/2022/02/28/ukraine-war-switzerland-adopts-entire-eu-sanctions-package-against-russia", "https://www.business-humanrights.org/en/latest-news/switzerland-joins-eu-sanctions-against-russia-despite-neutral-status-since-1815/"]
+  },
+  {
+    "id": "burgenstock-ukraine-summit-2024",
+    "law_name": "Summit on Peace in Ukraine (Bürgenstock conference)",
+    "year": "2024",
+    "area": "Foreign policy / good offices",
+    "description": "Switzerland hosted a high-level international Summit on Peace in Ukraine at the Bürgenstock on 15-16 June 2024, organised under the FDFA led by Cassis, gathering delegations to seek a common understanding toward a peace process.",
+    "significance": "A high-profile exercise of Swiss good offices and mediation diplomacy; outcomes were debated given the absence of Russia from the conference.",
+    "source_url": ["https://en.wikipedia.org/wiki/June_2024_Ukraine_peace_summit", "https://www.eda.admin.ch/en/switzerland-is-committed-to-peace-in-ukraine"]
+  }
+]

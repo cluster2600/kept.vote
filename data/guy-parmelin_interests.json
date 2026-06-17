@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ig-biomed",
+    "item": "IG Biomedizinische Forschung und Innovation (IG Biomed)",
+    "type": "interest group / parliamentary association",
+    "period": "during National Council tenure (to 2015)",
+    "value": "",
+    "detail": "Member of an interest group, promoted by the pharmaceutical lobby Interpharma, defending biomedical research and innovation. Reported in his parliamentary register of interests.",
+    "status": "historical",
+    "source_url": ["https://www.letemps.ch/suisse/guy-parmelin-elargi-centres-dinteret"]
+  },
+  {
+    "id": "gen-suisse",
+    "item": "Fondation Gen Suisse / Gen-Switzerland",
+    "type": "foundation committee membership",
+    "period": "during National Council tenure (to 2015)",
+    "value": "",
+    "detail": "Member of the committee of the Gen Suisse foundation, which promotes research on genetic engineering in medicine and agriculture.",
+    "status": "historical",
+    "source_url": ["https://www.letemps.ch/suisse/guy-parmelin-elargi-centres-dinteret"]
+  },
+  {
+    "id": "agricultural-federations",
+    "item": "Various Swiss agricultural-federation committees",
+    "type": "sectoral interest representation",
+    "period": "during National Council tenure (to 2015)",
+    "value": "",
+    "detail": "Sat on numerous committees of agricultural federations, reflecting his role as a representative of farming interests; mandates ended on his election to the Federal Council.",
+    "status": "historical",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/"]
+  }
+]

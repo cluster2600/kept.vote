@@ -1,0 +1,92 @@
+[
+  {
+    "id": "social-worker-aveugles-1988",
+    "role": "Social worker (assistante sociale)",
+    "organization": "Association neuchâteloise pour le bien des aveugles",
+    "start_date": "1988",
+    "end_date": "1988",
+    "description": "First professional position as a social worker after graduating from the University of Neuchâtel.",
+    "category": "social-work",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider"]
+  },
+  {
+    "id": "social-worker-franches-montagnes-1989-2000",
+    "role": "Social worker (assistante sociale), including guardianship/curatorship mandates",
+    "organization": "Service social et médico-social des Franches-Montagnes",
+    "start_date": "1989",
+    "end_date": "2000",
+    "description": "Social and medico-social work focused on social assistance, child protection and integration measures; held curatorship (curatrice) mandates.",
+    "category": "social-work",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider", "https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider"]
+  },
+  {
+    "id": "social-worker-jura-2000-2001",
+    "role": "Social worker (assistante sociale)",
+    "organization": "Services sociaux régionaux du canton du Jura",
+    "start_date": "2000",
+    "end_date": "2001",
+    "description": "Continued social work within the regional social services of the canton of Jura until entering full-time cantonal government.",
+    "category": "social-work",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider"]
+  },
+  {
+    "id": "jura-government-minister-2002-2015",
+    "role": "Cantonal government minister, Head of the Department of Education, Culture and Sport",
+    "organization": "Government of the Canton of Jura",
+    "start_date": "2002",
+    "end_date": "2015",
+    "description": "Member of the Jura cantonal executive for thirteen years; directed education, culture and sport policy. President of the cantonal government in 2006, 2008 and 2012. President of the Conference of Public Education Ministers of Latin Switzerland (2009–2013).",
+    "category": "government",
+    "source_url": ["https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider", "https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider"]
+  },
+  {
+    "id": "hetsl-director-2016-2020",
+    "role": "Director",
+    "organization": "School of Social Work and Health (HETSL), Lausanne",
+    "start_date": "2016",
+    "end_date": "2020",
+    "description": "Directed the HETSL (Haute École de travail social et de la santé) in Lausanne. Official FDHA biography gives the period as 2016–2020; some press sources cite 2015–2019.",
+    "category": "education-leadership",
+    "source_url": ["https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider", "https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider"]
+  },
+  {
+    "id": "federal-film-commission-president-2012-2016",
+    "role": "President of the Federal Film Commission",
+    "organization": "Swiss Confederation (Federal Film Commission)",
+    "start_date": "2012",
+    "end_date": "2016",
+    "description": "Served as President of the Federal Film Commission.",
+    "category": "public-service",
+    "source_url": ["https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider"]
+  },
+  {
+    "id": "council-of-states-2019-2022",
+    "role": "Member of the Council of States for the canton of Jura",
+    "organization": "Swiss Federal Assembly (Council of States)",
+    "start_date": "2019-12",
+    "end_date": "2022-12",
+    "description": "Represented Jura in the upper house. Chaired the Committee for the Environment, Spatial Planning and Energy (CEATE) from late 2021; member of the Committee for Science, Education and Culture (CSEC) and the Control Committee (CdG). Second Vice-President of the Council of States (2021–2022).",
+    "category": "legislature",
+    "source_url": ["https://fr.wikipedia.org/wiki/Elisabeth_Baume-Schneider", "https://www.parlament.ch/fr/biografie?CouncillorId=4238"]
+  },
+  {
+    "id": "federal-councillor-fdjp-2023",
+    "role": "Federal Councillor, Head of the Federal Department of Justice and Police (FDJP/DFJP)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2023-01-01",
+    "end_date": "2023-12-31",
+    "description": "Headed the Justice and Police department during her first year on the Federal Council, with responsibility for asylum and migration policy among others.",
+    "category": "federal-executive",
+    "source_url": ["https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider", "https://www.ejpd.admin.ch/ejpd/en/home/the-fdjp/fruehere_dv/elisabeth-baume-schneider.html"]
+  },
+  {
+    "id": "federal-councillor-fdha-2024",
+    "role": "Federal Councillor, Head of the Federal Department of Home Affairs (FDHA/DFI)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2024-01-01",
+    "end_date": "",
+    "description": "Took over the Department of Home Affairs from Alain Berset on 1 January 2024, with responsibility for social insurance (AHV/AVS, occupational pensions), health and health insurance, culture, gender equality, statistics and meteorology.",
+    "category": "federal-executive",
+    "source_url": ["https://www.edi.admin.ch/en/biography-elisabeth-baume-schneider", "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/elisabeth-baume-schneider.html"]
+  }
+]

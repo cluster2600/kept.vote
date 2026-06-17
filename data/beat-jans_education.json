@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ebenrain-farming-apprenticeship",
+    "institution": "Landwirtschaftliche Schule Ebenrain, Sissach (canton Basel-Landschaft)",
+    "qualification": "Apprenticeship as a farmer (Landwirt)",
+    "field": "Agriculture",
+    "years": "until 1985",
+    "detail": "Completed a vocational apprenticeship as a farmer.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://www.admin.ch/en/federal-councillor-beat-jans"]
+  },
+  {
+    "id": "tropical-agriculture-diploma",
+    "institution": "Technikum for Tropical Agriculture, Swiss Tropical Institute, Basel",
+    "qualification": "Diploma in agricultural technology (Agrotechniker)",
+    "field": "Tropical agriculture / agricultural technology",
+    "years": "1987",
+    "detail": "Earned a diploma as an agricultural technician.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://en.wikipedia.org/wiki/Beat_Jans"]
+  },
+  {
+    "id": "eth-zurich-environmental-sciences",
+    "institution": "ETH Zurich (Swiss Federal Institute of Technology)",
+    "qualification": "Diploma in Environmental Sciences (Umweltnaturwissenschaften)",
+    "field": "Environmental sciences",
+    "years": "until 1994",
+    "detail": "Graduated with a diploma in Environmental Sciences from ETH Zurich in 1994.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://www.admin.ch/en/federal-councillor-beat-jans", "https://usys.ethz.ch/en/news-events/news/archive/2023/12/beat-jans-bundesrat.html"]
+  }
+]

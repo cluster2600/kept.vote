@@ -1,0 +1,63 @@
+[
+  {
+    "id": "oil-lobby-energy-minister-conflict",
+    "title": "Oil- and auto-lobby ties and conflict-of-interest concerns as energy and transport minister",
+    "period": "2022-2023",
+    "category": "Conflict of interest / lobbying",
+    "description": "Roesti's election to head DETEC drew criticism because he had been president of the fuel-traders' association Swissoil (2015-2022) and of the car-importers' association auto-schweiz, and president of the pro-nuclear association AVES. Environmental groups argued an 'oil and auto lobbyist' should not lead the environment, energy and transport department. The campaign group umverkehR launched a public appeal against his election, with signatories including Nobel laureate Jacques Dubochet and ETH climate scientist Sonia Seneviratne.",
+    "status": "Resolved on taking office (mandates relinquished); commentary continued",
+    "confidence_score": "high",
+    "key_facts": [
+      "President of Swissoil 2015-2022, an association of fuel/heating-oil traders linked to oil association Avenergy Suisse.",
+      "President of auto-schweiz (car importers) and of pro-nuclear association AVES.",
+      "umverkehR petition opposed his election as DETEC head; signatories included Jacques Dubochet and Sonia Seneviratne.",
+      "All gainful mandates were relinquished and his consultancy liquidated upon taking office."
+    ],
+    "source_url": ["https://www.watson.ch/schweiz/klima/206672787-albert-roesti-laesst-swissoil-mandat-von-webseite-verschwinden", "https://www.umverkehr.ch/lobby", "https://www.handelszeitung.ch/politik/albert-rosti-und-flavia-wasserfallen-die-lobby-interessen-der-bundesratsanwarterschaft-545166"]
+  },
+  {
+    "id": "swissoil-mandate-removed-from-website",
+    "title": "Removal of Swissoil mandate from his website during 2022 candidacy",
+    "period": "2022",
+    "category": "Transparency",
+    "description": "During his Federal Council candidacy, the mandate 'President Swissoil' - listed on his personal website until August 2022 - was reported by watson to have disappeared from the site, despite his claim to disclose all his ties in detail. Critics framed this as an attempt to downplay one of his more sensitive mandates while seeking election as environment/energy minister.",
+    "status": "Reported; mandate documented in parliamentary register",
+    "confidence_score": "medium",
+    "key_facts": [
+      "Mandate 'Präsident Swissoil' was shown on albertroesti.ch until August 2022 (per Wayback Machine).",
+      "watson reported it was no longer listed during the candidacy period.",
+      "Roesti described himself as a 'classic militia politician' who disclosed all ties in detail."
+    ],
+    "source_url": ["https://www.watson.ch/schweiz/klima/206672787-albert-roesti-laesst-swissoil-mandat-von-webseite-verschwinden"]
+  },
+  {
+    "id": "co2-law-role-then-climate-reversal",
+    "title": "Campaigning against the 2021 CO2 Act, then defending climate and energy laws in office",
+    "period": "2021-2024",
+    "category": "Political consistency",
+    "description": "As an SVP figure and Swissoil president, Roesti was a prominent opponent of the 2021 CO2 Act, which was narrowly rejected. After becoming energy minister he campaigned in favour of the 2023 Climate and Innovation Act and the 2024 Electricity Supply Act, both opposed by his own SVP. Commentators - and the term 'Roesti-Effekt' - highlighted the tension between his past lobbying and his governmental role.",
+    "status": "Documented; subject of ongoing commentary",
+    "confidence_score": "high",
+    "key_facts": [
+      "Opposed the 2021 CO2 Act (rejected 51.6% No).",
+      "As minister campaigned for the 2023 Climate and Innovation Act (approx. 59% Yes) and 2024 Stromgesetz (68.7% Yes), against the SVP.",
+      "Faced his own party's leadership in televised debates on these laws."
+    ],
+    "source_url": ["https://www.nzz.ch/schweiz/abstimmung-zum-klimaschutzgesetz-roesti-gegen-roesti-ld.1734651", "https://www.watson.ch/schweiz/klima/215735258-weshalb-der-roesti-effekt-fuer-die-svp-zum-problem-werden-koennte", "https://www.infosperber.ch/politik/schweiz/roestis-energiepolitischer-spagat-ist-zirkusreif/"]
+  },
+  {
+    "id": "srg-initiative-co-initiator-then-opponent",
+    "title": "Co-initiator of the SRG halving initiative who later opposed it in government",
+    "period": "2023-2026",
+    "category": "Political consistency",
+    "description": "Roesti had been a co-initiator of the 'SRG halving' initiative ('200 francs are enough!') before joining the Federal Council. As media minister he then publicly opposed the initiative, which was rejected on 8 March 2026, while implementing a more modest licence-fee reduction. His switch from initiator to opponent was noted in media coverage and the SRF Arena debate.",
+    "status": "Documented",
+    "confidence_score": "medium",
+    "key_facts": [
+      "Co-initiated the SRG halving initiative before entering government.",
+      "As media minister recommended a No and a smaller fee cut (toward 300 francs by 2029).",
+      "Initiative rejected by over 60% of voters on 8 March 2026."
+    ],
+    "source_url": ["https://www.20min.ch/story/srf-arena-vom-mitinitiant-zum-gegner-albert-roesti-erklaert-sich-103510707", "https://www.srf.ch/news/schweiz/abstimmungen-8-3-2026/abstimmungen-vom-8-maerz-srg-initiative-scheitert-am-volks-und-staendemehr"]
+  }
+]

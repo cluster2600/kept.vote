@@ -1,0 +1,29 @@
+[
+  {
+    "id": "handelsdiplom-neuchatel",
+    "institution": "Commercial school, Neuchâtel",
+    "qualification": "Commercial diploma (Handelsdiplom)",
+    "field": "Commerce / French language",
+    "years": "1982",
+    "detail": "Obtained her commercial diploma in Neuchâtel after schooling in Wil, gaining French-language proficiency.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "doz-interpreting",
+    "institution": "Dolmetscherschule Zurich (DOZ), now part of the Zurich University of Applied Sciences (ZHAW)",
+    "qualification": "Diploma in conference interpreting and translation",
+    "field": "Interpreting and translation",
+    "years": "1984-1989",
+    "detail": "Trained as a qualified conference interpreter and translator; also spent a semester at the University of Montreal.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  },
+  {
+    "id": "fribourg-pedagogy",
+    "institution": "University of Fribourg",
+    "qualification": "Postgraduate teaching diploma (Berufsmittelschullehrerin / pedagogy)",
+    "field": "Pedagogy / teaching for vocational schools",
+    "years": "1994-1996",
+    "detail": "Completed a part-time teacher-training qualification for vocational (Berufsmittel-) schools while working as an interpreter and teacher.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  }
+]

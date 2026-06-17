@@ -1,0 +1,57 @@
+[
+  {
+    "id": "protell-gun-lobby-2017",
+    "title": "Membership of gun-rights lobby ProTell before election",
+    "period": "2017",
+    "category": "lobbying / conflict of interest",
+    "description": "Nine days before his Federal Council election, Cassis addressed the gun-rights group ProTell, and his membership was confirmed still active. Critics argued this could complicate his role as Foreign Minister given EU discussions on firearms policy. He renounced his membership in ProTell and the Ticino group Libertà e Valori shortly after his election.",
+    "status": "resolved",
+    "confidence_score": "high",
+    "key_facts": ["Addressed ProTell on 11 September 2017", "Membership active at time of 20 September 2017 election", "Renounced ProTell and Libertà e Valori memberships shortly afterwards"],
+    "source_url": ["https://www.swissinfo.ch/eng/business/gun-control_future-swiss-foreign-minister-reviews-his-membership-of-arms-lobby/43598196", "https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  },
+  {
+    "id": "health-lobby-mandates-2017",
+    "title": "Ties to the health-insurance lobby on entering office",
+    "period": "2013-2017",
+    "category": "lobbying / conflict of interest",
+    "description": "As a National Councillor Cassis was president of the health-insurers' association curafutura (reported remuneration around CHF 180,000 per year) and of CURAVIVA, and was widely characterised in the press as a figure of the 'health lobby'. He relinquished these mandates on joining the Federal Council, in line with the rules for Federal Council members.",
+    "status": "resolved",
+    "confidence_score": "high",
+    "key_facts": ["Founding president of curafutura from 2013", "Reported annual remuneration around CHF 180,000", "Mandates relinquished on entering Federal Council in November 2017"],
+    "source_url": ["https://www.tagblatt.ch/schweiz/lukratives-krankenkassenmandat-ld.707548", "https://www.presseportal.ch/de/pm/100061838/100807062"]
+  },
+  {
+    "id": "insta-framework-handling-2021",
+    "title": "Handling of the EU framework agreement collapse",
+    "period": "2017-2021",
+    "category": "foreign policy",
+    "description": "Cassis's management of the Switzerland-EU Institutional Framework Agreement dossier drew sustained criticism. After taking office he restructured the EU negotiating team, and the eventual decision to break off talks on 26 May 2021 was criticised by pro-European voices for leaving Switzerland without a clear strategy, while others supported the withdrawal.",
+    "status": "resolved",
+    "confidence_score": "medium",
+    "key_facts": ["Negotiations broke off on 26 May 2021", "Switzerland lost full association to Horizon Europe and Erasmus+", "Debate later reopened, leading to Bilaterals III"],
+    "source_url": ["https://www.swissinfo.ch/eng/politics/swiss-blame-eu-for-lack-of-progress-in-framework-deal/46567132", "https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12623"]
+  },
+  {
+    "id": "unrwa-criticism-2018-2019",
+    "title": "Criticism of UNRWA and suspension of Swiss funding",
+    "period": "2018-2019",
+    "category": "foreign policy",
+    "description": "Cassis publicly questioned the role of the UN agency for Palestinian refugees (UNRWA), reportedly describing it as 'part of the problem' in the Middle East, comments that drew criticism. In 2019 Switzerland temporarily suspended payments to UNRWA following an internal ethics report alleging management misconduct.",
+    "status": "resolved",
+    "confidence_score": "medium",
+    "key_facts": ["Cassis described UNRWA as 'part of the problem'", "Switzerland suspended UNRWA payments in 2019 amid an ethics report", "Comments drew accusations of departing from Swiss neutrality"],
+    "source_url": ["https://www.swissinfo.ch/eng/politics/unrwa_swiss-suspend-payments-to-palestinian-refugee-agency/45129342", "https://www.timesofisrael.com/swiss-fm-questions-unrwas-role-in-aiding-palestinians/"]
+  },
+  {
+    "id": "cooperative-neutrality-2022",
+    "title": "Debate over 'cooperative neutrality'",
+    "period": "2022",
+    "category": "neutrality / foreign policy",
+    "description": "As President of the Confederation in 2022, Cassis promoted a concept of 'cooperative neutrality', arguing Switzerland should align more closely with like-minded states. The concept was criticised across the political spectrum and was ultimately not adopted by the Federal Council, which the press interpreted as a setback for Cassis.",
+    "status": "resolved",
+    "confidence_score": "medium",
+    "key_facts": ["Cassis advanced 'cooperative neutrality' in 2022", "Concept not endorsed by the Federal Council", "Linked to debate over alignment with EU sanctions on Russia"],
+    "source_url": ["https://css.ethz.ch/en/center/CSS-news/2024/10/swiss-neutrality-debate-an-overview.html", "https://neutralitystudies.com/2022/12/cooperation-before-neutrality-switzerlands-new-security-doctrine-an-analysis/"]
+  }
+]

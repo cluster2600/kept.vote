@@ -1,0 +1,79 @@
+[
+  {
+    "id": "grand-council-vaud-1994",
+    "election": "Vaud cantonal election (Grand Council)",
+    "date": "1994",
+    "role_sought": "Member of the Grand Council of Vaud",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected to the Vaud cantonal parliament for the SVP/UDC; re-elected until he moved to federal politics in 2003.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/"]
+  },
+  {
+    "id": "national-council-2003",
+    "election": "2003 Swiss federal election (National Council)",
+    "date": "2003-10-19",
+    "role_sought": "Member of the National Council for Vaud",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First elected to the National Council for the canton of Vaud; subsequently re-elected in 2007, 2011 and 2015.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "fc-election-2015",
+    "election": "2015 Federal Council election (Federal Assembly)",
+    "date": "2015-12-09",
+    "role_sought": "Member of the Swiss Federal Council",
+    "result": "Elected (3rd round)",
+    "vote_share": "138 votes",
+    "opponent": "Thomas Aeschi (88), Norman Gobbi (11)",
+    "detail": "Elected on the third ballot to replace Eveline Widmer-Schlumpf, taking the SVP/UDC's second cabinet seat; first SVP/UDC Federal Councillor from French-speaking Switzerland.",
+    "source_url": ["https://www.rts.ch/info/suisse/2015/minute-par-minute/27309530.html", "https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/"]
+  },
+  {
+    "id": "fc-reelection-2019",
+    "election": "2019 Federal Council election (Federal Assembly)",
+    "date": "2019-12-11",
+    "role_sought": "Re-election to the Federal Council",
+    "result": "Re-elected",
+    "vote_share": "191 votes",
+    "opponent": "",
+    "detail": "Re-elected for the 2020-2023 legislative term.",
+    "source_url": ["https://fr.wikipedia.org/wiki/%C3%89lections_du_Conseil_f%C3%A9d%C3%A9ral_suisse_de_2019"]
+  },
+  {
+    "id": "fc-reelection-2023",
+    "election": "2023 Federal Council election (Federal Assembly)",
+    "date": "2023-12-13",
+    "role_sought": "Re-election to the Federal Council",
+    "result": "Re-elected",
+    "vote_share": "215 of 233 valid votes",
+    "opponent": "",
+    "detail": "Re-elected for the 2024-2027 term with 215 votes.",
+    "source_url": ["https://www.rts.ch/info/suisse/14548935-ludc-vaudois-guy-parmelin-reelu-au-conseil-federal-avec-215-voix-le-suivi-en-direct.html", "https://www.parlament.ch/fr/services/news/Pages/2023/20231213094348658194158159038_bsf070.aspx"]
+  },
+  {
+    "id": "president-2021",
+    "election": "Election of the President of the Confederation 2021 (Federal Assembly)",
+    "date": "2020-12-09",
+    "role_sought": "President of the Swiss Confederation for 2021",
+    "result": "Elected",
+    "vote_share": "188 votes",
+    "opponent": "",
+    "detail": "Elected President of the Confederation for 2021 (the presidency rotates annually among Federal Councillors).",
+    "source_url": ["https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "president-2026",
+    "election": "Election of the President of the Confederation 2026 (Federal Assembly)",
+    "date": "2025-12-10",
+    "role_sought": "President of the Swiss Confederation for 2026",
+    "result": "Elected (record result)",
+    "vote_share": "203 of 246 valid votes",
+    "opponent": "",
+    "detail": "Elected President of the Confederation for 2026 with a record score; Ignazio Cassis was elected Vice President.",
+    "source_url": ["https://www.rts.ch/info/suisse/2025/article/election-a-la-presidence-de-la-confederation-29086379.html", "https://www.swissinfo.ch/eng/various/guy-parmelin-elected-president-of-the-swiss-confederation-with-record-results/90615075"]
+  }
+]

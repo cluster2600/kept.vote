@@ -1,0 +1,61 @@
+[
+  {
+    "id": "ahv-projection-error-2024",
+    "title": "AHV/AVS financial-projection error at the Federal Social Insurance Office (OFAS/BSV)",
+    "period": "2024",
+    "category": "administration / oversight",
+    "description": "In 2024 it emerged that the Federal Social Insurance Office (OFAS/BSV), which reports to Baume-Schneider's FDHA, had overstated projected AHV/AVS expenditure by roughly four billion francs for the 2033 horizon, due to two erroneous formulas in its calculation model. The error surfaced during the debate on financing the 13th AHV pension. Baume-Schneider called the matter 'serious', ordered an administrative investigation, and faced criticism (notably from the right) over the reliability of the figures and the timing of disclosure. The investigation later concluded it was not a calculation error in the strict sense but flawed formulas in the model.",
+    "status": "Administrative investigation conducted; findings reported; OFAS leadership change followed",
+    "confidence_score": "high",
+    "key_facts": [
+      "Overestimation of about CHF 4 billion in projected AHV/AVS expenditure to 2033.",
+      "Caused by two erroneous formulas in the OFAS projection model.",
+      "Error detected mid-May 2024 by OFAS during the 13th-pension financing consultation.",
+      "Baume-Schneider ordered an administrative investigation and described the situation as 'grave'.",
+      "OFAS is subordinate to her Department of Home Affairs (FDHA)."
+    ],
+    "source_url": [
+      "https://www.rts.ch/info/suisse/2024/article/l-office-federal-des-assurances-sociales-se-trompe-de-4-milliards-dans-les-projections-des-depenses-de-l-avs-28591097.html",
+      "https://www.rts.ch/info/suisse/2024/article/elisabeth-baume-schneider-ce-qui-s-est-passe-est-grave-car-ces-chiffres-sont-importants-pour-l-avs-28593468.html",
+      "https://www.rts.ch/info/suisse/2024/article/les-perspectives-financieres-erronees-de-l-avs-n-etaient-pas-liees-a-une-faute-de-calcul-28719518.html"
+    ]
+  },
+  {
+    "id": "asylum-policy-svp-criticism-2023",
+    "title": "Sustained SVP/UDC criticism of her asylum policy ('asylum chaos')",
+    "period": "2023",
+    "category": "political / migration policy",
+    "description": "During her year heading the Department of Justice and Police, Baume-Schneider was repeatedly attacked by the SVP/UDC, which denounced an alleged 'asylum chaos' and held her and the left responsible for rising asylum numbers. Points of contention included the practice granting Afghan women and girls easier access to refugee status and resettlement programmes bringing refugees to Switzerland by plane. The party demanded she be 'called to order' and requested an extraordinary parliamentary session. Baume-Schneider defended her approach, arguing asylum 'is not a question of left or right' and that forced removals had increased.",
+    "status": "Ongoing political controversy; no legal proceedings",
+    "confidence_score": "high",
+    "key_facts": [
+      "SVP/UDC denounced an 'asylum chaos' and targeted Baume-Schneider during the 2023 election year.",
+      "Criticism focused on eased refugee status for Afghan women and on resettlement programmes.",
+      "Baume-Schneider stated asylum is not a left/right question and pointed to increased deportations.",
+      "Dispute is political; no allegation of unlawful conduct."
+    ],
+    "source_url": [
+      "https://www.rts.ch/info/suisse/14145049-ludc-denonce-le-chaos-de-lasile-et-critique-elisabeth-baumeschneider.html",
+      "https://www.udc.ch/actualites/publications/communiques-de-presse/flot-de-demandeurs-dasile-a-cause-delisabeth-baume-schneider/",
+      "https://www.24heures.ch/elisabeth-baume-schneider-lasile-nest-pas-une-question-de-gauche-ou-de-droite-359527628266"
+    ]
+  },
+  {
+    "id": "13th-pension-financing-wage-deduction-2024",
+    "title": "Criticism from the right over proposed wage-based financing of the 13th AHV pension",
+    "period": "2024",
+    "category": "political / social policy",
+    "description": "After voters approved the 13th AHV/AVS pension, Baume-Schneider's preferred option of financing it partly through additional wage (salary) deductions drew criticism from right-leaning parties, who favoured other solutions. The dispute intensified following the OFAS projection error, with right-wing parliamentarians pressing on how the new benefit would be funded.",
+    "status": "Political debate; financing decided through the parliamentary process",
+    "confidence_score": "medium",
+    "key_facts": [
+      "Baume-Schneider's department explored wage-based contributions to finance the 13th pension.",
+      "Right-wing parties opposed the wage-deduction approach.",
+      "Controversy overlapped with the AHV projection-error affair."
+    ],
+    "source_url": [
+      "https://www.blick.ch/fr/suisse/financement-de-la-13e-rente-avs-elisabeth-baume-schneider-veut-ponctionner-les-salaires-la-droite-senerve-id19764306.html",
+      "https://www.letemps.ch/suisse/apres-l-erreur-de-calcul-sur-l-avs-les-elues-de-droite-font-pression-sur-le-financement-de-la-13e-rente"
+    ]
+  }
+]

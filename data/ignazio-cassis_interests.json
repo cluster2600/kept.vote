@@ -1,0 +1,42 @@
+[
+  {
+    "id": "health-sector-mandates",
+    "item": "Health-sector association mandates (curafutura, CURAVIVA, EQUAM, RADIX, FMH)",
+    "type": "professional-association",
+    "period": "2008-2017",
+    "value": "",
+    "detail": "During his parliamentary career Cassis held multiple leadership and board functions in health-insurance and health-policy organisations. He was widely described in the Swiss press as a representative of the 'health lobby'. All such mandates were relinquished when he joined the Federal Council in November 2017, as required for Federal Council members.",
+    "status": "historical",
+    "source_url": ["https://www.tagblatt.ch/schweiz/lukratives-krankenkassenmandat-ld.707548", "https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "protell-gun-lobby",
+    "item": "ProTell (gun-rights advocacy group) and Libertà e Valori",
+    "type": "advocacy-membership",
+    "period": "until 2017",
+    "value": "",
+    "detail": "Cassis addressed the gun-rights group ProTell on 11 September 2017, days before his election, and his membership was still active at the time of his election. He renounced his membership in ProTell and in the Ticino group Libertà e Valori shortly after his election amid public debate over its compatibility with the foreign-affairs portfolio.",
+    "status": "historical",
+    "source_url": ["https://www.swissinfo.ch/eng/business/gun-control_future-swiss-foreign-minister-reviews-his-membership-of-arms-lobby/43598196", "https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  },
+  {
+    "id": "italian-citizenship-renounced",
+    "item": "Italian citizenship",
+    "type": "personal",
+    "period": "until 2017",
+    "value": "",
+    "detail": "Born an Italian citizen, Cassis held dual Swiss-Italian citizenship and returned his Italian passport ahead of his Federal Council election in 2017.",
+    "status": "historical",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  },
+  {
+    "id": "israel-friendship-group",
+    "item": "Switzerland-Israel parliamentary friendship group",
+    "type": "parliamentary-group",
+    "period": "during National Council tenure",
+    "value": "",
+    "detail": "Member of the Swiss Parliament's Israel friendship group during his time in the National Council.",
+    "status": "historical",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  }
+]

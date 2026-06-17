@@ -1,0 +1,52 @@
+[
+  {
+    "id": "swiss-forum-sustainable-development-president",
+    "item": "Swiss Forum for Sustainable Development (eco.ch)",
+    "type": "presidency / association mandate",
+    "period": "during National Council term (to 2020)",
+    "value": "",
+    "detail": "Presided over the Swiss Forum for Sustainable Development, an interest binding declared during his time in Parliament.",
+    "status": "historical",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "nie-wieder-akw-president",
+    "item": "Nie wieder Atomkraftwerke Schweiz (anti-nuclear campaign)",
+    "type": "presidency / advocacy mandate",
+    "period": "2010-2016",
+    "value": "",
+    "detail": "Chaired the 'Nie wieder Atomkraftwerke Schweiz' (No more nuclear power plants) campaign while serving in the National Council.",
+    "status": "historical",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "swiss-energy-foundation-president",
+    "item": "Swiss Energy Foundation (Schweizerische Energie-Stiftung, SES)",
+    "type": "presidency / foundation mandate",
+    "period": "2015-2021",
+    "value": "",
+    "detail": "Presided over the Swiss Energy Foundation, an environmental energy-policy NGO.",
+    "status": "historical",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "upper-rhine-conference-president",
+    "item": "German-French-Swiss Upper Rhine Conference (Oberrheinkonferenz)",
+    "type": "cross-border cooperation mandate",
+    "period": "2022",
+    "value": "",
+    "detail": "Presided over the trinational Upper Rhine Conference, linked to the Regio Basiliensis, during his time as President of the Basel-Stadt government.",
+    "status": "historical",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "sp-switzerland-vice-president",
+    "item": "Social Democratic Party of Switzerland (SP/PS)",
+    "type": "party office",
+    "period": "2015-2020",
+    "value": "",
+    "detail": "Vice-president of the SP Switzerland under party president Christian Levrat; regarded as a bridge-builder between party wings.",
+    "status": "historical",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://en.wikipedia.org/wiki/Beat_Jans"]
+  }
+]

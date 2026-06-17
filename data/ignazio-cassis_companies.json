@@ -1,0 +1,52 @@
+[
+  {
+    "id": "curafutura",
+    "entity": "curafutura (association of innovative health insurers)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2013-2017",
+    "status": "historical",
+    "detail": "Founding president of curafutura, the association grouping health insurers CSS, Helsana, Sanitas (and later KPT). Press reported annual remuneration of roughly CHF 180,000 for the mandate. He stepped down on taking office as Federal Councillor in November 2017.",
+    "source_url": ["https://www.tagblatt.ch/schweiz/lukratives-krankenkassenmandat-ld.707548", "https://www.presseportal.ch/de/pm/100061838/100807062"]
+  },
+  {
+    "id": "curaviva",
+    "entity": "CURAVIVA Switzerland (Association of Swiss Care Homes and Social Institutions)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2012-2017",
+    "status": "historical",
+    "detail": "President of CURAVIVA Switzerland, the umbrella association of care homes and social institutions. Mandate relinquished on entering the Federal Council in 2017.",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis", "https://www.parlament.ch/en/biografie?CouncillorId=3828"]
+  },
+  {
+    "id": "equam",
+    "entity": "EQUAM Foundation (quality of care certification)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "before 2017",
+    "status": "historical",
+    "detail": "Held a function in the EQUAM foundation, active in the certification of quality in medical care, among the various health-sector mandates listed in his parliamentary career. Relinquished on entering the Federal Council.",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "radix",
+    "entity": "RADIX (Swiss health foundation)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "before 2017",
+    "status": "historical",
+    "detail": "Held a function in RADIX, a Swiss foundation for health promotion, among the health-sector organisations listed in his parliamentary period. Relinquished on entering the Federal Council.",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "fmh",
+    "entity": "Swiss Medical Association (FMH)",
+    "role": "board_member",
+    "ownership_stake": "",
+    "period": "2008-2012",
+    "status": "historical",
+    "detail": "Vice-president of the FMH, the professional federation of Swiss physicians.",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis", "https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  }
+]

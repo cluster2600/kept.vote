@@ -1,0 +1,79 @@
+[
+  {
+    "id": "national-council-2007",
+    "election": "Swiss federal election 2007 (National Council)",
+    "date": "2007",
+    "role_sought": "Member of the National Council (Ticino, FDP)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First elected to the National Council; took office on 4 June 2007.",
+    "source_url": ["https://www.parlament.ch/en/biografie?CouncillorId=3828", "https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  },
+  {
+    "id": "national-council-2011",
+    "election": "Swiss federal election 2011 (National Council)",
+    "date": "2011",
+    "role_sought": "Member of the National Council (Ticino, FDP)",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the National Council for the canton of Ticino.",
+    "source_url": ["https://www.parlament.ch/en/biografie?CouncillorId=3828"]
+  },
+  {
+    "id": "national-council-2015",
+    "election": "Swiss federal election 2015 (National Council)",
+    "date": "2015",
+    "role_sought": "Member of the National Council (Ticino, FDP)",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the National Council; served until his election to the Federal Council in 2017.",
+    "source_url": ["https://www.parlament.ch/en/biografie?CouncillorId=3828"]
+  },
+  {
+    "id": "federal-council-2017",
+    "election": "2017 Swiss Federal Council by-election",
+    "date": "2017-09-20",
+    "role_sought": "Member of the Federal Council (FDP seat, succeeding Didier Burkhalter)",
+    "result": "Elected",
+    "vote_share": "125 of 244 valid votes (second round)",
+    "opponent": "Isabelle Moret; Pierre Maudet (FDP ticket)",
+    "detail": "Elected by the Federal Assembly in the second round with 125 of 244 valid votes, becoming the 117th Federal Councillor. First Italian-speaking Federal Councillor since 1999.",
+    "source_url": ["https://en.wikipedia.org/wiki/2017_Swiss_Federal_Council_election", "https://www.swissinfo.ch/eng/cabinet-race_ignazio-cassis-chosen-as-switzerland-s-new-cabinet-minister/43531024"]
+  },
+  {
+    "id": "federal-council-reelection-2019",
+    "election": "Federal Council renewal election 2019",
+    "date": "2019-12-11",
+    "role_sought": "Re-election to the Federal Council",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Confirmed in office by the Federal Assembly during the periodic renewal of the Federal Council.",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "federal-council-reelection-2023",
+    "election": "Federal Council renewal election 2023",
+    "date": "2023-12-13",
+    "role_sought": "Re-election to the Federal Council",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Confirmed in office by the Federal Assembly during the periodic renewal of the Federal Council following the 2023 federal elections.",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "president-confederation-2022",
+    "election": "Election of the President of the Swiss Confederation for 2022",
+    "date": "2021-12-08",
+    "role_sought": "President of the Swiss Confederation (2022)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected by the Federal Assembly as President of the Confederation for 2022; previously Vice-President in 2021 and again in 2026.",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "agriculture-teacher-hondrich",
+    "role": "Teacher of agricultural studies",
+    "organization": "Bergbauernschule Hondrich (mountain-farming school)",
+    "start_date": "",
+    "end_date": "",
+    "description": "Worked as a teacher of agricultural studies early in his career after completing his agronomy studies at ETH Zurich.",
+    "category": "education-employment",
+    "source_url": ["https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html", "https://www.watson.ch/schweiz/klima/206672787-albert-roesti-laesst-swissoil-mandat-von-webseite-verschwinden"]
+  },
+  {
+    "id": "bern-economic-affairs-secretary-general",
+    "role": "Deputy then Secretary General, cantonal Department of Economic Affairs",
+    "organization": "Canton of Bern (Volkswirtschaftsdirektion)",
+    "start_date": "2001",
+    "end_date": "2006",
+    "description": "Entered the Bern cantonal Department of Economic Affairs in 1998, serving as Deputy Secretary General (2001-2003) and Secretary General (2003-2006).",
+    "category": "public-administration",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti", "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html"]
+  },
+  {
+    "id": "swissmilk-director",
+    "role": "Director",
+    "organization": "Swiss Milk Producers (Swissmilk)",
+    "start_date": "2006",
+    "end_date": "2012",
+    "description": "Served as director of the Swiss Milk Producers association (Swissmilk).",
+    "category": "business-management",
+    "source_url": ["https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html", "https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"]
+  },
+  {
+    "id": "buero-dr-roesti-gmbh-owner",
+    "role": "Owner and Managing Director",
+    "organization": "Büro Dr. Rösti GmbH (business and political consultancy)",
+    "start_date": "2013",
+    "end_date": "2022",
+    "description": "Founded and ran his own consulting firm in Uetendorf providing services to the private and public sector, through which he managed many of his secondary mandates. The company was put into liquidation after his election to the Federal Council, with the shares transferred to his wife.",
+    "category": "business-management",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti", "https://www.tagesanzeiger.ch/bundesrat-albert-roesti-firma-liquidiert-949921580692"]
+  },
+  {
+    "id": "mayor-uetendorf",
+    "role": "Mayor (Gemeindepräsident) of Uetendorf",
+    "organization": "Municipality of Uetendorf, canton Bern",
+    "start_date": "2014",
+    "end_date": "2022",
+    "description": "Member of the Uetendorf communal council from 2008 and mayor from 2014.",
+    "category": "local-politics",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti", "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html"]
+  },
+  {
+    "id": "svp-bern-cantonal-president",
+    "role": "President, SVP of canton Bern",
+    "organization": "Swiss People's Party (SVP), Bern cantonal section",
+    "start_date": "",
+    "end_date": "",
+    "description": "Served as president of the cantonal Bern section of the SVP before his national party presidency.",
+    "category": "party-politics",
+    "source_url": ["https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html"]
+  },
+  {
+    "id": "svp-national-president",
+    "role": "National President of the SVP",
+    "organization": "Swiss People's Party (SVP/UDC)",
+    "start_date": "2016-04-23",
+    "end_date": "2020-08-22",
+    "description": "Elected national president of the SVP on 23 April 2016, succeeding Toni Brunner; stood down in 2020 and was succeeded by Marco Chiesa.",
+    "category": "party-politics",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti", "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html"]
+  },
+  {
+    "id": "national-council-member",
+    "role": "Member of the National Council",
+    "organization": "Federal Assembly of Switzerland (constituency: Bern)",
+    "start_date": "2011-12-05",
+    "end_date": "2022-12-31",
+    "description": "Sat in the National Council representing the canton of Bern for the SVP from 2011 until his election to the Federal Council.",
+    "category": "national-politics",
+    "source_url": ["https://en.wikipedia.org/wiki/Albert_R%C3%B6sti", "https://www.parlament.ch/de/biografie/albert-r%c3%b6sti/4100"]
+  },
+  {
+    "id": "federal-councillor-detec",
+    "role": "Federal Councillor, Head of DETEC/UVEK",
+    "organization": "Swiss Federal Council",
+    "start_date": "2023-01-01",
+    "end_date": "",
+    "description": "Member of the Federal Council since 1 January 2023, heading the Federal Department of the Environment, Transport, Energy and Communications (DETEC/UVEK), succeeding Ueli Maurer (and Simonetta Sommaruga at the head of DETEC).",
+    "category": "national-politics",
+    "source_url": ["https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html", "https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"]
+  }
+]

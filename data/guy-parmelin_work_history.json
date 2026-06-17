@@ -1,0 +1,82 @@
+[
+  {
+    "id": "winegrower-family-farm",
+    "role": "Farmer and master winegrower",
+    "organization": "Parmelin family farm and vineyard, Bursins (Vaud)",
+    "start_date": "1985",
+    "end_date": "2015",
+    "description": "Ran the family agricultural and viticultural business at Bursins, taken over jointly with his brother Christophe Parmelin. He gave up active management on becoming a Federal Councillor.",
+    "category": "private_sector",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "bursins-council-president",
+    "role": "President of the general council (communal legislature)",
+    "organization": "Commune of Bursins (Vaud)",
+    "start_date": "1993",
+    "end_date": "1999",
+    "description": "First elected office; presided over the communal general council of Bursins.",
+    "category": "local_government",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/"]
+  },
+  {
+    "id": "grand-council-vaud",
+    "role": "Member of the Grand Council of Vaud (cantonal deputy)",
+    "organization": "Grand Council of the Canton of Vaud",
+    "start_date": "1994",
+    "end_date": "2003",
+    "description": "Served as a cantonal deputy for the SVP/UDC in the Vaud cantonal parliament.",
+    "category": "cantonal_government",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "svp-vaud-president",
+    "role": "President of the cantonal SVP/UDC",
+    "organization": "Swiss People's Party (SVP/UDC), Vaud cantonal section",
+    "start_date": "2000",
+    "end_date": "2004",
+    "description": "Led the Vaud cantonal branch of the SVP/UDC; previously vice-president and section president for the Rolle district.",
+    "category": "political_party",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "national-council",
+    "role": "Member of the National Council",
+    "organization": "Federal Assembly of Switzerland (National Council)",
+    "start_date": "2003-12-01",
+    "end_date": "2015-12-31",
+    "description": "Represented the canton of Vaud in the lower chamber. Sat on the Social Security and Public Health Committee (chair 2013-2015) and from 2007 on the Environment, Spatial Planning and Energy Committee.",
+    "category": "federal_legislature",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "federal-councillor-ddps",
+    "role": "Federal Councillor, Head of the Department of Defence, Civil Protection and Sport (DDPS)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2016-01-01",
+    "end_date": "2018-12-31",
+    "description": "Took over the defence department from Ueli Maurer; led the relaunch of the fighter-jet procurement programme after the 2014 Gripen referendum failure.",
+    "category": "federal_executive",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "federal-councillor-eaer",
+    "role": "Federal Councillor, Head of the Department of Economic Affairs, Education and Research (EAER/DEFR)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2019-01-01",
+    "end_date": "",
+    "description": "Succeeded Johann Schneider-Ammann at the economics department; portfolio includes economic policy, agriculture, free-trade agreements, vocational and higher education and research, and EU relations.",
+    "category": "federal_executive",
+    "source_url": ["https://www.wbf.admin.ch/en/guy-parmelin-federal-councillor", "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/guy-parmelin.html"]
+  },
+  {
+    "id": "president-confederation",
+    "role": "President of the Swiss Confederation",
+    "organization": "Swiss Federal Council",
+    "start_date": "2026-01-01",
+    "end_date": "2026-12-31",
+    "description": "Serving his second term as President of the Confederation (first in 2021); also Vice President in 2020 and 2025. The presidency is a primus inter pares role rotating annually among Federal Councillors.",
+    "category": "federal_executive",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-guy-parmelin", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  }
+]

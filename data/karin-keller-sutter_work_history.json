@@ -1,0 +1,82 @@
+[
+  {
+    "id": "freelance-interpreter-translator",
+    "role": "Conference interpreter and translator (self-employed)",
+    "organization": "Self-employed",
+    "start_date": "1989",
+    "end_date": "2000",
+    "description": "Worked as a qualified conference interpreter and translator after completing her studies at the Zurich interpreters' school (DOZ).",
+    "category": "professional",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://www.efd.admin.ch/en/karin-keller-sutter-en"]
+  },
+  {
+    "id": "vocational-school-teacher",
+    "role": "Teacher at commercial vocational schools",
+    "organization": "Kaufmännische Berufsschulen St. Gallen and Wil",
+    "start_date": "1989",
+    "end_date": "2000",
+    "description": "Taught at the commercial vocational schools in St. Gallen and Wil; completed a part-time teaching qualification (Berufsmittelschullehrerin) at the University of Fribourg from 1994 to 1996.",
+    "category": "professional",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "wil-municipal-council",
+    "role": "Member of the municipal parliament of Wil (and president 1997)",
+    "organization": "City of Wil (canton St. Gallen)",
+    "start_date": "1992",
+    "end_date": "2000",
+    "description": "Member of the Wil municipal parliament; served as its president in 1997. From 1997 also president of the cantonal FDP party.",
+    "category": "political",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  },
+  {
+    "id": "sg-cantonal-parliament",
+    "role": "Member of the Cantonal Parliament (Kantonsrat)",
+    "organization": "Canton of St. Gallen",
+    "start_date": "1996",
+    "end_date": "2000",
+    "description": "Deputy in the cantonal parliament (Kantonsrat) of St. Gallen.",
+    "category": "political",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  },
+  {
+    "id": "sg-cantonal-government-justice-police",
+    "role": "Cantonal Councillor, Head of Security and Justice Department",
+    "organization": "Government Council (Regierungsrat) of the Canton of St. Gallen",
+    "start_date": "2000",
+    "end_date": "2012",
+    "description": "Member of the St. Gallen cantonal government for twelve years, heading the Security and Justice Department. Government president in 2006-2007 and 2011-2012. Chaired the Conference of Cantonal Justice and Police Directors (KKJPD) 2010-2012. Built a reputation as a hardliner on asylum, immigration and security.",
+    "category": "political",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://www.efd.admin.ch/en/karin-keller-sutter-en"]
+  },
+  {
+    "id": "council-of-states",
+    "role": "Member of the Council of States (Ständerat), President 2017-2018",
+    "organization": "Federal Assembly of Switzerland (Council of States), canton St. Gallen",
+    "start_date": "2011",
+    "end_date": "2019",
+    "description": "Represented St. Gallen in the Council of States from late 2011/2012 until her move to the Federal Council. Member of committees on economic affairs and taxation, social security and health, and foreign affairs, and president of the EFTA/EU delegation (2018). President of the Council of States in 2017-2018.",
+    "category": "political",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  },
+  {
+    "id": "federal-council-ejpd",
+    "role": "Federal Councillor, Head of the Federal Department of Justice and Police (FDJP)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2019-01-01",
+    "end_date": "2022-12-31",
+    "description": "Headed the Federal Department of Justice and Police, succeeding Simonetta Sommaruga. Focused on rigorous implementation of the Dublin asylum framework, security legislation and corporate/civil law reform.",
+    "category": "political",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-karin-keller-sutter", "https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "federal-council-efd",
+    "role": "Federal Councillor, Head of the Federal Department of Finance (FDF/DFF)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2023-01-01",
+    "end_date": "",
+    "description": "Heads the Federal Department of Finance, succeeding Ueli Maurer. Led the federal response to the March 2023 Credit Suisse crisis and the UBS takeover, the implementation of the OECD/G20 minimum tax, and federal budget policy under the debt brake. Vice President of Switzerland 2024; President of the Confederation 2025.",
+    "category": "political",
+    "source_url": ["https://www.efd.admin.ch/en/karin-keller-sutter-en", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  }
+]

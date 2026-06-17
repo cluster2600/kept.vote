@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fighter-jet-procurement-relaunch",
+    "law_name": "New combat aircraft procurement programme (Air2030 / F-35A selection)",
+    "year": "2016-2022",
+    "area": "Defence procurement",
+    "description": "As head of the DDPS (2016-2018), Parmelin relaunched the fighter-jet procurement process after the 2014 Gripen referendum failure, structuring it so the final decision rested with the people. The 2020 popular vote narrowly approved a procurement-financing framework, and in 2021 the Federal Council selected the Lockheed Martin F-35A.",
+    "significance": "Central to renewing the Swiss Air Force; the procurement later became politically contentious over the contractual price (see polemics).",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://www.swissinfo.ch/fre/politique-suisse/f-35-apr%C3%A8s-la-promesse-du-prix-fixe-le-spectre-dun-nouveau-scandale/89586873"]
+  },
+  {
+    "id": "covid-economic-measures",
+    "law_name": "Covid-19 economic support measures (short-time work / RHT and hardship-case aid)",
+    "year": "2020-2022",
+    "area": "Economic / labour policy",
+    "description": "As head of the EAER, Parmelin led the rollout of business-support measures during the Covid-19 pandemic, including a simplified short-time work (RHT) scheme extended to 18 months and a federal-cantonal hardship-case programme for firms suffering severe revenue losses.",
+    "significance": "Among the largest economic-stabilisation interventions in modern Swiss history, supporting jobs and firms through the pandemic.",
+    "source_url": ["https://www.rts.ch/info/11759227-berne-porte-a-un-milliard-de-francs-les-mesures-de-soutien-pour-les-cas-de-rigueur.html", "https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/"]
+  },
+  {
+    "id": "efta-indonesia-epa-2021",
+    "law_name": "EFTA-Indonesia Comprehensive Economic Partnership Agreement",
+    "year": "2021",
+    "area": "Trade policy",
+    "description": "Parmelin championed the free-trade agreement with Indonesia, which included sustainability conditions on palm-oil tariff concessions. It was approved in the popular vote of 7 March 2021 after an opposition referendum.",
+    "significance": "First Swiss free-trade agreement to be subject to a popular vote, and the first to link tariff concessions to sustainability requirements.",
+    "source_url": ["https://www.seco.admin.ch/seco/fr/home/seco/Abstimmungen/abkommen-efta-indonesien.html", "https://www.letemps.ch/suisse/guy-parmelin-lepreuve-lhuile-palme"]
+  },
+  {
+    "id": "eu-framework-agreement-termination",
+    "law_name": "Termination of the Switzerland-EU institutional framework agreement negotiations",
+    "year": "2021",
+    "area": "EU relations / foreign economic policy",
+    "description": "As President of the Confederation in 2021, Parmelin announced on 26 May 2021 the Federal Council's decision to end seven years of negotiations on the institutional framework agreement (accord-cadre) with the EU, citing unresolved differences on wage protection, EU citizens' rights and state aid.",
+    "significance": "A major turning point in Swiss-EU relations that reset the bilateral track and led to later negotiations on a new package (Bilaterals III).",
+    "source_url": ["https://www.rts.ch/info/suisse/2021/minute-par-minute/27398997.html", "https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/"]
+  }
+]

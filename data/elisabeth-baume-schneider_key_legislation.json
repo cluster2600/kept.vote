@@ -1,0 +1,56 @@
+[
+  {
+    "id": "13th-ahv-pension-2024",
+    "law_name": "13th AHV/AVS pension (popular initiative \"For a better life in old age\")",
+    "year": "2024",
+    "area": "Old-age insurance / social security",
+    "description": "Popular initiative for a 13th annual AHV/AVS old-age pension payment, accepted by 58.2% of voters on 3 March 2024. As Home Affairs minister, Baume-Schneider defended the Federal Council's recommendation to reject the initiative, then led its implementation, including the politically contested question of financing (e.g. via VAT and/or wage contributions).",
+    "significance": "First successful expansion of AHV/AVS benefits via popular initiative; required Baume-Schneider's department to design financing and implementation against her own party's campaign position.",
+    "source_url": ["https://www.rts.ch/info/suisse/2024/minute-par-minute/la-13e-rente-avs-seduit-la-population-la-retraite-a-66-ans-balayee-par-tous-les-cantons-28422847.html", "https://www.blick.ch/fr/suisse/financement-de-la-13e-rente-avs-elisabeth-baume-schneider-veut-ponctionner-les-salaires-la-droite-senerve-id19764306.html"]
+  },
+  {
+    "id": "premium-relief-initiative-2024",
+    "law_name": "Premium relief initiative (\"Maximum 10% du revenu pour les primes d'assurance-maladie\")",
+    "year": "2024",
+    "area": "Health insurance / health policy",
+    "description": "SP/PS popular initiative to cap health-insurance premiums at 10% of disposable income, rejected by 55.5% of voters on 9 June 2024. Baume-Schneider defended the Federal Council and Parliament's counter-project and recommendation to reject.",
+    "significance": "Major federal vote on health-insurance affordability; defeat for her own party's flagship initiative while she defended the government line as Health minister.",
+    "source_url": ["https://www.rts.ch/info/dossiers/2024/votations-federales-du-9-juin/2024/minute-par-minute/l-initiative-du-ps-sur-les-primes-en-echec-malgre-le-soutien-romand-la-loi-sur-l-electricite-plebiscitee-28529541.html", "https://www.bag.admin.ch/fr/initiative-populaire-maximum-10-du-revenu-pour-les-primes-dassurance-maladie-initiative-dallegement-des-primes"]
+  },
+  {
+    "id": "cost-brake-initiative-2024",
+    "law_name": "Cost-brake initiative (initiative pour un frein aux coûts de la santé)",
+    "year": "2024",
+    "area": "Health insurance / health policy",
+    "description": "Le Centre's popular initiative for a brake on health-care costs, rejected by voters on 9 June 2024. The Federal Council's counter-project foresees four-yearly cost-control objectives in mandatory health insurance, with first objectives from 2026.",
+    "significance": "Part of the same June 2024 health-policy vote; Baume-Schneider defended the government counter-project and signalled continued action on costs and premiums.",
+    "source_url": ["https://www.rts.ch/info/dossiers/2024/votations-federales-du-9-juin/2024/minute-par-minute/l-initiative-du-ps-sur-les-primes-en-echec-malgre-le-soutien-romand-la-loi-sur-l-electricite-plebiscitee-28529541.html"]
+  },
+  {
+    "id": "efas-uniform-financing-2024",
+    "law_name": "EFAS — Uniform financing of health-care services (amendment to the Health Insurance Act)",
+    "year": "2024",
+    "area": "Health insurance / health-care financing",
+    "description": "Reform establishing uniform financing of outpatient and inpatient care (and later long-term care) by insurers and cantons, approved by 53.3% of voters on 24 November 2024 after a referendum led by the VPOD/SSP union (\"Stop EFAS\"). Baume-Schneider championed the reform as Health minister.",
+    "significance": "Largest structural reform of Swiss health-care financing in decades; a notable ballot-box success for Baume-Schneider, especially coming after the rejected pension reform.",
+    "source_url": ["https://www.swissinfo.ch/fre/politique-suisse/financement-uniforme-des-soins/88233307", "https://en.wikipedia.org/wiki/Health_Insurance_Act:_standardised_financing_of_benefits"]
+  },
+  {
+    "id": "bvg-lpp-occupational-pension-reform-2024",
+    "law_name": "BVG/LPP occupational pension (2nd pillar) reform",
+    "year": "2024",
+    "area": "Occupational pensions / social security",
+    "description": "Reform of the second-pillar occupational pension system (BVG/LPP), rejected by voters (about 67% no) on 22 September 2024. Baume-Schneider, as Home Affairs minister, defended the reform supported by the Federal Council and Parliament.",
+    "significance": "Clear defeat of the government-backed pension reform; a significant setback for her department in 2024.",
+    "source_url": ["https://www.tdg.ch/elisabeth-baume-schneider-joue-son-va-tout-sur-la-sante-851837582956"]
+  },
+  {
+    "id": "afghan-women-asylum-2023",
+    "law_name": "Asylum practice for Afghan women and girls (SEM/FDJP)",
+    "year": "2023",
+    "area": "Asylum / migration",
+    "description": "From July 2023, under Baume-Schneider's FDJP, the State Secretariat for Migration adopted a practice allowing Afghan women and girls to obtain refugee status given the systematic persecution of women under the Taliban. The measure drew strong criticism from the SVP/UDC and parts of the PLR/FDP.",
+    "significance": "Notable asylum-policy decision during her year at Justice and Police; central to right-wing criticism of her migration record.",
+    "source_url": ["https://www.rts.ch/info/suisse/14145049-ludc-denonce-le-chaos-de-lasile-et-critique-elisabeth-baumeschneider.html", "https://www.udc.ch/actualites/publications/communiques-de-presse/il-faut-rappeler-la-ministre-de-lasile-elisabeth-baume-schneider-a-lordre-et-mettre-immediatement-un-terme-au-laxisme-de-lasile-pour-les-femmes-afghanes/"]
+  }
+]

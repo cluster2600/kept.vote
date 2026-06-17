@@ -1,0 +1,57 @@
+[
+  {
+    "id": "grand-council-basel-stadt-2001",
+    "election": "Grand Council of Basel-Stadt election",
+    "date": "2001",
+    "role_sought": "Member of the Grand Council (Grosser Rat) of Basel-Stadt",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected to the cantonal parliament of Basel-Stadt; served 2001-2011, including on the Economics and Taxation Committee.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "national-council-2010-succession",
+    "election": "National Council succession (Nachrutsch)",
+    "date": "2010",
+    "role_sought": "Member of the National Council for Basel-Stadt",
+    "result": "Took seat as successor",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Entered the National Council in 2010 succeeding the retiring SP colleague Rudolf (Ruedi) Rechsteiner.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://en.wikipedia.org/wiki/Beat_Jans"]
+  },
+  {
+    "id": "national-council-2011-2015-2019",
+    "election": "Federal elections (National Council), Basel-Stadt",
+    "date": "2011, 2015, 2019",
+    "role_sought": "Member of the National Council",
+    "result": "Re-elected (three terms)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the National Council in the 2011, 2015 and 2019 federal elections with strong results. He withdrew a Council of States candidacy in 2019 to make way for Eva Herzog.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://en.wikipedia.org/wiki/Beat_Jans"]
+  },
+  {
+    "id": "basel-stadt-government-2020",
+    "election": "Basel-Stadt cantonal government election",
+    "date": "2020-10-25",
+    "role_sought": "Member of the Government Council (Regierungsrat) of Basel-Stadt",
+    "result": "Elected (second round)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected to the Basel-Stadt cantonal government on 25 October 2020 and chosen as President of the Government (Regierungspraesident), serving 2021-2023.",
+    "source_url": ["https://en.wikipedia.org/wiki/Beat_Jans", "https://hls-dhs-dss.ch/articles/062284"]
+  },
+  {
+    "id": "federal-council-2023",
+    "election": "Swiss Federal Council election",
+    "date": "2023-12-13",
+    "role_sought": "Member of the Federal Council (succeeding Alain Berset)",
+    "result": "Elected (third ballot)",
+    "vote_share": "134 of 245 valid votes (absolute majority 123)",
+    "opponent": "Jon Pult (SP co-nominee); Daniel Jositsch (SP)",
+    "detail": "The SP nominated Jans and Jon Pult as its official ticket. The United Federal Assembly elected Jans on the third ballot with 134 of 245 valid votes, ahead of party colleagues Pult and Jositsch. He took over the FDJP from Elisabeth Baume-Schneider.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election", "https://www.swissinfo.ch/eng/politics/beat-jans-chosen-as-switzerland-s-new-cabinet-minister/49055714"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "politician-of-the-year-2011",
+    "honor": "Politician of the Year (Swiss Award)",
+    "awarded_by": "Swiss Award (Swiss television entertainment programme)",
+    "year": "2011",
+    "detail": "Named Politician of the Year in the context of the Swiss Award show, recognising her public profile as a St. Gallen cantonal councillor.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "honorary-citizen-wil-2018",
+    "honor": "Honorary Citizen of Wil (Ehrenbürgerin)",
+    "awarded_by": "City of Wil (canton St. Gallen)",
+    "year": "2018",
+    "detail": "Made an honorary citizen of the city of Wil, where she grew up, following her election to the Federal Council.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "ft-most-influential-women-2023",
+    "honor": "One of the 25 most influential women of 2023",
+    "awarded_by": "Financial Times",
+    "year": "2023",
+    "detail": "Listed by the Financial Times among the most influential women worldwide, primarily credited for her engagement with the acquisition of Credit Suisse by UBS.",
+    "source_url": ["https://en.wikipedia.org/wiki/Karin_Keller-Sutter", "https://www.ft.com/womenof2023"]
+  }
+]

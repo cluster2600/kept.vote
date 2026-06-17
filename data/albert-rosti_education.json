@@ -1,0 +1,29 @@
+[
+  {
+    "id": "eth-zurich-agronomy-diploma",
+    "institution": "ETH Zurich (Swiss Federal Institute of Technology)",
+    "qualification": "Diploma in Agronomy (Dipl. Ing. Agr. ETH)",
+    "field": "Agronomy / Agricultural sciences",
+    "years": "to 1992",
+    "detail": "Studied agronomy at ETH Zurich.",
+    "source_url": ["https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html", "https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"]
+  },
+  {
+    "id": "eth-zurich-doctorate",
+    "institution": "ETH Zurich (Swiss Federal Institute of Technology)",
+    "qualification": "Doctorate (PhD, Dr. sc. techn. ETH)",
+    "field": "Agronomy / Agricultural sciences",
+    "years": "to 1997",
+    "detail": "Completed a doctorate at ETH Zurich, attained in 1997.",
+    "source_url": ["https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html"]
+  },
+  {
+    "id": "rochester-bern-mba",
+    "institution": "University of Rochester / Rochester-Bern Executive Programs",
+    "qualification": "Master of Business Administration (MBA)",
+    "field": "Business administration",
+    "years": "2001-2002",
+    "detail": "Completed an MBA via the University of Rochester (USA) / Rochester-Bern programme, graduating in 2002.",
+    "source_url": ["https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/albert-roesti.html", "https://en.wikipedia.org/wiki/Albert_R%C3%B6sti"]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sg-cantonal-government-2000",
+    "election": "St. Gallen cantonal government election",
+    "date": "2000-03-12",
+    "role_sought": "Member of the Government Council (Regierungsrat) of St. Gallen",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected to the St. Gallen cantonal government, taking over the Security and Justice Department. Repeatedly re-elected with top results through 2012.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  },
+  {
+    "id": "federal-council-2010-failed",
+    "election": "Swiss Federal Council by-election (succession of Hans-Rudolf Merz)",
+    "date": "2010-09-22",
+    "role_sought": "Member of the Federal Council",
+    "result": "Defeated",
+    "vote_share": "",
+    "opponent": "Johann Schneider-Ammann (FDP), Jean-François Rime (SVP)",
+    "detail": "Narrowly failed in the fourth ballot; her FDP party colleague Johann Schneider-Ammann was elected to the seat.",
+    "source_url": ["https://en.wikipedia.org/wiki/2010_Swiss_Federal_Council_election", "https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "council-of-states-2011",
+    "election": "Swiss federal election (Council of States, St. Gallen)",
+    "date": "2011-10-23",
+    "role_sought": "Member of the Council of States",
+    "result": "Elected (first ballot)",
+    "vote_share": "approx. 65%",
+    "opponent": "",
+    "detail": "Elected to the Council of States in the first round with about 65% of the vote; left the cantonal government in May 2012.",
+    "source_url": ["https://en.wikipedia.org/wiki/Karin_Keller-Sutter", "https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "council-of-states-2015",
+    "election": "Swiss federal election (Council of States, St. Gallen)",
+    "date": "2015-10",
+    "role_sought": "Re-election to the Council of States",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected to the Council of States with a strong result.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "federal-council-2018",
+    "election": "Swiss Federal Council election (succession of Johann Schneider-Ammann)",
+    "date": "2018-12-05",
+    "role_sought": "Member of the Federal Council",
+    "result": "Elected (first ballot)",
+    "vote_share": "154 of 237 votes",
+    "opponent": "Hans Wicki (FDP, 56 votes)",
+    "detail": "Elected by the United Federal Assembly on the first ballot with 154 votes; fellow FDP candidate Hans Wicki received 56 votes. Elected alongside Viola Amherd (CVP).",
+    "source_url": ["https://en.wikipedia.org/wiki/2018_Swiss_Federal_Council_election", "https://hls-dhs-dss.ch/articles/059614"]
+  },
+  {
+    "id": "president-confederation-2025",
+    "election": "Election of the President of the Confederation for 2025",
+    "date": "2024-12-11",
+    "role_sought": "President of the Swiss Confederation (2025)",
+    "result": "Elected",
+    "vote_share": "168 votes",
+    "opponent": "",
+    "detail": "Elected by the United Federal Assembly as President of the Confederation for 2025 with 168 votes; had served as Vice President in 2024.",
+    "source_url": ["https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/spitzenamt-gewaehlt-mit-168-stimmen-karin-keller-sutter-wird-bundespraesidentin-ld.2710128", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "physician-internal-medicine",
+    "role": "Physician",
+    "organization": "Private and hospital practice, Switzerland",
+    "start_date": "1988",
+    "end_date": "1996",
+    "description": "Worked as a doctor before specialising in internal medicine and in prevention and public health (FMH specialist titles obtained in 1998).",
+    "category": "medical",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis", "https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  },
+  {
+    "id": "cantonal-doctor-ticino",
+    "role": "Cantonal Doctor (medico cantonale)",
+    "organization": "Canton of Ticino",
+    "start_date": "1996",
+    "end_date": "2008",
+    "description": "Served as Cantonal Doctor for the canton of Ticino, responsible for public health functions in the cantonal administration.",
+    "category": "public-health",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis", "https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "fmh-vice-president",
+    "role": "Vice-President",
+    "organization": "Swiss Medical Association (FMH, Foederatio Medicorum Helveticorum)",
+    "start_date": "2008",
+    "end_date": "2012",
+    "description": "Vice-president of the Swiss Medical Association, the professional body of Swiss physicians.",
+    "category": "medical-association",
+    "source_url": ["https://en.wikipedia.org/wiki/Ignazio_Cassis", "https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "national-councillor",
+    "role": "Member of the National Council",
+    "organization": "Federal Assembly of Switzerland",
+    "start_date": "2007-06-04",
+    "end_date": "2017-10-30",
+    "description": "Member of the National Council for the canton of Ticino (FDP). From 2015 chaired the National Council's Social Security and Health Committee; previously FDP parliamentary group leader.",
+    "category": "politics",
+    "source_url": ["https://www.parlament.ch/en/biografie?CouncillorId=3828", "https://en.wikipedia.org/wiki/Ignazio_Cassis"]
+  },
+  {
+    "id": "municipal-legislature-collina-doro",
+    "role": "Member of the municipal legislature",
+    "organization": "Municipality of Collina d'Oro, Ticino",
+    "start_date": "2004",
+    "end_date": "2007",
+    "description": "Began his political career in the legislative authority of the Ticino municipality of Collina d'Oro.",
+    "category": "politics",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis"]
+  },
+  {
+    "id": "federal-councillor-fdfa",
+    "role": "Federal Councillor, Head of the Federal Department of Foreign Affairs (FDFA/DFAE)",
+    "organization": "Swiss Federal Council",
+    "start_date": "2017-11-01",
+    "end_date": "present",
+    "description": "Elected to the Federal Council on 20 September 2017; heads the Federal Department of Foreign Affairs since 1 November 2017. President of the Swiss Confederation in 2022; Vice-President in 2021 and 2026.",
+    "category": "politics",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-ignazio-cassis", "https://www.eda.admin.ch/en/head-of-department-ignazio-cassis"]
+  }
+]

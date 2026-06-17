@@ -1,0 +1,29 @@
+[
+  {
+    "id": "matura-lausanne",
+    "institution": "Gymnasium, Lausanne",
+    "qualification": "Gymnasial Matura (secondary-school leaving certificate)",
+    "field": "General secondary education",
+    "years": "1977",
+    "detail": "Obtained his Matura in Lausanne in 1977.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "marcelin-agricultural-college",
+    "institution": "Cantonal Agricultural College of Marcelin, Morges (Vaud)",
+    "qualification": "Diploma in agriculture",
+    "field": "Agriculture",
+    "years": "1979",
+    "detail": "Completed a diploma at the cantonal agricultural college at Marcelin near Morges.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  },
+  {
+    "id": "federal-master-viticulture",
+    "institution": "Swiss federal vocational education and training system",
+    "qualification": "Federal advanced diploma (maitrise federale / master craftsman)",
+    "field": "Agriculture and viticulture",
+    "years": "1985",
+    "detail": "Earned a Federal advanced diploma (maitrise federale) in agriculture and viticulture, qualifying as a master winegrower.",
+    "source_url": ["https://hls-dhs-dss.ch/fr/articles/059656/2022-03-15/", "https://en.wikipedia.org/wiki/Guy_Parmelin"]
+  }
+]

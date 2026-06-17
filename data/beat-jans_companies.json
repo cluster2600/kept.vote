@@ -1,0 +1,22 @@
+[
+  {
+    "id": "iwb-board-of-directors",
+    "entity": "Industrielle Werke Basel (IWB) - cantonal energy/utility company",
+    "role": "Member of the board of directors (Verwaltungsrat)",
+    "ownership_stake": "",
+    "period": "2010-2020",
+    "status": "historical",
+    "detail": "Sat on the board of directors of IWB, the Basel-Stadt public utility (energy, water, telecom), during his National Council term. A declared interest binding while a parliamentarian; ended on leaving the National Council.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://www.sp-ps.ch/person/beat-jans/"]
+  },
+  {
+    "id": "ecos-natur-verein-management",
+    "entity": "Verein Natur / Swiss Forum for Sustainable Development (eco.ch), under Ecos AG",
+    "role": "Managing director of the association",
+    "ownership_stake": "",
+    "period": "2010-2014",
+    "status": "historical",
+    "detail": "Ran the affairs of the Verein Natur (from 2014 the Swiss Forum for Sustainable Development) for the Basel sustainability think tank Ecos AG.",
+    "source_url": ["https://hls-dhs-dss.ch/articles/062284", "https://en.wikipedia.org/wiki/Beat_Jans"]
+  }
+]

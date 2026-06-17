@@ -1,0 +1,22 @@
+[
+  {
+    "id": "federal-council-collegiate-office",
+    "item": "Member of the Swiss Federal Council",
+    "type": "Public office",
+    "period": "2019-present",
+    "value": "",
+    "detail": "As a member of the Federal Council she is subject to the incompatibility rules of the Confederation, which bar federal councillors from holding outside board mandates or gainful activity during their term.",
+    "status": "Active",
+    "source_url": ["https://www.admin.ch/en/federal-councillor-karin-keller-sutter"]
+  },
+  {
+    "id": "divestment-of-mandates-2018",
+    "item": "Resignation from board and association mandates on taking federal office",
+    "type": "Divestment / incompatibility",
+    "period": "2018-2019",
+    "value": "",
+    "detail": "Upon election to the Federal Council she resigned from her outside mandates, including the presidency of the Swiss Retail Federation and her board/trustee roles, in line with federal incompatibility rules.",
+    "status": "Resolved",
+    "source_url": ["https://hls-dhs-dss.ch/articles/059614", "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"]
+  }
+]
