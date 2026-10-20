@@ -80,6 +80,7 @@ class ClaudeService:
 
         self._model = settings.claude_model
         self._max_tokens = settings.claude_max_tokens
+        self._effort = settings.claude_effort
 
     # -- Public API --------------------------------------------------------
     async def verify_promise(
@@ -222,13 +223,32 @@ class ClaudeService:
 
     # -- Claude call -------------------------------------------------------
     async def _call_claude(self, prompt: str) -> str:
-        """Call the Messages API and return the concatenated text response."""
-        message = await self._client.messages.create(
+        """Call the Messages API and return the concatenated text response.
+
+        Raises:
+            ClaudeAnalysisError: If the request is declined (even after the
+                server-side fallback) or the reply is cut off by max_tokens.
+        """
+        message = await self._client.beta.messages.create(
             model=self._model,
             max_tokens=self._max_tokens,
             thinking={"type": "adaptive"},
+            output_config={"effort": self._effort},
+            # If a safety classifier declines the request, re-run it on the
+            # model Anthropic recommends for that refusal category.
+            betas=["server-side-fallback-2026-07-01"],
+            fallbacks="default",
             messages=[{"role": "user", "content": prompt}],
         )
+        if message.stop_reason == "refusal":
+            category = message.stop_details.category if message.stop_details else None
+            raise ClaudeAnalysisError(
+                f"Claude declined the request (category={category})."
+            )
+        if message.stop_reason == "max_tokens":
+            raise ClaudeAnalysisError(
+                "Claude's response hit max_tokens; raise CLAUDE_MAX_TOKENS."
+            )
         # Concatenate all text blocks (skipping thinking/other block types).
         return "".join(
             block.text for block in message.content if block.type == "text"

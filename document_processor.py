@@ -1,7 +1,7 @@
 """Document text extraction for PDF and Word files.
 
 :class:`DocumentProcessor` accepts raw file bytes and returns extracted plain
-text. Extraction libraries (PyPDF2, python-docx) are synchronous and CPU-bound,
+text. Extraction libraries (pypdf, python-docx) are synchronous and CPU-bound,
 so the async entrypoint offloads them to a worker thread to avoid blocking the
 event loop.
 """
@@ -11,7 +11,7 @@ from __future__ import annotations
 import io
 
 from docx import Document as DocxDocument
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 from starlette.concurrency import run_in_threadpool
 
 # MIME types and extensions we know how to handle.

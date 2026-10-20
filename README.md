@@ -17,7 +17,7 @@ reasoning.
 - **Document processing** — upload PDF or Word files; text is extracted and stored.
 - **AI verification** — Claude judges promise fulfilment and returns structured
   output (`status`, `confidence_score`, `reasoning`, `key_evidence`).
-- **PostgreSQL** with async SQLAlchemy 2.0 and connection pooling.
+- **PostgreSQL** with async SQLAlchemy 2.1 and connection pooling.
 - **UUID primary keys**, indexes for common queries, and cascade deletes.
 - **Async/await** end-to-end (async DB driver + async Anthropic client).
 - **Auto-created tables** on startup, **health checks**, and **statistics**.
@@ -25,13 +25,12 @@ reasoning.
 
 ## Tech stack
 
-FastAPI · SQLAlchemy 2.0 (async) · asyncpg · Pydantic v2 · Anthropic SDK ·
-PyPDF2 · python-docx
+FastAPI · SQLAlchemy 2.1 (async) · asyncpg · Pydantic v2 · Anthropic SDK 1.x ·
+pypdf · python-docx — Python 3.10+ (the Docker image uses 3.14).
 
-> **Note on the Anthropic SDK version:** the original spec pinned
-> `anthropic==0.15.1`. That release predates the `claude-opus-4-8` model and
-> adaptive thinking, so `requirements.txt` uses a current SDK
-> (`anthropic==0.69.0`). The model is configurable via `CLAUDE_MODEL`.
+> **Note on the Anthropic SDK version:** `requirements.txt` pins a current 1.x
+> SDK (`anthropic==1.15.0`), which requires Python ≥ 3.10. The model is
+> configurable via `CLAUDE_MODEL` and thinking depth via `CLAUDE_VERIFY_EFFORT`.
 
 ## Project layout
 
@@ -66,7 +65,9 @@ development). See [`.env.example`](./.env.example):
 | `DATABASE_URL`      | PostgreSQL connection string                  | local docker-compose   |
 | `ANTHROPIC_API_KEY` | Claude API key (required for `/api/verify`)   | _none_                 |
 | `ENVIRONMENT`       | `development` or `production`                 | `development`          |
-| `CLAUDE_MODEL`      | Claude model id                               | `claude-opus-4-8`      |
+| `CLAUDE_MODEL`      | Claude model id                               | `claude-opus-5-5`      |
+| `CLAUDE_MAX_TOKENS` | Output cap (thinking + JSON verdict)          | `16000`                |
+| `CLAUDE_VERIFY_EFFORT` | `low` / `medium` / `high` / `xhigh` / `max` | `medium`            |
 | `UPLOAD_DIR`        | Directory for stored uploads                  | `./uploads`            |
 
 No credentials are hardcoded.

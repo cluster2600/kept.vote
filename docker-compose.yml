@@ -27,7 +27,7 @@ services:
       DATABASE_URL: postgresql://postgres:postgres@db:5432/promises
       # Supply your key via a local .env file or the shell environment.
       ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
-      CLAUDE_MODEL: ${CLAUDE_MODEL:-claude-opus-4-8}
+      CLAUDE_MODEL: ${CLAUDE_MODEL:-claude-opus-5-5}
       UPLOAD_DIR: /app/uploads
     ports:
       - "8000:8000"

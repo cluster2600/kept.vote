@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM python:3.12-slim
+FROM python:3.14-slim
 
 # Keep Python lean and unbuffered for clean container logs.
 ENV PYTHONUNBUFFERED=1 \
