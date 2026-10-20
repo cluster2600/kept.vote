@@ -151,6 +151,12 @@ These apply to every section, and strictly to polemics and justice:
 - **Neutral wording.** Report what happened and who said what; no adjectives
   that judge. Allegations are attributed ("prosecutors allege", "according to
   Le Monde") and never stated as fact.
+- **Justice is about this person.** The justice section lists only proceedings
+  where the politician is a party (suspect, defendant, complainant, plaintiff)
+  or a formally summoned witness, so a "Convicted" badge on their page always
+  means *they* were convicted. Proceedings against relatives, aides or party
+  colleagues go in polemics (status `judicial`), saying how they relate to the
+  politician and that the politician is not a party.
 - **Presumption of innocence.** Every justice record has a `presumption_note`
   and states the procedural stage precisely (investigation, charge, trial,
   first-instance verdict, appeal, final). Update or close records when the
