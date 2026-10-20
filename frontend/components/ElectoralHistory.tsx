@@ -24,14 +24,14 @@ export default function ElectoralHistory({
         return (
           <li
             key={item.id}
-            className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm"
+            className="rounded-xl border border-slate-200 bg-white p-5 shadow-xs"
           >
             <div className="flex flex-wrap items-start justify-between gap-3">
               <div className="min-w-0">
                 <h3 className="font-semibold text-slate-900">{item.election}</h3>
                 <p className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-500">
                   {role && (
-                    <span className="rounded bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
+                    <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
                       {role}
                     </span>
                   )}

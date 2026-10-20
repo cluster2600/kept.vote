@@ -21,7 +21,7 @@ export default function HonorsSection({ items }: { items: Honor[] }) {
         return (
           <li
             key={item.id}
-            className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm"
+            className="rounded-xl border border-slate-200 bg-white p-4 shadow-xs"
           >
             <div className="flex flex-wrap items-start justify-between gap-x-3 gap-y-1">
               <h3 className="font-semibold text-slate-900">{item.honor}</h3>

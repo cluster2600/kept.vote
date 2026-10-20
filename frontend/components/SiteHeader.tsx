@@ -3,7 +3,7 @@ import Link from "next/link";
 /** Top navigation bar with the kept.vote wordmark. */
 export default function SiteHeader() {
   return (
-    <header className="border-b border-slate-200 bg-white/80 backdrop-blur sticky top-0 z-10">
+    <header className="border-b border-slate-200 bg-white/80 backdrop-blur-sm sticky top-0 z-10">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
         <Link href="/" className="group inline-flex items-center gap-2">
           <span className="flex h-7 w-7 items-center justify-center rounded-md bg-blue-600 text-white">

@@ -93,7 +93,7 @@ function PoliticianCard({ politician: p }: { politician: PoliticianSummary }) {
   return (
     <Link
       href={`/politicians/${p.id}`}
-      className="block rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-slate-300 hover:shadow-md"
+      className="block rounded-xl border border-slate-200 bg-white p-5 shadow-xs transition hover:border-slate-300 hover:shadow-md"
     >
       <div className="flex items-start justify-between gap-3">
         <div>
@@ -156,7 +156,7 @@ function EmptyState() {
       <p className="text-sm text-slate-600">
         No politicians yet. Run the seed script to load demo data:
       </p>
-      <code className="mt-2 inline-block rounded bg-slate-100 px-2 py-1 text-xs text-slate-700">
+      <code className="mt-2 inline-block rounded-sm bg-slate-100 px-2 py-1 text-xs text-slate-700">
         python seed.py
       </code>
     </div>
@@ -171,7 +171,7 @@ function ConnectionError({ message }: { message: string }) {
       </p>
       <p className="mt-1 text-sm text-rose-700">
         Make sure the FastAPI backend is running and{" "}
-        <code className="rounded bg-rose-100 px-1">API_BASE_URL</code> points to
+        <code className="rounded-sm bg-rose-100 px-1">API_BASE_URL</code> points to
         it.
       </p>
       <p className="mt-2 break-all text-xs text-rose-500">{message}</p>

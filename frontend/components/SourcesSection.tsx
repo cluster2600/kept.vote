@@ -104,7 +104,7 @@ export default function SourcesSection({
                     {s.sections.map((sec) => (
                       <span
                         key={sec}
-                        className="rounded bg-slate-100 px-1.5 py-0.5 text-[10px] font-medium text-slate-500"
+                        className="rounded-sm bg-slate-100 px-1.5 py-0.5 text-[10px] font-medium text-slate-500"
                       >
                         {sectionLabel(sec)}
                       </span>

@@ -145,7 +145,7 @@ export default function PromisesTab({
           return (
             <div
               key={g.category}
-              className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm"
+              className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-xs"
             >
               <button
                 type="button"
