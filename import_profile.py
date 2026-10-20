@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Import Macron's profile sections: work history, finances, controversies.
+"""Import a politician's profile sections (career, finances, controversies...).
 
-Loads three JSON datasets (default under ``data/``) and upserts them under
-Emmanuel Macron. Like ``import_promises.py`` this is idempotent: each row is
+Loads the section datasets for the active ``DATA_PREFIX`` (default Macron, see
+``import_common``) and upserts them under that politician. Like ``import_promises.py`` this is idempotent: each row is
 matched by its dataset slug (stored in ``external_id``), so re-running updates
 in place rather than duplicating, and any existing rows whose slug is not in the
 incoming dataset are pruned.
@@ -45,18 +45,10 @@ from import_common import (
     as_list as _as_list,
     data_path,
     get_or_create_politician,
+    parse_confidence,
+    pick,
     slug_of,
 )
-
-
-def _clamp(value: object) -> float | None:
-    """Clamp a confidence value into [0, 1] (or None if absent/invalid)."""
-    if value is None:
-        return None
-    try:
-        return max(0.0, min(1.0, float(value)))  # type: ignore[arg-type]
-    except (TypeError, ValueError):
-        return None
 
 
 def _load(section: str) -> list[dict]:
@@ -129,9 +121,12 @@ async def _upsert_section(
     return created, updated, pruned
 
 
+# Field maps. Each column lists every spelling the datasets use, canonical
+# first (see ``pick``); the alternates come from batches that named fields
+# differently and were previously dropped on import.
 def _work_fields(e: dict) -> dict:
     return {
-        "role": e.get("role") or "(role)",
+        "role": pick(e, "role", "title") or "(role)",
         "organization": e.get("organization"),
         "start_date": e.get("start_date"),
         "end_date": e.get("end_date"),
@@ -144,11 +139,11 @@ def _work_fields(e: dict) -> dict:
 def _finance_fields(e: dict) -> dict:
     return {
         # The dataset uses "year"; our column is the more general year_or_period.
-        "year_or_period": e.get("year") or e.get("year_or_period"),
-        "type": e.get("type"),
-        "label": e.get("label"),
-        "amount": e.get("amount"),
-        "detail": e.get("detail"),
+        "year_or_period": pick(e, "year", "year_or_period", "declaration_date", "date"),
+        "type": pick(e, "type", "category"),
+        "label": pick(e, "label", "description", "summary"),
+        "amount": pick(e, "amount", "value"),
+        "detail": pick(e, "detail", "notes"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
@@ -156,11 +151,11 @@ def _finance_fields(e: dict) -> dict:
 def _polemic_fields(e: dict) -> dict:
     return {
         "title": e.get("title") or "(untitled)",
-        "period": e.get("period"),
-        "category": e.get("category"),
+        "period": pick(e, "period", "date"),
+        "category": pick(e, "category", "type"),
         "description": e.get("description"),
         "status": e.get("status"),
-        "confidence_score": _clamp(e.get("confidence_score")),
+        "confidence_score": parse_confidence(e.get("confidence_score")),
         "key_facts": _as_list(e.get("key_facts")),
         "source_urls": _as_list(e.get("source_url")),
     }
@@ -168,83 +163,93 @@ def _polemic_fields(e: dict) -> dict:
 
 def _stock_fields(e: dict) -> dict:
     return {
-        "holding": e.get("holding") or "(holding)",
+        "holding": pick(e, "holding", "company", "instrument") or "(holding)",
         "type": e.get("type"),
         "value": e.get("value"),
         "as_of": e.get("as_of"),
-        "detail": e.get("detail"),
-        "status": e.get("status"),
+        "detail": pick(e, "detail", "shares"),
+        "status": pick(e, "status", "declared_or_estimated"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
 
 def _real_estate_fields(e: dict) -> dict:
     return {
-        "property": e.get("property") or "(property)",
+        "property": pick(e, "property", "description", "type") or "(property)",
         "location": e.get("location"),
-        "transaction_type": e.get("transaction_type"),
+        "transaction_type": pick(e, "transaction_type", "ownership"),
         "date": e.get("date"),
-        "value": e.get("value"),
-        "detail": e.get("detail"),
-        "status": e.get("status"),
+        "value": pick(e, "value", "estimated_value"),
+        "detail": pick(e, "detail", "notes"),
+        "status": pick(e, "status", "declared_or_estimated"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
 
 def _company_fields(e: dict) -> dict:
     return {
-        "entity": e.get("entity") or "(entity)",
+        "entity": pick(e, "entity", "organization") or "(entity)",
         "role": e.get("role"),
         "ownership_stake": e.get("ownership_stake"),
         "period": e.get("period"),
         "status": e.get("status"),
-        "detail": e.get("detail"),
+        "detail": pick(e, "detail", "description"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
 
 def _electoral_fields(e: dict) -> dict:
     return {
-        "election": e.get("election") or "(election)",
-        "date": e.get("date"),
-        "role_sought": e.get("role_sought"),
+        "election": pick(e, "election", "office") or "(election)",
+        "date": pick(e, "date", "election_date"),
+        "role_sought": pick(e, "role_sought", "office"),
         "result": e.get("result"),
-        "vote_share": e.get("vote_share"),
+        "vote_share": pick(e, "vote_share", "votes"),
         "opponent": e.get("opponent"),
-        "detail": e.get("detail"),
+        "detail": pick(e, "detail", "notes", "jurisdiction"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
 
 def _interest_fields(e: dict) -> dict:
     return {
-        "item": e.get("item") or "(item)",
-        "type": e.get("type"),
-        "period": e.get("period"),
+        "item": pick(e, "item", "interest", "organization", "area") or "(item)",
+        "type": pick(e, "type", "category"),
+        "period": pick(e, "period", "date"),
         "value": e.get("value"),
-        "detail": e.get("detail"),
+        "detail": pick(e, "detail", "description"),
         "status": e.get("status"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
 
+def _years(e: dict) -> object:
+    """``years``, or a range built from ``start_date``/``end_date``."""
+    if e.get("years"):
+        return e["years"]
+    start, end = e.get("start_date"), e.get("end_date")
+    if start and end and str(start) != str(end):
+        return f"{start}–{end}"
+    return start or end
+
+
 def _education_fields(e: dict) -> dict:
     return {
         "institution": e.get("institution") or "(institution)",
-        "qualification": e.get("qualification"),
+        "qualification": pick(e, "qualification", "degree"),
         "field": e.get("field"),
-        "years": e.get("years"),
-        "detail": e.get("detail"),
+        "years": _years(e),
+        "detail": pick(e, "detail", "description"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
 
 def _honor_fields(e: dict) -> dict:
     return {
-        "honor": e.get("honor") or "(honor)",
-        "awarded_by": e.get("awarded_by"),
-        "year": e.get("year"),
-        "detail": e.get("detail"),
+        "honor": pick(e, "honor", "title") or "(honor)",
+        "awarded_by": pick(e, "awarded_by", "awarding_body"),
+        "year": pick(e, "year", "date"),
+        "detail": pick(e, "detail", "description"),
         "source_urls": _as_list(e.get("source_url")),
     }
 
@@ -253,9 +258,9 @@ def _legislation_fields(e: dict) -> dict:
     # Some datasets use a single explicit "no legislation" record carrying only
     # a `note` (no law_name/description) — map it to a clear titled card.
     return {
-        "law_name": e.get("law_name") or "No legislation authored",
-        "year": e.get("year"),
-        "area": e.get("area"),
+        "law_name": pick(e, "law_name", "title") or "No legislation authored",
+        "year": pick(e, "year", "date"),
+        "area": pick(e, "area", "category", "type"),
         "description": e.get("description") or e.get("note"),
         "significance": e.get("significance"),
         "source_urls": _as_list(e.get("source_url")),
@@ -264,10 +269,10 @@ def _legislation_fields(e: dict) -> dict:
 
 def _net_worth_fields(e: dict) -> dict:
     return {
-        "year": e.get("year"),
-        "declared_net_worth": e.get("declared_net_worth"),
-        "note": e.get("note"),
-        "status": e.get("status"),
+        "year": pick(e, "year", "date"),
+        "declared_net_worth": pick(e, "declared_net_worth", "net_worth", "amount"),
+        "note": pick(e, "note", "notes"),
+        "status": pick(e, "status", "declared_or_estimated"),
         "source_urls": _as_list(e.get("source_url")),
     }
 

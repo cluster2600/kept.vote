@@ -43,6 +43,10 @@ promise-verification-api/
 ├── document_processor.py  # PDF/Word text extraction
 ├── config.py              # Env-driven settings
 ├── seed.py                # Reproducible demo data (Emmanuel Macron)
+├── data/                  # Politician profiles (JSON), one file per section
+├── import_promises.py     # Load a profile's promises + verdicts into the DB
+├── import_profile.py      # Load a profile's other sections into the DB
+├── validate_profile.py    # Check profiles against docs/PROFILE_FORMAT.md
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml     # Postgres + API + frontend
@@ -141,11 +145,18 @@ Pages are server-rendered (React Server Components) and read the backend base UR
 from `API_BASE_URL` (falls back to `http://localhost:8000`). For Vercel, set
 `API_BASE_URL` to your deployed backend.
 
+## Politician profiles
+
+Profiles live in [`data/`](./data) as one JSON file per section. To add a
+politician, follow [`docs/PROFILE_FORMAT.md`](./docs/PROFILE_FORMAT.md): it
+covers the fields, sourcing and editorial rules, and the
+`python validate_profile.py --strict <slug>` check every new profile must pass.
+
 ## API endpoints
 
 | Method | Path                                | Description                                      |
 | ------ | ----------------------------------- | ------------------------------------------------ |
-| GET    | `/api/politicians`                  | List politicians with promise/verdict counts     |
+| GET    | `/api/politicians`                  | List politicians with promise/verdict counts (`?country=FR` filters by ISO code) |
 | POST   | `/api/politicians`                  | Create a politician                              |
 | GET    | `/api/politicians/{id}`             | Get a politician                                 |
 | DELETE | `/api/politicians/{id}`             | Delete a politician (cascades)                   |
