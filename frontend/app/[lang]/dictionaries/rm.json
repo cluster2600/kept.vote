@@ -1,1 +1,230 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – survegliaziun dad empermischuns politicas",
+    "description": "In instrument nunpartischan per survegliar empermischuns politicas: tgeninas èn vegnidas mantegnidas, tgeninas rutas e tgeninas èn anc en curs – cun funtaunas."
+  },
+  "header": {
+    "home": "kept.vote – pagina iniziala",
+    "politicians": "Politichers",
+    "methodology": "Metodologia",
+    "language": "Lingua"
+  },
+  "footer": {
+    "methodologyTitle": "Metodologia",
+    "methodologyBody": "Mintga empermischun vegn valitada sin basa da funtaunas primaras – leschas, documents uffizials e datas statalas – ed obtegna in dals status suandants: {kept}, {broken}, {inProgress} u {noAction}. In grad da fidanza reflectescha la forza da las cumprovas disponiblas. Mintga verdict è collià cun sias funtaunas, uschia ch’ins po verifitgar sez las indicaziuns.",
+    "tagline": "kept.vote – in instrument nunpartischan per survegliar empermischuns. Prototip."
+  },
+  "home": {
+    "eyebrow": "Survegliaziun dad empermischuns",
+    "title": "Han els tegnì pled?",
+    "intro": "kept.vote cumpareglia quai che politicras e politichers han empermess cun quai ch’els han propi fatg: mantegnì, rut u anc en curs. Mintga verdict sa basa sin funtaunas primaras.",
+    "stats": {
+      "politicians": "Politichers",
+      "promises": "Empermischuns survegliadas",
+      "verified": "Verifitgadas"
+    },
+    "politiciansHeading": "Politichers",
+    "countryFilterLabel": "Filtrar tenor pajais",
+    "allCountries": "Tut ils pajais",
+    "otherCountry": "Auters",
+    "politicianCount": {
+      "one": "{count} politicher",
+      "other": "{count} politichers"
+    },
+    "promiseCount": {
+      "one": "{count} empermischun",
+      "other": "{count} empermischuns"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Anc naginas empermischuns verifitgadas",
+    "viewDossier": "Mussar il dossier",
+    "noneInCountry": "Per quest pajais na vegnan anc survegliads nagins politichers.",
+    "emptyState": "Anc nagins politichers. Lantschai il script da datas inizialas per chargiar datas da demonstraziun:",
+    "connectionErrorTitle": "Impussibel da cuntanscher l’API dal backend.",
+    "connectionErrorBody": "Verifitgai che il backend FastAPI funcziunia e che {envVar} mussa sin el."
+  },
+  "office": {
+    "head_of_state": "Chau dal stadi",
+    "head_of_government": "Chau da la regenza",
+    "minister": "Minister",
+    "legislator": "Parlamentari",
+    "mayor": "President communal",
+    "regional_executive": "Executiv regiunal",
+    "party_leader": "President da partida",
+    "other": "Autra funcziun"
+  },
+  "notFound": {
+    "title": "Betg chattà",
+    "body": "Nus n’avain betg chattà quai che Vus tschertgavas.",
+    "back": "Enavos tar ils politichers"
+  },
+  "politician": {
+    "back": "← Tut ils politichers",
+    "trackRecord": "Bilanza da las empermischuns",
+    "contentLanguage": "Profil scrit en {language}",
+    "tabsLabel": "Secziuns dal profil",
+    "tabs": {
+      "promises": "Empermischuns",
+      "background": "Biografia",
+      "finances": "Finanzas",
+      "justice": "Giustia",
+      "controversies": "Controversas",
+      "sources": "Funtaunas"
+    },
+    "background": {
+      "electoral": "Istorgia electorala",
+      "work": "Carriera professiunala",
+      "education": "Furmaziun",
+      "legislation": "Legislaziun impurtanta",
+      "honors": "Onurificenzas e distincziuns"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Las cifras vegnan reproducidas uschia sco ch’ellas èn vegnidas declaradas – la gronda part deriva da las declaraziuns uffizialas inoltradas a la {hatvp} franzosa (Autoritad auta per la transparenza da la vita publica). Formulaziuns sco «declarà» u «circa» derivan da la funtauna e vegnan mussadas senza midadas.",
+      "switzerland": "En Svizra na datti nagin sistem public da declaraziun da la facultad per las persunas en uffizi; perquai vegnan cifras mussadas mo, sch’ellas èn vegnidas publitgadas. Mandats ed interess derivan dal register da las ligiaziuns d’interess dal parlament e da Lobbywatch. Formulaziuns sco «declarà» u «circa» derivan da la funtauna e vegnan mussadas senza midadas.",
+      "default": "Las cifras vegnan reproducidas uschia sco ch’ellas èn vegnidas declaradas, tenor declaraziuns publicas uffizialas, nua ch’il pajais las publitgescha; uschiglio resta questa secziun vida. Formulaziuns sco «declarà» u «circa» derivan da la funtauna e vegnan mussadas senza midadas."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Facultad netta",
+      "assets": "Activs",
+      "income": "Entradas",
+      "real_estate": "Immobiglias"
+    },
+    "netWorthTimeline": "Svilup da la facultad netta",
+    "stocks": "Titels da valur / aczias",
+    "realEstate": "Immobiglias",
+    "companies": "Interpresas e participaziuns",
+    "interests": "Declaraziun d’interess",
+    "asOf": "stadi: {date}",
+    "declarationStatus": "Status da la declaraziun"
+  },
+  "status": {
+    "fulfilled": "Mantegnida",
+    "broken": "Rutta",
+    "in_progress": "En curs",
+    "compromise": "Cumpromiss",
+    "no_action": "Nagina acziun",
+    "unverified": "Betg verifitgada"
+  },
+  "legalStatus": {
+    "no_charges": "Nagina accusa",
+    "ongoing": "En curs",
+    "concluded": "Terminà",
+    "in_court": "Davant dretgira",
+    "political": "Da natira politica",
+    "victim": "Victima",
+    "under_investigation": "Investigaziun en curs",
+    "awaiting_trial": "Process pendent",
+    "party_matter": "Chaussa interna da la partida",
+    "no_proceedings": "Nagina procedura",
+    "conviction": "Condemnaziun",
+    "noted": "Registrà",
+    "unknown": "Nunenconuschent",
+    "appeal_pending": "Appellaziun pendenta",
+    "convicted": "Condemnaziun",
+    "acquitted": "Absoluziun",
+    "dismissed": "Procedura sistida",
+    "settled": "Cunvegna"
+  },
+  "assetStatus": {
+    "declared": "Declarà",
+    "estimated": "Stimà",
+    "historical": "Istoric",
+    "divested": "Cedì",
+    "none": "Nagut declarà"
+  },
+  "justice": {
+    "intro": "Mintga endataziun documentescha ina procedura giudiziala ed il stadi giuridic actual. Investigaziuns e proceduras pendentas na constatan nagina culpa; la preschumziun d’innocenza vala fin ad ina decisiun definitiva da la dretgira.",
+    "outcome": "Resultat:",
+    "keyFacts": "Fatgs essenzials"
+  },
+  "polemics": {
+    "intro": "Mintga endataziun resumescha ina controversa documentada publicamain e mussa ses stadi giuridic u politic actual. Las descripziuns èn objectivas e neutralas; ina reproscha n’è betg ina constataziun da culpa.",
+    "statusLine": "Stadi giuridic/politic:",
+    "keyFacts": "Fatgs essenzials"
+  },
+  "legislation": {
+    "significance": "Impurtanza:"
+  },
+  "honors": {
+    "exOfficio": "D’uffizi"
+  },
+  "electoral": {
+    "versus": "cunter {opponent}"
+  },
+  "dates": {
+    "present": "oz"
+  },
+  "sources": {
+    "title": "Funtaunas e referenzas",
+    "summary": "Sa basa sin {sources} da {domains}",
+    "sourceCount": {
+      "one": "{count} funtauna",
+      "other": "{count} funtaunas"
+    },
+    "domainCount": {
+      "one": "{count} domena",
+      "other": "{count} domenas"
+    },
+    "methodologyLabel": "Metodologia.",
+    "methodologySources": {
+      "france": "Las datas vegnan rimnadas da funtaunas uffizialas – declaraziuns da facultad da la HATVP, INSEE, Légifrance e paginas d’internet da la regenza – sco er da rapports da medias serius.",
+      "switzerland": "Las datas vegnan rimnadas da funtaunas uffizialas – il register da las ligiaziuns d’interess da l’Assamblea federala, parlament.ch e paginas d’internet da la Confederaziun, dals chantuns e da las vischnancas – sco er da Lobbywatch e da rapports da medias serius.",
+      "default": "Las datas vegnan rimnadas da funtaunas uffizialas – documents parlamentars e governamentals, fegls uffizials e declaraziuns publicas, nua ch’il pajais las publitgescha – sco er da rapports da medias serius."
+    },
+    "methodologyStatuses": "Ils status reflecteschan resultats verifitgabels a la data indicada; reproschas vegnan designadas sco talas e lur stadi giuridic vegn mussà.",
+    "otherDomain": "auters",
+    "sections": {
+      "promises": "Empermischuns",
+      "work_history": "Carriera professiunala",
+      "finances": "Finanzas",
+      "stocks": "Aczias",
+      "real_estate": "Immobiglias",
+      "companies": "Interpresas",
+      "controversies": "Controversas",
+      "electoral_history": "Elecziuns",
+      "interests": "Interess",
+      "education": "Furmaziun",
+      "honors": "Onurificenzas",
+      "key_legislation": "Legislaziun",
+      "net_worth": "Facultad netta",
+      "justice": "Giustia"
+    },
+    "linkLabel": {
+      "one": "Funtauna:",
+      "other": "Funtaunas:"
+    }
+  },
+  "promises": {
+    "all": "Tuttas",
+    "otherCategory": "Auter",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Naginas empermischuns survegliadas",
+    "emptyBody": "Per {name} na vegnan anc survegliadas naginas empermischuns da campagna u da program. Las indicaziuns davart questa persuna sa chattan sut {background}, {legislation} e {controversies}.",
+    "contextLabel": "Context.",
+    "campaignOnly": "{name} n’ha anc mai occupà in uffizi executiv. Quai èn empermischuns da campagna, betg ina politica realisada – perquai vegn mintgina registrada sco «{noAction}» e betg sco mantegnida u rutta.",
+    "promised": "Data da l’empermischun: {date}",
+    "confidenceValue": "{value} fidanza",
+    "filterLabel": "Filtrar las empermischuns tenor status"
+  },
+  "promise": {
+    "breadcrumbFallback": "Empermischun",
+    "verdict": "Verdict",
+    "assessment": "Valitaziun",
+    "keyEvidence": "Cumprovas principalas",
+    "sourcesHeading": {
+      "one": "Funtauna",
+      "other": "Funtaunas"
+    },
+    "primarySource": "Funtauna primara",
+    "additionalSource": "Funtauna supplementara",
+    "lastReviewed": "Ultima revisiun: {date}",
+    "editoriallyReviewed": "Controllà da la redacziun",
+    "notVerified": "Questa empermischun n’è anc betg vegnida verifitgada."
+  },
+  "confidence": {
+    "label": "Fidanza"
+  }
+}

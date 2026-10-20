@@ -4,6 +4,8 @@
 
 import { Fragment, type ReactNode } from "react";
 
+import { intlLocale } from "./config";
+
 /** A plural message: one string per CLDR plural category (`other` required). */
 export type PluralMessage = Partial<
   Record<"zero" | "one" | "two" | "few" | "many", string>
@@ -40,10 +42,10 @@ export function plural(
   lang: string,
   values: Record<string, string | number> = {},
 ): string {
-  const category = new Intl.PluralRules(lang).select(count);
+  const category = new Intl.PluralRules(intlLocale(lang)).select(count);
   const template = message[category] ?? message.other;
   return fmt(template, {
-    count: new Intl.NumberFormat(lang).format(count),
+    count: new Intl.NumberFormat(intlLocale(lang)).format(count),
     ...values,
   });
 }
@@ -51,7 +53,7 @@ export function plural(
 /** Format a 0–1 fraction as a whole-number percentage (e.g. "85 %" in nb). */
 export function formatPercent(fraction: number, lang: string): string {
   const clamped = Math.max(0, Math.min(1, fraction));
-  return new Intl.NumberFormat(lang, {
+  return new Intl.NumberFormat(intlLocale(lang), {
     style: "percent",
     maximumFractionDigits: 0,
   }).format(clamped);
@@ -63,7 +65,7 @@ export function formatDate(value: string | null, lang: string): string | null {
   const d = new Date(value);
   if (Number.isNaN(d.getTime())) return value;
   // UTC: a date-only value must not shift a day with the server's timezone.
-  return new Intl.DateTimeFormat(lang, {
+  return new Intl.DateTimeFormat(intlLocale(lang), {
     day: "numeric",
     month: "long",
     year: "numeric",
@@ -85,7 +87,7 @@ export function prettyDate(
   const [, y, mo, d] = m;
   if (!mo) return y;
   const date = new Date(Date.UTC(+y, +mo - 1, d ? +d : 1));
-  return new Intl.DateTimeFormat(lang, {
+  return new Intl.DateTimeFormat(intlLocale(lang), {
     day: d ? "numeric" : undefined,
     month: "short",
     year: "numeric",
@@ -101,7 +103,7 @@ function displayName(
   code: string,
 ): string | null {
   try {
-    const name = new Intl.DisplayNames([lang, "en"], { type, fallback: "none" }).of(code);
+    const name = new Intl.DisplayNames([intlLocale(lang), "en"], { type, fallback: "none" }).of(code);
     return name && name.toLowerCase() !== code.toLowerCase() ? name : null;
   } catch {
     return null;

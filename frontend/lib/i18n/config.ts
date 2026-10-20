@@ -51,6 +51,16 @@ export const AUTONYMS: Record<Locale, string> = {
   rm: "Rumantsch",
 };
 
+// UI locales are language-only, but Intl falls back to a default region for
+// some of them: plain "pt" gets Brazilian rules (e.g. "0 promessa" instead of
+// European Portuguese "0 promessas"). Map those to the European variant.
+const INTL_LOCALES: Partial<Record<Locale, string>> = { pt: "pt-PT" };
+
+/** The tag to hand to Intl constructors for a UI locale. */
+export function intlLocale(lang: string): string {
+  return INTL_LOCALES[lang as Locale] ?? lang;
+}
+
 export function isLocale(value: string | undefined | null): value is Locale {
   return !!value && (LOCALES as readonly string[]).includes(value);
 }

@@ -10,7 +10,7 @@ import {
 } from "@/lib/api";
 import TrackRecord from "@/components/TrackRecord";
 import { getDictionary, type Dictionary } from "./dictionaries";
-import { isLocale, localePath, type Locale } from "@/lib/i18n/config";
+import { intlLocale, isLocale, localePath, type Locale } from "@/lib/i18n/config";
 import { countryName, plural, rich } from "@/lib/i18n/format";
 import { alternatesFor } from "@/lib/i18n/metadata";
 
@@ -52,7 +52,7 @@ function groupByCountry(
     }
     group.politicians.push(p);
   }
-  const collator = new Intl.Collator(lang);
+  const collator = new Intl.Collator(intlLocale(lang));
   return [...groups.values()].sort((a, b) =>
     a.code === "" ? 1 : b.code === "" ? -1 : collator.compare(a.name, b.name),
   );
@@ -166,7 +166,7 @@ function Stat({ label, value, lang }: { label: string; value: number; lang: Loca
     <div>
       <dt className="text-sm text-slate-500">{label}</dt>
       <dd className="text-3xl font-bold tabular-nums text-slate-900">
-        {new Intl.NumberFormat(lang).format(value)}
+        {new Intl.NumberFormat(intlLocale(lang)).format(value)}
       </dd>
     </div>
   );

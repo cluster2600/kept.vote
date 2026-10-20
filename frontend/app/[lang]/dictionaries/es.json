@@ -1,1 +1,236 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote — seguimiento de promesas políticas",
+    "description": "Un seguimiento no partidista de las promesas políticas: cuáles se han cumplido, cuáles se han incumplido y cuáles siguen en curso, con sus fuentes."
+  },
+  "header": {
+    "home": "kept.vote — inicio",
+    "politicians": "Políticos",
+    "methodology": "Metodología",
+    "language": "Idioma"
+  },
+  "footer": {
+    "methodologyTitle": "Metodología",
+    "methodologyBody": "Cada promesa se evalúa a partir de fuentes primarias —leyes, documentos oficiales y datos gubernamentales— y se le asigna un estado: {kept}, {broken}, {inProgress} o {noAction}. Un índice de confianza refleja la solidez de las pruebas disponibles. Cada veredicto enlaza con sus fuentes para que cualquiera pueda comprobar los datos por sí mismo.",
+    "tagline": "kept.vote — un seguimiento no partidista de promesas políticas. Prototipo."
+  },
+  "home": {
+    "eyebrow": "Seguimiento de promesas",
+    "title": "¿Han cumplido su palabra?",
+    "intro": "kept.vote contrasta lo que prometieron los políticos con lo que realmente hicieron —promesas cumplidas, incumplidas o aún en curso—, y cada veredicto se apoya en fuentes primarias.",
+    "stats": {
+      "politicians": "Políticos",
+      "promises": "Promesas en seguimiento",
+      "verified": "Verificadas"
+    },
+    "politiciansHeading": "Políticos",
+    "countryFilterLabel": "Filtrar por país",
+    "allCountries": "Todos los países",
+    "otherCountry": "Otros países",
+    "politicianCount": {
+      "one": "{count} político",
+      "many": "{count} de políticos",
+      "other": "{count} políticos"
+    },
+    "promiseCount": {
+      "one": "{count} promesa",
+      "many": "{count} de promesas",
+      "other": "{count} promesas"
+    },
+    "profileBadge": "Perfil",
+    "noVerifiedYet": "Aún no hay promesas verificadas",
+    "viewDossier": "Ver expediente",
+    "noneInCountry": "Todavía no se hace seguimiento de ningún político de este país.",
+    "emptyState": "Todavía no hay políticos. Ejecute el script de carga inicial para cargar los datos de demostración:",
+    "connectionErrorTitle": "No se ha podido conectar con la API del servidor.",
+    "connectionErrorBody": "Compruebe que el servidor FastAPI está en ejecución y que {envVar} apunta a su dirección."
+  },
+  "office": {
+    "head_of_state": "Jefe de Estado",
+    "head_of_government": "Jefe de Gobierno",
+    "minister": "Ministro",
+    "legislator": "Parlamentario",
+    "mayor": "Alcalde",
+    "regional_executive": "Ejecutivo regional",
+    "party_leader": "Líder de partido",
+    "other": "Otro cargo"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "body": "No hemos encontrado lo que buscaba.",
+    "back": "Volver al listado de políticos"
+  },
+  "politician": {
+    "back": "← Todos los políticos",
+    "trackRecord": "Balance de promesas",
+    "contentLanguage": "Perfil redactado en {language}",
+    "tabsLabel": "Secciones del perfil",
+    "tabs": {
+      "promises": "Promesas",
+      "background": "Trayectoria",
+      "finances": "Patrimonio",
+      "justice": "Justicia",
+      "controversies": "Controversias",
+      "sources": "Fuentes"
+    },
+    "background": {
+      "electoral": "Historial electoral",
+      "work": "Trayectoria profesional",
+      "education": "Formación",
+      "legislation": "Legislación destacada",
+      "honors": "Condecoraciones y distinciones"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Las cifras se reproducen tal como se declararon; la mayoría procede de las declaraciones oficiales presentadas ante la {hatvp} (Alta Autoridad para la Transparencia de la Vida Pública) de Francia. Expresiones como «declarado» o «aprox.» reflejan la fuente y se muestran sin cambios.",
+      "switzerland": "Suiza no cuenta con un régimen público de declaración de bienes para sus cargos públicos, por lo que las cifras solo aparecen cuando se han hecho públicas. Los mandatos e intereses proceden del registro de intereses del Parlamento y de Lobbywatch. Expresiones como «declarado» o «aprox.» reflejan la fuente y se muestran sin cambios.",
+      "default": "Las cifras se reproducen tal como se declararon, a partir de las declaraciones públicas oficiales cuando el país las publica; en caso contrario, esta sección queda vacía. Expresiones como «declarado» o «aprox.» reflejan la fuente y se muestran sin cambios."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Patrimonio neto",
+      "assets": "Bienes",
+      "income": "Ingresos",
+      "real_estate": "Bienes inmuebles"
+    },
+    "netWorthTimeline": "Evolución del patrimonio neto",
+    "stocks": "Valores y acciones",
+    "realEstate": "Bienes inmuebles",
+    "companies": "Empresas y participaciones",
+    "interests": "Declaración de intereses",
+    "asOf": "datos a {date}",
+    "declarationStatus": "Estado de la declaración"
+  },
+  "status": {
+    "fulfilled": "Cumplida",
+    "broken": "Incumplida",
+    "in_progress": "En curso",
+    "compromise": "Parcialmente cumplida",
+    "no_action": "Sin actuación",
+    "unverified": "Sin verificar"
+  },
+  "legalStatus": {
+    "no_charges": "Sin cargos",
+    "ongoing": "En curso",
+    "concluded": "Caso cerrado",
+    "in_court": "En los tribunales",
+    "political": "Político",
+    "victim": "Víctima",
+    "under_investigation": "En investigación",
+    "awaiting_trial": "Pendiente de juicio",
+    "party_matter": "Asunto interno del partido",
+    "no_proceedings": "Sin procedimiento judicial",
+    "conviction": "Condena",
+    "noted": "Documentado",
+    "unknown": "No especificado",
+    "appeal_pending": "Recurso pendiente",
+    "convicted": "Condena",
+    "acquitted": "Absolución",
+    "dismissed": "Sobreseimiento",
+    "settled": "Acuerdo extrajudicial"
+  },
+  "assetStatus": {
+    "declared": "Declarado",
+    "estimated": "Estimado",
+    "historical": "Histórico",
+    "divested": "Enajenado",
+    "none": "Ninguno declarado"
+  },
+  "justice": {
+    "intro": "Cada entrada documenta un asunto judicial y su situación jurídica actual. Las investigaciones y los asuntos pendientes no constituyen una constatación de culpabilidad; rige la presunción de inocencia hasta que exista una sentencia firme.",
+    "outcome": "Resultado:",
+    "keyFacts": "Hechos clave"
+  },
+  "polemics": {
+    "intro": "Cada entrada resume una controversia documentada públicamente y muestra su situación jurídica o política actual. Las descripciones son objetivas y neutrales; una acusación no constituye una constatación de culpabilidad.",
+    "statusLine": "Situación jurídica/política:",
+    "keyFacts": "Hechos clave"
+  },
+  "legislation": {
+    "significance": "Relevancia:"
+  },
+  "honors": {
+    "exOfficio": "Por razón del cargo"
+  },
+  "electoral": {
+    "versus": "frente a {opponent}"
+  },
+  "dates": {
+    "present": "actualidad"
+  },
+  "sources": {
+    "title": "Fuentes y referencias",
+    "summary": "Basado en {sources} de {domains}",
+    "sourceCount": {
+      "one": "{count} fuente",
+      "many": "{count} de fuentes",
+      "other": "{count} fuentes"
+    },
+    "domainCount": {
+      "one": "{count} dominio",
+      "many": "{count} de dominios",
+      "other": "{count} dominios"
+    },
+    "methodologyLabel": "Metodología.",
+    "methodologySources": {
+      "france": "Los datos proceden de fuentes oficiales —declaraciones de bienes ante la HATVP, INSEE, Légifrance y sitios web gubernamentales—, además de medios de comunicación de referencia.",
+      "switzerland": "Los datos proceden de fuentes oficiales —el registro de intereses de la Asamblea Federal, parlament.ch y los sitios web de las administraciones federal, cantonales y municipales—, además de Lobbywatch y medios de comunicación de referencia.",
+      "default": "Los datos proceden de fuentes oficiales —registros parlamentarios y gubernamentales, boletines oficiales y declaraciones públicas cuando el país las publica—, además de medios de comunicación de referencia."
+    },
+    "methodologyStatuses": "Los estados reflejan resultados verificables a la fecha indicada; las acusaciones se identifican como tales y se indica su situación jurídica.",
+    "otherDomain": "otros",
+    "sections": {
+      "promises": "Promesas",
+      "work_history": "Trayectoria profesional",
+      "finances": "Patrimonio",
+      "stocks": "Acciones",
+      "real_estate": "Inmuebles",
+      "companies": "Empresas",
+      "controversies": "Controversias",
+      "electoral_history": "Elecciones",
+      "interests": "Intereses",
+      "education": "Formación",
+      "honors": "Distinciones",
+      "key_legislation": "Legislación",
+      "net_worth": "Patrimonio neto",
+      "justice": "Justicia"
+    },
+    "linkLabel": {
+      "one": "Fuente:",
+      "many": "Fuentes:",
+      "other": "Fuentes:"
+    }
+  },
+  "promises": {
+    "all": "Todas",
+    "otherCategory": "Otros",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "No hay promesas en seguimiento",
+    "emptyBody": "Todavía no se hace seguimiento de ninguna promesa electoral o programática de {name}. Su trayectoria está documentada en {background}, {legislation} y {controversies}.",
+    "contextLabel": "Contexto.",
+    "campaignOnly": "{name} no ha ocupado cargos ejecutivos. Se trata de compromisos de campaña, no de políticas aplicadas; por eso, cada uno figura como «{noAction}» y no como cumplido o incumplido.",
+    "promised": "Promesa del {date}",
+    "confidenceValue": "{value} de confianza",
+    "filterLabel": "Filtrar promesas por estado"
+  },
+  "promise": {
+    "breadcrumbFallback": "Promesa",
+    "verdict": "Veredicto",
+    "assessment": "Análisis",
+    "keyEvidence": "Pruebas principales",
+    "sourcesHeading": {
+      "one": "Fuente",
+      "many": "Fuentes",
+      "other": "Fuentes"
+    },
+    "primarySource": "Fuente primaria",
+    "additionalSource": "Fuente adicional",
+    "lastReviewed": "Última revisión: {date}",
+    "editoriallyReviewed": "Revisado por la redacción",
+    "notVerified": "Esta promesa aún no se ha verificado."
+  },
+  "confidence": {
+    "label": "Confianza"
+  }
+}

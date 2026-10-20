@@ -1,1 +1,230 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – poliitiliste lubaduste jälgimine",
+    "description": "Erapooletu poliitiliste lubaduste jälgija: millised lubadused on täidetud, millised murtud ja millised alles täitmisel – koos allikatega."
+  },
+  "header": {
+    "home": "kept.vote – avaleht",
+    "politicians": "Poliitikud",
+    "methodology": "Metoodika",
+    "language": "Keel"
+  },
+  "footer": {
+    "methodologyTitle": "Metoodika",
+    "methodologyBody": "Iga lubadust hinnatakse esmaste allikate – seaduste, ametlike dokumentide ja valitsusasutuste andmete – põhjal ning sellele määratakse staatus: {kept}, {broken}, {inProgress} või {noAction}. Kindlusaste näitab olemasolevate tõendite tugevust. Iga hinnang viitab oma allikatele, nii et saate andmeid ise kontrollida.",
+    "tagline": "kept.vote – erapooletu lubaduste jälgija. Prototüüp."
+  },
+  "home": {
+    "eyebrow": "Lubaduste jälgija",
+    "title": "Kas nad pidasid sõna?",
+    "intro": "kept.vote võrdleb poliitikute lubadusi sellega, mida nad tegelikult tegid – täidetud, murtud või alles täitmisel – ning iga hinnang tugineb esmastele allikatele.",
+    "stats": {
+      "politicians": "Poliitikud",
+      "promises": "Jälgitavad lubadused",
+      "verified": "Kontrollitud"
+    },
+    "politiciansHeading": "Poliitikud",
+    "countryFilterLabel": "Filtreeri riigi järgi",
+    "allCountries": "Kõik riigid",
+    "otherCountry": "Muu",
+    "politicianCount": {
+      "one": "{count} poliitik",
+      "other": "{count} poliitikut"
+    },
+    "promiseCount": {
+      "one": "{count} lubadus",
+      "other": "{count} lubadust"
+    },
+    "profileBadge": "Profiil",
+    "noVerifiedYet": "Kontrollitud lubadusi veel pole",
+    "viewDossier": "Vaata toimikut",
+    "noneInCountry": "Selle riigi poliitikuid veel ei jälgita.",
+    "emptyState": "Poliitikuid veel pole. Demoandmete laadimiseks käivitage seed-skript:",
+    "connectionErrorTitle": "Taustarakenduse API-ga ei õnnestunud ühendust luua.",
+    "connectionErrorBody": "Veenduge, et FastAPI taustarakendus töötab ja {envVar} viitab sellele."
+  },
+  "office": {
+    "head_of_state": "Riigipea",
+    "head_of_government": "Valitsusjuht",
+    "minister": "Minister",
+    "legislator": "Parlamendiliige",
+    "mayor": "Linnapea",
+    "regional_executive": "Piirkondlik juht",
+    "party_leader": "Erakonna juht",
+    "other": "Muu ametikoht"
+  },
+  "notFound": {
+    "title": "Ei leitud",
+    "body": "Otsitud sisu ei leitud.",
+    "back": "Tagasi poliitikute juurde"
+  },
+  "politician": {
+    "back": "← Kõik poliitikud",
+    "trackRecord": "Lubaduste täitmise ülevaade",
+    "contentLanguage": "Profiil on kirjutatud {language} keeles",
+    "tabsLabel": "Profiili jaotised",
+    "tabs": {
+      "promises": "Lubadused",
+      "background": "Taust",
+      "finances": "Finantsid",
+      "justice": "Õigusasjad",
+      "controversies": "Vastuolulised juhtumid",
+      "sources": "Allikad"
+    },
+    "background": {
+      "electoral": "Valimiste ajalugu",
+      "work": "Töökogemus",
+      "education": "Haridus",
+      "legislation": "Olulised õigusaktid",
+      "honors": "Autasud ja tunnustused"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Summad on esitatud deklareeritud kujul – enamik pärineb ametlikest deklaratsioonidest, mis on esitatud Prantsusmaa avaliku elu läbipaistvuse kõrgemale ametiasutusele ({hatvp}). Sõnastus nagu „deklareeritud“ või „ligik.“ pärineb allikast ja on esitatud muutmata kujul.",
+      "switzerland": "Šveitsis puudub ametikandjate jaoks avalik varade deklareerimise süsteem, mistõttu summad on esitatud ainult siis, kui neist on avalikult teatatud. Ametikohad ja huvid pärinevad parlamendi huvide registrist ning veebisaidilt Lobbywatch. Sõnastus nagu „deklareeritud“ või „ligik.“ pärineb allikast ja on esitatud muutmata kujul.",
+      "default": "Summad on esitatud deklareeritud kujul ametlikest avalikest deklaratsioonidest, kui riik neid avaldab; kui ei avalda, jääb see jaotis tühjaks. Sõnastus nagu „deklareeritud“ või „ligik.“ pärineb allikast ja on esitatud muutmata kujul."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Netovara",
+      "assets": "Varad",
+      "income": "Sissetulek",
+      "real_estate": "Kinnisvara"
+    },
+    "netWorthTimeline": "Netovara muutumine ajas",
+    "stocks": "Väärtpaberid / aktsiad",
+    "realEstate": "Kinnisvara",
+    "companies": "Ettevõtted ja osalused",
+    "interests": "Huvide deklaratsioon",
+    "asOf": "{date} seisuga",
+    "declarationStatus": "Deklaratsiooni staatus"
+  },
+  "status": {
+    "fulfilled": "Täidetud",
+    "broken": "Murtud",
+    "in_progress": "Täitmisel",
+    "compromise": "Kompromiss",
+    "no_action": "Tegevuseta",
+    "unverified": "Kontrollimata"
+  },
+  "legalStatus": {
+    "no_charges": "Süüdistust ei esitatud",
+    "ongoing": "Käimas",
+    "concluded": "Lõppenud",
+    "in_court": "Kohtus",
+    "political": "Poliitiline küsimus",
+    "victim": "Kannatanu",
+    "under_investigation": "Uurimisel",
+    "awaiting_trial": "Ootab kohtumenetlust",
+    "party_matter": "Erakonnasisene küsimus",
+    "no_proceedings": "Menetlust ei alustatud",
+    "conviction": "Süüdimõistev otsus",
+    "noted": "Märgitud",
+    "unknown": "Teadmata",
+    "appeal_pending": "Edasikaebus menetluses",
+    "convicted": "Süüdi mõistetud",
+    "acquitted": "Õigeks mõistetud",
+    "dismissed": "Menetlus lõpetatud",
+    "settled": "Kokkuleppega lahendatud"
+  },
+  "assetStatus": {
+    "declared": "Deklareeritud",
+    "estimated": "Hinnanguline",
+    "historical": "Varasem",
+    "divested": "Võõrandatud",
+    "none": "Deklareeritud vara puudub"
+  },
+  "justice": {
+    "intro": "Iga kirje kirjeldab kohtuasja ja selle praegust õiguslikku seisu. Uurimised ja pooleliolevad menetlused ei tähenda õigusrikkumise tuvastamist; süütuse presumptsioon kehtib kuni lõpliku kohtuotsuse jõustumiseni.",
+    "outcome": "Tulemus:",
+    "keyFacts": "Peamised faktid"
+  },
+  "polemics": {
+    "intro": "Iga kirje võtab kokku avalikult dokumenteeritud vastuolulise juhtumi ja näitab selle praegust õiguslikku või poliitilist seisu. Kirjeldused on faktipõhised ja neutraalsed; väide ei tähenda õigusrikkumise tuvastamist.",
+    "statusLine": "Õiguslik/poliitiline seis:",
+    "keyFacts": "Peamised faktid"
+  },
+  "legislation": {
+    "significance": "Tähtsus:"
+  },
+  "honors": {
+    "exOfficio": "Ametikoha järgi"
+  },
+  "electoral": {
+    "versus": "Vastaskandidaat: {opponent}"
+  },
+  "dates": {
+    "present": "praegu"
+  },
+  "sources": {
+    "title": "Allikad ja viited",
+    "summary": "Kokku {sources} {domains}",
+    "sourceCount": {
+      "one": "{count} allikas",
+      "other": "{count} allikat"
+    },
+    "domainCount": {
+      "one": "{count} veebisaidilt",
+      "other": "{count} veebisaidilt"
+    },
+    "methodologyLabel": "Metoodika.",
+    "methodologySources": {
+      "france": "Andmed on kogutud ametlikest allikatest – nagu HATVP varadeklaratsioonid, INSEE, Légifrance ja valitsusasutuste veebisaidid – ning usaldusväärsest ajakirjandusest.",
+      "switzerland": "Andmed on kogutud ametlikest allikatest – nagu Föderaalassamblee huvide register, parlament.ch ning föderaal-, kantoni- ja omavalitsusasutuste veebisaidid – ning lisaks veebisaidilt Lobbywatch ja usaldusväärsest ajakirjandusest.",
+      "default": "Andmed on kogutud ametlikest allikatest – nagu parlamendi ja valitsuse dokumendid, ametlikud väljaanded ning avalikud deklaratsioonid, kui riik neid avaldab – ning usaldusväärsest ajakirjandusest."
+    },
+    "methodologyStatuses": "Staatused kajastavad kontrollitavaid tulemusi märgitud kuupäeva seisuga; väited on sellistena märgistatud ja nende õiguslik seis on näidatud.",
+    "otherDomain": "muu",
+    "sections": {
+      "promises": "Lubadused",
+      "work_history": "Töökogemus",
+      "finances": "Finantsid",
+      "stocks": "Aktsiad",
+      "real_estate": "Kinnisvara",
+      "companies": "Ettevõtted",
+      "controversies": "Vastuolulised juhtumid",
+      "electoral_history": "Valimised",
+      "interests": "Huvid",
+      "education": "Haridus",
+      "honors": "Autasud",
+      "key_legislation": "Õigusaktid",
+      "net_worth": "Netovara",
+      "justice": "Õigusasjad"
+    },
+    "linkLabel": {
+      "one": "Allikas:",
+      "other": "Allikad:"
+    }
+  },
+  "promises": {
+    "all": "Kõik",
+    "otherCategory": "Muu",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Jälgitavaid lubadusi pole",
+    "emptyBody": "Isiku {name} valimis- ega programmilubadusi veel ei jälgita. Tema tegevust kirjeldavad jaotised {background}, {legislation} ja {controversies}.",
+    "contextLabel": "Taust.",
+    "campaignOnly": "{name} ei ole olnud täitevvõimu ametikohal. Need on valimislubadused, mitte ellu viidud poliitika – seetõttu on igaüks neist märgitud staatusega „{noAction}“, mitte täidetuks ega murtuks.",
+    "promised": "Lubaduse kuupäev: {date}",
+    "confidenceValue": "Kindlus {value}",
+    "filterLabel": "Filtreeri lubadusi staatuse järgi"
+  },
+  "promise": {
+    "breadcrumbFallback": "Lubadus",
+    "verdict": "Hinnang",
+    "assessment": "Analüüs",
+    "keyEvidence": "Peamised tõendid",
+    "sourcesHeading": {
+      "one": "Allikas",
+      "other": "Allikad"
+    },
+    "primarySource": "Esmane allikas",
+    "additionalSource": "Täiendav allikas",
+    "lastReviewed": "Viimati kontrollitud: {date}",
+    "editoriallyReviewed": "Toimetus on üle vaadanud",
+    "notVerified": "Seda lubadust pole veel kontrollitud."
+  },
+  "confidence": {
+    "label": "Kindlusaste"
+  }
+}

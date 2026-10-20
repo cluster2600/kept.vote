@@ -1,1 +1,230 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – politische Versprechen auf dem Prüfstand",
+    "description": "Eine überparteiliche Übersicht politischer Versprechen: welche gehalten oder gebrochen wurden und welche noch in Arbeit sind – mit Quellen."
+  },
+  "header": {
+    "home": "kept.vote – Startseite",
+    "politicians": "Politiker",
+    "methodology": "Methodik",
+    "language": "Sprache"
+  },
+  "footer": {
+    "methodologyTitle": "Methodik",
+    "methodologyBody": "Jedes Versprechen wird anhand von Primärquellen – Gesetzen, amtlichen Dokumenten und Regierungsdaten – bewertet und erhält einen Status: {kept}, {broken}, {inProgress} oder {noAction}. Ein Konfidenzwert gibt an, wie belastbar die verfügbaren Belege sind. Jede Bewertung verweist auf ihre Quellen, sodass sich die Angaben selbst überprüfen lassen.",
+    "tagline": "kept.vote – eine überparteiliche Übersicht politischer Versprechen. Prototyp."
+  },
+  "home": {
+    "eyebrow": "Versprechen im Faktencheck",
+    "title": "Haben sie ihr Wort gehalten?",
+    "intro": "kept.vote vergleicht, was Politiker versprochen haben, mit dem, was sie tatsächlich getan haben: gehalten, gebrochen oder noch in Arbeit. Jede Bewertung stützt sich auf Primärquellen.",
+    "stats": {
+      "politicians": "Politiker",
+      "promises": "Erfasste Versprechen",
+      "verified": "Geprüft"
+    },
+    "politiciansHeading": "Politiker",
+    "countryFilterLabel": "Nach Land filtern",
+    "allCountries": "Alle Länder",
+    "otherCountry": "Andere",
+    "politicianCount": {
+      "one": "{count} Politiker",
+      "other": "{count} Politiker"
+    },
+    "promiseCount": {
+      "one": "{count} Versprechen",
+      "other": "{count} Versprechen"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Noch keine geprüften Versprechen",
+    "viewDossier": "Dossier ansehen",
+    "noneInCountry": "Für dieses Land werden noch keine Politiker erfasst.",
+    "emptyState": "Noch keine Politiker vorhanden. Zum Laden der Demodaten das Seed-Skript ausführen:",
+    "connectionErrorTitle": "Die Backend-API ist nicht erreichbar.",
+    "connectionErrorBody": "Bitte prüfen, ob das FastAPI-Backend läuft und {envVar} darauf verweist."
+  },
+  "office": {
+    "head_of_state": "Staatsoberhaupt",
+    "head_of_government": "Regierungsoberhaupt",
+    "minister": "Ministeramt",
+    "legislator": "Parlamentsmandat",
+    "mayor": "Bürgermeisteramt",
+    "regional_executive": "Regionalregierung",
+    "party_leader": "Parteivorsitz",
+    "other": "Sonstiges Amt"
+  },
+  "notFound": {
+    "title": "Nicht gefunden",
+    "body": "Der gesuchte Inhalt wurde leider nicht gefunden.",
+    "back": "Zurück zu den Politikern"
+  },
+  "politician": {
+    "back": "← Alle Politiker",
+    "trackRecord": "Bilanz der Versprechen",
+    "contentLanguage": "Profil auf {language} verfasst",
+    "tabsLabel": "Profilbereiche",
+    "tabs": {
+      "promises": "Versprechen",
+      "background": "Hintergrund",
+      "finances": "Finanzen",
+      "justice": "Justiz",
+      "controversies": "Kontroversen",
+      "sources": "Quellen"
+    },
+    "background": {
+      "electoral": "Wahlergebnisse",
+      "work": "Beruflicher Werdegang",
+      "education": "Ausbildung",
+      "legislation": "Wichtige Gesetze",
+      "honors": "Ehrungen und Auszeichnungen"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Die Beträge entsprechen den gemachten Angaben – die meisten stammen aus den amtlichen Erklärungen, die bei der französischen {hatvp} (Hohe Behörde für Transparenz im öffentlichen Leben) eingereicht wurden. Formulierungen wie „angegeben“ oder „ca.“ entsprechen der Quelle und werden unverändert übernommen.",
+      "switzerland": "Die Schweiz kennt keine öffentliche Offenlegungspflicht für die Vermögen ihrer Amtsträger; Beträge erscheinen daher nur, wenn sie öffentlich bekannt geworden sind. Mandate und Interessen stammen aus dem Register der Interessenbindungen des Parlaments und von Lobbywatch. Formulierungen wie „angegeben“ oder „ca.“ entsprechen der Quelle und werden unverändert übernommen.",
+      "default": "Die Beträge entsprechen den gemachten Angaben und stammen aus amtlichen öffentlichen Erklärungen, sofern das jeweilige Land solche veröffentlicht; andernfalls bleibt dieser Bereich leer. Formulierungen wie „angegeben“ oder „ca.“ entsprechen der Quelle und werden unverändert übernommen."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Nettovermögen",
+      "assets": "Vermögenswerte",
+      "income": "Einkommen",
+      "real_estate": "Immobilien"
+    },
+    "netWorthTimeline": "Entwicklung des Nettovermögens",
+    "stocks": "Wertpapiere und Aktienbesitz",
+    "realEstate": "Immobilien",
+    "companies": "Unternehmen und Beteiligungen",
+    "interests": "Interessenerklärung",
+    "asOf": "Stand: {date}",
+    "declarationStatus": "Status der Angabe"
+  },
+  "status": {
+    "fulfilled": "Gehalten",
+    "broken": "Gebrochen",
+    "in_progress": "In Arbeit",
+    "compromise": "Kompromiss",
+    "no_action": "Keine Maßnahmen",
+    "unverified": "Ungeprüft"
+  },
+  "legalStatus": {
+    "no_charges": "Keine Anklage",
+    "ongoing": "Laufend",
+    "concluded": "Abgeschlossen",
+    "in_court": "Vor Gericht",
+    "political": "Politisch",
+    "victim": "Opfer",
+    "under_investigation": "Ermittlungen laufen",
+    "awaiting_trial": "Prozess ausstehend",
+    "party_matter": "Parteiintern",
+    "no_proceedings": "Kein Verfahren",
+    "conviction": "Verurteilung",
+    "noted": "Vermerkt",
+    "unknown": "Unbekannt",
+    "appeal_pending": "Berufung anhängig",
+    "convicted": "Verurteilt",
+    "acquitted": "Freigesprochen",
+    "dismissed": "Eingestellt",
+    "settled": "Vergleich"
+  },
+  "assetStatus": {
+    "declared": "Angegeben",
+    "estimated": "Geschätzt",
+    "historical": "Historisch",
+    "divested": "Veräußert",
+    "none": "Nichts angegeben"
+  },
+  "justice": {
+    "intro": "Jeder Eintrag dokumentiert ein Justizverfahren und seinen aktuellen rechtlichen Stand. Ermittlungen und laufende Verfahren stellen keine Feststellung eines Fehlverhaltens dar; bis zu einer rechtskräftigen Gerichtsentscheidung gilt die Unschuldsvermutung.",
+    "outcome": "Ausgang:",
+    "keyFacts": "Wichtigste Fakten"
+  },
+  "polemics": {
+    "intro": "Jeder Eintrag fasst eine öffentlich dokumentierte Kontroverse zusammen und zeigt ihren aktuellen rechtlichen oder politischen Stand. Die Darstellung ist sachlich und neutral; ein Vorwurf ist keine Feststellung eines Fehlverhaltens.",
+    "statusLine": "Rechtlicher/politischer Stand:",
+    "keyFacts": "Wichtigste Fakten"
+  },
+  "legislation": {
+    "significance": "Bedeutung:"
+  },
+  "honors": {
+    "exOfficio": "Von Amts wegen"
+  },
+  "electoral": {
+    "versus": "gegen {opponent}"
+  },
+  "dates": {
+    "present": "heute"
+  },
+  "sources": {
+    "title": "Quellen und Nachweise",
+    "summary": "Gestützt auf {sources} aus {domains}",
+    "sourceCount": {
+      "one": "{count} Quelle",
+      "other": "{count} Quellen"
+    },
+    "domainCount": {
+      "one": "{count} Domain",
+      "other": "{count} Domains"
+    },
+    "methodologyLabel": "Methodik.",
+    "methodologySources": {
+      "france": "Die Daten stammen aus amtlichen Quellen – Vermögenserklärungen der HATVP, INSEE, Légifrance und Websites der Regierung – sowie aus seriöser Berichterstattung.",
+      "switzerland": "Die Daten stammen aus amtlichen Quellen – dem Register der Interessenbindungen der Bundesversammlung, parlament.ch sowie Websites von Bund, Kantonen und Gemeinden – ergänzt durch Lobbywatch und seriöse Berichterstattung.",
+      "default": "Die Daten stammen aus amtlichen Quellen – Parlaments- und Regierungsdokumenten, Amtsblättern und öffentlichen Erklärungen, sofern das jeweilige Land solche veröffentlicht – sowie aus seriöser Berichterstattung."
+    },
+    "methodologyStatuses": "Die Status geben überprüfbare Ergebnisse zum angegebenen Datum wieder; Vorwürfe werden als solche gekennzeichnet und ihr rechtlicher Stand wird angegeben.",
+    "otherDomain": "Sonstige",
+    "sections": {
+      "promises": "Versprechen",
+      "work_history": "Werdegang",
+      "finances": "Finanzen",
+      "stocks": "Wertpapiere",
+      "real_estate": "Immobilien",
+      "companies": "Unternehmen",
+      "controversies": "Kontroversen",
+      "electoral_history": "Wahlen",
+      "interests": "Interessen",
+      "education": "Ausbildung",
+      "honors": "Ehrungen",
+      "key_legislation": "Gesetzgebung",
+      "net_worth": "Nettovermögen",
+      "justice": "Justiz"
+    },
+    "linkLabel": {
+      "one": "Quelle:",
+      "other": "Quellen:"
+    }
+  },
+  "promises": {
+    "all": "Alle",
+    "otherCategory": "Sonstige",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Keine erfassten Versprechen",
+    "emptyBody": "Für {name} werden noch keine Wahlkampf- oder Programmversprechen erfasst. Die politische Tätigkeit ist unter {background}, {legislation} und {controversies} dokumentiert.",
+    "contextLabel": "Kontext.",
+    "campaignOnly": "{name} hatte bisher kein Exekutivamt inne. Es handelt sich um Wahlkampfversprechen, nicht um umgesetzte Politik – daher wird jedes als „{noAction}“ erfasst statt als gehalten oder gebrochen.",
+    "promised": "Versprochen am {date}",
+    "confidenceValue": "{value} Konfidenz",
+    "filterLabel": "Versprechen nach Status filtern"
+  },
+  "promise": {
+    "breadcrumbFallback": "Versprechen",
+    "verdict": "Bewertung",
+    "assessment": "Begründung",
+    "keyEvidence": "Wichtigste Belege",
+    "sourcesHeading": {
+      "one": "Quelle",
+      "other": "Quellen"
+    },
+    "primarySource": "Hauptquelle",
+    "additionalSource": "Weitere Quelle",
+    "lastReviewed": "Zuletzt geprüft am {date}",
+    "editoriallyReviewed": "Redaktionell geprüft",
+    "notVerified": "Dieses Versprechen wurde noch nicht geprüft."
+  },
+  "confidence": {
+    "label": "Konfidenz"
+  }
+}

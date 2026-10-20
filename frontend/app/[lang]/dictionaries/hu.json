@@ -1,1 +1,230 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – a politikai ígéretek követése",
+    "description": "Pártsemleges ígéretkövető: mely politikai ígéreteket tartották be, melyeket szegték meg, és melyek megvalósítása van még folyamatban – forrásokkal."
+  },
+  "header": {
+    "home": "kept.vote – főoldal",
+    "politicians": "Politikusok",
+    "methodology": "Módszertan",
+    "language": "Nyelv"
+  },
+  "footer": {
+    "methodologyTitle": "Módszertan",
+    "methodologyBody": "Minden ígéretet elsődleges források – jogszabályok, hivatalos dokumentumok és kormányzati adatok – alapján értékelünk, és a következő besorolások egyikét kapja: {kept}, {broken}, {inProgress} vagy {noAction}. A megbízhatósági mutató a rendelkezésre álló bizonyítékok erősségét tükrözi. Minden értékelés hivatkozik a forrásaira, így Ön is ellenőrizheti az adatokat.",
+    "tagline": "kept.vote – pártsemleges ígéretkövető. Prototípus."
+  },
+  "home": {
+    "eyebrow": "Ígéretkövető",
+    "title": "Betartották a szavukat?",
+    "intro": "A kept.vote összeveti, mit ígértek a politikusok, és mit tettek valójában – betartották, megszegték, vagy még folyamatban van –, és minden értékelést elsődleges források támasztanak alá.",
+    "stats": {
+      "politicians": "Politikusok",
+      "promises": "Követett ígéretek",
+      "verified": "Ellenőrizve"
+    },
+    "politiciansHeading": "Politikusok",
+    "countryFilterLabel": "Szűrés ország szerint",
+    "allCountries": "Minden ország",
+    "otherCountry": "Egyéb",
+    "politicianCount": {
+      "one": "{count} politikus",
+      "other": "{count} politikus"
+    },
+    "promiseCount": {
+      "one": "{count} ígéret",
+      "other": "{count} ígéret"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Még nincs ellenőrzött ígéret",
+    "viewDossier": "Adatlap megtekintése",
+    "noneInCountry": "Ebből az országból még nem követünk politikusokat.",
+    "emptyState": "Még nincsenek politikusok. A bemutató adatok betöltéséhez futtassa a seed szkriptet:",
+    "connectionErrorTitle": "Nem sikerült elérni a backend API-t.",
+    "connectionErrorBody": "Ellenőrizze, hogy fut-e a FastAPI backend, és hogy az {envVar} változó rá mutat-e."
+  },
+  "office": {
+    "head_of_state": "Államfő",
+    "head_of_government": "Kormányfő",
+    "minister": "Miniszter",
+    "legislator": "Parlamenti képviselő",
+    "mayor": "Polgármester",
+    "regional_executive": "Regionális vezető",
+    "party_leader": "Pártvezető",
+    "other": "Egyéb tisztség"
+  },
+  "notFound": {
+    "title": "Nem található",
+    "body": "Nem találtuk, amit keresett.",
+    "back": "Vissza a politikusokhoz"
+  },
+  "politician": {
+    "back": "← Összes politikus",
+    "trackRecord": "Az ígéretek mérlege",
+    "contentLanguage": "A profil {language} nyelven készült",
+    "tabsLabel": "A profil részei",
+    "tabs": {
+      "promises": "Ígéretek",
+      "background": "Életrajz",
+      "finances": "Pénzügyek",
+      "justice": "Jogi ügyek",
+      "controversies": "Vitatott ügyek",
+      "sources": "Források"
+    },
+    "background": {
+      "electoral": "Választási előzmények",
+      "work": "Szakmai pályafutás",
+      "education": "Tanulmányok",
+      "legislation": "Fontosabb jogszabályok",
+      "honors": "Kitüntetések és elismerések"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Az összegeket a nyilatkozatokban szereplő formában közöljük – többségük a {hatvp} (a közélet átláthatóságáért felelős francia főhatóság) részére benyújtott hivatalos nyilatkozatokból származik. Az olyan megfogalmazások, mint a „bejelentett” vagy a „kb.”, a forrást tükrözik, és változtatás nélkül jelennek meg.",
+      "switzerland": "Svájcban a tisztségviselőkre nem vonatkozik nyilvános vagyonnyilatkozati rendszer, ezért összegek csak ott szerepelnek, ahol azokat nyilvánosan közölték. A megbízatások és érdekeltségek a parlamenti érdekeltségi nyilvántartásból és a Lobbywatch adataiból származnak. Az olyan megfogalmazások, mint a „bejelentett” vagy a „kb.”, a forrást tükrözik, és változtatás nélkül jelennek meg.",
+      "default": "Az összegeket a nyilatkozatokban szereplő formában közöljük, a hivatalos nyilvános nyilatkozatok alapján, ha az adott ország ezeket közzéteszi; ha nem, ez a szakasz üres marad. Az olyan megfogalmazások, mint a „bejelentett” vagy a „kb.”, a forrást tükrözik, és változtatás nélkül jelennek meg."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Nettó vagyon",
+      "assets": "Vagyontárgyak",
+      "income": "Jövedelem",
+      "real_estate": "Ingatlanok"
+    },
+    "netWorthTimeline": "A nettó vagyon alakulása",
+    "stocks": "Értékpapírok / részvények",
+    "realEstate": "Ingatlanok",
+    "companies": "Cégek és tulajdonrészek",
+    "interests": "Érdekeltségi nyilatkozat",
+    "asOf": "állapot: {date}",
+    "declarationStatus": "A nyilatkozat státusza"
+  },
+  "status": {
+    "fulfilled": "Betartva",
+    "broken": "Megszegve",
+    "in_progress": "Folyamatban",
+    "compromise": "Kompromisszum",
+    "no_action": "Nincs intézkedés",
+    "unverified": "Nem ellenőrzött"
+  },
+  "legalStatus": {
+    "no_charges": "Nincs vádemelés",
+    "ongoing": "Folyamatban",
+    "concluded": "Lezárva",
+    "in_court": "Bíróság előtt",
+    "political": "Politikai ügy",
+    "victim": "Sértett",
+    "under_investigation": "Nyomozás folyik",
+    "awaiting_trial": "Tárgyalásra vár",
+    "party_matter": "Párton belüli ügy",
+    "no_proceedings": "Nem indult eljárás",
+    "conviction": "Elítélés",
+    "noted": "Rögzítve",
+    "unknown": "Ismeretlen",
+    "appeal_pending": "Fellebbezés folyamatban",
+    "convicted": "Elítélték",
+    "acquitted": "Felmentették",
+    "dismissed": "Eljárás megszüntetve",
+    "settled": "Egyezséggel lezárva"
+  },
+  "assetStatus": {
+    "declared": "Bejelentett",
+    "estimated": "Becsült",
+    "historical": "Korábbi",
+    "divested": "Elidegenítve",
+    "none": "Nincs bejelentett tétel"
+  },
+  "justice": {
+    "intro": "Minden bejegyzés egy igazságügyi ügyet és annak aktuális jogi állását dokumentálja. A nyomozások és a folyamatban lévő ügyek nem jelentik a jogsértés megállapítását; a jogerős bírósági döntésig az ártatlanság vélelme érvényesül.",
+    "outcome": "Kimenetel:",
+    "keyFacts": "Főbb tények"
+  },
+  "polemics": {
+    "intro": "Minden bejegyzés egy nyilvánosan dokumentált vitatott ügyet foglal össze, és bemutatja annak aktuális jogi vagy politikai állását. A leírások tényszerűek és semlegesek; egy állítás nem jelenti a jogsértés megállapítását.",
+    "statusLine": "Jogi/politikai állás:",
+    "keyFacts": "Főbb tények"
+  },
+  "legislation": {
+    "significance": "Jelentőség:"
+  },
+  "honors": {
+    "exOfficio": "Hivatalból"
+  },
+  "electoral": {
+    "versus": "{opponent} ellen"
+  },
+  "dates": {
+    "present": "napjainkig"
+  },
+  "sources": {
+    "title": "Források és hivatkozások",
+    "summary": "Összesen {sources} {domains}",
+    "sourceCount": {
+      "one": "{count} forrás",
+      "other": "{count} forrás"
+    },
+    "domainCount": {
+      "one": "{count} webhelyről",
+      "other": "{count} webhelyről"
+    },
+    "methodologyLabel": "Módszertan.",
+    "methodologySources": {
+      "france": "Az adatok hivatalos forrásokból származnak – ilyenek a HATVP vagyonnyilatkozatai, az INSEE, a Légifrance és a kormányzati oldalak –, valamint megbízható sajtóbeszámolókból.",
+      "switzerland": "Az adatok hivatalos forrásokból származnak – ilyenek a Szövetségi Gyűlés érdekeltségi nyilvántartása, a parlament.ch, valamint a szövetségi, kantoni és települési hatóságok oldalai –, továbbá a Lobbywatch adataiból és megbízható sajtóbeszámolókból.",
+      "default": "Az adatok hivatalos forrásokból származnak – ilyenek a parlamenti és kormányzati dokumentumok, a hivatalos közlönyök és a nyilvános nyilatkozatok, ha az adott ország ezeket közzéteszi –, valamint megbízható sajtóbeszámolókból."
+    },
+    "methodologyStatuses": "A besorolások a megadott időpontban ellenőrizhető eredményeket tükrözik; az állításokat ekként jelöljük, és feltüntetjük jogi állásukat.",
+    "otherDomain": "egyéb",
+    "sections": {
+      "promises": "Ígéretek",
+      "work_history": "Pályafutás",
+      "finances": "Pénzügyek",
+      "stocks": "Részvények",
+      "real_estate": "Ingatlanok",
+      "companies": "Cégek",
+      "controversies": "Vitatott ügyek",
+      "electoral_history": "Választások",
+      "interests": "Érdekeltségek",
+      "education": "Tanulmányok",
+      "honors": "Kitüntetések",
+      "key_legislation": "Jogszabályok",
+      "net_worth": "Nettó vagyon",
+      "justice": "Jogi ügyek"
+    },
+    "linkLabel": {
+      "one": "Forrás:",
+      "other": "Források:"
+    }
+  },
+  "promises": {
+    "all": "Összes",
+    "otherCategory": "Egyéb",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Nincsenek követett ígéretek",
+    "emptyBody": "{name} esetében még nem követünk kampány- vagy programígéreteket. Tevékenységéről a következő részekben olvashat: {background}, {legislation} és {controversies}.",
+    "contextLabel": "Háttér.",
+    "campaignOnly": "{name} nem töltött be végrehajtó hatalmi tisztséget. Ezek kampányígéretek, nem megvalósított intézkedések – ezért mindegyik „{noAction}” besorolást kap, nem pedig betartott vagy megszegett minősítést.",
+    "promised": "Az ígéret dátuma: {date}",
+    "confidenceValue": "Megbízhatóság: {value}",
+    "filterLabel": "Ígéretek szűrése besorolás szerint"
+  },
+  "promise": {
+    "breadcrumbFallback": "Ígéret",
+    "verdict": "Értékelés",
+    "assessment": "Elemzés",
+    "keyEvidence": "Főbb bizonyítékok",
+    "sourcesHeading": {
+      "one": "Forrás",
+      "other": "Források"
+    },
+    "primarySource": "Elsődleges forrás",
+    "additionalSource": "További forrás",
+    "lastReviewed": "Utoljára ellenőrizve: {date}",
+    "editoriallyReviewed": "Szerkesztőségileg ellenőrizve",
+    "notVerified": "Ezt az ígéretet még nem ellenőriztük."
+  },
+  "confidence": {
+    "label": "Megbízhatóság"
+  }
+}

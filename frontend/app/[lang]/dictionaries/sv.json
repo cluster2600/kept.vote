@@ -1,1 +1,230 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – politiska löften under lupp",
+    "description": "En partipolitiskt obunden granskning av politiska löften: vilka som har hållits, brutits eller fortfarande pågår – med källor."
+  },
+  "header": {
+    "home": "kept.vote – startsida",
+    "politicians": "Politiker",
+    "methodology": "Metod",
+    "language": "Språk"
+  },
+  "footer": {
+    "methodologyTitle": "Metod",
+    "methodologyBody": "Varje löfte bedöms mot primärkällor – lagar, officiella handlingar och offentliga data – och får en status: {kept}, {broken}, {inProgress} eller {noAction}. En säkerhetsgrad anger hur starkt det tillgängliga underlaget är. Varje bedömning länkar till sina källor så att du själv kan granska underlaget.",
+    "tagline": "kept.vote – en partipolitiskt obunden granskning av politiska löften. Prototyp."
+  },
+  "home": {
+    "eyebrow": "Löftesgranskning",
+    "title": "Höll de sitt ord?",
+    "intro": "kept.vote jämför vad politiker har lovat med vad de faktiskt har gjort – hållet, brutet eller pågående – och varje bedömning stöds av primärkällor.",
+    "stats": {
+      "politicians": "Politiker",
+      "promises": "Bevakade löften",
+      "verified": "Verifierade"
+    },
+    "politiciansHeading": "Politiker",
+    "countryFilterLabel": "Filtrera efter land",
+    "allCountries": "Alla länder",
+    "otherCountry": "Övriga",
+    "politicianCount": {
+      "one": "{count} politiker",
+      "other": "{count} politiker"
+    },
+    "promiseCount": {
+      "one": "{count} löfte",
+      "other": "{count} löften"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Inga verifierade löften ännu",
+    "viewDossier": "Visa profil",
+    "noneInCountry": "Inga politiker från det här landet bevakas ännu.",
+    "emptyState": "Inga politiker ännu. Kör seed-skriptet för att läsa in demodata:",
+    "connectionErrorTitle": "Det gick inte att nå backend-API:et.",
+    "connectionErrorBody": "Kontrollera att FastAPI-backenden körs och att {envVar} pekar på den."
+  },
+  "office": {
+    "head_of_state": "Statschef",
+    "head_of_government": "Regeringschef",
+    "minister": "Minister",
+    "legislator": "Parlamentsledamot",
+    "mayor": "Borgmästare",
+    "regional_executive": "Regionregering",
+    "party_leader": "Partiledare",
+    "other": "Annat uppdrag"
+  },
+  "notFound": {
+    "title": "Hittades inte",
+    "body": "Vi kunde inte hitta det du letade efter.",
+    "back": "Tillbaka till politiker"
+  },
+  "politician": {
+    "back": "← Alla politiker",
+    "trackRecord": "Löftesfacit",
+    "contentLanguage": "Profilen är skriven på {language}",
+    "tabsLabel": "Profilavsnitt",
+    "tabs": {
+      "promises": "Löften",
+      "background": "Bakgrund",
+      "finances": "Ekonomi",
+      "justice": "Rättsfall",
+      "controversies": "Kontroverser",
+      "sources": "Källor"
+    },
+    "background": {
+      "electoral": "Valhistorik",
+      "work": "Karriär",
+      "education": "Utbildning",
+      "legislation": "Viktig lagstiftning",
+      "honors": "Utmärkelser och hedersbetygelser"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Beloppen återges så som de har redovisats – de flesta kommer från de officiella deklarationer som lämnats till Frankrikes {hatvp} (Höga myndigheten för transparens i det offentliga livet). Formuleringar som ”redovisat” eller ”ca” speglar källan och återges oförändrade.",
+      "switzerland": "Schweiz saknar ett offentligt system för förmögenhetsdeklarationer för sina förtroendevalda, så belopp visas bara där de har rapporterats offentligt. Uppdrag och intressen kommer från parlamentets intresseregister och från Lobbywatch. Formuleringar som ”redovisat” eller ”ca” speglar källan och återges oförändrade.",
+      "default": "Beloppen återges så som de har redovisats, från officiella offentliga deklarationer där landet publicerar sådana; annars förblir detta avsnitt tomt. Formuleringar som ”redovisat” eller ”ca” speglar källan och återges oförändrade."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Nettoförmögenhet",
+      "assets": "Tillgångar",
+      "income": "Inkomst",
+      "real_estate": "Fastigheter"
+    },
+    "netWorthTimeline": "Nettoförmögenhetens utveckling",
+    "stocks": "Värdepapper och aktieinnehav",
+    "realEstate": "Fastigheter",
+    "companies": "Företag och ägande",
+    "interests": "Intressedeklaration",
+    "asOf": "per {date}",
+    "declarationStatus": "Redovisningsstatus"
+  },
+  "status": {
+    "fulfilled": "Hållet",
+    "broken": "Brutet",
+    "in_progress": "Pågår",
+    "compromise": "Kompromiss",
+    "no_action": "Inga åtgärder",
+    "unverified": "Ej verifierat"
+  },
+  "legalStatus": {
+    "no_charges": "Inget åtal",
+    "ongoing": "Pågående",
+    "concluded": "Avslutad",
+    "in_court": "I domstol",
+    "political": "Politisk",
+    "victim": "Offer",
+    "under_investigation": "Under utredning",
+    "awaiting_trial": "Inväntar rättegång",
+    "party_matter": "Partiintern fråga",
+    "no_proceedings": "Ingen rättsprocess",
+    "conviction": "Fällande dom",
+    "noted": "Noterad",
+    "unknown": "Okänd",
+    "appeal_pending": "Överklagad",
+    "convicted": "Dömd",
+    "acquitted": "Frikänd",
+    "dismissed": "Nedlagd",
+    "settled": "Förlikning"
+  },
+  "assetStatus": {
+    "declared": "Redovisad",
+    "estimated": "Uppskattad",
+    "historical": "Historisk",
+    "divested": "Avyttrad",
+    "none": "Inget redovisat"
+  },
+  "justice": {
+    "intro": "Varje post beskriver ett rättsligt ärende och dess aktuella rättsliga status. Utredningar och pågående ärenden innebär inte att något fel eller brott har konstaterats; oskuldspresumtionen gäller tills en dom har vunnit laga kraft.",
+    "outcome": "Utgång:",
+    "keyFacts": "Viktiga fakta"
+  },
+  "polemics": {
+    "intro": "Varje post sammanfattar en offentligt dokumenterad kontrovers och visar dess aktuella rättsliga eller politiska status. Beskrivningarna är sakliga och neutrala; en anklagelse innebär inte att något fel har konstaterats.",
+    "statusLine": "Rättslig/politisk status:",
+    "keyFacts": "Viktiga fakta"
+  },
+  "legislation": {
+    "significance": "Betydelse:"
+  },
+  "honors": {
+    "exOfficio": "I kraft av ämbetet"
+  },
+  "electoral": {
+    "versus": "mot {opponent}"
+  },
+  "dates": {
+    "present": "nu"
+  },
+  "sources": {
+    "title": "Källor och referenser",
+    "summary": "Stöds av {sources} från {domains}",
+    "sourceCount": {
+      "one": "{count} källa",
+      "other": "{count} källor"
+    },
+    "domainCount": {
+      "one": "{count} domän",
+      "other": "{count} domäner"
+    },
+    "methodologyLabel": "Metod.",
+    "methodologySources": {
+      "france": "Uppgifterna har sammanställts från officiella källor – HATVP:s förmögenhetsdeklarationer, INSEE, Légifrance och myndighetswebbplatser – kompletterade med seriös nyhetsrapportering.",
+      "switzerland": "Uppgifterna har sammanställts från officiella källor – Förbundsförsamlingens intresseregister, parlament.ch samt federala, kantonala och kommunala myndigheters webbplatser – kompletterade med Lobbywatch och seriös nyhetsrapportering.",
+      "default": "Uppgifterna har sammanställts från officiella källor – parlaments- och regeringshandlingar, officiella författningssamlingar och offentliga deklarationer där landet publicerar sådana – kompletterade med seriös nyhetsrapportering."
+    },
+    "methodologyStatuses": "Statusarna speglar verifierbara utfall per angivet datum; anklagelser markeras som sådana och deras rättsliga status anges.",
+    "otherDomain": "övrigt",
+    "sections": {
+      "promises": "Löften",
+      "work_history": "Karriär",
+      "finances": "Ekonomi",
+      "stocks": "Aktier",
+      "real_estate": "Fastigheter",
+      "companies": "Företag",
+      "controversies": "Kontroverser",
+      "electoral_history": "Val",
+      "interests": "Intressen",
+      "education": "Utbildning",
+      "honors": "Utmärkelser",
+      "key_legislation": "Lagstiftning",
+      "net_worth": "Nettoförmögenhet",
+      "justice": "Rättsfall"
+    },
+    "linkLabel": {
+      "one": "Källa:",
+      "other": "Källor:"
+    }
+  },
+  "promises": {
+    "all": "Alla",
+    "otherCategory": "Övrigt",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Inga bevakade löften",
+    "emptyBody": "Inga val- eller programlöften bevakas ännu för {name}. Personens verksamhet finns dokumenterad under {background}, {legislation} och {controversies}.",
+    "contextLabel": "Sammanhang.",
+    "campaignOnly": "{name} har inte haft något verkställande uppdrag. Det här är vallöften, inte genomförd politik – därför registreras varje löfte som ”{noAction}” i stället för hållet eller brutet.",
+    "promised": "Utlovat den {date}",
+    "confidenceValue": "{value} säkerhet",
+    "filterLabel": "Filtrera löften efter status"
+  },
+  "promise": {
+    "breadcrumbFallback": "Löfte",
+    "verdict": "Bedömning",
+    "assessment": "Motivering",
+    "keyEvidence": "Viktigaste underlag",
+    "sourcesHeading": {
+      "one": "Källa",
+      "other": "Källor"
+    },
+    "primarySource": "Huvudkälla",
+    "additionalSource": "Ytterligare källa",
+    "lastReviewed": "Senast granskad den {date}",
+    "editoriallyReviewed": "Redaktionellt granskad",
+    "notVerified": "Det här löftet har inte verifierats ännu."
+  },
+  "confidence": {
+    "label": "Säkerhet"
+  }
+}

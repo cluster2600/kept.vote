@@ -1,1 +1,230 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – poliittisten lupausten seuranta",
+    "description": "Puolueeton poliittisten lupausten seuranta: mitkä lupaukset on pidetty, mitkä rikottu ja mitkä ovat yhä kesken – lähteineen."
+  },
+  "header": {
+    "home": "kept.vote – etusivu",
+    "politicians": "Poliitikot",
+    "methodology": "Menetelmät",
+    "language": "Kieli"
+  },
+  "footer": {
+    "methodologyTitle": "Menetelmät",
+    "methodologyBody": "Jokainen lupaus arvioidaan ensisijaisten lähteiden – lakien, virallisten asiakirjojen ja viranomaisten tietojen – perusteella, ja sille annetaan tila: {kept}, {broken}, {inProgress} tai {noAction}. Varmuusaste kuvastaa saatavilla olevan näytön vahvuutta. Jokaisesta arviosta on linkit sen lähteisiin, joten tiedot voi tarkistaa itse.",
+    "tagline": "kept.vote – puolueeton lupausten seuranta. Prototyyppi."
+  },
+  "home": {
+    "eyebrow": "Lupausten seuranta",
+    "title": "Pitivätkö he sanansa?",
+    "intro": "kept.vote vertaa poliitikkojen lupauksia siihen, mitä he todella tekivät – pidetty, rikottu vai yhä kesken – ja jokainen arvio perustuu ensisijaisiin lähteisiin.",
+    "stats": {
+      "politicians": "Poliitikot",
+      "promises": "Seurattavat lupaukset",
+      "verified": "Tarkistetut"
+    },
+    "politiciansHeading": "Poliitikot",
+    "countryFilterLabel": "Suodata maan mukaan",
+    "allCountries": "Kaikki maat",
+    "otherCountry": "Muu",
+    "politicianCount": {
+      "one": "{count} poliitikko",
+      "other": "{count} poliitikkoa"
+    },
+    "promiseCount": {
+      "one": "{count} lupaus",
+      "other": "{count} lupausta"
+    },
+    "profileBadge": "Profiili",
+    "noVerifiedYet": "Ei vielä tarkistettuja lupauksia",
+    "viewDossier": "Avaa profiili",
+    "noneInCountry": "Tästä maasta ei vielä seurata poliitikkoja.",
+    "emptyState": "Poliitikkoja ei vielä ole. Lataa esittelytiedot ajamalla seed-skripti:",
+    "connectionErrorTitle": "Taustajärjestelmän API-rajapintaan ei saatu yhteyttä.",
+    "connectionErrorBody": "Varmista, että FastAPI-taustajärjestelmä on käynnissä ja että {envVar} osoittaa siihen."
+  },
+  "office": {
+    "head_of_state": "Valtionpäämies",
+    "head_of_government": "Hallituksen päämies",
+    "minister": "Ministeri",
+    "legislator": "Parlamentin jäsen",
+    "mayor": "Pormestari",
+    "regional_executive": "Aluejohtaja",
+    "party_leader": "Puoluejohtaja",
+    "other": "Muu tehtävä"
+  },
+  "notFound": {
+    "title": "Ei löytynyt",
+    "body": "Pyydettyä sisältöä ei löytynyt.",
+    "back": "Takaisin poliitikkoihin"
+  },
+  "politician": {
+    "back": "← Kaikki poliitikot",
+    "trackRecord": "Lupausten toteutuminen",
+    "contentLanguage": "Profiilin kieli: {language}",
+    "tabsLabel": "Profiilin osiot",
+    "tabs": {
+      "promises": "Lupaukset",
+      "background": "Tausta",
+      "finances": "Talous",
+      "justice": "Oikeusasiat",
+      "controversies": "Kiistat",
+      "sources": "Lähteet"
+    },
+    "background": {
+      "electoral": "Vaalihistoria",
+      "work": "Työhistoria",
+      "education": "Koulutus",
+      "legislation": "Keskeinen lainsäädäntö",
+      "honors": "Kunniamerkit ja tunnustukset"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Luvut esitetään ilmoitetussa muodossa – useimmat on poimittu virallisista ilmoituksista, jotka on jätetty Ranskan julkisen elämän avoimuutta valvovalle viranomaiselle ({hatvp}). Ilmaisut kuten ”ilmoitettu” tai ”n.” ovat peräisin lähteestä, ja ne näytetään muuttamattomina.",
+      "switzerland": "Sveitsissä ei ole julkista varallisuusilmoitusjärjestelmää poliittisille päättäjille, joten lukuja esitetään vain silloin, kun niistä on raportoitu julkisesti. Luottamustehtävät ja sidonnaisuudet perustuvat parlamentin sidonnaisuusrekisteriin sekä Lobbywatch-palvelun tietoihin. Ilmaisut kuten ”ilmoitettu” tai ”n.” ovat peräisin lähteestä, ja ne näytetään muuttamattomina.",
+      "default": "Luvut esitetään ilmoitetussa muodossa virallisista julkisista ilmoituksista silloin, kun maa julkaisee niitä; muussa tapauksessa tämä osio jää tyhjäksi. Ilmaisut kuten ”ilmoitettu” tai ”n.” ovat peräisin lähteestä, ja ne näytetään muuttamattomina."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Nettovarallisuus",
+      "assets": "Varat",
+      "income": "Tulot",
+      "real_estate": "Kiinteistöt"
+    },
+    "netWorthTimeline": "Nettovarallisuuden kehitys",
+    "stocks": "Arvopaperit / osakeomistukset",
+    "realEstate": "Kiinteistöt",
+    "companies": "Yritykset ja omistukset",
+    "interests": "Sidonnaisuusilmoitus",
+    "asOf": "tilanne {date}",
+    "declarationStatus": "Ilmoituksen tila"
+  },
+  "status": {
+    "fulfilled": "Pidetty",
+    "broken": "Rikottu",
+    "in_progress": "Kesken",
+    "compromise": "Kompromissi",
+    "no_action": "Ei toimia",
+    "unverified": "Tarkistamaton"
+  },
+  "legalStatus": {
+    "no_charges": "Ei syytteitä",
+    "ongoing": "Käynnissä",
+    "concluded": "Päättynyt",
+    "in_court": "Tuomioistuimessa",
+    "political": "Poliittinen asia",
+    "victim": "Asianomistaja",
+    "under_investigation": "Tutkinnassa",
+    "awaiting_trial": "Odottaa oikeudenkäyntiä",
+    "party_matter": "Puolueen sisäinen asia",
+    "no_proceedings": "Menettelyä ei aloitettu",
+    "conviction": "Langettava tuomio",
+    "noted": "Kirjattu",
+    "unknown": "Tuntematon",
+    "appeal_pending": "Muutoksenhaku vireillä",
+    "convicted": "Tuomittu",
+    "acquitted": "Vapautettu syytteistä",
+    "dismissed": "Hylätty",
+    "settled": "Sovinto"
+  },
+  "assetStatus": {
+    "declared": "Ilmoitettu",
+    "estimated": "Arvio",
+    "historical": "Aiempi",
+    "divested": "Luovuttu",
+    "none": "Ei ilmoitettuja"
+  },
+  "justice": {
+    "intro": "Jokainen merkintä kuvaa oikeudellisen asian ja sen nykyisen oikeudellisen tilan. Tutkinnat ja vireillä olevat asiat eivät tarkoita, että väärinteko olisi todettu; syyttömyysolettama on voimassa lainvoimaiseen tuomioistuimen ratkaisuun asti.",
+    "outcome": "Lopputulos:",
+    "keyFacts": "Keskeiset tosiasiat"
+  },
+  "polemics": {
+    "intro": "Jokainen merkintä tiivistää julkisesti dokumentoidun kiistan ja näyttää sen nykyisen oikeudellisen tai poliittisen tilan. Kuvaukset ovat asiallisia ja puolueettomia; väite ei tarkoita, että väärinteko olisi todettu.",
+    "statusLine": "Oikeudellinen/poliittinen tila:",
+    "keyFacts": "Keskeiset tosiasiat"
+  },
+  "legislation": {
+    "significance": "Merkitys:"
+  },
+  "honors": {
+    "exOfficio": "Viran puolesta"
+  },
+  "electoral": {
+    "versus": "Vastaehdokas: {opponent}"
+  },
+  "dates": {
+    "present": "nyt"
+  },
+  "sources": {
+    "title": "Lähteet ja viitteet",
+    "summary": "Yhteensä {sources} {domains}",
+    "sourceCount": {
+      "one": "{count} lähde",
+      "other": "{count} lähdettä"
+    },
+    "domainCount": {
+      "one": "{count} sivustolta",
+      "other": "{count} sivustolta"
+    },
+    "methodologyLabel": "Menetelmät.",
+    "methodologySources": {
+      "france": "Tiedot on koottu virallisista lähteistä – kuten HATVP:n varallisuusilmoitukset, INSEE, Légifrance ja viranomaisten verkkosivustot – sekä luotettavasta uutisoinnista.",
+      "switzerland": "Tiedot on koottu virallisista lähteistä – kuten liittokokouksen sidonnaisuusrekisteri, parlament.ch sekä liittovaltion, kantonien ja kuntien viranomaisten verkkosivustot – sekä Lobbywatch-palvelusta ja luotettavasta uutisoinnista.",
+      "default": "Tiedot on koottu virallisista lähteistä – kuten parlamentin ja hallituksen asiakirjat, viralliset lehdet ja julkiset ilmoitukset silloin, kun maa julkaisee niitä – sekä luotettavasta uutisoinnista."
+    },
+    "methodologyStatuses": "Tilat kuvaavat todennettavissa olevia lopputuloksia ilmoitettuna päivänä; väitteet on merkitty väitteiksi, ja niiden oikeudellinen tila on esitetty.",
+    "otherDomain": "muu",
+    "sections": {
+      "promises": "Lupaukset",
+      "work_history": "Työhistoria",
+      "finances": "Talous",
+      "stocks": "Osakkeet",
+      "real_estate": "Kiinteistöt",
+      "companies": "Yritykset",
+      "controversies": "Kiistat",
+      "electoral_history": "Vaalit",
+      "interests": "Sidonnaisuudet",
+      "education": "Koulutus",
+      "honors": "Kunnianosoitukset",
+      "key_legislation": "Lainsäädäntö",
+      "net_worth": "Nettovarallisuus",
+      "justice": "Oikeusasiat"
+    },
+    "linkLabel": {
+      "one": "Lähde:",
+      "other": "Lähteet:"
+    }
+  },
+  "promises": {
+    "all": "Kaikki",
+    "otherCategory": "Muut",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Ei seurattavia lupauksia",
+    "emptyBody": "Henkilön {name} vaali- tai ohjelmalupauksia ei vielä seurata. Hänen toimintansa on dokumentoitu osioissa {background}, {legislation} ja {controversies}.",
+    "contextLabel": "Taustaa.",
+    "campaignOnly": "{name} ei ole toiminut toimeenpanovallan tehtävässä. Nämä ovat vaalilupauksia eivätkä toteutettua politiikkaa – siksi jokaisen tilaksi on merkitty ”{noAction}” eikä pidetty tai rikottu.",
+    "promised": "Lupaus annettu {date}",
+    "confidenceValue": "Varmuus {value}",
+    "filterLabel": "Suodata lupauksia tilan mukaan"
+  },
+  "promise": {
+    "breadcrumbFallback": "Lupaus",
+    "verdict": "Arvio",
+    "assessment": "Perustelut",
+    "keyEvidence": "Keskeinen näyttö",
+    "sourcesHeading": {
+      "one": "Lähde",
+      "other": "Lähteet"
+    },
+    "primarySource": "Ensisijainen lähde",
+    "additionalSource": "Lisälähde",
+    "lastReviewed": "Viimeksi tarkistettu {date}",
+    "editoriallyReviewed": "Toimituksellisesti tarkistettu",
+    "notVerified": "Tätä lupausta ei ole vielä tarkistettu."
+  },
+  "confidence": {
+    "label": "Varmuusaste"
+  }
+}

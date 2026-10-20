@@ -171,7 +171,7 @@
     "methodologyLabel": "Methodology.",
     "methodologySources": {
       "france": "Data is compiled from official sources — HATVP asset declarations, INSEE, Légifrance, and government sites — alongside reputable reporting.",
-      "switzerland": "Data is compiled from official sources — the Federal Assembly's register of interests, parliament.ch, and federal, cantonal and municipal government sites — alongside Lobbywatch and reputable reporting.",
+      "switzerland": "Data is compiled from official sources — the Federal Assembly's register of interests, parlament.ch, and federal, cantonal and municipal government sites — alongside Lobbywatch and reputable reporting.",
       "default": "Data is compiled from official sources — parliamentary and government records, official gazettes, and public declarations where the country publishes them — alongside reputable reporting."
     },
     "methodologyStatuses": "Statuses reflect verifiable outcomes as of the stated date; allegations are labelled as such and their legal status is shown.",

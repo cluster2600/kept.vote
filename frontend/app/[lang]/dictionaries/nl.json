@@ -1,1 +1,230 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – politieke beloften onder de loep",
+    "description": "Een onpartijdige monitor van politieke beloften: welke zijn nagekomen of gebroken, en welke nog in uitvoering zijn – met bronnen."
+  },
+  "header": {
+    "home": "kept.vote – startpagina",
+    "politicians": "Politici",
+    "methodology": "Werkwijze",
+    "language": "Taal"
+  },
+  "footer": {
+    "methodologyTitle": "Werkwijze",
+    "methodologyBody": "Elke belofte wordt getoetst aan primaire bronnen – wetten, officiële stukken en overheidsgegevens – en krijgt een status: {kept}, {broken}, {inProgress} of {noAction}. Een betrouwbaarheidsscore geeft aan hoe sterk het beschikbare bewijs is. Elk oordeel verwijst naar de bronnen, zodat u het zelf kunt controleren.",
+    "tagline": "kept.vote – een onpartijdige beloftemonitor. Prototype."
+  },
+  "home": {
+    "eyebrow": "Beloftemonitor",
+    "title": "Hebben ze woord gehouden?",
+    "intro": "kept.vote zet wat politici hebben beloofd af tegen wat ze werkelijk hebben gedaan – nagekomen, gebroken of nog in uitvoering – en onderbouwt elk oordeel met primaire bronnen.",
+    "stats": {
+      "politicians": "Politici",
+      "promises": "Gevolgde beloften",
+      "verified": "Geverifieerd"
+    },
+    "politiciansHeading": "Politici",
+    "countryFilterLabel": "Filteren op land",
+    "allCountries": "Alle landen",
+    "otherCountry": "Overig",
+    "politicianCount": {
+      "one": "{count} politicus",
+      "other": "{count} politici"
+    },
+    "promiseCount": {
+      "one": "{count} belofte",
+      "other": "{count} beloften"
+    },
+    "profileBadge": "Profiel",
+    "noVerifiedYet": "Nog geen geverifieerde beloften",
+    "viewDossier": "Dossier bekijken",
+    "noneInCountry": "Voor dit land worden nog geen politici gevolgd.",
+    "emptyState": "Nog geen politici. Voer het seedscript uit om demogegevens te laden:",
+    "connectionErrorTitle": "De backend-API is niet bereikbaar.",
+    "connectionErrorBody": "Controleer of de FastAPI-backend draait en of {envVar} ernaar verwijst."
+  },
+  "office": {
+    "head_of_state": "Staatshoofd",
+    "head_of_government": "Regeringsleider",
+    "minister": "Minister",
+    "legislator": "Parlementslid",
+    "mayor": "Burgemeester",
+    "regional_executive": "Regionaal bestuurder",
+    "party_leader": "Partijleider",
+    "other": "Ander ambt"
+  },
+  "notFound": {
+    "title": "Niet gevonden",
+    "body": "We konden niet vinden wat u zocht.",
+    "back": "Terug naar politici"
+  },
+  "politician": {
+    "back": "← Alle politici",
+    "trackRecord": "Balans van beloften",
+    "contentLanguage": "Profiel opgesteld in het {language}",
+    "tabsLabel": "Profielonderdelen",
+    "tabs": {
+      "promises": "Beloften",
+      "background": "Achtergrond",
+      "finances": "Financiën",
+      "justice": "Justitie",
+      "controversies": "Controverses",
+      "sources": "Bronnen"
+    },
+    "background": {
+      "electoral": "Verkiezingsgeschiedenis",
+      "work": "Loopbaan",
+      "education": "Opleiding",
+      "legislation": "Belangrijke wetgeving",
+      "honors": "Onderscheidingen en eerbewijzen"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Bedragen worden weergegeven zoals opgegeven – de meeste komen uit de officiële verklaringen die zijn ingediend bij de Franse {hatvp} (Hoge Autoriteit voor transparantie in het openbare leven). Formuleringen als ‘opgegeven’ of ‘ca.’ komen uit de bron en worden ongewijzigd weergegeven.",
+      "switzerland": "Zwitserland kent geen openbare vermogensaangifte voor zijn ambtsdragers; bedragen staan hier daarom alleen als ze publiekelijk bekend zijn gemaakt. Mandaten en belangen komen uit het parlementaire register van belangen en van Lobbywatch. Formuleringen als ‘opgegeven’ of ‘ca.’ komen uit de bron en worden ongewijzigd weergegeven.",
+      "default": "Bedragen worden weergegeven zoals opgegeven, op basis van officiële openbare verklaringen voor zover het land die publiceert; is dat niet het geval, dan blijft dit onderdeel leeg. Formuleringen als ‘opgegeven’ of ‘ca.’ komen uit de bron en worden ongewijzigd weergegeven."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Nettovermogen",
+      "assets": "Bezittingen",
+      "income": "Inkomen",
+      "real_estate": "Vastgoed"
+    },
+    "netWorthTimeline": "Verloop van het nettovermogen",
+    "stocks": "Effecten en aandelenbezit",
+    "realEstate": "Vastgoed",
+    "companies": "Bedrijven en deelnemingen",
+    "interests": "Belangenverklaring",
+    "asOf": "per {date}",
+    "declarationStatus": "Status van de opgave"
+  },
+  "status": {
+    "fulfilled": "Nagekomen",
+    "broken": "Gebroken",
+    "in_progress": "In uitvoering",
+    "compromise": "Compromis",
+    "no_action": "Geen actie",
+    "unverified": "Niet geverifieerd"
+  },
+  "legalStatus": {
+    "no_charges": "Geen vervolging",
+    "ongoing": "Lopend",
+    "concluded": "Afgerond",
+    "in_court": "Voor de rechter",
+    "political": "Politiek",
+    "victim": "Slachtoffer",
+    "under_investigation": "In onderzoek",
+    "awaiting_trial": "In afwachting van proces",
+    "party_matter": "Partijkwestie",
+    "no_proceedings": "Geen procedure",
+    "conviction": "Veroordeling",
+    "noted": "Genoteerd",
+    "unknown": "Onbekend",
+    "appeal_pending": "In hoger beroep",
+    "convicted": "Veroordeeld",
+    "acquitted": "Vrijgesproken",
+    "dismissed": "Geseponeerd",
+    "settled": "Schikking"
+  },
+  "assetStatus": {
+    "declared": "Opgegeven",
+    "estimated": "Geschat",
+    "historical": "Historisch",
+    "divested": "Afgestoten",
+    "none": "Niets opgegeven"
+  },
+  "justice": {
+    "intro": "Elke vermelding beschrijft een gerechtelijke zaak en de huidige juridische status ervan. Onderzoeken en lopende zaken zijn geen vaststelling van wangedrag; het vermoeden van onschuld geldt tot er een onherroepelijke rechterlijke uitspraak is.",
+    "outcome": "Uitkomst:",
+    "keyFacts": "Belangrijkste feiten"
+  },
+  "polemics": {
+    "intro": "Elke vermelding vat een publiek gedocumenteerde controverse samen en toont de huidige juridische of politieke status ervan. De beschrijvingen zijn feitelijk en neutraal; een beschuldiging is geen vaststelling van wangedrag.",
+    "statusLine": "Juridische/politieke status:",
+    "keyFacts": "Belangrijkste feiten"
+  },
+  "legislation": {
+    "significance": "Betekenis:"
+  },
+  "honors": {
+    "exOfficio": "Ambtshalve"
+  },
+  "electoral": {
+    "versus": "tegen {opponent}"
+  },
+  "dates": {
+    "present": "heden"
+  },
+  "sources": {
+    "title": "Bronnen en referenties",
+    "summary": "Onderbouwd met {sources} uit {domains}",
+    "sourceCount": {
+      "one": "{count} bron",
+      "other": "{count} bronnen"
+    },
+    "domainCount": {
+      "one": "{count} domein",
+      "other": "{count} domeinen"
+    },
+    "methodologyLabel": "Werkwijze.",
+    "methodologySources": {
+      "france": "De gegevens zijn verzameld uit officiële bronnen – vermogensverklaringen van de HATVP, INSEE, Légifrance en overheidswebsites – aangevuld met betrouwbare berichtgeving.",
+      "switzerland": "De gegevens zijn verzameld uit officiële bronnen – het belangenregister van de Bondsvergadering, parlament.ch en websites van de federale, kantonale en gemeentelijke overheden – aangevuld met Lobbywatch en betrouwbare berichtgeving.",
+      "default": "De gegevens zijn verzameld uit officiële bronnen – parlements- en overheidsstukken, officiële publicatiebladen en openbare verklaringen voor zover het land die publiceert – aangevuld met betrouwbare berichtgeving."
+    },
+    "methodologyStatuses": "De statussen geven controleerbare uitkomsten weer op de vermelde datum; beschuldigingen worden als zodanig aangeduid en hun juridische status wordt vermeld.",
+    "otherDomain": "overig",
+    "sections": {
+      "promises": "Beloften",
+      "work_history": "Loopbaan",
+      "finances": "Financiën",
+      "stocks": "Aandelen",
+      "real_estate": "Vastgoed",
+      "companies": "Bedrijven",
+      "controversies": "Controverses",
+      "electoral_history": "Verkiezingen",
+      "interests": "Belangen",
+      "education": "Opleiding",
+      "honors": "Onderscheidingen",
+      "key_legislation": "Wetgeving",
+      "net_worth": "Nettovermogen",
+      "justice": "Justitie"
+    },
+    "linkLabel": {
+      "one": "Bron:",
+      "other": "Bronnen:"
+    }
+  },
+  "promises": {
+    "all": "Alle",
+    "otherCategory": "Overig",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Geen gevolgde beloften",
+    "emptyBody": "Voor {name} worden nog geen verkiezings- of programmabeloften gevolgd. De staat van dienst is gedocumenteerd onder {background}, {legislation} en {controversies}.",
+    "contextLabel": "Context.",
+    "campaignOnly": "{name} heeft geen uitvoerend ambt bekleed. Dit zijn verkiezingsbeloften, geen uitgevoerd beleid – daarom wordt elke belofte geregistreerd als ‘{noAction}’ in plaats van nagekomen of gebroken.",
+    "promised": "Beloofd op {date}",
+    "confidenceValue": "{value} betrouwbaarheid",
+    "filterLabel": "Beloften filteren op status"
+  },
+  "promise": {
+    "breadcrumbFallback": "Belofte",
+    "verdict": "Oordeel",
+    "assessment": "Toelichting",
+    "keyEvidence": "Belangrijkste bewijs",
+    "sourcesHeading": {
+      "one": "Bron",
+      "other": "Bronnen"
+    },
+    "primarySource": "Hoofdbron",
+    "additionalSource": "Aanvullende bron",
+    "lastReviewed": "Laatst gecontroleerd op {date}",
+    "editoriallyReviewed": "Redactioneel gecontroleerd",
+    "notVerified": "Deze belofte is nog niet geverifieerd."
+  },
+  "confidence": {
+    "label": "Betrouwbaarheid"
+  }
+}

@@ -1,1 +1,236 @@
-{}
+{
+  "meta": {
+    "title": "kept.vote – politisko solījumu uzraudzība",
+    "description": "Nepartejisks politisko solījumu uzraudzības rīks: kuri solījumi ir izpildīti, kuri lauzti un kuri vēl tiek pildīti – ar atsaucēm uz avotiem."
+  },
+  "header": {
+    "home": "kept.vote – sākumlapa",
+    "politicians": "Politiķi",
+    "methodology": "Metodoloģija",
+    "language": "Valoda"
+  },
+  "footer": {
+    "methodologyTitle": "Metodoloģija",
+    "methodologyBody": "Katrs solījums tiek vērtēts pēc primārajiem avotiem – likumiem, oficiāliem dokumentiem un valdības datiem – un saņem vienu no statusiem: {kept}, {broken}, {inProgress} vai {noAction}. Ticamības rādītājs atspoguļo pieejamo pierādījumu spēku. Katram verdiktam ir pievienotas saites uz avotiem, lai jūs paši varētu pārbaudīt faktus.",
+    "tagline": "kept.vote – nepartejisks solījumu uzraudzības rīks. Prototips."
+  },
+  "home": {
+    "eyebrow": "Solījumu uzraudzība",
+    "title": "Vai viņi turēja doto vārdu?",
+    "intro": "kept.vote salīdzina politiķu solīto ar viņu faktisko rīcību: vai solījums ir izpildīts, lauzts vai vēl tiek pildīts. Katrs verdikts ir pamatots ar primārajiem avotiem.",
+    "stats": {
+      "politicians": "Politiķi",
+      "promises": "Uzraudzītie solījumi",
+      "verified": "Pārbaudītie"
+    },
+    "politiciansHeading": "Politiķi",
+    "countryFilterLabel": "Filtrēt pēc valsts",
+    "allCountries": "Visas valstis",
+    "otherCountry": "Citas valstis",
+    "politicianCount": {
+      "zero": "{count} politiķu",
+      "one": "{count} politiķis",
+      "other": "{count} politiķi"
+    },
+    "promiseCount": {
+      "zero": "{count} solījumu",
+      "one": "{count} solījums",
+      "other": "{count} solījumi"
+    },
+    "profileBadge": "Profils",
+    "noVerifiedYet": "Vēl nav pārbaudītu solījumu",
+    "viewDossier": "Skatīt dosjē",
+    "noneInCountry": "Šajā valstī vēl netiek uzraudzīts neviens politiķis.",
+    "emptyState": "Politiķu vēl nav. Lai ielādētu demonstrācijas datus, palaidiet datu ielādes skriptu:",
+    "connectionErrorTitle": "Neizdevās izveidot savienojumu ar aizmugursistēmas API.",
+    "connectionErrorBody": "Pārliecinieties, ka FastAPI aizmugursistēma darbojas un {envVar} norāda uz to."
+  },
+  "office": {
+    "head_of_state": "Valsts vadītājs",
+    "head_of_government": "Valdības vadītājs",
+    "minister": "Ministrs",
+    "legislator": "Parlamenta deputāts",
+    "mayor": "Mērs",
+    "regional_executive": "Reģiona vadītājs",
+    "party_leader": "Partijas līderis",
+    "other": "Cits amats"
+  },
+  "notFound": {
+    "title": "Nav atrasts",
+    "body": "Diemžēl neizdevās atrast meklēto.",
+    "back": "Atpakaļ uz politiķu sarakstu"
+  },
+  "politician": {
+    "back": "← Visi politiķi",
+    "trackRecord": "Solījumu izpildes rādītāji",
+    "contentLanguage": "Profila valoda: {language}",
+    "tabsLabel": "Profila sadaļas",
+    "tabs": {
+      "promises": "Solījumi",
+      "background": "Biogrāfija",
+      "finances": "Finanses",
+      "justice": "Tiesu lietas",
+      "controversies": "Pretrunīgi gadījumi",
+      "sources": "Avoti"
+    },
+    "background": {
+      "electoral": "Vēlēšanu vēsture",
+      "work": "Darba pieredze",
+      "education": "Izglītība",
+      "legislation": "Nozīmīgākie tiesību akti",
+      "honors": "Apbalvojumi un goda nosaukumi"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Skaitļi norādīti tā, kā tie deklarēti: lielākā daļa ņemta no oficiālajām deklarācijām, kas iesniegtas Francijas iestādei {hatvp} (Augstajai sabiedriskās dzīves pārredzamības iestādei). Tādi formulējumi kā „deklarēts“ vai „apm.“ ir pārņemti no avota un parādīti nemainīti.",
+      "switzerland": "Šveicē nav sistēmas, kurā amatpersonas publiski deklarētu savu mantisko stāvokli, tāpēc skaitļi norādīti tikai tad, ja par tiem ir publiski ziņots. Informācija par mandātiem un interesēm iegūta no parlamenta interešu reģistra un Lobbywatch. Tādi formulējumi kā „deklarēts“ vai „apm.“ ir pārņemti no avota un parādīti nemainīti.",
+      "default": "Skaitļi norādīti tā, kā tie deklarēti oficiālajās publiskajās deklarācijās, ja valsts tās publicē; ja ne, šī sadaļa paliek tukša. Tādi formulējumi kā „deklarēts“ vai „apm.“ ir pārņemti no avota un parādīti nemainīti."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Neto vērtība",
+      "assets": "Aktīvi",
+      "income": "Ienākumi",
+      "real_estate": "Nekustamais īpašums"
+    },
+    "netWorthTimeline": "Neto vērtības dinamika",
+    "stocks": "Vērtspapīri / akcijas",
+    "realEstate": "Nekustamais īpašums",
+    "companies": "Uzņēmumi un līdzdalība",
+    "interests": "Interešu deklarācija",
+    "asOf": "stāvoklis uz {date}",
+    "declarationStatus": "Deklarācijas statuss"
+  },
+  "status": {
+    "fulfilled": "Izpildīts",
+    "broken": "Lauzts",
+    "in_progress": "Tiek pildīts",
+    "compromise": "Kompromiss",
+    "no_action": "Bez rīcības",
+    "unverified": "Nepārbaudīts"
+  },
+  "legalStatus": {
+    "no_charges": "Bez apsūdzības",
+    "ongoing": "Turpinās",
+    "concluded": "Noslēgts",
+    "in_court": "Tiesā",
+    "political": "Politiska rakstura",
+    "victim": "Cietušā puse",
+    "under_investigation": "Notiek izmeklēšana",
+    "awaiting_trial": "Gaida tiesu",
+    "party_matter": "Partijas iekšēja lieta",
+    "no_proceedings": "Bez tiesvedības",
+    "conviction": "Notiesāšana",
+    "noted": "Atzīmēts",
+    "unknown": "Nav zināms",
+    "appeal_pending": "Apelācija izskatīšanā",
+    "convicted": "Notiesājošs spriedums",
+    "acquitted": "Attaisnojošs spriedums",
+    "dismissed": "Lieta izbeigta",
+    "settled": "Izlīgums"
+  },
+  "assetStatus": {
+    "declared": "Deklarēts",
+    "estimated": "Aplēsts",
+    "historical": "Vēsturisks",
+    "divested": "Atsavināts",
+    "none": "Nekas nav deklarēts"
+  },
+  "justice": {
+    "intro": "Katrā ierakstā aprakstīta tiesas lieta un tās pašreizējais juridiskais statuss. Izmeklēšana un vēl neizskatītas lietas nenozīmē, ka ir konstatēts pārkāpums; līdz galīgajam tiesas nolēmumam ir spēkā nevainīguma prezumpcija.",
+    "outcome": "Iznākums:",
+    "keyFacts": "Galvenie fakti"
+  },
+  "polemics": {
+    "intro": "Katrā ierakstā apkopots publiski dokumentēts pretrunīgs gadījums un norādīts tā pašreizējais juridiskais vai politiskais statuss. Apraksti ir faktos balstīti un neitrāli; apvainojums nenozīmē, ka pārkāpums ir konstatēts.",
+    "statusLine": "Juridiskais/politiskais statuss:",
+    "keyFacts": "Galvenie fakti"
+  },
+  "legislation": {
+    "significance": "Nozīme:"
+  },
+  "honors": {
+    "exOfficio": "Pēc amata"
+  },
+  "electoral": {
+    "versus": "pret {opponent}"
+  },
+  "dates": {
+    "present": "šobrīd"
+  },
+  "sources": {
+    "title": "Avoti un atsauces",
+    "summary": "{sources} no {domains}",
+    "sourceCount": {
+      "zero": "{count} avotu",
+      "one": "{count} avots",
+      "other": "{count} avoti"
+    },
+    "domainCount": {
+      "zero": "{count} domēniem",
+      "one": "{count} domēna",
+      "other": "{count} domēniem"
+    },
+    "methodologyLabel": "Metodoloģija.",
+    "methodologySources": {
+      "france": "Dati apkopoti no oficiāliem avotiem (HATVP mantiskā stāvokļa deklarācijām, INSEE, Légifrance un valdības tīmekļvietnēm), kā arī no uzticamu mediju publikācijām.",
+      "switzerland": "Dati apkopoti no oficiāliem avotiem (Federālās asamblejas interešu reģistra, parlament.ch un federālo, kantonu un pašvaldību iestāžu tīmekļvietnēm), kā arī no Lobbywatch un uzticamu mediju publikācijām.",
+      "default": "Dati apkopoti no oficiāliem avotiem (parlamenta un valdības dokumentiem, oficiālajiem izdevumiem un publiskajām deklarācijām, ja valsts tās publicē), kā arī no uzticamu mediju publikācijām."
+    },
+    "methodologyStatuses": "Statusi atspoguļo pārbaudāmus rezultātus norādītajā datumā; apvainojumi ir skaidri apzīmēti kā apvainojumi, un ir norādīts to juridiskais statuss.",
+    "otherDomain": "citi",
+    "sections": {
+      "promises": "Solījumi",
+      "work_history": "Darba pieredze",
+      "finances": "Finanses",
+      "stocks": "Akcijas",
+      "real_estate": "Nekustamais īpašums",
+      "companies": "Uzņēmumi",
+      "controversies": "Pretrunīgi gadījumi",
+      "electoral_history": "Vēlēšanas",
+      "interests": "Intereses",
+      "education": "Izglītība",
+      "honors": "Apbalvojumi",
+      "key_legislation": "Tiesību akti",
+      "net_worth": "Neto vērtība",
+      "justice": "Tiesu lietas"
+    },
+    "linkLabel": {
+      "zero": "Avoti:",
+      "one": "Avots:",
+      "other": "Avoti:"
+    }
+  },
+  "promises": {
+    "all": "Visi",
+    "otherCategory": "Cits",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Nav uzraudzītu solījumu",
+    "emptyBody": "Vēl netiek uzraudzīts neviens priekšvēlēšanu vai programmas solījums, ko deva {name}. Ziņas par šīs personas darbību atrodamas sadaļās {background}, {legislation} un {controversies}.",
+    "contextLabel": "Konteksts.",
+    "campaignOnly": "{name} nekad neieņēma izpildvaras amatu. Šie ir priekšvēlēšanu solījumi, nevis īstenota politika, tāpēc katrs no tiem ir reģistrēts kā „{noAction}“, nevis kā izpildīts vai lauzts.",
+    "promised": "Solīts: {date}",
+    "confidenceValue": "{value} ticamība",
+    "filterLabel": "Filtrēt solījumus pēc statusa"
+  },
+  "promise": {
+    "breadcrumbFallback": "Solījums",
+    "verdict": "Verdikts",
+    "assessment": "Novērtējums",
+    "keyEvidence": "Galvenie pierādījumi",
+    "sourcesHeading": {
+      "zero": "Avoti",
+      "one": "Avots",
+      "other": "Avoti"
+    },
+    "primarySource": "Primārais avots",
+    "additionalSource": "Papildu avots",
+    "lastReviewed": "Pēdējā pārskatīšana: {date}",
+    "editoriallyReviewed": "Pārbaudījusi redakcija",
+    "notVerified": "Šis solījums vēl nav pārbaudīts."
+  },
+  "confidence": {
+    "label": "Ticamība"
+  }
+}
