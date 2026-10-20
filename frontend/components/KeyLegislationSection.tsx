@@ -1,12 +1,13 @@
 import { type KeyLegislationItem } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import type { I18nProps } from "@/lib/i18n/props";
 
 /** Landmark laws — area tag + year, description, and significance. */
 export default function KeyLegislationSection({
   items,
-}: {
-  items: KeyLegislationItem[];
-}) {
+  dict,
+  lang,
+}: { items: KeyLegislationItem[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ul className="space-y-3">
@@ -35,11 +36,13 @@ export default function KeyLegislationSection({
           )}
           {item.significance && (
             <p className="mt-2 text-sm leading-relaxed text-slate-600">
-              <span className="font-medium text-slate-700">Significance: </span>
+              <span className="font-medium text-slate-700">
+                {dict.legislation.significance}{" "}
+              </span>
               {item.significance}
             </p>
           )}
-          <SourceLinks urls={item.source_urls} />
+          <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
         </li>
       ))}
     </ul>

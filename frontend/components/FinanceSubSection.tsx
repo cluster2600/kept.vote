@@ -1,5 +1,6 @@
 import { assetStatusMeta } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import { badgeLabel, type I18nProps } from "@/lib/i18n/props";
 
 export interface AssetItem {
   id: string;
@@ -18,10 +19,12 @@ export interface AssetItem {
 export default function FinanceSubSection({
   title,
   items,
+  dict,
+  lang,
 }: {
   title?: string;
   items: AssetItem[];
-}) {
+} & I18nProps) {
   if (items.length === 0) return null;
   return (
     <div className={title ? "mt-6" : ""}>
@@ -52,10 +55,10 @@ export default function FinanceSubSection({
                 </div>
                 <span
                   className={`inline-flex shrink-0 items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-medium ${meta.badge}`}
-                  title="Declaration status"
+                  title={dict.finances.declarationStatus}
                 >
                   <span className={`h-2 w-2 rounded-full ${meta.dot}`} aria-hidden />
-                  {meta.label}
+                  {badgeLabel(meta, dict.assetStatus)}
                 </span>
               </div>
 
@@ -69,7 +72,7 @@ export default function FinanceSubSection({
                   {item.detail}
                 </p>
               )}
-              <SourceLinks urls={item.source_urls} />
+              <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
             </li>
           );
         })}

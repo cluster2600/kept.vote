@@ -1,6 +1,8 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
+  countryCodeOf,
   getPolitician,
   getSources,
   listCompanies,
@@ -37,16 +39,25 @@ import {
   type WorkHistoryItem,
 } from "@/lib/api";
 import TrackRecord from "@/components/TrackRecord";
-import PoliticianTabs from "@/components/PoliticianTabs";
+import PoliticianProfile from "@/components/PoliticianProfile";
+import { getDictionary } from "../../dictionaries";
+import { isLocale, localePath } from "@/lib/i18n/config";
+import { countryName, fmt, languageName, plural } from "@/lib/i18n/format";
+import { alternatesFor } from "@/lib/i18n/metadata";
 
 export const dynamic = "force-dynamic";
 
-export default async function PoliticianPage({
-  params,
-}: {
-  params: Promise<{ id: string }>;
-}) {
-  const { id } = await params;
+type Props = { params: Promise<{ lang: string; id: string }> };
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { lang, id } = await params;
+  return isLocale(lang) ? { alternates: alternatesFor(lang, `/politicians/${id}`) } : {};
+}
+
+export default async function PoliticianPage({ params }: Props) {
+  const { lang, id } = await params;
+  if (!isLocale(lang)) notFound();
+  const dict = await getDictionary(lang);
 
   // The core politician record is the only thing whose absence means "no such
   // page": a 404 here is a genuine not-found → render the 404 page.
@@ -103,14 +114,24 @@ export default async function PoliticianPage({
   ]);
 
   const counts = tally(promises);
+  const code = countryCodeOf(politician);
+  const country = (code && countryName(code, lang)) || politician.country;
+  const officeLabel = politician.office ? dict.office[politician.office] : null;
+  // Profile text stays in the language it was written in; say which one when
+  // it differs from the UI language.
+  const contentLang = politician.content_lang ?? null;
+  const contentLangName =
+    contentLang && contentLang.split("-")[0] !== lang
+      ? languageName(contentLang, lang)
+      : null;
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
       <Link
-        href="/"
+        href={localePath(lang)}
         className="text-sm font-medium text-blue-600 hover:text-blue-700"
       >
-        ← All politicians
+        {dict.politician.back}
       </Link>
 
       {/* Hero: identity + overall promise track record */}
@@ -118,11 +139,31 @@ export default async function PoliticianPage({
         <h1 className="text-2xl font-bold tracking-tight text-slate-900">
           {politician.name}
         </h1>
+        {(officeLabel || politician.role) && (
+          <p className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
+            {officeLabel && (
+              <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 text-xs font-medium text-slate-600">
+                {officeLabel}
+              </span>
+            )}
+            {politician.role && (
+              <span lang={contentLang ?? undefined}>{politician.role}</span>
+            )}
+          </p>
+        )}
         <p className="mt-1 text-sm text-slate-500">
-          {[politician.party, politician.country].filter(Boolean).join(" · ")}
+          {[politician.party, country].filter(Boolean).join(" · ")}
         </p>
+        {contentLangName && (
+          <p className="mt-3 inline-flex items-center rounded-full bg-sky-50 px-2.5 py-1 text-xs font-medium text-sky-700 ring-1 ring-inset ring-sky-600/20">
+            {fmt(dict.politician.contentLanguage, { language: contentLangName })}
+          </p>
+        )}
         {politician.bio && (
-          <p className="mt-3 text-sm leading-relaxed text-slate-600">
+          <p
+            className="mt-3 text-sm leading-relaxed text-slate-600"
+            lang={contentLang ?? undefined}
+          >
             {politician.bio}
           </p>
         )}
@@ -130,10 +171,10 @@ export default async function PoliticianPage({
         <div className="mt-5">
           <div className="mb-2 flex items-center justify-between">
             <span className="text-xs font-semibold uppercase tracking-wide text-slate-500">
-              Promise track record
+              {dict.politician.trackRecord}
             </span>
             <span className="text-xs text-slate-500">
-              {promises.length} promise{promises.length === 1 ? "" : "s"}
+              {plural(dict.home.promiseCount, promises.length, lang)}
             </span>
           </div>
           <TrackRecord
@@ -142,14 +183,18 @@ export default async function PoliticianPage({
             inProgress={counts.in_progress}
             compromise={counts.compromise}
             noAction={counts.no_action}
+            labels={dict.status}
             showLegend
           />
         </div>
       </div>
 
       {/* Tabbed, navigable profile (client) */}
-      <PoliticianTabs
+      <PoliticianProfile
+        dict={dict}
+        lang={lang}
         politicianName={politician.name}
+        countryCode={code}
         promises={promises}
         workHistory={workHistory}
         education={education}

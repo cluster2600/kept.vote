@@ -1,13 +1,30 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, type ReactNode } from "react";
 import {
   STATUS_META,
   type PromiseWithVerification,
   type VerificationStatus,
 } from "@/lib/api";
+import { fmt } from "@/lib/i18n/format";
 import PromiseRow from "@/components/PromiseRow";
 import TrackRecord from "@/components/TrackRecord";
+import type { StatusLabels } from "@/components/StatusBadge";
+
+/** A promise plus the strings the row displays, pre-formatted on the server
+ *  in the active locale (so no Intl formatting happens in the browser). */
+export interface PromiseView extends PromiseWithVerification {
+  dateLabel: string | null;
+  confidenceLabel: string | null;
+}
+
+export interface PromisesTabLabels {
+  status: StatusLabels;
+  all: string;
+  otherCategory: string;
+  filteredCount: string;
+  filterLabel: string;
+}
 
 type Filter = VerificationStatus | "all";
 
@@ -32,10 +49,18 @@ const zero = (): Counts => ({
  *  filter. Collapsed by default; a status filter auto-expands matching groups. */
 export default function PromisesTab({
   promises,
-  politicianName,
+  lang,
+  labels,
+  emptyState,
+  campaignNotice,
 }: {
-  promises: PromiseWithVerification[];
-  politicianName: string;
+  promises: PromiseView[];
+  lang: string;
+  labels: PromisesTabLabels;
+  /** Rendered when there are no promises at all. */
+  emptyState: ReactNode;
+  /** Context banner for campaign-only (non-officeholder) pledges. */
+  campaignNotice: ReactNode;
 }) {
   const [filter, setFilter] = useState<Filter>("all");
   const [expanded, setExpanded] = useState<Set<string>>(new Set());
@@ -50,9 +75,9 @@ export default function PromisesTab({
     promises.length > 0 && noActionCount / promises.length >= 0.9;
 
   const groups = useMemo(() => {
-    const map = new Map<string, PromiseWithVerification[]>();
+    const map = new Map<string, PromiseView[]>();
     for (const p of promises) {
-      const cat = p.category?.trim() || "Other";
+      const cat = p.category?.trim() || labels.otherCategory;
       const arr = map.get(cat) ?? [];
       arr.push(p);
       map.set(cat, arr);
@@ -62,12 +87,15 @@ export default function PromisesTab({
       for (const p of items) if (p.verification) counts[p.verification.status]++;
       return { category, items, counts };
     });
+    // A fixed collation locale keeps the order identical between the server
+    // render and hydration (category names are content, not UI strings).
     list.sort(
       (a, b) =>
-        b.items.length - a.items.length || a.category.localeCompare(b.category),
+        b.items.length - a.items.length ||
+        a.category.localeCompare(b.category, "en"),
     );
     return list;
-  }, [promises]);
+  }, [promises, labels.otherCategory]);
 
   const totalCounts = useMemo(() => {
     const c = zero();
@@ -75,7 +103,7 @@ export default function PromisesTab({
     return c;
   }, [promises]);
 
-  const matches = (p: PromiseWithVerification) =>
+  const matches = (p: PromiseView) =>
     filter === "all" || p.verification?.status === filter;
 
   function toggle(cat: string) {
@@ -87,39 +115,22 @@ export default function PromisesTab({
     });
   }
 
-  // No promises tracked (e.g. a sitting minister with no presidential
-  // platform): show a clear empty state instead of an empty filter/accordion UI.
-  if (promises.length === 0) {
-    return (
-      <div className="rounded-xl border border-dashed border-slate-300 bg-white p-6 text-sm leading-relaxed text-slate-600">
-        <p className="font-semibold text-slate-700">No tracked promises</p>
-        <p className="mt-1.5">
-          No presidential campaign promises are tracked for {politicianName} —
-          a government minister rather than a presidential candidate. Their
-          record is documented under <span className="font-medium">Background</span>,{" "}
-          <span className="font-medium">Key legislation</span> (within
-          Background), and <span className="font-medium">Controversies</span>.
-        </p>
-      </div>
-    );
-  }
+  // No promises tracked (e.g. a sitting minister with no campaign platform):
+  // show a clear empty state instead of an empty filter/accordion UI.
+  if (promises.length === 0) return <>{emptyState}</>;
 
   return (
     <div>
-      {campaignOnly && (
-        <div className="mb-4 rounded-lg border border-slate-200 bg-slate-50 px-4 py-3 text-sm leading-relaxed text-slate-600">
-          <span className="font-semibold text-slate-700">Context.</span>{" "}
-          {politicianName} has not held executive office. These are campaign
-          pledges, not enacted policy — so each is recorded as{" "}
-          <span className="font-medium">&ldquo;No Action&rdquo;</span> rather
-          than kept or broken.
-        </div>
-      )}
+      {campaignOnly && campaignNotice}
 
       {/* Status filter */}
-      <div className="mb-4 flex flex-wrap gap-2">
+      <div
+        className="mb-4 flex flex-wrap gap-2"
+        role="group"
+        aria-label={labels.filterLabel}
+      >
         <FilterChip
-          label="All"
+          label={labels.all}
           count={promises.length}
           active={filter === "all"}
           onClick={() => setFilter("all")}
@@ -127,7 +138,7 @@ export default function PromisesTab({
         {FILTER_ORDER.map((s) => (
           <FilterChip
             key={s}
-            label={STATUS_META[s].label}
+            label={labels.status[s]}
             count={totalCounts[s]}
             dot={STATUS_META[s].dot}
             active={filter === s}
@@ -161,7 +172,10 @@ export default function PromisesTab({
                   <span className="shrink-0 rounded-full bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-600">
                     {filter === "all"
                       ? g.items.length
-                      : `${visible.length} / ${g.items.length}`}
+                      : fmt(labels.filteredCount, {
+                          visible: visible.length,
+                          total: g.items.length,
+                        })}
                   </span>
                 </span>
                 <span className="hidden w-40 shrink-0 sm:block">
@@ -171,6 +185,7 @@ export default function PromisesTab({
                     inProgress={g.counts.in_progress}
                     compromise={g.counts.compromise}
                     noAction={g.counts.no_action}
+                    labels={labels.status}
                   />
                 </span>
               </button>
@@ -178,7 +193,7 @@ export default function PromisesTab({
                 <ul className="space-y-3 border-t border-slate-100 bg-slate-50/50 p-4">
                   {visible.map((p) => (
                     <li key={p.id}>
-                      <PromiseRow promise={p} />
+                      <PromiseRow promise={p} lang={lang} labels={labels.status} />
                     </li>
                   ))}
                 </ul>

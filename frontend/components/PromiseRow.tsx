@@ -1,18 +1,21 @@
 import Link from "next/link";
-import { formatDate, type PromiseWithVerification } from "@/lib/api";
-import StatusBadge from "@/components/StatusBadge";
+import StatusBadge, { type StatusLabels } from "@/components/StatusBadge";
+import type { PromiseView } from "@/components/PromisesTab";
 
 /** A single promise row linking to its detail page (status badge + confidence). */
 export default function PromiseRow({
   promise,
+  lang,
+  labels,
 }: {
-  promise: PromiseWithVerification;
+  promise: PromiseView;
+  lang: string;
+  labels: StatusLabels;
 }) {
   const v = promise.verification;
-  const date = formatDate(promise.date_made);
   return (
     <Link
-      href={`/promises/${promise.id}`}
+      href={`/${lang}/promises/${promise.id}`}
       className="block rounded-xl border border-slate-200 bg-white p-5 shadow-xs transition hover:border-slate-300 hover:shadow-md"
     >
       <div className="flex items-start justify-between gap-4">
@@ -24,7 +27,7 @@ export default function PromiseRow({
                 {promise.category}
               </span>
             )}
-            {date && <span>Promised {date}</span>}
+            {promise.dateLabel && <span>{promise.dateLabel}</span>}
           </p>
           {promise.description && (
             <p className="mt-2 line-clamp-2 text-sm text-slate-600">
@@ -33,10 +36,10 @@ export default function PromiseRow({
           )}
         </div>
         <div className="flex shrink-0 flex-col items-end gap-2">
-          <StatusBadge status={v?.status ?? null} />
-          {v && (
+          <StatusBadge status={v?.status ?? null} labels={labels} />
+          {promise.confidenceLabel && (
             <span className="text-xs tabular-nums text-slate-400">
-              {Math.round(v.confidence_score * 100)}% confidence
+              {promise.confidenceLabel}
             </span>
           )}
         </div>

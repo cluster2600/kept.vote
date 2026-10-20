@@ -1,27 +1,27 @@
 import { polemicStatusMeta, type Polemic } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import { badgeLabel, type I18nProps } from "@/lib/i18n/props";
 
 /** Controversies, presented neutrally. Description, key facts and the legal/
  *  political status are shown verbatim; the status badge is shown prominently
  *  so allegations are never presented as settled fact. */
-export default function PolemicsSection({ items }: { items: Polemic[] }) {
+export default function PolemicsSection({
+  items,
+  dict,
+  lang,
+}: { items: Polemic[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <div className="space-y-4">
       <p className="rounded-lg border border-slate-200 bg-slate-50 px-4 py-3 text-xs leading-relaxed text-slate-500">
-        Each entry summarises a publicly documented controversy and shows its
-        current legal or political status. Descriptions are factual and neutral;
-        an allegation is not a finding of wrongdoing.
+        {dict.polemics.intro}
       </p>
       {items.map((item) => {
         const meta = polemicStatusMeta(item.status);
-        // When the raw status carries more than the concise badge label (e.g. a
+        // When the badge was derived from a longer free-text status (e.g. a
         // verbatim "preliminary investigation; presumption of innocence applies"
         // sentence), show it in full so the exact legal framing isn't lost.
-        const statusLine =
-          item.status && item.status.trim().length > meta.label.length + 2
-            ? item.status.trim()
-            : null;
+        const statusLine = meta.derived && item.status ? item.status.trim() : null;
         return (
           <article
             key={item.id}
@@ -44,14 +44,14 @@ export default function PolemicsSection({ items }: { items: Polemic[] }) {
                 className={`inline-flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium ${meta.badge}`}
               >
                 <span className={`h-2 w-2 rounded-full ${meta.dot}`} aria-hidden />
-                {meta.label}
+                {badgeLabel(meta, dict.legalStatus)}
               </span>
             </div>
 
             {statusLine && (
               <p className="mt-2 text-xs leading-relaxed text-slate-500">
                 <span className="font-semibold text-slate-600">
-                  Legal/political status:{" "}
+                  {dict.polemics.statusLine}{" "}
                 </span>
                 {statusLine}
               </p>
@@ -66,7 +66,7 @@ export default function PolemicsSection({ items }: { items: Polemic[] }) {
             {item.key_facts && item.key_facts.length > 0 && (
               <div className="mt-3">
                 <h4 className="text-xs font-semibold uppercase tracking-wide text-slate-500">
-                  Key facts
+                  {dict.polemics.keyFacts}
                 </h4>
                 <ul className="mt-1.5 space-y-1.5">
                   {item.key_facts.map((fact, i) => (
@@ -85,7 +85,7 @@ export default function PolemicsSection({ items }: { items: Polemic[] }) {
               </div>
             )}
 
-            <SourceLinks urls={item.source_urls} />
+            <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
           </article>
         );
       })}

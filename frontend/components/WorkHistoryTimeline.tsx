@@ -1,18 +1,20 @@
-import { prettyDate, type WorkHistoryItem } from "@/lib/api";
+import { type WorkHistoryItem } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import { prettyDate } from "@/lib/i18n/format";
+import type { I18nProps } from "@/lib/i18n/props";
 
 /** A vertical, reverse-chronological career timeline. */
 export default function WorkHistoryTimeline({
   items,
-}: {
-  items: WorkHistoryItem[];
-}) {
+  dict,
+  lang,
+}: { items: WorkHistoryItem[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ol className="relative space-y-6 border-l border-slate-200 pl-6">
       {items.map((item) => {
-        const start = prettyDate(item.start_date);
-        const end = prettyDate(item.end_date);
+        const start = prettyDate(item.start_date, lang, dict.dates.present);
+        const end = prettyDate(item.end_date, lang, dict.dates.present);
         const range = [start, end].filter(Boolean).join(" – ");
         const ongoing = (item.end_date ?? "").toLowerCase() === "present";
         return (
@@ -42,7 +44,7 @@ export default function WorkHistoryTimeline({
                 {item.description}
               </p>
             )}
-            <SourceLinks urls={item.source_urls} />
+            <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
           </li>
         );
       })}
