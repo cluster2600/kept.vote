@@ -18,14 +18,15 @@ export const dynamic = "force-dynamic";
 export default async function PromisePage({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }) {
+  const { id } = await params;
   let promise: PromiseRecord;
   let verification: Verification | null;
   try {
     [promise, verification] = await Promise.all([
-      getPromise(params.id),
-      getPromiseVerification(params.id),
+      getPromise(id),
+      getPromiseVerification(id),
     ]);
   } catch (e) {
     if (e instanceof NotFoundError) notFound();
@@ -73,11 +74,11 @@ export default async function PromisePage({
       </nav>
 
       {/* Promise + verdict */}
-      <article className="mt-4 overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
+      <article className="mt-4 overflow-hidden rounded-xl border border-slate-200 bg-white shadow-xs">
         <div className="border-b border-slate-100 p-6">
           <div className="flex flex-wrap items-center gap-2 text-xs text-slate-500">
             {promise.category && (
-              <span className="rounded bg-slate-100 px-2 py-0.5 font-medium text-slate-600">
+              <span className="rounded-sm bg-slate-100 px-2 py-0.5 font-medium text-slate-600">
                 {promise.category}
               </span>
             )}

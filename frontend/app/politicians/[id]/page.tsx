@@ -44,13 +44,15 @@ export const dynamic = "force-dynamic";
 export default async function PoliticianPage({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }) {
+  const { id } = await params;
+
   // The core politician record is the only thing whose absence means "no such
   // page": a 404 here is a genuine not-found → render the 404 page.
   let politician: Politician;
   try {
-    politician = await getPolitician(params.id);
+    politician = await getPolitician(id);
   } catch (e) {
     if (e instanceof NotFoundError) notFound();
     throw e;
@@ -61,7 +63,7 @@ export default async function PoliticianPage({
   // NEVER blank the whole page — degrade it to empty and still render the rest.
   const safe = <T,>(p: Promise<T>, fallback: T): Promise<T> =>
     p.catch((err) => {
-      console.error(`[politician ${params.id}] section fetch failed:`, err);
+      console.error(`[politician ${id}] section fetch failed:`, err);
       return fallback;
     });
   const emptySources: SourcesResponse = { total: 0, domain_count: 0, sources: [] };
@@ -83,21 +85,21 @@ export default async function PoliticianPage({
     netWorth,
     justice,
   ] = await Promise.all([
-    safe(listPoliticianPromises(params.id), [] as PromiseWithVerification[]),
-    safe(listWorkHistory(params.id), [] as WorkHistoryItem[]),
-    safe(listFinances(params.id), [] as FinanceEntry[]),
-    safe(listPolemics(params.id), [] as Polemic[]),
-    safe(listStocks(params.id), [] as StockHolding[]),
-    safe(listRealEstate(params.id), [] as RealEstate[]),
-    safe(listCompanies(params.id), [] as Company[]),
-    safe(getSources(params.id), emptySources),
-    safe(listElectoralHistory(params.id), [] as ElectoralHistoryItem[]),
-    safe(listInterests(params.id), [] as Interest[]),
-    safe(listEducation(params.id), [] as EducationItem[]),
-    safe(listHonors(params.id), [] as Honor[]),
-    safe(listKeyLegislation(params.id), [] as KeyLegislationItem[]),
-    safe(listNetWorth(params.id), [] as NetWorthPoint[]),
-    safe(listJustice(params.id), [] as JusticeCase[]),
+    safe(listPoliticianPromises(id), [] as PromiseWithVerification[]),
+    safe(listWorkHistory(id), [] as WorkHistoryItem[]),
+    safe(listFinances(id), [] as FinanceEntry[]),
+    safe(listPolemics(id), [] as Polemic[]),
+    safe(listStocks(id), [] as StockHolding[]),
+    safe(listRealEstate(id), [] as RealEstate[]),
+    safe(listCompanies(id), [] as Company[]),
+    safe(getSources(id), emptySources),
+    safe(listElectoralHistory(id), [] as ElectoralHistoryItem[]),
+    safe(listInterests(id), [] as Interest[]),
+    safe(listEducation(id), [] as EducationItem[]),
+    safe(listHonors(id), [] as Honor[]),
+    safe(listKeyLegislation(id), [] as KeyLegislationItem[]),
+    safe(listNetWorth(id), [] as NetWorthPoint[]),
+    safe(listJustice(id), [] as JusticeCase[]),
   ]);
 
   const counts = tally(promises);
@@ -112,7 +114,7 @@ export default async function PoliticianPage({
       </Link>
 
       {/* Hero: identity + overall promise track record */}
-      <div className="mt-4 rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+      <div className="mt-4 rounded-xl border border-slate-200 bg-white p-6 shadow-xs">
         <h1 className="text-2xl font-bold tracking-tight text-slate-900">
           {politician.name}
         </h1>

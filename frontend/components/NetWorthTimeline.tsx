@@ -17,7 +17,7 @@ export default function NetWorthTimeline({
         return (
           <li key={item.id} className="relative">
             <span
-              className="absolute -left-[1.65rem] top-1.5 h-2.5 w-2.5 rounded-full bg-blue-600 ring-4 ring-white"
+              className="absolute left-[-1.65rem] top-1.5 h-2.5 w-2.5 rounded-full bg-blue-600 ring-4 ring-white"
               aria-hidden
             />
             <div className="flex flex-wrap items-baseline justify-between gap-x-3">

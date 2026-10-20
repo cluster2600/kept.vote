@@ -13,7 +13,7 @@ export default function EducationSection({
       {items.map((item) => (
         <li
           key={item.id}
-          className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm"
+          className="rounded-xl border border-slate-200 bg-white p-4 shadow-xs"
         >
           <div className="flex flex-wrap items-baseline justify-between gap-x-3">
             <h3 className="font-semibold text-slate-900">{item.institution}</h3>

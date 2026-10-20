@@ -33,11 +33,11 @@ export default function FinancesSection({ items }: { items: FinanceEntry[] }) {
         {items.map((item) => (
           <li
             key={item.id}
-            className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm"
+            className="rounded-xl border border-slate-200 bg-white p-4 shadow-xs"
           >
             <div className="flex items-center justify-between gap-2">
               {typeLabel(item.type) && (
-                <span className="rounded bg-slate-100 px-1.5 py-0.5 text-xs font-medium text-slate-600">
+                <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 text-xs font-medium text-slate-600">
                   {typeLabel(item.type)}
                 </span>
               )}

@@ -36,14 +36,14 @@ export default function FinanceSubSection({
           return (
             <li
               key={item.id}
-              className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm"
+              className="rounded-xl border border-slate-200 bg-white p-4 shadow-xs"
             >
               <div className="flex flex-wrap items-start justify-between gap-2">
                 <div className="min-w-0">
                   <p className="font-semibold text-slate-900">{item.heading}</p>
                   <p className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-500">
                     {item.subtitle && (
-                      <span className="rounded bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
+                      <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
                         {item.subtitle}
                       </span>
                     )}

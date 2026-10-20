@@ -117,7 +117,7 @@ export default function PoliticianTabs(props: PoliticianTabsProps) {
   return (
     <div className="mt-6">
       {/* Sticky tab bar — scrolls horizontally on small screens. */}
-      <div className="sticky top-[60px] z-20 -mx-4 border-b border-slate-200 bg-slate-50/95 px-4 backdrop-blur">
+      <div className="sticky top-[60px] z-20 -mx-4 border-b border-slate-200 bg-slate-50/95 px-4 backdrop-blur-sm">
         <nav
           className="flex gap-1 overflow-x-auto"
           aria-label="Profile sections"

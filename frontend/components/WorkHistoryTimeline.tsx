@@ -19,7 +19,7 @@ export default function WorkHistoryTimeline({
           <li key={item.id} className="relative">
             {/* node */}
             <span
-              className={`absolute -left-[1.65rem] top-1.5 h-2.5 w-2.5 rounded-full ring-4 ring-white ${
+              className={`absolute left-[-1.65rem] top-1.5 h-2.5 w-2.5 rounded-full ring-4 ring-white ${
                 ongoing ? "bg-blue-600" : "bg-slate-300"
               }`}
               aria-hidden
