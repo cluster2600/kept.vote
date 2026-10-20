@@ -1,0 +1,150 @@
+[
+  {
+    "id": "andrej-babis-polemic-agrofert-conflict-of-interest",
+    "title": "Agrofert conflict of interest and the RSVP Trust",
+    "period": "2014–present",
+    "category": "conflict_of_interest",
+    "description": "Babiš's ownership of Agrofert, one of the largest Czech holdings and a major recipient of agricultural and EU subsidies, has been disputed since he entered government in 2014. After a 2017 amendment to the Czech conflict-of-interest act (dubbed 'lex Babiš') he placed Agrofert and SynBiol in two trust funds; the European Commission's final audit of April 2021 concluded that he still controlled the funds and was in a conflict of interest. Before appointing him in December 2025, President Petr Pavel required him to state publicly how he would resolve the conflict; Babiš announced on 4 December 2025 an irrevocable transfer of Agrofert to an independent trust, and the shares were registered to the trustee of RSVP TRUST on 20 February 2026. In May 2026 the Commission suspended reimbursement of some EU funds for Agrofert-linked companies, and on 8 September 2026 it said the trust 'does not sufficiently mitigate' a potential conflict of interest, notably because as prime minister he proposes the appointment and dismissal of ministers. Babiš rejects this, saying he does not own Agrofert, will never own it again and receives no benefit from it. As of October 2026 the dispute is unresolved.",
+    "status": "ongoing",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Commercial Register: Babiš recorded as Agrofert's sole shareholder 2005–2017 and again from 15 October 2025; since 20 February 2026 the sole shareholder is the trustee of RSVP TRUST, soukromý svěřenský fond.",
+      "Babiš declared a 2025 Agrofert dividend of about CZK 4.25 bn net (CZK 5 bn gross), paid before the transfer to the trust.",
+      "The trust statutes have not been published; Seznam Zprávy reported they hand control to his children after he leaves office (as reported by Reuters).",
+      "European Commission, 8 September 2026: expenditure since 9 December 2025 involving entities linked to Babiš may not be declared for EU cohesion and rural-development reimbursement; direct CAP payments excluded.",
+      "Coalition MPs filed an amendment to the conflict-of-interest act in June 2026 that would limit the subsidy ban for firms owned by cabinet members to their own ministry's programmes; it reached first reading in October 2026 amid opposition criticism.",
+      "Babiš kept his separate holding SynBiol outside the trust."
+    ],
+    "source_url": [
+      "https://euperspectives.eu/2026/09/babis-rejects-eu-agrofert-conflict-concerns/",
+      "https://english.radio.cz/european-commission-says-agrofert-trust-fails-resolve-babis-conflict-interest-8898054",
+      "https://brnodaily.com/2025/12/05/news/politics/babis-to-be-appointed-prime-minister-on-9-december-after-announcing-handover-of-agrofert/",
+      "https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=525681&typ=UPLNY",
+      "https://www.novinky.cz/zahranicni/evropa/clanek/definitivni-verdikt-evropske-komise-babis-je-ve-stretu-zajmu-agrofert-nema-narok-na-dotace-40358125",
+      "https://zpravy.aktualne.cz/domaci/turek-a-vondracek-stvorili-mekci-lex-babis-v-cem-spociva-pomoc-premierovi/r~aaa295f1966e923c7253fb2d6ccb7680",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-loni-dostal-od-agrofertu-dividendu-425-miliardy-korun-pise-idnes-375138",
+      "https://www.seznamzpravy.cz/clanek/domaci-kauzy-eu-pozastavila-dotace-pro-firmy-spojene-s-babisem-platilo-by-je-cesko-306963"
+    ]
+  },
+  {
+    "id": "andrej-babis-polemic-immunity-capi-hnizdo",
+    "title": "Refusal to be released for prosecution in the Čapí hnízdo case",
+    "period": "January–March 2026",
+    "category": "rule_of_law",
+    "description": "After the October 2025 election restored his parliamentary immunity, the Prague Municipal Court asked the Chamber of Deputies to allow his prosecution in the Čapí hnízdo subsidy case to continue. Babiš said in January 2026 that he would not consent, arguing that some judges take politically motivated decisions, and asked MPs not to release him. On 5 March 2026 the Chamber, following its mandate and immunity committee, declined the request: 104 of the 186 MPs present, including all coalition MPs present, backed the committee's recommendation. Opposition leaders said the decision undermined trust in the courts, Transparency International called it a decline in political culture, and former Prime Minister Petr Fiala said a politician charged with a serious crime should resign. Babiš calls the case politically motivated ('If I hadn't gone into politics, no one would have heard of Čapí hnízdo'). The procedural consequences are described in the justice record.",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Court request sent on 9 October 2025; mandate and immunity committee recommended not to release him on 17 February 2026.",
+      "Plenary vote on 5 March 2026 after about ten hours of debate; a Pirate motion for a secret ballot failed.",
+      "The same session also refused to release Speaker Tomio Okamura (SPD) in a separate case.",
+      "STAN announced a proposal to narrow parliamentary immunity."
+    ],
+    "source_url": [
+      "https://brnodaily.com/2026/03/06/news/politics/czech-parliament-votes-against-releasing-babis-and-okamura-for-prosecution/",
+      "https://english.radio.cz/czech-mps-debate-requests-lift-immunity-babis-and-okamura-pm-urges-lawmakers-8879617",
+      "https://english.radio.cz/transparency-international-sees-decision-not-prosecute-babis-a-decline-political-8879824",
+      "https://english.radio.cz/lower-house-debates-confidence-vote-babis-rejects-prosecution-request-8874654"
+    ]
+  },
+  {
+    "id": "andrej-babis-polemic-pandora-papers-bigaud",
+    "title": "Pandora Papers: purchase of the Château Bigaud estate in France",
+    "period": "2009–present (revealed October 2021)",
+    "category": "financial",
+    "description": "On 3 October 2021, days before the Czech parliamentary election, the International Consortium of Investigative Journalists' Pandora Papers reported that in 2009 Babiš, then not yet in government, had used a chain of offshore companies in the British Virgin Islands, the United States and Monaco, and a loan structure, to move about EUR 15 million for the purchase of the Château Bigaud and neighbouring properties in Mougins on the French Riviera, holdings that, according to the reporting, he had not listed in his declarations as a politician. Babiš denied wrongdoing, said the funds had been properly taxed, lent by a Czech bank and repaid, and called the publication an attempt to influence the election. French authorities subsequently opened a money-laundering investigation (see justice record); in August 2024 the estate was reported to be listed for sale at EUR 22.5 million.",
+    "status": "judicial",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Reported structure: Blakey Finance (BVI) → Boyne Holding (Washington, D.C.) → SCP Bigaud (Monaco), which bought the estate.",
+      "The estate later passed into the SynBiol group via Imoba, according to Czech reporting on SynBiol's 2018 annual report.",
+      "French investigators completed their inquiry and returned the file to the National Financial Prosecutor's Office in May 2026; no charges had been reported."
+    ],
+    "source_url": [
+      "https://www.icij.org/investigations/pandora-papers/czech-prime-minister-andrej-babis-french-property/",
+      "https://www.theguardian.com/news/2021/oct/03/revealed-czech-pm-used-offshore-companies-to-buy-13m-french-mansion",
+      "https://www.seznamzpravy.cz/clanek/domaci-kauzy-francouzska-policie-uzavrela-vysetrovani-kauzy-babisova-panstvi-305961",
+      "https://vsquare.org/andrej-babis-investigation-france-millions-chateau-pandora-papers/",
+      "https://cs.wikipedia.org/wiki/Pandora_Papers"
+    ]
+  },
+  {
+    "id": "andrej-babis-polemic-stb-registration",
+    "title": "Registration as StB agent 'Bureš'",
+    "period": "1980s; litigation 2012–2024",
+    "category": "historical",
+    "description": "Records held by Slovakia's Nation's Memory Institute (ÚPN) list Babiš, who joined the Communist Party of Czechoslovakia in 1980 while working at the state trading company Chemapol/Petrimex, as a confidant and from 1982 an agent of the communist secret police (StB) under the code name 'Bureš'. Babiš denies that he knowingly collaborated. His lawsuit over the listing ran through Slovak courts for over a decade and ended in October 2024 with a settlement with the Slovak Interior Ministry, which stated that he had been wrongly registered and had not knowingly cooperated; the then Czech prime minister Petr Fiala called it a 'political deal'. ÚPN, which was not a party to the settlement, said in June 2025 that it still lists him as an agent.",
+    "status": "political",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "The former StB officer named in the files testified for Babiš in court that the recruitment record was untrue; the Slovak Constitutional Court in 2017 questioned the credibility of such testimony.",
+      "The Slovak Interior Ministry justified the settlement by legal analyses pointing to a high risk of losing the case.",
+      "Under the settlement Babiš waived damages and withdrew complaints to the European Court of Human Rights."
+    ],
+    "source_url": [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/slovenske-ministerstvo-uvedlo-ze-babis-vedome-nespolupracoval-s-stb-354174",
+      "https://www.pravda.sk/spravy/domace/clanok/754487-babis-zostava-v-archivoch-stb-ako-agent-upn-zmier-so-statom-na-tom-nic-nemeni",
+      "https://ct24.ceskatelevize.cz/clanek/svet/babis-definitivne-prohral-soud-se-slovenskymi-historiky-zda-byl-ve-svazcich-stb-opravnene-85988"
+    ]
+  },
+  {
+    "id": "andrej-babis-polemic-public-media-funding",
+    "title": "Public-broadcasting funding reform and mass protests",
+    "period": "2026–present",
+    "category": "media_freedom",
+    "description": "The government's plan to abolish licence fees and fund Czech Television and Czech Radio directly from the state budget, with about CZK 1.4 billion less for ČT and CZK 400 million less for ČRo than under current fee income according to the April 2026 draft, became the main focus of protests against the Babiš government. An estimated 200,000–250,000 people (organisers' figure) rallied on Prague's Letná plain on 21 March 2026, students demonstrated nationwide on 22 April, further rallies took place in May, and broadcaster staff held a one-day strike on 22 June 2026. Critics warn the change exposes the broadcasters to political pressure; the government says it relieves citizens and firms of the fees, that the broadcasters' independence will be preserved and that the Supreme Audit Office will gain audit powers over them. Foreign Minister Petr Macinka called the Letná rally an 'agitational action'. The bill was awaiting its first reading in the Chamber in September 2026.",
+    "status": "ongoing",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Cabinet approved the bill on 15 June 2026 with fixed contributions of CZK 5.74 bn (ČT) and CZK 2.065 bn (ČRo).",
+      "Organiser of the Letná rally: Million Moments for Democracy.",
+      "ČT and ČRo unions declared a strike alert in April 2026."
+    ],
+    "source_url": [
+      "https://english.radio.cz/calls-defend-public-media-letna-protest-draws-large-crowds-8881334",
+      "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-navrh-na-zmenu-financovani-ceske-televize-a-ceskeho-rozhlasu-227533/",
+      "https://www.respekt.cz/informacni-servis/vlada-schvalila-zruseni-verejnopravnich-poplatku-z-rozpoctu-jim-da-o-1-4-miliardy-mene-2026-06-15-15-30",
+      "https://www.theguardian.com/world/2026/jun/22/czech-television-radio-public-broadcasters-strike-industrial-action-funding-plans",
+      "https://www.lupa.cz/clanky/zacina-parlamentni-bitva-o-poplatky-jejich-zruseni-se-muze-odlozit/"
+    ]
+  },
+  {
+    "id": "andrej-babis-polemic-nato-summit-competence-dispute",
+    "title": "Competence dispute with President Pavel over the NATO summit delegation",
+    "period": "April 2026–present",
+    "category": "institutional",
+    "description": "Relations between the government and President Petr Pavel deteriorated after Pavel declined to appoint Filip Turek (nominated by Motoristé) as a minister and, in January 2026, described messages from Foreign Minister Petr Macinka on the matter as blackmail (police shelved the matter, non-finally, in April 2026). In April 2026 Babiš announced that he, Macinka and Defence Minister Jaromír Zůna would represent the country at the NATO summit in Ankara (7–8 July 2026), and a government resolution of 22 June 2026 left the president out of the delegation, breaking with the practice followed by previous presidents. Babiš denied acting against the president, calling the decision 'purely practical' because the government had to defend Czech defence spending at the summit. Pavel filed a competence suit (Pl. ÚS 16/26); on 24 June 2026 the Constitutional Court issued an interim measure ordering the government to notify NATO that the president is part of the official delegation and not to obstruct his participation, stressing that this did not prejudge the final ruling. No final judgment had been reported at the time of research.",
+    "status": "judicial",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "Babiš and Pavel met on 8 May 2026 without reaching agreement.",
+      "Two Constitutional Court judges (Wintr, Řepková) dissented from the interim measure.",
+      "Foreign Minister Macinka argued that foreign policy is determined by the government and that the Czech Republic is not a presidential republic."
+    ],
+    "source_url": [
+      "https://www.usoud.cz/aktualne/ustavni-soud-vydal-procesni-rozhodnuti-v-rizeni-o-kompetencnim-sporu-mezi-prezidentem-republiky-a-vladou-konecne-rozhodnuti-sporu-lze-ocekavat-v-radech-mesicu",
+      "https://www.euronews.com/my-europe/2026/06/23/czech-president-appeals-to-constitutional-court-amid-clash-over-nato-summit",
+      "https://english.radio.cz/czech-president-considers-criminal-charges-against-foreign-minister-8875871",
+      "https://en.wikipedia.org/wiki/Third_cabinet_of_Andrej_Babi%C5%A1"
+    ]
+  },
+  {
+    "id": "andrej-babis-polemic-fau-recording",
+    "title": "FAU case: 'naši na FAU zaklekli' recording",
+    "period": "2017–present",
+    "category": "abuse_of_office_allegation",
+    "description": "In August 2017 an anonymous account published a recording in which Babiš, then Minister of Finance, said of the Opava fuel trader FAU 'naši na FAU zaklekli' (roughly 'our people came down on FAU'). The tax and customs authorities had issued security orders against the company over roughly CZK 217 million of not-yet-assessed VAT in a suspected fuel-tax fraud; FAU, which had a warehouse at the site of the Agrofert-owned chemical plant Precheza, ended in insolvency, and courts later criticised parts of the authorities' approach. On 22 June 2026 the Regional Court in Olomouc acquitted FAU, another company and 13 people of tax evasion, finding that an offence probably occurred but that the defendants' guilt was not proven; the verdict is not final and the prosecutor appealed. The publication of the written judgment in September 2026 revived opposition demands for accountability. Babiš and Finance Minister Alena Schillerová (his deputy at the time) deny any improper interference, and Babiš says FAU was not an Agrofert competitor.",
+    "status": "political",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "This profile found no report of criminal proceedings against Babiš or Schillerová in connection with FAU.",
+      "The Olomouc verdict concerned the alleged tax fraud, not the conduct of the authorities.",
+      "Schillerová said in 2026 the tax administration acts lawfully and she plans no investigation."
+    ],
+    "source_url": [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/kauza-fau-opozice-tepe-postup-uradu-z-doby-kdy-byl-babis-ministrem-378012",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/soud-zprostil-13-lidi-a-dve-firmy-v-kauze-ctvrtmiliardoveho-kraceni-dani-374825",
+      "https://www.ceskenoviny.cz/zpravy/2883185"
+    ]
+  }
+]
