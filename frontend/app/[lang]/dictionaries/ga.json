@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "title": "kept.vote — ag rianú gealltanas polaitiúil",
+    "description": "Rianaire neamhpháirtíneach gealltanas polaitiúil: na gealltanais a comhlíonadh, na cinn a briseadh agus na cinn atá fós idir lámha — mar aon le foinsí."
+  },
+  "header": {
+    "home": "kept.vote — an leathanach baile",
+    "politicians": "Polaiteoirí",
+    "methodology": "Modheolaíocht",
+    "language": "Teanga"
+  },
+  "footer": {
+    "methodologyTitle": "Modheolaíocht",
+    "methodologyBody": "Déantar gach gealltanas a mheas i gcomparáid le príomhfhoinsí — dlíthe, taifid oifigiúla agus sonraí rialtais — agus sanntar ceann de na stádais seo a leanas dó: {kept}, {broken}, {inProgress} nó {noAction}. Léiríonn scór muiníne cé chomh láidir is atá an fhianaise atá ar fáil. Tá naisc ó gach breithiúnas chuig a fhoinsí, ionas gur féidir leat féin an taifead a sheiceáil.",
+    "tagline": "kept.vote — rianaire neamhpháirtíneach gealltanas. Fréamhshamhail."
+  },
+  "home": {
+    "eyebrow": "Rianaire gealltanas",
+    "title": "Ar choinnigh siad a bhfocal?",
+    "intro": "Déanann kept.vote comparáid idir an méid a gheall polaiteoirí agus an méid a rinne siad i ndáiríre — comhlíonta, briste nó fós idir lámha — agus tá gach breithiúnas bunaithe ar phríomhfhoinsí.",
+    "stats": {
+      "politicians": "Polaiteoirí",
+      "promises": "Gealltanais á rianú",
+      "verified": "Fíoraithe"
+    },
+    "politiciansHeading": "Polaiteoirí",
+    "countryFilterLabel": "Scag de réir tíre",
+    "allCountries": "Gach tír",
+    "otherCountry": "Eile",
+    "politicianCount": {
+      "one": "{count} pholaiteoir",
+      "two": "{count} pholaiteoir",
+      "few": "{count} pholaiteoir",
+      "many": "{count} bpolaiteoir",
+      "other": "{count} polaiteoir"
+    },
+    "promiseCount": {
+      "one": "{count} ghealltanas",
+      "two": "{count} ghealltanas",
+      "few": "{count} ghealltanas",
+      "many": "{count} ngealltanas",
+      "other": "{count} gealltanas"
+    },
+    "profileBadge": "Próifíl",
+    "noVerifiedYet": "Níl aon ghealltanas fíoraithe fós",
+    "viewDossier": "Féach ar an gcomhad",
+    "noneInCountry": "Níl aon pholaiteoir á rianú don tír seo fós.",
+    "emptyState": "Níl aon pholaiteoir ann fós. Rith an script síolaithe chun sonraí taispeána a lódáil:",
+    "connectionErrorTitle": "Theip ar an gceangal leis an API cúlchórais.",
+    "connectionErrorBody": "Cinntigh go bhfuil an cúlchóras FastAPI ag rith agus go bhfuil {envVar} dírithe air."
+  },
+  "office": {
+    "head_of_state": "Ceann stáit",
+    "head_of_government": "Ceann rialtais",
+    "minister": "Aire",
+    "legislator": "Reachtóir",
+    "mayor": "Méara",
+    "regional_executive": "Feidhmeannach réigiúnach",
+    "party_leader": "Ceannaire páirtí",
+    "other": "Oifig eile"
+  },
+  "notFound": {
+    "title": "Níor aimsíodh",
+    "body": "Níor éirigh linn an rud a bhí uait a aimsiú.",
+    "back": "Ar ais chuig na polaiteoirí"
+  },
+  "politician": {
+    "back": "← Na polaiteoirí go léir",
+    "trackRecord": "Taifead comhlíonta gealltanas",
+    "contentLanguage": "Teanga na próifíle: {language}",
+    "tabsLabel": "Codanna den phróifíl",
+    "tabs": {
+      "promises": "Gealltanais",
+      "background": "Cúlra",
+      "finances": "Airgeadas",
+      "justice": "Cásanna dlí",
+      "controversies": "Conspóidí",
+      "sources": "Foinsí"
+    },
+    "background": {
+      "electoral": "Stair toghchánaíochta",
+      "work": "Stair oibre",
+      "education": "Oideachas",
+      "legislation": "Príomhreachtaíocht",
+      "honors": "Onóracha agus gradaim"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Atáirgtear na figiúirí díreach mar a dearbhaíodh iad — tá a bhformhór bunaithe ar na dearbhuithe oifigiúla a cuireadh faoi bhráid {hatvp} na Fraince (an tArdúdarás um Thrédhearcacht sa tSaol Poiblí). Is ón bhfoinse a thagann focail ar nós “dearbhaithe” nó “thart ar”, agus taispeántar iad gan athrú.",
+      "switzerland": "Níl aon chóras poiblí ag an Eilvéis chun sócmhainní a sealbhóirí oifige a dhearbhú, mar sin ní thaispeántar figiúirí ach amháin nuair a tuairiscíodh go poiblí iad. Is ó chlár leasanna na parlaiminte agus ó Lobbywatch a thagann an fhaisnéis faoi shainorduithe agus faoi leasanna. Is ón bhfoinse a thagann focail ar nós “dearbhaithe” nó “thart ar”, agus taispeántar iad gan athrú.",
+      "default": "Atáirgtear na figiúirí díreach mar a dearbhaíodh iad, ó dhearbhuithe poiblí oifigiúla sna tíortha a fhoilsíonn iad; mura bhfoilsíonn an tír iad, fágtar an chuid seo folamh. Is ón bhfoinse a thagann focail ar nós “dearbhaithe” nó “thart ar”, agus taispeántar iad gan athrú."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Glanfhiúchas",
+      "assets": "Sócmhainní",
+      "income": "Ioncam",
+      "real_estate": "Réadmhaoin"
+    },
+    "netWorthTimeline": "Amlíne an ghlanfhiúchais",
+    "stocks": "Urrúis / Scairshealúchais",
+    "realEstate": "Réadmhaoin",
+    "companies": "Cuideachtaí agus úinéireacht",
+    "interests": "Dearbhú leasanna",
+    "asOf": "amhail ar {date}",
+    "declarationStatus": "Stádas an dearbhaithe"
+  },
+  "status": {
+    "fulfilled": "Comhlíonta",
+    "broken": "Briste",
+    "in_progress": "Idir lámha",
+    "compromise": "Comhréiteach",
+    "no_action": "Gan ghníomh",
+    "unverified": "Neamhfhíoraithe"
+  },
+  "legalStatus": {
+    "no_charges": "Gan aon chúiseamh",
+    "ongoing": "Ar siúl",
+    "concluded": "Críochnaithe",
+    "in_court": "Os comhair na cúirte",
+    "political": "Polaitiúil",
+    "victim": "Íospartach",
+    "under_investigation": "Faoi imscrúdú",
+    "awaiting_trial": "Ag fanacht le triail",
+    "party_matter": "Ábhar inmheánach páirtí",
+    "no_proceedings": "Gan imeachtaí",
+    "conviction": "Ciontú",
+    "noted": "Taifeadta",
+    "unknown": "Ní fios",
+    "appeal_pending": "Achomharc ar feitheamh",
+    "convicted": "Ciontaithe",
+    "acquitted": "Éigiontaithe",
+    "dismissed": "Díbheadh an cás",
+    "settled": "Socraithe"
+  },
+  "assetStatus": {
+    "declared": "Dearbhaithe",
+    "estimated": "Measta",
+    "historical": "Stairiúil",
+    "divested": "Diúscartha",
+    "none": "Níor dearbhaíodh aon rud"
+  },
+  "justice": {
+    "intro": "Déantar cur síos i ngach iontráil ar chás dlí agus ar a stádas dlíthiúil reatha. Ní hionann imscrúduithe ná cásanna atá ar feitheamh agus fionnachtain go ndearnadh éagóir; tá feidhm ag an toimhde neamhchiontachta go dtí go ndéanfaidh cúirt cinneadh críochnaitheach.",
+    "outcome": "Toradh:",
+    "keyFacts": "Príomhfhíricí"
+  },
+  "polemics": {
+    "intro": "Tugtar achoimre i ngach iontráil ar chonspóid atá doiciméadaithe go poiblí, agus léirítear a stádas dlíthiúil nó polaitiúil reatha. Tá na tuairiscí fíorasach agus neodrach; ní hionann líomhain agus fionnachtain go ndearnadh éagóir.",
+    "statusLine": "Stádas dlíthiúil/polaitiúil:",
+    "keyFacts": "Príomhfhíricí"
+  },
+  "legislation": {
+    "significance": "Tábhacht:"
+  },
+  "honors": {
+    "exOfficio": "Ex officio"
+  },
+  "electoral": {
+    "versus": "i gcoinne {opponent}"
+  },
+  "dates": {
+    "present": "an lá inniu"
+  },
+  "sources": {
+    "title": "Foinsí agus tagairtí",
+    "summary": "Bunaithe ar {sources} ó {domains}",
+    "sourceCount": {
+      "one": "{count} fhoinse",
+      "two": "{count} fhoinse",
+      "few": "{count} fhoinse",
+      "many": "{count} bhfoinse",
+      "other": "{count} foinse"
+    },
+    "domainCount": {
+      "one": "{count} fhearann",
+      "two": "{count} fhearann",
+      "few": "{count} fhearann",
+      "many": "{count} bhfearann",
+      "other": "{count} fearann"
+    },
+    "methodologyLabel": "Modheolaíocht.",
+    "methodologySources": {
+      "france": "Tiomsaítear na sonraí ó fhoinsí oifigiúla — dearbhuithe sócmhainní HATVP, INSEE, Légifrance agus suíomhanna gréasáin an rialtais — mar aon le tuairisciú iontaofa.",
+      "switzerland": "Tiomsaítear na sonraí ó fhoinsí oifigiúla — clár leasanna an Chomhthionóil Fheidearálaigh, parlament.ch agus suíomhanna gréasáin na n-údarás feidearálach, cantúnach agus bardasach — mar aon le Lobbywatch agus tuairisciú iontaofa.",
+      "default": "Tiomsaítear na sonraí ó fhoinsí oifigiúla — taifid pharlaiminte agus rialtais, irisí oifigiúla agus dearbhuithe poiblí sna tíortha a fhoilsíonn iad — mar aon le tuairisciú iontaofa."
+    },
+    "methodologyStatuses": "Léiríonn na stádais torthaí infhíoraithe amhail ar an dáta a luaitear; lipéadaítear líomhaintí mar líomhaintí agus taispeántar a stádas dlíthiúil.",
+    "otherDomain": "eile",
+    "sections": {
+      "promises": "Gealltanais",
+      "work_history": "Stair oibre",
+      "finances": "Airgeadas",
+      "stocks": "Scaireanna",
+      "real_estate": "Réadmhaoin",
+      "companies": "Cuideachtaí",
+      "controversies": "Conspóidí",
+      "electoral_history": "Toghcháin",
+      "interests": "Leasanna",
+      "education": "Oideachas",
+      "honors": "Onóracha",
+      "key_legislation": "Reachtaíocht",
+      "net_worth": "Glanfhiúchas",
+      "justice": "Cásanna dlí"
+    },
+    "linkLabel": {
+      "one": "Foinse:",
+      "two": "Foinsí:",
+      "few": "Foinsí:",
+      "many": "Foinsí:",
+      "other": "Foinsí:"
+    }
+  },
+  "promises": {
+    "all": "Uile",
+    "otherCategory": "Eile",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Níl aon ghealltanas á rianú",
+    "emptyBody": "Níl aon ghealltanas ó fheachtas ná ó chlár toghcháin á rianú i gcás {name} go fóill. Tá an taifead ina leith doiciméadaithe faoi {background}, {legislation} agus {controversies}.",
+    "contextLabel": "Comhthéacs.",
+    "campaignOnly": "Ní raibh oifig feidhmiúcháin riamh ag {name}. Is gealltanais feachtais iad seo, ní beartas a cuireadh i bhfeidhm — mar sin taifeadtar gach ceann acu mar “{noAction}” seachas mar chomhlíonta nó mar bhriste.",
+    "promised": "Gealladh ar {date}",
+    "confidenceValue": "{value} muiníne",
+    "filterLabel": "Scag gealltanais de réir stádais"
+  },
+  "promise": {
+    "breadcrumbFallback": "Gealltanas",
+    "verdict": "Breithiúnas",
+    "assessment": "Measúnú",
+    "keyEvidence": "Príomhfhianaise",
+    "sourcesHeading": {
+      "one": "Foinse",
+      "two": "Foinsí",
+      "few": "Foinsí",
+      "many": "Foinsí",
+      "other": "Foinsí"
+    },
+    "primarySource": "Príomhfhoinse",
+    "additionalSource": "Foinse bhreise",
+    "lastReviewed": "Athbhreithniú deireanach: {date}",
+    "editoriallyReviewed": "Athbhreithnithe ag eagarthóirí",
+    "notVerified": "Níor fíoraíodh an gealltanas seo fós."
+  },
+  "confidence": {
+    "label": "Muinín"
+  }
+}

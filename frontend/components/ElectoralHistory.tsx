@@ -1,5 +1,7 @@
 import { type ElectoralHistoryItem } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import { fmt } from "@/lib/i18n/format";
+import type { I18nProps } from "@/lib/i18n/props";
 
 /** Treat "n/a"-style placeholders as empty so context entries don't show "n/a". */
 function clean(v: string | null): string | null {
@@ -10,9 +12,9 @@ function clean(v: string | null): string | null {
 /** Electoral results list — result + vote share emphasised. */
 export default function ElectoralHistory({
   items,
-}: {
-  items: ElectoralHistoryItem[];
-}) {
+  dict,
+  lang,
+}: { items: ElectoralHistoryItem[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ul className="space-y-3">
@@ -48,14 +50,16 @@ export default function ElectoralHistory({
               )}
             </div>
             {opponent && (
-              <p className="mt-2 text-xs text-slate-500">vs. {opponent}</p>
+              <p className="mt-2 text-xs text-slate-500">
+                {fmt(dict.electoral.versus, { opponent })}
+              </p>
             )}
             {item.detail && (
               <p className="mt-2 text-sm leading-relaxed text-slate-600">
                 {item.detail}
               </p>
             )}
-            <SourceLinks urls={item.source_urls} />
+            <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
           </li>
         );
       })}

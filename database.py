@@ -155,6 +155,13 @@ class Politician(Base):
     external_id: Mapped[str | None] = mapped_column(String(255), nullable=True, index=True)
     name: Mapped[str] = mapped_column(String(255), nullable=False, index=True)
     country: Mapped[str | None] = mapped_column(String(120), index=True)
+    # ISO 3166-1 alpha-2 (e.g. "FR"), so the frontend can localize the name.
+    country_code: Mapped[str | None] = mapped_column(String(2), index=True)
+    # Kind of office (see import_common.OFFICES) plus the exact title.
+    office: Mapped[str | None] = mapped_column(String(40), index=True)
+    role: Mapped[str | None] = mapped_column(Text)
+    # BCP 47 tag of the language the profile's text is written in.
+    content_lang: Mapped[str | None] = mapped_column(String(16))
     party: Mapped[str | None] = mapped_column(String(255), index=True)
     birth_date: Mapped[datetime.date | None] = mapped_column()
     bio: Mapped[str | None] = mapped_column(Text)
@@ -767,13 +774,24 @@ async def init_db() -> None:
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
         # `create_all` does not ALTER existing tables. The politicians table
-        # predates the external_id slug column, so add it idempotently here.
-        await conn.execute(
-            text(
-                "ALTER TABLE politicians "
-                "ADD COLUMN IF NOT EXISTS external_id VARCHAR(255)"
+        # predates these columns, so add them (and their indexes) idempotently.
+        for column in (
+            "external_id VARCHAR(255)",
+            "country_code VARCHAR(2)",
+            "office VARCHAR(40)",
+            "role TEXT",
+            "content_lang VARCHAR(16)",
+        ):
+            await conn.execute(
+                text(f"ALTER TABLE politicians ADD COLUMN IF NOT EXISTS {column}")
             )
-        )
+        for column in ("country_code", "office"):
+            await conn.execute(
+                text(
+                    f"CREATE INDEX IF NOT EXISTS ix_politicians_{column} "
+                    f"ON politicians ({column})"
+                )
+            )
         # Different source datasets pack variable-length text into short fields
         # (e.g. a multi-term "period"). Widen every VARCHAR column in our content
         # tables to TEXT — a lossless, metadata-only cast in Postgres — so no

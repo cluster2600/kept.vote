@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "title": "kept.vote – praćenje političkih obećanja",
+    "description": "Nestranačko praćenje političkih obećanja: koja su ispunjena, koja prekršena, a koja su još u tijeku – uz navedene izvore."
+  },
+  "header": {
+    "home": "kept.vote – početna stranica",
+    "politicians": "Političari",
+    "methodology": "Metodologija",
+    "language": "Jezik"
+  },
+  "footer": {
+    "methodologyTitle": "Metodologija",
+    "methodologyBody": "Svako obećanje ocjenjujemo na temelju primarnih izvora – zakona, službenih evidencija i vladinih podataka – i dodjeljujemo mu jedan od statusa: {kept}, {broken}, {inProgress} ili {noAction}. Razina pouzdanosti odražava snagu dostupnih dokaza. Svaka je ocjena povezana sa svojim izvorima kako biste je mogli sami provjeriti.",
+    "tagline": "kept.vote – nestranački projekt praćenja političkih obećanja. Prototip."
+  },
+  "home": {
+    "eyebrow": "Praćenje obećanja",
+    "title": "Jesu li održali riječ?",
+    "intro": "kept.vote uspoređuje ono što su političari obećali s onim što su doista učinili – je li obećanje ispunjeno, prekršeno ili je još u tijeku. Svaka se ocjena temelji na primarnim izvorima.",
+    "stats": {
+      "politicians": "Političari",
+      "promises": "Praćena obećanja",
+      "verified": "Provjereno"
+    },
+    "politiciansHeading": "Političari",
+    "countryFilterLabel": "Filtriranje po državi",
+    "allCountries": "Sve države",
+    "otherCountry": "Ostalo",
+    "politicianCount": {
+      "one": "{count} političar",
+      "few": "{count} političara",
+      "other": "{count} političara"
+    },
+    "promiseCount": {
+      "one": "{count} obećanje",
+      "few": "{count} obećanja",
+      "other": "{count} obećanja"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Još nema provjerenih obećanja",
+    "viewDossier": "Pogledajte profil",
+    "noneInCountry": "Za ovu državu još ne pratimo nijednog političara.",
+    "emptyState": "Još nema političara. Za učitavanje demo podataka pokrenite skriptu seed:",
+    "connectionErrorTitle": "Povezivanje s pozadinskim API-jem nije uspjelo.",
+    "connectionErrorBody": "Provjerite radi li pozadinski sustav FastAPI i upućuje li varijabla {envVar} na njega."
+  },
+  "office": {
+    "head_of_state": "Šef države",
+    "head_of_government": "Predsjednik vlade",
+    "minister": "Ministar",
+    "legislator": "Zastupnik",
+    "mayor": "Gradonačelnik",
+    "regional_executive": "Regionalna izvršna vlast",
+    "party_leader": "Čelnik stranke",
+    "other": "Druga dužnost"
+  },
+  "notFound": {
+    "title": "Nije pronađeno",
+    "body": "Tražena stranica nije pronađena.",
+    "back": "Natrag na popis političara"
+  },
+  "politician": {
+    "back": "← Svi političari",
+    "trackRecord": "Bilanca obećanja",
+    "contentLanguage": "Jezik profila: {language}",
+    "tabsLabel": "Odjeljci profila",
+    "tabs": {
+      "promises": "Obećanja",
+      "background": "Životopis",
+      "finances": "Financije",
+      "justice": "Sudski postupci",
+      "controversies": "Kontroverze",
+      "sources": "Izvori"
+    },
+    "background": {
+      "electoral": "Izborna povijest",
+      "work": "Profesionalni put",
+      "education": "Obrazovanje",
+      "legislation": "Ključni zakoni",
+      "honors": "Odlikovanja i priznanja"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Podaci su preneseni onako kako su prijavljeni – većina potječe iz službenih izjava podnesenih francuskom tijelu {hatvp} (Visokom tijelu za transparentnost javnog života). Izrazi poput „prijavljeno” ili „pribl.” preuzeti su iz izvora i prikazani bez izmjena.",
+      "switzerland": "Švicarska nema sustav javnog prijavljivanja imovine za nositelje javnih dužnosti pa su podaci navedeni samo ako su javno objavljeni. Podaci o mandatima i interesima preuzeti su iz parlamentarnog registra interesa i s platforme Lobbywatch. Izrazi poput „prijavljeno” ili „pribl.” preuzeti su iz izvora i prikazani bez izmjena.",
+      "default": "Podaci su preneseni onako kako su prijavljeni u službenim javnim izjavama, ako ih država objavljuje; u suprotnom ovaj odjeljak ostaje prazan. Izrazi poput „prijavljeno” ili „pribl.” preuzeti su iz izvora i prikazani bez izmjena."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Neto imovina",
+      "assets": "Imovina",
+      "income": "Prihodi",
+      "real_estate": "Nekretnine"
+    },
+    "netWorthTimeline": "Kretanje neto imovine",
+    "stocks": "Vrijednosni papiri / dionice",
+    "realEstate": "Nekretnine",
+    "companies": "Tvrtke i vlasnički udjeli",
+    "interests": "Izjava o interesima",
+    "asOf": "stanje: {date}",
+    "declarationStatus": "Status prijave"
+  },
+  "status": {
+    "fulfilled": "Ispunjeno",
+    "broken": "Prekršeno",
+    "in_progress": "U tijeku",
+    "compromise": "Kompromis",
+    "no_action": "Bez djelovanja",
+    "unverified": "Neprovjereno"
+  },
+  "legalStatus": {
+    "no_charges": "Bez optužnice",
+    "ongoing": "U tijeku",
+    "concluded": "Zaključeno",
+    "in_court": "Pred sudom",
+    "political": "Političko pitanje",
+    "victim": "Žrtva",
+    "under_investigation": "Pod istragom",
+    "awaiting_trial": "Čeka suđenje",
+    "party_matter": "Stranačko pitanje",
+    "no_proceedings": "Bez postupka",
+    "conviction": "Osuđujuća presuda",
+    "noted": "Zabilježeno",
+    "unknown": "Nepoznat status",
+    "appeal_pending": "U žalbenom postupku",
+    "convicted": "Osuđujuća presuda",
+    "acquitted": "Oslobađajuća presuda",
+    "dismissed": "Postupak obustavljen",
+    "settled": "Sklopljena nagodba"
+  },
+  "assetStatus": {
+    "declared": "Prijavljeno",
+    "estimated": "Procijenjeno",
+    "historical": "Povijesni podatak",
+    "divested": "Otuđeno",
+    "none": "Ništa nije prijavljeno"
+  },
+  "justice": {
+    "intro": "Svaki unos dokumentira sudski predmet i njegov trenutačni pravni status. Istrage i neriješeni predmeti ne znače utvrđenu krivnju; do pravomoćne sudske odluke vrijedi presumpcija nedužnosti.",
+    "outcome": "Ishod:",
+    "keyFacts": "Ključne činjenice"
+  },
+  "polemics": {
+    "intro": "Svaki unos sažima javno dokumentiranu kontroverzu i prikazuje njezin trenutačni pravni ili politički status. Opisi su činjenični i neutralni; navod ne znači utvrđenu odgovornost.",
+    "statusLine": "Pravni/politički status:",
+    "keyFacts": "Ključne činjenice"
+  },
+  "legislation": {
+    "significance": "Značaj:"
+  },
+  "honors": {
+    "exOfficio": "Po službenoj dužnosti"
+  },
+  "electoral": {
+    "versus": "vs. {opponent}"
+  },
+  "dates": {
+    "present": "danas"
+  },
+  "sources": {
+    "title": "Izvori i reference",
+    "summary": "Ukupno {sources} ({domains})",
+    "sourceCount": {
+      "one": "{count} izvor",
+      "few": "{count} izvora",
+      "other": "{count} izvora"
+    },
+    "domainCount": {
+      "one": "{count} domena",
+      "few": "{count} domene",
+      "other": "{count} domena"
+    },
+    "methodologyLabel": "Metodologija.",
+    "methodologySources": {
+      "france": "Podaci su prikupljeni iz službenih izvora – imovinskih kartica podnesenih tijelu HATVP, podataka zavoda INSEE, baze Légifrance i vladinih mrežnih stranica – te iz vjerodostojnih medijskih izvješća.",
+      "switzerland": "Podaci su prikupljeni iz službenih izvora – registra interesa Savezne skupštine, mrežnog mjesta parlament.ch te mrežnih stranica saveznih, kantonalnih i općinskih vlasti – kao i s platforme Lobbywatch i iz vjerodostojnih medijskih izvješća.",
+      "default": "Podaci su prikupljeni iz službenih izvora – parlamentarnih i vladinih evidencija, službenih glasila i javnih izjava, ako ih država objavljuje – te iz vjerodostojnih medijskih izvješća."
+    },
+    "methodologyStatuses": "Statusi odražavaju provjerljive ishode na navedeni datum; navodi su označeni kao takvi, uz prikaz njihova pravnog statusa.",
+    "otherDomain": "ostalo",
+    "sections": {
+      "promises": "Obećanja",
+      "work_history": "Profesionalni put",
+      "finances": "Financije",
+      "stocks": "Dionice",
+      "real_estate": "Nekretnine",
+      "companies": "Tvrtke",
+      "controversies": "Kontroverze",
+      "electoral_history": "Izbori",
+      "interests": "Interesi",
+      "education": "Obrazovanje",
+      "honors": "Odlikovanja",
+      "key_legislation": "Zakonodavstvo",
+      "net_worth": "Neto imovina",
+      "justice": "Sudski postupci"
+    },
+    "linkLabel": {
+      "one": "Izvor:",
+      "few": "Izvori:",
+      "other": "Izvori:"
+    }
+  },
+  "promises": {
+    "all": "Sve",
+    "otherCategory": "Ostalo",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Nema praćenih obećanja",
+    "emptyBody": "{name} još nema praćenih predizbornih ni programskih obećanja. Djelovanje te osobe dokumentirano je u odjeljcima {background}, {legislation} i {controversies}.",
+    "contextLabel": "Kontekst.",
+    "campaignOnly": "{name} nema iza sebe mandata u izvršnoj vlasti. Riječ je o predizbornim obećanjima, a ne o provedenim politikama – zato je svako označeno kao „{noAction}”, a ne kao ispunjeno ili prekršeno.",
+    "promised": "Obećano {date}",
+    "confidenceValue": "Pouzdanost: {value}",
+    "filterLabel": "Filtriranje obećanja po statusu"
+  },
+  "promise": {
+    "breadcrumbFallback": "Obećanje",
+    "verdict": "Ocjena",
+    "assessment": "Analiza",
+    "keyEvidence": "Ključni dokazi",
+    "sourcesHeading": {
+      "one": "Izvor",
+      "few": "Izvori",
+      "other": "Izvori"
+    },
+    "primarySource": "Glavni izvor",
+    "additionalSource": "Dodatni izvor",
+    "lastReviewed": "Posljednja provjera: {date}",
+    "editoriallyReviewed": "Urednički provjereno",
+    "notVerified": "Ovo obećanje još nije provjereno."
+  },
+  "confidence": {
+    "label": "Pouzdanost"
+  }
+}

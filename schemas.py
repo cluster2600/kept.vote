@@ -14,6 +14,8 @@ from __future__ import annotations
 import datetime
 import uuid
 
+from typing import Literal
+
 from pydantic import BaseModel, ConfigDict, Field
 
 from database import HumanReviewStatus, VerificationStatus
@@ -21,11 +23,28 @@ from database import HumanReviewStatus, VerificationStatus
 # ---------------------------------------------------------------------------
 # Politicians
 # ---------------------------------------------------------------------------
+# Mirrors import_common.OFFICES.
+Office = Literal[
+    "head_of_state",
+    "head_of_government",
+    "minister",
+    "legislator",
+    "mayor",
+    "regional_executive",
+    "party_leader",
+    "other",
+]
+
+
 class PoliticianBase(BaseModel):
     """Shared politician fields."""
 
     name: str = Field(..., min_length=1, max_length=255)
     country: str | None = Field(default=None, max_length=120)
+    country_code: str | None = Field(default=None, pattern=r"^[A-Z]{2}$")
+    office: Office | None = None
+    role: str | None = None
+    content_lang: str | None = Field(default=None, max_length=16)
     party: str | None = Field(default=None, max_length=255)
     birth_date: datetime.date | None = None
     bio: str | None = None
@@ -52,6 +71,10 @@ class PoliticianSummary(BaseModel):
     id: uuid.UUID
     name: str
     country: str | None = None
+    country_code: str | None = None
+    office: str | None = None
+    role: str | None = None
+    content_lang: str | None = None
     party: str | None = None
     promise_count: int = 0
     kept_count: int = 0

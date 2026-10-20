@@ -1,14 +1,15 @@
 import { assetStatusMeta, type NetWorthPoint } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import { badgeLabel, type I18nProps } from "@/lib/i18n/props";
 
 /** Declared-net-worth timeline (chronological). Overlaps the finance figures
- *  by design — presented here as a year-by-year trajectory with the HATVP
- *  notes shown verbatim. */
+ *  by design — presented here as a year-by-year trajectory with the
+ *  declaration notes shown verbatim. */
 export default function NetWorthTimeline({
   items,
-}: {
-  items: NetWorthPoint[];
-}) {
+  dict,
+  lang,
+}: { items: NetWorthPoint[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ol className="relative space-y-5 border-l border-slate-200 pl-6">
@@ -26,10 +27,10 @@ export default function NetWorthTimeline({
               </span>
               <span
                 className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-medium ${meta.badge}`}
-                title="Declaration status"
+                title={dict.finances.declarationStatus}
               >
                 <span className={`h-2 w-2 rounded-full ${meta.dot}`} aria-hidden />
-                {meta.label}
+                {badgeLabel(meta, dict.assetStatus)}
               </span>
             </div>
             {item.declared_net_worth && (
@@ -42,7 +43,7 @@ export default function NetWorthTimeline({
                 {item.note}
               </p>
             )}
-            <SourceLinks urls={item.source_urls} />
+            <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
           </li>
         );
       })}

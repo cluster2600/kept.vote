@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "kept.vote — tracking political promises",
+    "description": "A non-partisan tracker of political promises: which were kept, broken, or still in progress — with sources."
+  },
+  "header": {
+    "home": "kept.vote — home",
+    "politicians": "Politicians",
+    "methodology": "Methodology",
+    "language": "Language"
+  },
+  "footer": {
+    "methodologyTitle": "Methodology",
+    "methodologyBody": "Each promise is assessed against primary sources — laws, official records, and government data — and assigned a status: {kept}, {broken}, {inProgress}, or {noAction}. A confidence score reflects the strength of the available evidence. Every verdict links to its sources so you can check the record yourself.",
+    "tagline": "kept.vote — a non-partisan promise tracker. Prototype."
+  },
+  "home": {
+    "eyebrow": "Promise tracker",
+    "title": "Did they keep their word?",
+    "intro": "kept.vote checks what politicians promised against what they actually did — kept, broken, or still in progress — each verdict backed by primary sources.",
+    "stats": {
+      "politicians": "Politicians",
+      "promises": "Promises tracked",
+      "verified": "Verified"
+    },
+    "politiciansHeading": "Politicians",
+    "countryFilterLabel": "Filter by country",
+    "allCountries": "All countries",
+    "otherCountry": "Other",
+    "politicianCount": {
+      "one": "{count} politician",
+      "other": "{count} politicians"
+    },
+    "promiseCount": {
+      "one": "{count} promise",
+      "other": "{count} promises"
+    },
+    "profileBadge": "Profile",
+    "noVerifiedYet": "No verified promises yet",
+    "viewDossier": "View dossier",
+    "noneInCountry": "No politicians are tracked for this country yet.",
+    "emptyState": "No politicians yet. Run the seed script to load demo data:",
+    "connectionErrorTitle": "Couldn't reach the backend API.",
+    "connectionErrorBody": "Make sure the FastAPI backend is running and {envVar} points to it."
+  },
+  "office": {
+    "head_of_state": "Head of state",
+    "head_of_government": "Head of government",
+    "minister": "Minister",
+    "legislator": "Legislator",
+    "mayor": "Mayor",
+    "regional_executive": "Regional executive",
+    "party_leader": "Party leader",
+    "other": "Other office"
+  },
+  "notFound": {
+    "title": "Not found",
+    "body": "We couldn't find what you were looking for.",
+    "back": "Back to politicians"
+  },
+  "politician": {
+    "back": "← All politicians",
+    "trackRecord": "Promise track record",
+    "contentLanguage": "Profile written in {language}",
+    "tabsLabel": "Profile sections",
+    "tabs": {
+      "promises": "Promises",
+      "background": "Background",
+      "finances": "Finances",
+      "justice": "Justice",
+      "controversies": "Controversies",
+      "sources": "Sources"
+    },
+    "background": {
+      "electoral": "Electoral history",
+      "work": "Work history",
+      "education": "Education",
+      "legislation": "Key legislation",
+      "honors": "Honors & distinctions"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Figures are reproduced as declared — most are drawn from the official declarations filed with France's {hatvp} (High Authority for Transparency in Public Life). Wording such as “declared” or “approx.” reflects the source and is shown unaltered.",
+      "switzerland": "Switzerland has no public asset-declaration regime for its officeholders, so figures appear only where they have been publicly reported. Mandates and interests come from the parliamentary register of interests and from Lobbywatch. Wording such as “declared” or “approx.” reflects the source and is shown unaltered.",
+      "default": "Figures are reproduced as declared, from official public declarations where the country publishes them; where it does not, this section stays empty. Wording such as “declared” or “approx.” reflects the source and is shown unaltered."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Net worth",
+      "assets": "Assets",
+      "income": "Income",
+      "real_estate": "Real estate"
+    },
+    "netWorthTimeline": "Net Worth Timeline",
+    "stocks": "Securities / Stock Holdings",
+    "realEstate": "Real Estate",
+    "companies": "Companies & Ownership",
+    "interests": "Declaration of interests",
+    "asOf": "as of {date}",
+    "declarationStatus": "Declaration status"
+  },
+  "status": {
+    "fulfilled": "Kept",
+    "broken": "Broken",
+    "in_progress": "In Progress",
+    "compromise": "Compromise",
+    "no_action": "No Action",
+    "unverified": "Unverified"
+  },
+  "legalStatus": {
+    "no_charges": "No charges",
+    "ongoing": "Ongoing",
+    "concluded": "Concluded",
+    "in_court": "In court",
+    "political": "Political",
+    "victim": "Victim",
+    "under_investigation": "Under investigation",
+    "awaiting_trial": "Awaiting trial",
+    "party_matter": "Party matter",
+    "no_proceedings": "No proceedings",
+    "conviction": "Conviction",
+    "noted": "Noted",
+    "unknown": "Unknown",
+    "appeal_pending": "Appeal pending",
+    "convicted": "Convicted",
+    "acquitted": "Acquitted",
+    "dismissed": "Dismissed",
+    "settled": "Settled"
+  },
+  "assetStatus": {
+    "declared": "Declared",
+    "estimated": "Estimated",
+    "historical": "Historical",
+    "divested": "Divested",
+    "none": "None declared"
+  },
+  "justice": {
+    "intro": "Each entry documents a judicial matter and its current legal status. Investigations and pending matters are not findings of wrongdoing; the presumption of innocence applies until a final court decision.",
+    "outcome": "Outcome:",
+    "keyFacts": "Key facts"
+  },
+  "polemics": {
+    "intro": "Each entry summarises a publicly documented controversy and shows its current legal or political status. Descriptions are factual and neutral; an allegation is not a finding of wrongdoing.",
+    "statusLine": "Legal/political status:",
+    "keyFacts": "Key facts"
+  },
+  "legislation": {
+    "significance": "Significance:"
+  },
+  "honors": {
+    "exOfficio": "Ex officio"
+  },
+  "electoral": {
+    "versus": "vs. {opponent}"
+  },
+  "dates": {
+    "present": "Present"
+  },
+  "sources": {
+    "title": "Sources & References",
+    "summary": "Backed by {sources} across {domains}",
+    "sourceCount": {
+      "one": "{count} source",
+      "other": "{count} sources"
+    },
+    "domainCount": {
+      "one": "{count} domain",
+      "other": "{count} domains"
+    },
+    "methodologyLabel": "Methodology.",
+    "methodologySources": {
+      "france": "Data is compiled from official sources — HATVP asset declarations, INSEE, Légifrance, and government sites — alongside reputable reporting.",
+      "switzerland": "Data is compiled from official sources — the Federal Assembly's register of interests, parlament.ch, and federal, cantonal and municipal government sites — alongside Lobbywatch and reputable reporting.",
+      "default": "Data is compiled from official sources — parliamentary and government records, official gazettes, and public declarations where the country publishes them — alongside reputable reporting."
+    },
+    "methodologyStatuses": "Statuses reflect verifiable outcomes as of the stated date; allegations are labelled as such and their legal status is shown.",
+    "otherDomain": "other",
+    "sections": {
+      "promises": "Promises",
+      "work_history": "Work history",
+      "finances": "Finances",
+      "stocks": "Stocks",
+      "real_estate": "Real estate",
+      "companies": "Companies",
+      "controversies": "Controversies",
+      "electoral_history": "Electoral",
+      "interests": "Interests",
+      "education": "Education",
+      "honors": "Honors",
+      "key_legislation": "Legislation",
+      "net_worth": "Net worth",
+      "justice": "Justice"
+    },
+    "linkLabel": {
+      "one": "Source:",
+      "other": "Sources:"
+    }
+  },
+  "promises": {
+    "all": "All",
+    "otherCategory": "Other",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "No tracked promises",
+    "emptyBody": "No campaign or programme promises are tracked for {name} yet. Their record is documented under {background}, {legislation} and {controversies}.",
+    "contextLabel": "Context.",
+    "campaignOnly": "{name} has not held executive office. These are campaign pledges, not enacted policy — so each is recorded as “{noAction}” rather than kept or broken.",
+    "promised": "Promised {date}",
+    "confidenceValue": "{value} confidence",
+    "filterLabel": "Filter promises by status"
+  },
+  "promise": {
+    "breadcrumbFallback": "Promise",
+    "verdict": "Verdict",
+    "assessment": "Assessment",
+    "keyEvidence": "Key evidence",
+    "sourcesHeading": {
+      "one": "Source",
+      "other": "Sources"
+    },
+    "primarySource": "Primary source",
+    "additionalSource": "Additional source",
+    "lastReviewed": "Last reviewed {date}",
+    "editoriallyReviewed": "Editorially reviewed",
+    "notVerified": "This promise has not been verified yet."
+  },
+  "confidence": {
+    "label": "Confidence"
+  }
+}

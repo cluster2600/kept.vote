@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "title": "kept.vote – śledzenie obietnic politycznych",
+    "description": "Bezstronny serwis monitorujący obietnice polityczne: które zostały dotrzymane, które złamane, a które są wciąż w realizacji – wraz ze źródłami."
+  },
+  "header": {
+    "home": "kept.vote – strona główna",
+    "politicians": "Politycy",
+    "methodology": "Metodologia",
+    "language": "Język"
+  },
+  "footer": {
+    "methodologyTitle": "Metodologia",
+    "methodologyBody": "Każdą obietnicę oceniamy na podstawie źródeł pierwotnych – ustaw, dokumentów urzędowych i danych rządowych – i przypisujemy jej jeden ze statusów: {kept}, {broken}, {inProgress} lub {noAction}. Poziom pewności odzwierciedla siłę dostępnych dowodów. Każda ocena zawiera odnośniki do źródeł, dzięki czemu można ją samodzielnie zweryfikować.",
+    "tagline": "kept.vote – bezstronny projekt monitorujący obietnice polityczne. Prototyp."
+  },
+  "home": {
+    "eyebrow": "Monitoring obietnic",
+    "title": "Czy dotrzymali słowa?",
+    "intro": "kept.vote zestawia obietnice polityków z ich faktycznymi działaniami – czy zostały dotrzymane, złamane, czy są wciąż w realizacji. Każda ocena opiera się na źródłach pierwotnych.",
+    "stats": {
+      "politicians": "Politycy",
+      "promises": "Śledzone obietnice",
+      "verified": "Zweryfikowane"
+    },
+    "politiciansHeading": "Politycy",
+    "countryFilterLabel": "Filtrowanie według kraju",
+    "allCountries": "Wszystkie kraje",
+    "otherCountry": "Inne",
+    "politicianCount": {
+      "one": "{count} polityk",
+      "few": "{count} polityków",
+      "many": "{count} polityków",
+      "other": "{count} polityka"
+    },
+    "promiseCount": {
+      "one": "{count} obietnica",
+      "few": "{count} obietnice",
+      "many": "{count} obietnic",
+      "other": "{count} obietnicy"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Na razie brak zweryfikowanych obietnic",
+    "viewDossier": "Zobacz dossier",
+    "noneInCountry": "Dla tego kraju nie śledzimy jeszcze żadnych polityków.",
+    "emptyState": "Brak polityków. Aby wczytać dane demonstracyjne, należy uruchomić skrypt seed:",
+    "connectionErrorTitle": "Nie udało się połączyć z API backendu.",
+    "connectionErrorBody": "Należy sprawdzić, czy backend FastAPI działa i czy zmienna {envVar} wskazuje na jego adres."
+  },
+  "office": {
+    "head_of_state": "Głowa państwa",
+    "head_of_government": "Szef rządu",
+    "minister": "Minister",
+    "legislator": "Parlamentarzysta",
+    "mayor": "Burmistrz",
+    "regional_executive": "Władze regionalne",
+    "party_leader": "Lider partii",
+    "other": "Inna funkcja"
+  },
+  "notFound": {
+    "title": "Nie znaleziono",
+    "body": "Nie udało się znaleźć szukanej strony.",
+    "back": "Powrót do listy polityków"
+  },
+  "politician": {
+    "back": "← Wszyscy politycy",
+    "trackRecord": "Bilans obietnic",
+    "contentLanguage": "Język profilu: {language}",
+    "tabsLabel": "Sekcje profilu",
+    "tabs": {
+      "promises": "Obietnice",
+      "background": "Życiorys",
+      "finances": "Finanse",
+      "justice": "Sprawy sądowe",
+      "controversies": "Kontrowersje",
+      "sources": "Źródła"
+    },
+    "background": {
+      "electoral": "Historia wyborcza",
+      "work": "Kariera zawodowa",
+      "education": "Wykształcenie",
+      "legislation": "Kluczowe ustawy",
+      "honors": "Odznaczenia i wyróżnienia"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Dane podajemy zgodnie z treścią oświadczeń – w większości pochodzą one z oficjalnych deklaracji złożonych we francuskim urzędzie {hatvp} (Wysokim Urzędzie ds. Przejrzystości Życia Publicznego). Sformułowania takie jak „zadeklarowano” czy „ok.” pochodzą ze źródła i zostały zachowane bez zmian.",
+      "switzerland": "Szwajcaria nie ma systemu publicznych oświadczeń majątkowych dla osób pełniących funkcje publiczne, dlatego dane podajemy tylko wtedy, gdy zostały publicznie ujawnione. Informacje o mandatach i interesach pochodzą z parlamentarnego rejestru interesów oraz z serwisu Lobbywatch. Sformułowania takie jak „zadeklarowano” czy „ok.” pochodzą ze źródła i zostały zachowane bez zmian.",
+      "default": "Dane podajemy zgodnie z treścią oficjalnych, publicznych oświadczeń, o ile dany kraj je publikuje; w przeciwnym razie ta sekcja pozostaje pusta. Sformułowania takie jak „zadeklarowano” czy „ok.” pochodzą ze źródła i zostały zachowane bez zmian."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Majątek netto",
+      "assets": "Aktywa",
+      "income": "Dochody",
+      "real_estate": "Nieruchomości"
+    },
+    "netWorthTimeline": "Zmiany majątku netto",
+    "stocks": "Papiery wartościowe / akcje",
+    "realEstate": "Nieruchomości",
+    "companies": "Spółki i udziały",
+    "interests": "Deklaracja interesów",
+    "asOf": "stan na {date}",
+    "declarationStatus": "Status deklaracji"
+  },
+  "status": {
+    "fulfilled": "Dotrzymana",
+    "broken": "Złamana",
+    "in_progress": "W realizacji",
+    "compromise": "Kompromis",
+    "no_action": "Brak działań",
+    "unverified": "Niezweryfikowana"
+  },
+  "legalStatus": {
+    "no_charges": "Bez zarzutów",
+    "ongoing": "W toku",
+    "concluded": "Zakończona",
+    "in_court": "Przed sądem",
+    "political": "Sprawa polityczna",
+    "victim": "Strona pokrzywdzona",
+    "under_investigation": "Śledztwo w toku",
+    "awaiting_trial": "Oczekuje na proces",
+    "party_matter": "Sprawa partyjna",
+    "no_proceedings": "Brak postępowania",
+    "conviction": "Skazanie",
+    "noted": "Odnotowano",
+    "unknown": "Status nieznany",
+    "appeal_pending": "Apelacja w toku",
+    "convicted": "Wyrok skazujący",
+    "acquitted": "Wyrok uniewinniający",
+    "dismissed": "Umorzenie postępowania",
+    "settled": "Ugoda"
+  },
+  "assetStatus": {
+    "declared": "Zadeklarowane",
+    "estimated": "Szacunkowe",
+    "historical": "Dane historyczne",
+    "divested": "Zbyte",
+    "none": "Zadeklarowano brak"
+  },
+  "justice": {
+    "intro": "Każdy wpis dokumentuje sprawę sądową i jej aktualny status prawny. Śledztwa i toczące się postępowania nie przesądzają o winie; do czasu prawomocnego orzeczenia sądu obowiązuje domniemanie niewinności.",
+    "outcome": "Rozstrzygnięcie:",
+    "keyFacts": "Najważniejsze fakty"
+  },
+  "polemics": {
+    "intro": "Każdy wpis streszcza publicznie udokumentowaną kontrowersję i przedstawia jej aktualny status prawny lub polityczny. Opisy są rzeczowe i neutralne; zarzut nie jest równoznaczny ze stwierdzeniem winy.",
+    "statusLine": "Status prawny/polityczny:",
+    "keyFacts": "Najważniejsze fakty"
+  },
+  "legislation": {
+    "significance": "Znaczenie:"
+  },
+  "honors": {
+    "exOfficio": "Z urzędu"
+  },
+  "electoral": {
+    "versus": "vs. {opponent}"
+  },
+  "dates": {
+    "present": "obecnie"
+  },
+  "sources": {
+    "title": "Źródła i odnośniki",
+    "summary": "Łącznie {sources} ({domains})",
+    "sourceCount": {
+      "one": "{count} źródło",
+      "few": "{count} źródła",
+      "many": "{count} źródeł",
+      "other": "{count} źródła"
+    },
+    "domainCount": {
+      "one": "{count} domena",
+      "few": "{count} domeny",
+      "many": "{count} domen",
+      "other": "{count} domeny"
+    },
+    "methodologyLabel": "Metodologia.",
+    "methodologySources": {
+      "france": "Dane zestawiono na podstawie oficjalnych źródeł – oświadczeń majątkowych składanych w urzędzie HATVP, danych instytutu INSEE, serwisu Légifrance i stron rządowych – a także rzetelnych publikacji prasowych.",
+      "switzerland": "Dane zestawiono na podstawie oficjalnych źródeł – rejestru interesów Zgromadzenia Federalnego, serwisu parlament.ch oraz stron władz federalnych, kantonalnych i gminnych – a także serwisu Lobbywatch i rzetelnych publikacji prasowych.",
+      "default": "Dane zestawiono na podstawie oficjalnych źródeł – dokumentów parlamentarnych i rządowych, dzienników urzędowych oraz publicznych oświadczeń, o ile dany kraj je publikuje – a także rzetelnych publikacji prasowych."
+    },
+    "methodologyStatuses": "Statusy odzwierciedlają możliwe do zweryfikowania rozstrzygnięcia na wskazany dzień; zarzuty są oznaczone jako takie i podany jest ich status prawny.",
+    "otherDomain": "inne",
+    "sections": {
+      "promises": "Obietnice",
+      "work_history": "Kariera zawodowa",
+      "finances": "Finanse",
+      "stocks": "Akcje",
+      "real_estate": "Nieruchomości",
+      "companies": "Spółki",
+      "controversies": "Kontrowersje",
+      "electoral_history": "Wybory",
+      "interests": "Interesy",
+      "education": "Wykształcenie",
+      "honors": "Odznaczenia",
+      "key_legislation": "Ustawy",
+      "net_worth": "Majątek netto",
+      "justice": "Sprawy sądowe"
+    },
+    "linkLabel": {
+      "one": "Źródło:",
+      "few": "Źródła:",
+      "many": "Źródła:",
+      "other": "Źródła:"
+    }
+  },
+  "promises": {
+    "all": "Wszystkie",
+    "otherCategory": "Inne",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Brak śledzonych obietnic",
+    "emptyBody": "{name} nie ma jeszcze żadnych śledzonych obietnic wyborczych ani programowych. Działalność tej osoby opisano w sekcjach {background}, {legislation} i {controversies}.",
+    "contextLabel": "Kontekst.",
+    "campaignOnly": "{name} nie ma za sobą żadnej kadencji we władzy wykonawczej. Są to obietnice z kampanii wyborczej, a nie wdrożona polityka – dlatego każdą z nich oznaczono jako „{noAction}”, a nie jako dotrzymaną lub złamaną.",
+    "promised": "Obietnica z {date}",
+    "confidenceValue": "Pewność: {value}",
+    "filterLabel": "Filtrowanie obietnic według statusu"
+  },
+  "promise": {
+    "breadcrumbFallback": "Obietnica",
+    "verdict": "Werdykt",
+    "assessment": "Analiza",
+    "keyEvidence": "Kluczowe dowody",
+    "sourcesHeading": {
+      "one": "Źródło",
+      "few": "Źródła",
+      "many": "Źródła",
+      "other": "Źródła"
+    },
+    "primarySource": "Główne źródło",
+    "additionalSource": "Dodatkowe źródło",
+    "lastReviewed": "Ostatnia weryfikacja: {date}",
+    "editoriallyReviewed": "Zweryfikowane przez redakcję",
+    "notVerified": "Ta obietnica nie została jeszcze zweryfikowana."
+  },
+  "confidence": {
+    "label": "Pewność"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "title": "kept.vote – politinių pažadų stebėsena",
+    "description": "Nešališka politinių pažadų stebėsenos priemonė: kurie pažadai ištesėti, kurie sulaužyti, o kurie dar vykdomi – su šaltiniais."
+  },
+  "header": {
+    "home": "kept.vote – pagrindinis puslapis",
+    "politicians": "Politikai",
+    "methodology": "Metodika",
+    "language": "Kalba"
+  },
+  "footer": {
+    "methodologyTitle": "Metodika",
+    "methodologyBody": "Kiekvienas pažadas vertinamas remiantis pirminiais šaltiniais – įstatymais, oficialiais dokumentais ir valdžios institucijų duomenimis – ir jam suteikiamas vienas iš statusų: {kept}, {broken}, {inProgress} arba {noAction}. Patikimumo įvertis parodo turimų įrodymų svarumą. Prie kiekvieno verdikto pateikiamos nuorodos į šaltinius, kad galėtumėte patys patikrinti faktus.",
+    "tagline": "kept.vote – nešališka pažadų stebėsenos priemonė. Prototipas."
+  },
+  "home": {
+    "eyebrow": "Pažadų stebėsena",
+    "title": "Ar jie laikėsi duoto žodžio?",
+    "intro": "kept.vote lygina, ką politikai žadėjo, su tuo, ką jie iš tikrųjų padarė: ar pažadas ištesėtas, sulaužytas, ar dar vykdomas. Kiekvienas verdiktas pagrįstas pirminiais šaltiniais.",
+    "stats": {
+      "politicians": "Politikai",
+      "promises": "Stebimi pažadai",
+      "verified": "Patikrinti"
+    },
+    "politiciansHeading": "Politikai",
+    "countryFilterLabel": "Filtruoti pagal šalį",
+    "allCountries": "Visos šalys",
+    "otherCountry": "Kitos šalys",
+    "politicianCount": {
+      "one": "{count} politikas",
+      "few": "{count} politikai",
+      "many": "{count} politiko",
+      "other": "{count} politikų"
+    },
+    "promiseCount": {
+      "one": "{count} pažadas",
+      "few": "{count} pažadai",
+      "many": "{count} pažado",
+      "other": "{count} pažadų"
+    },
+    "profileBadge": "Profilis",
+    "noVerifiedYet": "Patikrintų pažadų dar nėra",
+    "viewDossier": "Peržiūrėti dosjė",
+    "noneInCountry": "Šios šalies politikai dar nestebimi.",
+    "emptyState": "Politikų dar nėra. Norėdami įkelti demonstracinius duomenis, paleiskite pradinių duomenų įkėlimo scenarijų:",
+    "connectionErrorTitle": "Nepavyko pasiekti serverio API.",
+    "connectionErrorBody": "Įsitikinkite, kad veikia FastAPI serverio programa ir kad {envVar} nurodo jos adresą."
+  },
+  "office": {
+    "head_of_state": "Valstybės vadovas",
+    "head_of_government": "Vyriausybės vadovas",
+    "minister": "Ministras",
+    "legislator": "Parlamento narys",
+    "mayor": "Meras",
+    "regional_executive": "Regiono vadovas",
+    "party_leader": "Partijos lyderis",
+    "other": "Kitos pareigos"
+  },
+  "notFound": {
+    "title": "Nerasta",
+    "body": "Nepavyko rasti to, ko ieškojote.",
+    "back": "Grįžti į politikų sąrašą"
+  },
+  "politician": {
+    "back": "← Visi politikai",
+    "trackRecord": "Pažadų vykdymo rezultatai",
+    "contentLanguage": "Profilio kalba: {language}",
+    "tabsLabel": "Profilio skiltys",
+    "tabs": {
+      "promises": "Pažadai",
+      "background": "Biografija",
+      "finances": "Finansai",
+      "justice": "Teisminės bylos",
+      "controversies": "Prieštaringi atvejai",
+      "sources": "Šaltiniai"
+    },
+    "background": {
+      "electoral": "Rinkimų istorija",
+      "work": "Darbo patirtis",
+      "education": "Išsilavinimas",
+      "legislation": "Svarbiausi teisės aktai",
+      "honors": "Apdovanojimai ir garbės vardai"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Skaičiai pateikiami taip, kaip buvo deklaruoti: dauguma jų paimti iš oficialių deklaracijų, pateiktų Prancūzijos institucijai {hatvp} (Aukštajai viešojo gyvenimo skaidrumo tarnybai). Tokie žodžiai kaip „deklaruota“ ar „apyt.“ atspindi šaltinio formuluotę ir pateikiami nepakeisti.",
+      "switzerland": "Šveicarijoje nėra viešos pareigūnų turto deklaravimo sistemos, todėl skaičiai pateikiami tik tada, kai apie juos buvo viešai paskelbta. Duomenys apie mandatus ir interesus paimti iš parlamento interesų registro ir Lobbywatch. Tokie žodžiai kaip „deklaruota“ ar „apyt.“ atspindi šaltinio formuluotę ir pateikiami nepakeisti.",
+      "default": "Skaičiai pateikiami taip, kaip buvo deklaruoti oficialiose viešose deklaracijose, jei šalis jas skelbia; jei ne, ši skiltis lieka tuščia. Tokie žodžiai kaip „deklaruota“ ar „apyt.“ atspindi šaltinio formuluotę ir pateikiami nepakeisti."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Grynasis turtas",
+      "assets": "Turtas",
+      "income": "Pajamos",
+      "real_estate": "Nekilnojamasis turtas"
+    },
+    "netWorthTimeline": "Grynojo turto kaita",
+    "stocks": "Vertybiniai popieriai / akcijos",
+    "realEstate": "Nekilnojamasis turtas",
+    "companies": "Įmonės ir nuosavybės dalys",
+    "interests": "Interesų deklaracija",
+    "asOf": "{date} duomenimis",
+    "declarationStatus": "Deklaracijos būsena"
+  },
+  "status": {
+    "fulfilled": "Ištesėtas",
+    "broken": "Sulaužytas",
+    "in_progress": "Vykdomas",
+    "compromise": "Kompromisas",
+    "no_action": "Nesiimta veiksmų",
+    "unverified": "Nepatikrintas"
+  },
+  "legalStatus": {
+    "no_charges": "Kaltinimai nepateikti",
+    "ongoing": "Vyksta",
+    "concluded": "Baigta",
+    "in_court": "Teisme",
+    "political": "Politinio pobūdžio",
+    "victim": "Nukentėjusioji šalis",
+    "under_investigation": "Atliekamas tyrimas",
+    "awaiting_trial": "Laukiama teismo",
+    "party_matter": "Partijos vidaus reikalas",
+    "no_proceedings": "Procesas nepradėtas",
+    "conviction": "Nuteisimas",
+    "noted": "Užfiksuota",
+    "unknown": "Nežinoma",
+    "appeal_pending": "Nagrinėjama apeliacija",
+    "convicted": "Apkaltinamasis nuosprendis",
+    "acquitted": "Išteisinamasis nuosprendis",
+    "dismissed": "Byla nutraukta",
+    "settled": "Taikos sutartis"
+  },
+  "assetStatus": {
+    "declared": "Deklaruota",
+    "estimated": "Įvertinta apytiksliai",
+    "historical": "Ankstesni duomenys",
+    "divested": "Perleista",
+    "none": "Nieko nedeklaruota"
+  },
+  "justice": {
+    "intro": "Kiekviename įraše aprašoma teisminė byla ir jos dabartinė teisinė būklė. Tyrimai ir neišnagrinėtos bylos nereiškia, kad nustatytas pažeidimas; kol nėra galutinio teismo sprendimo, galioja nekaltumo prezumpcija.",
+    "outcome": "Baigtis:",
+    "keyFacts": "Pagrindiniai faktai"
+  },
+  "polemics": {
+    "intro": "Kiekviename įraše apibendrinamas viešai dokumentuotas prieštaringas atvejis ir nurodoma jo dabartinė teisinė arba politinė būklė. Aprašymai yra faktiniai ir neutralūs; kaltinimas nereiškia, kad pažeidimas nustatytas.",
+    "statusLine": "Teisinė / politinė būklė:",
+    "keyFacts": "Pagrindiniai faktai"
+  },
+  "legislation": {
+    "significance": "Reikšmė:"
+  },
+  "honors": {
+    "exOfficio": "Pagal pareigas"
+  },
+  "electoral": {
+    "versus": "prieš {opponent}"
+  },
+  "dates": {
+    "present": "dabar"
+  },
+  "sources": {
+    "title": "Šaltiniai ir nuorodos",
+    "summary": "{sources} iš {domains}",
+    "sourceCount": {
+      "one": "{count} šaltinis",
+      "few": "{count} šaltiniai",
+      "many": "{count} šaltinio",
+      "other": "{count} šaltinių"
+    },
+    "domainCount": {
+      "one": "{count} domeno",
+      "few": "{count} domenų",
+      "many": "{count} domeno",
+      "other": "{count} domenų"
+    },
+    "methodologyLabel": "Metodika.",
+    "methodologySources": {
+      "france": "Duomenys surinkti iš oficialių šaltinių (HATVP turto deklaracijų, INSEE, Légifrance ir valdžios institucijų svetainių) bei iš patikimų žiniasklaidos pranešimų.",
+      "switzerland": "Duomenys surinkti iš oficialių šaltinių (Federalinio Susirinkimo interesų registro, parlament.ch ir federalinių, kantonų bei savivaldybių institucijų svetainių), taip pat iš Lobbywatch ir patikimų žiniasklaidos pranešimų.",
+      "default": "Duomenys surinkti iš oficialių šaltinių (parlamento ir valdžios institucijų dokumentų, oficialiųjų leidinių ir viešų deklaracijų, jei šalis jas skelbia) bei iš patikimų žiniasklaidos pranešimų."
+    },
+    "methodologyStatuses": "Statusai atspindi patikrinamus rezultatus nurodytą datą; kaltinimai aiškiai įvardijami kaip kaltinimai ir nurodoma jų teisinė būklė.",
+    "otherDomain": "kiti",
+    "sections": {
+      "promises": "Pažadai",
+      "work_history": "Darbo patirtis",
+      "finances": "Finansai",
+      "stocks": "Akcijos",
+      "real_estate": "Nekilnojamasis turtas",
+      "companies": "Įmonės",
+      "controversies": "Prieštaringi atvejai",
+      "electoral_history": "Rinkimai",
+      "interests": "Interesai",
+      "education": "Išsilavinimas",
+      "honors": "Apdovanojimai",
+      "key_legislation": "Teisės aktai",
+      "net_worth": "Grynasis turtas",
+      "justice": "Teisminės bylos"
+    },
+    "linkLabel": {
+      "one": "Šaltinis:",
+      "few": "Šaltiniai:",
+      "many": "Šaltiniai:",
+      "other": "Šaltiniai:"
+    }
+  },
+  "promises": {
+    "all": "Visi",
+    "otherCategory": "Kita",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Stebimų pažadų nėra",
+    "emptyBody": "Kol kas nestebimi jokie rinkimų kampanijos ar programos pažadai, kuriuos davė {name}. Su šio asmens veikla galima susipažinti skiltyse {background}, {legislation} ir {controversies}.",
+    "contextLabel": "Kontekstas.",
+    "campaignOnly": "{name} niekada nėjo vykdomosios valdžios pareigų. Tai rinkimų kampanijos pažadai, o ne įgyvendinta politika, todėl kiekvienas jų pažymėtas kaip „{noAction}“, o ne kaip ištesėtas ar sulaužytas.",
+    "promised": "Pažadėta {date}",
+    "confidenceValue": "{value} patikimumas",
+    "filterLabel": "Filtruoti pažadus pagal statusą"
+  },
+  "promise": {
+    "breadcrumbFallback": "Pažadas",
+    "verdict": "Verdiktas",
+    "assessment": "Vertinimas",
+    "keyEvidence": "Pagrindiniai įrodymai",
+    "sourcesHeading": {
+      "one": "Šaltinis",
+      "few": "Šaltiniai",
+      "many": "Šaltiniai",
+      "other": "Šaltiniai"
+    },
+    "primarySource": "Pirminis šaltinis",
+    "additionalSource": "Papildomas šaltinis",
+    "lastReviewed": "Paskutinį kartą peržiūrėta {date}",
+    "editoriallyReviewed": "Peržiūrėjo redakcija",
+    "notVerified": "Šis pažadas dar nepatikrintas."
+  },
+  "confidence": {
+    "label": "Patikimumas"
+  }
+}

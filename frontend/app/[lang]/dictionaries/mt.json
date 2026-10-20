@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "title": "kept.vote — monitoraġġ tal-wegħdiet politiċi",
+    "description": "Monitoraġġ imparzjali tal-wegħdiet politiċi: liema nżammu, liema nkisru u liema għadhom għaddejjin — bis-sorsi."
+  },
+  "header": {
+    "home": "kept.vote — il-paġna ewlenija",
+    "politicians": "Politiċi",
+    "methodology": "Metodoloġija",
+    "language": "Lingwa"
+  },
+  "footer": {
+    "methodologyTitle": "Metodoloġija",
+    "methodologyBody": "Kull wegħda tiġi evalwata abbażi ta’ sorsi primarji — liġijiet, rekords uffiċjali u data tal-gvern — u tingħata wieħed minn dawn l-istatus: {kept}, {broken}, {inProgress} jew {noAction}. Punteġġ ta’ kunfidenza juri kemm hija b’saħħitha l-evidenza disponibbli. Kull verdett għandu links għas-sorsi tiegħu, sabiex kulħadd ikun jista’ jivverifika r-rekord.",
+    "tagline": "kept.vote — sistema imparzjali ta’ monitoraġġ tal-wegħdiet. Prototip."
+  },
+  "home": {
+    "eyebrow": "Monitoraġġ tal-wegħdiet",
+    "title": "Żammew kelmthom?",
+    "intro": "kept.vote iqabbel dak li wiegħdu l-politiċi ma’ dak li fil-fatt għamlu — miżmuma, miksura jew għadha għaddejja — u kull verdett huwa msejjes fuq sorsi primarji.",
+    "stats": {
+      "politicians": "Politiċi",
+      "promises": "Wegħdiet immonitorjati",
+      "verified": "Ivverifikati"
+    },
+    "politiciansHeading": "Politiċi",
+    "countryFilterLabel": "Iffiltra skont il-pajjiż",
+    "allCountries": "Il-pajjiżi kollha",
+    "otherCountry": "Oħrajn",
+    "politicianCount": {
+      "one": "{count} politiku",
+      "two": "{count} politiċi",
+      "few": "{count} politiċi",
+      "many": "{count}-il politiku",
+      "other": "{count} politiku"
+    },
+    "promiseCount": {
+      "one": "{count} wegħda",
+      "two": "{count} wegħdiet",
+      "few": "{count} wegħdiet",
+      "many": "{count}-il wegħda",
+      "other": "{count} wegħda"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Għad m’hemm l-ebda wegħda vverifikata",
+    "viewDossier": "Ara d-dossier",
+    "noneInCountry": "Għad m’hemm l-ebda politiku mmonitorjat għal dan il-pajjiż.",
+    "emptyState": "Għad m’hemm l-ebda politiku. Biex ittella’ data ta’ dimostrazzjoni, ħaddem l-iskript tad-data inizjali:",
+    "connectionErrorTitle": "Ma kienx possibbli li jsir kuntatt mal-API tal-backend.",
+    "connectionErrorBody": "Kun żgur li l-backend FastAPI qed jaħdem u li {envVar} jippunta lejh."
+  },
+  "office": {
+    "head_of_state": "Kap tal-Istat",
+    "head_of_government": "Kap tal-Gvern",
+    "minister": "Ministru",
+    "legislator": "Leġiżlatur",
+    "mayor": "Sindku",
+    "regional_executive": "Eżekuttiv reġjonali",
+    "party_leader": "Kap tal-partit",
+    "other": "Kariga oħra"
+  },
+  "notFound": {
+    "title": "Ma nstabx",
+    "body": "Ma stajniex insibu dak li kont qed tfittex.",
+    "back": "Lura għall-politiċi"
+  },
+  "politician": {
+    "back": "← Il-politiċi kollha",
+    "trackRecord": "Rekord tal-wegħdiet",
+    "contentLanguage": "Lingwa tal-profil: {language}",
+    "tabsLabel": "Taqsimiet tal-profil",
+    "tabs": {
+      "promises": "Wegħdiet",
+      "background": "Sfond",
+      "finances": "Finanzi",
+      "justice": "Ġustizzja",
+      "controversies": "Kontroversji",
+      "sources": "Sorsi"
+    },
+    "background": {
+      "electoral": "Storja elettorali",
+      "work": "Esperjenza tax-xogħol",
+      "education": "Edukazzjoni",
+      "legislation": "Leġiżlazzjoni ewlenija",
+      "honors": "Unuri u distinzjonijiet"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Iċ-ċifri huma riprodotti kif ġew iddikjarati — il-biċċa l-kbira huma meħuda mid-dikjarazzjonijiet uffiċjali ppreżentati lill-awtorità Franċiża {hatvp} (l-Awtorità Għolja għat-Trasparenza fil-Ħajja Pubblika). Kliem bħal “iddikjarat” jew “madwar” jirrifletti s-sors u jintwera kif inhu.",
+      "switzerland": "L-Iżvizzera m’għandhiex sistema pubblika ta’ dikjarazzjoni tal-assi għad-detenturi ta’ karigi pubbliċi tagħha, għalhekk iċ-ċifri jidhru biss fejn ikunu ġew irrappurtati pubblikament. Il-mandati u l-interessi huma meħuda mir-reġistru tal-interessi tal-parlament u minn Lobbywatch. Kliem bħal “iddikjarat” jew “madwar” jirrifletti s-sors u jintwera kif inhu.",
+      "default": "Iċ-ċifri huma riprodotti kif ġew iddikjarati, minn dikjarazzjonijiet pubbliċi uffiċjali fejn il-pajjiż jippubblikahom; fejn ma jippubblikahomx, din it-taqsima tibqa’ vojta. Kliem bħal “iddikjarat” jew “madwar” jirrifletti s-sors u jintwera kif inhu."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Valur nett",
+      "assets": "Assi",
+      "income": "Dħul",
+      "real_estate": "Proprjetà immobbli"
+    },
+    "netWorthTimeline": "Kronoloġija tal-valur nett",
+    "stocks": "Titoli / Ishma",
+    "realEstate": "Proprjetà immobbli",
+    "companies": "Kumpaniji u sjieda",
+    "interests": "Dikjarazzjoni tal-interessi",
+    "asOf": "aġġornat sa {date}",
+    "declarationStatus": "Status tad-dikjarazzjoni"
+  },
+  "status": {
+    "fulfilled": "Miżmuma",
+    "broken": "Miksura",
+    "in_progress": "Għaddejja",
+    "compromise": "Kompromess",
+    "no_action": "L-ebda azzjoni",
+    "unverified": "Mhux ivverifikata"
+  },
+  "legalStatus": {
+    "no_charges": "L-ebda akkuża",
+    "ongoing": "Għaddej",
+    "concluded": "Konkluż",
+    "in_court": "Quddiem il-qorti",
+    "political": "Ta’ natura politika",
+    "victim": "Vittma",
+    "under_investigation": "Taħt investigazzjoni",
+    "awaiting_trial": "Fl-istennija tal-proċess",
+    "party_matter": "Kwistjoni interna tal-partit",
+    "no_proceedings": "L-ebda proċeduri",
+    "conviction": "Kundanna",
+    "noted": "Innotat",
+    "unknown": "Mhux magħruf",
+    "appeal_pending": "Appell pendenti",
+    "convicted": "Sentenza ta’ ħtija",
+    "acquitted": "Liberazzjoni",
+    "dismissed": "Każ miċħud",
+    "settled": "Ftehim bonarju"
+  },
+  "assetStatus": {
+    "declared": "Iddikjarat",
+    "estimated": "Stmat",
+    "historical": "Storiku",
+    "divested": "Ċedut",
+    "none": "Xejn iddikjarat"
+  },
+  "justice": {
+    "intro": "Kull entrata tiddokumenta kwistjoni ġudizzjarja u l-istatus legali attwali tagħha. L-investigazzjonijiet u l-kwistjonijiet pendenti ma jfissrux li nstabet xi ħtija; il-preżunzjoni tal-innoċenza tapplika sakemm tingħata deċiżjoni finali tal-qorti.",
+    "outcome": "Eżitu:",
+    "keyFacts": "Fatti ewlenin"
+  },
+  "polemics": {
+    "intro": "Kull entrata tagħti sommarju ta’ kontroversja dokumentata pubblikament u turi l-istatus legali jew politiku attwali tagħha. Id-deskrizzjonijiet huma fattwali u newtrali; allegazzjoni mhijiex sejba ta’ ħtija.",
+    "statusLine": "Status legali/politiku:",
+    "keyFacts": "Fatti ewlenin"
+  },
+  "legislation": {
+    "significance": "Importanza:"
+  },
+  "honors": {
+    "exOfficio": "Ex officio"
+  },
+  "electoral": {
+    "versus": "kontra {opponent}"
+  },
+  "dates": {
+    "present": "Sal-lum"
+  },
+  "sources": {
+    "title": "Sorsi u referenzi",
+    "summary": "Ibbażat fuq {sources} minn {domains}",
+    "sourceCount": {
+      "one": "{count} sors",
+      "two": "{count} sorsi",
+      "few": "{count} sorsi",
+      "many": "{count}-il sors",
+      "other": "{count} sors"
+    },
+    "domainCount": {
+      "one": "{count} dominju",
+      "two": "{count} dominji",
+      "few": "{count} dominji",
+      "many": "{count}-il dominju",
+      "other": "{count} dominju"
+    },
+    "methodologyLabel": "Metodoloġija.",
+    "methodologySources": {
+      "france": "Id-data tinġabar minn sorsi uffiċjali — id-dikjarazzjonijiet tal-assi tal-HATVP, l-INSEE, Légifrance u siti tal-gvern — flimkien ma’ rappurtaġġ affidabbli.",
+      "switzerland": "Id-data tinġabar minn sorsi uffiċjali — ir-reġistru tal-interessi tal-Assemblea Federali, parlament.ch u siti tal-gvern federali, kantonali u muniċipali — flimkien ma’ Lobbywatch u rappurtaġġ affidabbli.",
+      "default": "Id-data tinġabar minn sorsi uffiċjali — rekords parlamentari u governattivi, gazzetti uffiċjali u dikjarazzjonijiet pubbliċi fejn il-pajjiż jippubblikahom — flimkien ma’ rappurtaġġ affidabbli."
+    },
+    "methodologyStatuses": "L-istatus jirrifletti riżultati verifikabbli sad-data indikata; l-allegazzjonijiet huma mmarkati bħala tali u jintwera l-istatus legali tagħhom.",
+    "otherDomain": "oħrajn",
+    "sections": {
+      "promises": "Wegħdiet",
+      "work_history": "Esperjenza tax-xogħol",
+      "finances": "Finanzi",
+      "stocks": "Ishma",
+      "real_estate": "Proprjetà immobbli",
+      "companies": "Kumpaniji",
+      "controversies": "Kontroversji",
+      "electoral_history": "Elezzjonijiet",
+      "interests": "Interessi",
+      "education": "Edukazzjoni",
+      "honors": "Unuri",
+      "key_legislation": "Leġiżlazzjoni",
+      "net_worth": "Valur nett",
+      "justice": "Ġustizzja"
+    },
+    "linkLabel": {
+      "one": "Sors:",
+      "two": "Sorsi:",
+      "few": "Sorsi:",
+      "many": "Sorsi:",
+      "other": "Sorsi:"
+    }
+  },
+  "promises": {
+    "all": "Kollha",
+    "otherCategory": "Oħrajn",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "L-ebda wegħda mmonitorjata",
+    "emptyBody": "Għalissa ma qed tiġi mmonitorjata l-ebda wegħda tal-kampanja jew tal-programm għal {name}. Ir-rekord rilevanti huwa ddokumentat taħt {background}, {legislation} u {controversies}.",
+    "contextLabel": "Kuntest.",
+    "campaignOnly": "Qatt ma nżammet kariga eżekuttiva minn {name}. Dawn huma wegħdiet tal-kampanja, mhux politika implimentata — għalhekk kull waħda hija rreġistrata bħala “{noAction}” u mhux bħala miżmuma jew miksura.",
+    "promised": "Data tal-wegħda: {date}",
+    "confidenceValue": "{value} kunfidenza",
+    "filterLabel": "Iffiltra l-wegħdiet skont l-istatus"
+  },
+  "promise": {
+    "breadcrumbFallback": "Wegħda",
+    "verdict": "Verdett",
+    "assessment": "Valutazzjoni",
+    "keyEvidence": "Evidenza ewlenija",
+    "sourcesHeading": {
+      "one": "Sors",
+      "two": "Sorsi",
+      "few": "Sorsi",
+      "many": "Sorsi",
+      "other": "Sorsi"
+    },
+    "primarySource": "Sors primarju",
+    "additionalSource": "Sors addizzjonali",
+    "lastReviewed": "L-aħħar reviżjoni: {date}",
+    "editoriallyReviewed": "Riveduta editorjalment",
+    "notVerified": "Din il-wegħda għadha ma ġietx ivverifikata."
+  },
+  "confidence": {
+    "label": "Kunfidenza"
+  }
+}
