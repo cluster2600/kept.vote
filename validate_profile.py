@@ -26,7 +26,7 @@ import os
 import re
 import sys
 
-from profile_format import OFFICES, parse_confidence
+from profile_format import CORE_SECTIONS, OFFICES, parse_confidence
 
 DATA_DIR = os.getenv("DATA_DIR", "data")
 
@@ -111,14 +111,6 @@ SECTIONS: dict[str, tuple[set[str], set[str]]] = {
         {"holding", "type", "value", "as_of", "detail", "status"},
         {"holding"},
     ),
-}
-
-# Sections every new profile must ship (possibly as an empty array, e.g. no
-# justice record). Financial sections are optional: only countries with a public
-# declaration regime have data for them.
-CORE_SECTIONS = {
-    "promises", "polemics", "justice", "work_history", "education",
-    "electoral_history", "key_legislation",
 }
 
 PROMISE_STATUSES = {"kept", "in_progress", "compromise", "broken", "no_action"}

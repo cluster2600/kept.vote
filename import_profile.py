@@ -49,6 +49,7 @@ from import_common import (
     pick,
     slug_of,
 )
+from profile_format import CORE_SECTIONS
 
 
 def _load(section: str) -> list[dict]:
@@ -319,10 +320,11 @@ _SECTION_SPECS = [
 ]
 
 # Legal sections must never publish an unsourced claim — drop records lacking a
-# source URL. Optional sections are imported (in a full run) only if their file
-# exists, so a standard profile import never requires them.
+# source URL. Optional sections (financial ones, honors) are imported in a full
+# run only if their file exists. Justice is core for new profiles but older
+# ones predate it, so it stays optional here.
 _DROP_UNSOURCED = {"polemics", "justice"}
-_OPTIONAL = {"justice"}
+_OPTIONAL = {token for _, token, _, _ in _SECTION_SPECS} - CORE_SECTIONS | {"justice"}
 
 
 def _load_section(token: str) -> list[dict]:

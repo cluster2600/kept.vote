@@ -8,6 +8,14 @@ from __future__ import annotations
 
 import unicodedata
 
+# Sections every profile must ship (possibly as an empty array, e.g. no justice
+# record). The others are optional: financial sections only exist for countries
+# with a public declaration regime.
+CORE_SECTIONS = {
+    "promises", "polemics", "justice", "work_history", "education",
+    "electoral_history", "key_legislation",
+}
+
 # Kinds of office a politician can hold. Stored as a key so the frontend can
 # translate it; the exact title goes in the free-text ``role``.
 OFFICES = {
