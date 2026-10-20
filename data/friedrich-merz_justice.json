@@ -1,0 +1,62 @@
+[
+  {
+    "id": "merz-justice-bverfg-side-income-2007",
+    "case": "Constitutional dispute over disclosure of MPs' side income (2 BvE 1/06) — Merz as applicant",
+    "period": "2006–2007",
+    "type": "constitutional proceedings (Organstreit), Merz among the applicants",
+    "description": "In 2006 Merz, then a member of the Bundestag with numerous side activities, and eight other MPs brought Organstreit proceedings before the Federal Constitutional Court against new rules of the Members of Parliament Act that made the mandate the centre of an MP's activity and required MPs to disclose side activities and income, arguing that the rules violated the free mandate under Article 38 of the Basic Law.",
+    "status": "other",
+    "outcome": "On 4 July 2007 the Second Senate rejected the applications. The court was unanimous that the rule placing the mandate at the centre of an MP's activity was constitutional; on the disclosure and sanction rules it split four to four, and because a violation of the Basic Law cannot be established on a tied vote, the disclosure obligations remained in force.",
+    "court": "Federal Constitutional Court (Bundesverfassungsgericht), Second Senate",
+    "presumption_note": "Merz was one of the applicants, not a defendant. The case concerned the constitutionality of parliamentary transparency rules and involved no allegation of wrongdoing against him.",
+    "key_facts": [
+      "Nine members of the Bundestag, including Merz, filed the applications in 2006 (Der Spiegel).",
+      "Judgment of 4 July 2007, case 2 BvE 1/06; press release no. 73/2007.",
+      "Four judges considered the disclosure rules constitutional and four did not; the applications therefore failed."
+    ],
+    "source_url": [
+      "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2007/bvg07-073.html",
+      "https://www.spiegel.de/politik/deutschland/nebenjobs-abgeordnete-klagen-gegen-transparente-politiker-gehaelter-a-441894.html"
+    ]
+  },
+  {
+    "id": "merz-justice-volksverhetzung-complaints",
+    "case": "Criminal complaints alleging incitement to hatred (Volksverhetzung, § 130 StGB) over migration remarks",
+    "period": "2023–2025",
+    "type": "criminal complaints filed by third parties",
+    "description": "After Merz's September 2023 remark that rejected asylum seekers were having their teeth redone while German citizens could not get appointments, Left Party MP Daphne Weber publicly filed a criminal complaint alleging incitement to hatred. After his 'Stadtbild' remark of 14 October 2025, further complaints were filed, including by the Friedrichshain-Kreuzberg district branch of the Greens and by local branches of the Left Party; the Berlin public prosecutor's office confirmed to the epd news agency that a complaint had been received and was being examined.",
+    "status": "no_charges",
+    "outcome": "No investigation, charge or court proceedings against Merz arising from these complaints have been reported by established media as of October 2026. Writing in LTO about the 2023 complaint, former Federal Court of Justice judge Thomas Fischer concluded that the remark was not even remotely capable of meeting the definition of the offence under § 130 StGB.",
+    "court": "Public prosecutors (Staatsanwaltschaft Berlin for the 2025 complaints)",
+    "presumption_note": "A criminal complaint is a request to examine facts and does not mean that an investigation has been opened; the Berlin prosecutor's office stated that receipt of a complaint does not mean that investigations are under way. Merz has not been charged with any offence and is presumed innocent.",
+    "key_facts": [
+      "September 2023: complaint by MP Daphne Weber (Die Linke) over the 'dentist' remark (LTO).",
+      "22 October 2025: Berlin prosecutors confirm receipt of a complaint over the 'Stadtbild' remark and say it is being examined (epd via evangelisch.de).",
+      "24 October 2025: the Greens' Friedrichshain-Kreuzberg branch files a complaint; Left Party branches in Bochum, Essen and Jena follow (beck-aktuell)."
+    ],
+    "source_url": [
+      "https://www.lto.de/recht/meinung/m/fischer-merz-aussage-zahnaerzte-fluechtlinge",
+      "https://www.evangelisch.de/inhalte/248785/22-10-2025/kritik-merz-aeusserung-haelt-petition-und-strafanzeige",
+      "https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/bundeskanzler-merz-stadtbild-aeusserung-strafanzeige-volksverhetzung-2025-10-28"
+    ]
+  },
+  {
+    "id": "merz-justice-voter-deception-complaint-2025",
+    "case": "Criminal complaint alleging voter deception (Wählertäuschung, § 108a StGB) over the debt-brake reform",
+    "period": "2025",
+    "type": "criminal complaint filed by a third party",
+    "description": "After the CDU/CSU and SPD agreed in March 2025 to loosen the debt brake, contrary to the CDU/CSU election programme, a Munich lawyer said he had filed a criminal complaint against Merz for alleged voter deception under § 108a of the Criminal Code. Legal experts quoted by Correctiv said the offence covers deception about the act of voting itself, not broken campaign promises, which are at most a political matter.",
+    "status": "no_charges",
+    "outcome": "Correctiv found no confirmation that an investigation had been opened (the Berlin prosecutor's office had not responded by publication). No investigation or charge has been reported since, as of October 2026.",
+    "court": "Public prosecutors (complaint reportedly filed; Staatsanwaltschaft Berlin contacted by Correctiv)",
+    "presumption_note": "The filing of a complaint establishes nothing; police and prosecutors open an investigation only if they see an initial suspicion. Merz has not been charged and is presumed innocent.",
+    "key_facts": [
+      "Claims that the debt-brake reversal was criminal 'voter deception' circulated on social media from 7 March 2025.",
+      "Experts cited by Correctiv: § 108a StGB concerns manipulation of the voting act, not campaign promises.",
+      "Correctiv fact-check published 20 March 2025."
+    ],
+    "source_url": [
+      "https://correctiv.org/faktencheck/2025/03/20/merz-und-schuldenbremse-falsche-wahlversprechen-sind-keine-waehlertaeuschung-nach-strafgesetz/"
+    ]
+  }
+]
