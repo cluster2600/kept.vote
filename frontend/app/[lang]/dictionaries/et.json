@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Poliitikud",
     "countryFilterLabel": "Filtreeri riigi järgi",
+    "mapLabel": "Euroopa kaart: valige riik",
+    "mapCovered": "Kaetud",
+    "mapNotCovered": "Pole veel kaetud",
     "allCountries": "Kõik riigid",
     "otherCountry": "Muu",
     "politicianCount": {

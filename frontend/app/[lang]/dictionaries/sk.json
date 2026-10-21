@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filtrovanie podľa krajiny",
+    "mapLabel": "Mapa Európy: vyberte krajinu",
+    "mapCovered": "Zahrnuté",
+    "mapNotCovered": "Zatiaľ nezahrnuté",
     "allCountries": "Všetky krajiny",
     "otherCountry": "Ostatné",
     "politicianCount": {

@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Poliitikot",
     "countryFilterLabel": "Suodata maan mukaan",
+    "mapLabel": "Euroopan kartta: valitse maa",
+    "mapCovered": "Mukana",
+    "mapNotCovered": "Ei vielä mukana",
     "allCountries": "Kaikki maat",
     "otherCountry": "Muu",
     "politicianCount": {

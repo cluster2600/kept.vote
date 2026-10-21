@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politikere",
     "countryFilterLabel": "Filtrer etter land",
+    "mapLabel": "Europakart: velg et land",
+    "mapCovered": "Dekket",
+    "mapNotCovered": "Ikke dekket ennå",
     "allCountries": "Alle land",
     "otherCountry": "Andre",
     "politicianCount": {

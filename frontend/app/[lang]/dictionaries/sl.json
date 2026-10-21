@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiki",
     "countryFilterLabel": "Filtriranje po državi",
+    "mapLabel": "Zemljevid Evrope: izberite državo",
+    "mapCovered": "Vključeno",
+    "mapNotCovered": "Še ni vključeno",
     "allCountries": "Vse države",
     "otherCountry": "Drugo",
     "politicianCount": {

@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Политици",
     "countryFilterLabel": "Филтриране по държава",
+    "mapLabel": "Карта на Европа: изберете държава",
+    "mapCovered": "Обхваната",
+    "mapNotCovered": "Все още не е обхваната",
     "allCountries": "Всички държави",
     "otherCountry": "Други",
     "politicianCount": {

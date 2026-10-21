@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiķi",
     "countryFilterLabel": "Filtrēt pēc valsts",
+    "mapLabel": "Eiropas karte: izvēlieties valsti",
+    "mapCovered": "Iekļauta",
+    "mapNotCovered": "Vēl nav iekļauta",
     "allCountries": "Visas valstis",
     "otherCountry": "Citas valstis",
     "politicianCount": {

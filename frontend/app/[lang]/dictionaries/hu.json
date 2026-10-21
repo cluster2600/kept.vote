@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politikusok",
     "countryFilterLabel": "Szűrés ország szerint",
+    "mapLabel": "Európa térképe: válasszon országot",
+    "mapCovered": "Lefedve",
+    "mapNotCovered": "Még nincs lefedve",
     "allCountries": "Minden ország",
     "otherCountry": "Egyéb",
     "politicianCount": {

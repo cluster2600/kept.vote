@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filteren op land",
+    "mapLabel": "Kaart van Europa: kies een land",
+    "mapCovered": "Opgenomen",
+    "mapNotCovered": "Nog niet opgenomen",
     "allCountries": "Alle landen",
     "otherCountry": "Overig",
     "politicianCount": {
