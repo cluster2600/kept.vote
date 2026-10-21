@@ -1,0 +1,178 @@
+[
+  {
+    "id": "robert-fico-el-1992-snr",
+    "election": "1992 Slovak National Council election",
+    "date": "1992-06-06",
+    "role_sought": "Member of the Slovak National Council, Party of the Democratic Left (SDĽ) list",
+    "result": "Elected",
+    "vote_share": "SDĽ: 453,203 votes (14.70%)",
+    "opponent": "",
+    "detail": "Elections held on 5–6 June 1992. First election to parliament; the SDĽ came second behind Vladimír Mečiar's HZDS (37.26%). The Slovak National Council became the National Council of the Slovak Republic on independence in 1993.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/snr1992/volby92s/pph92.htm",
+      "https://www.teraz.sk/nrsr-a-vlada-profily/profil-predsedu-vlady-sr-fica/188424-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-el-1994-nrsr",
+    "election": "1994 Slovak parliamentary election",
+    "date": "1994-10-01",
+    "role_sought": "Member of the National Council, Spoločná voľba (Common Choice) list, an SDĽ-led coalition",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elections held on 30 September–1 October 1994. The Statistical Office's list of elected deputies includes Robert Fico for SP.VOĽBA; the coalition's vote share is published only as an image on the official site, so it is not reproduced here.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr1994/slov/volby23.htm"
+    ]
+  },
+  {
+    "id": "robert-fico-el-1998-nrsr",
+    "election": "1998 Slovak parliamentary election",
+    "date": "1998-09-26",
+    "role_sought": "Member of the National Council, SDĽ list (3rd on the list)",
+    "result": "Elected",
+    "vote_share": "SDĽ: 492,507 votes (14.66%); Fico: 194,519 preferential votes (39.50% of SDĽ voters), moving from 3rd to 1st place on the list",
+    "opponent": "",
+    "detail": "Elections held on 25–26 September 1998. He received the most preferential votes of any SDĽ candidate; the SDĽ joined Mikuláš Dzurinda's coalition, which Fico later criticised before leaving the party in 1999.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr1998/results/tab2.jsp.htm",
+      "https://volby.statistics.sk/nrsr/nrsr1998/results/tab5.jsp.htm",
+      "https://www.e15.cz/robert-fico-zivotopis-2023"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2002-nrsr",
+    "election": "2002 Slovak parliamentary election",
+    "date": "2002-09-21",
+    "role_sought": "Member of the National Council; leader of Smer",
+    "result": "Elected; Smer third, in opposition",
+    "vote_share": "Smer: 387,100 votes (13.46%), 25 seats",
+    "opponent": "",
+    "detail": "Elections held on 20–21 September 2002, the first contested by Smer. Mikuláš Dzurinda formed a second centre-right government.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr2002/webdata/slov/tab/tab3.htm",
+      "https://volby.statistics.sk/nrsr/nrsr2002/webdata/slov/tab/tab4.htm",
+      "https://www.e15.cz/robert-fico-zivotopis-2023"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2006-nrsr",
+    "election": "2006 Slovak parliamentary election",
+    "date": "2006-06-17",
+    "role_sought": "Member of the National Council; Smer-SD leader and candidate for Prime Minister",
+    "result": "Won (first place); became Prime Minister",
+    "vote_share": "Smer-SD: 29.14%, 50 seats",
+    "opponent": "SDKÚ-DS (Mikuláš Dzurinda), 18.35%",
+    "detail": "Fico formed a coalition with the SNS and ĽS-HZDS. The Statistical Office's 2006 results pages are no longer reachable on volby.statistics.sk; figures from The Slovak Spectator's report of the final results.",
+    "source_url": [
+      "https://spectator.sme.sk/politics-and-society/c/elections-2006-smer-wins-elections-with-29-14-percent",
+      "https://volby.statistics.sk/nrsr/nrsr2006/"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2010-nrsr",
+    "election": "2010 Slovak parliamentary election",
+    "date": "2010-06-12",
+    "role_sought": "Member of the National Council; Smer-SD leader and candidate for Prime Minister",
+    "result": "Won (first place) but no majority; elected MP, went into opposition",
+    "vote_share": "Smer-SD: 880,111 votes (34.79%), 62 seats",
+    "opponent": "SDKÚ-DS (Iveta Radičová)",
+    "detail": "His coalition partners lost ground (ĽS-HZDS fell below the threshold) and the four centre-right parties formed a government under Iveta Radičová.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr2010/sr/tab3.jsp@lang=sk.htm",
+      "https://volby.statistics.sk/nrsr/nrsr2010/sr/tab4.jsp@lang=sk.htm",
+      "https://volby.statistics.sk/nrsr/nrsr2010/sr/tab6.jsp@lang=sk.htm"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2012-nrsr",
+    "election": "2012 Slovak parliamentary election (early)",
+    "date": "2012-03-10",
+    "role_sought": "Member of the National Council; Smer-SD leader and candidate for Prime Minister",
+    "result": "Won (absolute majority); became Prime Minister",
+    "vote_share": "Smer-SD: 1,134,280 votes (44.41%), 83 of 150 seats",
+    "opponent": "KDH, OĽaNO, Most-Híd, SDKÚ-DS, SaS",
+    "detail": "Early election after the fall of the Radičová government in October 2011; Smer-SD became the first single party to win an absolute majority since 1993.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr2012/sr/tab3.jsp@lang=sk.htm",
+      "https://volby.statistics.sk/nrsr/nrsr2012/sr/tab4.jsp@lang=sk.htm",
+      "https://volby.statistics.sk/nrsr/nrsr2012/sr/tab6.jsp@lang=sk.htm"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2014-pres-r1",
+    "election": "2014 Slovak presidential election, first round",
+    "date": "2014-03-15",
+    "role_sought": "President of the Slovak Republic (Smer-SD candidate)",
+    "result": "First place; advanced to the run-off",
+    "vote_share": "531,919 votes (28.00%)",
+    "opponent": "Andrej Kiska 455,996 (24.00%); Radoslav Procházka 403,548 (21.24%); Milan Kňažko 244,401 (12.86%)",
+    "detail": "Turnout 43.40%. Fico announced his candidacy on 18 December 2013 while serving as Prime Minister.",
+    "source_url": [
+      "https://volby.statistics.sk/prez/prez2014/Prezident-dv/Tabulka7_sk.html",
+      "https://volby.statistics.sk/prez/prez2014/Prezident-dv/Tabulka1_sk.html",
+      "https://www.teraz.sk/nrsr-a-vlada-profily/profil-predsedu-vlady-sr-fica/188424-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2014-pres-r2",
+    "election": "2014 Slovak presidential election, second round",
+    "date": "2014-03-29",
+    "role_sought": "President of the Slovak Republic (Smer-SD candidate)",
+    "result": "Lost",
+    "vote_share": "893,841 votes (40.61%)",
+    "opponent": "Andrej Kiska (independent), 1,307,065 votes (59.38%), elected",
+    "detail": "After the defeat he remained Prime Minister.",
+    "source_url": [
+      "https://volby.statistics.sk/prez/prez2014/Prezident-dv/Tabulka15_sk.html",
+      "https://www.teraz.sk/nrsr-a-vlada-profily/profil-predsedu-vlady-sr-fica/188424-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2016-nrsr",
+    "election": "2016 Slovak parliamentary election",
+    "date": "2016-03-05",
+    "role_sought": "Member of the National Council; Smer-SD leader and candidate for Prime Minister",
+    "result": "Won (first place); became Prime Minister",
+    "vote_share": "Smer-SD: 737,481 votes (28.28%), 49 seats",
+    "opponent": "SaS (Richard Sulík), OĽaNO-NOVA (Igor Matovič)",
+    "detail": "President Andrej Kiska asked Fico to form a government on 9 March 2016; he formed a coalition with the SNS, Most-Híd and #Sieť. The official results site renders its tables with scripts; vote totals cross-checked with TASR and Wikipedia.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr2016/sk/data02.html",
+      "https://www.teraz.sk/nrsr-a-vlada-profily/profil-predsedu-vlady-sr-fica/188424-clanok.html",
+      "https://en.wikipedia.org/wiki/2016_Slovak_parliamentary_election"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2020-nrsr",
+    "election": "2020 Slovak parliamentary election",
+    "date": "2020-02-29",
+    "role_sought": "Member of the National Council; Smer-SD chairman (the list was led by Prime Minister Peter Pellegrini)",
+    "result": "Elected; Smer-SD second, in opposition",
+    "vote_share": "Smer-SD: 527,172 votes (18.29%), 38 seats",
+    "opponent": "OĽaNO–NOVA–KÚ–ZZ (Igor Matovič), 721,166 votes (25.03% per Wikipedia), 53 seats",
+    "detail": "Igor Matovič formed the new government. Pellegrini, who had received more preferential votes than Fico, left Smer-SD in June 2020 and founded Hlas-SD. The official results site renders its tables with scripts; figures from Wikipedia.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr2020/sk/data02.html",
+      "https://en.wikipedia.org/wiki/2020_Slovak_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Robert_Fico"
+    ]
+  },
+  {
+    "id": "robert-fico-el-2023-nrsr",
+    "election": "2023 Slovak parliamentary election (early)",
+    "date": "2023-09-30",
+    "role_sought": "Member of the National Council; Smer-SD leader and candidate for Prime Minister",
+    "result": "Won (first place); became Prime Minister",
+    "vote_share": "Smer-SD: 681,017 votes (22.94%), 42 seats",
+    "opponent": "Progresívne Slovensko (Michal Šimečka), 533,136 votes (17.96%), 32 seats",
+    "detail": "Early election after the fall of the Heger government. Fico formed a coalition with Hlas-SD and the SNS, appointed on 25 October 2023. The Statistical Office publishes percentages to two decimals without rounding (22.94%); some sources round to 22.95%. The official tables render with scripts; figures cross-checked with Wikipedia.",
+    "source_url": [
+      "https://volby.statistics.sk/nrsr/nrsr2023/sk/vysledky_hlasovania_strany.html",
+      "https://volby.statistics.sk/nrsr/nrsr2023/sk/mandaty_strany.html",
+      "https://en.wikipedia.org/wiki/2023_Slovak_parliamentary_election",
+      "https://newsnow.tasr.sk/president-appoints-new-government/"
+    ]
+  }
+]
