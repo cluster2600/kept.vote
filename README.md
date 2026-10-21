@@ -3,8 +3,10 @@
 Backend for **[kept.vote](https://github.com/cluster2600/kept.vote)** — a website
 to track politician promises (EU / CH / NO).
 
-> Deployed via Vercel (frontend) + Render (API) + Neon (Postgres). See
-> [`DEPLOY.md`](./DEPLOY.md).
+> **Production** runs on Cloudflare: a Worker (the Next.js site, built with
+> vinext) reading a D1 database, on <https://kept.vote>. The site's data is the
+> read API below, rendered ahead of time from `data/*.json` by `build_d1.py`.
+> See [`DEPLOY.md`](./DEPLOY.md).
 
 A production-ready FastAPI backend that stores politicians, their promises,
 uploaded documents, and implemented policies — then uses **Claude** to analyze
@@ -47,9 +49,11 @@ promise-verification-api/
 ├── import_promises.py     # Load a profile's promises + verdicts into the DB
 ├── import_profile.py      # Load a profile's other sections into the DB
 ├── validate_profile.py    # Check profiles against docs/PROFILE_FORMAT.md
+├── build_d1.py            # Render the site's data into SQL for Cloudflare D1
+├── d1/                    # D1 schema (+ generated seed in d1/build/)
 ├── requirements.txt
 ├── Dockerfile
-├── docker-compose.yml     # Postgres + API + frontend
+├── docker-compose.yml     # Postgres + API (local tooling)
 ├── .env.example
 ├── frontend/              # Next.js + Tailwind public website (kept.vote)
 │   ├── app/               # App Router pages (home, politician, promise)
@@ -76,45 +80,37 @@ development). See [`.env.example`](./.env.example):
 
 No credentials are hardcoded.
 
-## Run the full stack locally (recommended)
+## Run the website locally
 
-This brings up Postgres, the API, **and** the kept.vote website together, then
-loads the Emmanuel Macron demo data.
+The site reads its data from a local D1 database seeded from `data/`:
+
+```bash
+pip install -r requirements.txt   # API deps + aiosqlite, used by build_d1.py
+python build_d1.py                # renders data/*.json → d1/build/seed.sql
+
+cd frontend
+npm install
+npm run db:local                  # loads the seed into the local D1
+npm run dev                       # http://localhost:3001
+```
+
+## Run the API locally
+
+The FastAPI app is the data and tooling layer: importers, document upload, AI
+verification. `build_d1.py` runs it in-process; to run it as a server with
+Postgres:
 
 ```bash
 cp .env.example .env          # optional: set ANTHROPIC_API_KEY for AI /api/verify
-docker compose up --build     # starts db + api (:8000) + frontend (:3000)
-
-# in another terminal, once the API is healthy, seed the demo data:
+docker compose up --build     # starts db + api (:8000)
 docker compose exec api python seed.py
 ```
 
-Then open:
-
-- **Website:** <http://localhost:3000> — the kept.vote public site
-- **API docs:** <http://localhost:8000/docs> — Swagger UI
+API docs: <http://localhost:8000/docs> (Swagger UI).
 
 > The seed loads Emmanuel Macron with six real, sourced promises (4 kept,
 > 1 broken, 1 in progress). It's idempotent — re-running is a no-op; use
 > `docker compose exec api python seed.py --reset` to wipe and reload.
-
-> **Note:** the `key_evidence` column was added in this iteration. If you have an
-> older database volume, recreate it once: `docker compose down -v` before
-> `up`. The API auto-creates tables on startup.
-
-### Backend in Docker, frontend with hot reload
-
-Handy while iterating on the UI:
-
-```bash
-docker compose up --build db api          # backend only
-docker compose exec api python seed.py    # seed demo data
-
-cd frontend
-cp .env.local.example .env.local          # API_BASE_URL=http://localhost:8000
-npm install
-npm run dev                               # http://localhost:3000
-```
 
 ### API only, without Docker
 
@@ -131,8 +127,9 @@ driver.
 
 ## Front-end (kept.vote website)
 
-A Next.js (App Router) + Tailwind app in [`frontend/`](./frontend), deployable
-to Vercel. It's the public, trustworthy face of the data:
+A Next.js (App Router) + Tailwind app in [`frontend/`](./frontend), built with
+[vinext](https://github.com/cloudflare/vinext) and deployed as a Cloudflare
+Worker. It's the public, trustworthy face of the data:
 
 - **Home** — hero, live stats, and a politician list with a colour-coded track
   record (kept / in progress / broken).
@@ -141,9 +138,9 @@ to Vercel. It's the public, trustworthy face of the data:
 - **Promise** — the fact-check view: verdict, confidence meter, written
   assessment, bulleted key evidence, and a link to the primary source.
 
-Pages are server-rendered (React Server Components) and read the backend base URL
-from `API_BASE_URL` (falls back to `http://localhost:8000`). For Vercel, set
-`API_BASE_URL` to your deployed backend.
+Pages are server-rendered (React Server Components) in 26 languages and read
+their data from D1 through [`frontend/lib/data.ts`](./frontend/lib/data.ts), which
+returns the same JSON the read API serves.
 
 ## Politician profiles
 

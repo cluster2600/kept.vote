@@ -4,14 +4,13 @@
   "private": true,
   "description": "Public front-end for kept.vote — tracking political promises.",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "vite dev --port 3001",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vinext-cloudflare deploy",
     "check:i18n": "node scripts/check-i18n.mjs",
-    "dev:vinext": "vite dev --port 3001",
-    "build:vinext": "vite build",
-    "start:vinext": "vite preview",
-    "deploy:vinext": "vinext-cloudflare deploy"
+    "db:local": "wrangler d1 execute kept-vote --local --persist-to .cloudflare/state -c ../d1/wrangler.local.jsonc --yes --file ../d1/schema.sql && wrangler d1 execute kept-vote --local --persist-to .cloudflare/state -c ../d1/wrangler.local.jsonc --yes --file ../d1/build/seed.sql",
+    "db:remote": "wrangler d1 execute kept-vote --remote -c ../d1/wrangler.local.jsonc --yes --file ../d1/schema.sql && wrangler d1 execute kept-vote --remote -c ../d1/wrangler.local.jsonc --yes --file ../d1/build/seed.sql"
   },
   "dependencies": {
     "@vinext/cloudflare": "^1.2.0",
@@ -33,7 +32,8 @@
     "postcss": "8.5.31",
     "tailwindcss": "4.3.3",
     "typescript": "6.0.3",
-    "vite": "^8.3.0"
+    "vite": "^8.3.0",
+    "wrangler": "4.151.3"
   },
   "type": "module",
   "allowScripts": {

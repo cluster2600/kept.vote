@@ -34,16 +34,6 @@ services:
     volumes:
       - uploads:/app/uploads
 
-  frontend:
-    build: ./frontend
-    depends_on:
-      - api
-    environment:
-      # Server-side rendering fetches the API via the compose network.
-      API_BASE_URL: http://api:8000
-    ports:
-      - "3000:3000"
-
 volumes:
   pgdata:
   uploads:

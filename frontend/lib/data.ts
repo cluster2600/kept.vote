@@ -1,8 +1,7 @@
 // Server-only data access. The site's content lives in Cloudflare D1 as the
 // read API's JSON responses, pre-rendered from data/*.json by build_d1.py and
 // stored under their API path (see d1/schema.sql). Each page loads what it
-// needs in one or two queries: the Workers Free plan allows 50 D1 queries and
-// 10 ms of CPU per request.
+// needs in one to three queries.
 
 import "server-only";
 
