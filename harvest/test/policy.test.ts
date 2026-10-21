@@ -65,6 +65,19 @@ test("classify: bot walls and WAF block pages are blocked, not reachable", () =>
   assert.equal(classify(200, waf), "blocked");
 });
 
+test("classify: server error pages are unreachable, not reachable", () => {
+  // As served for dpa.gr: Cloudflare could not reach the origin.
+  const cf520 = "---\ntitle: \"kitesurf.cfdata.org | 520: Web server is returning an unknown error\"\n---\n\n# Web server is returning an unknown error Error code 520\n\n## What happened?\n\nThere is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.\n\n## What can I do?\n\nPlease try again in a few minutes.";
+  const nginx = "---\ntitle: \"502 Bad Gateway\"\n---\n\n# 502 Bad Gateway\n\nnginx";
+  assert.equal(classify(520, cf520), "unreachable");
+  assert.equal(classify(null, cf520), "unreachable");
+  assert.equal(classify(502, nginx), "unreachable");
+  assert.equal(classify(503, ""), "unreachable");
+  // A long article that mentions a server error is still a page.
+  const article = "---\ntitle: \"Outage report\"\n---\n\n" + "The site showed 502 Bad Gateway for an hour. ".repeat(80);
+  assert.equal(classify(200, article), "reachable");
+});
+
 test("a page that renders only its front matter is an error, but keeps its title", () => {
   // slov-lex.sk: a script-built page whose body Kitesurf can't render.
   const md = "---\ntitle: \"357/2004 Z. z. Ústavný zákon | Slov-Lex\"\n---";
