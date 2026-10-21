@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filtrování podle země",
+    "mapLabel": "Mapa Evropy: vyberte zemi",
+    "mapCovered": "Zahrnuto",
+    "mapNotCovered": "Zatím nezahrnuto",
     "allCountries": "Všechny země",
     "otherCountry": "Ostatní",
     "politicianCount": {

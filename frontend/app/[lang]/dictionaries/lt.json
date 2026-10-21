@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politikai",
     "countryFilterLabel": "Filtruoti pagal šalį",
+    "mapLabel": "Europos žemėlapis: pasirinkite šalį",
+    "mapCovered": "Įtraukta",
+    "mapNotCovered": "Dar neįtraukta",
     "allCountries": "Visos šalys",
     "otherCountry": "Kitos šalys",
     "politicianCount": {

@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiċi",
     "countryFilterLabel": "Iffiltra skont il-pajjiż",
+    "mapLabel": "Mappa tal-Ewropa: agħżel pajjiż",
+    "mapCovered": "Kopert",
+    "mapNotCovered": "Għadu mhux kopert",
     "allCountries": "Il-pajjiżi kollha",
     "otherCountry": "Oħrajn",
     "politicianCount": {

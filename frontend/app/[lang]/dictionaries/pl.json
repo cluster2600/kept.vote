@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politycy",
     "countryFilterLabel": "Filtrowanie według kraju",
+    "mapLabel": "Mapa Europy: wybierz kraj",
+    "mapCovered": "Uwzględniony",
+    "mapNotCovered": "Jeszcze nieuwzględniony",
     "allCountries": "Wszystkie kraje",
     "otherCountry": "Inne",
     "politicianCount": {

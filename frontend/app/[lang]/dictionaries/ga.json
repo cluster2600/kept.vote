@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Polaiteoirí",
     "countryFilterLabel": "Scag de réir tíre",
+    "mapLabel": "Léarscáil na hEorpa: roghnaigh tír",
+    "mapCovered": "Clúdaithe",
+    "mapNotCovered": "Gan clúdach fós",
     "allCountries": "Gach tír",
     "otherCountry": "Eile",
     "politicianCount": {

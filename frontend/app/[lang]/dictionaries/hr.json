@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Političari",
     "countryFilterLabel": "Filtriranje po državi",
+    "mapLabel": "Karta Europe: odaberite državu",
+    "mapCovered": "Obuhvaćeno",
+    "mapNotCovered": "Još nije obuhvaćeno",
     "allCountries": "Sve države",
     "otherCountry": "Ostalo",
     "politicianCount": {

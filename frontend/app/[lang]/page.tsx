@@ -10,11 +10,13 @@ import {
   getStatus,
   listPoliticians,
 } from "@/lib/data";
+import EuropeMap, { type MapEntry } from "@/components/EuropeMap";
 import TrackRecord from "@/components/TrackRecord";
 import { getDictionary, type Dictionary } from "./dictionaries";
 import { intlLocale, isLocale, localePath, type Locale } from "@/lib/i18n/config";
 import { countryName, plural } from "@/lib/i18n/format";
 import { alternatesFor } from "@/lib/i18n/metadata";
+import { EUROPE_CODES } from "@/lib/map/europe";
 
 export const dynamic = "force-dynamic";
 
@@ -119,6 +121,7 @@ export default async function HomePage({ params, searchParams }: Props) {
           <EmptyState dict={dict} />
         ) : (
           <>
+            <CountryMap groups={groups} selected={selected} lang={lang} dict={dict} />
             {groups.length > 1 && (
               <CountryFilter
                 groups={groups}
@@ -171,6 +174,43 @@ function Stat({ label, value, lang }: { label: string; value: number; lang: Loca
         {new Intl.NumberFormat(intlLocale(lang)).format(value)}
       </dd>
     </div>
+  );
+}
+
+/** The map of Europe: covered countries filter the list like the chips. */
+function CountryMap({
+  groups,
+  selected,
+  lang,
+  dict,
+}: {
+  groups: CountryGroup[];
+  selected: string | null;
+  lang: Locale;
+  dict: Dictionary;
+}) {
+  const t = dict.home;
+  const covered: Record<string, MapEntry> = {};
+  for (const g of groups) {
+    if (!g.code) continue;
+    covered[g.code] = {
+      name: g.name,
+      href: `${localePath(lang)}?country=${g.code}`,
+      detail: plural(t.politicianCount, g.politicians.length, lang),
+    };
+  }
+  const others: Record<string, string> = {};
+  for (const code of EUROPE_CODES) {
+    if (!covered[code]) others[code] = countryName(code, lang) ?? code;
+  }
+  return (
+    <EuropeMap
+      covered={covered}
+      others={others}
+      selected={selected}
+      allHref={localePath(lang)}
+      labels={{ map: t.mapLabel, covered: t.mapCovered, notCovered: t.mapNotCovered }}
+    />
   );
 }
 

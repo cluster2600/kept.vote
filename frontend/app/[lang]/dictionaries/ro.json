@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politicieni",
     "countryFilterLabel": "Filtrare după țară",
+    "mapLabel": "Harta Europei: alegeți o țară",
+    "mapCovered": "Acoperit",
+    "mapNotCovered": "Încă neacoperit",
     "allCountries": "Toate țările",
     "otherCountry": "Alte țări",
     "politicianCount": {
