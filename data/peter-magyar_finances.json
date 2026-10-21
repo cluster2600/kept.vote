@@ -1,0 +1,254 @@
+[
+  {
+    "id": "peter-magyar-fin-ep2024-hodler",
+    "year": 2024,
+    "type": "prior_income",
+    "label": "Hodler Alapkezelő Zrt. — legal director and investment adviser (April 2022 – March 2024)",
+    "amount": "3,000,000 HUF per month",
+    "detail": "Income declared for the three years before his European Parliament mandate, in his declaration of private interests dated 23 July 2024 (section A).",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-ep2024-diakhitel-ceo",
+    "year": 2024,
+    "type": "prior_income",
+    "label": "Diákhitel Központ Zrt. — chief executive (June 2019 – February 2022)",
+    "amount": "3,500,000 HUF per month",
+    "detail": "Declared in the European Parliament declaration of private interests of 23 July 2024 (section A). He also declared 400,000 HUF a month as a board member of the company (January 2021 – July 2022).",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-ep2024-mbh",
+    "year": 2024,
+    "type": "prior_income",
+    "label": "MBH Bank Nyrt. — supervisory board member (September 2022 – February 2024)",
+    "amount": "1,500,000 HUF per month",
+    "detail": "Declared in the European Parliament declaration of private interests of 23 July 2024 (section A).",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-ep2024-volanbusz",
+    "year": 2024,
+    "type": "prior_income",
+    "label": "Volánbusz Zrt. — board member (April – December 2023)",
+    "amount": "1,100,000 HUF per month",
+    "detail": "Declared in the European Parliament declaration of private interests of 23 July 2024 (section A).",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-ep2024-magyar-kozut",
+    "year": 2024,
+    "type": "prior_income",
+    "label": "Magyar Közút Zrt. — board member (August 2022 – February 2024)",
+    "amount": "1,875,000 HUF (2022); 1,475,800 HUF (2023); 1,794,000 HUF (January–February 2024)",
+    "detail": "Annual board fees declared in the European Parliament declaration of private interests of 23 July 2024 (section A).",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-ep2024-hiventures",
+    "year": 2024,
+    "type": "prior_income",
+    "label": "Hiventures Zrt. — investment committee member (2021 – February 2024)",
+    "amount": "400,000 HUF per month",
+    "detail": "Declared in the European Parliament declaration of private interests of 23 July 2024 (section A). His trusteeship of the Hungarian State Opera ballet students' foundation (2021–2023) was declared as unpaid.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-ep2024-no-outside-income",
+    "year": 2024,
+    "type": "outside_income",
+    "label": "Paid outside activities alongside the MEP mandate",
+    "amount": "none declared",
+    "detail": "Section B of the European Parliament declaration (remunerated activities above 5,000 EUR a year alongside the mandate) is empty; the Tisza Party presidency (from July 2024) is declared as unpaid.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2026-01-income-mep",
+    "year": 2025,
+    "type": "salary",
+    "label": "Current taxable income: Member of the European Parliament",
+    "amount": "income category 4 (1,000,001 – 5,000,000 HUF gross per month)",
+    "detail": "Hungarian declarations use income bands rather than amounts. NVI-published annual declaration as MEP (situation at 31 December 2025, signed 30 January 2026). Party presidency, an association membership and the LLM Zrt. directorship declared as unpaid.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://www.valasztas.hu/vagyonnyilatkozatok_2024-2029"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2026-05-income-mp",
+    "year": 2026,
+    "type": "salary",
+    "label": "Current taxable income: Member of the National Assembly",
+    "amount": "income category 4 (1,000,001 – 5,000,000 HUF gross per month)",
+    "detail": "NVI-published closing declaration at the end of his MEP mandate (values at 8 May 2026, signed 7 June 2026); the parallel opening declaration as an MP published on parlament.hu (asset date 9 May 2026) was reported by Telex, HVG and Index with the same contents. Party presidency and an association membership declared as unpaid; no remuneration from LLM Zrt. As prime minister he also draws the statutory prime-ministerial salary, which the declarations do not itemise.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://www.parlament.hu/vagynyil//2026/0837m076_j0260509k.pdf",
+      "https://telex.hu/belfold/2026/06/08/magyar-peter-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2025-07-cash",
+    "year": 2025,
+    "type": "cash",
+    "label": "Cash (July 2025)",
+    "amount": "3,000,000 HUF",
+    "detail": "NVI-published opening declaration as MEP signed 10 July 2025.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2025-07-bank",
+    "year": 2025,
+    "type": "bank_account",
+    "label": "Bank account balances (July 2025)",
+    "amount": "3,886,366 HUF + 16,732.84 EUR (6,676,737 HUF at 399.02 HUF/EUR)",
+    "detail": "NVI-published opening declaration as MEP signed 10 July 2025.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2025-07-debts",
+    "year": 2025,
+    "type": "debt",
+    "label": "Debts (July 2025)",
+    "amount": "none declared",
+    "detail": "NVI-published opening declaration as MEP signed 10 July 2025: no public, bank or private debts declared.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2025-12-cash",
+    "year": 2025,
+    "type": "cash",
+    "label": "Cash (31 December 2025)",
+    "amount": "3,000,000 HUF",
+    "detail": "NVI-published annual declaration as MEP (situation at 31 December 2025, signed 30 January 2026).",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://444.hu/2026/02/01/magyar-peter-bo-tizmilliot-tudott-felretenni-a-tisza-partot-pedig-ingyen-vezeti-a-vagyonnyilatkozata-szerint"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2025-12-bank",
+    "year": 2025,
+    "type": "bank_account",
+    "label": "Bank account balances (31 December 2025)",
+    "amount": "1,192,694 HUF + 79,227.23 EUR (30,534,174 HUF at 385.4 HUF/EUR)",
+    "detail": "NVI-published annual declaration as MEP (situation at 31 December 2025, signed 30 January 2026).",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://444.hu/2026/02/01/magyar-peter-bo-tizmilliot-tudott-felretenni-a-tisza-partot-pedig-ingyen-vezeti-a-vagyonnyilatkozata-szerint"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2025-12-debt-card",
+    "year": 2025,
+    "type": "debt",
+    "label": "Credit-card debt (31 December 2025)",
+    "amount": "3,442,050 HUF",
+    "detail": "NVI-published annual declaration as MEP (situation at 31 December 2025, signed 30 January 2026). Reported as repaid by the time of his May 2026 declarations.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://hvg.hu/itthon/20260608_magyar-peter-visszafizetett-9-2-millio-forintnyi-tartozast"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2025-12-debt-private",
+    "year": 2025,
+    "type": "debt",
+    "label": "Debts to private individuals (31 December 2025)",
+    "amount": "5,800,000 HUF",
+    "detail": "NVI-published annual declaration as MEP (situation at 31 December 2025, signed 30 January 2026). Reported as repaid by the time of his May 2026 declarations.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://hvg.hu/itthon/20260608_magyar-peter-visszafizetett-9-2-millio-forintnyi-tartozast"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2026-05-cash",
+    "year": 2026,
+    "type": "cash",
+    "label": "Cash (May 2026)",
+    "amount": "5,000,000 HUF",
+    "detail": "NVI-published closing declaration at the end of his MEP mandate (values at 8 May 2026, signed 7 June 2026); the parallel opening declaration as an MP published on parlament.hu (asset date 9 May 2026) was reported by Telex, HVG and Index with the same contents.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://www.parlament.hu/vagynyil//2026/0837m076_j0260509k.pdf",
+      "https://hvg.hu/itthon/20260608_magyar-peter-visszafizetett-9-2-millio-forintnyi-tartozast"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2026-05-bank",
+    "year": 2026,
+    "type": "bank_account",
+    "label": "Bank account balances (May 2026)",
+    "amount": "2,376,652 HUF + 54,757 EUR (stated as 20,511,820.98 HUF at the 8 May 2026 MNB rate)",
+    "detail": "NVI-published closing declaration at the end of his MEP mandate (values at 8 May 2026, signed 7 June 2026); the parallel opening declaration as an MP published on parlament.hu (asset date 9 May 2026) was reported by Telex, HVG and Index with the same contents. The declaration states an exchange rate of 355.14 HUF/EUR, which would give about 19.4 million HUF; the forint figure shown is the one written in the declaration.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://www.parlament.hu/vagynyil//2026/0837m076_j0260509k.pdf",
+      "https://hvg.hu/itthon/20260608_magyar-peter-visszafizetett-9-2-millio-forintnyi-tartozast",
+      "https://index.hu/belfold/2026/06/08/magyar-peter-miniszterelnok-kormanyfo-tisza-part-vagyonnyilatkozat-megtakaritas/"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-2026-05-debts",
+    "year": 2026,
+    "type": "debt",
+    "label": "Debts (May 2026)",
+    "amount": "none declared",
+    "detail": "NVI-published closing declaration at the end of his MEP mandate (values at 8 May 2026, signed 7 June 2026); the parallel opening declaration as an MP published on parlament.hu (asset date 9 May 2026) was reported by Telex, HVG and Index with the same contents: the 9.2 million HUF of debts declared in January 2026 no longer appear.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://hvg.hu/itthon/20260608_magyar-peter-visszafizetett-9-2-millio-forintnyi-tartozast",
+      "https://index.hu/belfold/2026/06/08/magyar-peter-miniszterelnok-kormanyfo-tisza-part-vagyonnyilatkozat-megtakaritas/"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-vehicle-volvo",
+    "year": 2026,
+    "type": "vehicle",
+    "label": "Passenger car: Volvo XC60 Momentum D5 AWD",
+    "amount": "value not declared",
+    "detail": "Bought in 2018; sole ownership since the division of marital property in 2023. Listed in every declaration since July 2025.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-fin-movables-piano-paintings",
+    "year": 2026,
+    "type": "movable_assets",
+    "label": "Yamaha upright piano and two paintings",
+    "amount": "values not declared",
+    "detail": "Piano bought in 2017 (sole ownership since the 2023 division of marital property); paintings bought in 2020 and 2022. Hungarian declarations list movables worth at least 5 million HUF.",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  }
+]
