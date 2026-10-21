@@ -1,0 +1,139 @@
+{
+  "$comment": "Official sources per country, read by harvest.py. A host is official when it is, or is a subdomain of, a listed domain, or matches a pattern. Official pages are re-checked weekly and reported by `harvest.py changes`; their domains are allowlisted by `harvest.py sync`. `watch` pages are harvested even when no profile cites them yet. `access` records what the harvest saw, with the date. See docs/HARVEST.md.",
+  "patterns": [
+    "gov\\.[a-z]{2,3}",
+    "government\\.[a-z.]+",
+    "parliament\\.[a-z.]+",
+    "parlament\\.[a-z.]+"
+  ],
+  "countries": {
+    "EU": {
+      "name": "European Union",
+      "domains": {
+        "europa.eu": { "what": "EU institutions (Parliament, Commission, Council, Court of Justice)" }
+      }
+    },
+    "AT": {
+      "name": "Austria",
+      "domains": {
+        "gv.at": { "what": "Federal administration and Parliament (parlament.gv.at)" }
+      }
+    },
+    "CH": {
+      "name": "Switzerland",
+      "domains": {
+        "admin.ch": { "what": "Federal administration (Federal Council, departments, Federal Chancellery)" },
+        "parlament.ch": { "what": "Federal Assembly" }
+      }
+    },
+    "CZ": {
+      "name": "Czechia",
+      "domains": {
+        "vlada.cz": { "what": "Government" },
+        "psp.cz": { "what": "Chamber of Deputies" },
+        "usoud.cz": { "what": "Constitutional Court" },
+        "justice.cz": { "what": "Courts and the commercial register" }
+      }
+    },
+    "DE": {
+      "name": "Germany",
+      "domains": {
+        "bundesregierung.de": { "what": "Federal Government" },
+        "bundestag.de": { "what": "Bundestag, including members' declared side income" },
+        "bundesverfassungsgericht.de": { "what": "Federal Constitutional Court" }
+      }
+    },
+    "ES": {
+      "name": "Spain",
+      "domains": {
+        "gob.es": { "what": "Government and administration (La Moncloa, ministries)" },
+        "congreso.es": { "what": "Congress of Deputies" },
+        "senado.es": { "what": "Senate" },
+        "boe.es": { "what": "Official State Gazette" },
+        "poderjudicial.es": { "what": "Judiciary" }
+      }
+    },
+    "FR": {
+      "name": "France",
+      "domains": {
+        "gouv.fr": { "what": "Government and administration" },
+        "elysee.fr": { "what": "Presidency" },
+        "assemblee-nationale.fr": { "what": "National Assembly" },
+        "senat.fr": { "what": "Senate" },
+        "conseil-constitutionnel.fr": { "what": "Constitutional Council" },
+        "hatvp.fr": { "what": "High Authority for Transparency in Public Life (asset and interest declarations)" },
+        "vie-publique.fr": { "what": "Official public-policy information service" }
+      }
+    },
+    "HU": {
+      "name": "Hungary",
+      "domains": {
+        "kormany.hu": { "what": "Government" },
+        "parlament.hu": { "what": "National Assembly, including members' asset declarations" },
+        "valasztas.hu": { "what": "National Election Office" }
+      }
+    },
+    "IT": {
+      "name": "Italy",
+      "domains": {
+        "governo.it": { "what": "Presidency of the Council of Ministers" },
+        "camera.it": { "what": "Chamber of Deputies" },
+        "senato.it": { "what": "Senate" },
+        "cortecostituzionale.it": { "what": "Constitutional Court" }
+      }
+    },
+    "NO": {
+      "name": "Norway",
+      "domains": {
+        "regjeringen.no": { "what": "Government" },
+        "stortinget.no": { "what": "Storting (parliament)" }
+      }
+    },
+    "PL": {
+      "name": "Poland",
+      "domains": {
+        "gov.pl": { "what": "Government and administration, Sejm (sejm.gov.pl)" }
+      }
+    },
+    "SK": {
+      "name": "Slovakia",
+      "domains": {
+        "gov.sk": {
+          "what": "Public administration: Government Office (vlada.gov.sk), Prosecutor General (genpro.gov.sk), Supreme Audit Office (nku.gov.sk), Ministry of Justice, register of public-sector partners (rpvs.gov.sk), contracts register (crz.gov.sk)",
+          "access": "2026-10-21: vlada.gov.sk and crz.gov.sk reset connections from outside Slovakia (waf-redirect.gov.sk), so they are unreachable; the other subdomains render"
+        },
+        "nrsr.sk": {
+          "what": "National Council (parliament): members, votes, and the asset declarations of public officials (members of parliament and of the government), published by its Committee on Incompatibility of Functions",
+          "access": "2026-10-21: every page answers with a BunkerWeb proof-of-work bot check (status blocked); check by hand"
+        },
+        "prezident.sk": { "what": "President: appointments and dismissals (prime minister, ministers, judges), laws signed or returned" },
+        "slov-lex.sk": {
+          "what": "Collection of Laws (legislation and its official versions)",
+          "access": "2026-10-21: pages build their text with scripts; the harvest gets the title only (status error)"
+        },
+        "ustavnysud.sk": { "what": "Constitutional Court" },
+        "nsud.sk": { "what": "Supreme Court" },
+        "nssud.sk": {
+          "what": "Supreme Administrative Court",
+          "access": "2026-10-21: answers with a web-firewall block page (status blocked)"
+        },
+        "minv.sk": { "what": "Ministry of the Interior: State Commission for Elections and Control of Financing of Political Parties, party annual reports, Government Gazette" },
+        "statistics.sk": { "what": "Statistical Office: official election and referendum results (volby.statistics.sk)" },
+        "volbysr.sk": { "what": "Statistical Office: results site for the 2026 elections" },
+        "slovensko.sk": { "what": "Central public-administration portal" }
+      },
+      "watch": [
+        { "url": "https://www.prezident.sk/vymenovania-a-odvolania", "what": "Appointments and dismissals by the President: government reshuffles" },
+        { "url": "https://www.prezident.sk/podpisane-a-vratene-zakony", "what": "Laws signed by the President or returned to parliament" },
+        { "url": "https://www.minv.sk/?vestnik-vlady-sr", "what": "Government Gazette (Vestník vlády)" },
+        { "url": "https://www.minv.sk/?vyrocnespravyps", "what": "Annual reports of political parties and movements" },
+        { "url": "https://www.minv.sk/?statnakomisia-zasadnutia", "what": "Meetings of the State Commission for Elections and Control of Financing of Political Parties" },
+        { "url": "https://volby.statistics.sk/nrsr/nrsr2023/sk/index.html", "what": "National Council election 2023: official results" },
+        { "url": "https://volby.statistics.sk/prez/prez2024/sk/index.html", "what": "Presidential election 2024: official results" },
+        { "url": "https://volby.statistics.sk/ep/ep2024/sk/index.html", "what": "European Parliament election 2024: official results" },
+        { "url": "https://volby.statistics.sk/ref/ref2026/sk/index.html", "what": "Referendum 2026: official results" },
+        { "url": "https://volbysr.sk/sk/index.html", "what": "2026 elections: official results site" }
+      ]
+    }
+  }
+}

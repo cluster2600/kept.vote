@@ -18,5 +18,10 @@ uploads/
 .DS_Store
 .gstack/
 
-# Generated D1 seed (build_d1.py)
+# Generated D1 seed (build_d1.py) and harvest targets (harvest.py sync)
 d1/build/
+harvest/build/
+
+# Cloudflare CLI caches
+.cloudflare/
+.wrangler/
