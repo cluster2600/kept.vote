@@ -3,22 +3,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
   countryCodeOf,
-  getPolitician,
-  getSources,
-  listCompanies,
-  listEducation,
-  listElectoralHistory,
-  listFinances,
-  listHonors,
-  listInterests,
-  listJustice,
-  listKeyLegislation,
-  listNetWorth,
-  listPolemics,
-  listPoliticianPromises,
-  listRealEstate,
-  listStocks,
-  listWorkHistory,
   NotFoundError,
   type Company,
   type EducationItem,
@@ -38,6 +22,24 @@ import {
   type VerificationStatus,
   type WorkHistoryItem,
 } from "@/lib/api";
+import {
+  getPolitician,
+  getSources,
+  listCompanies,
+  listEducation,
+  listElectoralHistory,
+  listFinances,
+  listHonors,
+  listInterests,
+  listJustice,
+  listKeyLegislation,
+  listNetWorth,
+  listPolemics,
+  listPoliticianPromises,
+  listRealEstate,
+  listStocks,
+  listWorkHistory,
+} from "@/lib/data";
 import TrackRecord from "@/components/TrackRecord";
 import PoliticianProfile from "@/components/PoliticianProfile";
 import { getDictionary } from "../../dictionaries";

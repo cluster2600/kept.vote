@@ -42,8 +42,8 @@
     "viewDossier": "Vedeți dosarul",
     "noneInCountry": "Încă nu este monitorizat niciun politician din această țară.",
     "emptyState": "Nu există încă politicieni. Rulați scriptul de inițializare pentru a încărca datele demonstrative:",
-    "connectionErrorTitle": "Nu s-a putut contacta API-ul serverului.",
-    "connectionErrorBody": "Verificați dacă serverul FastAPI rulează și dacă {envVar} indică adresa acestuia."
+    "connectionErrorTitle": "Datele nu au putut fi încărcate.",
+    "connectionErrorBody": "Baza de date nu a răspuns. Vă rugăm să încercați din nou în câteva momente."
   },
   "office": {
     "head_of_state": "Șef de stat",

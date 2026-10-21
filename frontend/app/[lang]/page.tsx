@@ -3,15 +3,17 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
   countryCodeOf,
-  getStatus,
-  listPoliticians,
   type PoliticianSummary,
   type SystemStatus,
 } from "@/lib/api";
+import {
+  getStatus,
+  listPoliticians,
+} from "@/lib/data";
 import TrackRecord from "@/components/TrackRecord";
 import { getDictionary, type Dictionary } from "./dictionaries";
 import { intlLocale, isLocale, localePath, type Locale } from "@/lib/i18n/config";
-import { countryName, plural, rich } from "@/lib/i18n/format";
+import { countryName, plural } from "@/lib/i18n/format";
 import { alternatesFor } from "@/lib/i18n/metadata";
 
 export const dynamic = "force-dynamic";
@@ -336,11 +338,7 @@ function ConnectionError({ message, dict }: { message: string; dict: Dictionary 
         {dict.home.connectionErrorTitle}
       </p>
       <p className="mt-1 text-sm text-rose-700">
-        {rich(dict.home.connectionErrorBody, {
-          envVar: (
-            <code className="rounded-sm bg-rose-100 px-1">API_BASE_URL</code>
-          ),
-        })}
+        {dict.home.connectionErrorBody}
       </p>
       <p className="mt-2 break-all text-xs text-rose-500">{message}</p>
     </div>

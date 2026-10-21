@@ -17,3 +17,6 @@ uploads/
 # OS
 .DS_Store
 .gstack/
+
+# Generated D1 seed (build_d1.py)
+d1/build/

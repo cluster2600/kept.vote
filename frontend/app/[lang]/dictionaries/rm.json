@@ -40,8 +40,8 @@
     "viewDossier": "Mussar il dossier",
     "noneInCountry": "Per quest pajais na vegnan anc survegliads nagins politichers.",
     "emptyState": "Anc nagins politichers. Lantschai il script da datas inizialas per chargiar datas da demonstraziun:",
-    "connectionErrorTitle": "Impussibel da cuntanscher l’API dal backend.",
-    "connectionErrorBody": "Verifitgai che il backend FastAPI funcziunia e che {envVar} mussa sin el."
+    "connectionErrorTitle": "Las datas n’han betg pudì vegnir chargiadas.",
+    "connectionErrorBody": "La banca da datas n’ha betg respundì. Empruvai danovamain en in mument."
   },
   "office": {
     "head_of_state": "Chau dal stadi",

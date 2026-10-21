@@ -42,8 +42,8 @@
     "viewDossier": "Skatīt dosjē",
     "noneInCountry": "Šajā valstī vēl netiek uzraudzīts neviens politiķis.",
     "emptyState": "Politiķu vēl nav. Lai ielādētu demonstrācijas datus, palaidiet datu ielādes skriptu:",
-    "connectionErrorTitle": "Neizdevās izveidot savienojumu ar aizmugursistēmas API.",
-    "connectionErrorBody": "Pārliecinieties, ka FastAPI aizmugursistēma darbojas un {envVar} norāda uz to."
+    "connectionErrorTitle": "Datus neizdevās ielādēt.",
+    "connectionErrorBody": "Datubāze neatbildēja. Lūdzu, mēģiniet vēlreiz pēc brīža."
   },
   "office": {
     "head_of_state": "Valsts vadītājs",

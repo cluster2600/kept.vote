@@ -40,8 +40,8 @@
     "viewDossier": "Se profil",
     "noneInCountry": "Det følges ennå ingen politikere fra dette landet.",
     "emptyState": "Ingen politikere ennå. Kjør seed-skriptet for å laste inn demodata:",
-    "connectionErrorTitle": "Kunne ikke nå backend-API-et.",
-    "connectionErrorBody": "Kontroller at FastAPI-backenden kjører, og at {envVar} peker på den."
+    "connectionErrorTitle": "Dataene kunne ikke lastes inn.",
+    "connectionErrorBody": "Databasen svarte ikke. Prøv igjen om et øyeblikk."
   },
   "office": {
     "head_of_state": "Statsoverhode",

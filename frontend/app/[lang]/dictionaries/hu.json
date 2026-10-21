@@ -40,8 +40,8 @@
     "viewDossier": "Adatlap megtekintése",
     "noneInCountry": "Ebből az országból még nem követünk politikusokat.",
     "emptyState": "Még nincsenek politikusok. A bemutató adatok betöltéséhez futtassa a seed szkriptet:",
-    "connectionErrorTitle": "Nem sikerült elérni a backend API-t.",
-    "connectionErrorBody": "Ellenőrizze, hogy fut-e a FastAPI backend, és hogy az {envVar} változó rá mutat-e."
+    "connectionErrorTitle": "Az adatokat nem sikerült betölteni.",
+    "connectionErrorBody": "Az adatbázis nem válaszolt. Kérjük, próbálja újra egy kis idő múlva."
   },
   "office": {
     "head_of_state": "Államfő",

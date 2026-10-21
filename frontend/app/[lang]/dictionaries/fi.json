@@ -40,8 +40,8 @@
     "viewDossier": "Avaa profiili",
     "noneInCountry": "Tästä maasta ei vielä seurata poliitikkoja.",
     "emptyState": "Poliitikkoja ei vielä ole. Lataa esittelytiedot ajamalla seed-skripti:",
-    "connectionErrorTitle": "Taustajärjestelmän API-rajapintaan ei saatu yhteyttä.",
-    "connectionErrorBody": "Varmista, että FastAPI-taustajärjestelmä on käynnissä ja että {envVar} osoittaa siihen."
+    "connectionErrorTitle": "Tietoja ei voitu ladata.",
+    "connectionErrorBody": "Tietokanta ei vastannut. Yritä hetken kuluttua uudelleen."
   },
   "office": {
     "head_of_state": "Valtionpäämies",

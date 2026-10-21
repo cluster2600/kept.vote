@@ -40,8 +40,8 @@
     "viewDossier": "Vaata toimikut",
     "noneInCountry": "Selle riigi poliitikuid veel ei jälgita.",
     "emptyState": "Poliitikuid veel pole. Demoandmete laadimiseks käivitage seed-skript:",
-    "connectionErrorTitle": "Taustarakenduse API-ga ei õnnestunud ühendust luua.",
-    "connectionErrorBody": "Veenduge, et FastAPI taustarakendus töötab ja {envVar} viitab sellele."
+    "connectionErrorTitle": "Andmeid ei õnnestunud laadida.",
+    "connectionErrorBody": "Andmebaas ei vastanud. Proovige mõne aja pärast uuesti."
   },
   "office": {
     "head_of_state": "Riigipea",

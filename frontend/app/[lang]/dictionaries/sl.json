@@ -44,8 +44,8 @@
     "viewDossier": "Ogled profila",
     "noneInCountry": "Za to državo še ne spremljamo nobenega politika.",
     "emptyState": "Politikov še ni. Za nalaganje demonstracijskih podatkov zaženite skript seed:",
-    "connectionErrorTitle": "Povezava z zalednim API-jem ni uspela.",
-    "connectionErrorBody": "Preverite, ali zaledni sistem FastAPI deluje in ali spremenljivka {envVar} kaže nanj."
+    "connectionErrorTitle": "Podatkov ni bilo mogoče naložiti.",
+    "connectionErrorBody": "Podatkovna zbirka se ni odzvala. Poskusite znova čez nekaj trenutkov."
   },
   "office": {
     "head_of_state": "Šef države",

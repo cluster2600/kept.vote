@@ -42,8 +42,8 @@
     "viewDossier": "Ver dossiê",
     "noneInCountry": "Ainda não são acompanhados políticos deste país.",
     "emptyState": "Ainda não há políticos. Execute o script de inicialização para carregar os dados de demonstração:",
-    "connectionErrorTitle": "Não foi possível contactar a API do servidor.",
-    "connectionErrorBody": "Verifique se o servidor FastAPI está em execução e se {envVar} aponta para o seu endereço."
+    "connectionErrorTitle": "Não foi possível carregar os dados.",
+    "connectionErrorBody": "A base de dados não respondeu. Tente novamente dentro de momentos."
   },
   "office": {
     "head_of_state": "Chefe de Estado",
