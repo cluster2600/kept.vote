@@ -116,6 +116,7 @@ const CHALLENGE = new RegExp(
     "security checkpoint", "security check", "just a moment", "enable javascript and cookies",
     "attention required", "bot detection", "check if you are a human", "proof[- ]of[- ]work",
     "url you requested has been blocked", "request (was |has been )?(blocked|rejected)",
+    "vérification de sécurité", "vérifions que vous êtes",
   ].join("|"),
   "i",
 );
@@ -139,11 +140,10 @@ export function classify(httpStatus: number | null, markdown: string): HarvestSt
   // Block pages often say so only in their title.
   const head = `${titleOf(markdown) ?? ""}\n${text.slice(0, 2000)}`;
   if (CHALLENGE.test(head) && text.length < 3000) return "blocked";
-  if (SERVER_ERROR.test(head) && text.length < 3000) return "unreachable";
-  if (text.length < 40) {
-    if (httpStatus && httpStatus >= 500) return "unreachable";
-    return httpStatus && httpStatus >= 400 ? "blocked" : "error";
-  }
+  // A short page behind a 5xx (maintenance, framework error page), or one that
+  // reads as a server error, means the site is down; the page may be fine.
+  if (text.length < 3000 && ((httpStatus ?? 0) >= 500 || SERVER_ERROR.test(head))) return "unreachable";
+  if (text.length < 40) return httpStatus && httpStatus >= 400 ? "blocked" : "error";
   // A 401/403/429 to the plain fetch while Kitesurf saw real content means
   // the site only refuses non-browser clients: the page itself is fine.
   return "reachable";

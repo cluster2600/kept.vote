@@ -63,7 +63,7 @@ python harvest.py allow DOMAIN --reason "why this source is needed"
 | `dead` | 404 or 410 | Replace the source (archived copy or another source) |
 | `blocked` | Bot check (captcha, proof-of-work), firewall block page, or an empty page behind a 4xx | Check by hand in a browser; never try to get around it |
 | `robots-disallowed` | The site's robots.txt forbids it | Use another source, or check by hand |
-| `unreachable` | No answer, a server error page (5xx, Cloudflare 52x), or robots.txt answered 5xx/429/nothing | Retry later; check by hand if it lasts |
+| `unreachable` | No answer, a server error or maintenance page (a short page behind a 5xx, Cloudflare 52x), or robots.txt answered 5xx/429/nothing | Retry later; check by hand if it lasts |
 | `not-allowed` | Domain not on the allowlist, or not a public web URL | `allow` the domain if the source is legitimate |
 | `error` / `timeout` | Kitesurf returned no usable content | Retry; check by hand if it lasts |
 

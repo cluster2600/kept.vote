@@ -63,6 +63,8 @@ test("classify: bot walls and WAF block pages are blocked, not reachable", () =>
   const waf = "---\ntitle: \"The URL you requested has been blocked\"\n---\n\n![]()\n\n## Chyba 500 - Vnútorná chyba servera\n\n### Stránka nemôže byť zobrazená. Kontaktujte správcu webovej stránky.\n\nURL adresa: www.nssud.sk/";
   assert.equal(classify(200, bunkerweb), "blocked");
   assert.equal(classify(200, waf), "blocked");
+  // As served by dijon-actualites.fr, behind a 503.
+  assert.equal(classify(503, "# Vérification de sécurité\n\nNous vérifions que vous êtes bien humain."), "blocked");
 });
 
 test("classify: server error pages are unreachable, not reachable", () => {
@@ -73,6 +75,10 @@ test("classify: server error pages are unreachable, not reachable", () => {
   assert.equal(classify(null, cf520), "unreachable");
   assert.equal(classify(502, nginx), "unreachable");
   assert.equal(classify(503, ""), "unreachable");
+  // As served by ge.ch and lobbywatch.ch: no error wording a pattern could rely on.
+  const maintenance = "---\ntitle: \"Maintenance en cours | ge.ch\"\n---\n\n# Maintenance en cours\n\nLa ressource demandée est temporairement indisponible.";
+  assert.equal(classify(503, maintenance), "unreachable");
+  assert.equal(classify(500, "---\ntitle: \"500 – Lobbywatch.ch\"\n---\n\n" + "- [Parlamentarier:innen](https://daten.lobbywatch.ch/de/parlamentarier) ".repeat(20)), "unreachable");
   // A long article that mentions a server error is still a page.
   const article = "---\ntitle: \"Outage report\"\n---\n\n" + "The site showed 502 Bad Gateway for an hour. ".repeat(80);
   assert.equal(classify(200, article), "reachable");
