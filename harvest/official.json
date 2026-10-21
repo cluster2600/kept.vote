@@ -65,6 +65,70 @@
         "vie-publique.fr": { "what": "Official public-policy information service" }
       }
     },
+    "GR": {
+      "name": "Greece",
+      "domains": {
+        "primeminister.gr": {
+          "what": "Prime Minister's office: biography, statements, cabinet decisions",
+          "access": "2026-10-21: every page answers 403 Access Denied (Akamai); status blocked"
+        },
+        "hellenicparliament.gr": {
+          "what": "Hellenic Parliament: members, votes, laws, MPs' asset declarations (pothen esches) and the committee auditing party and MP finances",
+          "access": "2026-10-21: every page and the declaration PDFs answer 403 Access Denied (Akamai); status blocked"
+        },
+        "presidency.gr": {
+          "what": "President of the Republic: appointments, decrees, laws promulgated",
+          "access": "2026-10-21: 403 Access Denied; status blocked"
+        },
+        "et.gr": {
+          "what": "National Printing House: Government Gazette (ΦΕΚ), search.et.gr",
+          "access": "2026-10-21: renders, but the search.et.gr lists (daily publications, legislation search) are built by scripts and come back empty"
+        },
+        "adjustice.gr": {
+          "what": "Administrative justice portal, including the Council of State",
+          "access": "2026-10-21: unreachable"
+        },
+        "ste.gr": {
+          "what": "Council of State (former domain)",
+          "access": "2026-10-21: unreachable"
+        },
+        "areiospagos.gr": {
+          "what": "Supreme Civil and Criminal Court (Areios Pagos): decisions",
+          "access": "2026-10-21: the home page returns a title only (status error); the decision search form renders"
+        },
+        "elsyn.gr": {
+          "what": "Court of Audit",
+          "access": "2026-10-21: unreachable"
+        },
+        "ypes.gr": {
+          "what": "Ministry of the Interior: elections and official results (ekloges.ypes.gr)",
+          "access": "2026-10-21: www and ekloges answer 403 Access Denied; status blocked"
+        },
+        "mfa.gr": {
+          "what": "Ministry of Foreign Affairs",
+          "access": "2026-10-21: 403 Access Denied; status blocked"
+        },
+        "statistics.gr": {
+          "what": "Hellenic Statistical Authority (ELSTAT)",
+          "access": "2026-10-21: unreachable or error"
+        },
+        "amlauthority.gr": {
+          "what": "Anti-Money Laundering Authority: audits the asset declarations of officials who do not file with Parliament",
+          "access": "2026-10-21: unreachable"
+        },
+        "aead.gr": { "what": "National Transparency Authority: audits, ethics committee decisions" },
+        "dpa.gr": {
+          "what": "Hellenic Data Protection Authority: decisions and fines, including on political communication",
+          "access": "2026-10-21: list pages answered Cloudflare 520 (origin down), status unreachable"
+        },
+        "harsia.gr": { "what": "Air and Rail Accident Investigation Authority: Tempi and other rail reports" }
+      },
+      "watch": [
+        { "url": "https://www.harsia.gr/index.php/category/porismata-ektheseis-sidiromikoy-tomea/", "what": "Rail accident investigation reports (Tempi report and annexes)" },
+        { "url": "https://aead.gr/press/press-releases", "what": "National Transparency Authority press releases" },
+        { "url": "https://aead.gr/nta/epitropi-deontologias/apofaseis", "what": "National Transparency Authority ethics committee decisions" }
+      ]
+    },
     "HU": {
       "name": "Hungary",
       "domains": {

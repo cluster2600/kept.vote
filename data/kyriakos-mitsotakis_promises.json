@@ -1,0 +1,193 @@
+[
+  {
+    "id": "kyriakos-mitsotakis-promise-investment-grade",
+    "title": "Restore Greece's investment-grade credit rating",
+    "description": "When he asked President Katerina Sakellaropoulou to dissolve parliament on 22 April 2023, Mitsotakis cited the political stability needed to achieve investment grade, lost during the debt crisis, as the 'national issue' justifying early elections.",
+    "date_made": "2023-04-22",
+    "category": "Economy / public finances",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "In March 2025 Moody's upgraded Greece to Baa3 from Ba1, the last of the major rating agencies recognised by the European Central Bank to restore the country to investment grade. The target he set for his second term was therefore met in full.",
+    "key_evidence": [
+      "news247.gr, 22 April 2023: Mitsotakis invoked political stability for investment grade as the national reason for the elections",
+      "To Vima, March 2025: Moody's upgraded Greece to Baa3, the last major ECB-recognised agency to restore investment grade",
+      "Public debt fell to 156.1% of GDP by end-2024 according to the same report"
+    ],
+    "source_url": [
+      "https://www.news247.gr/ekloges/mitsotakis-gia-tin-ependytiki-vathmida-apaiteitai-politiki-statherotita.10015458.html",
+      "https://www.tovima.com/finance/moodys-upgrades-greece-to-investment-grade-ending-crisis-era/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-minimum-wage-950",
+    "title": "Raise the minimum wage to €950 and the average wage to €1,500 by 2027",
+    "description": "Mitsotakis told a cabinet meeting in autumn 2024, when presenting a new indexation mechanism under which the minimum wage could only rise, that it would reach €950 by 2027; the government's stated targets are a €950 gross monthly minimum wage and a €1,500 average wage by 2027.",
+    "date_made": "2024",
+    "category": "Labour / incomes",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The statutory minimum wage rose from €880 to €920 gross per month on 1 April 2026, the sixth rise since 2019 (from €650), and at the September 2026 Thessaloniki International Fair Mitsotakis announced a further rise on 1 April 2027 that he said would take it above €950, and €1,000 in January 2028. He also said the average full-time wage had already passed €1,500. The 2027 deadline has not yet arrived, so the pledge is on track but not yet fulfilled.",
+    "key_evidence": [
+      "To Vima (2024): Mitsotakis said the minimum wage would reach €950 by 2027 under a new mechanism tied to growth, productivity and inflation",
+      "1 April 2026: minimum wage raised from €880 to €920, about 700,000 private-sector workers affected (GTP, GreekReporter)",
+      "5 September 2026 (90th TIF): next rise announced for 1 April 2027, above €950 during 2027 and €1,000 in January 2028",
+      "Mitsotakis (March 2026): average full-time wage already above €1,500"
+    ],
+    "source_url": [
+      "https://www.tovima.com/finance/minimum-wage-in-greece-greek-pm-mitsotakis-says-minimum-wage-to-reach-e950-by-2027/",
+      "https://news.gtp.gr/2026/03/27/greece-raises-minimum-wage-to-e920-impacting-700000-workers/",
+      "https://greekreporter.com/2026/03/26/greece-minimum-wage-hike-920-euros/",
+      "https://greekreporter.com/2026/09/05/greece-tax-relief-plan/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-corporate-tax-20",
+    "title": "Cut corporate income tax to 20% within two years",
+    "description": "As opposition leader before the 2019 election, Mitsotakis told CNBC he planned an 'aggressive and comprehensive tax reform', including bringing the corporate tax rate down to 20% in two years.",
+    "date_made": "2019-02-20",
+    "category": "Taxation",
+    "status": "compromise",
+    "confidence_score": 0.85,
+    "reasoning": "Corporate tax was cut after 2019, but the standard rate stands at 22% as of 2026 according to PwC's worldwide tax summaries, not the 20% promised. The direction of the pledge was delivered in a weaker form.",
+    "key_evidence": [
+      "CNBC, 20 February 2019: plan to bring corporate tax down to 20% in two years",
+      "PwC tax summary for Greece (2026): standard corporate income tax rate set at 22% (29% for credit institutions in the deferred-tax-asset regime)"
+    ],
+    "source_url": [
+      "https://www.cnbc.com/2019/02/20/greece-opposition-leader-kyriakos-mitsotakis-on-taxes-and-economic-growth.html",
+      "https://taxsummaries.pwc.com/greece/corporate/taxes-on-corporate-income"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-same-sex-marriage",
+    "title": "Legalise same-sex civil marriage",
+    "description": "After his June 2023 re-election Mitsotakis announced that he intended to legalise civil marriage for same-sex couples, despite opposition from the Church of Greece and part of his own party.",
+    "date_made": "2023-07",
+    "category": "Civil rights",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Parliament passed the bill on 15 February 2024 by 176 votes to 76, with lawmakers from across the political spectrum voting in favour; it was published as Law 5089/2024 (Government Gazette A' 27/16.02.2024) and also allows same-sex couples to adopt. Greece became the first Orthodox-majority country to legalise same-sex marriage.",
+    "key_evidence": [
+      "July 2023: Mitsotakis announced the plan (Bloomberg, cited by Wikipedia)",
+      "15 February 2024: bill passed 176–76, two abstentions, 46 absent (Al Jazeera)",
+      "Law 5089/2024 on equality in civil marriage, Government Gazette A' 27/16.02.2024 (Lawspot)"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis",
+      "https://www.aljazeera.com/news/2024/2/16/greece-first-orthodox-christian-country-to-legalise-same-sex-marriage",
+      "https://www.lawspot.gr/nomika-nea/o-n-5089-2024-gia-tin-isotita-ston-politiko-gamo/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-non-state-universities",
+    "title": "Allow non-state universities in Greece",
+    "description": "Mitsotakis's government committed to ending the state monopoly on university education, which Article 16 of the Constitution reserves to self-governing public institutions, first by law and then by revising Article 16.",
+    "date_made": "2024-02",
+    "category": "Education",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "A law passed on 8 March 2024 by 159 votes (all 158 ND MPs and one independent) to 129 recognises non-state, non-profit branches of foreign universities, a solution that, according to To Vima, essentially bypasses Article 16 rather than amending it. The constitutional change itself was approved by ND in two votes in July and September 2026 (160 votes) but short of the 180 needed, so it falls to the parliament elected in 2027. Non-state universities therefore exist only in the restricted form of foreign-university branches.",
+    "key_evidence": [
+      "8 March 2024: bill passed 159–129, 11 'present' (To Vima)",
+      "July 2026 first vote on revising Article 16: 160 yes, 93 no, 41 present; September 2026 second vote also short of 180 (Parapolitika)",
+      "Revision proposal would allow higher education by public or private university-level entities under state supervision"
+    ],
+    "source_url": [
+      "https://www.tovima.com/politics/greece-landmark-bill-allowing-non-state-unis-passed-by-parliament-majority/",
+      "https://en.parapolitika.gr/politics/261124/greeces-constitutional-revision-consensus-falls-short-as-parliament-votes/",
+      "https://en.parapolitika.gr/politics/291011/greece-constitutional-revision-falls-short-of-180-votes-what-happens-next/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-article-86-revision",
+    "title": "Revise Article 86 of the Constitution on ministers' criminal liability",
+    "description": "Mitsotakis's majority proposed a constitutional revision under which investigations of ministers would be conducted by an appeals-court prosecutor, parliament would lose its power to conduct its own preliminary examination, and prosecution would be decided by an absolute majority of all MPs. He said ND's 2027 campaign would be built partly on the revision proposals.",
+    "date_made": "2026-07",
+    "category": "Institutions / rule of law",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The proposal to revise Article 86 passed both votes required of the proposing parliament with an absolute majority (159 votes in July 2026), but not the 180 that would have made it binding on the next parliament. Under Article 110 of the Constitution, the parliament elected in 2027 must now approve the revision by at least 180 votes. The process has started but its outcome depends on the next legislature.",
+    "key_evidence": [
+      "July 2026 first vote on Article 86: 159 yes, 95 no, 40 present (PASOK 'present')",
+      "September 2026 second vote: no article reached 180 votes; the revisionary parliament formed after the next election will decide by 180 votes",
+      "Mitsotakis: the 2027 campaign will be built in part on the constitutional revision proposals"
+    ],
+    "source_url": [
+      "https://en.parapolitika.gr/politics/260067/greeces-12-key-constitutional-reforms-heading-to-parliament-vote/",
+      "https://en.parapolitika.gr/politics/261124/greeces-constitutional-revision-consensus-falls-short-as-parliament-votes/",
+      "https://en.parapolitika.gr/politics/291011/greece-constitutional-revision-falls-short-of-180-votes-what-happens-next/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-income-tax-cut-2026",
+    "title": "Cut income tax rates by two points from 2026, with extra cuts for families and young workers",
+    "description": "At the Thessaloniki International Fair in September 2025 Mitsotakis announced an income-tax reform in force from 1 January 2026: most brackets lowered by two percentage points, lower rates by number of children, and zero income tax for workers up to 25 earning up to €20,000.",
+    "date_made": "2025-09",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The cuts took effect at the start of 2026 as announced: most basic rates fell by two points (the 9% bracket unchanged), child-related reductions and the under-25 exemption applied, and the €40,000–60,000 rate fell from 44% to 39%, according to Euronews.",
+    "key_evidence": [
+      "Euronews, 6 January 2026: measures 'first announced three months ago at the Thessaloniki International Fair' now in force",
+      "Zero income tax for under-25s earning up to €20,000; 9% entry rate for ages 25–30",
+      "ENFIA property tax halved in 2026 for main residences in settlements under 1,500 residents, to be abolished there in 2027"
+    ],
+    "source_url": [
+      "https://www.euronews.com/2026/01/06/greece-introduces-2026-tax-cuts-aimed-at-families-and-young-workers"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-rent-refund",
+    "title": "Refund one month's rent to tenants every November",
+    "description": "In April 2025, after a 2024 budget surplus of €11.4 billion, Mitsotakis announced that from November 2025 the state would refund one month's rent to tenants every year, alongside an annual €250 payment to about 1.5 million low-income pensioners and people with disabilities, saying the measures were permanent.",
+    "date_made": "2025-04",
+    "category": "Housing / social policy",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The first refund was paid in November 2025: Mitsotakis said nearly 900,000 tenants would receive up to €800 (plus €50 per dependent child), paid directly into bank accounts. The refund is meant to be repeated every November, so whether it proves permanent can only be judged over time.",
+    "key_evidence": [
+      "To Vima, April 2025: annual rent refund from November 2025 announced as a permanent measure",
+      "iefimerida, November 2025: refunds of up to €800 paid to nearly 900,000 tenants"
+    ],
+    "source_url": [
+      "https://www.tovima.com/politics/mitsotakis-unveils-e1-billion-plan-for-housing-pensioners-public-investments/",
+      "https://www.iefimerida.gr/english/mitsotakis-tiktok-eu800-rent-rebate-hits-accounts-900000-households"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-defence-achilles-shield",
+    "title": "€25 billion, 12-year overhaul of the armed forces built around the 'Achilles Shield'",
+    "description": "On 2 April 2025 Mitsotakis told parliament that Greece would spend €25 billion through 2036 on the 'most drastic' defence overhaul in its modern history, centred on a multi-layered anti-missile, anti-aircraft and anti-drone dome called Achilles Shield (Ασπίδα του Αχιλλέα).",
+    "date_made": "2025-04-02",
+    "category": "Defence",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "In July 2026 the government council for foreign affairs and defence (KYSEA) approved a €4.2 billion package, of which about €3 billion is for Israeli-made air- and missile-defence systems for the Achilles Shield, according to AFP. Procurement has started, but the programme runs to 2036.",
+    "key_evidence": [
+      "April 2025: €25 billion programme through 2036 announced in parliament (Neos Kosmos/AFP)",
+      "July 2026: KYSEA approved a €4.2 billion package including about €3 billion for Israeli systems (Neos Kosmos/AFP)"
+    ],
+    "source_url": [
+      "https://neoskosmos.com/en/2025/04/03/news/greece/achilles-shield-greece-eyes-israeli-barak-system-for-defence-overhaul/",
+      "https://neoskosmos.com/en/2026/07/24/news/greece/greece-to-build-achilles-shield-defence-dome-with-israeli-arms/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-promise-social-media-under-15",
+    "title": "Ban social media for children under 15 from 2027",
+    "description": "On 8 April 2026 Mitsotakis announced, in a TikTok video, that Greece would ban access to social media for under-15s from 2027, citing anxiety and sleep problems among young people and the 'addictive design' of platforms.",
+    "date_made": "2026-04-08",
+    "category": "Digital policy / child protection",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "The bill, which makes platforms verify users' ages (with the state Kids Wallet as an option) and sets fines for non-compliance, was scheduled for a plenary vote on 22 October 2026, to take effect on 1 January 2027. It had not been adopted on the research date.",
+    "key_evidence": [
+      "BBC, 8 April 2026: plan announced by Mitsotakis",
+      "To Vima, October 2026: legislation expected to be voted on 22 October, in force 1 January 2027"
+    ],
+    "source_url": [
+      "https://www.bbc.com/news/articles/ckgx1x742x5o",
+      "https://www.tovima.com/politics/greece-to-ban-social-media-for-under-15s-how-will-it-work"
+    ]
+  }
+]
