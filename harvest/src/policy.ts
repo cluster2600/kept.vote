@@ -120,6 +120,17 @@ const CHALLENGE = new RegExp(
   "i",
 );
 
+// Server error pages: Cloudflare's 52x pages ("520: Web server is returning an
+// unknown error") and plain 5xx pages. The site is down; the page may be fine.
+const SERVER_ERROR = new RegExp(
+  [
+    "\\b5\\d\\d: ", "error code 5\\d\\d", "web server is (returning an unknown error|down)",
+    "origin is unreachable", "bad gateway", "gateway time-?out", "service (temporarily )?unavailable",
+    "internal server error",
+  ].join("|"),
+  "i",
+);
+
 /** Classify a page from its HTTP status (plain fetch, may be null when the
  *  site refuses non-browser clients) and its Kitesurf-rendered Markdown. */
 export function classify(httpStatus: number | null, markdown: string): HarvestStatus {
@@ -128,7 +139,11 @@ export function classify(httpStatus: number | null, markdown: string): HarvestSt
   // Block pages often say so only in their title.
   const head = `${titleOf(markdown) ?? ""}\n${text.slice(0, 2000)}`;
   if (CHALLENGE.test(head) && text.length < 3000) return "blocked";
-  if (text.length < 40) return httpStatus && httpStatus >= 400 ? "blocked" : "error";
+  if (SERVER_ERROR.test(head) && text.length < 3000) return "unreachable";
+  if (text.length < 40) {
+    if (httpStatus && httpStatus >= 500) return "unreachable";
+    return httpStatus && httpStatus >= 400 ? "blocked" : "error";
+  }
   // A 401/403/429 to the plain fetch while Kitesurf saw real content means
   // the site only refuses non-browser clients: the page itself is fine.
   return "reachable";
