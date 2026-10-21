@@ -1,0 +1,170 @@
+[
+  {
+    "id": "giorgia-meloni-almasri-release",
+    "title": "Release and repatriation of Libyan ICC suspect Osama Almasri",
+    "period": "January 2025 – 2026",
+    "category": "rule_of_law",
+    "description": "In January 2025 Italian authorities arrested in Turin and then released and flew back to Libya on a state aircraft Osama Almasri Njeem, a Libyan official wanted by the International Criminal Court for alleged crimes against detainees. The government cited procedural defects and, later, national-security grounds; opposition parties and human-rights groups accused it of shielding a suspect, and Il Post noted that the government's accounts of the decision had been contradictory. Meloni, who in August 2025 took political responsibility for the choice, repeatedly criticised the prosecutors' handling of the case. The ICC found Italy in breach of its cooperation obligations and referred it to the Assembly of States Parties; Meloni's own criminal position was archived in August 2025 (see justice record).",
+    "status": "ongoing",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Arrested 19 January 2025, released and repatriated 21 January 2025",
+      "Meloni and three members of her government were investigated; her position was archived on 4 August 2025",
+      "The Chamber refused authorisation to prosecute Nordio, Piantedosi and Mantovano on 9 October 2025",
+      "ICC non-compliance finding against Italy and referral to the Assembly of States Parties, made public on 2 April 2026",
+      "Almasri was later sentenced in Libya (June 2026) for violence against migrants"
+    ],
+    "source_url": [
+      "https://www.ilpost.it/2025/08/06/meloni-almasri-tribunale-ministri-archiviazione/",
+      "https://www.ansa.it/sito/notizie/politica/2025/08/04/meloni-tribunale-dei-ministri-archivia-mia-posizione-su-almasri_03f758bc-c290-434f-8e3e-fe8eb0b1dad5.html",
+      "https://unipd-centrodirittiumani.it/en/topics/the-international-criminal-court-confirms-that-italy-should-respond-to-the-assembly-of-states-parties-for-failing-to-arrest-almasri",
+      "https://www.ilpost.it/2026/06/21/almasri-condannato-libia-tortura-migranti/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-albania-centres",
+    "title": "Italy–Albania migrant centres: court rulings, costs and low use",
+    "period": "November 2023 – 2026",
+    "category": "migration",
+    "description": "The protocol Meloni signed with Albanian Prime Minister Edi Rama in November 2023 created Italian-run centres at Shëngjin and Gjadër, opened in October 2024 to hold migrants rescued at sea from 'safe' countries. Rome judges repeatedly declined to validate detentions, a dispute that escalated into a public clash between the government and the judiciary; on 1 August 2025 the EU Court of Justice ruled that national safe-country designations must be subject to effective judicial review, a decision Palazzo Chigi criticised. Opposition parties and NGOs criticise the cost of the project and detention conditions; in June 2026 the Shëngjin centre was unused and about seventy people were held in Gjadër's repatriation section. Meloni has maintained that 'the Albania model will work'.",
+    "status": "ongoing",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Protocol signed in November 2023; centres operational from October 2024",
+      "March 2025 decree turned part of Gjadër into a repatriation centre (CPR)",
+      "CJEU ruling of 1 August 2025 on safe countries of origin",
+      "About 70 detainees in Gjadër in June 2026; Shëngjin unused (Il Post)",
+      "The EU Pact on Migration and Asylum applies from June 2026 and may facilitate use of the centres"
+    ],
+    "source_url": [
+      "https://www.ilpost.it/2023/11/07/accordo-migranti-italia-albania/",
+      "https://en.ilsole24ore.com/art/protocol-italy-albania-eu-court-country-is-safe-if-whole-population-protected-AHn1sL0B",
+      "https://www.ilpost.it/2026/06/11/centri-migranti-albania-nuove-regole-europee/",
+      "https://www.ilpost.it/2025/12/31/meloni-promesse-mancate-accise-ponte-tasse-pensioni/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-paragon-spyware",
+    "title": "Paragon 'Graphite' spyware used against activists; Fanpage editor targeted",
+    "period": "January 2025 – 2026",
+    "category": "civil_liberties",
+    "description": "On 31 January 2025 WhatsApp notified about 90 users worldwide, seven with Italian numbers, that they had been targeted with Graphite, a spyware sold by the Israeli company Paragon Solutions only to government clients. They included Francesco Cancellato, editor of Fanpage (which had published undercover investigations into FdI's youth wing), and migrant-rescue activists of Mediterranea. The government initially denied that the intelligence services had spied on journalists and gave what Il Post called partial and contradictory explanations; Paragon ended its contracts with Italy. In June 2025 the parliamentary intelligence committee COPASIR reported that the services had used Graphite, with authorisation, on activists Luca Casarini, Giuseppe Caccia and David Yambio over irregular-immigration concerns, but found no evidence that Cancellato had been intercepted by Italian intelligence; who targeted him remained unclear.",
+    "status": "ongoing",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "WhatsApp alert of 31 January 2025: about 90 targets, 7 Italian numbers",
+      "5 February 2025 government note excluded spying on journalists by the intelligence services",
+      "Paragon terminated its contracts with Italian clients in February 2025",
+      "COPASIR report approved unanimously on 4 June 2025: Graphite used on Casarini, Caccia and Yambio from September 2024; no evidence that Cancellato was intercepted by the services",
+      "Citizen Lab (June 2025) forensically confirmed Graphite infections of journalists in Europe"
+    ],
+    "source_url": [
+      "https://www.ilpost.it/2025/02/13/paragon-mantovano-cancellato-casarini-graphite-spionaggio-whatsapp/",
+      "https://www.ilpost.it/2025/06/06/paragon-copasir-cancellato-casarini-servizi-segreti/",
+      "https://techcrunch.com/2025/02/06/spyware-maker-paragon-terminates-contract-with-italian-government-media-reports/",
+      "https://citizenlab.ca/2025/06/first-forensic-confirmation-of-paragons-ios-mercenary-spyware-finds-journalists-targeted/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-gioventu-nazionale-fanpage",
+    "title": "Fanpage investigation into FdI's youth wing (Gioventù Nazionale)",
+    "period": "June – July 2024",
+    "category": "party",
+    "description": "In June 2024 the news site Fanpage published undercover footage from Gioventù Nazionale, the youth organisation of Fratelli d'Italia, showing members making fascist salutes and chants and antisemitic and racist remarks. Two members with official roles resigned, opposition parties demanded explanations and a European Commission spokesperson condemned the fascist symbolism. After an initial silence, Meloni said such attitudes were incompatible with Fratelli d'Italia while also criticising the method of infiltrating a political party, and on 2 July 2024 she sent a long letter to FdI officials distancing the party from antisemitic statements and nostalgia for totalitarian regimes ('Non siamo come vorrebbero dipingerci').",
+    "status": "resolved",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Fanpage investigation published in two parts in June 2024",
+      "Elisa Segnini and Flaminia Pace resigned from their roles on 27 June 2024",
+      "European Commission spokesperson condemned the fascist symbolism (17 June 2024)",
+      "Meloni's letter to FdI officials, 2 July 2024"
+    ],
+    "source_url": [
+      "https://www.ansa.it/sito/notizie/politica/2024/06/14/inchiesta-di-fanpage-sui-giovani-di-fdi-le-opposizioni-attaccano_1e1aeb26-de7a-4342-b480-5c2ac54d74ca.html",
+      "https://www.ansa.it/english/news/politics/2024/06/17/ec-condemns-fascist-symbolism-after-fdi-youth-group-video_2cee831d-9342-4291-a3b7-7590549f5d5a.html",
+      "https://www.ilpost.it/2024/06/27/inchiesta-fanpage-giovanili-fratelli-italia/",
+      "https://www.ilpost.it/2024/07/02/meloni-gioventu-nazionale-fanpage-lettera-antisemitismo-fascismo/",
+      "https://it.euronews.com/2024/06/28/gioventu-meloniana-linchiesta-che-mette-a-rischio-la-reputazione-di-meloni-e-fdi"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-post-fascist-heritage",
+    "title": "Questions over the party's post-fascist heritage (1996 Mussolini remark, tricolour flame)",
+    "period": "1996 – 2022",
+    "category": "political",
+    "description": "Critics and some foreign media have questioned Meloni's relationship with the legacy of the neo-fascist MSI, in whose youth wing she began her political activity. A 1996 clip resurfaced during the 2022 campaign in which, aged 19, she told France 3 that Mussolini had been 'a good politician'. In 2006 she said she had a 'serene relationship' with fascism as a chapter of national history, while naming the racial laws, the entry into the war and authoritarianism as Mussolini's mistakes. Fratelli d'Italia has kept the MSI's tricolour flame in its logo despite calls, including from life senator and Holocaust survivor Liliana Segre, to drop it. Meloni rejects the label of fascist.",
+    "status": "political",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "1996 France 3 interview resurfaced in August 2022",
+      "2006 interview: 'rapporto sereno' with fascism, criticising the racial laws",
+      "Tricolour flame retained in the FdI logo"
+    ],
+    "source_url": [
+      "https://www.lastampa.it/speciale/politica/elezioni-politiche-2022/2022/08/16/video/giorgia_meloni_nel_1996_a_19_anni_mussolini_e_stato_un_buon_politico_il_migliore_degli_ultimi_50_anni-6583305/",
+      "https://it.wikipedia.org/wiki/Giorgia_Meloni",
+      "https://en.wikipedia.org/wiki/Giorgia_Meloni"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-judiciary-referendum",
+    "title": "Clashes with the judiciary and defeat in the March 2026 justice referendum",
+    "period": "2023 – October 2026",
+    "category": "rule_of_law",
+    "description": "Meloni and her ministers have repeatedly accused some magistrates of political bias, notably over rulings on migrant detentions and the Almasri case, while the magistrates' association (ANM) opposed the government's constitutional reform separating judges' and prosecutors' careers and backed the No committees. Meloni campaigned for the reform, which voters rejected on 22–23 March 2026 (53.24% No); she said she respected popular sovereignty but would carry on, and did not resign. In October 2026 a new dispute arose after Meloni declined to sign a decree on magistrates' pay increases, prompting an insulting social-media attack on her by a prosecutor.",
+    "status": "political",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Referendum of 22–23 March 2026: No 53.24%, Yes 46.76%",
+      "Meloni (23 March 2026): 'Rispetto la sovranità popolare ma vado avanti'",
+      "Pay-decree dispute with magistrates in October 2026"
+    ],
+    "source_url": [
+      "https://www.ansa.it/sito/notizie/politica/2026/03/23/referendum-netta-vittoria-del-no-bloccata-la-riforma-della-giustizia_bf120edc-fbc0-4d82-88a6-581ab82f4317.html",
+      "https://elezioni.interno.gov.it/risultati/20260322/referendum/scrutini/incomplesso/01",
+      "https://www.ilpost.it/2026/03/11/meloni-campagna-referendum-magistratura/",
+      "https://www.ilpost.it/2026/03/14/comitati-no-riforma-referendum-anm/",
+      "https://tg24.sky.it/politica/2026/10/19/magistrato-attacca-meloni"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-march-2026-resignations",
+    "title": "Resignations of Delmastro, Bartolozzi and Santanchè after the referendum",
+    "period": "March 2026",
+    "category": "government",
+    "description": "The day after the referendum defeat, Justice Undersecretary Andrea Delmastro Delle Vedove (FdI) resigned after it emerged that until recently he had co-owned a restaurant in Rome with the daughter of a person definitively convicted of mafia offences, and Justice Ministry chief of staff Giusi Bartolozzi resigned after describing magistrates as 'firing squads' during the campaign; according to Il Post both resignations were in fact demanded by Meloni. The same evening Meloni said in a public note that she hoped Tourism Minister Daniela Santanchè, who faces judicial proceedings linked to Visibilia Editore, the company she founded, would also step down; Santanchè, who had refused when asked privately, resigned on 25 March 2026. Il Post noted that the Prime Minister has no power to dismiss ministers directly.",
+    "status": "resolved",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "24 March 2026: Delmastro and Bartolozzi resigned",
+      "Meloni's public note urging Santanchè's resignation, 24 March 2026",
+      "25 March 2026: Santanchè resigned as Minister of Tourism"
+    ],
+    "source_url": [
+      "https://www.ilpost.it/2026/03/24/andrea-delmastro-dimesso/",
+      "https://www.ilpost.it/2026/03/25/daniela-santanche-dimissioni-giorgia-meloni-sfiducia/",
+      "https://www.ilpost.it/2026/03/25/daniela-santanche-dimessa/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-stabilicum-criticism",
+    "title": "Opposition criticism of the 2026 electoral law ('Stabilicum')",
+    "period": "February – October 2026",
+    "category": "institutions",
+    "description": "The majority approved a new electoral law a few months before the 2027 general election, using confidence votes in the Chamber in early October 2026 before the final secret-ballot approval on 8 October (227 to 164). The law gives 70 additional deputies and 35 additional senators to a list or coalition reaching 42%. Opposition parties, which dubbed it the 'Melonellum', voted against it and some denounced it as a 'legge truffa'; experts quoted by Il Post and Corriere della Sera questioned whether it would ensure stable governments and whether some provisions are constitutional. President Mattarella promulgated it on 9 October 2026.",
+    "status": "political",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "Final approval on 8 October 2026: 227 in favour, 164 against",
+      "Majority bonus for 42% of the vote",
+      "Coalitions must name their prime-ministerial candidate",
+      "Promulgated by President Mattarella on 9 October 2026"
+    ],
+    "source_url": [
+      "https://www.ilpost.it/2026/10/08/approvata-riforma-elettorale-camera/",
+      "https://www.ilpost.it/2026/10/07/camera-articoli-legge-elettorale-fiducia/",
+      "https://www.ilpost.it/2026/10/09/legge-elettorale-come-si-vota-stabilicum-melonellum-elezioni-politiche-2027/",
+      "https://roma.corriere.it/notizie/politica/26_ottobre_09/legge-elettorale-mattarella-ha-promulgato-lo-stabilicum-68d61a63-bfa4-4286-8b46-7e2f80cccxlk.shtml"
+    ]
+  }
+]

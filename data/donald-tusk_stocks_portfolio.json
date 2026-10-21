@@ -1,0 +1,50 @@
+[
+  {
+    "id": "donald-tusk-sec-shares-none",
+    "holding": "Shares or stakes in commercial companies",
+    "type": "shares",
+    "value": null,
+    "as_of": "2025-12-31",
+    "detail": "Every declaration since December 2023 answers 'nie posiadam' (none) for shares or stakes in commercial companies; no holding above 10% of a company's capital is declared.",
+    "status": "none",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262"
+    ]
+  },
+  {
+    "id": "donald-tusk-sec-allianz",
+    "holding": "Two Allianz life and endowment insurance policies (polisy na życie i dożycie)",
+    "type": "insurance_policy",
+    "value": "140,000 PLN (2 x 70,000 PLN)",
+    "as_of": "2025-12-31",
+    "detail": "Listed under 'papiery wartościowe' (securities) on the declaration form, at 70,000 PLN each, in every declaration from 13 December 2023 to 31 December 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-sec-ergo-hestia",
+    "holding": "ERGO Hestia life insurance policy",
+    "type": "insurance_policy",
+    "value": "300,000 PLN",
+    "as_of": "2024-12-31",
+    "detail": "Listed under 'papiery wartościowe' at 300,000 PLN in the declarations of 13 December 2023, 31 December 2023 and (as reported) 31 December 2024; it no longer appears in the declaration as of 31 December 2025. The declaration does not say what happened to it.",
+    "status": "historical",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  }
+]

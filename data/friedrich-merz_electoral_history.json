@@ -1,0 +1,180 @@
+[
+  {
+    "id": "merz-elec-ep-1989",
+    "election": "1989 European Parliament election (Germany)",
+    "date": "1989-06-18",
+    "role_sought": "Member of the European Parliament (CDU, North Rhine-Westphalia)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected on the CDU list; served one term until 1994.",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-elec-btw-1994",
+    "election": "1994 federal election",
+    "date": "1994-10-16",
+    "role_sought": "Member of the Bundestag, Hochsauerlandkreis constituency",
+    "result": "Elected (direct mandate)",
+    "vote_share": "54.3% (first votes)",
+    "opponent": "",
+    "detail": "First election to the Bundestag.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Bundestagswahlkreis_Hochsauerlandkreis"
+    ]
+  },
+  {
+    "id": "merz-elec-btw-1998",
+    "election": "1998 federal election",
+    "date": "1998-09-27",
+    "role_sought": "Member of the Bundestag, Hochsauerlandkreis constituency",
+    "result": "Re-elected (direct mandate)",
+    "vote_share": "51.4% (first votes)",
+    "opponent": "",
+    "detail": "",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Bundestagswahlkreis_Hochsauerlandkreis"
+    ]
+  },
+  {
+    "id": "merz-elec-btw-2002",
+    "election": "2002 federal election",
+    "date": "2002-09-22",
+    "role_sought": "Member of the Bundestag, Hochsauerlandkreis constituency",
+    "result": "Re-elected (direct mandate)",
+    "vote_share": "53.7% (first votes)",
+    "opponent": "",
+    "detail": "Ran as part of Edmund Stoiber's campaign team as the Union's finance and budget expert.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Bundestagswahlkreis_Hochsauerlandkreis",
+      "https://en.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-elec-btw-2005",
+    "election": "2005 federal election",
+    "date": "2005-09-18",
+    "role_sought": "Member of the Bundestag, Hochsauerlandkreis constituency",
+    "result": "Re-elected (direct mandate)",
+    "vote_share": "57.7% (first votes)",
+    "opponent": "Dagmar Schmidt (SPD)",
+    "detail": "His best first-vote result; he did not stand in 2009.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Bundestagswahlkreis_Hochsauerlandkreis"
+    ]
+  },
+  {
+    "id": "merz-elec-cdu-chair-2018",
+    "election": "CDU federal party congress, election of the party chair",
+    "date": "2018-12-07",
+    "role_sought": "CDU Federal Chairman",
+    "result": "Lost in the second round",
+    "vote_share": "48.25% (second round)",
+    "opponent": "Annegret Kramp-Karrenbauer",
+    "detail": "First bid for the CDU leadership after Angela Merkel announced she would not stand again as party chair.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-elec-cdu-chair-2021-jan",
+    "election": "CDU federal party congress (digital), election of the party chair",
+    "date": "2021-01-16",
+    "role_sought": "CDU Federal Chairman",
+    "result": "Lost in the run-off",
+    "vote_share": "385 votes in round one (first place); 466 of 1,001 delegates' votes in the run-off",
+    "opponent": "Armin Laschet (521 votes in the run-off); Norbert Röttgen (eliminated in round one)",
+    "detail": "Second bid for the CDU leadership.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Friedrich_Merz",
+      "https://en.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-elec-btw-2021",
+    "election": "2021 federal election",
+    "date": "2021-09-26",
+    "role_sought": "Member of the Bundestag, Hochsauerlandkreis constituency",
+    "result": "Elected (direct mandate)",
+    "vote_share": "40.4% (first votes)",
+    "opponent": "Dirk Wiese (SPD), 32.2%",
+    "detail": "Return to the Bundestag after twelve years; he had won the local CDU nomination against incumbent Patrick Sensburg by 327 votes to 126 in April 2021.",
+    "source_url": [
+      "https://www.bundeswahlleiterin.de/bundestagswahlen/2021/ergebnisse/bund-99/land-5/wahlkreis-147.html",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-elec-cdu-member-ballot-2021",
+    "election": "CDU membership ballot on the party chair, confirmed by the digital party congress of 22 January 2022",
+    "date": "2021-12-17",
+    "role_sought": "CDU Federal Chairman",
+    "result": "Elected",
+    "vote_share": "62.1% of members' votes in the first round; 94.6% of delegates' votes at the January 2022 congress",
+    "opponent": "Norbert Röttgen, Helge Braun",
+    "detail": "Membership ballot with a turnout of about 66% of roughly 400,000 members. He took office on 31 January 2022.",
+    "source_url": [
+      "https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-wird-neuer-parteichef-a-e024cd46-21c9-4120-b010-0d2094db1957",
+      "https://www.welt.de/politik/deutschland/article236400865/Parteitag-Signal-des-Aufbruchs-Friedrich-Merz-zum-neuen-Vorsitzenden-der-CDU-gewaehlt.html",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-elec-cdu-chair-2024",
+    "election": "CDU federal party congress, re-election of the party chair",
+    "date": "2024-05-06",
+    "role_sought": "CDU Federal Chairman",
+    "result": "Re-elected",
+    "vote_share": "almost 90%",
+    "opponent": "",
+    "detail": "",
+    "source_url": [
+      "https://www.tagesschau.de/eilmeldung/merz-vorsitzender-wahl-100.html"
+    ]
+  },
+  {
+    "id": "merz-elec-btw-2025",
+    "election": "2025 federal election",
+    "date": "2025-02-23",
+    "role_sought": "Member of the Bundestag, Hochsauerlandkreis constituency; CDU/CSU chancellor candidate",
+    "result": "Elected (direct mandate); CDU/CSU largest group",
+    "vote_share": "47.7% (first votes, constituency 146); CDU/CSU 28.5% nationally",
+    "opponent": "Dirk Wiese (SPD), 21.4% in the constituency; nationally AfD 20.8%, SPD 16.4%",
+    "detail": "Named the Union's chancellor candidate in September 2024; the CDU/CSU formed a coalition with the SPD after the election.",
+    "source_url": [
+      "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/bund-99/land-5/wahlkreis-146.html",
+      "https://www.tagesschau.de/inland/merz-union-kanzlerkandidat-100.html",
+      "https://de.wikipedia.org/wiki/Kabinett_Merz"
+    ]
+  },
+  {
+    "id": "merz-elec-chancellor-2025",
+    "election": "Election of the Federal Chancellor by the 21st Bundestag",
+    "date": "2025-05-06",
+    "role_sought": "Federal Chancellor",
+    "result": "Elected in the second ballot",
+    "vote_share": "First ballot: 310 yes (316 required); second ballot: 325 yes, 289 no",
+    "opponent": "",
+    "detail": "The coalition parties held 328 seats. It was the first time in the Federal Republic's history that a chancellor candidate proposed by the President failed in the first ballot; the Bundestag agreed to hold the second ballot the same day.",
+    "source_url": [
+      "https://www.bundestag.de/dokumente/textarchiv/2025/kw19-de-kanzlerwahl-1062470",
+      "https://www.tagesschau.de/inland/kanzlerwahl-merz-100.html"
+    ]
+  },
+  {
+    "id": "merz-elec-cdu-chair-2026",
+    "election": "CDU federal party congress, re-election of the party chair",
+    "date": "2026-02-20",
+    "role_sought": "CDU Federal Chairman",
+    "result": "Re-elected",
+    "vote_share": "91.2%",
+    "opponent": "",
+    "detail": "",
+    "source_url": [
+      "https://www.welt.de/politik/deutschland/article699891df42c1e3ae5f4df5c0/cdu-parteitag-merz-mit-91-2-prozent-als-vorsitzender-wiedergewaehlt.html"
+    ]
+  }
+]

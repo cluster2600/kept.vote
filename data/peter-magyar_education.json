@@ -1,0 +1,38 @@
+[
+  {
+    "id": "peter-magyar-edu-piarist",
+    "institution": "Piarist Secondary School (Piarista Gimnázium), Budapest",
+    "qualification": "Secondary school leaving certificate (érettségi)",
+    "field": "General secondary education",
+    "years": "",
+    "detail": "Attended the Catholic Piarist grammar school in Budapest.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/P%C3%A9ter_Magyar"
+    ]
+  },
+  {
+    "id": "peter-magyar-edu-ppke-law",
+    "institution": "Pázmány Péter Catholic University, Faculty of Law and Political Sciences, Budapest",
+    "qualification": "Law degree (dr. jur.)",
+    "field": "Law",
+    "years": "graduated 2004",
+    "detail": "Obtained his law degree in 2004; he later passed the Hungarian bar examination (jogi szakvizsga). His official declarations are filed under the name 'dr. Magyar Péter'.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/P%C3%A9ter_Magyar",
+      "https://hu.wikipedia.org/wiki/Magyar_P%C3%A9ter_(politikus)",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-edu-humboldt",
+    "institution": "Humboldt University of Berlin",
+    "qualification": "Erasmus exchange studies",
+    "field": "Law",
+    "years": "early 2000s",
+    "detail": "Studied in Berlin for part of his law degree under the Erasmus programme.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/P%C3%A9ter_Magyar",
+      "https://hu.wikipedia.org/wiki/Magyar_P%C3%A9ter_(politikus)"
+    ]
+  }
+]

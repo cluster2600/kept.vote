@@ -1,0 +1,91 @@
+[
+  {
+    "id": "pedro-sanchez-interest-presidente-gobierno",
+    "item": "President of the Government (public office)",
+    "type": "public_office",
+    "period": "2018–present (declared 9 August 2023, XV Legislature)",
+    "value": "",
+    "detail": "Declared under 'A) Cargos públicos' in his declaration of activities to the Congress of Deputies' register of interests (Registro de Intereses, Comisión de Estatuto de los Diputados), dated 9 August 2023; final plenary agreement of 19 December 2023.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docinte/registro_intereses_diputado_189.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-interest-psoe-secretary-general",
+    "item": "Secretary-General of the PSOE (unpaid)",
+    "type": "party_office",
+    "period": "2017–present (declared 9 August 2023)",
+    "value": "No remuneration (sin remuneración)",
+    "detail": "Declared under 'E) Cargos en partidos o grupos parlamentarios' in the Congress register of interests.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docinte/registro_intereses_diputado_189.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-interest-socialist-international",
+    "item": "President of the Socialist International (unpaid)",
+    "type": "party_office",
+    "period": "2022–present (declared 9 August 2023)",
+    "value": "No remuneration (sin remuneración)",
+    "detail": "Declared under 'E) Cargos en partidos o grupos parlamentarios' in the Congress register of interests.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docinte/registro_intereses_diputado_189.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-interest-fundacion-pablo-iglesias",
+    "item": "Member of the board of trustees (Patronato) of the Fundación Pablo Iglesias (unpaid)",
+    "type": "foundation_board",
+    "period": "Declared 9 August 2023",
+    "value": "No remuneration (sin remuneración)",
+    "detail": "Declared under 'G) Actividades privadas autorizadas' in the Congress register of interests. The Fundación Pablo Iglesias is the PSOE-linked foundation named after the party's founder.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docinte/registro_intereses_diputado_189.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-interest-derechos-autor",
+    "item": "Author's royalties from literary works (derechos de autor por creación literaria)",
+    "type": "royalties",
+    "period": "Declared 9 August 2023",
+    "value": "42,000 EUR received in 2022 (asset and income declaration of 9 August 2023)",
+    "detail": "Declared under 'F) Actividades de producción y creación literaria' in the Congress register of activities. His declaration of economic interests of 9 August 2023 lists author's royalties from the publisher Ediciones 62 S.A. (2019–present) and states that the after-tax profit from the book is donated to Obra Social NUR. His asset and income declarations report royalties received of 16,666.66 EUR in 2018 and 42,000 EUR in 2022.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docinte/registro_intereses_diputado_189.pdf",
+      "https://www.congreso.es/docacteco/leg15/000178/000178_001_e_0000757_20230809.pdf",
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-interest-contribuciones",
+    "item": "Contributions to Obra Social NUR and to the PSOE",
+    "type": "donations_and_contributions",
+    "period": "Declared 9 August 2023 (also declared in February 2021)",
+    "value": "Book profits after tax (Obra Social NUR); statutory member and office-holder fees (PSOE)",
+    "detail": "Section III of his declaration of economic interests lists the donation of the book's after-tax profits to Obra Social NUR and the membership fee and office-holder contribution set by the PSOE's statutes. Section II declares no gifts or unpaid benefits received in the previous five years ('Ninguno'). His asset declaration of August 2023 lists 4,418.40 EUR of donations to the PSOE and others.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docacteco/leg15/000178/000178_001_e_0000757_20230809.pdf",
+      "https://www.congreso.es/docacteco/leg14/000198/000198_001_e_0088025_20210212.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-interest-arrendamiento",
+    "item": "Rental of a home that is not his main residence",
+    "type": "property_income",
+    "period": "2015–2019 (declared February 2021); rental income also declared for 2022",
+    "value": "Rental income: 13,871.11 EUR (2018); 12,845 EUR (2022)",
+    "detail": "His XIV Legislature declaration of economic interests lists, for 2015–2019, the rental of a home that was not his habitual residence, as a private individual with no conflict of interest. Rental income appears in his asset and income declarations of May 2019 and August 2023.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docacteco/leg14/000198/000198_001_e_0088025_20210212.pdf",
+      "https://www.congreso.es/docbienes/leg13/000301/000301_000_e_0000988_20190517.pdf",
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf"
+    ]
+  }
+]
