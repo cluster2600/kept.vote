@@ -42,8 +42,8 @@
     "viewDossier": "Consulta il dossier",
     "noneInCountry": "Per questo paese non è ancora monitorato alcun politico.",
     "emptyState": "Nessun politico presente. Eseguire lo script di inizializzazione per caricare i dati dimostrativi:",
-    "connectionErrorTitle": "Impossibile raggiungere l’API del backend.",
-    "connectionErrorBody": "Verificare che il backend FastAPI sia in esecuzione e che {envVar} punti al suo indirizzo."
+    "connectionErrorTitle": "Impossibile caricare i dati.",
+    "connectionErrorBody": "Il database non ha risposto. Riprova tra qualche istante."
   },
   "office": {
     "head_of_state": "Capo dello Stato",

@@ -2,14 +2,16 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
-  getPolitician,
-  getPromise,
-  getPromiseVerification,
   NotFoundError,
   type Politician,
   type PromiseRecord,
   type Verification,
 } from "@/lib/api";
+import {
+  getPolitician,
+  getPromise,
+  getPromiseVerification,
+} from "@/lib/data";
 import StatusBadge from "@/components/StatusBadge";
 import ConfidenceMeter from "@/components/ConfidenceMeter";
 import { getDictionary } from "../../dictionaries";

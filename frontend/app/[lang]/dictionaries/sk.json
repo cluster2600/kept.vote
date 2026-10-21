@@ -44,8 +44,8 @@
     "viewDossier": "Zobraziť profil",
     "noneInCountry": "Pre túto krajinu zatiaľ nesledujeme žiadnych politikov.",
     "emptyState": "Zatiaľ tu nie sú žiadni politici. Demonštračné údaje načítate spustením skriptu seed:",
-    "connectionErrorTitle": "Nepodarilo sa spojiť s backendovým API.",
-    "connectionErrorBody": "Overte, či backend FastAPI beží a či naň odkazuje premenná {envVar}."
+    "connectionErrorTitle": "Údaje sa nepodarilo načítať.",
+    "connectionErrorBody": "Databáza neodpovedala. Skúste to znova o chvíľu."
   },
   "office": {
     "head_of_state": "Hlava štátu",

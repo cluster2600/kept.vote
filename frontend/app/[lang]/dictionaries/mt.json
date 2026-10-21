@@ -46,8 +46,8 @@
     "viewDossier": "Ara d-dossier",
     "noneInCountry": "Għad m’hemm l-ebda politiku mmonitorjat għal dan il-pajjiż.",
     "emptyState": "Għad m’hemm l-ebda politiku. Biex ittella’ data ta’ dimostrazzjoni, ħaddem l-iskript tad-data inizjali:",
-    "connectionErrorTitle": "Ma kienx possibbli li jsir kuntatt mal-API tal-backend.",
-    "connectionErrorBody": "Kun żgur li l-backend FastAPI qed jaħdem u li {envVar} jippunta lejh."
+    "connectionErrorTitle": "Ma setgħux jitniżżlu d-data.",
+    "connectionErrorBody": "Id-database ma wieġbitx. Erġa’ pprova fi ftit ħin."
   },
   "office": {
     "head_of_state": "Kap tal-Istat",

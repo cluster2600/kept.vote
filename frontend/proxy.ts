@@ -14,6 +14,13 @@ import {
  *  Accept-Language header, then English. */
 export function proxy(request: NextRequest) {
   const { pathname, search } = request.nextUrl;
+
+  // www.kept.vote → kept.vote (one canonical host).
+  if (request.nextUrl.hostname.startsWith("www.")) {
+    const url = request.nextUrl.clone();
+    url.hostname = url.hostname.slice("www.".length);
+    return NextResponse.redirect(url, 301);
+  }
   const first = pathname.split("/")[1];
 
   if (isLocale(first)) {

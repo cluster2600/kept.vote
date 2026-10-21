@@ -42,8 +42,8 @@
     "viewDossier": "Ver expediente",
     "noneInCountry": "Todavía no se hace seguimiento de ningún político de este país.",
     "emptyState": "Todavía no hay políticos. Ejecute el script de carga inicial para cargar los datos de demostración:",
-    "connectionErrorTitle": "No se ha podido conectar con la API del servidor.",
-    "connectionErrorBody": "Compruebe que el servidor FastAPI está en ejecución y que {envVar} apunta a su dirección."
+    "connectionErrorTitle": "No se pudieron cargar los datos.",
+    "connectionErrorBody": "La base de datos no respondió. Inténtelo de nuevo en unos instantes."
   },
   "office": {
     "head_of_state": "Jefe de Estado",

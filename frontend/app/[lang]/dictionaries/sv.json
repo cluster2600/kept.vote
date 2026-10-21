@@ -40,8 +40,8 @@
     "viewDossier": "Visa profil",
     "noneInCountry": "Inga politiker från det här landet bevakas ännu.",
     "emptyState": "Inga politiker ännu. Kör seed-skriptet för att läsa in demodata:",
-    "connectionErrorTitle": "Det gick inte att nå backend-API:et.",
-    "connectionErrorBody": "Kontrollera att FastAPI-backenden körs och att {envVar} pekar på den."
+    "connectionErrorTitle": "Uppgifterna kunde inte läsas in.",
+    "connectionErrorBody": "Databasen svarade inte. Försök igen om en stund."
   },
   "office": {
     "head_of_state": "Statschef",

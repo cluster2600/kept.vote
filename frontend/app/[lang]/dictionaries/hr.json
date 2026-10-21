@@ -42,8 +42,8 @@
     "viewDossier": "Pogledajte profil",
     "noneInCountry": "Za ovu državu još ne pratimo nijednog političara.",
     "emptyState": "Još nema političara. Za učitavanje demo podataka pokrenite skriptu seed:",
-    "connectionErrorTitle": "Povezivanje s pozadinskim API-jem nije uspjelo.",
-    "connectionErrorBody": "Provjerite radi li pozadinski sustav FastAPI i upućuje li varijabla {envVar} na njega."
+    "connectionErrorTitle": "Podaci se nisu mogli učitati.",
+    "connectionErrorBody": "Baza podataka nije odgovorila. Pokušajte ponovno za trenutak."
   },
   "office": {
     "head_of_state": "Šef države",

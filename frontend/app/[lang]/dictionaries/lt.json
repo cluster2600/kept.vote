@@ -44,8 +44,8 @@
     "viewDossier": "Peržiūrėti dosjė",
     "noneInCountry": "Šios šalies politikai dar nestebimi.",
     "emptyState": "Politikų dar nėra. Norėdami įkelti demonstracinius duomenis, paleiskite pradinių duomenų įkėlimo scenarijų:",
-    "connectionErrorTitle": "Nepavyko pasiekti serverio API.",
-    "connectionErrorBody": "Įsitikinkite, kad veikia FastAPI serverio programa ir kad {envVar} nurodo jos adresą."
+    "connectionErrorTitle": "Nepavyko įkelti duomenų.",
+    "connectionErrorBody": "Duomenų bazė neatsakė. Bandykite dar kartą po kelių akimirkų."
   },
   "office": {
     "head_of_state": "Valstybės vadovas",

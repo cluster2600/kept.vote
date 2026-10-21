@@ -40,8 +40,8 @@
     "viewDossier": "Dossier ansehen",
     "noneInCountry": "Für dieses Land werden noch keine Politiker erfasst.",
     "emptyState": "Noch keine Politiker vorhanden. Zum Laden der Demodaten das Seed-Skript ausführen:",
-    "connectionErrorTitle": "Die Backend-API ist nicht erreichbar.",
-    "connectionErrorBody": "Bitte prüfen, ob das FastAPI-Backend läuft und {envVar} darauf verweist."
+    "connectionErrorTitle": "Die Daten konnten nicht geladen werden.",
+    "connectionErrorBody": "Die Datenbank hat nicht geantwortet. Bitte versuchen Sie es in Kürze erneut."
   },
   "office": {
     "head_of_state": "Staatsoberhaupt",
