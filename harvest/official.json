@@ -82,6 +82,41 @@
         "cortecostituzionale.it": { "what": "Constitutional Court" }
       }
     },
+    "NL": {
+      "name": "Netherlands",
+      "domains": {
+        "rijksoverheid.nl": { "what": "Government: ministries, cabinet members, Council of Ministers press conferences, Budget Memorandum and Tax Plan, political-party donations and debts (Interior Ministry)" },
+        "tweedekamer.nl": { "what": "House of Representatives: bills, votes, members, and the registers of MPs' outside activities, gifts and sponsored travel" },
+        "eerstekamer.nl": { "what": "Senate: bills, votes, debates" },
+        "officielebekendmakingen.nl": { "what": "Official gazettes and parliamentary papers: Staatsblad (laws), Staatscourant (including royal decorations), Kamerstukken" },
+        "kiesraad.nl": {
+          "what": "Electoral Council: official result reports, appointment of MPs, party registrations",
+          "access": "2026-10-21: some pages built with scripts (e.g. /verkiezingen/tweede-kamer/uitslagen) render only an error message; news and report pages render"
+        },
+        "verkiezingsuitslagen.nl": { "what": "Electoral Council results database: official results by party and municipality since 1918" },
+        "rechtspraak.nl": { "what": "Judiciary, including the Supreme Court (Hoge Raad): press releases and published rulings" },
+        "raadvanstate.nl": { "what": "Council of State: advisory opinions on bills, highest administrative court" },
+        "om.nl": { "what": "Public Prosecution Service (Openbaar Ministerie)" },
+        "koninklijkhuis.nl": { "what": "Royal House: head of state" },
+        "rekenkamer.nl": { "what": "Court of Audit (Algemene Rekenkamer)" },
+        "overheid.nl": {
+          "what": "Central government portal: consolidated legislation (wetten.overheid.nl), open data including candidate-level election results (data.overheid.nl)",
+          "access": "2026-10-21: wetten.overheid.nl unreachable (no answer for robots.txt); data.overheid.nl renders"
+        },
+        "kabinetsformatie2025.nl": { "what": "Cabinet formation 2025–2026: coalition agreement and the reports of the verkenner, informateurs and formateur" }
+      },
+      "watch": [
+        { "url": "https://www.rijksoverheid.nl/regering/bewindspersonen", "what": "Ministers and state secretaries: appointments and resignations" },
+        { "url": "https://www.officielebekendmakingen.nl/staatsblad", "what": "Staatsblad: laws and decrees published" },
+        { "url": "https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen", "what": "House of Representatives vote results" },
+        { "url": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen", "what": "Bills in the House" },
+        { "url": "https://www.eerstekamer.nl/stemmingen_fractiegewijs", "what": "Senate votes by party group" },
+        { "url": "https://www.raadvanstate.nl/adviezen/", "what": "Council of State advisory opinions on bills" },
+        { "url": "https://www.kiesraad.nl/actueel/nieuws", "what": "Electoral Council: appointment of MPs, party registrations, results" },
+        { "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20251029", "what": "House of Representatives election 2025: official results" },
+        { "url": "https://www.rijksoverheid.nl/themas/overheid-en-democratie/democratie/rol-politieke-partijen/giften-en-subsidies-politieke-partijen", "what": "Political-party donations, debts and subsidies (Interior Ministry)" }
+      ]
+    },
     "NO": {
       "name": "Norway",
       "domains": {
