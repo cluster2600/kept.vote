@@ -130,6 +130,42 @@
         "gov.pl": { "what": "Government and administration, Sejm (sejm.gov.pl)" }
       }
     },
+    "PT": {
+      "name": "Portugal",
+      "domains": {
+        "gov.pt": {
+          "what": "Government and administration: Government portal (portugal.gov.pt), Ministry of Internal Administration election results (eleicoes.mai.gov.pt)",
+          "access": "2026-10-21: the Council of Ministers communiqués page on portugal.gov.pt returns no content (status error) and the government composition page builds its list with scripts; the 2024 and 2025 results sites on eleicoes.mai.gov.pt build their pages with scripts and show no results"
+        },
+        "parlamento.pt": { "what": "Assembly of the Republic: members, legislative initiatives, votes" },
+        "presidencia.pt": { "what": "President of the Republic: laws promulgated or vetoed, appointments and resignations of members of the government" },
+        "diariodarepublica.pt": {
+          "what": "Diário da República (official gazette), including the official election results maps",
+          "access": "2026-10-21: pages build their text with scripts (status error); PDFs on files.diariodarepublica.pt are fingerprinted only"
+        },
+        "dre.pt": { "what": "Former domain of the official gazette; redirects to diariodarepublica.pt" },
+        "tribunalconstitucional.pt": {
+          "what": "Constitutional Court: rulings, the Entidade para a Transparência (/tc/ept/), the Entidade das Contas e Financiamentos Políticos (party and campaign accounts)",
+          "access": "2026-10-21: rate-limits after a few requests (429), so rulings are often unreachable; the party-accounts site is a login portal"
+        },
+        "entidadetransparencia.pt": {
+          "what": "Entidade para a Transparência platform: politicians' single declarations of income, assets and interests",
+          "access": "2026-10-21: pages build their content with scripts (status error, title only); the Prime Minister's declarations are closed to the public pending his opposition requests"
+        },
+        "cne.pt": { "what": "National Elections Commission: official results maps of all elections" },
+        "ministeriopublico.pt": { "what": "Public Prosecution Service and Prosecutor General's Office, including DCIAP notes" },
+        "stj.pt": { "what": "Supreme Court of Justice" },
+        "dgsi.pt": { "what": "Case-law databases of the higher courts" },
+        "tcontas.pt": { "what": "Court of Auditors" }
+      },
+      "watch": [
+        { "url": "https://www.presidencia.pt/atualidade/atividade-legislativa", "what": "Laws promulgated or vetoed by the President" },
+        { "url": "https://www.presidencia.pt/atualidade/notas-informativas", "what": "Presidential notes: appointments, dismissals and resignations of members of the government" },
+        { "url": "https://www.cne.pt/content/eleicoes-referendos-resultados-oficiais", "what": "Official results maps of elections and referendums" },
+        { "url": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/IniciativasLegislativas.aspx", "what": "Legislative initiatives in the Assembly of the Republic" },
+        { "url": "https://www.ministeriopublico.pt/comunicados", "what": "Prosecution service communiqués" }
+      ]
+    },
     "SK": {
       "name": "Slovakia",
       "domains": {

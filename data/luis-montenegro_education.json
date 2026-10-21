@@ -1,0 +1,37 @@
+[
+  {
+    "id": "luis-montenegro-edu-law-ucp",
+    "institution": "Universidade Católica Portuguesa (Catholic University of Portugal), Porto",
+    "qualification": "Licenciatura (degree) in Law",
+    "field": "Law",
+    "years": "graduated after 1998",
+    "detail": "Law degree from the Catholic University of Portugal, according to the Government's official biography and the Lusa profile published by DN; Wikipedia specifies its Porto school of law. In his first asset declaration, filed in February 1998 as an Espinho councillor, he described himself as a university student (Observador); by his 2002 declaration he was a jurist.",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://www.dn.pt/poder/perfil-luis-montenegro-de-rosto-do-governo-de-passos-coelho-a-candidato-a-lider-do-psd-10427525.html",
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-edu-data-protection",
+    "institution": "Institution not named in the official biography",
+    "qualification": "Postgraduate diploma (pós-graduação)",
+    "field": "Personal data protection law",
+    "years": "",
+    "detail": "Listed in the Government's official biography. Data-protection compliance later became the main service that Spinumviva, the company he founded in 2021, sold to clients such as Solverde (see polemics).",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro"
+    ]
+  },
+  {
+    "id": "luis-montenegro-edu-insead",
+    "institution": "INSEAD",
+    "qualification": "Advanced Management Programme",
+    "field": "Management",
+    "years": "",
+    "detail": "Listed in the Government's official biography ('Programa Avançado em Gestão pelo INSEAD').",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro"
+    ]
+  }
+]
