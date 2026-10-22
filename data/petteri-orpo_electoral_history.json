@@ -1,0 +1,159 @@
+[
+  {
+    "id": "petteri-orpo-el-2007-parliament",
+    "election": "2007 parliamentary election (eduskuntavaalit)",
+    "date": "2007-03-18",
+    "role_sought": "Member of Parliament, Varsinais-Suomi constituency, Kokoomus list",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First election to Parliament; his term began on 21 March 2007 (Parliament's records). His personal vote count could not be confirmed from an official results page readable for this research.",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2011-parliament",
+    "election": "2011 parliamentary election",
+    "date": "2011-04-17",
+    "role_sought": "Member of Parliament, Varsinais-Suomi constituency, Kokoomus list",
+    "result": "Re-elected",
+    "vote_share": "Kokoomus nationally: 599,138 votes (20.4%), 44 seats",
+    "opponent": "",
+    "detail": "The national Kokoomus figures are derived from the change columns of the official 2015 results (−58,926 votes, −2.2 points, −7 seats compared with 2011). His personal vote count could not be confirmed from an official page readable for this research.",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://tulospalvelu.vaalit.fi/E-2015/fi/tulos_kokomaa.html"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2015-parliament",
+    "election": "2015 parliamentary election",
+    "date": "2015-04-19",
+    "role_sought": "Member of Parliament, Varsinais-Suomi constituency, Kokoomus list",
+    "result": "Re-elected",
+    "vote_share": "10,652 personal votes (4.0% of the constituency's votes)",
+    "opponent": "",
+    "detail": "Top Kokoomus candidate in the constituency (comparative figure 68,466). Nationally Kokoomus won 540,212 votes (18.2%) and 37 seats and joined Juha Sipilä's government.",
+    "source_url": [
+      "https://tulospalvelu.vaalit.fi/E-2015/fi/val03.html",
+      "https://tulospalvelu.vaalit.fi/E-2015/fi/ehdkutulos_03.html",
+      "https://tulospalvelu.vaalit.fi/E-2015/fi/tulos_kokomaa.html"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2016-party-chair",
+    "election": "2016 Kokoomus party congress: election of the chair",
+    "date": "2016-06-11",
+    "role_sought": "Chair of the National Coalition Party",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "Alexander Stubb (incumbent chair and Minister of Finance), Elina Lepomäki",
+    "detail": "Orpo challenged the sitting chair and won; he then replaced Stubb as Minister of Finance. Yle later reported on how his campaign was financed (see polemics).",
+    "source_url": [
+      "https://yle.fi/a/3-9197506",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2017-municipal",
+    "election": "2017 municipal election (kuntavaalit), Turku",
+    "date": "2017-04-09",
+    "role_sought": "Member of Turku City Council, Kokoomus list",
+    "result": "Elected",
+    "vote_share": "2,749 personal votes (3.0% of votes cast in Turku)",
+    "opponent": "",
+    "detail": "Official results of the Ministry of Justice.",
+    "source_url": [
+      "https://tulospalvelu.vaalit.fi/KV-2017/fi/val853.html",
+      "https://tulospalvelu.vaalit.fi/KV-2017/fi/ehdkutulos_853.html"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2019-parliament",
+    "election": "2019 parliamentary election",
+    "date": "2019-04-14",
+    "role_sought": "Member of Parliament, Varsinais-Suomi constituency, Kokoomus list (party leader)",
+    "result": "Re-elected",
+    "vote_share": "10,792 personal votes (3.9% of the constituency's votes)",
+    "opponent": "",
+    "detail": "Top Kokoomus candidate in the constituency. Nationally Kokoomus won 523,957 votes (17.0%) and 38 seats.",
+    "source_url": [
+      "https://tulospalvelu.vaalit.fi/EKV-2019/fi/val03.html",
+      "https://tulospalvelu.vaalit.fi/EKV-2019/fi/ehdkutulos_03.html",
+      "https://tulospalvelu.vaalit.fi/EKV-2019/fi/tulos_kokomaa.html"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2021-municipal",
+    "election": "2021 municipal election, Turku",
+    "date": "2021-06-13",
+    "role_sought": "Member of Turku City Council, Kokoomus list",
+    "result": "Re-elected",
+    "vote_share": "2,148 personal votes (2.4%)",
+    "opponent": "",
+    "detail": "Official results of the Ministry of Justice.",
+    "source_url": [
+      "https://tulospalvelu.vaalit.fi/KV-2021/fi/val853.html",
+      "https://tulospalvelu.vaalit.fi/KV-2021/fi/ehdkutulos_853.html"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2023-parliament",
+    "election": "2023 parliamentary election",
+    "date": "2023-04-02",
+    "role_sought": "Member of Parliament, Varsinais-Suomi constituency, Kokoomus list (candidate for Prime Minister)",
+    "result": "Re-elected; Kokoomus came first nationally",
+    "vote_share": "17,432 personal votes (6.3% of the constituency's votes)",
+    "opponent": "Main rivals for first place: the Finns Party (Riikka Purra) and the SDP (Sanna Marin)",
+    "detail": "Kokoomus won 644,555 votes (20.8%) and 48 seats (+10), ahead of the Finns Party (20.1%, 46 seats) and the SDP (19.9%, 43 seats). Orpo then led the government negotiations and became Prime Minister on 20 June 2023.",
+    "source_url": [
+      "https://tulospalvelu.vaalit.fi/EKV-2023/fi/val03.html",
+      "https://tulospalvelu.vaalit.fi/EKV-2023/fi/ehdkutulos_03.html",
+      "https://tulospalvelu.vaalit.fi/EKV-2023/fi/tulos_kokomaa.html",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2023-speaker",
+    "election": "Election of the Speaker of Parliament",
+    "date": "2023-04-12",
+    "role_sought": "Speaker of the Eduskunta",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected Speaker at the opening of the new Parliament, on a temporary basis until a government was formed; he left the post on 19 June 2023.",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2025-municipal",
+    "election": "2025 municipal election, Turku",
+    "date": "2025-04-13",
+    "role_sought": "Member of Turku City Council, Kokoomus list",
+    "result": "Re-elected",
+    "vote_share": "1,840 personal votes (2.0%)",
+    "opponent": "",
+    "detail": "In Turku the SDP came first (21,571 votes, 23.5%, 16 seats) and Kokoomus second (19,746 votes, 21.5%, 15 seats, one fewer than in 2021).",
+    "source_url": [
+      "https://tulospalvelu.vaalit.fi/KV-2025/fi/val853.html",
+      "https://tulospalvelu.vaalit.fi/KV-2025/fi/ehdkutulos_853.html",
+      "https://tulospalvelu.vaalit.fi/KV-2025/fi/kutulos_853.html"
+    ]
+  },
+  {
+    "id": "petteri-orpo-el-2026-party-chair",
+    "election": "2026 Kokoomus party congress (Jyväskylä): election of the chair",
+    "date": "2026-06-06",
+    "role_sought": "Chair of the National Coalition Party",
+    "result": "Re-elected unopposed",
+    "vote_share": "",
+    "opponent": "None",
+    "detail": "A further two-year term; Helsinki Times notes that completing it in 2028 would match the tenure record of former leader Ilkka Suominen.",
+    "source_url": [
+      "https://www.helsinkitimes.fi/finland/finland-news/politics/28907-orpo-wins-new-term-as-national-coalition-leader.html"
+    ]
+  }
+]
