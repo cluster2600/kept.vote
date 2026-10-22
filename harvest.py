@@ -34,8 +34,11 @@ import shutil
 import subprocess
 import sys
 import time
+import unicodedata
 import urllib.error
+import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -125,6 +128,22 @@ def _post(path: str, body: dict, token: str | None = None) -> dict:
     except urllib.error.HTTPError as err:
         detail = err.read().decode(errors="replace")[:300]
         raise SystemExit(f"POST {path} -> {err.code}: {detail}") from None
+
+
+def _post_bytes(path: str, body: dict, token: str) -> tuple[bytes, dict]:
+    """POST returning a file: (bytes, headers), or the Worker's JSON refusal."""
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": "kept-vote-harvest-cli/1.0",
+        "Authorization": f"Bearer {token}",
+    }
+    req = urllib.request.Request(WORKER_URL + path, data=json.dumps(body).encode(), headers=headers, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=180) as res:
+            return res.read(), dict(res.headers)
+    except urllib.error.HTTPError as err:
+        detail = err.read().decode(errors="replace")[:300]
+        raise PortraitError(f"image refused ({err.code}): {detail}") from None
 
 
 _token: str | None = None
@@ -241,6 +260,181 @@ def cmd_fetch(args) -> None:
         print(f"<!-- end of untrusted content {tag} -->\n")
 
 
+# ---- Portraits --------------------------------------------------------------
+# Each politician's portrait is the lead image of their Wikipedia article,
+# used only when it is a Wikimedia Commons file under a free license. The
+# Commons file page (read through Kitesurf) gives the author and the license;
+# the image itself is fetched by the Worker's /image endpoint.
+PORTRAIT_DIR = ROOT / "frontend" / "public" / "portraits"
+PORTRAIT_WIDTH = 330  # a standard Wikimedia thumbnail width; shown at up to 112 px
+FREE_LICENSES = re.compile(
+    r"https?://creativecommons\.org/(?:licenses/(by|by-sa)/(\d\.\d)|publicdomain/(zero|mark)/1\.0)"
+)
+WIKI_LANGS = {
+    "AT": "de", "BE": "nl", "BG": "bg", "CH": "de", "CY": "el", "CZ": "cs", "DE": "de", "DK": "da",
+    "EE": "et", "ES": "es", "FI": "fi", "FR": "fr", "GR": "el", "HR": "hr", "HU": "hu", "IE": "en",
+    "IT": "it", "LT": "lt", "LU": "fr", "LV": "lv", "MT": "en", "NL": "nl", "NO": "no", "PL": "pl",
+    "PT": "pt", "RO": "ro", "SE": "sv", "SI": "sl", "SK": "sk",
+}
+IMAGE_MAGIC = {b"\xff\xd8\xff": "jpg", b"\x89PNG": "png"}
+
+
+class PortraitError(Exception):
+    pass
+
+
+def _fold(text: str) -> str:
+    """Lowercase ASCII letters only, for comparing names with file names."""
+    plain = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z]", "", plain.lower())
+
+
+def _page(url: str, token: str) -> str:
+    result = _post("/harvest", {"url": url}, token)
+    if result.get("status") != "reachable" or not result.get("markdown"):
+        raise PortraitError(f"{url}: {result.get('status')}")
+    return result["markdown"]
+
+
+def _lead_image(article: str) -> str:
+    """The first photo of a Wikipedia article (its infobox image): the File:
+    name. Icons, flags, coats of arms and signatures are SVGs and are skipped."""
+    for thumb, file_page in re.findall(
+        r"\[!\[[^\]]*\]\((https://[a-z.]*wikimedia\.org/[^)\s]+)\)\]\(<?(https://[a-z-]+\.wikipedia\.org/wiki/File:[^)\s>\"]+)",
+        article,
+    ):
+        name = urllib.parse.unquote(file_page.split("/wiki/File:", 1)[1])
+        if not re.search(r"\.(jpe?g|png|webp)$", name, re.I):
+            continue
+        if "/wikipedia/commons/" not in thumb:
+            raise PortraitError(f"lead image {name} is not on Wikimedia Commons (likely not free)")
+        return name
+    raise PortraitError("no photo in the article")
+
+
+def _commons_credit(page: str) -> dict:
+    """Author and license from a Commons file page; refuses unfree files."""
+    summary, _, licensing = page.partition("## Licensing")
+    if not licensing:
+        raise PortraitError("no Licensing section")
+    if re.search(r"non-free|fair use", licensing, re.I):
+        raise PortraitError("file is not free")
+    match = FREE_LICENSES.search(licensing)
+    if match:
+        kind, version, pd = match.groups()
+        if pd == "zero":
+            license_name, license_url = "CC0 1.0", "https://creativecommons.org/publicdomain/zero/1.0/"
+        elif pd == "mark":
+            license_name, license_url = "Public domain", "https://creativecommons.org/publicdomain/mark/1.0/"
+        else:
+            license_name = f"CC {kind.upper()} {version}"
+            license_url = f"https://creativecommons.org/licenses/{kind}/{version}/"
+    elif re.search(r"public domain", licensing, re.I):
+        license_name, license_url = "Public domain", None
+    else:
+        raise PortraitError("no free license found (only CC0, public domain, CC BY and CC BY-SA are used)")
+    row = re.search(r"^\|\s*Author\s*\|\s*(.+?)\s*\|\s*$", summary, re.M)
+    if not row:
+        raise PortraitError("no Author row")
+    author = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", row.group(1))  # links -> text
+    author = re.sub(r"<[^>]+>|[*_`]", "", author)
+    author = re.sub(r"\s+", " ", author).strip(" .,;")
+    if not author:
+        raise PortraitError("empty Author")
+    original = re.search(r"\[Original file\]\((https://upload\.wikimedia\.org/[^)\s]+)", page)
+    preview = re.search(r"Size of this preview: \[[^\]]*\]\((https://[a-z.]*wikimedia\.org/[^)\s]+)", page)
+    if not original:
+        raise PortraitError("no original file link")
+    strip = lambda u: u.split("?", 1)[0]  # noqa: E731 (tracking parameters)
+    if preview:
+        image_url = re.sub(r"/\d+px-", f"/{PORTRAIT_WIDTH}px-", strip(preview.group(1)))
+    else:  # smaller than the preview size: the original is small enough
+        image_url = strip(original.group(1))
+    return {"author": author[:200], "license": license_name, "license_url": license_url, "image_url": image_url}
+
+
+def fetch_portrait(slug: str, page: str | None, token: str, dry_run: bool) -> str:
+    path = ROOT / "data" / f"{slug}_bio.json"
+    if not path.exists():
+        raise PortraitError(f"no {path.name}")
+    bio = json.loads(path.read_text(encoding="utf-8"))
+    name = bio["name"]
+    if page and "commons.wikimedia.org/wiki/File:" in page:
+        file_name = urllib.parse.unquote(page.split("/wiki/File:", 1)[1])
+    else:
+        lang = WIKI_LANGS.get(bio.get("country_code") or "", "en")
+        title = name.replace(" ", "_")
+        pages = [page] if page else [f"https://en.wikipedia.org/wiki/{title}", f"https://{lang}.wikipedia.org/wiki/{title}"]
+        article, tried = None, []
+        for candidate in dict.fromkeys(pages):
+            try:
+                article = _page(candidate, token)
+                break
+            except PortraitError as err:
+                tried.append(str(err))
+        if article is None:
+            raise PortraitError("; ".join(tried))
+        # Same name, different person: the article must give the birth year.
+        year = (bio.get("birth_date") or "")[:4]
+        if not page and (not year or year not in article[:20000]):
+            raise PortraitError(f"article doesn't mention birth year {year or '?'}: check by hand, then pass --page")
+        file_name = _lead_image(article)
+    surname = _fold(name.split()[-1])
+    if not page and surname not in _fold(file_name):
+        raise PortraitError(f"file name {file_name!r} doesn't contain {surname!r}: check by hand, then pass --page")
+    commons = f"https://commons.wikimedia.org/wiki/File:{urllib.parse.quote(file_name.replace(' ', '_'))}"
+    credit = _commons_credit(_page(commons, token))
+    if dry_run:
+        return f"{file_name} | {credit['author']} | {credit['license']}"
+    data, headers = _post_bytes("/image", {"url": credit["image_url"]}, token)
+    ext = next((e for magic, e in IMAGE_MAGIC.items() if data.startswith(magic)), None)
+    if data[:4] == b"RIFF" and data[8:12] == b"WEBP":
+        ext = "webp"
+    if not ext:
+        raise PortraitError("not a JPEG, PNG or WebP file")
+    PORTRAIT_DIR.mkdir(parents=True, exist_ok=True)
+    for old in PORTRAIT_DIR.glob(f"{slug}.*"):
+        old.unlink()
+    (PORTRAIT_DIR / f"{slug}.{ext}").write_bytes(data)
+    bio["portrait"] = {
+        "file": f"{slug}.{ext}",
+        "source_url": commons,
+        "author": credit["author"],
+        "license": credit["license"],
+        "license_url": credit["license_url"],
+        "retrieved": datetime.date.today().isoformat(),
+    }
+    path.write_text(json.dumps(bio, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return f"{file_name} | {credit['author']} | {credit['license']} | {len(data) // 1024} KB"
+
+
+def cmd_portrait(args) -> None:
+    token = session()
+    if args.all:
+        slugs = sorted(
+            p.name[: -len("_bio.json")]
+            for p in (ROOT / "data").glob("*_bio.json")
+            if args.force or "portrait" not in json.loads(p.read_text(encoding="utf-8"))
+        )
+    else:
+        slugs = args.slugs
+    if args.page and len(slugs) != 1:
+        raise SystemExit("--page needs exactly one slug")
+
+    def one(slug: str) -> tuple[str, str]:
+        try:
+            return slug, "ok   " + fetch_portrait(slug, args.page, token, args.dry_run)
+        except PortraitError as err:
+            return slug, f"SKIP {err}"
+        except (TimeoutError, urllib.error.URLError) as err:
+            return slug, f"SKIP network: {err}"
+
+    # Two at a time: more queue behind each other in Browser Run.
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        for slug, line in pool.map(one, slugs):
+            print(f"{slug}: {line}", flush=True)
+
+
 def cmd_run(_args) -> None:
     print(json.dumps(_post("/run", {}, session()), indent=2))
 
@@ -323,6 +517,13 @@ def main() -> None:
     p.add_argument("domain")
     p.add_argument("--reason", required=True)
     p.set_defaults(func=cmd_allow)
+    p = sub.add_parser("portrait", help="portrait from Wikimedia Commons (free licenses only)")
+    p.add_argument("slugs", nargs="*")
+    p.add_argument("--all", action="store_true", help="every profile without a portrait")
+    p.add_argument("--force", action="store_true", help="with --all, also replace existing portraits")
+    p.add_argument("--page", help="Wikipedia article or Commons file page to use (one slug)")
+    p.add_argument("--dry-run", action="store_true", help="show the file and credit, download nothing")
+    p.set_defaults(func=cmd_portrait)
     args = parser.parse_args()
     args.func(args)
 
