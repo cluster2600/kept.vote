@@ -379,6 +379,38 @@
       "bytes": 189352,
       "retrieved_at_utc": "2026-10-22T23:42:31.335704+00:00",
       "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-sus-dataflow-catalog-2026-10-22.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/all/latest?references=none",
+      "sha256": "20e22a7167d2628a6e2783d3e9247a99569f1caf399f0670e34b6bd6ac77980e",
+      "bytes": 274648,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-modal-structure.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/DF_SUS_REC_MODALREC?references=all",
+      "sha256": "5b238794611f68567711d986a142019529c2db91660f3a44108a4bf5e6bba255",
+      "bytes": 1699947,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-modal-total-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_MODALREC/_T...A?startPeriod=2022&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "a4cc29610c2fc591fa3d3bb0c760f0f7ffc64e5c72a010e09f233a2be0086e95",
+      "bytes": 986,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-methodology-2020.pdf",
+      "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/13407818/master",
+      "sha256": "a03dc2c1ef4084745c463e7aeb9ea67ee4605b44b5e20e151d060d5acf9c017b",
+      "bytes": 3042185,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

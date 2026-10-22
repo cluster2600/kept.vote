@@ -144,3 +144,20 @@ The author omitted six cantons because of small counts. Eligibility estimates,
 counting rules and case mix limit comparisons (study pages 125–132). No judge,
 nationality or subsequent-homicide breakdown is supplied. Full periods, original
 rounded values and explicit nulls are in `historical_cantonal_release_comparison.json`.
+
+## Additional reconviction modalities: source codes retained
+
+`national_reconviction_modalities_2022.json` retains 11 raw observations from the
+additional official BFS flow `DF_SUS_REC_MODALREC`, with its structure and the
+linked 2020 methodology report archived. The selected table concerns **11,401
+reconvicted people** in a reference-judgment cohort; its percentage denominator
+is not all sentenced people or all prisoners released. It has no judge or
+nationality dimension and does not count homicides after a judge's release order.
+
+Interpretation of the nature-of-recurrence labels remains pending: the current
+`GNRL_REC` and `SPEC_REC` counts partition the total, whereas the historical 2020
+methodology describes general recidivism inclusively. Preserve source codes
+until current definitions are reconciled. More-serious recurrence is not a
+homicide count. The two new flow identifiers were discovered from the official
+SUS dataflow catalog; `DF_SUS_REC_COURBREC` is a further timing-series lead, not
+yet extracted here.

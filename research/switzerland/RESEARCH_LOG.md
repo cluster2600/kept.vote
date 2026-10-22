@@ -253,3 +253,38 @@ Validation: replacement PDF opened with pypdf, four pages and printed date
 checked; new source receipts/hashes, all existing manifest hashes and all JSON
 checked; remand passage checked against archived text; `git diff --check` passed.
 No application or graph changes, messages, document requests or publication.
+
+## Research pass 7
+
+**22 October 2026, 23:56:02–23:58:07 UTC**, about two minutes of source research
+and validation; administrative work and scheduled idle time excluded.
+
+Queries included `site.bfs.admin.ch bedingte Entlassung 2024 2025 Kanton Statistik`,
+`site.bfs.admin.ch récidive libération homicide juge données`,
+`"Morges" "13 juillet 2020" "Tmc" ordonnance original`,
+`"Yann-Eric Hofmann" "conseil" "fondation"`,
+`"DF_SUS_REC" site:opendata.swiss`, and
+`site.bfs.admin.ch "récidive" "Swiss Stat Explorer" "2026"`.
+
+Results:
+- A federal 11 May 2026 news item pointed to broader Swiss Stat Explorer
+  material. Its linked BFS page was retrieved but did not expose direct dataset
+  links in the parsed HTML. The official SDMX SUS dataflow catalog then exposed
+  two additional flows: **DF_SUS_REC_MODALREC** and **DF_SUS_REC_COURBREC**.
+- Retrieved the first flow's structure, selected 2022 total table (11 raw
+  observations) and its linked **2020** methodology report. Archived all four
+  sources including the dataflow catalog, with URLs, receipt timestamps/hashes.
+- The modality table's denominator is **11,401 reconvicted people**, not all
+  released prisoners. Checked both count partitions against that total. The
+  current general/specific codes partition the total, whereas the 2020 report's
+  general-recidivism description is inclusive. Retain raw codes and mark their
+  interpretation pending current-definition reconciliation; do not silently
+  harmonise the two or turn more-serious recurrence into homicide counts.
+- The modality flow has no judge or nationality dimension. The timing flow is
+  retained as a lead only. These do not supply the requested judge-linked
+  release/homicide denominators. No additional original release order or
+  individual contribution was recovered.
+
+Validation: 11 unique source-code observations, 2022/total/free-publication
+filters, count partitions, PDF readability, JSON and all manifest hashes checked;
+`git diff --check` passed. No application or graph changes, requests or messages.
