@@ -1,0 +1,51 @@
+[
+  {
+    "id": "rumen-radev-fin-2025-employment-income",
+    "year": 2025,
+    "type": "income",
+    "label": "Annual tax base from employment income",
+    "amount": "BGN 288,691 (about EUR 147,600 at the fixed rate of 1.95583)",
+    "detail": "As reported by Banker and Bulgaria On Air from the declarations of assets and interests published by the Court of Audit (Сметна палата) in August 2026, which covered annual declarations filed by 15 May 2026 and entry and final declarations filed from January to August 2026; the reports do not say which of Radev's declarations (final as President or entry as Prime Minister) the figures come from. The amounts are in leva because they relate to the period before the euro changeover of 1 January 2026. The Court of Audit's public register (register.cacbg.bg) lists declarants by year but builds its lists with scripts, so it could not be read for this research; the figures rest on press reports citing the declaration.",
+    "source_url": [
+      "https://banker.bg/2026/08/14/politiczite-deklariraha-dohodite-si-pred-smetnata-palata-kakvo-pokazvat-deklaracziite/",
+      "https://www.bgonair.bg/a/2-bulgaria/427431-dohodite-na-polititsite-radev-e-deklariral-seriozna-suma-i-shkoda-ta",
+      "https://register.cacbg.bg/2026/index.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-fin-bank-account",
+    "year": 2025,
+    "type": "savings",
+    "label": "Bank account (one account)",
+    "amount": "BGN 567,000 (about EUR 290,000)",
+    "detail": "According to News.bg, Radev declared one bank account holding BGN 567,000 originating from salaries, and a credit card with a BGN 10,000 limit; Banker and Bulgaria On Air describe the same BGN 567,000 as declared 'from employment income'. Published by the Court of Audit in August 2026 (see the income record for the scope of the publication); the register itself could not be read for this research.",
+    "source_url": [
+      "https://news.bg/politics/kakvo-sa-deklarirali-polititsite-prez-2026-godina.html",
+      "https://banker.bg/2026/08/14/politiczite-deklariraha-dohodite-si-pred-smetnata-palata-kakvo-pokazvat-deklaracziite/"
+    ]
+  },
+  {
+    "id": "rumen-radev-fin-funds",
+    "year": 2025,
+    "type": "investments",
+    "label": "Holdings in investment and pension funds and equivalent savings",
+    "amount": "BGN 5,650",
+    "detail": "Reported by News.bg, Banker and Bulgaria On Air from the declarations published by the Court of Audit in August 2026.",
+    "source_url": [
+      "https://news.bg/politics/kakvo-sa-deklarirali-polititsite-prez-2026-godina.html",
+      "https://www.bgonair.bg/a/2-bulgaria/427431-dohodite-na-polititsite-radev-e-deklariral-seriozna-suma-i-shkoda-ta"
+    ]
+  },
+  {
+    "id": "rumen-radev-fin-car",
+    "year": 2025,
+    "type": "assets",
+    "label": "Car: Škoda Octavia",
+    "amount": "BGN 16,000 (declared value, per News.bg)",
+    "detail": "The Škoda Octavia is the only asset of this kind mentioned in the press reports on his declaration; none of the reports found mentions real estate in his name. Published by the Court of Audit in August 2026.",
+    "source_url": [
+      "https://news.bg/politics/kakvo-sa-deklarirali-polititsite-prez-2026-godina.html",
+      "https://www.bgonair.bg/a/2-bulgaria/427431-dohodite-na-polititsite-radev-e-deklariral-seriozna-suma-i-shkoda-ta"
+    ]
+  }
+]

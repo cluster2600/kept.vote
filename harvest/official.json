@@ -103,6 +103,37 @@
         { "url": "https://www.sfpd.fgov.be/en/changes/pension-reform", "what": "Federal Pensions Service: implementation of the pension reform" }
       ]
     },
+    "BG": {
+      "name": "Bulgaria",
+      "domains": {
+        "gov.bg": {
+          "what": "Council of Ministers: Prime Minister, cabinet composition, governance programme, cabinet meetings and decisions. Also matched by the gov.xx pattern; listed for its watched pages",
+          "access": "2026-10-22: pages render; PDFs such as the governance programme are fingerprinted only"
+        },
+        "president.bg": { "what": "President: decrees, vetoes returning laws to parliament, appointment of caretaker governments" },
+        "cik.bg": { "what": "Central Election Commission: decisions, registers and official results (results.cik.bg)" },
+        "bulnao.government.bg": { "what": "Court of Audit: control of party and campaign financing, parties' annual financial reports. Also matched by the government.* pattern; listed for its watched page" },
+        "cacbg.bg": {
+          "what": "Court of Audit public register of asset and interest declarations of public office holders (register.cacbg.bg)",
+          "access": "2026-10-22: year pages build their lists with scripts; the harvest gets the title only"
+        },
+        "constcourt.bg": { "what": "Constitutional Court: cases, decisions and announcements" },
+        "justice.bg": { "what": "Judiciary: Supreme Judicial Council (vss.justice.bg) and the courts' portal" },
+        "prb.bg": { "what": "Prosecutor's Office" },
+        "vks.bg": { "what": "Supreme Court of Cassation" },
+        "strategy.bg": { "what": "Council of Ministers public consultation portal (draft laws and strategies)" }
+      },
+      "watch": [
+        { "url": "https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms", "what": "Council of Ministers meetings: agendas and decisions" },
+        { "url": "https://www.gov.bg/bg/pravitelstvo/sastav-na-pravitelstvoto", "what": "Composition of the government: appointments and reshuffles" },
+        { "url": "https://www.president.bg/cat47/Prezidentsko-veto/", "what": "Presidential vetoes (laws returned to parliament)" },
+        { "url": "https://www.cik.bg/bg/decisions", "what": "Central Election Commission decisions" },
+        { "url": "https://results.cik.bg/", "what": "Official election results index" },
+        { "url": "https://www.bulnao.government.bg/bg/kontrol-partii/otcheti-na-partii/", "what": "Annual financial reports of political parties" },
+        { "url": "https://register.cacbg.bg/", "what": "Register of asset and interest declarations, index by year" },
+        { "url": "https://www.constcourt.bg/bg/messages", "what": "Constitutional Court announcements" }
+      ]
+    },
     "CH": {
       "name": "Switzerland",
       "domains": {

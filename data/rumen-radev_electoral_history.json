@@ -1,0 +1,83 @@
+[
+  {
+    "id": "rumen-radev-el-2016-pres-r1",
+    "election": "2016 Bulgarian presidential election, first round",
+    "date": "2016-11-06",
+    "role_sought": "President of the Republic (with Iliana Iotova for Vice President)",
+    "result": "First place, qualified for the run-off",
+    "vote_share": "973,754 votes (25.44%)",
+    "opponent": "Tsetska Tsacheva (GERB), 840,635 votes (21.96%)",
+    "detail": "Nominated by an initiative committee represented by Stefan Danailov, with the backing of the Bulgarian Socialist Party. Official results of the Central Election Commission.",
+    "source_url": [
+      "https://results.cik.bg/pvrnr2016/tur1/president/index.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-el-2016-pres-r2",
+    "election": "2016 Bulgarian presidential election, run-off",
+    "date": "2016-11-13",
+    "role_sought": "President of the Republic",
+    "result": "Elected",
+    "vote_share": "2,063,032 votes (59.37%)",
+    "opponent": "Tsetska Tsacheva (GERB), 1,256,485 votes (36.16%)",
+    "detail": "Official results of the Central Election Commission. Took office on 22 January 2017.",
+    "source_url": [
+      "https://results.cik.bg/pvrnr2016/tur2/president/index.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-el-2021-pres-r1",
+    "election": "2021 Bulgarian presidential election, first round",
+    "date": "2021-11-14",
+    "role_sought": "President of the Republic (re-election, with Iliana Iotova)",
+    "result": "First place, qualified for the run-off",
+    "vote_share": "1,322,385 votes (49.42%)",
+    "opponent": "Anastas Gerdzhikov (initiative committee for Anastas Gerdzhikov and Nevyana Miteva), 610,862 votes (22.83%)",
+    "detail": "Nominated by an initiative committee for Rumen Radev and Iliana Iotova. Official results of the Central Election Commission.",
+    "source_url": [
+      "https://results.cik.bg/pvrns2021/tur1/rezultati/index.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-el-2021-pres-r2",
+    "election": "2021 Bulgarian presidential election, run-off",
+    "date": "2021-11-21",
+    "role_sought": "President of the Republic",
+    "result": "Re-elected",
+    "vote_share": "1,539,650 votes (66.72%)",
+    "opponent": "Anastas Gerdzhikov, 733,791 votes (31.80%)",
+    "detail": "Official results of the Central Election Commission.",
+    "source_url": [
+      "https://results.cik.bg/pvrns2021/tur2/rezultati/index.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-el-2026-parliament",
+    "election": "2026 Bulgarian parliamentary election (52nd National Assembly)",
+    "date": "2026-04-19",
+    "role_sought": "Member of the National Assembly, head of the Progressive Bulgaria lists in the 2nd constituency (Burgas) and the 25th constituency (Sofia); candidate for Prime Minister",
+    "result": "Progressive Bulgaria first with an outright majority (131 of 240 seats)",
+    "vote_share": "Progressive Bulgaria: 1,444,920 votes (44.594%) nationally",
+    "opponent": "GERB–SDS 433,755 votes (13.387%, 39 seats); PP–DB 408,846 (12.618%, 37 seats); DPS 230,693 (7.120%, 21 seats); Vazrazhdane 137,940 (4.257%, 12 seats)",
+    "detail": "Official Central Election Commission results. In Burgas, Progressive Bulgaria won 82,689 votes (47.422%) and 8 seats, with 22,741 preference votes for Radev; in Sofia's 25th constituency, 76,252 votes (41.976%) and 7 seats, with 21,541 preference votes for him.",
+    "source_url": [
+      "https://results.cik.bg/pe202604/rezultati/index.html",
+      "https://results.cik.bg/pe202604/rezultati/02.html",
+      "https://results.cik.bg/pe202604/rezultati/25.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-el-2026-pm-vote",
+    "election": "Election of the Prime Minister by the National Assembly",
+    "date": "2026-05-08",
+    "role_sought": "Prime Minister",
+    "result": "Elected",
+    "vote_share": "124 for, 70 against, 36 abstentions",
+    "opponent": "",
+    "detail": "The cabinet as a whole was voted in with 122 votes (Novinite); Progressive Bulgaria held 131 of the 240 seats.",
+    "source_url": [
+      "https://www.euronews.com/my-europe/2026/05/08/bulgarian-parliament-confirms-rumen-radev-as-new-prime-minister",
+      "https://www.novinite.com/view_news.php?id=238419"
+    ]
+  }
+]
