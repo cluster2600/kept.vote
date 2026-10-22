@@ -1,0 +1,50 @@
+[
+  {
+    "id": "petteri-orpo-st-op-amerikka",
+    "holding": "OP Amerikka investment fund (OP sijoitusrahasto Amerikka)",
+    "type": "mutual fund units",
+    "value": "74.5 units",
+    "as_of": "2026 declaration",
+    "detail": "Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-st-op-rohkea",
+    "holding": "OP Rohkea investment fund (OP sijoitusrahasto Rohkea)",
+    "type": "mutual fund units",
+    "value": "219.7 units",
+    "as_of": "2026 declaration",
+    "detail": "Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-st-op-pension-insurance",
+    "holding": "OP pension insurance (listed as 'OP sijoitusrahasto eläkevakuutus')",
+    "type": "pension insurance",
+    "value": "52,000 (unit not stated in the register)",
+    "as_of": "2026 declaration",
+    "detail": "Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-st-op-investment-insurance",
+    "holding": "OP investment insurance (OP sijoitusvakuutus)",
+    "type": "unit-linked investment insurance",
+    "value": "100,500 (unit not stated in the register)",
+    "as_of": "2026 declaration",
+    "detail": "The Government's separate submission of ministers' declarations to Parliament (VN 1/2026 vp, February 2026) may give a slightly different figure; it could not be read for this research. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  }
+]

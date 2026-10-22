@@ -97,6 +97,64 @@
         "poderjudicial.es": { "what": "Judiciary" }
       }
     },
+    "FI": {
+      "name": "Finland",
+      "domains": {
+        "valtioneuvosto.fi": {
+          "what": "Government: Prime Minister's Office, ministries, ministers and their declarations of interests, government programme, press releases, publications",
+          "access": "2026-10-21: pages take about two minutes and return no usable content (status error); julkaisut.valtioneuvosto.fi unreachable"
+        },
+        "eduskunta.fi": {
+          "what": "Parliament: members, bills, votes, committee reports, MPs' declarations of interests, outside income and gifts (open data at avoindata.eduskunta.fi)",
+          "access": "2026-10-21: HTML pages are built by scripts and return no usable content (status error); document PDFs are fingerprinted only; the open-data API renders each MP's register entry"
+        },
+        "presidentti.fi": { "what": "President of the Republic" },
+        "finlex.fi": { "what": "Finlex: Statute Book, consolidated legislation, government bills, Supreme Court and Supreme Administrative Court case law" },
+        "vaalit.fi": {
+          "what": "Ministry of Justice election service; official results at tulospalvelu.vaalit.fi",
+          "access": "2026-10-21: the vaalit.fi front page timed out; static result pages per election on tulospalvelu.vaalit.fi render (none for 2011 and earlier)"
+        },
+        "vaalirahoitusvalvonta.fi": {
+          "what": "National Audit Office's supervision of election and party funding: candidates' and parties' funding declarations",
+          "access": "2026-10-21: renders, but declarations are searched through forms with no stable per-candidate URL"
+        },
+        "vtv.fi": { "what": "National Audit Office, including the lobbying transparency register" },
+        "korkeinoikeus.fi": {
+          "what": "Supreme Court (rulings also on Finlex)",
+          "access": "2026-10-21: redirected to an outage notice (judicial-administration sites offline for the day)"
+        },
+        "kho.fi": {
+          "what": "Supreme Administrative Court (rulings also on Finlex)",
+          "access": "2026-10-21: redirected to an outage notice (judicial-administration sites offline for the day)"
+        },
+        "oikeuskansleri.fi": {
+          "what": "Chancellor of Justice: legality oversight of the Government and ministers",
+          "access": "2026-10-21: 503 (unreachable)"
+        },
+        "oikeusasiamies.fi": {
+          "what": "Parliamentary Ombudsman",
+          "access": "2026-10-21: 503 (unreachable)"
+        },
+        "stat.fi": {
+          "what": "Statistics Finland: official election statistics",
+          "access": "2026-10-21: unreachable (no answer)"
+        },
+        "tilastokeskus.fi": {
+          "what": "Statistics Finland (Finnish-language domain)",
+          "access": "2026-10-21: unreachable (no answer)"
+        }
+      },
+      "watch": [
+        { "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma", "what": "Statute Book: acts and decrees published" },
+        { "url": "https://www.finlex.fi/fi/hallituksen-esitykset", "what": "Government bills to Parliament" },
+        { "url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus", "what": "Supreme Court precedents" },
+        { "url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus", "what": "Supreme Administrative Court precedents" },
+        { "url": "https://tulospalvelu.vaalit.fi/EKV-2023/fi/tulos_kokomaa.html", "what": "Parliamentary election 2023: official results" },
+        { "url": "https://tulospalvelu.vaalit.fi/KV-2025/fi/tulos_kokomaa.html", "what": "Municipal elections 2025: official results" },
+        { "url": "https://www.vaalirahoitusvalvonta.fi/fi/index/ajankohtaista.html", "what": "Election and party funding supervision: announcements" },
+        { "url": "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947", "what": "Prime Minister's register entry: declarations of interests, outside income and gifts" }
+      ]
+    },
     "FR": {
       "name": "France",
       "domains": {
