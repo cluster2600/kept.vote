@@ -65,6 +65,7 @@
     "back": "← Tut ils politichers",
     "trackRecord": "Bilanza da las empermischuns",
     "contentLanguage": "Profil scrit en {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Secziuns dal profil",
     "tabs": {
       "promises": "Empermischuns",

@@ -262,7 +262,10 @@ def cmd_fetch(args) -> None:
 
 # ---- Portraits --------------------------------------------------------------
 # Each politician's portrait is the lead image of their Wikipedia article,
-# used only when it is a Wikimedia Commons file under a free license. The
+# used only when it is a Wikimedia Commons file under a free license: CC0,
+# public domain, CC BY, CC BY-SA, Commons' "Attribution", Etalab's Licence
+# Ouverte, Korea's KOGL Type 1, or the European Parliament's reuse notice (all
+# allow reuse and crops with credit). The
 # Commons file page (read through Kitesurf) gives the author and the license;
 # the image itself is fetched by the Worker's /image endpoint.
 PORTRAIT_DIR = ROOT / "frontend" / "public" / "portraits"
@@ -283,6 +286,10 @@ class PortraitError(Exception):
     pass
 
 
+class TryNextArticle(PortraitError):
+    """No such page, no photo, or an article about someone else."""
+
+
 def _fold(text: str) -> str:
     """Lowercase ASCII letters only, for comparing names with file names."""
     plain = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
@@ -292,31 +299,61 @@ def _fold(text: str) -> str:
 def _page(url: str, token: str) -> str:
     result = _post("/harvest", {"url": url}, token)
     if result.get("status") != "reachable" or not result.get("markdown"):
-        raise PortraitError(f"{url}: {result.get('status')}")
+        raise TryNextArticle(f"{url}: {result.get('status')}")
     return result["markdown"]
 
 
-def _lead_image(article: str) -> str:
-    """The first photo of a Wikipedia article (its infobox image): the File:
-    name. Icons, flags, coats of arms and signatures are SVGs and are skipped."""
-    for thumb, file_page in re.findall(
-        r"\[!\[[^\]]*\]\((https://[a-z.]*wikimedia\.org/[^)\s]+)\)\]\(<?(https://[a-z-]+\.wikipedia\.org/wiki/File:[^)\s>\"]+)",
+# Images that come before the portrait in some infoboxes: signatures,
+# emblems, decorations, maps.
+NOT_PHOTO = re.compile(
+    r"signature|signatur|podpis|logo|flag|coat of arms|wappen|emblem|order of|medal|ribbon|map\b", re.I
+)
+# A first photo with these words shows more than the person: check by hand.
+NOT_ALONE = re.compile(
+    r"group|gruppenbild|meeting|demonstra|protest|\b(and|with|et|avec|und|mit|con|y|og|och|ja|és)\b", re.I
+)
+
+
+def _article_images(article: str):
+    """(file name, hosted on Commons) for each image in a Wikipedia article,
+    in page order. Image links use the local File namespace (File:, Fichier:,
+    Datei:...), so the link is matched on its extension; links with
+    parentheses come wrapped in <...>."""
+    for thumb, wrapped, bare in re.findall(
+        r"\[!\[[^\]]*\]\((https://[a-z.]*wikimedia\.org/[^)\s]+)\)\]"
+        r"\((?:<(https://[a-z-]+\.wikipedia\.org/wiki/[^>\s]+?\.(?:jpe?g|png|webp))>"
+        r"|(https://[a-z-]+\.wikipedia\.org/wiki/[^)\s\"]+?\.(?:jpe?g|png|webp)))",
         article,
+        re.I,
     ):
-        name = urllib.parse.unquote(file_page.split("/wiki/File:", 1)[1])
-        if not re.search(r"\.(jpe?g|png|webp)$", name, re.I):
+        name = urllib.parse.unquote(wrapped or bare).split("/wiki/", 1)[1].split(":", 1)[-1]
+        yield name, "/wikipedia/commons/" in thumb
+
+
+def _portrait_file(article: str, surnames: list[str]) -> str:
+    """The article's first photo (the infobox portrait), if it is a Commons file
+    whose name has one of the surnames and doesn't show other people."""
+    for name, on_commons in _article_images(article):
+        label = name.replace("_", " ")
+        if NOT_PHOTO.search(label):
             continue
-        if "/wikipedia/commons/" not in thumb:
-            raise PortraitError(f"lead image {name} is not on Wikimedia Commons (likely not free)")
+        if not any(s in _fold(label) for s in surnames):
+            raise PortraitError(f"first photo {name!r} doesn't name {'/'.join(surnames)!r}: check by hand, then pass --page")
+        if NOT_ALONE.search(label):
+            raise PortraitError(f"first photo {name!r} may show other people: check by hand, then pass --page")
+        if not on_commons:
+            raise PortraitError(f"first photo {name!r} is not on Wikimedia Commons (likely not free)")
         return name
-    raise PortraitError("no photo in the article")
+    raise TryNextArticle("no photo in the article")
 
 
 def _commons_credit(page: str) -> dict:
-    """Author and license from a Commons file page; refuses unfree files."""
-    summary, _, licensing = page.partition("## Licensing")
-    if not licensing:
-        raise PortraitError("no Licensing section")
+    """Author and license from a Commons file page; refuses unfree files. The
+    license is under "Licensing" or in the summary's "Permission" row, so the
+    whole description (Summary to File history) is searched."""
+    start, end = page.find("## Summary"), page.find("## File history")
+    licensing = page[max(start, 0) : end if end > 0 else len(page)]
+    summary = licensing.partition("## Licensing")[0]
     if re.search(r"non-free|fair use", licensing, re.I):
         raise PortraitError("file is not free")
     match = FREE_LICENSES.search(licensing)
@@ -331,14 +368,42 @@ def _commons_credit(page: str) -> dict:
             license_url = f"https://creativecommons.org/licenses/{kind}/{version}/"
     elif re.search(r"public domain", licensing, re.I):
         license_name, license_url = "Public domain", None
+    elif ouverte := re.search(r"Licence Ouverte\s*(\d)(?:\.(\d))?", licensing):
+        # Etalab's open licence, used for French government portraits.
+        license_name = f"Licence Ouverte {ouverte.group(1)}.{ouverte.group(2) or 0}"
+        license_url = "https://www.etalab.gouv.fr/licence-ouverte-open-licence/"
+    elif "KOGL Type 1" in licensing:
+        # Korea Open Government License, type 1: reuse and changes with credit.
+        license_name, license_url = "KOGL Type 1", "https://www.kogl.or.kr/info/licenseType1.do"
+    elif "europarl.europa.eu/legal-notice" in licensing:
+        # The European Parliament's reuse notice: reuse and crops with credit.
+        license_name, license_url = "© European Union", "https://www.europarl.europa.eu/legal-notice/"
+    elif "allows anyone to use it for any purpose, provided that the copyright holder is properly attributed" in licensing.replace("**", ""):
+        # Commons' {{Attribution}} license (e.g. the Swiss Parliament's photos).
+        license_name, license_url = "Attribution", None
     else:
-        raise PortraitError("no free license found (only CC0, public domain, CC BY and CC BY-SA are used)")
+        raise PortraitError("no free license found (see FREE_LICENSES and _commons_credit for the accepted ones)")
     row = re.search(r"^\|\s*Author\s*\|\s*(.+?)\s*\|\s*$", summary, re.M)
     if not row:
         raise PortraitError("no Author row")
-    author = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", row.group(1))  # links -> text
+    author = re.sub(r"!\[[^\]]*\]\((?:<[^>]*>|[^)\s]*)(?:\s+\"[^\"]*\")?\)", "", row.group(1))  # icons
+    author = re.sub(r"\[([^\]]*)\]\((?:<[^>]*>|[^)\s]*)(?:\s+\"[^\"]*\")?\)", r"\1", author)  # links -> text
     author = re.sub(r"<[^>]+>|[*_`]", "", author)
+    author = re.sub(r"(.{4,}?)\1", r"\1", author)  # Creator templates print the name twice
+    author = re.split(r"\s*(?:Description|Authority file|creator QS:)", author)[0]  # ...and their details
+    # The same credit in several languages ("Français : …Deutsch: …English: …"):
+    # keep the English one.
+    english = re.search(r"English\s*:\s*(.+?)(?=[A-Z][a-zà-ü]+\s*:|$)", author)
+    if english:
+        author = english.group(1)
     author = re.sub(r"\s+", " ", author).strip(" .,;")
+    half = len(author) // 2
+    if len(author) % 2 == 0 and author[:half] == author[half:]:  # template text shown twice
+        author = author[:half]
+    if re.fullmatch(r"unknown( author)?", author, re.I):
+        holder = re.search(r"copyright holder of this file, \[?([^\],(]+)", licensing)
+        if holder:
+            author = holder.group(1).strip()
     if not author:
         raise PortraitError("empty Author")
     original = re.search(r"\[Original file\]\((https://upload\.wikimedia\.org/[^)\s]+)", page)
@@ -362,26 +427,27 @@ def fetch_portrait(slug: str, page: str | None, token: str, dry_run: bool) -> st
     if page and "commons.wikimedia.org/wiki/File:" in page:
         file_name = urllib.parse.unquote(page.split("/wiki/File:", 1)[1])
     else:
-        lang = WIKI_LANGS.get(bio.get("country_code") or "", "en")
         title = name.replace(" ", "_")
-        pages = [page] if page else [f"https://en.wikipedia.org/wiki/{title}", f"https://{lang}.wikipedia.org/wiki/{title}"]
-        article, tried = None, []
-        for candidate in dict.fromkeys(pages):
+        langs = dict.fromkeys(["en", bio.get("content_lang") or "en", WIKI_LANGS.get(bio.get("country_code") or "", "en")])
+        pages = [page] if page else [f"https://{lang}.wikipedia.org/wiki/{title}" for lang in langs]
+        # Every name after the first: "Pedro Sánchez Pérez-Castejón" -> sanchez, perezcastejon.
+        surnames = [s for s in (_fold(w) for w in name.split()[1:]) if len(s) >= 3]
+        year = (bio.get("birth_date") or "")[:4]
+        file_name, tried = None, []
+        # Wikipedias in turn, until one has a photo (a short English article
+        # often has none where the national one does).
+        for candidate in pages:
             try:
                 article = _page(candidate, token)
+                # Same name, different person: the article must give the birth year.
+                if not page and (not year or year not in article):
+                    raise TryNextArticle(f"doesn't mention birth year {year or '?'}: check by hand, then pass --page")
+                file_name = _portrait_file(article, surnames)
                 break
-            except PortraitError as err:
-                tried.append(str(err))
-        if article is None:
+            except TryNextArticle as err:
+                tried.append(f"{candidate}: {err}")
+        if file_name is None:
             raise PortraitError("; ".join(tried))
-        # Same name, different person: the article must give the birth year.
-        year = (bio.get("birth_date") or "")[:4]
-        if not page and (not year or year not in article[:20000]):
-            raise PortraitError(f"article doesn't mention birth year {year or '?'}: check by hand, then pass --page")
-        file_name = _lead_image(article)
-    surname = _fold(name.split()[-1])
-    if not page and surname not in _fold(file_name):
-        raise PortraitError(f"file name {file_name!r} doesn't contain {surname!r}: check by hand, then pass --page")
     commons = f"https://commons.wikimedia.org/wiki/File:{urllib.parse.quote(file_name.replace(' ', '_'))}"
     credit = _commons_credit(_page(commons, token))
     if dry_run:

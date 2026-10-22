@@ -65,6 +65,7 @@
     "back": "← Összes politikus",
     "trackRecord": "Az ígéretek mérlege",
     "contentLanguage": "A profil {language} nyelven készült",
+    "photoCredit": "Fotó: {author}, {license}, forrás: {source}",
     "tabsLabel": "A profil részei",
     "tabs": {
       "promises": "Ígéretek",

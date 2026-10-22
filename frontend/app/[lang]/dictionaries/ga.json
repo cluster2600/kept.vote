@@ -71,6 +71,7 @@
     "back": "← Na polaiteoirí go léir",
     "trackRecord": "Taifead comhlíonta gealltanas",
     "contentLanguage": "Teanga na próifíle: {language}",
+    "photoCredit": "Grianghraf: {author}, {license}, trí {source}",
     "tabsLabel": "Codanna den phróifíl",
     "tabs": {
       "promises": "Gealltanais",

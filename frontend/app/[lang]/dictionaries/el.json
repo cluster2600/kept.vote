@@ -65,6 +65,7 @@
     "back": "← Όλοι οι πολιτικοί",
     "trackRecord": "Ιστορικό τήρησης υποσχέσεων",
     "contentLanguage": "Το προφίλ είναι γραμμένο στα {language}",
+    "photoCredit": "Φωτογραφία: {author}, {license}, μέσω {source}",
     "tabsLabel": "Ενότητες προφίλ",
     "tabs": {
       "promises": "Υποσχέσεις",

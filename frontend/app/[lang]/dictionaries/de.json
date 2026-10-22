@@ -65,6 +65,7 @@
     "back": "← Alle Politiker",
     "trackRecord": "Bilanz der Versprechen",
     "contentLanguage": "Profil auf {language} verfasst",
+    "photoCredit": "Foto: {author}, {license}, über {source}",
     "tabsLabel": "Profilbereiche",
     "tabs": {
       "promises": "Versprechen",

@@ -65,6 +65,7 @@
     "back": "← Alla politiker",
     "trackRecord": "Löftesfacit",
     "contentLanguage": "Profilen är skriven på {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profilavsnitt",
     "tabs": {
       "promises": "Löften",

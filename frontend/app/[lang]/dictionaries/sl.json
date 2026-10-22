@@ -69,6 +69,7 @@
     "back": "← Vsi politiki",
     "trackRecord": "Bilanca obljub",
     "contentLanguage": "Jezik profila: {language}",
+    "photoCredit": "Fotografija: {author}, {license}, vir: {source}",
     "tabsLabel": "Razdelki profila",
     "tabs": {
       "promises": "Obljube",

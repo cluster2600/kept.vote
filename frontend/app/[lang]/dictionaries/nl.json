@@ -65,6 +65,7 @@
     "back": "← Alle politici",
     "trackRecord": "Balans van beloften",
     "contentLanguage": "Profiel opgesteld in het {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profielonderdelen",
     "tabs": {
       "promises": "Beloften",

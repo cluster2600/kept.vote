@@ -65,6 +65,7 @@
     "back": "← Alle politikere",
     "trackRecord": "Løfteregnskab",
     "contentLanguage": "Profilen er skrevet på {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profilafsnit",
     "tabs": {
       "promises": "Løfter",

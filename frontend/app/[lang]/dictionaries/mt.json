@@ -71,6 +71,7 @@
     "back": "← Il-politiċi kollha",
     "trackRecord": "Rekord tal-wegħdiet",
     "contentLanguage": "Lingwa tal-profil: {language}",
+    "photoCredit": "Ritratt: {author}, {license}, permezz ta' {source}",
     "tabsLabel": "Taqsimiet tal-profil",
     "tabs": {
       "promises": "Wegħdiet",

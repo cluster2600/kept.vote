@@ -67,6 +67,7 @@
     "back": "← Toți politicienii",
     "trackRecord": "Bilanțul promisiunilor",
     "contentLanguage": "Profil redactat în {language}",
+    "photoCredit": "Fotografie: {author}, {license}, prin {source}",
     "tabsLabel": "Secțiunile profilului",
     "tabs": {
       "promises": "Promisiuni",

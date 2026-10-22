@@ -65,6 +65,7 @@
     "back": "← Kõik poliitikud",
     "trackRecord": "Lubaduste täitmise ülevaade",
     "contentLanguage": "Profiil on kirjutatud {language} keeles",
+    "photoCredit": "Foto: {author}, {license}, allikas: {source}",
     "tabsLabel": "Profiili jaotised",
     "tabs": {
       "promises": "Lubadused",

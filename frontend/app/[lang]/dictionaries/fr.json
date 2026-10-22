@@ -67,6 +67,7 @@
     "back": "← Tous les responsables politiques",
     "trackRecord": "Bilan des promesses",
     "contentLanguage": "Profil rédigé en {language}",
+    "photoCredit": "Photo : {author}, {license}, via {source}",
     "tabsLabel": "Sections du profil",
     "tabs": {
       "promises": "Promesses",
