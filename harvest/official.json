@@ -16,8 +16,25 @@
     "AT": {
       "name": "Austria",
       "domains": {
-        "gv.at": { "what": "Federal administration and Parliament (parlament.gv.at)" }
-      }
+        "gv.at": {
+          "what": "Federal administration and Parliament (parlament.gv.at): Chancellery, ministries, Federal Law Gazette (ris.bka.gv.at), Interior Ministry elections portal, Court of Audit, Constitutional Court",
+          "access": "2026-10-22: noe.gv.at/wahlen/ answers 403; parlament.gv.at person pages build the transparency (declarations) tab with scripts, readable through the page's ?json=true export; Chancellery CV PDFs are fingerprinted only"
+        },
+        "bundespraesident.at": { "what": "Federal President: appointment and swearing-in of the Chancellor and the government, certification of federal laws" },
+        "statistik.at": { "what": "Statistics Austria: official public-finance data (deficit and debt notifications)" },
+        "fiskalrat.at": { "what": "Fiscal Advisory Council: independent monitoring of fiscal rules and budget forecasts" },
+        "bundesheer.at": { "what": "Ministry of Defence and Armed Forces" }
+      },
+      "watch": [
+        { "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/die-bundesregierung/bundesministerinnen-und-bundesminister.html", "what": "Members of the federal government and state secretaries: reshuffles" },
+        { "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/die-bundesregierung/ministerratsprotokolle.html", "what": "Council of Ministers minutes" },
+        { "url": "https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAuth&Teil1=True&Teil2=False&Teil3=False&ImRisSeit=EinemMonat&ResultPageSize=100", "what": "Federal Law Gazette: items published in the last month" },
+        { "url": "https://www.bmi.gv.at/412/", "what": "Interior Ministry elections portal: national elections, referendums, official results" },
+        { "url": "https://www.rechnungshof.gv.at/rh/home/was-wir-tun/was-wir-tun_5/was-wir-tun_6/Kontrolle_der_Parteien.html", "what": "Court of Audit: parties' annual statements of accounts" },
+        { "url": "https://www.rechnungshof.gv.at/rh/home/was-wir-tun/was-wir-tun_5/Kontrolle_der_Parteien.html", "what": "Court of Audit: party donations, election-advertising reports, party finance controls" },
+        { "url": "https://www.statistik.at/statistiken/volkswirtschaft-und-oeffentliche-finanzen/oeffentliche-finanzen/maastricht-indikatoren/oeffentliches-defizit/oeffentlicher-ueberschuss", "what": "Statistics Austria: public deficit notifications" },
+        { "url": "https://www.fiskalrat.at/publikationen.html", "what": "Fiscal Advisory Council reports" }
+      ]
     },
     "CH": {
       "name": "Switzerland",
