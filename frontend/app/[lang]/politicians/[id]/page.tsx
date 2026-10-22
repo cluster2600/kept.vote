@@ -40,11 +40,12 @@ import {
   listStocks,
   listWorkHistory,
 } from "@/lib/data";
+import PortraitImage from "@/components/PortraitImage";
 import TrackRecord from "@/components/TrackRecord";
 import PoliticianProfile from "@/components/PoliticianProfile";
 import { getDictionary } from "../../dictionaries";
 import { isLocale, localePath } from "@/lib/i18n/config";
-import { countryName, fmt, languageName, plural } from "@/lib/i18n/format";
+import { countryName, fmt, languageName, plural, rich } from "@/lib/i18n/format";
 import { alternatesFor } from "@/lib/i18n/metadata";
 
 export const dynamic = "force-dynamic";
@@ -138,24 +139,65 @@ export default async function PoliticianPage({ params }: Props) {
 
       {/* Hero: identity + overall promise track record */}
       <div className="mt-4 rounded-xl border border-slate-200 bg-white p-6 shadow-xs">
-        <h1 className="text-2xl font-bold tracking-tight text-slate-900">
-          {politician.name}
-        </h1>
-        {(officeLabel || politician.role) && (
-          <p className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
-            {officeLabel && (
-              <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 text-xs font-medium text-slate-600">
-                {officeLabel}
-              </span>
+        <div className="flex items-start gap-4 sm:gap-5">
+          <PortraitImage
+            portrait={politician.portrait}
+            name={politician.name}
+            pixels={96}
+            alt={politician.name}
+            className="h-16 w-16 rounded-xl sm:h-24 sm:w-24"
+            initialsClassName="text-xl sm:text-3xl"
+          />
+          <div className="min-w-0">
+            <h1 className="text-2xl font-bold tracking-tight text-slate-900">
+              {politician.name}
+            </h1>
+            {(officeLabel || politician.role) && (
+              <p className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-600">
+                {officeLabel && (
+                  <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 text-xs font-medium text-slate-600">
+                    {officeLabel}
+                  </span>
+                )}
+                {politician.role && (
+                  <span lang={contentLang ?? undefined}>{politician.role}</span>
+                )}
+              </p>
             )}
-            {politician.role && (
-              <span lang={contentLang ?? undefined}>{politician.role}</span>
-            )}
+            <p className="mt-1 text-sm text-slate-500">
+              {[politician.party, country].filter(Boolean).join(" · ")}
+            </p>
+          </div>
+        </div>
+        {politician.portrait && (
+          <p className="mt-2 text-xs text-slate-400">
+            {rich(dict.politician.photoCredit, {
+              author: politician.portrait.author,
+              license: politician.portrait.license_url ? (
+                <a
+                  href={politician.portrait.license_url}
+                  className="underline decoration-slate-300 underline-offset-2 hover:text-slate-600"
+                  rel="license noopener"
+                  target="_blank"
+                >
+                  {politician.portrait.license}
+                </a>
+              ) : (
+                politician.portrait.license
+              ),
+              source: (
+                <a
+                  href={politician.portrait.source_url}
+                  className="underline decoration-slate-300 underline-offset-2 hover:text-slate-600"
+                  rel="noopener"
+                  target="_blank"
+                >
+                  Wikimedia Commons
+                </a>
+              ),
+            })}
           </p>
         )}
-        <p className="mt-1 text-sm text-slate-500">
-          {[politician.party, country].filter(Boolean).join(" · ")}
-        </p>
         {contentLangName && (
           <p className="mt-3 inline-flex items-center rounded-full bg-sky-50 px-2.5 py-1 text-xs font-medium text-sky-700 ring-1 ring-inset ring-sky-600/20">
             {fmt(dict.politician.contentLanguage, { language: contentLangName })}

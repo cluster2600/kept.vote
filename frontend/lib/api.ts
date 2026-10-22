@@ -21,6 +21,16 @@ export type Office =
   | "party_leader"
   | "other";
 
+/** A politician's photo (free-licensed, from Wikimedia Commons), served from
+ *  /portraits/, and the credit its license requires. */
+export interface Portrait {
+  file: string;
+  source_url: string;
+  author: string;
+  license: string;
+  license_url?: string | null;
+}
+
 export interface PoliticianSummary {
   id: string;
   name: string;
@@ -33,6 +43,7 @@ export interface PoliticianSummary {
   /** BCP-47 language the profile's text is written in (e.g. "fr"). */
   content_lang?: string | null;
   party: string | null;
+  portrait?: Portrait | null;
   promise_count: number;
   kept_count: number;
   broken_count: number;
@@ -52,6 +63,7 @@ export interface Politician {
   party: string | null;
   birth_date: string | null;
   bio: string | null;
+  portrait?: Portrait | null;
   created_at: string;
 }
 

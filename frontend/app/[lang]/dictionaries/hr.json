@@ -67,6 +67,7 @@
     "back": "← Svi političari",
     "trackRecord": "Bilanca obećanja",
     "contentLanguage": "Jezik profila: {language}",
+    "photoCredit": "Fotografija: {author}, {license}, izvor: {source}",
     "tabsLabel": "Odjeljci profila",
     "tabs": {
       "promises": "Obećanja",

@@ -69,6 +69,7 @@
     "back": "← Visi politikai",
     "trackRecord": "Pažadų vykdymo rezultatai",
     "contentLanguage": "Profilio kalba: {language}",
+    "photoCredit": "Nuotrauka: {author}, {license}, šaltinis: {source}",
     "tabsLabel": "Profilio skiltys",
     "tabs": {
       "promises": "Pažadai",

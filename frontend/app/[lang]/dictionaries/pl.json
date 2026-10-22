@@ -69,6 +69,7 @@
     "back": "← Wszyscy politycy",
     "trackRecord": "Bilans obietnic",
     "contentLanguage": "Język profilu: {language}",
+    "photoCredit": "Zdjęcie: {author}, {license}, źródło: {source}",
     "tabsLabel": "Sekcje profilu",
     "tabs": {
       "promises": "Obietnice",

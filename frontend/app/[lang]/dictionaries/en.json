@@ -65,6 +65,7 @@
     "back": "← All politicians",
     "trackRecord": "Promise track record",
     "contentLanguage": "Profile written in {language}",
+    "photoCredit": "Photo: {author}, {license}, via {source}",
     "tabsLabel": "Profile sections",
     "tabs": {
       "promises": "Promises",

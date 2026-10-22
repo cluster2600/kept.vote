@@ -67,6 +67,7 @@
     "back": "← Visi politiķi",
     "trackRecord": "Solījumu izpildes rādītāji",
     "contentLanguage": "Profila valoda: {language}",
+    "photoCredit": "Foto: {author}, {license}, avots: {source}",
     "tabsLabel": "Profila sadaļas",
     "tabs": {
       "promises": "Solījumi",

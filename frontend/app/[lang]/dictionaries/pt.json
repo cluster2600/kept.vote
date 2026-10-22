@@ -67,6 +67,7 @@
     "back": "← Todos os políticos",
     "trackRecord": "Balanço das promessas",
     "contentLanguage": "Perfil redigido em {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Secções do perfil",
     "tabs": {
       "promises": "Promessas",

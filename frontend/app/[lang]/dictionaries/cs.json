@@ -69,6 +69,7 @@
     "back": "← Všichni politici",
     "trackRecord": "Bilance slibů",
     "contentLanguage": "Jazyk profilu: {language}",
+    "photoCredit": "Foto: {author}, {license}, zdroj: {source}",
     "tabsLabel": "Části profilu",
     "tabs": {
       "promises": "Sliby",

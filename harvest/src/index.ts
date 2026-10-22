@@ -49,6 +49,16 @@ const MAX_MARKDOWN = 300_000;
 // PDFs (declarations, gazettes) aren't rendered: they're fetched directly and
 // fingerprinted, up to this size.
 const MAX_PDF_BYTES = 25 * 1024 * 1024;
+// A render that hangs would hold the request (and a cron slot) open.
+const RENDER_TIMEOUT_MS = 60_000;
+
+function withTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
+  let timer: ReturnType<typeof setTimeout> | undefined;
+  const timeout = new Promise<never>((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`timeout after ${ms} ms`)), ms);
+  });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
 
 interface Snapshot {
   url: string;
@@ -167,7 +177,7 @@ async function harvest(env: Env, raw: string, robotsCache: RobotsCache): Promise
   }
 
   try {
-    const res = await env.BROWSER.quickAction("markdown", { url: raw, browser: "kitesurf" });
+    const res = await withTimeout(env.BROWSER.quickAction("markdown", { url: raw, browser: "kitesurf" }), RENDER_TIMEOUT_MS);
     base.browser_ms = Number(res.headers.get("x-browser-ms-used") ?? 0) || 0;
     const body = (await res.json()) as { success?: boolean; result?: unknown; errors?: { message?: string }[] };
     if (!body.success || typeof body.result !== "string") {
@@ -200,10 +210,69 @@ async function pdfSnapshot(base: Snapshot, res: Response): Promise<Snapshot> {
     await res.body?.cancel();
     return { ...base, engine: "direct", status: "reachable", title: name };
   }
-  const bytes = await res.arrayBuffer();
-  const digest = await crypto.subtle.digest("SHA-256", bytes);
-  const hash = [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
+  const hash = await bytesSha256Hex(await res.arrayBuffer());
   return { ...base, engine: "direct", status: "reachable", title: name, content_hash: hash };
+}
+
+// ---- Portraits --------------------------------------------------------------
+// Image files can't be rendered as Markdown, so they're fetched directly (like
+// PDFs), under the same rules: allowlisted domains, robots.txt, public URLs.
+// Redirects are followed by hand so every hop is checked. Nothing is stored.
+const MAX_IMAGE_BYTES = 5 * 1024 * 1024;
+const MAX_REDIRECTS = 3;
+const IMAGE_TYPES = new Set(["image/jpeg", "image/png", "image/webp"]);
+
+async function fetchImage(env: Env, raw: string): Promise<Response> {
+  let target = raw;
+  const robotsCache: RobotsCache = new Map();
+  for (let hop = 0; hop <= MAX_REDIRECTS; hop++) {
+    if (urlProblem(target)) return json({ status: "not-allowed", url: target }, 403);
+    const url = new URL(target);
+    if (!(await domainAllowed(env, url.hostname))) return json({ status: "not-allowed", url: target }, 403);
+    const robots = await robotsFor(env, url, robotsCache);
+    if (!robots.allows) {
+      return json({ status: robots.status === "unreachable" ? "unreachable" : "robots-disallowed", url: target }, 403);
+    }
+    let res: Response;
+    try {
+      res = await fetch(url, {
+        redirect: "manual",
+        headers: { "user-agent": env.USER_AGENT, accept: "image/webp,image/jpeg,image/png" },
+        signal: AbortSignal.timeout(20_000),
+      });
+    } catch {
+      return json({ status: "unreachable", url: target }, 502);
+    }
+    const location = res.headers.get("location");
+    if (res.status >= 300 && res.status < 400 && location) {
+      await res.body?.cancel();
+      target = new URL(location, url).toString();
+      continue;
+    }
+    const type = (res.headers.get("content-type") ?? "").split(";")[0].trim().toLowerCase();
+    if (!res.ok || !IMAGE_TYPES.has(type) || Number(res.headers.get("content-length") ?? 0) > MAX_IMAGE_BYTES) {
+      await res.body?.cancel();
+      const status = !res.ok ? (res.status === 404 || res.status === 410 ? "dead" : "error") : "not-an-image";
+      return json({ status, http_status: res.status, content_type: type, url: target }, 502);
+    }
+    const bytes = await res.arrayBuffer();
+    if (bytes.byteLength > MAX_IMAGE_BYTES) return json({ status: "too-large", url: target }, 502);
+    return new Response(bytes, {
+      headers: {
+        "content-type": type,
+        "x-content-sha256": await bytesSha256Hex(bytes),
+        "x-final-url": target,
+        "cache-control": "no-store",
+        "x-content-type-options": "nosniff",
+      },
+    });
+  }
+  return json({ status: "error", error: "too many redirects", url: target }, 502);
+}
+
+async function bytesSha256Hex(bytes: ArrayBuffer): Promise<string> {
+  const digest = await crypto.subtle.digest("SHA-256", bytes);
+  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
 }
 
 /** Upsert the latest snapshot; a new content hash records the change. */
@@ -328,6 +397,13 @@ export default {
         ]);
       }
       return json({ trust: "untrusted", ...snapshot, markdown });
+    }
+
+    if (request.method === "POST" && pathname === "/image") {
+      const body = (await request.json().catch(() => null)) as { url?: unknown } | null;
+      const url = typeof body?.url === "string" ? body.url.trim() : "";
+      if (!url) return json({ error: "url required" }, 400);
+      return fetchImage(env, url);
     }
 
     if (request.method === "POST" && pathname === "/run") return json(await runBatch(env, "manual"));

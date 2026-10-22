@@ -69,6 +69,7 @@
     "back": "← Všetci politici",
     "trackRecord": "Bilancia sľubov",
     "contentLanguage": "Jazyk profilu: {language}",
+    "photoCredit": "Foto: {author}, {license}, zdroj: {source}",
     "tabsLabel": "Časti profilu",
     "tabs": {
       "promises": "Sľuby",

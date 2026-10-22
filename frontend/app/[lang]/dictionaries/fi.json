@@ -65,6 +65,7 @@
     "back": "← Kaikki poliitikot",
     "trackRecord": "Lupausten toteutuminen",
     "contentLanguage": "Profiilin kieli: {language}",
+    "photoCredit": "Kuva: {author}, {license}, lähde: {source}",
     "tabsLabel": "Profiilin osiot",
     "tabs": {
       "promises": "Lupaukset",

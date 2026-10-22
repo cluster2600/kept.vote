@@ -65,6 +65,7 @@
     "back": "← Всички политици",
     "trackRecord": "Изпълнение на обещанията",
     "contentLanguage": "Профилът е написан на {language}",
+    "photoCredit": "Снимка: {author}, {license}, чрез {source}",
     "tabsLabel": "Раздели на профила",
     "tabs": {
       "promises": "Обещания",
