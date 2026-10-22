@@ -555,8 +555,8 @@
           "access": "2026-10-22: palestinecabinet.gov.ps, dft.gov.ps, pcbs.gov.ps and courts.gov.ps unreachable"
         },
         "pna.ps": {
-          "what": "Ministry of Foreign Affairs and Expatriates (mofa.pna.ps)",
-          "access": "2026-10-22: unreachable"
+          "what": "Palestinian Authority: Prime Minister's Office (pmo.pna.ps), ministries of finance and foreign affairs, official gazette office (lab.pna.ps)",
+          "access": "2026-10-22: pmo.pna.ps, mof.pna.ps and mofa.pna.ps unreachable; lab.pna.ps renders"
         }
       },
       "watch": [
