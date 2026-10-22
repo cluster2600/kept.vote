@@ -110,3 +110,7 @@ and source-attributed network exports. See [three judicial profiles](JUDICIAL_PR
 for the 2023 sentencing controversy and seven verified named party declarations,
 and [national comparative evidence](NATIONAL_COMPARISON.md) for the recovered
 BFS series and the limits on judge comparisons. These remain research drafts.
+
+The additional [judicial interest-register source catalog](judicial_interest_register_sources.json)
+archives 15 official declaration PDFs from partial coverage of four cantons.
+Individual identities and roles have not yet been imported into the map.

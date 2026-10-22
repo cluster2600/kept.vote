@@ -170,3 +170,49 @@ Results:
 Validation: archived hashes, JSON, original/remand dates, panel differences,
 sentence lengths and publication-version qualifications checked. No application
 or graph changes in this pass; no messages or requests sent.
+
+## Research pass 5
+
+**22 October 2026, 23:26:01–23:29:05 UTC**, about three minutes of source
+research and validation, excluding subsequent commit/PR administration and all
+scheduled idle intervals.
+
+Queries included `"Sonja Koch" "Nebenbeschäftigungen"`,
+`"Christoph Hurni" "Stiftungsrat"`, `"Christoph Hurni" "Ursula" "Wirz"`,
+`"Yann-Eric Hofmann" "Mandatsbeiträge"`,
+`site.bger.ch "Interessenbindungen" "Richter"`,
+`site.justice.be.ch "13. Juli 2020" Terror`,
+`site.bstger.ch "13 juillet 2020" libération`,
+`"Nasenweg" "Verfügung" "2022"`,
+`"25. September 2021" "460 18 347"`,
+`"Sonja Koch" "2022" "8000" SVP`,
+`"Christoph Hurni" "2022" "13020"`, and
+`site.bs.ch "Nasenweg" "rechtskräftig"`.
+
+Results:
+- Located and archived four official cantonal interest-register landing pages
+  and **15 PDFs**: AG two declarations, GR eleven regional-court declarations,
+  VS one party-affiliation declaration and ZH one Administrative Court list.
+  Added a source catalog with exact links, retrieval receipts and scopes. The
+  Valais individual interest forms are linked but not downloaded in this pass.
+  No individual person or role edges were imported from these documents yet.
+- Aargau document contents are dated **1 October / 15 October 2026**, despite
+  older filenames. Its part-time PDF has **12 pages**, despite the landing
+  page's 13-page label. Zurich's declaration states **1 January 2026**.
+- Search exposed a BVGer outside-activities list dated in its URL 1 April 2026,
+  but direct download returned **HTTP 404**. Retained this as an unarchived lead,
+  not current verified declaration data. No access restriction was bypassed.
+- Relative links initially failed (GR document-relative URLs; then a relative
+  HTML base). Corrected resolution using the page's base resolved against its
+  source URL; all 15 archived PDFs now have validated public HTTPS URLs.
+- No additional original Morges/Nasenweg/Zurich release order or historical
+  individual contribution was recovered. No new direct confirmation of the
+  provisional Hurni foundation identity was found. Namesake results excluded.
+- Search returned secondary April 2026 reports about Nasenweg appeal withdrawal;
+  no primary finality/order document was recovered, so no finality assertion or
+  reverse identification was imported from those reports.
+
+Validation: all source manifest hashes and JSON files checked; all 15 PDFs opened
+with pypdf and contained extractable text; four source scopes and archive links
+checked; `git diff --check` passed. No application/graph changes; no requests or
+messages sent. Original-order and judge-linked denominator gaps remain.

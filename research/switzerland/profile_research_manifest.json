@@ -211,6 +211,158 @@
       "bytes": 581803,
       "retrieval_completed_at": "2026-10-22T23:14:05.709290+00:00",
       "source_status": "mirror of court-authored judgment"
+    },
+    {
+      "file": "sources/judicial-interest-register-ag-2026-10-22.html",
+      "url": "https://www.ag.ch/de/ueber-uns/gerichte-kanton-aargau/interessenbindungen",
+      "sha256": "5c6be0eb8bfb11f7c49613a39b9ff31a19fc8258615545ee43110412b34c1562",
+      "bytes": 31706,
+      "retrieved_at_utc": "2026-10-22T23:28:02.912575+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/judicial-interest-register-gr-2026-10-22.html",
+      "url": "https://www.justiz-gr.ch/gerichte/regionalgerichte/allgemeines/interessenbindungen/",
+      "sha256": "c5736592c4e0477c6a6a568f47e627cac9aea3bd99432611f0d011a4cda5774a",
+      "bytes": 43421,
+      "retrieved_at_utc": "2026-10-22T23:28:02.934116+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/judicial-interest-register-vs-2026-10-22.html",
+      "url": "https://geo.vs.ch/de/web/tribunaux/liens-d-d-m",
+      "sha256": "c04cb1fd08865d23a2d74b32d658d26d7f309a9b1d1fb3c7b00f1bc5ae39c4f5",
+      "bytes": 113296,
+      "retrieved_at_utc": "2026-10-22T23:28:03.041757+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/judicial-interest-register-zh-2026-10-22.html",
+      "url": "https://www.zh.ch/de/gerichte-notariate/verwaltungsgericht/organisation-des-verwaltungsgerichts.html",
+      "sha256": "bc783852cb702b13a3b74515472a959b0c990502ba17ca83a71c3db06e754eee",
+      "bytes": 107366,
+      "retrieved_at_utc": "2026-10-22T23:28:03.123441+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/interest-register-ag-01-2026-10-22.pdf",
+      "url": "https://www.ag.ch/media/kanton-aargau/jb/dokumente/interessenbindungen/20260801-liste-interessenbindungen-hauptamtliche.pdf",
+      "sha256": "f7301dce1056bbb0490a755e021bfea6c33d07b1820e4549fc574cf492e5b864",
+      "bytes": 222730,
+      "retrieved_at_utc": "2026-10-22T23:28:06.355735+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-ag-02-2026-10-22.pdf",
+      "url": "https://www.ag.ch/media/kanton-aargau/jb/dokumente/interessenbindungen/20260801-liste-interessenbindungen-nebenamtliche.pdf",
+      "sha256": "43b71f2a77a4c50d603018fbfb91653b4ba3b97fe1d5482a957ac8dcaf1508da",
+      "bytes": 321291,
+      "retrieved_at_utc": "2026-10-22T23:28:06.620403+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-01-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Albula_Register_11062026-1.pdf",
+      "sha256": "fbed9beceb4e30dbd485a0eea373f200dd115c4e3d4579f4d2960591ce3d69c1",
+      "bytes": 144387,
+      "retrieved_at_utc": "2026-10-22T23:28:06.297786+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-02-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Bernina_Register_01022025.pdf",
+      "sha256": "896d2f8ccdcd944b2a9668f7920abef808422fe853ad9178944cbae5de306651",
+      "bytes": 291982,
+      "retrieved_at_utc": "2026-10-22T23:28:06.529752+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-03-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_EBVM_Register_01022025.pdf",
+      "sha256": "a3d0a17324ddb0243b8ecb2b130f116dd9e21861fa729f61578daaec1889b63e",
+      "bytes": 477146,
+      "retrieved_at_utc": "2026-10-22T23:28:10.013244+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-04-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Imboden_Register_07072025.pdf",
+      "sha256": "72252ec7e863d92499dd140c5fd2d38606ef0e5133956c4eaf86b0dbf87d57a8",
+      "bytes": 302494,
+      "retrieved_at_utc": "2026-10-22T23:28:09.881212+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-05-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Landquart_Register_01022025.pdf",
+      "sha256": "7a2b936586072c1558a80a5825a37c525fc3243f2926623eb09c43c9e12dac4e",
+      "bytes": 294311,
+      "retrieved_at_utc": "2026-10-22T23:28:10.049389+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-06-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Maloja_Register_11062026.pdf",
+      "sha256": "f3cf0600e7d944a628b4b7574c7d30f05c83fd74eb8ee01aa458ad3f81f4ca72",
+      "bytes": 150010,
+      "retrieved_at_utc": "2026-10-22T23:28:09.872539+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-07-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Moesa_Register_01022025.pdf",
+      "sha256": "df8b035f6aa9a0ef072cd78663ba046c498526cf80429ad96f798d0e8b8c8678",
+      "bytes": 294623,
+      "retrieved_at_utc": "2026-10-22T23:28:13.282890+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-08-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Plessur_Register_01022025.pdf",
+      "sha256": "cb8aaf9911a76dcdb0d60c51fcdc6c7776c49cb5b468f487dc7f099c8e3ed35d",
+      "bytes": 297006,
+      "retrieved_at_utc": "2026-10-22T23:28:13.405050+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-09-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Praettigau_Davos_Register_04042025.pdf",
+      "sha256": "cf681780611ddb4bf2ecef60f924fc7bbd69f532412ee4973130981dceeb7cbc",
+      "bytes": 305758,
+      "retrieved_at_utc": "2026-10-22T23:28:13.487734+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-10-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Surselva_Register_19082026.pdf",
+      "sha256": "d15b66e9e0aae0c8ae2fbf9418aac6e360bc304938a13e61bcce3e1746bc9fe6",
+      "bytes": 138851,
+      "retrieved_at_utc": "2026-10-22T23:28:13.259934+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-11-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Viamala_Register_11062026.pdf",
+      "sha256": "f54464c808eddbc76eb6173e2919c6080219c702994c77839a114a18ead6e15a",
+      "bytes": 146150,
+      "retrieved_at_utc": "2026-10-22T23:28:16.493051+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-vs-01-2026-10-22.pdf",
+      "url": "https://geo.vs.ch/documents/d/tribunaux/20260219_partis-politiques",
+      "sha256": "58245c92ed828c6f629ff7d87fa7d2955e3883c0416485e7b9e5f546d16396d4",
+      "bytes": 210230,
+      "retrieved_at_utc": "2026-10-22T23:28:16.447519+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-zh-01-2026-10-22.pdf",
+      "url": "https://www.zh.ch/content/dam/zhweb/bilder-dokumente/organisation/gerichte/interessenbindungen_verwaltungsgericht.pdf",
+      "sha256": "d8dab6bc8c029cda1d868ec155ca29c8b8f08c9e5d3e540531c561a17c920935",
+      "bytes": 164904,
+      "retrieved_at_utc": "2026-10-22T23:28:17.192000+00:00",
+      "source_status": "official publisher"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

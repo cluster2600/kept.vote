@@ -139,3 +139,24 @@ provisional identity status and a deletion publication in March 2026. It must no
 be presented as a current confirmed seat. Graph edges distinguish
 `published_public_governance_role` from `candidate_public_governance_role`;
 organization-label nodes still do not claim complete legal-entity resolution.
+
+## Wider judicial interest-register sources
+
+`judicial_interest_register_sources.json` now catalogs official registers in four
+cantons and preserves 15 PDF snapshots: two Aargau declarations, eleven
+Graubünden regional-court registers, the Valais party-affiliation declaration and
+the Zurich Administrative Court interests list. The Valais landing page also
+links individual interest forms; these forms have not yet been archived or
+extracted. This is partial source coverage, not a census of all Swiss judges.
+
+Aargau's downloaded documents state **1 October 2026** (full-time) and **15 October
+2026** (part-time), despite older dates in their filenames. The part-time PDF
+actually has 12 pages although its landing-page label says 13. Zurich's document
+states **1 January 2026**. Preserve the downloaded content and receipt rather than
+assuming a URL filename or page label establishes the version.
+
+These are self-declared affiliations, with no new individual role edges imported
+until identity, role and period have been reviewed. They do not provide release,
+recidivism or homicide denominators, or verify party payments. No declaration is
+in itself evidence of improper influence or misconduct. The other cantons remain
+unassessed in this source catalog, not presumed to lack public registers.
