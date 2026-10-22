@@ -465,6 +465,24 @@
         "cortecostituzionale.it": { "what": "Constitutional Court" }
       }
     },
+    "LB": {
+      "name": "Lebanon",
+      "domains": {
+        "gov.lb": {
+          "what": "Public administration: Presidency of the Council of Ministers (pcm.gov.lb: cabinet decisions, circulars; Official Gazette at jo.pcm.gov.lb), Presidency (presidency.gov.lb), Parliament (lp.gov.lb), Constitutional Council (cc.gov.lb), Ministry of Justice, Ministry of Interior (moim.gov.lb; elections.gov.lb), Banque du Liban (bdl.gov.lb), Court of Audit (coa.gov.lb), Central Administration of Statistics (cas.gov.lb), state news agency NNA (nna-leb.gov.lb)",
+          "access": "2026-10-22: www.pcm.gov.lb does not answer (pcm.gov.lb without www renders); Official Gazette texts need a paid subscription; nna-leb.gov.lb and elections.gov.lb build their content with scripts (page shell only); finance.gov.lb answers Cloudflare 521; interior.gov.lb, mfa.gov.lb, lebarmy.gov.lb and nacc.gov.lb do not answer"
+        }
+      },
+      "watch": [
+        { "url": "https://pcm.gov.lb/arabic/listingandcalendarnew.aspx?pageid=28", "what": "Decisions of the Council of Ministers" },
+        { "url": "https://pcm.gov.lb/arabic/listingbydatewithdropdown.aspx?pageid=17", "what": "Prime Minister's memoranda and circulars" },
+        { "url": "https://www.lp.gov.lb/ViewLawYears.aspx", "what": "Laws adopted by parliament" },
+        { "url": "https://www.lp.gov.lb/ViewContentRecords?Id=2295", "what": "Parliament's session calendar" },
+        { "url": "https://www.cc.gov.lb/ar/%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA/%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86/", "what": "Constitutional Council rulings on laws" },
+        { "url": "https://moim.gov.lb/latest-decisions/", "what": "Interior Ministry decisions (elections, municipalities)" },
+        { "url": "https://www.bdl.gov.lb/basiccirculars.php", "what": "Banque du Liban basic circulars" }
+      ]
+    },
     "NL": {
       "name": "Netherlands",
       "domains": {
