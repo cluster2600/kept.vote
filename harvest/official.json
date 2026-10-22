@@ -315,6 +315,42 @@
         { "url": "https://aead.gr/nta/epitropi-deontologias/apofaseis", "what": "National Transparency Authority ethics committee decisions" }
       ]
     },
+    "HR": {
+      "name": "Croatia",
+      "domains": {
+        "gov.hr": { "what": "Government (vlada.gov.hr): members, sessions and decisions; Statistics Office (dzs.gov.hr). Also matched by the gov.xx pattern; listed for its watched pages" },
+        "sabor.hr": { "what": "Croatian Parliament: members, sessions, the government programme, legislative database (edoc.sabor.hr)" },
+        "predsjednik.hr": { "what": "President of the Republic: decisions and news (appointments, promulgation of laws)" },
+        "nn.hr": { "what": "Narodne novine, official gazette (narodne-novine.nn.hr): laws, decrees, Constitutional Court decisions, the State Electoral Commission's final results" },
+        "usud.hr": {
+          "what": "Constitutional Court",
+          "access": "2026-10-22: the case-law database on sljeme.usud.hr is excluded by robots.txt"
+        },
+        "vsrh.hr": { "what": "Supreme Court" },
+        "sudovi.hr": { "what": "Courts portal: county, administrative and high courts" },
+        "dorh.hr": { "what": "State Attorney's Office, including USKOK: press releases on charges and indictments" },
+        "izbori.hr": {
+          "what": "State Electoral Commission: elections and referendums, results, party and campaign finance reports",
+          "access": "2026-10-22: the results archive builds its pages with scripts and result downloads are ZIP files (status error); final results are also in Narodne novine"
+        },
+        "sukobinteresa.hr": {
+          "what": "Commission for the Resolution of Conflicts of Interest: register of officials, asset declarations, decisions",
+          "access": "2026-10-22: officials' individual pages with the asset declarations (/hr/crm-core/contact/...) are excluded by robots.txt"
+        },
+        "revizija.hr": { "what": "State Audit Office" }
+      },
+      "watch": [
+        { "url": "https://vlada.gov.hr/vlada/66", "what": "Members of the Government: reshuffles" },
+        { "url": "https://vlada.gov.hr/sjednice/9", "what": "Government sessions: bills, decrees, appointments" },
+        { "url": "https://narodne-novine.nn.hr/", "what": "Official gazette: issues of the current year" },
+        { "url": "https://edoc.sabor.hr/Statistika/ZakonodavnaAktivnost.aspx", "what": "Sabor legislative activity: laws adopted" },
+        { "url": "https://www.sukobinteresa.hr/hr/odluke", "what": "Conflict-of-interest Commission decisions" },
+        { "url": "https://www.sukobinteresa.hr/hr/registar-duznosnika", "what": "Register of officials required to file asset declarations" },
+        { "url": "https://www.izbori.hr/site/financiranje/redovito-financiranje/financijska-izvjesca-subjekata-nad-kojima-se-provodi-redoviti-nadzor-financiranja/1996", "what": "Annual financial reports of political parties" },
+        { "url": "https://www.izbori.hr/site/izbori-referendumi/izbori-u-tijeku/5464", "what": "Elections in progress" },
+        { "url": "https://dorh.hr/hr/priopcenja", "what": "State Attorney's Office and USKOK press releases" }
+      ]
+    },
     "HU": {
       "name": "Hungary",
       "domains": {
