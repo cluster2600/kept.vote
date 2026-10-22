@@ -43,6 +43,50 @@
         "bundesverfassungsgericht.de": { "what": "Federal Constitutional Court" }
       }
     },
+    "DK": {
+      "name": "Denmark",
+      "domains": {
+        "stm.dk": {
+          "what": "Prime Minister's Office (Statsministeriet): the Prime Minister's CV, speeches, press-conference transcripts, government platforms, legislative programmes",
+          "access": "2026-10-21: www.stm.dk is unreachable; https://stm.dk/ (no www) renders but sometimes answers unreachable, retry"
+        },
+        "regeringen.dk": {
+          "what": "Government portal: ministers, each minister's declaration of financial interests, ministerial pay, government platforms and agreements",
+          "access": "2026-10-21: pages render; the declarations and platform texts are PDFs, fingerprinted only"
+        },
+        "ft.dk": { "what": "Folketing (parliament): members, their register of outside posts and financial interests, bills with procedure and recorded votes, group-support accounts" },
+        "kongehuset.dk": { "what": "Royal House: head of state" },
+        "retsinformation.dk": {
+          "what": "Legal information system: laws, executive orders, Folketing documents",
+          "access": "2026-10-21: pages build their text with scripts; the harvest gets only the title and description"
+        },
+        "lovtidende.dk": {
+          "what": "Lovtidende (official gazette)",
+          "access": "2026-10-21: pages build their text with scripts; the harvest gets only the title and description"
+        },
+        "domstol.dk": {
+          "what": "Courts, including the Supreme Court (domstol.dk/hoejesteret)",
+          "access": "2026-10-21: every page answers with a Cloudflare 'Just a moment...' check (status blocked)"
+        },
+        "hoejesteret.dk": {
+          "what": "Supreme Court (former domain)",
+          "access": "2026-10-21: unreachable"
+        },
+        "dst.dk": { "what": "Statistics Denmark: official results of general elections, European elections and referendums (dst.dk/valg)" },
+        "im.dk": { "what": "Ministry of the Interior election site (valg.im.dk): election administration, party registration" },
+        "rigsrevisionen.dk": { "what": "National Audit Office" },
+        "klimaraadet.dk": { "what": "Council on Climate Change: statutory annual assessment of whether policy meets the Climate Act targets" }
+      },
+      "watch": [
+        { "url": "https://regeringen.dk/ministrene/", "what": "Current ministers: appointments and reshuffles" },
+        { "url": "https://stm.dk/presse/pressemeddelelser/", "what": "Prime Minister's Office press releases" },
+        { "url": "https://stm.dk/statsministeriet/publikationer/", "what": "Government platforms, legislative programmes, international agreements" },
+        { "url": "https://www.ft.dk/da/dokumenter/dokumentlister/lovforslag", "what": "Bills before the Folketing and their status" },
+        { "url": "https://www.ft.dk/da/partier/om-politiske-partier/gruppestoette-og-regnskaber", "what": "Parliamentary group support and annual accounts" },
+        { "url": "https://www.dst.dk/valg/index.htm", "what": "Official election and referendum results" },
+        { "url": "https://www.valg.im.dk/nyhedsarkiv", "what": "Election administration news" }
+      ]
+    },
     "ES": {
       "name": "Spain",
       "domains": {
