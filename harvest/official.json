@@ -531,6 +531,44 @@
         "gov.pl": { "what": "Government and administration, Sejm (sejm.gov.pl)" }
       }
     },
+    "PS": {
+      "name": "Palestinian territories",
+      "domains": {
+        "president.ps": { "what": "President of the State of Palestine: official biography, election programme, lists of presidential decrees and decisions (appointments, judges, pardons)" },
+        "elections.ps": {
+          "what": "Central Elections Commission: election laws, decrees and decisions on elections, nominations, results",
+          "access": "2026-10-22: HTML pages render; results PDFs under /Portals/0/pdf/ are disallowed by robots.txt"
+        },
+        "wafa.ps": { "what": "WAFA, the official Palestinian news agency (state media, attribute as such): presidential decrees, PLO and government decisions" },
+        "plo.ps": { "what": "Palestine Liberation Organization: Executive Committee and Central Council" },
+        "nad.ps": { "what": "PLO Negotiations Affairs Department: agreements with Israel, negotiating positions, maps" },
+        "palestinepnc.org": { "what": "Palestinian National Council (PLO parliament)" },
+        "pal-plc.org": {
+          "what": "Palestinian Legislative Council (not convened since 2007, dissolved by a Constitutional Court ruling in 2018)",
+          "access": "2026-10-22: https://www.pal-plc.org/ unreachable; http://pal-plc.org/plc/ renders"
+        },
+        "pacc.ps": { "what": "Palestinian Anti-Corruption Commission: annual reports; receives officials' financial disclosure declarations (no public register)" },
+        "saacb.ps": { "what": "State Audit and Administrative Control Bureau: audit reports" },
+        "ichr.ps": { "what": "Independent Commission for Human Rights (Palestinian ombudsman): complaints and reports on the PA and Gaza authorities" },
+        "gov.ps": {
+          "what": "Public administration: Council of Ministers (palestinecabinet.gov.ps), official gazette (dft.gov.ps), Central Bureau of Statistics (pcbs.gov.ps), judiciary (courts.gov.ps). Also matched by the gov.xx pattern",
+          "access": "2026-10-22: palestinecabinet.gov.ps, dft.gov.ps, pcbs.gov.ps and courts.gov.ps unreachable"
+        },
+        "pna.ps": {
+          "what": "Ministry of Foreign Affairs and Expatriates (mofa.pna.ps)",
+          "access": "2026-10-22: unreachable"
+        }
+      },
+      "watch": [
+        { "url": "https://www.president.ps/Main/TimeLine/82", "what": "Presidential decrees: government formation and resignation, election calls, states of emergency" },
+        { "url": "https://www.president.ps/Main/TimeLine/93", "what": "Presidential decisions: appointments of governors, judges and heads of oversight bodies, pardons" },
+        { "url": "https://www.elections.ps/tabid/288/language/en-US/Default.aspx", "what": "Central Elections Commission: decrees and decisions on elections" },
+        { "url": "https://www.elections.ps/tabid/1313/language/en-US/Default.aspx", "what": "Central Elections Commission: legislative elections" },
+        { "url": "https://www.elections.ps/tabid/1180/language/en-US/Default.aspx", "what": "Central Elections Commission: nominations and candidate lists" },
+        { "url": "https://www.elections.ps/tabid/1301/language/en-US/Default.aspx", "what": "Central Elections Commission: 2026 local elections and results" },
+        { "url": "https://www.pacc.ps/blog/news/blogpost", "what": "Anti-Corruption Commission: news of referrals and cases" }
+      ]
+    },
     "PT": {
       "name": "Portugal",
       "domains": {
