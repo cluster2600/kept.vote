@@ -1,0 +1,186 @@
+[
+  {
+    "id": "bart-de-wever-el-1994-antwerp",
+    "election": "1994 Antwerp municipal election",
+    "date": "1994-10-09",
+    "role_sought": "Municipal councillor, Antwerp (Volksunie candidate on the CVP–VU cartel list 'Antwerpen 94')",
+    "result": "Not elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First candidacy; he later sat briefly on the Berchem district council (1996–1997).",
+    "source_url": [
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2003-chamber",
+    "election": "2003 Belgian federal election (Chamber of Representatives)",
+    "date": "2003-05-18",
+    "role_sought": "Member of the Chamber, Antwerp constituency (N-VA list leader)",
+    "result": "Not elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "The N-VA won a single Chamber seat nationwide, in West Flanders, which led it to form an electoral cartel with CD&V in February 2004.",
+    "source_url": [
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2004-flemish",
+    "election": "2004 Flemish Parliament election",
+    "date": "2004-06-13",
+    "role_sought": "Member of the Flemish Parliament, Antwerp constituency (4th on the CD&V–N-VA cartel list)",
+    "result": "Elected",
+    "vote_share": "17,665 preference votes; CD&V–N-VA list 271,204 votes (25.09% of valid votes in the constituency), 9 seats",
+    "opponent": "",
+    "detail": "Official results of the FPS Home Affairs (IBZ) election results service.",
+    "source_url": [
+      "https://api.electionresults.belgium.be/election-level/220670",
+      "https://api.electionresults.belgium.be/candidate?ListId=1215787&PageSize=100"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2006-antwerp",
+    "election": "2006 Antwerp municipal election",
+    "date": "2006-10-08",
+    "role_sought": "Municipal councillor, Antwerp (3rd on the CD&V–N-VA list)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Became the only N-VA member of the Antwerp city council from January 2007. He was also elected to the Berchem district council but chose not to sit.",
+    "source_url": [
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2007-chamber",
+    "election": "2007 Belgian federal election (Chamber of Representatives)",
+    "date": "2007-06-10",
+    "role_sought": "Member of the Chamber, Antwerp constituency (2nd on the CD&V–N-VA cartel list)",
+    "result": "Elected",
+    "vote_share": "41,962 preference votes; CD&V–N-VA list 327,558 votes (29.28% of valid votes in the constituency), 8 seats",
+    "opponent": "",
+    "detail": "Official IBZ results. He left the Chamber after returning to the Flemish Parliament in 2009.",
+    "source_url": [
+      "https://api.electionresults.belgium.be/election-level/221244",
+      "https://api.electionresults.belgium.be/candidate?ListId=1221604&PageSize=100"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2009-flemish",
+    "election": "2009 Flemish Parliament election",
+    "date": "2009-06-07",
+    "role_sought": "Member of the Flemish Parliament, Antwerp constituency (N-VA list leader)",
+    "result": "Elected",
+    "vote_share": "123,155 preference votes; N-VA list 180,246 votes (16.37% of valid votes in the constituency), 6 seats",
+    "opponent": "",
+    "detail": "Official IBZ results. N-VA's first election as an independent party after the end of the cartel with CD&V; it won 16 seats in the Flemish Parliament and joined the Peeters II government. On the same day he was elected to the European Parliament from 13th place on the N-VA list but did not take the seat, which went to Frieda Brepoels.",
+    "source_url": [
+      "https://api.electionresults.belgium.be/election-level/221605",
+      "https://api.electionresults.belgium.be/candidate?ListId=1226306&PageSize=100",
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2010-senate",
+    "election": "2010 Belgian federal election (Senate)",
+    "date": "2010-06-13",
+    "role_sought": "Directly elected senator, Dutch-speaking electoral college (N-VA list leader)",
+    "result": "Elected (did not take up the directly elected seat; sat as a community senator)",
+    "vote_share": "785,776 preference votes; N-VA list 1,268,780 votes (31.69% of valid votes in the Dutch-speaking electoral college), 9 seats",
+    "opponent": "",
+    "detail": "Official IBZ results. The N-VA became the largest party in Belgium; De Wever's preference-vote total was the highest in the Dutch-speaking electorate. He was then appointed royal informateur.",
+    "source_url": [
+      "https://api.electionresults.belgium.be/election-level/240980",
+      "https://api.electionresults.belgium.be/candidate?ListId=1355561&PageSize=100"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2012-antwerp",
+    "election": "2012 Antwerp municipal election",
+    "date": "2012-10-14",
+    "role_sought": "Mayor of Antwerp (N-VA list leader)",
+    "result": "Elected; became mayor on 1 January 2013",
+    "vote_share": "N-VA 37.73%, 23 of 55 seats; 77,732 preference votes",
+    "opponent": "Patrick Janssens (outgoing mayor, sp.a–CD&V 'stadslijst': 28.58%, 17 seats; 49,859 preference votes)",
+    "detail": "Formed a coalition of N-VA, CD&V and Open Vld, putting the socialists into opposition in Antwerp for the first time in about 90 years.",
+    "source_url": [
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever",
+      "https://en.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2014-chamber",
+    "election": "2014 Belgian federal election (Chamber of Representatives)",
+    "date": "2014-05-25",
+    "role_sought": "Member of the Chamber, Antwerp constituency (N-VA list leader)",
+    "result": "Elected",
+    "vote_share": "314,650 preference votes; N-VA list 449,531 votes (39.38% of valid votes in the constituency), 11 seats",
+    "opponent": "",
+    "detail": "Official IBZ results. N-VA's best result, with 33 Chamber seats nationwide.",
+    "source_url": [
+      "https://api.electionresults.belgium.be/election-level/222660",
+      "https://api.electionresults.belgium.be/candidate?ListId=1238827&PageSize=100",
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2018-antwerp",
+    "election": "2018 Antwerp municipal election",
+    "date": "2018-10-14",
+    "role_sought": "Mayor of Antwerp (N-VA list leader)",
+    "result": "Re-elected; second term as mayor from January 2019",
+    "vote_share": "N-VA 35.3%, 23 seats; 76,702 preference votes",
+    "opponent": "",
+    "detail": "Formed a coalition of N-VA, Open Vld and sp.a.",
+    "source_url": [
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever",
+      "https://en.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2019-flemish",
+    "election": "2019 Flemish Parliament election",
+    "date": "2019-05-26",
+    "role_sought": "Member of the Flemish Parliament, Antwerp constituency (N-VA list leader; candidate for Minister-President)",
+    "result": "Elected",
+    "vote_share": "242,386 preference votes; N-VA list 361,403 votes (31.82% of valid votes in the constituency), 12 seats",
+    "opponent": "",
+    "detail": "Official IBZ results. The N-VA remained the largest party in Flanders but fell to about 25% as Vlaams Belang advanced; De Wever did not become Minister-President.",
+    "source_url": [
+      "https://api.electionresults.belgium.be/election-level/223021",
+      "https://api.electionresults.belgium.be/candidate?ListId=1243806&PageSize=100",
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2024-chamber",
+    "election": "2024 Belgian federal election (Chamber of Representatives)",
+    "date": "2024-06-09",
+    "role_sought": "Member of the Chamber, Antwerp constituency (N-VA list leader and candidate for Prime Minister)",
+    "result": "Elected; became Prime Minister on 3 February 2025",
+    "vote_share": "255,446 preference votes; N-VA list 368,877 votes (30.97% of valid votes in the constituency), 8 of 24 seats",
+    "opponent": "",
+    "detail": "Official IBZ results. The N-VA stayed the largest party in the Chamber and in Flanders, narrowly ahead of Vlaams Belang (249,826 votes in the Antwerp constituency).",
+    "source_url": [
+      "https://api.electionresults.belgium.be/election-level/250987",
+      "https://api.electionresults.belgium.be/candidate?ListId=1365642&PageSize=100",
+      "https://www.vrt.be/vrtnws/nl/2024/06/09/kieskring-antwerpen-wie-haalde-de-meeste-voorkeurstemmen-en-wie/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-el-2024-antwerp",
+    "election": "2024 Antwerp municipal election",
+    "date": "2024-10-13",
+    "role_sought": "Mayor of Antwerp (N-VA list leader)",
+    "result": "Re-elected; sworn in for a third term on 20 January 2025, exercise of the office handed over on becoming Prime Minister",
+    "vote_share": "N-VA just over 37% (VRT); 59,309 preference votes, the highest in the province of Antwerp",
+    "opponent": "",
+    "detail": "PVDA came second with just over 20% and Vooruit third with almost 13%; Open VLD lost its seats. The N-VA formed a coalition with Vooruit.",
+    "source_url": [
+      "https://www.vrt.be/vrtnws/nl/2024/10/13/uitslag-gemeenteraadsverkiezingen-antwerpen-2024-d-haese-de-weve/",
+      "https://www.vrt.be/vrtnws/nl/2024/10/14/stemmenkampioenen-provincie-antwerpen-2024/",
+      "https://nl.wikipedia.org/wiki/Bart_De_Wever"
+    ]
+  }
+]

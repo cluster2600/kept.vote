@@ -36,6 +36,73 @@
         { "url": "https://www.fiskalrat.at/publikationen.html", "what": "Fiscal Advisory Council reports" }
       ]
     },
+    "BE": {
+      "name": "Belgium",
+      "domains": {
+        "premier.be": {
+          "what": "Prime Minister's website: biography, press releases, government agreement",
+          "access": "2026-10-22: every page answers 403 Access Denied (Akamai), status blocked"
+        },
+        "belgium.be": {
+          "what": "Federal portal: Chancellery of the Prime Minister, Council of Ministers decisions (news.belgium.be), FPS Finance, official election results (electionresults.belgium.be, JSON API at api.electionresults.belgium.be)",
+          "access": "2026-10-22: www.belgium.be and financien.belgium.be show a CAPTCHA form; chancellery. and news.belgium.be answer 403 (blocked); api.electionresults.belgium.be returns readable JSON"
+        },
+        "fgov.be": {
+          "what": "Federal public services: Belgian Official Journal (ejustice.just.fgov.be), elections directorate (verkiezingen.fgov.be), Federal Pensions Service (sfpd.fgov.be)",
+          "access": "2026-10-22: ejustice.just.fgov.be is robots-disallowed; the other subdomains render"
+        },
+        "dekamer.be": {
+          "what": "Chamber of Representatives (Dutch): members, bills and adopted texts, plenary records, Control Commission for election expenditure and party accounts",
+          "access": "2026-10-22: no answer (unreachable)"
+        },
+        "lachambre.be": {
+          "what": "Chamber of Representatives (French), same content as dekamer.be",
+          "access": "2026-10-22: Cloudflare 522 connection timed out (unreachable)"
+        },
+        "senate.be": {
+          "what": "Senate",
+          "access": "2026-10-22: https://senate.be/ (no www) renders; www.senate.be answers Cloudflare error 1016 (unreachable)"
+        },
+        "monarchie.be": {
+          "what": "Royal Palace: the King's agenda (audiences with the Prime Minister, consultations in government crises, ministers' oaths)",
+          "access": "2026-10-22: unreachable in the morning, renders in the afternoon; retry"
+        },
+        "const-court.be": { "what": "Constitutional Court: judgments, press releases, agenda" },
+        "raadvst-consetat.be": { "what": "Council of State: legislative advice on bills, administrative case law" },
+        "juportal.be": {
+          "what": "Case-law database of the courts, including the Court of Cassation",
+          "access": "2026-10-22: robots-disallowed"
+        },
+        "ccrek.be": {
+          "what": "Court of Audit: lists of office-holders' mandates and their pay, lists of non-filers (asset declarations are filed under seal, not published)",
+          "access": "2026-10-22: HTML pages show a CAPTCHA form or return no content (error); PDFs are fingerprinted only"
+        },
+        "rekenhof.be": {
+          "what": "Court of Audit, Dutch address (redirects to ccrek.be)",
+          "access": "2026-10-22: redirects to the ccrek.be CAPTCHA page"
+        },
+        "courdescomptes.be": {
+          "what": "Court of Audit, French address (redirects to ccrek.be)",
+          "access": "2026-10-22: redirects to the ccrek.be CAPTCHA page"
+        },
+        "ibz.be": { "what": "FPS Home Affairs: elections directorate, national register" },
+        "vlaamsparlement.be": { "what": "Flemish Parliament: members, documents, votes" },
+        "vlaanderenkiest.be": {
+          "what": "Flemish Government election results",
+          "access": "2026-10-22: 403 Access Denied, blocked"
+        }
+      },
+      "watch": [
+        { "url": "https://www.monarchie.be/nl/agenda/zoeken", "what": "Royal agenda: audiences with the Prime Minister, consultations in government crises, ministers' oaths" },
+        { "url": "https://nl.const-court.be/judgments?year=2026", "what": "Constitutional Court judgments 2026" },
+        { "url": "https://nl.const-court.be/agenda/decisions", "what": "Constitutional Court: upcoming decisions" },
+        { "url": "https://www.raadvst-consetat.be/?page=news&lang=en", "what": "Council of State news" },
+        { "url": "https://verkiezingen.fgov.be/algemeen/verkiezingsagenda", "what": "Election calendar" },
+        { "url": "https://verkiezingen.fgov.be/algemeen/resultaten", "what": "Official election results page" },
+        { "url": "https://api.electionresults.belgium.be/election/dates", "what": "Elections recorded in the official results database" },
+        { "url": "https://www.sfpd.fgov.be/en/changes/pension-reform", "what": "Federal Pensions Service: implementation of the pension reform" }
+      ]
+    },
     "CH": {
       "name": "Switzerland",
       "domains": {
