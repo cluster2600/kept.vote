@@ -16,7 +16,7 @@ export interface MapEntry {
 
 interface Props {
   covered: Record<string, MapEntry>;
-  /** Localized names of the European countries not covered yet. */
+  /** Localized names of the countries on the map not covered yet. */
   others: Record<string, string>;
   selected: string | null;
   /** Href that clears the selection (the selected country links back to it). */
@@ -30,9 +30,9 @@ interface Tip {
   y: number;
 }
 
-/** Map of Europe, from the Atlantic to the Urals. Countries with politicians
- *  link to the home page filtered to them; the geometry comes pre-projected
- *  from lib/map/europe.ts (scripts/build-europe-map.mjs). */
+/** Map of Europe, from the Atlantic to the Urals, and the Levant. Countries
+ *  with politicians link to the home page filtered to them; the geometry
+ *  comes pre-projected from lib/map/europe.ts (scripts/build-europe-map.mjs). */
 export default function EuropeMap({ covered, others, selected, allHref, labels }: Props) {
   const frame = useRef<HTMLDivElement>(null);
   const [tip, setTip] = useState<Tip | null>(null);
