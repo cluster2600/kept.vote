@@ -426,6 +426,36 @@
         { "url": "https://www.electoralcommission.ie/media-releases/", "what": "Electoral Commission media releases" }
       ]
     },
+    "IL": {
+      "name": "Israel",
+      "domains": {
+        "gov.il": {
+          "what": "Government portal: Prime Minister's Office, ministries, cabinet decisions, Ministry of Justice (Reshumot official gazette, Pardons Department), Central Bureau of Statistics. Also matched by the gov.xx pattern; listed for its watched pages",
+          "access": "2026-10-22: www.gov.il and www.justice.gov.il answer a Cloudflare 'Just a moment' check (blocked); cbs.gov.il answered Cloudflare 520 (unreachable)"
+        },
+        "knesset.gov.il": {
+          "what": "Knesset: members and their declarations of interests, bills and laws, votes, committees, historical election results",
+          "access": "2026-10-22: every page redirects to a 'temporarily inaccessible from your location' page; check by hand"
+        },
+        "bechirot.gov.il": {
+          "what": "Central Elections Committee: official results per Knesset (votes22-votes25.bechirot.gov.il)",
+          "access": "2026-10-22: www.bechirot.gov.il, votes21 and votes26 answer 404; votes22-votes25 render; the committee's current pages are on www.gov.il, which is blocked"
+        },
+        "court.gov.il": {
+          "what": "Judicial Authority: Supreme Court / High Court of Justice rulings and updates (supreme.court.gov.il), district courts",
+          "access": "2026-10-22: supreme.court.gov.il renders; www.court.gov.il returns a title only (status error)"
+        },
+        "mevaker.gov.il": { "what": "State Comptroller and Ombudsman: audit reports, party and campaign financing, gifts and legal-defence funding permits for public officials (ministers' asset declarations are filed here, not published)" },
+        "president.gov.il": { "what": "President: assignment of the mandate to form a government, pardons" }
+      },
+      "watch": [
+        { "url": "https://www.president.gov.il/en/category/news/", "what": "President's announcements: consultations and assignment of the mandate to form a government, decisions on pardon requests" },
+        { "url": "https://supreme.court.gov.il/Pages/RecentUpdates.aspx", "what": "Supreme Court / High Court of Justice: recent updates and rulings" },
+        { "url": "https://www.mevaker.gov.il/en/state-audit/parties-financing", "what": "State Comptroller: party financing and election campaign audits" },
+        { "url": "https://www.mevaker.gov.il/en/newsroom", "what": "State Comptroller: newly published audit reports" },
+        { "url": "https://votes25.bechirot.gov.il/nationalresults", "what": "25th Knesset election (2022): official national results (add votes26 once it goes live after 27 October 2026)" }
+      ]
+    },
     "IT": {
       "name": "Italy",
       "domains": {
