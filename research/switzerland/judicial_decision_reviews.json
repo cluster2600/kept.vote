@@ -77,7 +77,14 @@
       "version_note": "Current court-published text of the original 2021 decision; not a verified immutable copy of its initial November 2021 publication."
     },
     "written_cantonal_context": "Section 10.4.2 explicitly acknowledges that even a brief sexual assault can cause severe trauma; section 10.4.3 expressly denies attributing contributory blame to the victim. The judgment nevertheless used duration and other circumstances in sentencing. This qualifies claims about personal beliefs without erasing criticism of the reasoning.",
-    "separate_release_order_obtained": false
+    "separate_release_order_obtained": false,
+    "post_release_observation": {
+      "as_of_decision_date": "2024-04-03",
+      "section": "3.2",
+      "statement": "The remand court stated that, as far as known, the appellant had not appeared again in criminal proceedings since the July 2021 appeal hearing and subsequent release.",
+      "limit": "Qualified court observation at that date, not a comprehensive criminal-record check, not proof of zero later offending and not a recovered original release order.",
+      "source_url": "https://entscheidsuche.ch/docs/BS_Omni/BS_SVG_001_SB-2021-9_2024-04-03.html"
+    }
   },
   {
     "id": "morges-release-before-2020-homicide",

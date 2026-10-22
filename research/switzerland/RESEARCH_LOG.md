@@ -216,3 +216,40 @@ Validation: all source manifest hashes and JSON files checked; all 15 PDFs opene
 with pypdf and contained extractable text; four source scopes and archive links
 checked; `git diff --check` passed. No application/graph changes; no requests or
 messages sent. Original-order and judge-linked denominator gaps remain.
+
+## Research pass 6
+
+**22 October 2026, 23:41:03–23:42:47 UTC**, about two minutes of active source
+research and validation; commit/PR administration and scheduled waiting excluded.
+
+Queries included `site.ab-ba.admin.ch Morges 2020 2023 rapport`,
+`site.christophhurni.ch "Stiftung"`,
+`site.bvger.ch "Nebenbeschäftigungen" Richterinnen Liste`,
+`site.bstger.ch "SK.2022.35" "2024"`,
+`"460 18 347" "Entlassung"`, `"SB.2021.9" "Haftentlassung"`,
+`"Hofmann" "Yann-Eric" "cotisations"`,
+`"Hurni" "Christoph" "Mandatsabgaben"`,
+`"Koch" "Sonja" "Parteisteuer"`, and `"Morges" "03-13-0018"`.
+
+Results:
+- **Recovered the replacement BVGer outside-activities list.** The current
+  official professions page links a different URL from the indexed April list
+  that returned HTTP 404 in pass 5. Archived that landing page and the current
+  four-page PDF, which explicitly states **16 September 2026**. Added its
+  federal scope to the existing source catalog; no individual role edges were
+  imported. This is not evidence about the three Supreme Court judges' roles.
+- Identified and recorded a material qualification already present in the
+  archived Basel remand judgment, section 3.2: as far as known to the court on
+  **3 April 2024**, the appellant had not appeared again in criminal proceedings
+  since the July 2021 hearing/subsequent release. This does not prove zero later
+  offending or supply the missing original release order. It gives no basis
+  for attaching later homicide to this rape-sentencing case.
+- Precise Morges dossier-reference searching returned the later trial judgment,
+  not the underlying 2020 order. No new original release/enforcement order,
+  individual historical party contribution, or direct Hurni foundation identity
+  confirmation was recovered.
+
+Validation: replacement PDF opened with pypdf, four pages and printed date
+checked; new source receipts/hashes, all existing manifest hashes and all JSON
+checked; remand passage checked against archived text; `git diff --check` passed.
+No application or graph changes, messages, document requests or publication.

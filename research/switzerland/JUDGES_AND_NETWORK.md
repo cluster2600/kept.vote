@@ -160,3 +160,9 @@ until identity, role and period have been reviewed. They do not provide release,
 recidivism or homicide denominators, or verify party payments. No declaration is
 in itself evidence of improper influence or misconduct. The other cantons remain
 unassessed in this source catalog, not presumed to lack public registers.
+
+The previously broken BVGer April-list lead is now superseded by the replacement
+PDF linked from its current official professions page. The recovered four-page
+list states **16 September 2026** and is archived with its landing page and hash.
+It is an additional federal source, separate from the 15 cantonal PDFs. No role
+edges are imported yet; it concerns BVGer, not the three Supreme Court profiles.

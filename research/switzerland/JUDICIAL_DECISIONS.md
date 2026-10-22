@@ -123,3 +123,10 @@ she did not meet the applicable close-relative/partner requirement. This does no
 determine fault in the earlier release or monitoring decisions. Subsequent finality
 remains unverified.
 [Compensation judgment](https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf).
+
+A further qualification in the Basel remand judgment matters: section 3.2
+states that, **as far as known to the court on 3 April 2024**, the appellant had
+not appeared again in criminal proceedings since the July 2021 appeal hearing
+and subsequent release. This is a dated, qualified observation, not an original
+release order or a comprehensive later criminal-record check. It gives no basis
+for attaching a later homicide to this rape-sentencing case.

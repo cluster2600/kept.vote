@@ -379,6 +379,20 @@
   ],
   "unarchived_federal_lead": {
     "url": "https://www.bvger.ch/bvger/documents/nebenbeschaeftigung/nebenbeschaeftigungen_richter-innen_2026-04-01.pdf",
-    "status": "Search index exposes text, but direct download returned HTTP 404 on 2026-10-22; not treated as an archived current declaration."
-  }
+    "status": "Search index exposes text, but direct download returned HTTP 404 on 2026-10-22; not treated as an archived current declaration.",
+    "resolved_by": "federal_registers[0]: replacement linked by current official professions page; old April URL remains HTTP 404."
+  },
+  "federal_registers": [
+    {
+      "court": "Federal Administrative Court / BVGer",
+      "source_url": "https://www.bvger.ch/de/arbeiten-am-gericht/berufe",
+      "document_url": "https://www.bvger.ch/bvger/documents/arbeitgeber/2026-nebenbeschaeftigungen-der-richterinnen-und-richter.pdf",
+      "archive": "sources/bvger-outside-activities-as-of-2026-09-16.pdf",
+      "document_as_of": "2026-09-16",
+      "archived_page_count": 4,
+      "retrieved_at_utc": "2026-10-22T23:42:31.335704+00:00",
+      "extraction_status": "source_catalog_only_no_person_or_role_graph_import",
+      "scope": "Published outside activities and public offices of BVGer judges; not an assertion that unlisted judges have no interests. The three target profiles are Federal Supreme Court judges and this list does not establish their external roles."
+    }
+  ]
 }

@@ -363,6 +363,22 @@
       "bytes": 164904,
       "retrieved_at_utc": "2026-10-22T23:28:17.192000+00:00",
       "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bvger-outside-activities-as-of-2026-09-16.pdf",
+      "url": "https://www.bvger.ch/bvger/documents/arbeitgeber/2026-nebenbeschaeftigungen-der-richterinnen-und-richter.pdf",
+      "sha256": "f4c3ce75f209ddac6d64e2f4e8d9a0e04674d57024d3d2f7bcbb6928fcac2a86",
+      "bytes": 196462,
+      "retrieved_at_utc": "2026-10-22T23:42:31.335704+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bvger-professions-2026-10-22.html",
+      "url": "https://www.bvger.ch/de/arbeiten-am-gericht/berufe",
+      "sha256": "a606c5132fddd85a5f3cb851eb3d9e9cf27b1904b21594baefd5e6ea99bfaaef",
+      "bytes": 189352,
+      "retrieved_at_utc": "2026-10-22T23:42:31.335704+00:00",
+      "source_status": "official publisher"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
