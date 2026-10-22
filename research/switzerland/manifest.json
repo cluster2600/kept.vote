@@ -1,0 +1,147 @@
+{
+  "bodies": {
+    "started_at": "2026-10-22T20:26:40.689905+00:00",
+    "records": 2411,
+    "reported_total": 2411,
+    "complete_endpoint": true,
+    "cap": null,
+    "sha256": "bd03008b646dbcb4ce6e190d983d2cfe7267e69c7f71eabe997f79fca512ce01",
+    "pages": [
+      {
+        "url": "https://api.openparldata.ch/v1/bodies/?limit=5000&offset=0&sort_by=id",
+        "retrieved_at": "2026-10-22T20:26:45.796212+00:00",
+        "response_sha256": "742ecf46c28f4bf64098ad75bda79c64cd7da6a131ec815d84198979b46db0c3",
+        "rows": 2411,
+        "reported_total": 2411
+      }
+    ]
+  },
+  "persons": {
+    "started_at": "2026-10-22T20:26:45.832795+00:00",
+    "records": 26965,
+    "reported_total": 26965,
+    "complete_endpoint": true,
+    "cap": null,
+    "sha256": "8caf15f23b1810f4f60cb7b7ed4337e915acdd7c3d7c62537501e29cbfc906a2",
+    "pages": [
+      {
+        "url": "https://api.openparldata.ch/v1/persons/?limit=5000&offset=0&sort_by=id&fields=id%2Curl_api%2Cbody_key%2Cbody_id%2Cexternal_id%2Cfullname%2Cfirstname%2Clastname%2Cactive%2Cparty%2Cparty_harmonized%2Cwebsite_parliament_url%2Celectoral_district%2Cfunction_latest%2Clinks%2Cupdated_at",
+        "retrieved_at": "2026-10-22T20:26:51.427853+00:00",
+        "response_sha256": "43c8617b8a8505c258f64808ba68d8ac5a974cca437e4c728f34e63e85d00bd2",
+        "rows": 5000,
+        "reported_total": 26965
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/persons/?limit=5000&offset=5000&sort_by=id&fields=id%2Curl_api%2Cbody_key%2Cbody_id%2Cexternal_id%2Cfullname%2Cfirstname%2Clastname%2Cactive%2Cparty%2Cparty_harmonized%2Cwebsite_parliament_url%2Celectoral_district%2Cfunction_latest%2Clinks%2Cupdated_at",
+        "retrieved_at": "2026-10-22T20:26:57.479724+00:00",
+        "response_sha256": "b192eade57b91acf2737fdff1887bd313361519ecd7f5734a8027a325a98bb8c",
+        "rows": 5000,
+        "reported_total": 26965
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/persons/?limit=5000&offset=10000&sort_by=id&fields=id%2Curl_api%2Cbody_key%2Cbody_id%2Cexternal_id%2Cfullname%2Cfirstname%2Clastname%2Cactive%2Cparty%2Cparty_harmonized%2Cwebsite_parliament_url%2Celectoral_district%2Cfunction_latest%2Clinks%2Cupdated_at",
+        "retrieved_at": "2026-10-22T20:27:03.421839+00:00",
+        "response_sha256": "1fa97ddfa7f9623adf1fc91305828a6a92fa90df94e37cbb1e7049febf074163",
+        "rows": 5000,
+        "reported_total": 26965
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/persons/?limit=5000&offset=15000&sort_by=id&fields=id%2Curl_api%2Cbody_key%2Cbody_id%2Cexternal_id%2Cfullname%2Cfirstname%2Clastname%2Cactive%2Cparty%2Cparty_harmonized%2Cwebsite_parliament_url%2Celectoral_district%2Cfunction_latest%2Clinks%2Cupdated_at",
+        "retrieved_at": "2026-10-22T20:27:09.969436+00:00",
+        "response_sha256": "432a6edffbe04ab20496cb8f7ae819e169b29fa631ce377019045c38795ee544",
+        "rows": 5000,
+        "reported_total": 26965
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/persons/?limit=5000&offset=20000&sort_by=id&fields=id%2Curl_api%2Cbody_key%2Cbody_id%2Cexternal_id%2Cfullname%2Cfirstname%2Clastname%2Cactive%2Cparty%2Cparty_harmonized%2Cwebsite_parliament_url%2Celectoral_district%2Cfunction_latest%2Clinks%2Cupdated_at",
+        "retrieved_at": "2026-10-22T20:27:15.990474+00:00",
+        "response_sha256": "412040fe833652e109c1c92ec54b6d9dd628b744ef4d1c27dc929becb8496402",
+        "rows": 5000,
+        "reported_total": 26965
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/persons/?limit=5000&offset=25000&sort_by=id&fields=id%2Curl_api%2Cbody_key%2Cbody_id%2Cexternal_id%2Cfullname%2Cfirstname%2Clastname%2Cactive%2Cparty%2Cparty_harmonized%2Cwebsite_parliament_url%2Celectoral_district%2Cfunction_latest%2Clinks%2Cupdated_at",
+        "retrieved_at": "2026-10-22T20:27:20.671734+00:00",
+        "response_sha256": "5ad8aa063b8161487f40da10a166d565a1f114a9c3ee752e49784b1455152aea",
+        "rows": 1965,
+        "reported_total": 26965
+      }
+    ]
+  },
+  "interests": {
+    "started_at": "2026-10-22T20:27:20.734113+00:00",
+    "records": 30389,
+    "reported_total": 30389,
+    "complete_endpoint": true,
+    "cap": null,
+    "sha256": "478f9233364b8f71df00fcefe5c6990c689fef31d7d2a2371c11ce9adc10e6af",
+    "pages": [
+      {
+        "url": "https://api.openparldata.ch/v1/interests/?limit=5000&offset=0&sort_by=id",
+        "retrieved_at": "2026-10-22T20:27:26.133414+00:00",
+        "response_sha256": "d4914b87c06cf8dd5e28472330525484e3eb6fd4142d7a7143482bc56febd413",
+        "rows": 5000,
+        "reported_total": 30389
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/interests/?limit=5000&offset=5000&sort_by=id",
+        "retrieved_at": "2026-10-22T20:27:31.478427+00:00",
+        "response_sha256": "c94718ad0499b732bc8f042a23268292b7079b612e0ec20bd001e76bdf0f231b",
+        "rows": 5000,
+        "reported_total": 30389
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/interests/?limit=5000&offset=10000&sort_by=id",
+        "retrieved_at": "2026-10-22T20:27:36.835319+00:00",
+        "response_sha256": "5ce27d66be376a3ebbefbdac521da0508dee5474136506aa1366a75e7586bb08",
+        "rows": 5000,
+        "reported_total": 30389
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/interests/?limit=5000&offset=15000&sort_by=id",
+        "retrieved_at": "2026-10-22T20:27:42.191539+00:00",
+        "response_sha256": "dc1244774fe2178f12370e1f48fe2bc0c6f8eae861b8106b47886411fe1ba4d0",
+        "rows": 5000,
+        "reported_total": 30389
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/interests/?limit=5000&offset=20000&sort_by=id",
+        "retrieved_at": "2026-10-22T20:27:47.491193+00:00",
+        "response_sha256": "866002827cf4217f1f77f158c2532a88fe76dbb96604fecaba4c27abb8846913",
+        "rows": 5000,
+        "reported_total": 30389
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/interests/?limit=5000&offset=25000&sort_by=id",
+        "retrieved_at": "2026-10-22T20:27:52.724568+00:00",
+        "response_sha256": "d4b921cb0841756f2ec8b6c4294a87c99c84a1e80f921d4ffa19659827a8fc7d",
+        "rows": 5000,
+        "reported_total": 30389
+      },
+      {
+        "url": "https://api.openparldata.ch/v1/interests/?limit=5000&offset=30000&sort_by=id",
+        "retrieved_at": "2026-10-22T20:27:55.820759+00:00",
+        "response_sha256": "cff0c00aa85786ff28e380aafbe4bf39a84180b15f07fbadcb5943c6380617bc",
+        "rows": 389,
+        "reported_total": 30389
+      }
+    ]
+  },
+  "affairs": {
+    "started_at": "2026-10-22T20:27:55.845255+00:00",
+    "records": 2000,
+    "reported_total": 326534,
+    "complete_endpoint": false,
+    "cap": 2000,
+    "sha256": "511dcd45dd217c98bd1a9cfef86117b05c9f9871f7e39b93e24e5a0c5750f32c",
+    "pages": [
+      {
+        "url": "https://api.openparldata.ch/v1/affairs/?limit=2000&offset=0&sort_by=-updated_at%2Cid",
+        "retrieved_at": "2026-10-22T20:28:00.734943+00:00",
+        "response_sha256": "0e2f33134187942a7b07e4d6c76895ea64f5d505b88d6bccf4e95927fce825b5",
+        "rows": 2000,
+        "reported_total": 326534
+      }
+    ]
+  }
+}

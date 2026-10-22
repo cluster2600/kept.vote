@@ -1,0 +1,190 @@
+[
+  {
+    "id": "pierre-maudet-abu-dhabi",
+    "subjects": [
+      "Pierre Maudet"
+    ],
+    "title": "Abu Dhabi trip: conviction and sentence",
+    "source_status_date": "2023-05-31",
+    "legal_status": "conviction_reported",
+    "summary": "Geneva’s Court of Justice reports a 26 May 2023 conviction for accepting an advantage: 300 suspended daily penalty units of CHF 400, plus a CHF 50,000 compensatory claim. This followed the Federal Supreme Court ruling of 31 October 2022; the earlier acquittal is not the latest decision in this sequence.",
+    "source_urls": [
+      "https://justice.ge.ch/justice/fr/actualites/la-chambre-penale-dappel-et-de-revision-fixe-la-peine-de-pierre-maudet-reconnu-coupable"
+    ],
+    "primary_source": true,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Retrieve AARP/184/2023 and establish finality and any subsequent decisions before publication."
+  },
+  {
+    "id": "guillaume-barazzone-abu-dhabi",
+    "subjects": [
+      "Guillaume Barazzone"
+    ],
+    "title": "Abu Dhabi trip: criminal proceedings discontinued",
+    "source_status_date": "2019-05-24",
+    "legal_status": "discontinued_no_offence_elements",
+    "summary": "Geneva prosecutors discontinued the advantage-acceptance case. Their inquiry found the trip was a private gift from a longstanding friend, unrelated to political duties. It must not be described as a conviction.",
+    "source_urls": [
+      "https://justice.ge.ch/media/2021-03/PJ-MP-communique-barazzone-procedure-classee-20190524.pdf"
+    ],
+    "primary_source": true,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Check subsequent procedural history and preserve the distinction from the separate expenses case."
+  },
+  {
+    "id": "geneva-executive-expenses",
+    "subjects": [
+      "Guillaume Barazzone",
+      "Rémy Pagani",
+      "Esther Alder",
+      "Sami Kanaan",
+      "Sandrine Salerno"
+    ],
+    "title": "Municipal expenses: announced discontinuance and differentiated findings",
+    "source_status_date": "2020-04-28",
+    "legal_status": "discontinuance_announced",
+    "summary": "Geneva prosecutors announced discontinuance. Barazzone reimbursed about CHF 80,000; prosecutors invoked reparation under Article 53. Pagani disputed the allegations and repaid CHF 3,700. Alder repaid CHF 3,890. Prosecutors identified no criminal conduct by Kanaan or Salerno. Reimbursement and discontinuance are not a criminal conviction.",
+    "source_urls": [
+      "https://justice.ge.ch/media/2021-03/PJ-MP-communique.frais_.ca_.vdg-classement-procedure-20200428.pdf"
+    ],
+    "primary_source": true,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Obtain final discontinuance orders. Keep individual procedural roles and findings separate; avoid treating all five as accused."
+  },
+  {
+    "id": "andreas-glarner-deepfake",
+    "subjects": [
+      "Andreas Glarner"
+    ],
+    "title": "Deepfake: parliamentary immunity lifted",
+    "source_status_date": "2025-06-27",
+    "legal_status": "immunity_lifted_prosecution_authorized",
+    "summary": "Both parliamentary committees agreed to lift immunity in matter 25.190, permitting prosecutors to examine suspected identity misuse and possible offences against honour involving a fabricated video of Sibel Arslan. This procedural decision does not establish guilt.",
+    "source_urls": [
+      "https://www.parlament.ch/press-releases/Pages/mm-rk-s-2025-06-27.aspx?lang=1036"
+    ],
+    "primary_source": true,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Ask the public prosecution press office or locate a later public ruling; do not infer that authorization proves a prosecution or conviction."
+  },
+  {
+    "id": "andreas-glarner-social-posts",
+    "subjects": [
+      "Andreas Glarner"
+    ],
+    "title": "Social-media statements: immunity retained",
+    "source_status_date": "2025-06-27",
+    "legal_status": "immunity_retained",
+    "summary": "For separate matter 24.195, both committees refused to lift immunity, preventing prosecution for the statements covered by that request. Immunity is a procedural protection, not a ruling that the statements were lawful.",
+    "source_urls": [
+      "https://www.parlament.ch/press-releases/Pages/mm-rk-s-2025-06-27.aspx?lang=1036"
+    ],
+    "primary_source": true,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Keep matter 24.195 separate from deepfake matter 25.190."
+  },
+  {
+    "id": "christoph-blocher-hildebrand",
+    "subjects": [
+      "Christoph Blocher"
+    ],
+    "title": "Hildebrand affair: prosecution discontinued",
+    "source_status_date": "2015-12-10",
+    "legal_status": "discontinued_reported",
+    "summary": "SRF reports that Zurich prosecutors discontinued the case because criminal acts could not be established. An earlier Federal Supreme Court decision on protected journalist correspondence addressed evidence, not guilt.",
+    "source_urls": [
+      "https://www.srf.ch/news/schweiz/schweiz-affaere-hildebrand-verfahren-gegen-christoph-blocher-eingestellt",
+      "https://www.bger.ch/files/live/sites/bger/files/pdf/de/archive/1B_420_2013_2014_08_07_T_d_14_34_13.pdf"
+    ],
+    "primary_source": false,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Retrieve the original Zurich discontinuance communication/order and verify subsequent history."
+  },
+  {
+    "id": "frederic-hainard-professional-supervision",
+    "subjects": [
+      "Frédéric Hainard"
+    ],
+    "title": "Lawyers’ supervisory authority retained registration after examining convictions",
+    "source_status_date": "2017-03-29",
+    "legal_status": "professional_registration_retained",
+    "summary": "Neuchâtel’s supervisory authority acknowledged earlier criminal convictions, including conduct associated with former public offices, but found no grounds to remove Hainard from the cantonal lawyers’ register. This is a professional-supervision decision and does not erase those convictions.",
+    "source_urls": [
+      "https://www.ne.ch/autorites/PJNE/cp/Documents/ASA_29_03_2017.pdf"
+    ],
+    "primary_source": true,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Retrieve each underlying judgment separately; check appeals and later professional decisions. Do not portray this 2017 decision as current professional status.",
+    "source_access": "Indexed historical excerpt consulted; direct URL redirects to general judiciary page. Primary copy needs recovery."
+  },
+  {
+    "id": "bruno-zuppiger-inheritance",
+    "subjects": [
+      "Bruno Zuppiger"
+    ],
+    "title": "Inheritance case: suspended custodial sentence reported",
+    "source_status_date": null,
+    "legal_status": "conviction_reported_secondary_source",
+    "summary": "Swissinfo/Keystone-SDA reports a 13-month suspended sentence for misappropriation in an inheritance matter. The report concerns a historical former National Council member.",
+    "source_urls": [
+      "https://www.swissinfo.ch/ger/zuppiger-und-mitarbeiter-zu-13-monaten-bedingt-verurteilt/34735538"
+    ],
+    "primary_source": false,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Verify the article date, retrieve the Zurich judgment and establish finality before website use.",
+    "source_access": "Search-index summary consulted; article body/date not recovered by browser."
+  },
+  {
+    "id": "maudet-support-association-2026",
+    "subjects": [
+      "Pierre Maudet"
+    ],
+    "title": "Campaign-support association: investigation reported; Maudet not directly targeted",
+    "source_status_date": "2026-10-13",
+    "legal_status": "third_party_investigation_reported",
+    "summary": "SRF, citing RTS, reports an investigation into campaign-donation records at a fiduciary and a support association. The report explicitly says Maudet is not directly affected by the proceedings. This record cannot be presented as a criminal allegation against him.",
+    "source_urls": [
+      "https://www.srf.ch/news/dialog/regierungsrat-genfer-justiz-untersucht-geldfluesse-in-maudets-wahlkampagne"
+    ],
+    "primary_source": false,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Seek an official statement; distinguish the politician, association and fiduciary and their procedural roles. Presumption of innocence applies."
+  },
+  {
+    "id": "simon-stocker-election-2023",
+    "subjects": [
+      "Simon Stocker"
+    ],
+    "title": "2023 election annulled on residence eligibility grounds",
+    "source_status_date": "2025-03-26",
+    "legal_status": "election_annulled_public_law",
+    "summary": "The Federal Supreme Court annulled the 19 November 2023 Council of States election because the residence eligibility condition was not met on election day. It stated that prior official acts do not become void or challengeable solely because of the invalid election. This is an electoral/public-law decision, not a criminal conviction. A later cantonal statement confirmed eligibility for the June 2025 replacement election.",
+    "source_urls": [
+      "https://www.bger.ch/files/live/sites/bger/files/pdf/de/1c_0467_2024_yyyy_mm_dd_T_d_11_13_40.pdf",
+      "https://sh.ch/CMS/get/file/570cb7b6-1696-48f5-90ac-ed2e2da5c38f"
+    ],
+    "primary_source": true,
+    "checked_on": "2026-10-22",
+    "current_status_verified": false,
+    "publication_status": "draft_requires_review",
+    "follow_up": "Retrieve 1C_467/2024 and official replacement-election result before describing subsequent office tenure."
+  }
+]

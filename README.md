@@ -223,3 +223,10 @@ The API returns standard HTTP status codes with descriptive messages:
 - **Listing/filtering:** the schema's indexes (politician + category, dates)
   support adding paginated list endpoints cheaply.
 ```
+
+## Swiss research corpus
+
+A separate [Swiss public-records corpus](research/switzerland/README.md) collects
+parliamentary people, declared interests and legislative business with provenance,
+plus selected judicial research drafts. It is not imported into the live website;
+coverage limits and the publication workflow are documented alongside the data.
