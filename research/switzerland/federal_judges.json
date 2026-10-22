@@ -1,0 +1,3838 @@
+[
+  {
+    "id": "judge:d82f787e0591287d3272",
+    "name": "François CHAIX",
+    "court": "supreme",
+    "role": "Président du Tribunal fédéral",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-chaixfrancois.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-chaixfrancois.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:ebda008a97a0049ee37d",
+    "name": "Francesco PARRINO",
+    "court": "supreme",
+    "role": "Vice-président du Tribunal fédéral",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-parrinofrancesco.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-parrinofrancesco.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:38166352b9a2a26787af",
+    "name": "Bernard ABRECHT",
+    "court": "supreme",
+    "role": "Président de la deuxième Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/abrecht-bernard.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/abrecht-bernard.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:0d554d60b2db55cfe920",
+    "name": "Florence AUBRY GIRARDIN",
+    "court": "supreme",
+    "role": "Présidente de la deuxième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-aubryflorence.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-aubryflorence.html",
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "nominating_party_published": "Parti écologiste suisse (Les Verts)"
+  },
+  {
+    "id": "judge:7e966143755dc3eb4ab1",
+    "name": "Michael BEUSCH",
+    "court": "supreme",
+    "role": "Juge féderal à la troisième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/beusch-michael.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/beusch-michael.html",
+    "party_published": "SP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:a8469fad51814e847f33",
+    "name": "Susanne BOLLINGER",
+    "court": "supreme",
+    "role": "Juge féderale à la troisième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/bollinger-susanne.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/bollinger-susanne.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:bb42a489473de66c800d",
+    "name": "Grégory BOVEY",
+    "court": "supreme",
+    "role": "Président de la deuxième Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-boveygregory.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-boveygregory.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:9ae14ca45e76f1689fb6",
+    "name": "Arthur BRUNNER",
+    "court": "supreme",
+    "role": "Juge fédéral à la deuxième Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/arthur-brunner.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/arthur-brunner.html",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d215d7c99ddb8eb61c5f",
+    "name": "Federica DE ROSSA",
+    "court": "supreme",
+    "role": "Juge fédérale à la deuxième Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/de-rossa-federica.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/de-rossa-federica.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:de1112dafbe406ec2e08",
+    "name": "Christian DENYS",
+    "court": "supreme",
+    "role": "Juge fédéral à la première Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-denyschristian.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-denyschristian.html",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c15ebe060a39e3a93827",
+    "name": "Yves DONZALLAZ",
+    "court": "supreme",
+    "role": "Juge fédéral à la deuxième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-donzallazyves.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-donzallazyves.html",
+    "party_published": "Sans appartenance à un parti politique",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "nominating_party_published": "UDC"
+  },
+  {
+    "id": "judge:70c17241aa7aef779772",
+    "name": "Marie-Chantal EDDÉ",
+    "court": "supreme",
+    "role": "Juge fédérale à la première Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/edde-marie-chantal.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/edde-marie-chantal.html",
+    "party_published": "Le Centre",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:bdb11dace81da460594a",
+    "name": "David GLASSEY",
+    "court": "supreme",
+    "role": "Juge fédéral à la première Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/david-glassey.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/david-glassey.html",
+    "party_published": "Le Centre",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:6a9548d73f19fd6e6a5b",
+    "name": "Patrick GUIDON",
+    "court": "supreme",
+    "role": "Juge fédéral à la première Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/guidon-patrick.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/guidon-patrick.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:7fdf4538d67e52f3c53a",
+    "name": "Julia HÄNNI",
+    "court": "supreme",
+    "role": "Juge fédérale à la deuxième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hanni-julia-1.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hanni-julia-1.html",
+    "party_published": "Die Mitte",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:6d84557b83e5874064b8",
+    "name": "Stephan HARTMANN",
+    "court": "supreme",
+    "role": "Juge fédéral à la deuxième Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hartmann-stephan.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hartmann-stephan.html",
+    "party_published": "Grüne",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:a703965a8910eb1e40ce",
+    "name": "Alexia HEINE",
+    "court": "supreme",
+    "role": "Juge fédérale à la quatrième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-heine3.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-heine3.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:520388b00e0d5608dc92",
+    "name": "Yann-Eric HOFMANN",
+    "court": "supreme",
+    "role": "Juge fédéral à la deuxième Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html",
+    "party_published": "Centre",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:afc539997723670fe6ae",
+    "name": "Christoph HURNI",
+    "court": "supreme",
+    "role": "Président de la première Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
+    "party_published": "GLP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:9ad8e67d20395ffdedaf",
+    "name": "Christian JOSI",
+    "court": "supreme",
+    "role": "Juge fédéral à la deuxième Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/josi-christian.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/josi-christian.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:f45daa3c3790643b5cc9",
+    "name": "Christina KISS",
+    "court": "supreme",
+    "role": "Juge fédérale à la première Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kisschristina.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kisschristina.html",
+    "party_published": "FDP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:aea191185b9376535ba7",
+    "name": "Lorenz KNEUBÜHLER",
+    "court": "supreme",
+    "role": "Juge fédéral à la première Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kneubuehlerlorenz.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kneubuehlerlorenz.html",
+    "party_published": "SP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b9da2d6b3677e4afed87",
+    "name": "Sonja KOCH",
+    "court": "supreme",
+    "role": "Juge fédérale à la deuxième Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b85454b01a77f7f93ff9",
+    "name": "Christian KÖLZ",
+    "court": "supreme",
+    "role": "Juge fédéral à la deuxième Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kolz-christian.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kolz-christian.html",
+    "party_published": "Grüne",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:f2de7658ba0340882236",
+    "name": "Matthias KRADOLFER",
+    "court": "supreme",
+    "role": "Juge fédéral à la deuxième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kradolfer-matthias.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kradolfer-matthias.html",
+    "party_published": "FDP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:5ceb07534404786a91b5",
+    "name": "Marcel MAILLARD",
+    "court": "supreme",
+    "role": "Juge fédéral à la quatrième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-maillardmarcel.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-maillardmarcel.html",
+    "party_published": "Die Mitte",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d5450d7b5210cd42733e",
+    "name": "Laurent MERZ",
+    "court": "supreme",
+    "role": "Juge fédéral à la première Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/merz-laurent.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/merz-laurent.html",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b6967eb9c4327207005c",
+    "name": "Jean MÉTRAL",
+    "court": "supreme",
+    "role": "Juge fédéral à la quatrième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/metral-jean.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/metral-jean.html",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:975a6be34d375e078f75",
+    "name": "Margit MOSER-SZELESS",
+    "court": "supreme",
+    "role": "Présidente de la troisième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichterin-moserszelessmargit.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichterin-moserszelessmargit.html",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d190c866af415c51dfd7",
+    "name": "Thomas MÜLLER",
+    "court": "supreme",
+    "role": "Président de la première Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/muller-thomas.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/muller-thomas.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:daa8cf1d5c7738db9c3d",
+    "name": "Giuseppe MUSCHIETTI",
+    "court": "supreme",
+    "role": "Président de la première Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-muschiettigiuseppe.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-muschiettigiuseppe.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e7fb1a1c23030581ee36",
+    "name": "Yves RÜEDI",
+    "court": "supreme",
+    "role": "Juge fédéral à la première Cour de droit civil",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-rueediyves.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-rueediyves.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:484b060a9e6e8f86a179",
+    "name": "Marianne RYTER",
+    "court": "supreme",
+    "role": "Juge fédérale à la deuxième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/ryter-marianne.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/ryter-marianne.html",
+    "party_published": "SP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e472ab64445da2ce0462",
+    "name": "Karin SCHERRER REBER",
+    "court": "supreme",
+    "role": "Juge fédérale à la première Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/scherrer-reber-karin.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/scherrer-reber-karin.html",
+    "party_published": "FDP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:9981ec72d4b4c33dd224",
+    "name": "Thomas STADELMANN",
+    "court": "supreme",
+    "role": "Juge fédéral à la troisième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-stadelmannthomas.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-stadelmannthomas.html",
+    "party_published": "Die Mitte",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d4f7eafec95bc5dad1fa",
+    "name": "Daniela THURNHERR KELLER",
+    "court": "supreme",
+    "role": "Juge fédérale à la quatrième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/thurnherr-keller-daniela.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/thurnherr-keller-daniela.html",
+    "party_published": "GLP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:4646392ca8760fe5f05c",
+    "name": "Beatrice VAN DE GRAAF",
+    "court": "supreme",
+    "role": "Juge fédérale à la deuxième Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/van-de-graaf-beatrice.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/van-de-graaf-beatrice.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:bb1d3e755341792dab07",
+    "name": "Daniela VISCIONE",
+    "court": "supreme",
+    "role": "Présidente de la quatrième Cour de droit public",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/viscione-daniela.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/viscione-daniela.html",
+    "party_published": "SVP",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:a89906a6a0bde28ded7c",
+    "name": "Rolf VON FELTEN",
+    "court": "supreme",
+    "role": "Juge fédéral à la première Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/von-felten-rolf.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/von-felten-rolf.html",
+    "party_published": "Die Mitte",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c0ab3a47596c30755f24",
+    "name": "Sandra WOHLHAUSER",
+    "court": "supreme",
+    "role": "Juge fédérale à la première Cour de droit pénal",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/wohlhauser-sandra.html"
+    ],
+    "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/wohlhauser-sandra.html",
+    "party_published": "Parti socialiste",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:4aec58814c87afcb8784",
+    "name": "Richard WEBER",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b559e44d1cfe863ba50f",
+    "name": "Tanja PETRIK-HALTINER",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e32821ad1aeb49d36d51",
+    "name": "Athos MECCA",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:50686ef094467b8d6450",
+    "name": "Christoph BÜRKI",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:1ee4790d8d5e0c8fd125",
+    "name": "Dominique HÄNNI",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:bbf84a137fc210b8b91e",
+    "name": "Markus BERGER",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:3389ee95c7f4d1b91800",
+    "name": "Vincent MARTENET",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e9796493191d8cf625e4",
+    "name": "Fabrizio MONACI",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:de97edd5ab477b80c351",
+    "name": "Sarah BECHAALANY",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b63771a069492aa547ed",
+    "name": "Serge SEGURA",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:6374c731b5d664cd6b80",
+    "name": "Mattia PONTAROLO",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e2150d0c1914eca93f56",
+    "name": "Christine ARNDT",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:cd3b368d5b5da16504e4",
+    "name": "Catherine REITER",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e1031d75f08514957b8f",
+    "name": "Céline COURBAT",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:2be1f1bdd10bd75e1f4c",
+    "name": "Cordula LÖTSCHER",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:9bbe0bfc2618c1e03870",
+    "name": "Leonora MARTI-SCHREIER",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:f8038ebb9b56babfb4a5",
+    "name": "Patrick BISCHOFF",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:7470cc3b735471b06168",
+    "name": "Caroline SCHÄR",
+    "court": "supreme",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c785baa64ec1fb1ea7d3",
+    "name": "Yannick Antoniazza-Hafner",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/yannick-antoniazza-hafner-586"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/yannick-antoniazza-hafner-586",
+    "party_published": "PBD (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:7ce3438889212ffb6597",
+    "name": "Christine Ackermann",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/christine-ackermann-238"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/christine-ackermann-238",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b6f142ca9b2fcdddd933",
+    "name": "Pietro Angeli-Busi",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/pietro-angeli-busi-250"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/pietro-angeli-busi-250",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:88b7ef239f04def4a01c",
+    "name": "Emilia Antonioni Luftensteiner",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/emilia-antonioni-luftensteiner-239"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/emilia-antonioni-luftensteiner-239",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:29db32d431fd882d0170",
+    "name": "David Aschmann",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/david-aschmann-251"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/david-aschmann-251",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:cb9bf58c21accf81ae23",
+    "name": "Jonas Attenhofer",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/jonas-attenhofer-807"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/jonas-attenhofer-807",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:3c9d363b1e2e0444be5d",
+    "name": "Barbara Balmelli-Mühlematter",
+    "court": "administrative",
+    "role": "Juge / Présidente de la Cour V",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/barbara-balmelli-muehlematter-108"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/barbara-balmelli-muehlematter-108",
+    "party_published": "Les Vert’libéraux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c76debb3bbbb7dbd8abc",
+    "name": "Caroline Bissegger",
+    "court": "administrative",
+    "role": "Juge / Présidente de la Cour III",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/caroline-bissegger-60"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/caroline-bissegger-60",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:a97f3f43630bf0e5dd89",
+    "name": "Susanne Bolz-Reimann",
+    "court": "administrative",
+    "role": "Juge / Présidente de la Cour IV",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/susanne-bolz-reimann-451"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/susanne-bolz-reimann-451",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:4af973547342fdc92585",
+    "name": "Manuel Borla",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/manuel-borla-453"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/manuel-borla-453",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:82af01401338edb699c9",
+    "name": "Gérald Bovier",
+    "court": "administrative",
+    "role": "Juge / Président de la Cour IV",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/gerald-bovier-474"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/gerald-bovier-474",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:6855e173f62b5f34485c",
+    "name": "Daniela Brüschweiler",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/daniela-brueschweiler-475"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/daniela-brueschweiler-475",
+    "party_published": "PBD (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:08bf6f3d2f0aec34c4cc",
+    "name": "Michela Bürki Moreni",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/michela-buerki-moreni-363"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/michela-buerki-moreni-363",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:5d7f3328fb105c2524ad",
+    "name": "Jérôme Candrian",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/jerome-candrian-240"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/jerome-candrian-240",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:85c857b7f29e84afc16b",
+    "name": "Daniele Cattaneo",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/daniele-cattaneo-476"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/daniele-cattaneo-476",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:11762b57c8089f3a4487",
+    "name": "Gregor Chatton",
+    "court": "administrative",
+    "role": "Juge / Président de la Cour VI",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/gregor-chatton-109"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/gregor-chatton-109",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:68721349abd40dedf992",
+    "name": "Claudia Cotting-Schalch",
+    "court": "administrative",
+    "role": "Juge / Présidente du TAF",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/claudia-cotting-schalch-588"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/claudia-cotting-schalch-588",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:5eee7a812b837e77e402",
+    "name": "Basil Cupa",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/basil-cupa-589"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/basil-cupa-589",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:5bd04167026c298123a0",
+    "name": "Deborah D'Aveni",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/deborah-d-aveni-542"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/deborah-d-aveni-542",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:91a912cea65aba7c7905",
+    "name": "Regina Derrer",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/regina-derrer-364"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/regina-derrer-364",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:5578df05f85e2955adeb",
+    "name": "Kathrin Dietrich",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/kathrin-dietrich-279"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/kathrin-dietrich-279",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:68a33c55652db9a375e2",
+    "name": "Philipp Egli",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/philipp-egli-1205"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/philipp-egli-1205",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:038c73e129ca94c20ab2",
+    "name": "Selin Elmiger-Necipoglu",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/selin-elmiger-necipoglu-1206"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/selin-elmiger-necipoglu-1206",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c5cdce87d92a389c0c10",
+    "name": "Christoph Errass",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/christoph-errass-287"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/christoph-errass-287",
+    "party_published": "Les Vert’libéraux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:601bf53eb1e2810d94b4",
+    "name": "Yanick Felley",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/yanick-felley-477"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/yanick-felley-477",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:09735e5ad91d4b97a65d",
+    "name": "Gabriela Freihofer",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/gabriela-freihofer-543"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/gabriela-freihofer-543",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:3a579705403ba4c5baaa",
+    "name": "Mia Fuchs",
+    "court": "administrative",
+    "role": "Juge / Présidente de la Cour II",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/mia-fuchs-289"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/mia-fuchs-289",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:a57ada0976e0fd178e9d",
+    "name": "Caroline Gehring",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/caroline-gehring-369"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/caroline-gehring-369",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:936587387b1772efb2df",
+    "name": "Susanne Genner",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/susanne-genner-591"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/susanne-genner-591",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:5a7e962b7b242412c033",
+    "name": "Kaspar Gerber",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/kaspar-gerber-270"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/kaspar-gerber-270",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:73c7ed562e091e200bb0",
+    "name": "Viktoria Helfenstein",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/viktoria-helfenstein-387"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/viktoria-helfenstein-387",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:7113418422f383554fa3",
+    "name": "Madeleine Hirsig-Vouilloz",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/madeleine-hirsig-vouilloz-399"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/madeleine-hirsig-vouilloz-399",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b8e21711b7bb735b1b1b",
+    "name": "Eva Hostettler",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/eva-hostettler-893"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/eva-hostettler-893",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:9a0e0ff21032956b4843",
+    "name": "Ralf Imstepf",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/ralf-imstepf-2751"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/ralf-imstepf-2751",
+    "party_published": "Le Centre",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d8ba3122193cc5c7f7fa",
+    "name": "Sebastian Kempe",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/sebastian-kempe-592"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/sebastian-kempe-592",
+    "party_published": "Les VERT-E-S suisses",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:5292854f6154ecd1c55e",
+    "name": "Walter Lang",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/walter-lang-478"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/walter-lang-478",
+    "party_published": "-",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:f6676b0b2afde144fae3",
+    "name": "Mathias Lanz",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/mathias-lanz-840"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/mathias-lanz-840",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:304b56bade79c06d955b",
+    "name": "Constance Leisinger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/constance-leisinger-559"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/constance-leisinger-559",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:f9676b9a1648f933a394",
+    "name": "Lucien Philippe Magne",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/lucien-philippe-magne-2750"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/lucien-philippe-magne-2750",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:1bcb976e922ac5ba8967",
+    "name": "Vera Maria Marantelli-Sonanini",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/vera-maria-marantelli-sonanini-309"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/vera-maria-marantelli-sonanini-309",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:708348aa40b956eb9e3d",
+    "name": "Giulia Marelli",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/giulia-marelli-457"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/giulia-marelli-457",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:421f89be9a1ac1fd350e",
+    "name": "Camilla Mariethoz Wyssen",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/camilla-mariethoz-wyssen-575"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/camilla-mariethoz-wyssen-575",
+    "party_published": "Sympathisante des VERT-E-S suisses",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:0aa9dda33018315059f7",
+    "name": "Esther Marti",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/esther-marti-576"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/esther-marti-576",
+    "party_published": "Les Vert’libéraux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:1aec075c74c6c3c9285c",
+    "name": "Stephan Metzger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/stephan-metzger-282"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/stephan-metzger-282",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d8c23600183fac57c2c2",
+    "name": "Alexander Misic",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/alexander-misic-242"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/alexander-misic-242",
+    "party_published": "les Vert’libéraux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:84e41da32357a172d44e",
+    "name": "Lukas Müller",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/lukas-mueller-1396"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/lukas-mueller-1396",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:2e3708487ba36870b27a",
+    "name": "Keita Mutombo",
+    "court": "administrative",
+    "role": "Juge / Membre CA",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/keita-mutombo-110"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/keita-mutombo-110",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:afd387c2ad1b974ccf3a",
+    "name": "Lorenz Noli",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/lorenz-noli-577"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/lorenz-noli-577",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d88c53eea52103e9d992",
+    "name": "Claudia Pasqualetto Péquignot",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/claudia-pasqualetto-pequignot-243"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/claudia-pasqualetto-pequignot-243",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:6d8f58d918111281bd4a",
+    "name": "Roswitha Petry",
+    "court": "administrative",
+    "role": "Juge / Membre CA",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/roswitha-petry-112"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/roswitha-petry-112",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:71679654ae22c1de9751",
+    "name": "Chiara Piras",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/chiara-piras-484"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/chiara-piras-484",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:9868eedee59a679b2d66",
+    "name": "Christa Preisig",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/christa-preisig-822"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/christa-preisig-822",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:726f5c6ed71faff331ab",
+    "name": "Pascal Richard",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/pascal-richard-105"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/pascal-richard-105",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b89e26852f5ff77e9365",
+    "name": "Vincent Rittener",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/vincent-rittener-1417"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/vincent-rittener-1417",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:8cce0d76b8512ee25287",
+    "name": "Annie Rochat Pauchard",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/annie-rochat-pauchard-104"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/annie-rochat-pauchard-104",
+    "party_published": "PDC (Le Centre)",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b111e00607a67d3c0835",
+    "name": "Christoph Rohrer",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/christoph-rohrer-408"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/christoph-rohrer-408",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:1386350c99b500d1954b",
+    "name": "Pierre-Emmanuel Ruedin",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/pierre-emmanuel-ruedin-3441"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/pierre-emmanuel-ruedin-3441",
+    "party_published": "Sympathisant des VERT-E-S suisses",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:1287977b0c253e6cd2bf",
+    "name": "Grégory Sauder",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/gregory-sauder-583"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/gregory-sauder-583",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e01d555fb92600863fd2",
+    "name": "Regula Schenker Senn",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/regula-schenker-senn-593"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/regula-schenker-senn-593",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e3f1f206fc283d7c87fc",
+    "name": "Jeannine Scherrer-Bänziger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/jeannine-scherrer-baenziger-486"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/jeannine-scherrer-baenziger-486",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:bbff1e44f795bef598c6",
+    "name": "Eva Schneeberger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/eva-schneeberger-310"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/eva-schneeberger-310",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:4b321bb777beaf5536fa",
+    "name": "Thomas Segessenmann",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/thomas-segessenmann-510"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/thomas-segessenmann-510",
+    "party_published": "Les Vert’libéraux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:faf3a6cc5dfaf9f250a8",
+    "name": "Nina Spälti Giannakitsas",
+    "court": "administrative",
+    "role": "Juge / Membre CA",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/nina-spaelti-giannakitsas-111"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/nina-spaelti-giannakitsas-111",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:0de82f32a27d6073fe3a",
+    "name": "Jürg Steiger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/juerg-steiger-245"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/juerg-steiger-245",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b489164c61f702fb4a2c",
+    "name": "Marc Steiner",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/marc-steiner-311"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/marc-steiner-311",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:4de52422258a1abf67ac",
+    "name": "Contessina Theis",
+    "court": "administrative",
+    "role": "Juge / Vice-présidente du TAF",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/contessina-theis-107"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/contessina-theis-107",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c905700b32f10b30d890",
+    "name": "Julien Theubet",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/julien-theubet-412"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/julien-theubet-412",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:179f7229f1c31eb7a8fc",
+    "name": "Simon Mathias Thurnheer",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/simon-mathias-thurnheer-512"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/simon-mathias-thurnheer-512",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:6c65898b5a5e5cd0a6f9",
+    "name": "Jürg Marcel Tiefenthal",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/juerg-marcel-tiefenthal-246"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/juerg-marcel-tiefenthal-246",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:7cade81f31b2f6184251",
+    "name": "Chrystel Tornare Villanueva",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/chrystel-tornare-villanueva-513"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/chrystel-tornare-villanueva-513",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:45f62958865d70f91a7f",
+    "name": "Aileen Truttmann",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/aileen-truttmann-804"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/aileen-truttmann-804",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:3450766485cb8abbeb78",
+    "name": "Vito Valenti",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/vito-valenti-56"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/vito-valenti-56",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:984f30b04d5e3ebed5f4",
+    "name": "William Waeber",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/william-waeber-584"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/william-waeber-584",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b51d2ae3a7f32ddb0df1",
+    "name": "Beat Weber",
+    "court": "administrative",
+    "role": "Juge / Membre CA",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/beat-weber-106"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/beat-weber-106",
+    "party_published": "PLR.Les Libéraux-Radicaux",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:2b6787dc3b98f243b335",
+    "name": "David Weiss",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/david-weiss-428"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/david-weiss-428",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e93b710bda6f707a861a",
+    "name": "David R. Wenger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/david-r-wenger-585"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/david-r-wenger-585",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c272843337d9953f402c",
+    "name": "Iris Widmer",
+    "court": "administrative",
+    "role": "Juge / Présidente de la Cour I",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/iris-widmer-247"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/iris-widmer-247",
+    "party_published": "Les Verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e199279c56b5620f17cb",
+    "name": "Daniel Willisegger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/daniel-willisegger-331"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/daniel-willisegger-331",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b221b4626be9fc9b94e0",
+    "name": "Christian Winiger",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/christian-winiger-332"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/christian-winiger-332",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:687e9587f64b79ea7173",
+    "name": "Julien ​Theubet",
+    "court": "administrative",
+    "role": "Juge",
+    "source_urls": [
+      "https://www.bvger.ch/fr/api/json/employees/list",
+      "https://www.bvger.ch/fr/le-tribunal/employes/julien-theubet-3551"
+    ],
+    "profile_url": "https://www.bvger.ch/fr/le-tribunal/employes/julien-theubet-3551",
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:175d7ec25e776d3ad6c0",
+    "name": "Albisetti Bernasconi Maurizio",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1250/maurizio-albisetti-bernasconi.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1250/maurizio-albisetti-bernasconi.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d5f45b0f299b0930a7e9",
+    "name": "Bacher Jean-Luc",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/527/jeanluc-bacher.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/527/jeanluc-bacher.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:85cd816be19b10fbd54b",
+    "name": "Bergomi Fiorenza",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/998/fiorenza-bergomi.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/998/fiorenza-bergomi.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:773674cfb1876cbd22b1",
+    "name": "Blum Andrea",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/767/andrea-blum.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/767/andrea-blum.html",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:043cb948b50becaa630b",
+    "name": "Bouverat David",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1000/david-bouverat.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1000/david-bouverat.html",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e020fc51a819c1ada50b",
+    "name": "Contu Albrizio Joséphine",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/532/josephine-contu-albrizio.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/532/josephine-contu-albrizio.html",
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:8a12fe8f912917ec6141",
+    "name": "Demont Maric",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1276/maric-demont.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1276/maric-demont.html",
+    "party_published": "Les verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:43b69acd41e3cc1e57f3",
+    "name": "Ermotti Andrea",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1308/andrea-ermotti.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1308/andrea-ermotti.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:65c15ce536b18d5c673d",
+    "name": "Fabbri Alberto",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1123/alberto-fabbri.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1123/alberto-fabbri.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d6f69657c1caed8e76f9",
+    "name": "Forni Miriam",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/526/miriam-forni.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/526/miriam-forni.html",
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c0855b7912d34fda1bce",
+    "name": "Garré Roy",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/518/roy-garre.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/518/roy-garre.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:b660c8bb74ef89b09c63",
+    "name": "Heimgartner Stefan",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/768/stefan-heimgartner.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/768/stefan-heimgartner.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:6c1688e2ab722e3550a0",
+    "name": "Krummenacher Fiona",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1580/fiona-krummenacher.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1580/fiona-krummenacher.html",
+    "party_published": "PVL",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:8463e69dd2c91ca4a831",
+    "name": "Robert-Nicoud Patrick",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/530/patrick-robertnicoud.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/530/patrick-robertnicoud.html",
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:876576f04b43b07eea0e",
+    "name": "Ros Jean-Paul",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/969/jeanpaul-ros.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/969/jeanpaul-ros.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:f9ac27eaf23c498a6c1f",
+    "name": "Stump Wendt Brigitte",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1257/brigitte-stump-wendt.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1257/brigitte-stump-wendt.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:717dea7f2bb58663a4d1",
+    "name": "Stupf Martin",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/766/martin-stupf.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/766/martin-stupf.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:26faaa551d5fa49c5c75",
+    "name": "Thormann Olivier",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/988/olivier-thormann.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/988/olivier-thormann.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:bc546c21b51a397fc2a1",
+    "name": "Ulrich Felix",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1283/felix-ulrich.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1283/felix-ulrich.html",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:a7efbb9618d923bdf9ee",
+    "name": "Zenger Stephan",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/851/stephan-zenger.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/851/stephan-zenger.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:3bc98f8c7af57dff87af",
+    "name": "Zufferey Nathalie",
+    "court": "criminal",
+    "role": "Ordinary judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/542/nathalie-zufferey.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/542/nathalie-zufferey.html",
+    "party_published": "Les verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:af435088f289917fcb50",
+    "name": "Bino Maria-Antonella",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1089/mariaantonella-bino.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1089/mariaantonella-bino.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d9cde31ca93eccbbf128",
+    "name": "Bütikofer Repond Frédérique",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/964/frederique-butikofer-repond.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/964/frederique-butikofer-repond.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:fcfecb256f55cc5af7a8",
+    "name": "Frischknecht Thomas (Tom)",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/966/thomas-tom-frischknecht.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/966/thomas-tom-frischknecht.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c5fb41f5888679afaca4",
+    "name": "Galliker Monica",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1007/monica-galliker.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1007/monica-galliker.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:fa023db0b6a9d2b77843",
+    "name": "Giovannone-Hofmann Katharina",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1091/katharina-giovannonehofmann.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1091/katharina-giovannonehofmann.html",
+    "party_published": "Les verts",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:06a4cf19674a193be958",
+    "name": "Kolvodouris Janett Beatrice",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/967/beatrice-kolvodouris-janett.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/967/beatrice-kolvodouris-janett.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:7eff1c0b91f3fb3d5250",
+    "name": "Loppacher Barbara",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/968/barbara-loppacher.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/968/barbara-loppacher.html",
+    "party_published": "PS",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:89e882a530597d09bd9a",
+    "name": "Pasi Pierluigi",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1446/pierluigi-pasi.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1446/pierluigi-pasi.html",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:e2a84398bd19087c592f",
+    "name": "Perrin Bertrand",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/769/bertrand-perrin.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/769/bertrand-perrin.html",
+    "party_published": "PLR",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:c7c5b2f8321c275c19b9",
+    "name": "Stucki Marcia",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/970/marcia-stucki.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/970/marcia-stucki.html",
+    "party_published": "UDC",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:cdc9f1148dc13480d3a7",
+    "name": "Urwyler Adrian Peter",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1016/adrian-peter-urwyler.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1016/adrian-peter-urwyler.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:233a9b9b70a8658eae24",
+    "name": "Venetz Petra",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/963/petra-venetz.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/963/petra-venetz.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:d24080fd4fb00b1ae182",
+    "name": "Verniory Jean-Marc",
+    "court": "criminal",
+    "role": "Deputy judge",
+    "source_urls": [
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/971/jeanmarc-verniory.html"
+    ],
+    "profile_url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/971/jeanmarc-verniory.html",
+    "party_published": "Le Centre Suisse",
+    "party_status": "published_on_official_profile",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22"
+  },
+  {
+    "id": "judge:802d4331bc45a7fffb7f",
+    "name": "Mark Schweizer",
+    "court": "patent",
+    "role": "Präsident",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": null
+  },
+  {
+    "id": "judge:03ca98ecad18790396b0",
+    "name": "Tobias Bremi",
+    "court": "patent",
+    "role": "Zweiter hauptamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Isler & Pedrazzini AG"
+  },
+  {
+    "id": "judge:bdb89de8e4d41961199c",
+    "name": "Frank Schnyder",
+    "court": "patent",
+    "role": "Vizepräsident",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Société des Produits Nestlé S.A."
+  },
+  {
+    "id": "judge:f8d7185308c25674e1d1",
+    "name": "Natalia Clerc",
+    "court": "patent",
+    "role": "Nebenamtliche Richterin",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Isler & Pedrazzini AG"
+  },
+  {
+    "id": "judge:f45ab81017ec7b80a2cb",
+    "name": "Roland Dux",
+    "court": "patent",
+    "role": "nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "DSM-Firmenich AG"
+  },
+  {
+    "id": "judge:2339a76b71c02f25de7c",
+    "name": "Susanne Finklenburg",
+    "court": "patent",
+    "role": "Nebenamtliche Richterin",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "mylife DiabetesCare (vorher Ypsomed Diabetes Care AG )"
+  },
+  {
+    "id": "judge:1fc55917404676c02f1a",
+    "name": "Giovanni Gervasio",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "P&TS SA"
+  },
+  {
+    "id": "judge:6fe896b11d3205b5cd4d",
+    "name": "Barbara Herren",
+    "court": "patent",
+    "role": "Nebenamtliche Richterin",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Roche Diagnostics International AG"
+  },
+  {
+    "id": "judge:9549f13a4c3aa354b517",
+    "name": "Michael Kaufmann",
+    "court": "patent",
+    "role": "nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "bis 30.04.2026: BOHEST"
+  },
+  {
+    "id": "judge:854fae434946a0d0c724",
+    "name": "Stephan Kessler",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Keller Schneider Patent- und Markenanwälte AG (Bern)"
+  },
+  {
+    "id": "judge:35d2a8f24341c635d007",
+    "name": "Alfred Koepf",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Rentsch Partner AG"
+  },
+  {
+    "id": "judge:5e8e66f70ad460e71a09",
+    "name": "Christoph Müller",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Hepp Wenger Ryffel AG (ab 01.01.2026 als “Of Counsel”)"
+  },
+  {
+    "id": "judge:9d939a9d4384a6f154b1",
+    "name": "Markus A. Müller-Kägi",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Frei Patentanwaltsbüro"
+  },
+  {
+    "id": "judge:b0104414e7c64e2f7567",
+    "name": "Lorenzo Parrini",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Philip Morris Products SA"
+  },
+  {
+    "id": "judge:c9a7ea4f05106515c4f4",
+    "name": "Lorena Piticco",
+    "court": "patent",
+    "role": "Nebenamtliche Richterin",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Isler & Pedrazzini AG"
+  },
+  {
+    "id": "judge:9be4b64a7497a0f10b4f",
+    "name": "André Roland",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "André Roland SA"
+  },
+  {
+    "id": "judge:9b16cbd0c92d258f24ca",
+    "name": "Susanna Ruder",
+    "court": "patent",
+    "role": "Nebenamtliche Richterin",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Hepp Wenger Ryffel AG"
+  },
+  {
+    "id": "judge:aee9d78a7091d50358b0",
+    "name": "Philipp Rüfenacht",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Keller Schneider Patent- und Markenanwälte AG (Bern)"
+  },
+  {
+    "id": "judge:515ec22b46ef8fdc17d0",
+    "name": "Christophe Saam",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "P&TS SA"
+  },
+  {
+    "id": "judge:44522b2fc242833c581f",
+    "name": "Frank Schager",
+    "court": "patent",
+    "role": "nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Johnson & Johnson"
+  },
+  {
+    "id": "judge:0bd95256337df67cc215",
+    "name": "Andreas Schöllhorn Savary",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Latscha Schöllhorn Partner AG"
+  },
+  {
+    "id": "judge:839a178ca4e8abc4df33",
+    "name": "Martin Sperrle",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Latscha Schöllhorn Partner AG"
+  },
+  {
+    "id": "judge:c1ac6ca2b6e4f63d2e02",
+    "name": "Hannes Spillmann",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Keller Schneider Patent- und Markenanwälte AG (Bern)"
+  },
+  {
+    "id": "judge:6d4ae10fd7556957f3ec",
+    "name": "Michael Störzbach",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Ammann Patentanwälte AG Bern , Teil der IPS Irsch Group"
+  },
+  {
+    "id": "judge:284bf595b64f37fae129",
+    "name": "Kurt Sutter",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "E. Blum & Co. AG"
+  },
+  {
+    "id": "judge:0949d6ef95c1dba1d7f8",
+    "name": "Diego Vergani",
+    "court": "patent",
+    "role": "nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Pharma Patents International AG"
+  },
+  {
+    "id": "judge:238497cec10c482e1c17",
+    "name": "Daniel Vogel",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Rentsch Partner AG"
+  },
+  {
+    "id": "judge:3b74b816b829e72766f4",
+    "name": "Prisca von Ballmoos",
+    "court": "patent",
+    "role": "Nebenamtliche Richterin",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Ares Trading SA, eine Tochtergesellschaft von Merck Serono SA"
+  },
+  {
+    "id": "judge:767881a49c81f81aaf81",
+    "name": "André Werner",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "PATERA-IP AG"
+  },
+  {
+    "id": "judge:d9a447a3d4506d618fda",
+    "name": "Marco Zardi",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "M. Zardi & Co. S.A."
+  },
+  {
+    "id": "judge:8fea7c397cbe3145b210",
+    "name": "Daniel M. Alder",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Kellerhals Carrard"
+  },
+  {
+    "id": "judge:ef8dfaf8444bf2f78aa5",
+    "name": "Lara Dorigo",
+    "court": "patent",
+    "role": "Nebenamtliche Richterin",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Pestalozzi Attorneys at Law"
+  },
+  {
+    "id": "judge:496c74c9c445cb01ddd8",
+    "name": "Philippe Ducor",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Ducor Law, Genève"
+  },
+  {
+    "id": "judge:181abe83f55542971468",
+    "name": "Christoph Gasser",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Valfor Attorneys-at-Law"
+  },
+  {
+    "id": "judge:fc65ba04768f423d3437",
+    "name": "Andri Hess",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Homburger AG"
+  },
+  {
+    "id": "judge:3a5693bb7c5fa97322d9",
+    "name": "Simon Holzer",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "MLL Legal AG"
+  },
+  {
+    "id": "judge:2a7620dcb60396f6c0c8",
+    "name": "Stefan Kohler",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Vischer AG"
+  },
+  {
+    "id": "judge:85aca49f427cedb5213b",
+    "name": "Daniel Kraus",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "P&TS SA Vialex Rechtsanwälte AG"
+  },
+  {
+    "id": "judge:a62567cfe619a7d7e7a5",
+    "name": "Thomas Legler",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Killias & Legler | Dispute Resolution"
+  },
+  {
+    "id": "judge:d4c323f0a09707230cb0",
+    "name": "Rudolf Rentsch",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "IPrime Rentsch Kälin AG IPrime Legal AG"
+  },
+  {
+    "id": "judge:5484434abbe8b7167058",
+    "name": "Ralph Schlosser",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "Kasser Schlosser avocats SA"
+  },
+  {
+    "id": "judge:09db223b3391d298f435",
+    "name": "Christoph Willi",
+    "court": "patent",
+    "role": "Nebenamtlicher Richter",
+    "source_urls": [
+      "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/"
+    ],
+    "profile_url": null,
+    "party_published": null,
+    "party_status": "not_published_or_not_extracted",
+    "annual_payment_chf": null,
+    "payment_year": null,
+    "payment_source_urls": [],
+    "payment_status": "not_verified",
+    "observed_on": "2026-10-22",
+    "published_workplace": "CMS von Erlach Partners AG"
+  }
+]

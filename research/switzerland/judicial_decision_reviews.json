@@ -1,0 +1,120 @@
+[
+  {
+    "id": "rape-sentencing-7b15-2021",
+    "kind": "documented_sentencing_criticism",
+    "decision_references": [
+      "SB.2021.9 (2021-07-30)",
+      "7B_15/2021 and 7B_16/2021 (2023-09-19)",
+      "6B_612/2024 (2024-09-18)"
+    ],
+    "summary": "The 2023 federal judgment contained a passage accepting consideration of the relatively short duration of a rape. In 2024 the Federal Supreme Court expressly called that earlier formulation inappropriate and clarified that short duration must never reduce the offender’s culpability. The 2023 panel separately quashed the cantonal sentence on other sentencing grounds; the entire 2023 judgment was not annulled by the 2024 clarification.",
+    "federal_panel": [
+      {
+        "name": "Sonja Koch",
+        "role": "presiding member",
+        "judge_record_id": "judge:b9da2d6b3677e4afed87"
+      },
+      {
+        "name": "Christoph Hurni",
+        "role": "panel member",
+        "judge_record_id": "judge:afc539997723670fe6ae"
+      },
+      {
+        "name": "Yann-Eric Hofmann",
+        "role": "panel member",
+        "judge_record_id": "judge:520388b00e0d5608dc92"
+      }
+    ],
+    "individual_opinion_attributed": false,
+    "individual_fault_finding": false,
+    "release_followed_by_homicide_established": false,
+    "nationality": null,
+    "nationality_evidence_status": "not_verified_in_consulted_primary_sources",
+    "source_urls": [
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom=",
+      "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/6b_0612_2024_2024_10_15_T_d_11_14_33.pdf"
+    ],
+    "follow_up": "Retrieve the original 2021 cantonal panel and later appeal disposition; do not ascribe a collegial sentence or phrase to an individually identified author.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false
+  },
+  {
+    "id": "morges-release-before-2020-homicide",
+    "kind": "release_followed_by_serious_offence_review",
+    "decision_references": [
+      "AB-BA inspection communication 2023-03-07",
+      "SK.2022.35 judgment 2023-01-10"
+    ],
+    "summary": "The prosecution oversight authority reviewed pre-attack detention and release. It considered release subject to numerous substitute measures defensible, but criticised the federal prosecution’s failure to react to reported breaches and insufficient joined-up risk assessment. The later Federal Criminal Court judgment convicted the attacker of murder. These sources do not identify an individual releasing judge or establish judicial misconduct.",
+    "relevant_authorities": [
+      "Office of the Attorney General of Switzerland / Bundesanwaltschaft",
+      "Vaud cantonal authorities"
+    ],
+    "judge_name": null,
+    "individual_fault_finding": false,
+    "nationality": null,
+    "nationality_evidence_status": "not_verified; do not classify as a foreign-national case",
+    "source_urls": [
+      "https://ab-ba.admin.ch/wp-content/uploads/2023/03/Medienmitteilung-Terrorismusbekampfung-Optimierung-der-Zusammenarbeit-der-Staatsanwaltschaften-von-Bund-und-Kantonen.pdf",
+      "https://www.bstger.ch/de/media/comunicati-stampa/2023/2023-01-10/1309.html"
+    ],
+    "follow_up": "Obtain the original detention/release orders, dates, signatories and later appeal status; distinguish prosecution monitoring from judicial detention decisions.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false
+  },
+  {
+    "id": "basel-nasenweg-2024-leave",
+    "kind": "custodial_leave_followed_by_homicide_review",
+    "decision_references": [
+      "External report on 2024-08-08 homicide; official summary 2025-06-24"
+    ],
+    "summary": "A homicide occurred while a man undergoing an institutional therapeutic measure was outside the institution. The official review described an inadequately recognised risk and a mistaken treatment conception, but found correct UPK/SMV decision processes and no systemic weakness or serious professional misconduct. This concerns custodial leave and sentence administration, not proof that a judge ordered outright release.",
+    "relevant_authorities": [
+      "Universitäre Psychiatrische Kliniken Basel (UPK)",
+      "Straf- und Massnahmenvollzug Basel-Stadt (SMV)"
+    ],
+    "judge_name": null,
+    "individual_fault_finding": false,
+    "nationality": null,
+    "nationality_evidence_status": "not_verified; do not classify as a foreign-national case",
+    "source_urls": [
+      "https://www.bs.ch/medienmitteilungen/jsd/2025-toetungsdelikt-nasenweg-ergebnisse-der-externen-untersuchung-liegen-vor",
+      "https://media.bs.ch/original_file/f5ef0d0fdd2719da28005174ff4914342645db8c/kt-bs-bericht-20240808-v1-0-geschwaerzt.pdf"
+    ],
+    "follow_up": "Read the complete report and underlying leave authorisations, then verify subsequent criminal proceedings. Keep source redactions intact; do not infer the offender’s identity or nationality.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false
+  },
+  {
+    "id": "zurich-2021-homicide-after-sentence",
+    "kind": "homicide_after_serving_unsuspended_sentence",
+    "decision_references": [
+      "Basel-Landschaft Kantonsgericht sentence 2019-05-07",
+      "6B_298/2025 (2025-06-04), facts B.b and section 7.2"
+    ],
+    "summary": "The judgment identifies a Turkish national who served the unsuspended part of an earlier partly suspended sentence through 25 September 2021. After threats reported on 9 October and a police interview/contact ban on 13 October, he killed his wife that evening. The later murder sentence was 20 years with a 15-year expulsion order. This sequence establishes a homicide after custody, but not a finding that a particular judge unlawfully released him.",
+    "relevant_authorities": [
+      "Kantonsgericht Basel-Landschaft (earlier sentence)",
+      "District Court Zurich (protective order)",
+      "Police (threat report and contact ban)"
+    ],
+    "judge_name": null,
+    "individual_fault_finding": false,
+    "nationality": "Turkish",
+    "nationality_evidence_status": "Expressly stated in section 7.2; offender remains anonymized",
+    "source_urls": [
+      "https://search.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F04-06-2025-6B_298-2025&lang=de&type=show_document&zoom=YES"
+    ],
+    "follow_up": "Retrieve the 2019 sentencing panel and original 2021 enforcement/protection records. Do not confuse judges reviewing the later murder conviction with officials responsible for earlier sentencing, sentence execution or threat monitoring.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false
+  }
+]

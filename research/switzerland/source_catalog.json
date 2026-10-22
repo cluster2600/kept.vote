@@ -66,5 +66,33 @@
     "kind": "public_service_media",
     "collected": true,
     "note": "Selected historical report; primary judgment outstanding."
+  },
+  {
+    "id": "federal-judicial-rosters",
+    "url": "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+    "kind": "official",
+    "collected": true,
+    "note": "Four civilian court rosters and profiles; all exact URLs/hashes in judges_manifest.json."
+  },
+  {
+    "id": "sp-solothurn-tariffs",
+    "url": "https://sp-so.ch/wp-content/uploads/2022/10/finanzreglement_sp_so_20180706.pdf",
+    "kind": "party_authored_rule",
+    "collected": true,
+    "note": "Dated cantonal rule, not actual individual payments; current applicability unverified."
+  },
+  {
+    "id": "judicial-accountability-reviews",
+    "url": "https://www.bger.ch/",
+    "kind": "official_decisions_and_oversight",
+    "collected": true,
+    "note": "Four selected case reviews; exact sources in judicial_decision_reviews.json. No comprehensive ranking."
+  },
+  {
+    "id": "bfs-recidivism-methodology",
+    "url": "https://www.swissstats.bfs.admin.ch/data/webviewer/appId/ch.admin.bfs.swissstat/article/issue201919821800-06/package",
+    "kind": "official_statistics",
+    "collected": false,
+    "note": "Methodology lead; no judge-linked nationwide release/reconviction cohort obtained."
   }
 ]

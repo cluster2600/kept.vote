@@ -101,3 +101,9 @@ mandates, criminality labels or numerical guilt/confidence scores.
 3. Acquire official public funding declarations and public-interest mandates, preserving periods, amounts and source-specific reporting coverage.
 4. Review politicians systematically using French, German and Italian searches of official courts/prosecutors and reputable reporting; record search terms, dates, jurisdiction, subject role, and negative/inconclusive results. Do not identify anonymized litigants by inference.
 5. Obtain missing original decisions and later outcomes for the ten initial briefs; add documented responses, corrections and publication review before website use.
+
+## Judges and relationship map
+
+See [judges, contributions and map data](JUDGES_AND_NETWORK.md) for the additional
+official judicial rosters, published party affiliations, historical party tariffs
+and source-attributed network exports. Individual payments remain unverified.
