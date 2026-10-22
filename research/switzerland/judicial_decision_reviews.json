@@ -29,14 +29,15 @@
     "individual_opinion_attributed": false,
     "individual_fault_finding": false,
     "release_followed_by_homicide_established": false,
-    "nationality": null,
-    "nationality_evidence_status": "not_verified_in_consulted_primary_sources",
+    "nationality": "Portuguese",
+    "nationality_evidence_status": "Explicit in original cantonal decision section 11.2; not inferred from names or residence.",
     "source_urls": [
       "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom=",
       "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/6b_0612_2024_2024_10_15_T_d_11_14_33.pdf",
-      "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823"
+      "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823",
+      "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=72292&Template=search_result_document.html"
     ],
-    "follow_up": "Original 30 July 2021 cantonal judgment and later finality still unverified. The 3 April 2024 remand judgment is recovered and increases the sentence to 42 months and expulsion to seven years. Its panel must not automatically be assigned to 2021.",
+    "follow_up": "Current published text of the original 2021 cantonal judgment and its panel are recovered. An immutable first-publication version, any separate release order and subsequent finality of the 2024 remand judgment remain unverified. Do not confuse the 2021 Henz/Renaud/Mez panel with the 2024 Henz/Oser/Renaud panel.",
     "checked_on": "2026-10-23",
     "publication_status": "draft_requires_review",
     "ranking": null,
@@ -55,14 +56,36 @@
       "source_url": "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823",
       "finality_verified": false,
       "interpretation": "Later remand judgment; does not identify the original 2021 panel merely because the case number is shared."
-    }
+    },
+    "original_cantonal_judgment_obtained": true,
+    "original_publication_version_verified": false,
+    "original_cantonal_disposition": {
+      "reference": "SB.2021.9 (AG.2021.589)",
+      "decision_date": "2021-07-30",
+      "first_publication_date": "2021-11-17",
+      "last_update_date_as_published": "2023-11-23",
+      "panel": [
+        "Liselotte Henz (chair)",
+        "Lucienne Renaud",
+        "Carl Gustav Mez"
+      ],
+      "sentence_months": 36,
+      "suspended_months": 18,
+      "probation_years": 3,
+      "expulsion_years": 6,
+      "source_url": "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=72292&Template=search_result_document.html",
+      "version_note": "Current court-published text of the original 2021 decision; not a verified immutable copy of its initial November 2021 publication."
+    },
+    "written_cantonal_context": "Section 10.4.2 explicitly acknowledges that even a brief sexual assault can cause severe trauma; section 10.4.3 expressly denies attributing contributory blame to the victim. The judgment nevertheless used duration and other circumstances in sentencing. This qualifies claims about personal beliefs without erasing criticism of the reasoning.",
+    "separate_release_order_obtained": false
   },
   {
     "id": "morges-release-before-2020-homicide",
     "kind": "release_followed_by_serious_offence_review",
     "decision_references": [
       "AB-BA inspection communication 2023-03-07",
-      "SK.2022.35 judgment 2023-01-10"
+      "SK.2022.35 judgment 2023-01-10",
+      "A-2081/2025, 2025-10-13, state-liability compensation appeal"
     ],
     "summary": "The prosecution oversight authority reviewed pre-attack detention and release. It considered release subject to numerous substitute measures defensible, but criticised the federal prosecution’s failure to react to reported breaches and insufficient joined-up risk assessment. The later Federal Criminal Court judgment convicted the attacker of murder. These sources do not identify an individual releasing judge or establish judicial misconduct.",
     "relevant_authorities": [
@@ -77,7 +100,8 @@
     "source_urls": [
       "https://ab-ba.admin.ch/wp-content/uploads/2023/03/Medienmitteilung-Terrorismusbekampfung-Optimierung-der-Zusammenarbeit-der-Staatsanwaltschaften-von-Bund-und-Kantonen.pdf",
       "https://www.bstger.ch/de/media/comunicati-stampa/2023/2023-01-10/1309.html",
-      "https://entscheidsuche.ch/dok/CH_BSTG/CH_BSTG_001_SK-2022-35_2023-01-10.pdf"
+      "https://entscheidsuche.ch/dok/CH_BSTG/CH_BSTG_001_SK-2022-35_2023-01-10.pdf",
+      "https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf"
     ],
     "follow_up": "Retrieve the separate MPC order of 3 July 2020 (06-10-0151) and Tmc-BE order of 13 July 2020 (03-13-0018 to 0022), including signatories. The full later judgment establishes this chronology but is not either original order.",
     "checked_on": "2026-10-23",
@@ -100,7 +124,16 @@
         "conditions": 16,
         "evidence": "SK.2022.35 section 1.8"
       }
-    ]
+    ],
+    "later_compensation_proceeding": {
+      "reference": "A-2081/2025",
+      "date": "2025-10-13",
+      "court": "Federal Administrative Court",
+      "decision": "Appeal against refusal of CHF 25000 compensation rejected because the claimant did not satisfy the required close-relative/partner status.",
+      "scope": "Not a determination that the prosecutor or releasing judge was culpable, nor a merits exoneration of the release/monitoring decisions.",
+      "source_url": "https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf",
+      "finality_verified": false
+    }
   },
   {
     "id": "basel-nasenweg-2024-leave",

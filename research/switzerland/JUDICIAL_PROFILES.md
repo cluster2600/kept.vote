@@ -28,6 +28,16 @@ a rape offender in sentencing; a prolonged assault may aggravate culpability.
 That was a separate case, not an order annulling the entire 2023 judgment.
 [Court's explanation, published 15 October 2024](https://www.bger.ch/files/live/sites/tfl/files/pdf/de/6b_0612_2024_2024_10_15_T_d_11_14_33.pdf).
 
+The original cantonal decision has now been located in the court's own search
+interface: **SB.2021.9 (AG.2021.589), 30 July 2021**, chaired by Liselotte Henz
+with Lucienne Renaud and Carl Gustav Mez. Its written reasons expressly acknowledge
+that a short assault can cause severe trauma (section 10.4.2) and deny attributing
+contributory blame to the victim (section 10.4.3). Those qualifications should
+accompany criticism of its use of duration in sentencing. The current published
+text was updated on 23 November 2023; the initial 2021 publication version has
+not been separately verified.
+[Original decision, current official publication](https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=72292).
+
 Suggested website wording: **“Koch, Hurni and Hofmann sat on the 2023 panel that
 accepted consideration of a rape's relatively short duration in sentencing. The
 Federal Supreme Court expressly rejected that formulation in 2024.”**

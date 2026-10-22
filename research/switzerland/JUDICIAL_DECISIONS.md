@@ -99,5 +99,27 @@ The rape case's **3 April 2024 remand judgment (AG.2024.290)** imposes
 **42 months of unsuspended imprisonment and seven years of expulsion**. Its panel
 was Henz (chair), Oser and Renaud. It was first published on 15 March 2025. This
 is the later cantonal disposition, not the 2024 federal clarification in a separate
-case. Subsequent finality and the original 2021 panel remain unverified.
+case. Subsequent finality remains unverified. The original 2021 panel is now identified below.
 [Official remand judgment](https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823).
+
+## Original 2021 Basel judgment now located
+
+A search in the court's public interface for **SB / 2021 / 9** returns two
+separate decisions. **AG.2021.589** is the original judgment dated 30 July 2021,
+first published 17 November 2021 and updated 23 November 2023. The archived copy
+is the current court-published text, not a verified first-publication snapshot.
+Its panel was **Liselotte Henz (chair), Lucienne Renaud and Carl Gustav Mez**.
+It imposed **36 months, 18 suspended, and six years' expulsion**. This differs
+from the recovered 2024 panel and its later sentence. The original decision
+explicitly identifies Portuguese nationality (section 11.2); it does not establish
+a later homicide. Its written reasoning acknowledges possible severe trauma
+from brief assaults and disclaims victim contributory blame, while still using
+duration and other circumstances in sentencing. A separate release order is
+not contained in the recovered dispositive text.
+
+The Morges case also has a later compensation judgment, **A-2081/2025, 13 October
+2025**. The Federal Administrative Court rejected the claimant's appeal because
+she did not meet the applicable close-relative/partner requirement. This does not
+determine fault in the earlier release or monitoring decisions. Subsequent finality
+remains unverified.
+[Compensation judgment](https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf).

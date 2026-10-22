@@ -195,6 +195,22 @@
       "sha256": "c4c676d937437e13be226e884cfce4807df65832286114026dba4112de099fae",
       "source_status": "derived observations with primary-source definitions",
       "saved_on": "2026-10-23"
+    },
+    {
+      "file": "sources/SB-2021-9-original-decision-2021-07-30-current-publication.html",
+      "url": "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=72292&Template=search_result_document.html",
+      "sha256": "6f0d9c020f95b961b7f80c35a3d6f6740a8705667ede91c680c59e8aef17d507",
+      "bytes": 425383,
+      "retrieval_completed_at": "2026-10-22T23:12:10.361011+00:00",
+      "source_status": "official court publication; original decision date 2021-07-30, current published text updated 2023-11-23"
+    },
+    {
+      "file": "sources/A-2081-2025-2025-10-13.pdf",
+      "url": "https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf",
+      "sha256": "bee77227b45a2ca8b3c402fbb4a6f4925df2c5fc2825551bd964b3c91a2e5376",
+      "bytes": 581803,
+      "retrieval_completed_at": "2026-10-22T23:14:05.709290+00:00",
+      "source_status": "mirror of court-authored judgment"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

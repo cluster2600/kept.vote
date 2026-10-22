@@ -67,16 +67,11 @@ Untersuchungsbericht anonymisierten Person soll nicht offengelegt werden. Die
 Anfrage betrifft eine Vollzugslockerung, nicht eine bedingte Haftentlassung.
 Bitte erläutern Sie gegebenenfalls bestehende Zugangsbeschränkungen.
 
-## Original Basel appeal judgment of 30 July 2021
+## Resolved: current publication of the original Basel appeal
 
-Institution: Appellationsgericht Basel-Stadt, competent registry.
-
-Betreff: Anonymisierte Urteilsfassung SB.2021.9 vom 30. Juli 2021
-
-Ich bitte um eine Kopie der ursprünglich publizierten anonymisierten Fassung des
-Urteils **SB.2021.9 (AG.2021.589) vom 30. Juli 2021**, einschliesslich
-Gerichtsbesetzung, Dispositiv und Begründung. Gesucht ist dieses ursprüngliche
-Urteil, nicht das Rückweisungsurteil **AG.2024.290 vom 3. April 2024**. Bitte
-teilen Sie auch mit, ob die Fassung ersetzt oder aus der öffentlichen Datenbank
-entfernt wurde und welche Fassung für eine quellengetreue Dokumentation verwendet
-werden sollte. Die Anonymisierung der Parteien soll erhalten bleiben.
+The current court-published text of **SB.2021.9 (AG.2021.589), 30 July 2021**,
+has been recovered from the official search interface, document key **72292**.
+The previous request draft for that text is superseded. Its first-publication
+date is 17 November 2021 and last update 23 November 2023. An immutable copy
+of the initial publication has not been verified; that version-history question
+remains distinct from access to the currently published judgment.

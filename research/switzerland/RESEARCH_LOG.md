@@ -41,8 +41,9 @@ claim two hours of active searching merely because the deadline has elapsed.
    is recovered; it is not the 2021 release order.
 3. Seek the Basel SMV leave authorisation dated 15 December 2022, identified in
    the official Nasenweg review. Administrative leave is not a judicial acquittal.
-4. Recover the original Basel rape appeal **SB.2021.9**, 30 July 2021, and check
-   subsequent proceedings. Do not infer individual votes or authorship.
+4. Current publication of the original Basel rape appeal **SB.2021.9**,
+   30 July 2021, recovered in pass 4. Check initial-publication version history
+   and later finality. Do not infer individual votes or authorship.
 5. Locate a newer prison-release recidivism cohort and nationality/canton breakdowns
    where published; preserve each dataset's exact universe. Seek systematic
    judge-linked decision denominators, without deriving rankings from news counts.
@@ -126,3 +127,46 @@ Results:
 Validation: source hashes, exact table years/total/rates, unique canton codes,
 20 present/six missing counts, historical period differences and all JSON files
 checked. Existing application code and graph were unchanged in this pass.
+
+## Research pass 4
+
+**22 October 2026, 23:11:00–23:16:09 UTC**, about five minutes of pass wall time.
+Scheduled intervals are not counted as active searching.
+
+Queries included `"SB.2021.9" "2021" "589" Urteil pdf`,
+`"Morges" "ordonnance" "juillet 2020" site:bstger.ch`,
+`"Nasenweg" "15.12.2022"`, `"Sonja Koch" "Mandatsbeiträge"`,
+`"Morges" "Staatshaftung" "2025" Urteil` and
+`"Morges" "25'000" "2025" arrêt`.
+
+Results:
+- **Recovered the original 2021 Basel decision's current official publication.**
+  Web search alone had missed it. The court's public search interface, with
+  type **SB**, year **2021**, number **9**, returns two distinct decisions.
+  The 2021 document key is **72292**, the 2024 key **76823**. Archived the
+  current 2021 decision text and recorded its first publication (17 November
+  2021) and last update (23 November 2023). An immutable first-publication
+  version has not been verified.
+- The 2021 panel was **Henz (chair), Renaud and Mez**, whereas the 2024
+  panel was Henz, Oser and Renaud. Recorded the 2021 sentence (36 months,
+  18 suspended; six years' expulsion) separately from the 2024 sentence.
+- The written 2021 reasons explicitly acknowledge that brief assaults can
+  severely traumatise a victim (10.4.2) and deny assigning the victim
+  contributory blame (10.4.3), while still using duration in sentencing.
+  Added this material context to the criticism. Portuguese nationality is
+  explicit in 11.2; no later homicide is established in this case.
+- A separate release order was not recovered in that dispositive text. The
+  document-request draft for the currently published judgment is superseded;
+  four separate original-order requests remain drafted and **unsent**.
+- Recovered **A-2081/2025, 13 October 2025**, the Morges compensation appeal.
+  It rejects compensation on the claimant's qualifying-partner/close-relative
+  status. It is not a culpability finding or merits exoneration of the earlier
+  release/monitoring decisions. Subsequent finality remains unverified.
+- Rejected a false case-chain lead: **1B_107/2021** is cited for a legal
+  proposition in the Basel reasoning, but concerns a different defendant and
+  chronology. A shared anonymised party label or nationality is not identity.
+- No new verified individual payment or separate Morges/Nasenweg order found.
+
+Validation: archived hashes, JSON, original/remand dates, panel differences,
+sentence lengths and publication-version qualifications checked. No application
+or graph changes in this pass; no messages or requests sent.
