@@ -43,6 +43,50 @@
         "bundesverfassungsgericht.de": { "what": "Federal Constitutional Court" }
       }
     },
+    "DK": {
+      "name": "Denmark",
+      "domains": {
+        "stm.dk": {
+          "what": "Prime Minister's Office (Statsministeriet): the Prime Minister's CV, speeches, press-conference transcripts, government platforms, legislative programmes",
+          "access": "2026-10-21: www.stm.dk is unreachable; https://stm.dk/ (no www) renders but sometimes answers unreachable, retry"
+        },
+        "regeringen.dk": {
+          "what": "Government portal: ministers, each minister's declaration of financial interests, ministerial pay, government platforms and agreements",
+          "access": "2026-10-21: pages render; the declarations and platform texts are PDFs, fingerprinted only"
+        },
+        "ft.dk": { "what": "Folketing (parliament): members, their register of outside posts and financial interests, bills with procedure and recorded votes, group-support accounts" },
+        "kongehuset.dk": { "what": "Royal House: head of state" },
+        "retsinformation.dk": {
+          "what": "Legal information system: laws, executive orders, Folketing documents",
+          "access": "2026-10-21: pages build their text with scripts; the harvest gets only the title and description"
+        },
+        "lovtidende.dk": {
+          "what": "Lovtidende (official gazette)",
+          "access": "2026-10-21: pages build their text with scripts; the harvest gets only the title and description"
+        },
+        "domstol.dk": {
+          "what": "Courts, including the Supreme Court (domstol.dk/hoejesteret)",
+          "access": "2026-10-21: every page answers with a Cloudflare 'Just a moment...' check (status blocked)"
+        },
+        "hoejesteret.dk": {
+          "what": "Supreme Court (former domain)",
+          "access": "2026-10-21: unreachable"
+        },
+        "dst.dk": { "what": "Statistics Denmark: official results of general elections, European elections and referendums (dst.dk/valg)" },
+        "im.dk": { "what": "Ministry of the Interior election site (valg.im.dk): election administration, party registration" },
+        "rigsrevisionen.dk": { "what": "National Audit Office" },
+        "klimaraadet.dk": { "what": "Council on Climate Change: statutory annual assessment of whether policy meets the Climate Act targets" }
+      },
+      "watch": [
+        { "url": "https://regeringen.dk/ministrene/", "what": "Current ministers: appointments and reshuffles" },
+        { "url": "https://stm.dk/presse/pressemeddelelser/", "what": "Prime Minister's Office press releases" },
+        { "url": "https://stm.dk/statsministeriet/publikationer/", "what": "Government platforms, legislative programmes, international agreements" },
+        { "url": "https://www.ft.dk/da/dokumenter/dokumentlister/lovforslag", "what": "Bills before the Folketing and their status" },
+        { "url": "https://www.ft.dk/da/partier/om-politiske-partier/gruppestoette-og-regnskaber", "what": "Parliamentary group support and annual accounts" },
+        { "url": "https://www.dst.dk/valg/index.htm", "what": "Official election and referendum results" },
+        { "url": "https://www.valg.im.dk/nyhedsarkiv", "what": "Election administration news" }
+      ]
+    },
     "ES": {
       "name": "Spain",
       "domains": {
@@ -52,6 +96,64 @@
         "boe.es": { "what": "Official State Gazette" },
         "poderjudicial.es": { "what": "Judiciary" }
       }
+    },
+    "FI": {
+      "name": "Finland",
+      "domains": {
+        "valtioneuvosto.fi": {
+          "what": "Government: Prime Minister's Office, ministries, ministers and their declarations of interests, government programme, press releases, publications",
+          "access": "2026-10-21: pages take about two minutes and return no usable content (status error); julkaisut.valtioneuvosto.fi unreachable"
+        },
+        "eduskunta.fi": {
+          "what": "Parliament: members, bills, votes, committee reports, MPs' declarations of interests, outside income and gifts (open data at avoindata.eduskunta.fi)",
+          "access": "2026-10-21: HTML pages are built by scripts and return no usable content (status error); document PDFs are fingerprinted only; the open-data API renders each MP's register entry"
+        },
+        "presidentti.fi": { "what": "President of the Republic" },
+        "finlex.fi": { "what": "Finlex: Statute Book, consolidated legislation, government bills, Supreme Court and Supreme Administrative Court case law" },
+        "vaalit.fi": {
+          "what": "Ministry of Justice election service; official results at tulospalvelu.vaalit.fi",
+          "access": "2026-10-21: the vaalit.fi front page timed out; static result pages per election on tulospalvelu.vaalit.fi render (none for 2011 and earlier)"
+        },
+        "vaalirahoitusvalvonta.fi": {
+          "what": "National Audit Office's supervision of election and party funding: candidates' and parties' funding declarations",
+          "access": "2026-10-21: renders, but declarations are searched through forms with no stable per-candidate URL"
+        },
+        "vtv.fi": { "what": "National Audit Office, including the lobbying transparency register" },
+        "korkeinoikeus.fi": {
+          "what": "Supreme Court (rulings also on Finlex)",
+          "access": "2026-10-21: redirected to an outage notice (judicial-administration sites offline for the day)"
+        },
+        "kho.fi": {
+          "what": "Supreme Administrative Court (rulings also on Finlex)",
+          "access": "2026-10-21: redirected to an outage notice (judicial-administration sites offline for the day)"
+        },
+        "oikeuskansleri.fi": {
+          "what": "Chancellor of Justice: legality oversight of the Government and ministers",
+          "access": "2026-10-21: 503 (unreachable)"
+        },
+        "oikeusasiamies.fi": {
+          "what": "Parliamentary Ombudsman",
+          "access": "2026-10-21: 503 (unreachable)"
+        },
+        "stat.fi": {
+          "what": "Statistics Finland: official election statistics",
+          "access": "2026-10-21: unreachable (no answer)"
+        },
+        "tilastokeskus.fi": {
+          "what": "Statistics Finland (Finnish-language domain)",
+          "access": "2026-10-21: unreachable (no answer)"
+        }
+      },
+      "watch": [
+        { "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma", "what": "Statute Book: acts and decrees published" },
+        { "url": "https://www.finlex.fi/fi/hallituksen-esitykset", "what": "Government bills to Parliament" },
+        { "url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus", "what": "Supreme Court precedents" },
+        { "url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-hallinto-oikeus", "what": "Supreme Administrative Court precedents" },
+        { "url": "https://tulospalvelu.vaalit.fi/EKV-2023/fi/tulos_kokomaa.html", "what": "Parliamentary election 2023: official results" },
+        { "url": "https://tulospalvelu.vaalit.fi/KV-2025/fi/tulos_kokomaa.html", "what": "Municipal elections 2025: official results" },
+        { "url": "https://www.vaalirahoitusvalvonta.fi/fi/index/ajankohtaista.html", "what": "Election and party funding supervision: announcements" },
+        { "url": "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947", "what": "Prime Minister's register entry: declarations of interests, outside income and gifts" }
+      ]
     },
     "FR": {
       "name": "France",
@@ -64,6 +166,70 @@
         "hatvp.fr": { "what": "High Authority for Transparency in Public Life (asset and interest declarations)" },
         "vie-publique.fr": { "what": "Official public-policy information service" }
       }
+    },
+    "GR": {
+      "name": "Greece",
+      "domains": {
+        "primeminister.gr": {
+          "what": "Prime Minister's office: biography, statements, cabinet decisions",
+          "access": "2026-10-21: every page answers 403 Access Denied (Akamai); status blocked"
+        },
+        "hellenicparliament.gr": {
+          "what": "Hellenic Parliament: members, votes, laws, MPs' asset declarations (pothen esches) and the committee auditing party and MP finances",
+          "access": "2026-10-21: every page and the declaration PDFs answer 403 Access Denied (Akamai); status blocked"
+        },
+        "presidency.gr": {
+          "what": "President of the Republic: appointments, decrees, laws promulgated",
+          "access": "2026-10-21: 403 Access Denied; status blocked"
+        },
+        "et.gr": {
+          "what": "National Printing House: Government Gazette (ΦΕΚ), search.et.gr",
+          "access": "2026-10-21: renders, but the search.et.gr lists (daily publications, legislation search) are built by scripts and come back empty"
+        },
+        "adjustice.gr": {
+          "what": "Administrative justice portal, including the Council of State",
+          "access": "2026-10-21: unreachable"
+        },
+        "ste.gr": {
+          "what": "Council of State (former domain)",
+          "access": "2026-10-21: unreachable"
+        },
+        "areiospagos.gr": {
+          "what": "Supreme Civil and Criminal Court (Areios Pagos): decisions",
+          "access": "2026-10-21: the home page returns a title only (status error); the decision search form renders"
+        },
+        "elsyn.gr": {
+          "what": "Court of Audit",
+          "access": "2026-10-21: unreachable"
+        },
+        "ypes.gr": {
+          "what": "Ministry of the Interior: elections and official results (ekloges.ypes.gr)",
+          "access": "2026-10-21: www and ekloges answer 403 Access Denied; status blocked"
+        },
+        "mfa.gr": {
+          "what": "Ministry of Foreign Affairs",
+          "access": "2026-10-21: 403 Access Denied; status blocked"
+        },
+        "statistics.gr": {
+          "what": "Hellenic Statistical Authority (ELSTAT)",
+          "access": "2026-10-21: unreachable or error"
+        },
+        "amlauthority.gr": {
+          "what": "Anti-Money Laundering Authority: audits the asset declarations of officials who do not file with Parliament",
+          "access": "2026-10-21: unreachable"
+        },
+        "aead.gr": { "what": "National Transparency Authority: audits, ethics committee decisions" },
+        "dpa.gr": {
+          "what": "Hellenic Data Protection Authority: decisions and fines, including on political communication",
+          "access": "2026-10-21: list pages answered Cloudflare 520 (origin down), status unreachable"
+        },
+        "harsia.gr": { "what": "Air and Rail Accident Investigation Authority: Tempi and other rail reports" }
+      },
+      "watch": [
+        { "url": "https://www.harsia.gr/index.php/category/porismata-ektheseis-sidiromikoy-tomea/", "what": "Rail accident investigation reports (Tempi report and annexes)" },
+        { "url": "https://aead.gr/press/press-releases", "what": "National Transparency Authority press releases" },
+        { "url": "https://aead.gr/nta/epitropi-deontologias/apofaseis", "what": "National Transparency Authority ethics committee decisions" }
+      ]
     },
     "HU": {
       "name": "Hungary",
@@ -82,6 +248,41 @@
         "cortecostituzionale.it": { "what": "Constitutional Court" }
       }
     },
+    "NL": {
+      "name": "Netherlands",
+      "domains": {
+        "rijksoverheid.nl": { "what": "Government: ministries, cabinet members, Council of Ministers press conferences, Budget Memorandum and Tax Plan, political-party donations and debts (Interior Ministry)" },
+        "tweedekamer.nl": { "what": "House of Representatives: bills, votes, members, and the registers of MPs' outside activities, gifts and sponsored travel" },
+        "eerstekamer.nl": { "what": "Senate: bills, votes, debates" },
+        "officielebekendmakingen.nl": { "what": "Official gazettes and parliamentary papers: Staatsblad (laws), Staatscourant (including royal decorations), Kamerstukken" },
+        "kiesraad.nl": {
+          "what": "Electoral Council: official result reports, appointment of MPs, party registrations",
+          "access": "2026-10-21: some pages built with scripts (e.g. /verkiezingen/tweede-kamer/uitslagen) render only an error message; news and report pages render"
+        },
+        "verkiezingsuitslagen.nl": { "what": "Electoral Council results database: official results by party and municipality since 1918" },
+        "rechtspraak.nl": { "what": "Judiciary, including the Supreme Court (Hoge Raad): press releases and published rulings" },
+        "raadvanstate.nl": { "what": "Council of State: advisory opinions on bills, highest administrative court" },
+        "om.nl": { "what": "Public Prosecution Service (Openbaar Ministerie)" },
+        "koninklijkhuis.nl": { "what": "Royal House: head of state" },
+        "rekenkamer.nl": { "what": "Court of Audit (Algemene Rekenkamer)" },
+        "overheid.nl": {
+          "what": "Central government portal: consolidated legislation (wetten.overheid.nl), open data including candidate-level election results (data.overheid.nl)",
+          "access": "2026-10-21: wetten.overheid.nl unreachable (no answer for robots.txt); data.overheid.nl renders"
+        },
+        "kabinetsformatie2025.nl": { "what": "Cabinet formation 2025–2026: coalition agreement and the reports of the verkenner, informateurs and formateur" }
+      },
+      "watch": [
+        { "url": "https://www.rijksoverheid.nl/regering/bewindspersonen", "what": "Ministers and state secretaries: appointments and resignations" },
+        { "url": "https://www.officielebekendmakingen.nl/staatsblad", "what": "Staatsblad: laws and decrees published" },
+        { "url": "https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen", "what": "House of Representatives vote results" },
+        { "url": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen", "what": "Bills in the House" },
+        { "url": "https://www.eerstekamer.nl/stemmingen_fractiegewijs", "what": "Senate votes by party group" },
+        { "url": "https://www.raadvanstate.nl/adviezen/", "what": "Council of State advisory opinions on bills" },
+        { "url": "https://www.kiesraad.nl/actueel/nieuws", "what": "Electoral Council: appointment of MPs, party registrations, results" },
+        { "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20251029", "what": "House of Representatives election 2025: official results" },
+        { "url": "https://www.rijksoverheid.nl/themas/overheid-en-democratie/democratie/rol-politieke-partijen/giften-en-subsidies-politieke-partijen", "what": "Political-party donations, debts and subsidies (Interior Ministry)" }
+      ]
+    },
     "NO": {
       "name": "Norway",
       "domains": {
@@ -94,6 +295,42 @@
       "domains": {
         "gov.pl": { "what": "Government and administration, Sejm (sejm.gov.pl)" }
       }
+    },
+    "PT": {
+      "name": "Portugal",
+      "domains": {
+        "gov.pt": {
+          "what": "Government and administration: Government portal (portugal.gov.pt), Ministry of Internal Administration election results (eleicoes.mai.gov.pt)",
+          "access": "2026-10-21: the Council of Ministers communiqués page on portugal.gov.pt returns no content (status error) and the government composition page builds its list with scripts; the 2024 and 2025 results sites on eleicoes.mai.gov.pt build their pages with scripts and show no results"
+        },
+        "parlamento.pt": { "what": "Assembly of the Republic: members, legislative initiatives, votes" },
+        "presidencia.pt": { "what": "President of the Republic: laws promulgated or vetoed, appointments and resignations of members of the government" },
+        "diariodarepublica.pt": {
+          "what": "Diário da República (official gazette), including the official election results maps",
+          "access": "2026-10-21: pages build their text with scripts (status error); PDFs on files.diariodarepublica.pt are fingerprinted only"
+        },
+        "dre.pt": { "what": "Former domain of the official gazette; redirects to diariodarepublica.pt" },
+        "tribunalconstitucional.pt": {
+          "what": "Constitutional Court: rulings, the Entidade para a Transparência (/tc/ept/), the Entidade das Contas e Financiamentos Políticos (party and campaign accounts)",
+          "access": "2026-10-21: rate-limits after a few requests (429), so rulings are often unreachable; the party-accounts site is a login portal"
+        },
+        "entidadetransparencia.pt": {
+          "what": "Entidade para a Transparência platform: politicians' single declarations of income, assets and interests",
+          "access": "2026-10-21: pages build their content with scripts (status error, title only); the Prime Minister's declarations are closed to the public pending his opposition requests"
+        },
+        "cne.pt": { "what": "National Elections Commission: official results maps of all elections" },
+        "ministeriopublico.pt": { "what": "Public Prosecution Service and Prosecutor General's Office, including DCIAP notes" },
+        "stj.pt": { "what": "Supreme Court of Justice" },
+        "dgsi.pt": { "what": "Case-law databases of the higher courts" },
+        "tcontas.pt": { "what": "Court of Auditors" }
+      },
+      "watch": [
+        { "url": "https://www.presidencia.pt/atualidade/atividade-legislativa", "what": "Laws promulgated or vetoed by the President" },
+        { "url": "https://www.presidencia.pt/atualidade/notas-informativas", "what": "Presidential notes: appointments, dismissals and resignations of members of the government" },
+        { "url": "https://www.cne.pt/content/eleicoes-referendos-resultados-oficiais", "what": "Official results maps of elections and referendums" },
+        { "url": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/IniciativasLegislativas.aspx", "what": "Legislative initiatives in the Assembly of the Republic" },
+        { "url": "https://www.ministeriopublico.pt/comunicados", "what": "Prosecution service communiqués" }
+      ]
     },
     "SK": {
       "name": "Slovakia",

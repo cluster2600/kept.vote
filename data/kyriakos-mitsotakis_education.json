@@ -1,0 +1,50 @@
+[
+  {
+    "id": "kyriakos-mitsotakis-edu-athens-college",
+    "institution": "Athens College (Κολλέγιο Αθηνών)",
+    "qualification": "Secondary school diploma",
+    "field": "General secondary education",
+    "years": "until 1986",
+    "detail": "Graduated in 1986; Greek Wikipedia says he graduated as salutatorian.",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-edu-harvard-ba",
+    "institution": "Harvard University",
+    "qualification": "Bachelor of Arts, summa cum laude",
+    "field": "Social Studies",
+    "years": "1986–1990",
+    "detail": "His undergraduate thesis on US foreign policy towards Greece won the Hoopes and Tocqueville prizes and was later published as a book, The Pitfalls of Foreign Policy (Britannica, Wikipedia).",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-edu-stanford",
+    "institution": "Stanford University",
+    "qualification": "Master's degree",
+    "field": "International relations / international policy studies",
+    "years": "1992–1993",
+    "detail": "Focused on European integration, according to Britannica.",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-edu-hbs",
+    "institution": "Harvard Business School",
+    "qualification": "Master of Business Administration (MBA)",
+    "field": "Business administration",
+    "years": "1993–1995",
+    "detail": "",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "petteri-orpo-int-party-chair",
+    "item": "Chairman of the National Coalition Party (Kokoomus)",
+    "type": "position of trust",
+    "period": "since June 2016; declared 2026",
+    "value": "€24,000 received from Kokoomus, declared for 2025",
+    "detail": "Listed under positions of trust and under income from activities outside the MP's mandate. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-int-turku-council",
+    "item": "Member of Turku City Council",
+    "type": "position of trust (local government)",
+    "period": "declared 2026",
+    "value": "€1,140 in council fees, declared for 2025",
+    "detail": "Listed under positions of trust and under income from activities outside the MP's mandate. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-int-snellman-foundation",
+    "item": "Member of the board of the Snellman Foundation (Snellman-säätiö)",
+    "type": "board membership (foundation)",
+    "period": "declared 2026",
+    "value": "",
+    "detail": "Listed under administrative and trust positions in private companies, organisations and public bodies. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-int-naantali-music",
+    "item": "Member of the supervisory board of the Naantali Music Festival Foundation (Naantalin musiikkijuhlasäätiö)",
+    "type": "board membership (foundation)",
+    "period": "declared 2026",
+    "value": "",
+    "detail": "Listed under administrative and trust positions. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-int-gifts-2023",
+    "item": "Gifts and hospitality declared for 2023",
+    "type": "gifts",
+    "period": "2023",
+    "value": "€1,720 in total",
+    "detail": "City of Turku: Ruisrock festival VIP tickets for two (8 July 2023, €560, declared 25 July 2023) and Ruisrock tickets (5–7 July 2023, €560, declared 8 August 2024); Football Association of Finland: VIP-box tickets for the Finland–Denmark Euro qualifier (10 September 2023, €600). Parliament publishes MPs' gift declarations in its register. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-int-gifts-2024",
+    "item": "Gifts and hospitality declared for 2024",
+    "type": "gifts",
+    "period": "2024",
+    "value": "",
+    "detail": "Finnish Sports Gala (11 January, €613); Emma music gala (17 February, €432); City of Turku: Ruisrock tickets with VIP access and meal voucher (6 July, €738); OP: Coldplay concert in a box with dinner (30 July, €336); City of Tampere / Kalervo Kummola: NHL game Florida–Dallas in Tampere with meal (2 November, €515.80, declared twice, on 8 November 2024 and 2 April 2025); Japanese ambassador Okada Takashi: Issey Miyake watch (3 December, €225). Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-int-gifts-2025",
+    "item": "Gifts and hospitality declared for 2025",
+    "type": "gifts",
+    "period": "2025",
+    "value": "",
+    "detail": "Algerian ambassador Mohamed Bourouba: decorative vase and box of dates (3 January, €200); Yle and City of Tampere: UMK 2025 tickets and meal (8 February, €119.90); Emma gala / IFPI Finland: tickets (8 March, €876); Ukrainian President Volodymyr Zelensky: a plate (19 March, €150); City of Turku: Ruisrock (5 July, €864.84); Ruka Safaris: river rafting for three (29 July, €270). Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "status": "declared",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  }
+]

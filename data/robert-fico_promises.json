@@ -1,0 +1,439 @@
+[
+  {
+    "id": "robert-fico-promise-ukraine-military-aid",
+    "title": "Stop sending military aid to Ukraine (\"not a single round\")",
+    "description": "Fico's central 2023 campaign pledge: Slovakia would not send \"a single round of ammunition\" to Ukraine. After the election he narrowed it to state aid from the Slovak army's own stocks, saying commercial arms exports by companies would not be blocked.",
+    "date_made": "2023-09",
+    "category": "Foreign policy / Ukraine",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "State military aid packages stopped: on 8 November 2023 the new government rejected the 14th package prepared by the Ódor caretaker cabinet, and no state package has been approved since. Commercial deliveries continued and grew, however: the Sme daily found, from Eurostat data, exports of weapons and ammunition to Ukraine worth at least €112 million between October 2023 and July 2024. The pledge was therefore delivered only in the narrowed form Fico gave it after the election.",
+    "key_evidence": [
+      "Al Jazeera, 1 October 2023: Fico promised Slovakia would not send \"a single round of ammunition\" to Ukraine",
+      "8 November 2023: the cabinet rejected a €40.3 million 14th package (4 million 7.62 mm rounds, 5,172 125 mm rounds, 140 Kub missiles, 8 mortars, 1,200 mines); commercial aid to continue",
+      "Before Fico's return Slovakia had sent 13 state packages worth €671 million",
+      "Sme/Slovak Spectator (October 2024): military exports to Ukraine worth at least €112 million under the fourth Fico government by July 2024, a monthly average above the Ódor government's"
+    ],
+    "source_url": [
+      "https://www.aljazeera.com/news/2023/10/1/pro-russia-party-claims-victory-in-slovakia-election",
+      "https://spectator.sme.sk/c/23241641/slovakia-stops-14th-package-of-military-aid-to-ukraine.html",
+      "https://spectator.sme.sk/politics-and-society/c/not-a-single-bullet-to-ukraine-he-said-but-still-the-guns-and-ammunition-flow-east"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-no-eu-money-for-weapons",
+    "title": "Keep Slovak money out of EU funding for Ukraine's military needs",
+    "description": "At the European Council of 20 March 2025 Fico said Slovakia would use the voluntary nature of EU military support for Ukraine and \"will not contribute a single cent from its budget for weapons for Ukraine\". He later said Slovakia would not take part in EU loans financing Ukraine's military needs.",
+    "date_made": "2025-03-20",
+    "category": "Foreign policy / Ukraine",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Slovakia did not join the €90 billion EU loan to Ukraine agreed in December 2025, which is being paid out without it. On 14 October 2026 Fico said Slovakia would again request an opt-out from the next planned EU loan for Ukraine, while not preventing other member states from taking part. No Slovak budget contribution to EU weapons funding for Ukraine has been reported.",
+    "key_evidence": [
+      "20 March 2025 summit: Fico insisted contributions to a proposed EU military-aid fund stay voluntary and pledged \"not a single cent\" from the Slovak budget",
+      "Fico (14 October 2026, after a V4 meeting): Slovakia did not take part in the €90 billion loan and will seek an opt-out from the next one"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/politics-and-society/c/news-digest-fico-brought-his-veto-to-brussels-then-found-nothing-to-block",
+      "https://sme.sk/domov/c/fico-odmieta-spajat-dalsiu-pozicku-pre-ukrajinu-s-buducim-rozpoctom-unie"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-sanctions-veto-gas",
+    "title": "Block new EU sanctions on Russia until Slovakia's gas concerns are met",
+    "description": "In June 2025 Fico said he would keep vetoing the EU's 18th package of sanctions on Russia unless Slovakia obtained concessions over the REPowerEU plan to phase out Russian gas imports, citing the risk of a €16-20 billion claim by Gazprom under a contract running to 2034.",
+    "date_made": "2025-06-26",
+    "category": "Foreign policy / sanctions",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "Fico held the veto for about three weeks and lifted it on 18 July 2025 after Ursula von der Leyen sent him a letter of reassurances on how the phase-out would be implemented, including possible state aid and EU funds; the 18th package was then adopted. The gas phase-out itself was not stopped: the EU adopted the import ban by qualified majority in January 2026, which Slovakia is now contesting in court. He obtained assurances, not the change he had demanded.",
+    "key_evidence": [
+      "Euronews, 27 June 2025: Fico confirmed he would continue to block the 18th package, linking it to REPowerEU",
+      "18 July 2025: Slovakia lifted its veto after a three-page letter from the Commission President; the package was adopted",
+      "January 2026: EU regulation banning Russian gas imports adopted by qualified majority"
+    ],
+    "source_url": [
+      "https://www.euronews.com/my-europe/2025/06/27/why-did-robert-fico-veto-the-new-eu-sanctions-on-russia-money-is-key",
+      "https://www.euronews.com/my-europe/2025/07/18/eu-agrees-new-sanctions-on-russias-oil-and-banks-after-robert-fico-lifts-his-veto",
+      "https://newsnow.tasr.sk/fico-slovakia-set-to-file-lawsuit-with-cjeu-over-ban-on-russian-gas/"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-russian-gas-ban-challenge",
+    "title": "Fight the EU ban on Russian gas imports, including at the EU Court of Justice",
+    "description": "Fico has opposed the EU's phase-out of Russian gas since 2025. On 17 April 2026 he announced that Slovakia would sue to annul the January 2026 regulation banning Russian gas imports, arguing it should have required unanimity, and asked for an injunction suspending it.",
+    "date_made": "2026-04-17",
+    "category": "Energy / EU affairs",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "Slovakia filed its action at the Court of Justice in April 2026, and it has also joined Hungary's earlier challenge; no ruling has been reported, and Fico himself said proceedings could take up to three years. The regulation remains in force, requiring Russian gas imports to end by 2027, and on 19 October 2026 Slovakia and Hungary were still asking Brussels for more flexibility. The Slovak Spectator's legal analysis rates the chances of the challenge as low.",
+    "key_evidence": [
+      "TASR, 17 April 2026: Fico and Justice Minister Boris Susko announce the lawsuit; deadline 27 April 2026",
+      "Slovak Spectator (14 May 2026): the lawsuit was filed in April; precedent such as the 2008 'small arms' ruling makes success unlikely",
+      "Euronews, 19 October 2026: Slovakia and Hungary call for flexibility in the phase-out due by 2027"
+    ],
+    "source_url": [
+      "https://newsnow.tasr.sk/fico-slovakia-set-to-file-lawsuit-with-cjeu-over-ban-on-russian-gas/",
+      "https://spectator.sme.sk/business/c/why-slovakias-challenge-to-the-eus-russian-gas-ban-is-unlikely-to-succeed",
+      "https://www.euronews.com/2026/10/19/visegrad-four-urge-brussels-to-ease-russian-energy-phase-out-rules"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-druzhba-electricity",
+    "title": "Halt emergency electricity aid to Ukraine unless Druzhba oil flows resume",
+    "description": "On 21 February 2026, during the dispute over the halt of Russian oil deliveries through the Druzhba pipeline across Ukraine, Fico warned that he would ask the state grid operator SEPS to stop emergency electricity supplies to Ukraine if oil flows did not resume by Monday, 23 February.",
+    "date_made": "2026-02-21",
+    "category": "Energy / foreign policy",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "On 23 February 2026 Fico announced that Slovakia would no longer provide emergency electricity assistance to Ukraine; Ukrenergo said it had not been formally informed and that the step would not affect its grid. Oil began flowing to Slovakia through Druzhba again on 23 April 2026. Kyiv attributed the outage to a Russian drone strike; when flows resumed Fico said the pipeline and oil \"were used as tools in a geopolitical struggle\".",
+    "key_evidence": [
+      "Euronews, 21 February 2026: ultimatum posted by Fico on X",
+      "Al Jazeera, 23 February 2026: Slovakia halts emergency power supplies to Ukraine",
+      "Al Jazeera, 29 April 2026: oil flowed into Slovakia again on 23 April"
+    ],
+    "source_url": [
+      "https://www.euronews.com/2026/02/21/slovakias-fico-threatens-to-cut-off-electricity-supply-to-ukraine-unless-russian-oil-flows",
+      "https://www.aljazeera.com/news/2026/2/23/slovakia-halts-emergency-power-supplies-to-ukraine-over-russian-oil-dispute",
+      "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-eu-nato-membership",
+    "title": "Keep Slovakia's membership of the EU and NATO",
+    "description": "The Government Programme Statement 2023-2027 ('Lepšie, pokojnejšie a bezpečnejšie žiť'), approved by the cabinet on 13 November 2023, confirms Slovakia's continued membership of NATO and the EU, alongside a 'sovereign' foreign policy.",
+    "date_made": "2023-11-13",
+    "category": "EU and NATO",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "As of October 2026 Slovakia remains a member of both organisations and the government has taken no step to leave either. Fico has nonetheless questioned the alliance: in June 2025 he asked whether neutrality \"would not suit Slovakia\" like Austria and Switzerland, and in April 2025 he dismissed claims that the government planned to leave the EU as a lie. The commitment holds formally; the score reflects the ambiguity of his statements.",
+    "key_evidence": [
+      "Programme statement approved by the government on 13 November 2023 and by parliament in November 2023",
+      "Slovak Spectator, 17 June 2025: Fico's neutrality remarks; the government programme confirms NATO membership; President Pellegrini warned leaving NATO would cost more",
+      "Fico, January 2026: \"we're in NATO along with the USA\""
+    ],
+    "source_url": [
+      "https://www.teraz.sk/slovensko/vlada-schvalila-svoje-programove-vyhl/754075-clanok.html",
+      "https://spectator.sme.sk/politics-and-society/c/news-digest-slovakia-like-austria-or-switzerland-fico-stirs-the-neutrality-pot",
+      "https://newsnow.tasr.sk/premier-trip-to-us-in-line-with-slovakias-sovereign-foreign-policy/"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-defence-spending",
+    "title": "Not raise defence spending further",
+    "description": "The 2023-2027 programme statement says that important domestic socio-economic goals \"will not allow the new government to further increase defence spending\". In June 2025 Fico added that Slovakia would not support any increase in spending on weapons systems in the 2026 budget above the 2025 level, and that any extra defence money would go to dual-use projects such as hospitals and roads.",
+    "date_made": "2023-11-13",
+    "category": "Defence",
+    "status": "compromise",
+    "confidence_score": 0.65,
+    "reasoning": "Defence spending stayed around 2% of GDP in 2024-2026 (2.0% in 2025 according to the Council for Budget Responsibility, below the 2.4% budgeted, mainly because of delayed equipment deliveries). The 2027 budget, approved by parliament on 14 October 2026, raises total defence spending to 2.2% of GDP (over €3.31 billion), partly through dual-use projects such as the new Vajnory hospital, and Slovakia is drawing a €2.32 billion EU SAFE defence loan. Slovakia also accepted the NATO 2035 target at The Hague, while saying it would set its own pace.",
+    "key_evidence": [
+      "Programme statement (TASR, 13 November 2023): no further increase in defence spending",
+      "TASR, 23 June 2025: no increase in weapons spending in 2026 above the 2025 level",
+      "RRZ: 2025 defence spending €2.7 billion (2.0% of GDP) against €3.4 billion (2.4%) budgeted",
+      "TASR, 5 October 2026: 2027 defence spending budgeted at 2.2% of GDP, up from 2.0% in 2026; SAFE loan of €2.32 billion"
+    ],
+    "source_url": [
+      "https://www.teraz.sk/slovensko/vlada-schvalila-svoje-programove-vyhl/754075-clanok.html",
+      "https://newsnow.tasr.sk/premier-slovakia-wont-support-increase-in-spending-on-weapons-systems/",
+      "https://www.rrz.sk/en/hospodarenie-rozpoctu-verejnej-spravy-v-roku-2025/",
+      "https://www.teraz.sk/slovensko/na-obranu-by-malo-ist-v-buducom-roku/997336-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-deficit-below-3",
+    "title": "Cut the public deficit below 3% of GDP by 2027",
+    "description": "When it took office in autumn 2023 the government announced a gradual reduction of the general government deficit to below 3% of GDP in 2027, the EU reference value, through a series of consolidation packages.",
+    "date_made": "2023-11",
+    "category": "Public finances",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "The deficit fell from 5.3% of GDP in 2024 to 4.5% in 2025 after three consolidation packages (including a VAT rise from 20% to 23% and a financial transaction tax), but the 2027 budget approved by parliament on 14 October 2026 plans a deficit of 4.94% of GDP, higher than the 4.4% expected for 2026. Finance Minister Ladislav Kamenický said on 5 October 2026 that it was not possible to reach 3% \"as was the goal at the start of this government\", and the ministry now targets 4.5% in 2028 and 4% in 2029. Public debt rose to 61.4% of GDP in 2025.",
+    "key_evidence": [
+      "RRZ: deficit 4.5% of GDP in 2025, down 0.8 points; debt 61.4% of GDP, above the debt-brake ceiling",
+      "Consolidation packages for 2024, 2025 (VAT from 20% to 23%, transaction tax) and 2026 (RRZ: about 1.1% of GDP in 2026)",
+      "TASR, 5 October 2026: 2027 deficit planned at 4.94% of GDP; Kamenický: 3% not possible",
+      "TASR, 14 October 2026: parliament approved the 2027 state budget by 76 votes"
+    ],
+    "source_url": [
+      "https://www.teraz.sk/najnovsie/kamenicky-ak-by-sme-nekonsolidovali-d/997390-clanok.html",
+      "https://www.pravda.sk/spravy/ekonomika/clanok/2052973-vlada-odklepla-rozpocet-na-rok-2027-deficit-ma-byt-vyssi-nez-tento-rok-caka-nas-dalsia-konsolidacia",
+      "https://www.rrz.sk/en/hospodarenie-rozpoctu-verejnej-spravy-v-roku-2025/",
+      "https://www.teraz.sk/najnovsie/nr-sr-schvalila-rozpocet-na-buduci-ro/999651-clanok.html",
+      "https://spectator.sme.sk/business/c/its-a-must-how-pm-fico-plans-to-fix-slovakias-public-finances"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-13th-pension",
+    "title": "Pay a full 13th pension from 2024",
+    "description": "Smer and Hlas campaigned on a full 13th pension. On 30 October 2023 Labour Minister Erik Tomáš announced it, and Fico asked for the law within three months; the programme statement contains an explicit commitment to pay all pensioners a full 13th pension in 2024, equal to the average old-age pension of the previous year.",
+    "date_made": "2023-10-30",
+    "category": "Pensions",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The government approved the bill on 13 November 2023, and in 2024 the 13th pension was paid at €606.30, the average old-age pension. In November 2024 the coalition limited the full amount to pensioners with at least ten years of work in Slovakia, after it emerged that people with short Slovak work histories also qualified. It was kept through the consolidation packages: the 2027 budget approved in October 2026 still includes it, and Finance Minister Kamenický cited abolishing 13th pensions as one of the measures the government refuses in order to reach a 3% deficit.",
+    "key_evidence": [
+      "TASR, 30 October 2023: 13th pension equal to the full average pension to be paid in 2024",
+      "Ministry of Labour, 13 November 2023: government bill; from 2024 the 13th pension equals the previous year's average old-age pension (about €606)",
+      "Slovak Spectator, 7 November 2024: 2024 amount €606.30; amendment of 5 November 2024 prorates it for those with under 10 years of Slovak work",
+      "TASR, 5 October 2026: the 2027 budget keeps the 13th pensions"
+    ],
+    "source_url": [
+      "https://newsnow.tasr.sk/tomas-13th-pension-equalling-full-average-pension-to-be-paid-next-year/",
+      "https://www.teraz.sk/slovensko/vlada-schvalila-svoje-programove-vyhl/754075-clanok.html",
+      "https://employment.gov.sk/sk/uvodna-stranka/informacie-media/aktuality/dochodcovia-si-este-tomto-roku-prilepsia-mimoriadny-jednorazovy-prispevok-150-eur.html",
+      "https://spectator.sme.sk/business/c/new-rules-slash-13th-pensions-for-retirees-without-long-slovak-work-history",
+      "https://www.teraz.sk/najnovsie/kamenicky-ak-by-sme-nekonsolidovali-d/997390-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-mortgage-relief",
+    "title": "Help households hit by rising mortgage rates",
+    "description": "On 13 November 2023 Fico announced a law \"to help people with high interest rates on mortgage loans, in 2023 and in the following years\", to be submitted to parliament in December 2023.",
+    "date_made": "2023-11-13",
+    "category": "Housing / household finances",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "Parliament approved the measure in December 2023 as part of the government's first consolidation package. From 2024 the state pays mortgage holders earning up to 1.6 times the average wage 75% of the increase in their monthly instalment, up to €150 a month and €1,800 a year, with an estimated cost of €72 million in 2024. The central bank had questioned the need, saying most instalments rose by no more than €100.",
+    "key_evidence": [
+      "Fico's statement of 13 November 2023, quoted by TASR",
+      "Scheme: 75% of the instalment increase, capped at €150/month and €1,800/year; applications at labour offices",
+      "Package including mortgage support approved by parliament on 19 December 2023"
+    ],
+    "source_url": [
+      "https://www.teraz.sk/slovensko/vlada-schvalila-svoje-programove-vyhl/754075-clanok.html",
+      "https://spectator.sme.sk/business/c/government-will-help-pay-peoples-mortgages",
+      "https://spectator.sme.sk/c/23258951/slovakia-consolidation-measures-approval-parliament.html"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-energy-prices-2026",
+    "title": "Keep household energy prices frozen for most households in 2026",
+    "description": "In a video message in early August 2025 Fico announced that energy prices for at least 90% of households would remain frozen through 2026, with state subsidies for heating and gas and capped electricity prices, rather than the narrower means-tested scheme his economy minister had prepared.",
+    "date_made": "2025-08",
+    "category": "Energy prices",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "The 'energopomoc' scheme covers households below an income threshold (about 90% of them), but prices were not frozen: the capped electricity commodity price for eligible households rose from €61 to €72.70 per MWh from January 2026, while households without aid pay market-based prices. District heating stayed close to 2025 levels. The 2027 budget again sets aside €250 million for energy-price compensation.",
+    "key_evidence": [
+      "Slovak Spectator, 5 August 2025: Fico announces prices frozen for most households through 2026",
+      "ÚRSO/Slovak Spectator, 4 December 2025: cap of €72.70/MWh for aided households, up from €61; about €137 a year more for unaided households",
+      "Pravda, October 2026: €250 million for energy compensation in 2027"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/business/c/slovakia-to-freeze-energy-prices-for-most-households-despite-eu-push-for-targeted-aid",
+      "https://spectator.sme.sk/business/c/living-in-slovakia-your-2026-energy-bill-depends-on-one-thing-state-aid",
+      "https://www.pravda.sk/spravy/ekonomika/clanok/2052973-vlada-odklepla-rozpocet-na-rok-2027-deficit-ma-byt-vyssi-nez-tento-rok-caka-nas-dalsia-konsolidacia"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-transaction-tax-abolition",
+    "title": "Abolish the financial transaction tax for companies from January 2027",
+    "description": "On 24 August 2026 Fico instructed Finance Minister Ladislav Kamenický to prepare the abolition of the transaction tax for companies from 1 January 2027. His government had introduced the tax (0.4% on transfers, capped at €40, and 0.8% on cash withdrawals) in its 2025 consolidation package; in April 2025 he had called it \"impossible to abolish\".",
+    "date_made": "2026-08-24",
+    "category": "Taxation",
+    "status": "broken",
+    "confidence_score": 0.7,
+    "reasoning": "The 1 January 2027 date was dropped within six weeks: on 22 September 2026 Smer deputy leader Tibor Gašpar said the tax would not be abolished in full for lack of replacement revenue, and on 2 October 2026 the coalition council agreed that it would stay in 2027 and be abolished only from the end of 2027 / 2028, leaving the revenue loss to the next government. Sole traders had already been exempted from January 2026.",
+    "key_evidence": [
+      "Slovak Spectator, 24 August 2026: Fico orders abolition from January 2027; the tax yields about €500 million a year",
+      "Slovak Spectator, 22 September 2026: Gašpar says the tax will not be abolished in full",
+      "TASR, 2 October 2026: coalition agrees to abolish the tax from 2028 (as of 31 December 2027)"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/politics-and-society/c/transaction-tax-slovakia-abolition",
+      "https://spectator.sme.sk/business/c/slovakia-transaction-tax-fico-smer-abolition",
+      "https://www.teraz.sk/ekonomika/l-kamenicky-koalicia-sa-dohodla-na-r/996856-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-abolish-special-prosecutor",
+    "title": "Abolish the Special Prosecutor's Office (ÚŠP)",
+    "description": "Fico had long accused the Special Prosecutor's Office, led by his former opponent Daniel Lipšic, of political persecution, and its abolition was one of his main pre-election goals. On 6 December 2023 his government approved legislation to scrap it, Fico saying: \"We're just going to abolish it.\" He later presented the abolition as fulfilling the programme statement.",
+    "date_made": "2023-12-06",
+    "category": "Justice / rule of law",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Parliament passed the criminal-law amendments on 8 February 2024 in a fast-track procedure and the office was closed on 20 March 2024, its cases passing to the General Prosecutor's Office and regional prosecutors. On 3 July 2024 the Constitutional Court found no constitutional violation in the abolition. A citizens' referendum on 4 July 2026 asking to restore the office and the National Crime Agency (NAKA) was invalid with a 16.13% turnout, so the abolition stands.",
+    "key_evidence": [
+      "Government approval of the draft on 6 December 2023; protests at home and concern in the European Parliament",
+      "Amendments passed 8 February 2024; office closed 20 March 2024",
+      "Constitutional Court, 3 July 2024: abolition constitutional",
+      "Referendum of 4 July 2026: 92.23% of voters backed restoring the office, but turnout of 16.13% was far below the 50% required"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/c/23255261/ficos-plan-to-end-the-special-attracts-protests-in-brussels-and-at-home.html",
+      "https://spectator.sme.sk/politics-and-society/c/constitutional-court-didnt-help-special-prosecutors-office-will-shut-down-in-march",
+      "https://spectator.sme.sk/politics-and-society/c/slovak-constitutional-court-upholds-criticised-criminal-law-reforms",
+      "https://volby.statistics.sk/ref/ref2026/sk/referendova_otazka.html",
+      "https://newsnow.tasr.sk/state-electoral-commission-confirms-referendum-not-valid-turnout-was-16-13-percent/"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-criminal-code",
+    "title": "Rewrite the Criminal Code: lower penalties and shorter limitation periods",
+    "description": "Alongside the abolition of the Special Prosecutor's Office, the government's December 2023 package amended the Criminal Code to reduce sentences for economic and other crimes, raise the damage thresholds, shorten limitation periods and change rules on plea bargains and evidence. Fico's government presented the changes as restoring the rights of the accused.",
+    "date_made": "2023-12-06",
+    "category": "Justice / rule of law",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Parliament passed the amendments on 8 February 2024 in a fast-track procedure, over the objections of President Zuzana Čaputová, the opposition, the European Commission and the European Public Prosecutor's Office. The Constitutional Court suspended the Penal Code changes in February 2024 but on 3 July 2024 upheld most of them, striking down only the reopening of earlier plea bargains, the one-sided use of illegally obtained evidence and certain transitional provisions on asset forfeiture and limitation periods. Accused persons, including Fico's adviser and lawyer David Lindtner, helped draft the changes, according to the Slovak Spectator. A further fast-tracked amendment in December 2025 made evidence from cooperating defendants (kajúcnici) unusable in certain cases; the Constitutional Court suspended that provision in February 2026 and ruled it unconstitutional on 21 October 2026, rejecting the rest of the petition (TASR).",
+    "key_evidence": [
+      "Changes include lower penalties for corruption and other crimes, suspended sentences, and much shorter limitation periods (Euronews/AP)",
+      "Constitutional Court ruling of 3 July 2024 after the February suspension",
+      "Large protests in more than 30 towns from December 2023",
+      "Constitutional Court, 21 October 2026: the December 2025 kajúcnik provision is unconstitutional"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/c/23255261/ficos-plan-to-end-the-special-attracts-protests-in-brussels-and-at-home.html",
+      "https://www.euronews.com/my-europe/2024/02/17/slovak-president-challenges-the-governments-move-to-eliminate-the-special-anti-graft-prose",
+      "https://spectator.sme.sk/politics-and-society/c/slovak-constitutional-court-upholds-criticised-criminal-law-reforms",
+      "https://www.teraz.sk/slovensko/us-zmena-trestneho-poriadku-o-kajucn/1001550-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-public-broadcaster",
+    "title": "Replace public broadcaster RTVS with a new STVR",
+    "description": "Fico said RTVS was politically biased and \"in conflict with the Slovak government\". On 24 April 2024 the government approved Culture Minister Martina Šimkovičová's (SNS) bill replacing it with Slovak Television and Radio (STVR), whose director would be chosen by a council nominated by the Culture Ministry and parliament.",
+    "date_made": "2024-04-24",
+    "category": "Media",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Parliament passed the STVR law on 20 June 2024, with the opposition not voting; it created a nine-member council (four nominated by the culture minister, five elected by parliament) and ended the mandates of the RTVS director and council, which had run until 2027. STVR replaced RTVS in July 2024. The European Commission, the European Broadcasting Union and press-freedom groups criticised the change as increasing government control.",
+    "key_evidence": [
+      "Euronews/AP, 24 April 2024: government approves the plan; Fico says RTVS is biased",
+      "TASR, 20 June 2024: parliament passes the STVR bill",
+      "RTVS director Ľuboš Machaj's mandate ended when the law took effect"
+    ],
+    "source_url": [
+      "https://www.euronews.com/2024/04/24/slovakia-government-tries-to-take-control-of-state-tv-and-radio",
+      "https://newsnow.tasr.sk/parliament-okays-creation-of-slovak-television-and-radio/"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-ngo-law",
+    "title": "Impose transparency rules on NGOs' funding",
+    "description": "The coalition's NGO bill, first submitted by SNS MPs in 2024 with a label for 'organisations with foreign support', was defended by Fico in April 2025 as based on EU and German standards, not Russian ones; he said NGOs not engaged in politics would be unaffected.",
+    "date_made": "2025-04",
+    "category": "Civil society",
+    "status": "broken",
+    "confidence_score": 0.7,
+    "reasoning": "Parliament passed the law on 16 April 2025 with 76 votes, after dropping the 'foreign support' label; it required transparency reports and disclosure of donors above €5,000, and President Pellegrini signed it on 7 May 2025. On 17 December 2025 the Constitutional Court found the law unconstitutional, notably the donor-disclosure duty, the contested obligations stopped applying on 4 February 2026, and because parliament did not amend the law within the six-month deadline it lost force entirely on 4 August 2026 (STVR). As of October 2026 no replacement law has been adopted; the government instead announced inspections of NGOs.",
+    "key_evidence": [
+      "Slovak Spectator, 3 April 2025: Fico rejects comparisons with Russia's law",
+      "Law passed 16 April 2025, signed 7 May 2025, without the 'foreign agent' label",
+      "Constitutional Court, 17 December 2025: unconstitutional; obligations lapsed on 4 February 2026 (Ombudsman Róbert Dobrovodský)",
+      "Law lost force on 4 August 2026 after parliament did not amend it within six months (STVR, quoting the Ombudsman)"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/politics-and-society/c/news-digest-thousands-march-as-fico-stands-by-russian-style-ngo-bill",
+      "https://spectator.sme.sk/politics-and-society/c/slovakia-passes-ngo-law-civil-society-fears-a-chilling-new-era",
+      "https://spectator.sme.sk/politics-and-society/c/the-government-wanted-to-police-ngos-slovakia-s-top-court-said-no",
+      "https://spectator.sme.sk/politics-and-society/c/slovakia-ngo-law-row-deepens-as-french-embassy-rejects-claims-of-diplomatic-pressure-on-court",
+      "https://spravy.stvr.sk/2026/08/zakon-o-mimovladkach-definitivne-zanikol-koalicia-pripusta-ze-sa-k-ich-vacsej-transparentnosti-chce-vratit"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-constitutional-amendment",
+    "title": "Constitutional 'barrier against progressivism': two sexes, adoption, sovereignty on ethical matters",
+    "description": "At a press conference on 27 January 2025 Fico unveiled a constitutional amendment defining sex as male or female, limiting adoption to married couples, requiring parental consent for sexual education outside the state curriculum and asserting national sovereignty over cultural and ethical questions, including against EU law.",
+    "date_made": "2025-01-27",
+    "category": "Constitution / social policy",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Parliament adopted the amendment on 26 September 2025 with exactly the 90 votes needed, thanks to most KDH MPs and two defectors from the Slovensko movement; President Pellegrini signed it and it took effect on 1 November 2025. The sovereignty clause was reworded to state that Slovakia 'retains sovereignty' in matters of national identity, culture and ethics rather than overriding EU law outright. Before the vote the Council of Europe's Venice Commission warned that the notions of 'national identity' and 'cultural and ethical issues' must not create conflicts with Slovakia's international obligations. On 21 November 2025 the European Commission opened infringement proceedings over the sovereignty clause, to which Fico had said Slovakia was 'looking forward'.",
+    "key_evidence": [
+      "Fico's proposal of 27 January 2025, framed as a 'constitutional barrier against progressivism'",
+      "Vote of 26 September 2025: 90 of 99 MPs present",
+      "In force 1 November 2025; also bans surrogacy and embeds equal pay",
+      "European Commission letter of formal notice, 21 November 2025 (Anadolu)"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/politics-and-society/c/pm-fico-unveils-plan-to-rewrite-slovakia-s-constitution",
+      "https://spectator.sme.sk/politics-and-society/c/constitutional-amendment-slovakia",
+      "https://www.aljazeera.com/news/2025/9/26/slovak-constitutional-change-promotes-anti-lgbtq-national-identity",
+      "https://www.aa.com.tr/en/europe/eu-launches-infringement-procedure-against-slovakia-over-constitutional-amendment/3750268"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-migration-solidarity",
+    "title": "Take no part in the EU migration pact's relocation or solidarity payments",
+    "description": "In 2025 Fico warned Brussels that Slovakia would not participate in the EU Migration and Asylum Pact's solidarity scheme, neither accepting relocated asylum seekers nor paying into the solidarity pool, in line with his long-standing opposition to mandatory quotas.",
+    "date_made": "2025",
+    "category": "Migration",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "In the Council decision on the first annual solidarity pool (December 2025) Slovakia, like Hungary, made no pledge, and when the pact took effect on 12 June 2026 Euronews reported that both countries had refused any contribution, in relocations or money, without sanction so far. The pact makes solidarity mandatory, so the Commission could still open infringement proceedings.",
+    "key_evidence": [
+      "Euronews, 13 November 2025: Fico said Slovakia would not participate or pay",
+      "Slovak Spectator, 14 January 2026: Slovakia listed with 'no pledge' in the Council decision",
+      "Euronews, 12 June 2026: Hungary and Slovakia made no contribution as the pact entered into force"
+    ],
+    "source_url": [
+      "https://www.euronews.com/my-europe/2025/11/13/poland-hungary-among-those-ready-to-challenge-eu-over-unacceptable-migration-rules",
+      "https://spectator.sme.sk/politics-and-society/c/news-digest-slovakia-leaves-its-eu-migration-box-blank",
+      "https://www.euronews.com/my-europe/2026/06/12/how-eu-countries-watered-down-solidarity-plans-to-relocate-asylum-seekers"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-covid-fines-compensation",
+    "title": "Compensate people fined under COVID-19 rules",
+    "description": "In November 2024 Fico submitted to parliament a bill allowing people fined for breaching pandemic restrictions between March 2020 and September 2023, or billed for meals in state quarantine, to claim the money back from the state.",
+    "date_made": "2024-11",
+    "category": "Health / COVID-19",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "Parliament passed the law on 9 April 2025, but President Peter Pellegrini vetoed it in 2025 and returned it to parliament. As of 18 October 2026 the vetoed 'Covid amnesty' law was still among the items awaiting a new vote in the National Council, so it has not taken effect. Doctors' groups and the opposition had criticised it as rewarding rule-breaking.",
+    "key_evidence": [
+      "Slovak Spectator, 10 April 2025: law approved on 9 April 2025, planned to take effect 1 May 2025",
+      "Pravda, 18 October 2026: the law, returned by the President 'last year', is still on parliament's agenda"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/politics-and-society/c/slovakia-to-compensate-citizens-fined-for-covid-19-rule-breaches",
+      "https://pravda.sk/spravy/domace/clanok/2061319-poslanci-si-okolo-volieb-spravili-dvojtyzdnove-volno-caka-na-nich-pritom-este-okolo-200-bodov"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-national-hospital",
+    "title": "Build a new national university hospital in Bratislava",
+    "description": "On 29 April 2025 the government approved Health Minister Kamil Šaško's (Hlas) plan for a new National University Hospital named after Milan Rastislav Štefánik in Bratislava-Vajnory, on Defence Ministry land, replacing the long-delayed Rázsochy project: construction to start in September 2025, the shell to be finished by the end of the term and the hospital by 2030, at an estimated €1.2 billion.",
+    "date_made": "2025-04-29",
+    "category": "Health",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "Site works began in December 2025, later than the September start announced, with the Defence Ministry clearing the former barracks and starting excavation. The main construction tender, estimated at €922 million excluding VAT, was still open in October 2026 after its deadline was extended twice. The 2027 budget includes the hospital among the Defence Ministry's capital projects.",
+    "key_evidence": [
+      "Pravda, 29 April 2025: Vajnory chosen instead of Rázsochy; completion planned for 2030",
+      "Pravda, 17 December 2025: construction started; first patients expected at the end of the decade",
+      "Denník N (October 2026): tender deadline extended twice",
+      "TASR, 5 October 2026: 2027 defence capital spending includes the Vajnory hospital"
+    ],
+    "source_url": [
+      "https://spravy.pravda.sk/domace/clanok/750191-nie-razsochy-ale-vajnory-stat-vybral-miesto-pre-novu-nemocnicu-stat-bude-viac-ako-miliardu-eur-postavi-ju-kalinakov-rezort/",
+      "https://spravy.pravda.sk/domace/clanok/779084-vo-vajnoroch-spustili-vystavbu-novej-nemocnice/",
+      "https://e.dennikn.sk/5591079/kalinakov-miliardovy-tender-na-vajnorsku-nemocnicu-sa-rozbieha-stavbari-hladaju-ako-splnit-jeho-naroky/",
+      "https://www.teraz.sk/slovensko/na-obranu-by-malo-ist-v-buducom-roku/997336-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-promise-new-nuclear-reactor",
+    "title": "Build a new nuclear reactor at Jaslovské Bohunice with the United States",
+    "description": "Fico calls a new state-owned nuclear unit at Jaslovské Bohunice, of about 1,200-1,250 MW and to be built by Westinghouse, a key priority of his government; in June 2025 he said an intergovernmental agreement with the US was ready and that the plant, estimated at €13-15 billion, could be completed around 2040.",
+    "date_made": "2025-06-17",
+    "category": "Energy / nuclear",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The intergovernmental agreement on civil nuclear cooperation was signed in Washington on 16 January 2026, which Fico described as the precondition for negotiating with companies. No construction contract with Westinghouse had been reported as of October 2026; the opposition SaS and PS criticised the plan to choose the builder without a public tender. In September 2025 Fico unsettled Washington by suggesting Russian firms could take part.",
+    "key_evidence": [
+      "Slovak Spectator, 18 June 2025: Fico on the planned 1,250 MW unit and the US agreement",
+      "TASR, 16 and 18 January 2026: framework agreement signed in Washington before Fico met Donald Trump",
+      "Slovak Spectator, 11 September 2025: US objections to any Russian role"
+    ],
+    "source_url": [
+      "https://spectator.sme.sk/business/c/the-next-nuclear-power-plant-in-slovakia-may-be-built-by-americans",
+      "https://newsnow.tasr.sk/premier-trip-to-us-in-line-with-slovakias-sovereign-foreign-policy/",
+      "https://newsnow.tasr.sk/premier-fico-meets-donald-trump-in-florida-they-discuss-ukraine-eu-and-energy/",
+      "https://spectator.sme.sk/business/c/fico-risks-us-pact-with-call-for-russian-role-in-new-nuclear-plant"
+    ]
+  }
+]
