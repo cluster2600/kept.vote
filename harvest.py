@@ -388,7 +388,8 @@ def _commons_credit(page: str) -> dict:
         raise PortraitError("no Author row")
     author = re.sub(r"!\[[^\]]*\]\((?:<[^>]*>|[^)\s]*)(?:\s+\"[^\"]*\")?\)", "", row.group(1))  # icons
     author = re.sub(r"\[([^\]]*)\]\((?:<[^>]*>|[^)\s]*)(?:\s+\"[^\"]*\")?\)", r"\1", author)  # links -> text
-    author = re.sub(r"<[^>]+>|[*_`]", "", author)
+    author = re.sub(r"<[^>]+>", " ", author)  # table cells: keep the words apart
+    author = re.sub(r"[*_`]", "", author)
     author = re.sub(r"(.{4,}?)\1", r"\1", author)  # Creator templates print the name twice
     author = re.split(r"\s*(?:Description|Authority file|creator QS:)", author)[0]  # ...and their details
     # The same credit in several languages ("Français : …Deutsch: …English: …"):
