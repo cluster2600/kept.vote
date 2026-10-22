@@ -319,10 +319,12 @@
     "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html",
     "party_published": "Centre",
     "party_status": "published_on_official_profile",
-    "annual_payment_chf": null,
-    "payment_year": null,
-    "payment_source_urls": [],
-    "payment_status": "not_verified",
+    "annual_payment_chf": 6000,
+    "payment_year": 2025,
+    "payment_source_urls": [
+      "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/593/forms/30-59-109"
+    ],
+    "payment_status": "official_party_declaration_not_bank_audited",
     "observed_on": "2026-10-22"
   },
   {
@@ -337,10 +339,12 @@
     "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
     "party_published": "GLP",
     "party_status": "published_on_official_profile",
-    "annual_payment_chf": null,
-    "payment_year": null,
-    "payment_source_urls": [],
-    "payment_status": "not_verified",
+    "annual_payment_chf": 13020,
+    "payment_year": 2025,
+    "payment_source_urls": [
+      "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/590/forms/30-33-109"
+    ],
+    "payment_status": "official_party_declaration_not_bank_audited",
     "observed_on": "2026-10-22"
   },
   {
@@ -409,10 +413,12 @@
     "profile_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
     "party_published": "SVP",
     "party_status": "published_on_official_profile",
-    "annual_payment_chf": null,
-    "payment_year": null,
-    "payment_source_urls": [],
-    "payment_status": "not_verified",
+    "annual_payment_chf": 8000,
+    "payment_year": 2025,
+    "payment_source_urls": [
+      "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/594/forms/30-42-109"
+    ],
+    "payment_status": "official_party_declaration_not_bank_audited",
     "observed_on": "2026-10-22"
   },
   {

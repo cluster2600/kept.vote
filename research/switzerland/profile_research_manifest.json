@@ -1,0 +1,129 @@
+{
+  "records": [
+    {
+      "file": "sources/bfs-release-recidivism-2024.xlsx",
+      "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/32809186/master",
+      "sha256": "c0bc6ab325f3e01b8005c9738d5949280fc23ee72091aee74bb8606fe7b5393f",
+      "bytes": 53889,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-reconviction-national-2010-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_UNVRSDPRT/_T._T._T._T._T.REC_3..A?startPeriod=2010&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "3b4832317eb8ca907db5d7ff656490b0cb7533895a3a7e650e068e6d31b09285",
+      "bytes": 1323,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-reconviction-demographics-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_UNVRSDPRT/_T..._T..REC_3..A?startPeriod=2022&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "afb3ce08757d0cb0f5a38b22afa7d1eca991250d8c2c6f1b8dffd6a051045139",
+      "bytes": 4735,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-reconviction-structure.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/DF_SUS_REC_UNVRSDPRT?references=all",
+      "sha256": "b5dc6e44dd566e065ade1dfd0b562b115366a75de5305502a4eb4deab25b70de",
+      "bytes": 1889982,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/SK.2022.35-2023-01-10.pdf",
+      "url": "https://entscheidsuche.ch/dok/CH_BSTG/CH_BSTG_001_SK-2022-35_2023-01-10.pdf",
+      "sha256": "80a971060b5448f4f26bbced51f74d291f03dfc18c44726c29601929052a2218",
+      "bytes": 2036443,
+      "saved_on": "2026-10-23",
+      "source_status": "mirror of court-authored judgment"
+    },
+    {
+      "file": "sources/SB230597-O1-2024-10-01.pdf",
+      "url": "https://www.gerichte-zh.ch/fileadmin/user_upload/entscheide/oeffentlich/SB230597-O1.pdf",
+      "sha256": "ca8b88501b836c9cee65dee9c569d791b8826353b710b97cd9320b35216b479f",
+      "bytes": 399837,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/7B_15-2021-2023-09-19.html",
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom=",
+      "sha256": "e2ed85e2e54de8f01000a9aa2f6d98598399f79c03fde9ec444bc02713c7c965",
+      "bytes": 64629,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/6B_1437-2017-2018-11-06.html",
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F06-11-2018-6B_1437-2017&lang=de&type=show_document&zoom=",
+      "sha256": "a2c4d4a8a00b4b2c4e9c636fec0351e8b4ef1d4468968072ee1dcf13fb6d0e9b",
+      "bytes": 63508,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/koch-sonja-official-biography.html",
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
+      "sha256": "cc2ba480060ac3b0fc60fcc6e8c3fdb3669046b262d717ba461d75322afa3eb4",
+      "bytes": 171523,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/hurni-christoph-official-biography.html",
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
+      "sha256": "296bd1c5babd3fb95b00680816a5c69652d488c9b7e10968a928c1e0a94c1a4d",
+      "bytes": 171458,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/hofmann-yann-eric-official-biography.html",
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html",
+      "sha256": "6bf185fc0ef095b2337775bd56f1df27da9cb78039a1eabd14eca239d80782a6",
+      "bytes": 172171,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "judicial_party_contributions.json",
+      "sha256": "cfc8a50bb888da89d40e1348d65c63bc1fd9936c899af721b69cf5ef25e5f816",
+      "source_status": "derived observations; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "judicial_profiles.json",
+      "sha256": "ec33254bba41d41346085d80d6abb3ff78ea9aa0b974c36ff04af3caf74b111a",
+      "source_status": "derived observations; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "national_comparative_data.json",
+      "sha256": "96857926e4c9b6c271b63e3cc11d80e76837e0a867a91f6f425322ede85404bb",
+      "source_status": "derived observations; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "sources/BL-460-18-347-2019-05-07.pdf",
+      "url": "https://kanton.baselland.ch/politik-und-behorden/gerichte/rechtsprechung/kantonsgericht_rs/rechtsgebiet/strafrecht/entscheide-2019/2019-05-07-sr-2.pdf",
+      "sha256": "e49ce3381e4659df6c57f3623b75eb1d7b4a21e2f77d12d07582eba89d7708c6",
+      "bytes": 329509,
+      "saved_on": "2026-10-23",
+      "source_status": "official court publication"
+    }
+  ],
+  "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
+  "failed_retrievals": [
+    {
+      "target": "unfiltered national recidivism CSV",
+      "result": "timed out after 55 seconds; incomplete 224 MB temporary response excluded from corpus; successful filtered queries retained"
+    },
+    {
+      "target": "opendata.swiss CKAN search endpoint",
+      "result": "HTTP 403; not bypassed; official BFS published SDMX links used instead"
+    }
+  ]
+}

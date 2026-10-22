@@ -102,6 +102,23 @@ def enrich(row):
     return row, receipt
 
 
+def apply_contributions(rows, declarations):
+    by_id = {row['id']: row for row in rows}
+    for item in declarations:
+        if item['status'] != 'party_declared_on_official_register':
+            continue
+        amount, year = item['amount_chf'], item['year']
+        if (item['judge_id'] not in by_id or type(amount) not in (int, float) or not 0 <= amount < float('inf')
+                or type(year) is not int or not item['source_url'].startswith('https://politikfinanzierung.efk.admin.ch/')):
+            raise ValueError('Invalid contribution evidence')
+        row = by_id[item['judge_id']]
+        if row['payment_year'] is None or year > row['payment_year']:
+            row.update(annual_payment_chf=amount, payment_year=year,
+                       payment_source_urls=[item['source_url']],
+                       payment_status='official_party_declaration_not_bank_audited')
+    return rows
+
+
 def main():
     rows, receipts, counts = [], [], {}
     for kind, url in ROSTERS.items():
@@ -117,6 +134,7 @@ def main():
     receipts.extend(receipt for row, receipt in results if receipt)
     if len({row['id'] for row in rows}) != len(rows):
         raise ValueError('Duplicate judge identity; review roster overlap')
+    rows = apply_contributions(rows, json.loads((ROOT / 'judicial_party_contributions.json').read_text()))
     path = ROOT / 'federal_judges.json'
     payload = (json.dumps(rows, ensure_ascii=False, indent=2) + '\n').encode()
     temporary = path.with_suffix('.json.tmp')
@@ -124,7 +142,7 @@ def main():
     temporary.replace(path)
     manifest = {'counts': counts, 'records': len(rows), 'party_labels_extracted': sum(bool(row['party_published']) for row in rows),
                 'sha256': hashlib.sha256(payload).hexdigest(), 'sources': receipts,
-                'scope': 'Published lists of four civilian federal courts; military court excluded. Roster presence is not verified tenure. No individual payments verified.'}
+                'scope': 'Published lists of four civilian federal courts; military court excluded. Roster presence is not verified tenure. Named official party declarations are not bank-audited transfers.'}
     (ROOT / 'judges_manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
     print(manifest['records'], 'judicial records;', manifest['party_labels_extracted'], 'published party labels', flush=True)
 

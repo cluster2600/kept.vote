@@ -9,7 +9,7 @@
   },
   "records": 214,
   "party_labels_extracted": 149,
-  "sha256": "bb34a19902bbb75d535e983d0ef1f60e475fdf38c568ae399683b717e03540c5",
+  "sha256": "279e46db5f97f6e65bd4aefd69480db58132590c856c6f2f638fbf0a2ad577bf",
   "sources": [
     {
       "url": "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
@@ -1012,5 +1012,7 @@
       "sha256": "05b832d6ec2e0c080199d5a5507035cde27646c1bc03f72fb79234ce1af05863"
     }
   ],
-  "scope": "Published lists of four civilian federal courts; military court excluded. Roster presence is not verified tenure. No individual payments verified."
+  "scope": "Published lists of four civilian federal courts; military court excluded. Roster presence is not verified tenure. Three profiles enriched with latest named official party declarations; not bank-audited transfers.",
+  "contributions_file": "judicial_party_contributions.json",
+  "contributions_sha256": "cfc8a50bb888da89d40e1348d65c63bc1fd9936c899af721b69cf5ef25e5f816"
 }

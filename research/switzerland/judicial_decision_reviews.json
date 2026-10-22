@@ -50,21 +50,40 @@
     "summary": "The prosecution oversight authority reviewed pre-attack detention and release. It considered release subject to numerous substitute measures defensible, but criticised the federal prosecution’s failure to react to reported breaches and insufficient joined-up risk assessment. The later Federal Criminal Court judgment convicted the attacker of murder. These sources do not identify an individual releasing judge or establish judicial misconduct.",
     "relevant_authorities": [
       "Office of the Attorney General of Switzerland / Bundesanwaltschaft",
-      "Vaud cantonal authorities"
+      "Vaud cantonal authorities",
+      "Bern compulsory-measures court (Tmc-BE)"
     ],
     "judge_name": null,
     "individual_fault_finding": false,
-    "nationality": null,
-    "nationality_evidence_status": "not_verified; do not classify as a foreign-national case",
+    "nationality": "Swiss citizen; judgment also describes Turkish origin",
+    "nationality_evidence_status": "SK.2022.35 section 4.1 explicitly establishes Swiss citizenship; do not count as foreign-national-only",
     "source_urls": [
       "https://ab-ba.admin.ch/wp-content/uploads/2023/03/Medienmitteilung-Terrorismusbekampfung-Optimierung-der-Zusammenarbeit-der-Staatsanwaltschaften-von-Bund-und-Kantonen.pdf",
-      "https://www.bstger.ch/de/media/comunicati-stampa/2023/2023-01-10/1309.html"
+      "https://www.bstger.ch/de/media/comunicati-stampa/2023/2023-01-10/1309.html",
+      "https://entscheidsuche.ch/dok/CH_BSTG/CH_BSTG_001_SK-2022-35_2023-01-10.pdf"
     ],
-    "follow_up": "Obtain the original detention/release orders, dates, signatories and later appeal status; distinguish prosecution monitoring from judicial detention decisions.",
+    "follow_up": "Retrieve the separate MPC order of 3 July 2020 (06-10-0151) and Tmc-BE order of 13 July 2020 (03-13-0018 to 0022), including signatories. The full later judgment establishes this chronology but is not either original order.",
     "checked_on": "2026-10-23",
     "publication_status": "draft_requires_review",
     "ranking": null,
-    "current_procedural_status_verified": false
+    "current_procedural_status_verified": false,
+    "original_release_order_obtained": false,
+    "release_order_references": [
+      {
+        "authority": "Federal prosecution (MPC)",
+        "date": "2020-07-03",
+        "effective_date": "2020-07-13",
+        "file_reference": "06-10-0151",
+        "evidence": "SK.2022.35 section 1.7"
+      },
+      {
+        "authority": "Bern compulsory-measures court (Tmc-BE)",
+        "date": "2020-07-13",
+        "file_reference": "03-13-0018 to 0022",
+        "conditions": 16,
+        "evidence": "SK.2022.35 section 1.8"
+      }
+    ]
   },
   {
     "id": "basel-nasenweg-2024-leave",
@@ -109,12 +128,41 @@
     "nationality": "Turkish",
     "nationality_evidence_status": "Expressly stated in section 7.2; offender remains anonymized",
     "source_urls": [
-      "https://search.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F04-06-2025-6B_298-2025&lang=de&type=show_document&zoom=YES"
+      "https://search.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F04-06-2025-6B_298-2025&lang=de&type=show_document&zoom=YES",
+      "https://www.gerichte-zh.ch/fileadmin/user_upload/entscheide/oeffentlich/SB230597-O1.pdf",
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F06-11-2018-6B_1437-2017&lang=de&type=show_document&zoom=",
+      "https://kanton.baselland.ch/politik-und-behorden/gerichte/rechtsprechung/kantonsgericht_rs/rechtsgebiet/strafrecht/entscheide-2019/2019-05-07-sr-2.pdf"
     ],
-    "follow_up": "Retrieve the 2019 sentencing panel and original 2021 enforcement/protection records. Do not confuse judges reviewing the later murder conviction with officials responsible for earlier sentencing, sentence execution or threat monitoring.",
+    "follow_up": "The 2019 prior sentence and its five-member panel have been recovered through the explicit 6B_1437/2017 case chain. Still obtain the original 2021 enforcement/release record and clarify whether release followed sentence completion, parole or another decision. Do not label the sentencing panel as the releasing officials.",
     "checked_on": "2026-10-23",
     "publication_status": "draft_requires_review",
     "ranking": null,
-    "current_procedural_status_verified": false
+    "current_procedural_status_verified": false,
+    "earlier_case_lead": "SB230597-O1 page 57 cites 6B_1437/2017 (6 November 2018), itself an appeal of BL 460 16 109 (5 April 2017). This is a documentary case-chain link, not identification of the 2021 releasing official.",
+    "original_prior_sentence_obtained": true,
+    "prior_sentence_reference": "460 18 347, 7 May 2019",
+    "prior_sentence_panel": [
+      {
+        "name": "Enrico Rosa",
+        "role": "president"
+      },
+      {
+        "name": "Susanne Afheldt",
+        "role": "judge, reporting member (Ref.)"
+      },
+      {
+        "name": "Stephan Gass",
+        "role": "judge"
+      },
+      {
+        "name": "Helena Hess",
+        "role": "judge"
+      },
+      {
+        "name": "Dominique Steiner",
+        "role": "judge"
+      }
+    ],
+    "prior_sentence_panel_interpretation": "Panel on the published 2019 sentencing judgment, not verified signatories of a 2021 release order; no individual fault finding established."
   }
 ]

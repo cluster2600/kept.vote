@@ -87,7 +87,8 @@ def build(bodies, persons, interests, judges):
     for row in judges:
         identity, court = row['id'], 'court:' + row['court']
         nodes[identity] = {'id': identity, 'type': 'judge', 'label': row['name'], 'court': row['court'],
-                           'annual_payment_chf': row['annual_payment_chf'], 'payment_status': row['payment_status']}
+                           'annual_payment_chf': row['annual_payment_chf'], 'payment_status': row['payment_status'],
+                           'payment_year': row['payment_year'], 'payment_source_urls': row['payment_source_urls']}
         nodes[court] = {'id': court, 'type': 'court', 'label': row['court']}
         edges.append({'id': identity + ':court', 'source': identity, 'target': court, 'type': 'listed_judicial_role',
                       'role_as_published': row['role'], 'observed_on': row['observed_on'], 'source_urls': row['source_urls']})
@@ -116,7 +117,7 @@ def main():
     manifest = {'nodes': len(nodes), 'edges': len(edges),
                 'files': {name: hashlib.sha256((ROOT / name).read_bytes()).hexdigest() for name in
                           ('bodies.jsonl', 'persons.jsonl', 'interests.jsonl', 'federal_judges.json', 'network_nodes.jsonl', 'network_edges.jsonl')},
-                'interpretation': 'As-published relationships; no verified individual payments or legal-entity resolution.'}
+                'interpretation': 'As-published relationships; named party declarations are not bank-audited payments. No legal-entity resolution.'}
     (ROOT / 'network_manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
     print(len(nodes), 'nodes;', len(edges), 'edges')
 

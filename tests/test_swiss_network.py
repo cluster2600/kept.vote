@@ -36,6 +36,32 @@ class JudgeParserTests(unittest.TestCase):
             judges.roster_rows('<p>Unavailable</p>', 'supreme_ordinary', 'https://example.invalid/')
 
 
+class ContributionTests(unittest.TestCase):
+    def test_latest_named_declaration_preserves_year_and_evidence(self):
+        judge = judges.record('Judge', 'supreme', 'Judge', 'https://example.invalid/')
+        evidence = {'judge_id': judge['id'], 'year': 2025, 'amount_chf': 8000,
+                    'source_url': 'https://politikfinanzierung.efk.admin.ch/app/de/party-financings/594/forms/30-42-109',
+                    'status': 'party_declared_on_official_register'}
+        older = dict(evidence, year=2023, amount_chf=7000)
+        unmatched = dict(evidence, year=2024, amount_chf=None, status='no_matching_name_in_consulted_table')
+        judges.apply_contributions([judge], [evidence, older, unmatched])
+        nodes, _ = network.build([], [], [], [judge])
+        self.assertEqual(nodes[0]['annual_payment_chf'], 8000)
+        self.assertEqual(nodes[0]['payment_year'], 2025)
+        self.assertEqual(nodes[0]['payment_source_urls'], [evidence['source_url']])
+        self.assertEqual(nodes[0]['payment_status'], 'official_party_declaration_not_bank_audited')
+
+    def test_invalid_money_or_identity_fails_closed(self):
+        judge = judges.record('Judge', 'supreme', 'Judge', 'https://example.invalid/')
+        evidence = {'judge_id': judge['id'], 'year': 2025, 'amount_chf': 8000,
+                    'source_url': 'https://politikfinanzierung.efk.admin.ch/app/de/party-financings/example',
+                    'status': 'party_declared_on_official_register'}
+        for patch in [{'amount_chf': -1}, {'amount_chf': float('nan')}, {'amount_chf': True},
+                      {'judge_id': 'unknown'}, {'source_url': 'https://example.invalid/'}]:
+            with self.subTest(patch=patch), self.assertRaises(ValueError):
+                judges.apply_contributions([judge], [dict(evidence, **patch)])
+
+
 class NetworkTests(unittest.TestCase):
     def build(self):
         bodies = [{'id': 1, 'country_key': 'CHE'}, {'id': 2, 'country_key': 'LIE'}]

@@ -61,7 +61,11 @@ silently treating a cantonal payment as income of the national party.
 
 Individual fields `annual_payment_chf`, `payment_year` and `payment_source_urls`
 remain null/empty until a specific published source documents that judge, payee,
-period and amount. **No individual payment has been verified.** Never multiply a
+period and amount. The three profiles in `JUDICIAL_PROFILES.md` now have named
+2025 national-party declarations verified in the EFK register. These declarations
+are not bank-audited transfers; all other individual amounts remain unknown.
+Historical matched and unmatched years are retained in
+`judicial_party_contributions.json`. Never multiply a
 party tariff by roster membership to claim actual money transferred. National
 party funding totals likewise cannot be allocated to judges without evidence.
 

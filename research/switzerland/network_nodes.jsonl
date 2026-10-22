@@ -53171,256 +53171,256 @@
 {"id": "organization-label:5e26a08d26276b07b58a", "type": "organization_label_group", "label": "Digital Society Initiative (DSI) der Universität Zürich", "identity_status": "unverified_textual_group_not_legal_entity"}
 {"id": "organization-label:f431ca0ba7a9710bd3b6", "type": "organization_label_group", "label": "Freiberufliche Autorin, Kuratorin und Moderatorin", "identity_status": "unverified_textual_group_not_legal_entity"}
 {"id": "organization-label:4673303959b86c9a77b5", "type": "organization_label_group", "label": "Co-Präsidentin VCS Kanton Bern, Bern", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:d82f787e0591287d3272", "type": "judge", "label": "François CHAIX", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:d82f787e0591287d3272", "type": "judge", "label": "François CHAIX", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "court:supreme", "type": "court", "label": "supreme"}
-{"id": "judge:ebda008a97a0049ee37d", "type": "judge", "label": "Francesco PARRINO", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:38166352b9a2a26787af", "type": "judge", "label": "Bernard ABRECHT", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:0d554d60b2db55cfe920", "type": "judge", "label": "Florence AUBRY GIRARDIN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:7e966143755dc3eb4ab1", "type": "judge", "label": "Michael BEUSCH", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:a8469fad51814e847f33", "type": "judge", "label": "Susanne BOLLINGER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:bb42a489473de66c800d", "type": "judge", "label": "Grégory BOVEY", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9ae14ca45e76f1689fb6", "type": "judge", "label": "Arthur BRUNNER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d215d7c99ddb8eb61c5f", "type": "judge", "label": "Federica DE ROSSA", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:de1112dafbe406ec2e08", "type": "judge", "label": "Christian DENYS", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c15ebe060a39e3a93827", "type": "judge", "label": "Yves DONZALLAZ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:70c17241aa7aef779772", "type": "judge", "label": "Marie-Chantal EDDÉ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:bdb11dace81da460594a", "type": "judge", "label": "David GLASSEY", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6a9548d73f19fd6e6a5b", "type": "judge", "label": "Patrick GUIDON", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:7fdf4538d67e52f3c53a", "type": "judge", "label": "Julia HÄNNI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6d84557b83e5874064b8", "type": "judge", "label": "Stephan HARTMANN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:a703965a8910eb1e40ce", "type": "judge", "label": "Alexia HEINE", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:520388b00e0d5608dc92", "type": "judge", "label": "Yann-Eric HOFMANN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:afc539997723670fe6ae", "type": "judge", "label": "Christoph HURNI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9ad8e67d20395ffdedaf", "type": "judge", "label": "Christian JOSI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:f45daa3c3790643b5cc9", "type": "judge", "label": "Christina KISS", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:aea191185b9376535ba7", "type": "judge", "label": "Lorenz KNEUBÜHLER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b9da2d6b3677e4afed87", "type": "judge", "label": "Sonja KOCH", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b85454b01a77f7f93ff9", "type": "judge", "label": "Christian KÖLZ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:f2de7658ba0340882236", "type": "judge", "label": "Matthias KRADOLFER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:5ceb07534404786a91b5", "type": "judge", "label": "Marcel MAILLARD", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d5450d7b5210cd42733e", "type": "judge", "label": "Laurent MERZ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b6967eb9c4327207005c", "type": "judge", "label": "Jean MÉTRAL", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:975a6be34d375e078f75", "type": "judge", "label": "Margit MOSER-SZELESS", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d190c866af415c51dfd7", "type": "judge", "label": "Thomas MÜLLER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:daa8cf1d5c7738db9c3d", "type": "judge", "label": "Giuseppe MUSCHIETTI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e7fb1a1c23030581ee36", "type": "judge", "label": "Yves RÜEDI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:484b060a9e6e8f86a179", "type": "judge", "label": "Marianne RYTER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e472ab64445da2ce0462", "type": "judge", "label": "Karin SCHERRER REBER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9981ec72d4b4c33dd224", "type": "judge", "label": "Thomas STADELMANN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d4f7eafec95bc5dad1fa", "type": "judge", "label": "Daniela THURNHERR KELLER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:4646392ca8760fe5f05c", "type": "judge", "label": "Beatrice VAN DE GRAAF", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:bb1d3e755341792dab07", "type": "judge", "label": "Daniela VISCIONE", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:a89906a6a0bde28ded7c", "type": "judge", "label": "Rolf VON FELTEN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c0ab3a47596c30755f24", "type": "judge", "label": "Sandra WOHLHAUSER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:4aec58814c87afcb8784", "type": "judge", "label": "Richard WEBER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b559e44d1cfe863ba50f", "type": "judge", "label": "Tanja PETRIK-HALTINER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e32821ad1aeb49d36d51", "type": "judge", "label": "Athos MECCA", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:50686ef094467b8d6450", "type": "judge", "label": "Christoph BÜRKI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:1ee4790d8d5e0c8fd125", "type": "judge", "label": "Dominique HÄNNI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:bbf84a137fc210b8b91e", "type": "judge", "label": "Markus BERGER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:3389ee95c7f4d1b91800", "type": "judge", "label": "Vincent MARTENET", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e9796493191d8cf625e4", "type": "judge", "label": "Fabrizio MONACI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:de97edd5ab477b80c351", "type": "judge", "label": "Sarah BECHAALANY", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b63771a069492aa547ed", "type": "judge", "label": "Serge SEGURA", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6374c731b5d664cd6b80", "type": "judge", "label": "Mattia PONTAROLO", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e2150d0c1914eca93f56", "type": "judge", "label": "Christine ARNDT", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:cd3b368d5b5da16504e4", "type": "judge", "label": "Catherine REITER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e1031d75f08514957b8f", "type": "judge", "label": "Céline COURBAT", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:2be1f1bdd10bd75e1f4c", "type": "judge", "label": "Cordula LÖTSCHER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9bbe0bfc2618c1e03870", "type": "judge", "label": "Leonora MARTI-SCHREIER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:f8038ebb9b56babfb4a5", "type": "judge", "label": "Patrick BISCHOFF", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:7470cc3b735471b06168", "type": "judge", "label": "Caroline SCHÄR", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c785baa64ec1fb1ea7d3", "type": "judge", "label": "Yannick Antoniazza-Hafner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:ebda008a97a0049ee37d", "type": "judge", "label": "Francesco PARRINO", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:38166352b9a2a26787af", "type": "judge", "label": "Bernard ABRECHT", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:0d554d60b2db55cfe920", "type": "judge", "label": "Florence AUBRY GIRARDIN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:7e966143755dc3eb4ab1", "type": "judge", "label": "Michael BEUSCH", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:a8469fad51814e847f33", "type": "judge", "label": "Susanne BOLLINGER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:bb42a489473de66c800d", "type": "judge", "label": "Grégory BOVEY", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:9ae14ca45e76f1689fb6", "type": "judge", "label": "Arthur BRUNNER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d215d7c99ddb8eb61c5f", "type": "judge", "label": "Federica DE ROSSA", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:de1112dafbe406ec2e08", "type": "judge", "label": "Christian DENYS", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c15ebe060a39e3a93827", "type": "judge", "label": "Yves DONZALLAZ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:70c17241aa7aef779772", "type": "judge", "label": "Marie-Chantal EDDÉ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:bdb11dace81da460594a", "type": "judge", "label": "David GLASSEY", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6a9548d73f19fd6e6a5b", "type": "judge", "label": "Patrick GUIDON", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:7fdf4538d67e52f3c53a", "type": "judge", "label": "Julia HÄNNI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6d84557b83e5874064b8", "type": "judge", "label": "Stephan HARTMANN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:a703965a8910eb1e40ce", "type": "judge", "label": "Alexia HEINE", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:520388b00e0d5608dc92", "type": "judge", "label": "Yann-Eric HOFMANN", "court": "supreme", "annual_payment_chf": 6000, "payment_status": "official_party_declaration_not_bank_audited", "payment_year": 2025, "payment_source_urls": ["https://politikfinanzierung.efk.admin.ch/app/de/party-financings/593/forms/30-59-109"]}
+{"id": "judge:afc539997723670fe6ae", "type": "judge", "label": "Christoph HURNI", "court": "supreme", "annual_payment_chf": 13020, "payment_status": "official_party_declaration_not_bank_audited", "payment_year": 2025, "payment_source_urls": ["https://politikfinanzierung.efk.admin.ch/app/de/party-financings/590/forms/30-33-109"]}
+{"id": "judge:9ad8e67d20395ffdedaf", "type": "judge", "label": "Christian JOSI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:f45daa3c3790643b5cc9", "type": "judge", "label": "Christina KISS", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:aea191185b9376535ba7", "type": "judge", "label": "Lorenz KNEUBÜHLER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b9da2d6b3677e4afed87", "type": "judge", "label": "Sonja KOCH", "court": "supreme", "annual_payment_chf": 8000, "payment_status": "official_party_declaration_not_bank_audited", "payment_year": 2025, "payment_source_urls": ["https://politikfinanzierung.efk.admin.ch/app/de/party-financings/594/forms/30-42-109"]}
+{"id": "judge:b85454b01a77f7f93ff9", "type": "judge", "label": "Christian KÖLZ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:f2de7658ba0340882236", "type": "judge", "label": "Matthias KRADOLFER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:5ceb07534404786a91b5", "type": "judge", "label": "Marcel MAILLARD", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d5450d7b5210cd42733e", "type": "judge", "label": "Laurent MERZ", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b6967eb9c4327207005c", "type": "judge", "label": "Jean MÉTRAL", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:975a6be34d375e078f75", "type": "judge", "label": "Margit MOSER-SZELESS", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d190c866af415c51dfd7", "type": "judge", "label": "Thomas MÜLLER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:daa8cf1d5c7738db9c3d", "type": "judge", "label": "Giuseppe MUSCHIETTI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e7fb1a1c23030581ee36", "type": "judge", "label": "Yves RÜEDI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:484b060a9e6e8f86a179", "type": "judge", "label": "Marianne RYTER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e472ab64445da2ce0462", "type": "judge", "label": "Karin SCHERRER REBER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:9981ec72d4b4c33dd224", "type": "judge", "label": "Thomas STADELMANN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d4f7eafec95bc5dad1fa", "type": "judge", "label": "Daniela THURNHERR KELLER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:4646392ca8760fe5f05c", "type": "judge", "label": "Beatrice VAN DE GRAAF", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:bb1d3e755341792dab07", "type": "judge", "label": "Daniela VISCIONE", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:a89906a6a0bde28ded7c", "type": "judge", "label": "Rolf VON FELTEN", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c0ab3a47596c30755f24", "type": "judge", "label": "Sandra WOHLHAUSER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:4aec58814c87afcb8784", "type": "judge", "label": "Richard WEBER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b559e44d1cfe863ba50f", "type": "judge", "label": "Tanja PETRIK-HALTINER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e32821ad1aeb49d36d51", "type": "judge", "label": "Athos MECCA", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:50686ef094467b8d6450", "type": "judge", "label": "Christoph BÜRKI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:1ee4790d8d5e0c8fd125", "type": "judge", "label": "Dominique HÄNNI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:bbf84a137fc210b8b91e", "type": "judge", "label": "Markus BERGER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:3389ee95c7f4d1b91800", "type": "judge", "label": "Vincent MARTENET", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e9796493191d8cf625e4", "type": "judge", "label": "Fabrizio MONACI", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:de97edd5ab477b80c351", "type": "judge", "label": "Sarah BECHAALANY", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b63771a069492aa547ed", "type": "judge", "label": "Serge SEGURA", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6374c731b5d664cd6b80", "type": "judge", "label": "Mattia PONTAROLO", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e2150d0c1914eca93f56", "type": "judge", "label": "Christine ARNDT", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:cd3b368d5b5da16504e4", "type": "judge", "label": "Catherine REITER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e1031d75f08514957b8f", "type": "judge", "label": "Céline COURBAT", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:2be1f1bdd10bd75e1f4c", "type": "judge", "label": "Cordula LÖTSCHER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:9bbe0bfc2618c1e03870", "type": "judge", "label": "Leonora MARTI-SCHREIER", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:f8038ebb9b56babfb4a5", "type": "judge", "label": "Patrick BISCHOFF", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:7470cc3b735471b06168", "type": "judge", "label": "Caroline SCHÄR", "court": "supreme", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c785baa64ec1fb1ea7d3", "type": "judge", "label": "Yannick Antoniazza-Hafner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "court:administrative", "type": "court", "label": "administrative"}
 {"id": "party:a2ee4119c0a40e57bcda", "type": "party", "label": "PBD (Le Centre)"}
-{"id": "judge:7ce3438889212ffb6597", "type": "judge", "label": "Christine Ackermann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:7ce3438889212ffb6597", "type": "judge", "label": "Christine Ackermann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "party:8d3258759eed62190cb0", "type": "party", "label": "PDC (Le Centre)"}
-{"id": "judge:b6f142ca9b2fcdddd933", "type": "judge", "label": "Pietro Angeli-Busi", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:88b7ef239f04def4a01c", "type": "judge", "label": "Emilia Antonioni Luftensteiner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:29db32d431fd882d0170", "type": "judge", "label": "David Aschmann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:cb9bf58c21accf81ae23", "type": "judge", "label": "Jonas Attenhofer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:3c9d363b1e2e0444be5d", "type": "judge", "label": "Barbara Balmelli-Mühlematter", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c76debb3bbbb7dbd8abc", "type": "judge", "label": "Caroline Bissegger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:a97f3f43630bf0e5dd89", "type": "judge", "label": "Susanne Bolz-Reimann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:4af973547342fdc92585", "type": "judge", "label": "Manuel Borla", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:82af01401338edb699c9", "type": "judge", "label": "Gérald Bovier", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6855e173f62b5f34485c", "type": "judge", "label": "Daniela Brüschweiler", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:08bf6f3d2f0aec34c4cc", "type": "judge", "label": "Michela Bürki Moreni", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:5d7f3328fb105c2524ad", "type": "judge", "label": "Jérôme Candrian", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:85c857b7f29e84afc16b", "type": "judge", "label": "Daniele Cattaneo", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:11762b57c8089f3a4487", "type": "judge", "label": "Gregor Chatton", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:68721349abd40dedf992", "type": "judge", "label": "Claudia Cotting-Schalch", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:5eee7a812b837e77e402", "type": "judge", "label": "Basil Cupa", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:5bd04167026c298123a0", "type": "judge", "label": "Deborah D'Aveni", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:91a912cea65aba7c7905", "type": "judge", "label": "Regina Derrer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:5578df05f85e2955adeb", "type": "judge", "label": "Kathrin Dietrich", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:68a33c55652db9a375e2", "type": "judge", "label": "Philipp Egli", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:038c73e129ca94c20ab2", "type": "judge", "label": "Selin Elmiger-Necipoglu", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c5cdce87d92a389c0c10", "type": "judge", "label": "Christoph Errass", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:601bf53eb1e2810d94b4", "type": "judge", "label": "Yanick Felley", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:09735e5ad91d4b97a65d", "type": "judge", "label": "Gabriela Freihofer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:3a579705403ba4c5baaa", "type": "judge", "label": "Mia Fuchs", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:a57ada0976e0fd178e9d", "type": "judge", "label": "Caroline Gehring", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:936587387b1772efb2df", "type": "judge", "label": "Susanne Genner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:5a7e962b7b242412c033", "type": "judge", "label": "Kaspar Gerber", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:73c7ed562e091e200bb0", "type": "judge", "label": "Viktoria Helfenstein", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:7113418422f383554fa3", "type": "judge", "label": "Madeleine Hirsig-Vouilloz", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b8e21711b7bb735b1b1b", "type": "judge", "label": "Eva Hostettler", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9a0e0ff21032956b4843", "type": "judge", "label": "Ralf Imstepf", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d8ba3122193cc5c7f7fa", "type": "judge", "label": "Sebastian Kempe", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:5292854f6154ecd1c55e", "type": "judge", "label": "Walter Lang", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:f6676b0b2afde144fae3", "type": "judge", "label": "Mathias Lanz", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:304b56bade79c06d955b", "type": "judge", "label": "Constance Leisinger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:f9676b9a1648f933a394", "type": "judge", "label": "Lucien Philippe Magne", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:1bcb976e922ac5ba8967", "type": "judge", "label": "Vera Maria Marantelli-Sonanini", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:708348aa40b956eb9e3d", "type": "judge", "label": "Giulia Marelli", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:421f89be9a1ac1fd350e", "type": "judge", "label": "Camilla Mariethoz Wyssen", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:0aa9dda33018315059f7", "type": "judge", "label": "Esther Marti", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:1aec075c74c6c3c9285c", "type": "judge", "label": "Stephan Metzger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d8c23600183fac57c2c2", "type": "judge", "label": "Alexander Misic", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:84e41da32357a172d44e", "type": "judge", "label": "Lukas Müller", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:2e3708487ba36870b27a", "type": "judge", "label": "Keita Mutombo", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:afd387c2ad1b974ccf3a", "type": "judge", "label": "Lorenz Noli", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d88c53eea52103e9d992", "type": "judge", "label": "Claudia Pasqualetto Péquignot", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6d8f58d918111281bd4a", "type": "judge", "label": "Roswitha Petry", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:71679654ae22c1de9751", "type": "judge", "label": "Chiara Piras", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9868eedee59a679b2d66", "type": "judge", "label": "Christa Preisig", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:726f5c6ed71faff331ab", "type": "judge", "label": "Pascal Richard", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b89e26852f5ff77e9365", "type": "judge", "label": "Vincent Rittener", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:8cce0d76b8512ee25287", "type": "judge", "label": "Annie Rochat Pauchard", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b111e00607a67d3c0835", "type": "judge", "label": "Christoph Rohrer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:1386350c99b500d1954b", "type": "judge", "label": "Pierre-Emmanuel Ruedin", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:1287977b0c253e6cd2bf", "type": "judge", "label": "Grégory Sauder", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e01d555fb92600863fd2", "type": "judge", "label": "Regula Schenker Senn", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e3f1f206fc283d7c87fc", "type": "judge", "label": "Jeannine Scherrer-Bänziger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:bbff1e44f795bef598c6", "type": "judge", "label": "Eva Schneeberger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:4b321bb777beaf5536fa", "type": "judge", "label": "Thomas Segessenmann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:faf3a6cc5dfaf9f250a8", "type": "judge", "label": "Nina Spälti Giannakitsas", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:0de82f32a27d6073fe3a", "type": "judge", "label": "Jürg Steiger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b489164c61f702fb4a2c", "type": "judge", "label": "Marc Steiner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:4de52422258a1abf67ac", "type": "judge", "label": "Contessina Theis", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c905700b32f10b30d890", "type": "judge", "label": "Julien Theubet", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:179f7229f1c31eb7a8fc", "type": "judge", "label": "Simon Mathias Thurnheer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6c65898b5a5e5cd0a6f9", "type": "judge", "label": "Jürg Marcel Tiefenthal", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:7cade81f31b2f6184251", "type": "judge", "label": "Chrystel Tornare Villanueva", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:45f62958865d70f91a7f", "type": "judge", "label": "Aileen Truttmann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:3450766485cb8abbeb78", "type": "judge", "label": "Vito Valenti", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:984f30b04d5e3ebed5f4", "type": "judge", "label": "William Waeber", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b51d2ae3a7f32ddb0df1", "type": "judge", "label": "Beat Weber", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:2b6787dc3b98f243b335", "type": "judge", "label": "David Weiss", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e93b710bda6f707a861a", "type": "judge", "label": "David R. Wenger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c272843337d9953f402c", "type": "judge", "label": "Iris Widmer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e199279c56b5620f17cb", "type": "judge", "label": "Daniel Willisegger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b221b4626be9fc9b94e0", "type": "judge", "label": "Christian Winiger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:687e9587f64b79ea7173", "type": "judge", "label": "Julien ​Theubet", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:175d7ec25e776d3ad6c0", "type": "judge", "label": "Albisetti Bernasconi Maurizio", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:b6f142ca9b2fcdddd933", "type": "judge", "label": "Pietro Angeli-Busi", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:88b7ef239f04def4a01c", "type": "judge", "label": "Emilia Antonioni Luftensteiner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:29db32d431fd882d0170", "type": "judge", "label": "David Aschmann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:cb9bf58c21accf81ae23", "type": "judge", "label": "Jonas Attenhofer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:3c9d363b1e2e0444be5d", "type": "judge", "label": "Barbara Balmelli-Mühlematter", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c76debb3bbbb7dbd8abc", "type": "judge", "label": "Caroline Bissegger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:a97f3f43630bf0e5dd89", "type": "judge", "label": "Susanne Bolz-Reimann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:4af973547342fdc92585", "type": "judge", "label": "Manuel Borla", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:82af01401338edb699c9", "type": "judge", "label": "Gérald Bovier", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6855e173f62b5f34485c", "type": "judge", "label": "Daniela Brüschweiler", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:08bf6f3d2f0aec34c4cc", "type": "judge", "label": "Michela Bürki Moreni", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:5d7f3328fb105c2524ad", "type": "judge", "label": "Jérôme Candrian", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:85c857b7f29e84afc16b", "type": "judge", "label": "Daniele Cattaneo", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:11762b57c8089f3a4487", "type": "judge", "label": "Gregor Chatton", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:68721349abd40dedf992", "type": "judge", "label": "Claudia Cotting-Schalch", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:5eee7a812b837e77e402", "type": "judge", "label": "Basil Cupa", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:5bd04167026c298123a0", "type": "judge", "label": "Deborah D'Aveni", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:91a912cea65aba7c7905", "type": "judge", "label": "Regina Derrer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:5578df05f85e2955adeb", "type": "judge", "label": "Kathrin Dietrich", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:68a33c55652db9a375e2", "type": "judge", "label": "Philipp Egli", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:038c73e129ca94c20ab2", "type": "judge", "label": "Selin Elmiger-Necipoglu", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c5cdce87d92a389c0c10", "type": "judge", "label": "Christoph Errass", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:601bf53eb1e2810d94b4", "type": "judge", "label": "Yanick Felley", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:09735e5ad91d4b97a65d", "type": "judge", "label": "Gabriela Freihofer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:3a579705403ba4c5baaa", "type": "judge", "label": "Mia Fuchs", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:a57ada0976e0fd178e9d", "type": "judge", "label": "Caroline Gehring", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:936587387b1772efb2df", "type": "judge", "label": "Susanne Genner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:5a7e962b7b242412c033", "type": "judge", "label": "Kaspar Gerber", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:73c7ed562e091e200bb0", "type": "judge", "label": "Viktoria Helfenstein", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:7113418422f383554fa3", "type": "judge", "label": "Madeleine Hirsig-Vouilloz", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b8e21711b7bb735b1b1b", "type": "judge", "label": "Eva Hostettler", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:9a0e0ff21032956b4843", "type": "judge", "label": "Ralf Imstepf", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d8ba3122193cc5c7f7fa", "type": "judge", "label": "Sebastian Kempe", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:5292854f6154ecd1c55e", "type": "judge", "label": "Walter Lang", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:f6676b0b2afde144fae3", "type": "judge", "label": "Mathias Lanz", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:304b56bade79c06d955b", "type": "judge", "label": "Constance Leisinger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:f9676b9a1648f933a394", "type": "judge", "label": "Lucien Philippe Magne", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:1bcb976e922ac5ba8967", "type": "judge", "label": "Vera Maria Marantelli-Sonanini", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:708348aa40b956eb9e3d", "type": "judge", "label": "Giulia Marelli", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:421f89be9a1ac1fd350e", "type": "judge", "label": "Camilla Mariethoz Wyssen", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:0aa9dda33018315059f7", "type": "judge", "label": "Esther Marti", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:1aec075c74c6c3c9285c", "type": "judge", "label": "Stephan Metzger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d8c23600183fac57c2c2", "type": "judge", "label": "Alexander Misic", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:84e41da32357a172d44e", "type": "judge", "label": "Lukas Müller", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:2e3708487ba36870b27a", "type": "judge", "label": "Keita Mutombo", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:afd387c2ad1b974ccf3a", "type": "judge", "label": "Lorenz Noli", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d88c53eea52103e9d992", "type": "judge", "label": "Claudia Pasqualetto Péquignot", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6d8f58d918111281bd4a", "type": "judge", "label": "Roswitha Petry", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:71679654ae22c1de9751", "type": "judge", "label": "Chiara Piras", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:9868eedee59a679b2d66", "type": "judge", "label": "Christa Preisig", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:726f5c6ed71faff331ab", "type": "judge", "label": "Pascal Richard", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b89e26852f5ff77e9365", "type": "judge", "label": "Vincent Rittener", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:8cce0d76b8512ee25287", "type": "judge", "label": "Annie Rochat Pauchard", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b111e00607a67d3c0835", "type": "judge", "label": "Christoph Rohrer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:1386350c99b500d1954b", "type": "judge", "label": "Pierre-Emmanuel Ruedin", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:1287977b0c253e6cd2bf", "type": "judge", "label": "Grégory Sauder", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e01d555fb92600863fd2", "type": "judge", "label": "Regula Schenker Senn", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e3f1f206fc283d7c87fc", "type": "judge", "label": "Jeannine Scherrer-Bänziger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:bbff1e44f795bef598c6", "type": "judge", "label": "Eva Schneeberger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:4b321bb777beaf5536fa", "type": "judge", "label": "Thomas Segessenmann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:faf3a6cc5dfaf9f250a8", "type": "judge", "label": "Nina Spälti Giannakitsas", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:0de82f32a27d6073fe3a", "type": "judge", "label": "Jürg Steiger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b489164c61f702fb4a2c", "type": "judge", "label": "Marc Steiner", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:4de52422258a1abf67ac", "type": "judge", "label": "Contessina Theis", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c905700b32f10b30d890", "type": "judge", "label": "Julien Theubet", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:179f7229f1c31eb7a8fc", "type": "judge", "label": "Simon Mathias Thurnheer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6c65898b5a5e5cd0a6f9", "type": "judge", "label": "Jürg Marcel Tiefenthal", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:7cade81f31b2f6184251", "type": "judge", "label": "Chrystel Tornare Villanueva", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:45f62958865d70f91a7f", "type": "judge", "label": "Aileen Truttmann", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:3450766485cb8abbeb78", "type": "judge", "label": "Vito Valenti", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:984f30b04d5e3ebed5f4", "type": "judge", "label": "William Waeber", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b51d2ae3a7f32ddb0df1", "type": "judge", "label": "Beat Weber", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:2b6787dc3b98f243b335", "type": "judge", "label": "David Weiss", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e93b710bda6f707a861a", "type": "judge", "label": "David R. Wenger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c272843337d9953f402c", "type": "judge", "label": "Iris Widmer", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e199279c56b5620f17cb", "type": "judge", "label": "Daniel Willisegger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b221b4626be9fc9b94e0", "type": "judge", "label": "Christian Winiger", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:687e9587f64b79ea7173", "type": "judge", "label": "Julien ​Theubet", "court": "administrative", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:175d7ec25e776d3ad6c0", "type": "judge", "label": "Albisetti Bernasconi Maurizio", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "court:criminal", "type": "court", "label": "criminal"}
-{"id": "judge:d5f45b0f299b0930a7e9", "type": "judge", "label": "Bacher Jean-Luc", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:85cd816be19b10fbd54b", "type": "judge", "label": "Bergomi Fiorenza", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:773674cfb1876cbd22b1", "type": "judge", "label": "Blum Andrea", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:043cb948b50becaa630b", "type": "judge", "label": "Bouverat David", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e020fc51a819c1ada50b", "type": "judge", "label": "Contu Albrizio Joséphine", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:8a12fe8f912917ec6141", "type": "judge", "label": "Demont Maric", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:43b69acd41e3cc1e57f3", "type": "judge", "label": "Ermotti Andrea", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:65c15ce536b18d5c673d", "type": "judge", "label": "Fabbri Alberto", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d6f69657c1caed8e76f9", "type": "judge", "label": "Forni Miriam", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c0855b7912d34fda1bce", "type": "judge", "label": "Garré Roy", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:b660c8bb74ef89b09c63", "type": "judge", "label": "Heimgartner Stefan", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6c1688e2ab722e3550a0", "type": "judge", "label": "Krummenacher Fiona", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:8463e69dd2c91ca4a831", "type": "judge", "label": "Robert-Nicoud Patrick", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:876576f04b43b07eea0e", "type": "judge", "label": "Ros Jean-Paul", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:f9ac27eaf23c498a6c1f", "type": "judge", "label": "Stump Wendt Brigitte", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:717dea7f2bb58663a4d1", "type": "judge", "label": "Stupf Martin", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:26faaa551d5fa49c5c75", "type": "judge", "label": "Thormann Olivier", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:bc546c21b51a397fc2a1", "type": "judge", "label": "Ulrich Felix", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:a7efbb9618d923bdf9ee", "type": "judge", "label": "Zenger Stephan", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:3bc98f8c7af57dff87af", "type": "judge", "label": "Zufferey Nathalie", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:af435088f289917fcb50", "type": "judge", "label": "Bino Maria-Antonella", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d9cde31ca93eccbbf128", "type": "judge", "label": "Bütikofer Repond Frédérique", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:fcfecb256f55cc5af7a8", "type": "judge", "label": "Frischknecht Thomas (Tom)", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c5fb41f5888679afaca4", "type": "judge", "label": "Galliker Monica", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:fa023db0b6a9d2b77843", "type": "judge", "label": "Giovannone-Hofmann Katharina", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:06a4cf19674a193be958", "type": "judge", "label": "Kolvodouris Janett Beatrice", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:7eff1c0b91f3fb3d5250", "type": "judge", "label": "Loppacher Barbara", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:89e882a530597d09bd9a", "type": "judge", "label": "Pasi Pierluigi", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:e2a84398bd19087c592f", "type": "judge", "label": "Perrin Bertrand", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c7c5b2f8321c275c19b9", "type": "judge", "label": "Stucki Marcia", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:cdc9f1148dc13480d3a7", "type": "judge", "label": "Urwyler Adrian Peter", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:233a9b9b70a8658eae24", "type": "judge", "label": "Venetz Petra", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:d24080fd4fb00b1ae182", "type": "judge", "label": "Verniory Jean-Marc", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:802d4331bc45a7fffb7f", "type": "judge", "label": "Mark Schweizer", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:d5f45b0f299b0930a7e9", "type": "judge", "label": "Bacher Jean-Luc", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:85cd816be19b10fbd54b", "type": "judge", "label": "Bergomi Fiorenza", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:773674cfb1876cbd22b1", "type": "judge", "label": "Blum Andrea", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:043cb948b50becaa630b", "type": "judge", "label": "Bouverat David", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e020fc51a819c1ada50b", "type": "judge", "label": "Contu Albrizio Joséphine", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:8a12fe8f912917ec6141", "type": "judge", "label": "Demont Maric", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:43b69acd41e3cc1e57f3", "type": "judge", "label": "Ermotti Andrea", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:65c15ce536b18d5c673d", "type": "judge", "label": "Fabbri Alberto", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d6f69657c1caed8e76f9", "type": "judge", "label": "Forni Miriam", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c0855b7912d34fda1bce", "type": "judge", "label": "Garré Roy", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:b660c8bb74ef89b09c63", "type": "judge", "label": "Heimgartner Stefan", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6c1688e2ab722e3550a0", "type": "judge", "label": "Krummenacher Fiona", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:8463e69dd2c91ca4a831", "type": "judge", "label": "Robert-Nicoud Patrick", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:876576f04b43b07eea0e", "type": "judge", "label": "Ros Jean-Paul", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:f9ac27eaf23c498a6c1f", "type": "judge", "label": "Stump Wendt Brigitte", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:717dea7f2bb58663a4d1", "type": "judge", "label": "Stupf Martin", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:26faaa551d5fa49c5c75", "type": "judge", "label": "Thormann Olivier", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:bc546c21b51a397fc2a1", "type": "judge", "label": "Ulrich Felix", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:a7efbb9618d923bdf9ee", "type": "judge", "label": "Zenger Stephan", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:3bc98f8c7af57dff87af", "type": "judge", "label": "Zufferey Nathalie", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:af435088f289917fcb50", "type": "judge", "label": "Bino Maria-Antonella", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d9cde31ca93eccbbf128", "type": "judge", "label": "Bütikofer Repond Frédérique", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:fcfecb256f55cc5af7a8", "type": "judge", "label": "Frischknecht Thomas (Tom)", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c5fb41f5888679afaca4", "type": "judge", "label": "Galliker Monica", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:fa023db0b6a9d2b77843", "type": "judge", "label": "Giovannone-Hofmann Katharina", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:06a4cf19674a193be958", "type": "judge", "label": "Kolvodouris Janett Beatrice", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:7eff1c0b91f3fb3d5250", "type": "judge", "label": "Loppacher Barbara", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:89e882a530597d09bd9a", "type": "judge", "label": "Pasi Pierluigi", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:e2a84398bd19087c592f", "type": "judge", "label": "Perrin Bertrand", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c7c5b2f8321c275c19b9", "type": "judge", "label": "Stucki Marcia", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:cdc9f1148dc13480d3a7", "type": "judge", "label": "Urwyler Adrian Peter", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:233a9b9b70a8658eae24", "type": "judge", "label": "Venetz Petra", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:d24080fd4fb00b1ae182", "type": "judge", "label": "Verniory Jean-Marc", "court": "criminal", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:802d4331bc45a7fffb7f", "type": "judge", "label": "Mark Schweizer", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "court:patent", "type": "court", "label": "patent"}
-{"id": "judge:03ca98ecad18790396b0", "type": "judge", "label": "Tobias Bremi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:03ca98ecad18790396b0", "type": "judge", "label": "Tobias Bremi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:2692f81327aaf1edc172", "type": "organization_label_group", "label": "Isler & Pedrazzini AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:bdb89de8e4d41961199c", "type": "judge", "label": "Frank Schnyder", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:bdb89de8e4d41961199c", "type": "judge", "label": "Frank Schnyder", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:6b06c4c3a0cfc837e30a", "type": "organization_label_group", "label": "Société des Produits Nestlé S.A.", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:f8d7185308c25674e1d1", "type": "judge", "label": "Natalia Clerc", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:f45ab81017ec7b80a2cb", "type": "judge", "label": "Roland Dux", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:f8d7185308c25674e1d1", "type": "judge", "label": "Natalia Clerc", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:f45ab81017ec7b80a2cb", "type": "judge", "label": "Roland Dux", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:5e140188c4fa6a24277e", "type": "organization_label_group", "label": "DSM-Firmenich AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:2339a76b71c02f25de7c", "type": "judge", "label": "Susanne Finklenburg", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:2339a76b71c02f25de7c", "type": "judge", "label": "Susanne Finklenburg", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:a532771c5fa5946618de", "type": "organization_label_group", "label": "mylife DiabetesCare (vorher Ypsomed Diabetes Care AG )", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:1fc55917404676c02f1a", "type": "judge", "label": "Giovanni Gervasio", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:1fc55917404676c02f1a", "type": "judge", "label": "Giovanni Gervasio", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:cdf963f4e36e90521f0e", "type": "organization_label_group", "label": "P&TS SA", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:6fe896b11d3205b5cd4d", "type": "judge", "label": "Barbara Herren", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9549f13a4c3aa354b517", "type": "judge", "label": "Michael Kaufmann", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:6fe896b11d3205b5cd4d", "type": "judge", "label": "Barbara Herren", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:9549f13a4c3aa354b517", "type": "judge", "label": "Michael Kaufmann", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:13fea86dfa24f6060eb5", "type": "organization_label_group", "label": "bis 30.04.2026: BOHEST", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:854fae434946a0d0c724", "type": "judge", "label": "Stephan Kessler", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:854fae434946a0d0c724", "type": "judge", "label": "Stephan Kessler", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:4186b1f7267a6960453e", "type": "organization_label_group", "label": "Keller Schneider Patent- und Markenanwälte AG (Bern)", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:35d2a8f24341c635d007", "type": "judge", "label": "Alfred Koepf", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:35d2a8f24341c635d007", "type": "judge", "label": "Alfred Koepf", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:450e8520d8ba09b43f0b", "type": "organization_label_group", "label": "Rentsch Partner AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:5e8e66f70ad460e71a09", "type": "judge", "label": "Christoph Müller", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:5e8e66f70ad460e71a09", "type": "judge", "label": "Christoph Müller", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:ad629061e6f696977f50", "type": "organization_label_group", "label": "Hepp Wenger Ryffel AG (ab 01.01.2026 als “Of Counsel”)", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:9d939a9d4384a6f154b1", "type": "judge", "label": "Markus A. Müller-Kägi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:9d939a9d4384a6f154b1", "type": "judge", "label": "Markus A. Müller-Kägi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:a648af8cc2c60923c0dc", "type": "organization_label_group", "label": "Frei Patentanwaltsbüro", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:b0104414e7c64e2f7567", "type": "judge", "label": "Lorenzo Parrini", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:b0104414e7c64e2f7567", "type": "judge", "label": "Lorenzo Parrini", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:fce007c204272c776987", "type": "organization_label_group", "label": "Philip Morris Products SA", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:c9a7ea4f05106515c4f4", "type": "judge", "label": "Lorena Piticco", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:9be4b64a7497a0f10b4f", "type": "judge", "label": "André Roland", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:c9a7ea4f05106515c4f4", "type": "judge", "label": "Lorena Piticco", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:9be4b64a7497a0f10b4f", "type": "judge", "label": "André Roland", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:e177dffc2e35b70b86c8", "type": "organization_label_group", "label": "André Roland SA", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:9b16cbd0c92d258f24ca", "type": "judge", "label": "Susanna Ruder", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:9b16cbd0c92d258f24ca", "type": "judge", "label": "Susanna Ruder", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:ab6a05d91b7115a18d1d", "type": "organization_label_group", "label": "Hepp Wenger Ryffel AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:aee9d78a7091d50358b0", "type": "judge", "label": "Philipp Rüfenacht", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:515ec22b46ef8fdc17d0", "type": "judge", "label": "Christophe Saam", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:44522b2fc242833c581f", "type": "judge", "label": "Frank Schager", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:aee9d78a7091d50358b0", "type": "judge", "label": "Philipp Rüfenacht", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:515ec22b46ef8fdc17d0", "type": "judge", "label": "Christophe Saam", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:44522b2fc242833c581f", "type": "judge", "label": "Frank Schager", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:5f2ec14067a468c15e12", "type": "organization_label_group", "label": "Johnson & Johnson", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:0bd95256337df67cc215", "type": "judge", "label": "Andreas Schöllhorn Savary", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:0bd95256337df67cc215", "type": "judge", "label": "Andreas Schöllhorn Savary", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:5d10d77f2219c81604d9", "type": "organization_label_group", "label": "Latscha Schöllhorn Partner AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:839a178ca4e8abc4df33", "type": "judge", "label": "Martin Sperrle", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:c1ac6ca2b6e4f63d2e02", "type": "judge", "label": "Hannes Spillmann", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:6d4ae10fd7556957f3ec", "type": "judge", "label": "Michael Störzbach", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:839a178ca4e8abc4df33", "type": "judge", "label": "Martin Sperrle", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:c1ac6ca2b6e4f63d2e02", "type": "judge", "label": "Hannes Spillmann", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:6d4ae10fd7556957f3ec", "type": "judge", "label": "Michael Störzbach", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:0b0cecf3ae0b1689012d", "type": "organization_label_group", "label": "Ammann Patentanwälte AG Bern , Teil der IPS Irsch Group", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:284bf595b64f37fae129", "type": "judge", "label": "Kurt Sutter", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:284bf595b64f37fae129", "type": "judge", "label": "Kurt Sutter", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:5e6e64f0cccfef1ef65c", "type": "organization_label_group", "label": "E. Blum & Co. AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:0949d6ef95c1dba1d7f8", "type": "judge", "label": "Diego Vergani", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:0949d6ef95c1dba1d7f8", "type": "judge", "label": "Diego Vergani", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:feb08fb44af2528b490a", "type": "organization_label_group", "label": "Pharma Patents International AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:238497cec10c482e1c17", "type": "judge", "label": "Daniel Vogel", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
-{"id": "judge:3b74b816b829e72766f4", "type": "judge", "label": "Prisca von Ballmoos", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:238497cec10c482e1c17", "type": "judge", "label": "Daniel Vogel", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
+{"id": "judge:3b74b816b829e72766f4", "type": "judge", "label": "Prisca von Ballmoos", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:9a88874d5f0678ace124", "type": "organization_label_group", "label": "Ares Trading SA, eine Tochtergesellschaft von Merck Serono SA", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:767881a49c81f81aaf81", "type": "judge", "label": "André Werner", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:767881a49c81f81aaf81", "type": "judge", "label": "André Werner", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:3655b1f95a3a75974f37", "type": "organization_label_group", "label": "PATERA-IP AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:d9a447a3d4506d618fda", "type": "judge", "label": "Marco Zardi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:d9a447a3d4506d618fda", "type": "judge", "label": "Marco Zardi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:22076da5868ab97cdcae", "type": "organization_label_group", "label": "M. Zardi & Co. S.A.", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:8fea7c397cbe3145b210", "type": "judge", "label": "Daniel M. Alder", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:8fea7c397cbe3145b210", "type": "judge", "label": "Daniel M. Alder", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:878a68ee235378403625", "type": "organization_label_group", "label": "Kellerhals Carrard", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:ef8dfaf8444bf2f78aa5", "type": "judge", "label": "Lara Dorigo", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:ef8dfaf8444bf2f78aa5", "type": "judge", "label": "Lara Dorigo", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:e2aeccaa8f788e8b2352", "type": "organization_label_group", "label": "Pestalozzi Attorneys at Law", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:496c74c9c445cb01ddd8", "type": "judge", "label": "Philippe Ducor", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:496c74c9c445cb01ddd8", "type": "judge", "label": "Philippe Ducor", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:3ec759e7d6d2c6ec8d5a", "type": "organization_label_group", "label": "Ducor Law, Genève", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:181abe83f55542971468", "type": "judge", "label": "Christoph Gasser", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:181abe83f55542971468", "type": "judge", "label": "Christoph Gasser", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:7e2a6797051ca2d23e13", "type": "organization_label_group", "label": "Valfor Attorneys-at-Law", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:fc65ba04768f423d3437", "type": "judge", "label": "Andri Hess", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:fc65ba04768f423d3437", "type": "judge", "label": "Andri Hess", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:8f910204dcb95ff61486", "type": "organization_label_group", "label": "Homburger AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:3a5693bb7c5fa97322d9", "type": "judge", "label": "Simon Holzer", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:3a5693bb7c5fa97322d9", "type": "judge", "label": "Simon Holzer", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:1bd8392840007283b33e", "type": "organization_label_group", "label": "MLL Legal AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:2a7620dcb60396f6c0c8", "type": "judge", "label": "Stefan Kohler", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:2a7620dcb60396f6c0c8", "type": "judge", "label": "Stefan Kohler", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:24f2670cea50f49a5c72", "type": "organization_label_group", "label": "Vischer AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:85aca49f427cedb5213b", "type": "judge", "label": "Daniel Kraus", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:85aca49f427cedb5213b", "type": "judge", "label": "Daniel Kraus", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:449563485e92e560878f", "type": "organization_label_group", "label": "P&TS SA Vialex Rechtsanwälte AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:a62567cfe619a7d7e7a5", "type": "judge", "label": "Thomas Legler", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:a62567cfe619a7d7e7a5", "type": "judge", "label": "Thomas Legler", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:42d188a69c7c497412ca", "type": "organization_label_group", "label": "Killias & Legler | Dispute Resolution", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:d4c323f0a09707230cb0", "type": "judge", "label": "Rudolf Rentsch", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:d4c323f0a09707230cb0", "type": "judge", "label": "Rudolf Rentsch", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:d5f4be8fd00eddc31651", "type": "organization_label_group", "label": "IPrime Rentsch Kälin AG IPrime Legal AG", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:5484434abbe8b7167058", "type": "judge", "label": "Ralph Schlosser", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:5484434abbe8b7167058", "type": "judge", "label": "Ralph Schlosser", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:5cd2026b6b627924692d", "type": "organization_label_group", "label": "Kasser Schlosser avocats SA", "identity_status": "unverified_textual_group_not_legal_entity"}
-{"id": "judge:09db223b3391d298f435", "type": "judge", "label": "Christoph Willi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified"}
+{"id": "judge:09db223b3391d298f435", "type": "judge", "label": "Christoph Willi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:11133f4dc203133c2c67", "type": "organization_label_group", "label": "CMS von Erlach Partners AG", "identity_status": "unverified_textual_group_not_legal_entity"}

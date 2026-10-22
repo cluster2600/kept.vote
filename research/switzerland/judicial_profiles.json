@@ -1,0 +1,84 @@
+[
+  {
+    "slug": "sonja-koch",
+    "judge_id": "judge:b9da2d6b3677e4afed87",
+    "name": "Sonja Koch",
+    "party_as_published": "UDC / SVP",
+    "ordinary_federal_election_date": "2019-09-25",
+    "current_role_as_roster_published": "Juge fédérale à la deuxième Cour de droit pénal",
+    "professional_history": [
+      "Law studies in Zurich and Lausanne; admitted to the Aargau bar in 2004; doctorate in 2014.",
+      "Lawyer in Aarau; clerk in Lenzburg and at the Federal Supreme Court; scientific officer at the Federal Office of Justice.",
+      "President of the Bernese Jura-Seeland regional court (2014–2019); deputy federal judge (2018–2019)."
+    ],
+    "professional_history_source_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
+    "case_reference": "rape-sentencing-7b15-2021",
+    "role_in_2023_case": "presiding member",
+    "case_explanation": "Sat on the panel whose published judgment accepted consideration of the relatively short duration of a rape in sentencing. In 2024 the Court expressly disavowed that formulation. The published opinion does not establish each member’s vote, personal beliefs, or an individually identified author.",
+    "documented_company_board_seats": null,
+    "board_coverage_status": "not established by consulted official biographies; not a finding of no external roles",
+    "contributions_file": "judicial_party_contributions.json",
+    "latest_party_declared_contribution_chf": 8000,
+    "latest_contribution_year": 2025,
+    "contribution_source_urls": [
+      "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/594/forms/30-42-109"
+    ],
+    "publication_status": "draft_requires_review",
+    "observed_on": "2026-10-23"
+  },
+  {
+    "slug": "christoph-hurni",
+    "judge_id": "judge:afc539997723670fe6ae",
+    "name": "Christoph Hurni",
+    "party_as_published": "PVL / GLP",
+    "ordinary_federal_election_date": "2020-09-23",
+    "current_role_as_roster_published": "Président de la première Cour de droit civil",
+    "professional_history": [
+      "Law studies in Bern and Bologna; doctorate in 2007; Bern bar admission in 2009; habilitation in 2017.",
+      "Federal Supreme Court clerk (2008–2017); part-time Bern cantonal judge (2013–2017), then senior judge (2017–2020), presiding over the Second Civil Chamber.",
+      "Deputy federal judge in 2020; titular professor at the University of Zurich according to his official biography."
+    ],
+    "professional_history_source_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
+    "case_reference": "rape-sentencing-7b15-2021",
+    "role_in_2023_case": "panel member",
+    "case_explanation": "Sat on the panel whose published judgment accepted consideration of the relatively short duration of a rape in sentencing. In 2024 the Court expressly disavowed that formulation. The published opinion does not establish each member’s vote, personal beliefs, or an individually identified author.",
+    "documented_company_board_seats": null,
+    "board_coverage_status": "not established by consulted official biographies; not a finding of no external roles",
+    "contributions_file": "judicial_party_contributions.json",
+    "latest_party_declared_contribution_chf": 13020,
+    "latest_contribution_year": 2025,
+    "contribution_source_urls": [
+      "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/590/forms/30-33-109"
+    ],
+    "publication_status": "draft_requires_review",
+    "observed_on": "2026-10-23"
+  },
+  {
+    "slug": "yann-eric-hofmann",
+    "judge_id": "judge:520388b00e0d5608dc92",
+    "name": "Yann-Eric Hofmann",
+    "party_as_published": "Le Centre / Die Mitte",
+    "ordinary_federal_election_date": "2023-03-15",
+    "current_role_as_roster_published": "Juge fédéral à la deuxième Cour de droit pénal",
+    "professional_history": [
+      "Law studies at Fribourg (1998–2003); magistrature CAS at Neuchâtel (2019–2021).",
+      "Federal Administrative Court clerk (2007–2011), Fribourg cantonal clerk (2011–2012), Federal Office for Spatial Development lawyer (2013–2019).",
+      "Deputy and ordinary Fribourg cantonal judge (2014–2023); deputy federal judge (2019–2023).",
+      "President of the Fribourg eJustice steering committee (2021–2023); vice-president of federal expropriation commission 5 (2018–2023)."
+    ],
+    "professional_history_source_url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html",
+    "case_reference": "rape-sentencing-7b15-2021",
+    "role_in_2023_case": "panel member",
+    "case_explanation": "Sat on the panel whose published judgment accepted consideration of the relatively short duration of a rape in sentencing. In 2024 the Court expressly disavowed that formulation. The published opinion does not establish each member’s vote, personal beliefs, or an individually identified author.",
+    "documented_company_board_seats": null,
+    "board_coverage_status": "not established by consulted official biographies; not a finding of no external roles",
+    "contributions_file": "judicial_party_contributions.json",
+    "latest_party_declared_contribution_chf": 6000,
+    "latest_contribution_year": 2025,
+    "contribution_source_urls": [
+      "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/593/forms/30-59-109"
+    ],
+    "publication_status": "draft_requires_review",
+    "observed_on": "2026-10-23"
+  }
+]

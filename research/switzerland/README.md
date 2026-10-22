@@ -106,4 +106,7 @@ mandates, criminality labels or numerical guilt/confidence scores.
 
 See [judges, contributions and map data](JUDGES_AND_NETWORK.md) for the additional
 official judicial rosters, published party affiliations, historical party tariffs
-and source-attributed network exports. Individual payments remain unverified.
+and source-attributed network exports. See [three judicial profiles](JUDICIAL_PROFILES.md)
+for the 2023 sentencing controversy and seven verified named party declarations,
+and [national comparative evidence](NATIONAL_COMPARISON.md) for the recovered
+BFS series and the limits on judge comparisons. These remain research drafts.

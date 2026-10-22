@@ -5,9 +5,9 @@
     "bodies.jsonl": "bd03008b646dbcb4ce6e190d983d2cfe7267e69c7f71eabe997f79fca512ce01",
     "persons.jsonl": "8caf15f23b1810f4f60cb7b7ed4337e915acdd7c3d7c62537501e29cbfc906a2",
     "interests.jsonl": "478f9233364b8f71df00fcefe5c6990c689fef31d7d2a2371c11ce9adc10e6af",
-    "federal_judges.json": "bb34a19902bbb75d535e983d0ef1f60e475fdf38c568ae399683b717e03540c5",
-    "network_nodes.jsonl": "2c7b6280ea1c97c8b32139aa3c3d77daa868dd6bfc3de85dcaf76c1765ffb350",
+    "federal_judges.json": "279e46db5f97f6e65bd4aefd69480db58132590c856c6f2f638fbf0a2ad577bf",
+    "network_nodes.jsonl": "9a207f42fb8e46bab25f2841ec5790fe38ffc2b68b670e82ed14ce2d0bd38a65",
     "network_edges.jsonl": "1ee8ac581b5a944236f8be555569cdfbfcf9e4f3d710227fccc396931675e869"
   },
-  "interpretation": "As-published relationships; no verified individual payments or legal-entity resolution."
+  "interpretation": "As-published relationships; named party declarations are not bank-audited payments. No legal-entity resolution."
 }
