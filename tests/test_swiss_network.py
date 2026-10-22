@@ -92,6 +92,26 @@ class NetworkTests(unittest.TestCase):
         self.assertEqual(organization['identity_status'], 'unverified_textual_group_not_legal_entity')
 
 
+class GovernanceRoleTests(unittest.TestCase):
+    def test_candidate_identity_is_not_confirmed_role(self):
+        judge = judges.record('Judge', 'supreme', 'Judge', 'https://example.invalid/')
+        role = {'id': 'role:example', 'judge_id': judge['id'], 'organization': 'Foundation',
+                'role': 'Former board member', 'temporal_status': 'deletion_published_2026',
+                'identity_status': 'corroborated_name_and_origin_requires_direct_confirmation',
+                'source_urls': ['https://example.invalid/notice']}
+        nodes, edges = network.build([], [], [], [judge], [role])
+        edge = next(e for e in edges if e['id'] == role['id'])
+        self.assertEqual(edge['type'], 'candidate_public_governance_role')
+        self.assertEqual(edge['temporal_status'], 'deletion_published_2026')
+        self.assertIn(edge['target'], {n['id'] for n in nodes})
+        role['identity_status'] = 'direct_primary_identification'
+        _, edges = network.build([], [], [], [judge], [role])
+        self.assertEqual(edges[-1]['type'], 'published_public_governance_role')
+        role['judge_id'] = 'unknown'
+        with self.assertRaises(ValueError):
+            network.build([], [], [], [judge], [role])
+
+
 class EvidenceDistinctionTests(unittest.TestCase):
     def test_independent_judge_can_have_historical_nominating_party(self):
         judge = judges.record('Example', 'supreme', 'Judge', 'https://example.invalid/')

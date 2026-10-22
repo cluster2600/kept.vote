@@ -123,9 +123,19 @@ conflicts from graph degree, and do not draw judge-to-litigant bias claims from
 shared party or organization labels.
 
 `network_manifest.json` records input/output hashes and graph counts. The first
-export has 53,426 nodes and 51,320 edges, including 614 references to declarations
+export has 53,429 nodes and 51,323 edges, including 614 references to declarations
 with no extracted organization name. These are not invented organization nodes.
 
 For the additional decision/recidivism investigation, see
 [JUDICIAL_DECISIONS.md](JUDICIAL_DECISIONS.md). The four briefs are separate from
 the relationship graph; they do not become misconduct or guilt edges.
+
+## Additional judicial governance observations
+
+`judicial_public_roles.json` adds two directly identified professional governance
+roles for Hofmann (Justitia 4.0 steering co-presidency and ASM/SVR committee) and
+one candidate historical foundation-board match for Hurni. The latter retains
+provisional identity status and a deletion publication in March 2026. It must not
+be presented as a current confirmed seat. Graph edges distinguish
+`published_public_governance_role` from `candidate_public_governance_role`;
+organization-label nodes still do not claim complete legal-entity resolution.

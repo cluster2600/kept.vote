@@ -96,7 +96,7 @@
     },
     {
       "file": "judicial_profiles.json",
-      "sha256": "ec33254bba41d41346085d80d6abb3ff78ea9aa0b974c36ff04af3caf74b111a",
+      "sha256": "bd8fb411afe7f37fc2bbcd1bd11d4c4e7e9ffe6d5bbf53b2b581c829bf2cf865",
       "source_status": "derived observations; primary URLs contained in file",
       "saved_on": "2026-10-23"
     },
@@ -113,6 +113,66 @@
       "bytes": 329509,
       "saved_on": "2026-10-23",
       "source_status": "official court publication"
+    },
+    {
+      "file": "sources/hofmann-justitia40-2025.html",
+      "url": "https://www.justitia40.ch/de/news/yann-eric-hofmann-neuer-co-praesident-des-steuerungsausschusses",
+      "sha256": "396e429ed10d42ed1d1ffe1a09ff3eda3fa12b8ffe1653d5a5c1bf3c3e9a8d3f",
+      "bytes": 90230,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.347166+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/hofmann-asm-committee.html",
+      "url": "https://www.svr-asm.ch/fr/vorstand.htm",
+      "sha256": "afda38d07a515e6e82f48873730c271ba2af691b4df786d8a69feae0fffeb2a7",
+      "bytes": 31868,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.347978+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/hurni-self-published-cv.html",
+      "url": "https://christophhurni.ch/en/cv-en/",
+      "sha256": "cd9b07661fa4cbd5424c309d9d5e26e32182eea2c9ab2546f32bbec6fca7e270",
+      "bytes": 84340,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.348249+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/SHAB-HR02-1004917412-2020-06-23.pdf",
+      "url": "https://shab.ch/api/v1/publications/19391ad1-34c9-4a2a-820f-a0c34667497d/pdf",
+      "sha256": "1b686b547f511d6cfd6f57183a1c4a9a57d4495645f35802155307a79863368f",
+      "bytes": 156473,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.348597+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/SHAB-HR02-1006598132-2026-03-17.pdf",
+      "url": "https://shab.ch/api/v1/publications/74f6e4c2-fc8b-45c3-9c02-98a4bbf290a6/pdf",
+      "sha256": "4443fbfdf364e81994f69e523de03975f7d6c86f68cd8f300c1b696e92bb0f12",
+      "bytes": 153582,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.348956+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/SB-2021-9-remand-2024-04-03.html",
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_SVG_001_SB-2021-9_2024-04-03.html",
+      "sha256": "c16b29a47477db74b11e67ad6ba80e33774c0c8f62ef0715fbe9a3af0fe95874",
+      "bytes": 109821,
+      "source_status": "court judgment mirror",
+      "archived_at": "2026-10-22T22:44:29.349287+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "judicial_public_roles.json",
+      "sha256": "20e4d4860bcf5eef10db0bc8ef91a69d34b622390160d58e8706e9b646a46bed",
+      "source_status": "derived qualified roles; primary URLs contained in file",
+      "saved_on": "2026-10-23"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

@@ -94,3 +94,10 @@ unsuspended. This identifies the sentencing panel, not whoever signed or carried
 out the 2021 release. No finding of personal misconduct by these judges is
 established by this document.
 [Original cantonal sentencing judgment](https://kanton.baselland.ch/politik-und-behorden/gerichte/rechtsprechung/kantonsgericht_rs/rechtsgebiet/strafrecht/entscheide-2019/2019-05-07-sr-2.pdf).
+
+The rape case's **3 April 2024 remand judgment (AG.2024.290)** imposes
+**42 months of unsuspended imprisonment and seven years of expulsion**. Its panel
+was Henz (chair), Oser and Renaud. It was first published on 15 March 2025. This
+is the later cantonal disposition, not the 2024 federal clarification in a separate
+case. Subsequent finality and the original 2021 panel remain unverified.
+[Official remand judgment](https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823).

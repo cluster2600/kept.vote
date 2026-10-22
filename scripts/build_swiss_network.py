@@ -33,7 +33,7 @@ def label_id(kind, value):
     return kind + ':' + hashlib.sha256(' '.join(value.split()).casefold().encode()).hexdigest()[:20]
 
 
-def build(bodies, persons, interests, judges):
+def build(bodies, persons, interests, judges, governance_roles=()):
     swiss = {row['id'] for row in bodies if row.get('country_key') == 'CHE'}
     nodes, edges = {}, []
 
@@ -102,13 +102,25 @@ def build(bodies, persons, interests, judges):
                                       'identity_status': 'unverified_textual_group_not_legal_entity'})
             edges.append({'id': identity + ':workplace', 'source': identity, 'target': target,
                           'type': 'published_workplace_affiliation', 'source_urls': row['source_urls']})
+    for role in governance_roles:
+        if role['judge_id'] not in nodes or not role['source_urls']:
+            raise ValueError('Governance role lacks a known judge or source')
+        target = label_id('organization-label', role['organization'])
+        nodes.setdefault(target, {'id': target, 'type': 'organization_label_group',
+                                  'label': role['organization'],
+                                  'identity_status': 'unverified_textual_group_not_legal_entity'})
+        edges.append({'id': role['id'], 'source': role['judge_id'], 'target': target,
+                      'type': 'published_public_governance_role' if role['identity_status'] == 'direct_primary_identification' else 'candidate_public_governance_role',
+                      'role_as_published': role['role'], 'temporal_status': role['temporal_status'],
+                      'source_urls': role['source_urls'], 'evidence_record': role['id']})
     return list(nodes.values()), edges
 
 
 def main():
     def rows(name):
         return [json.loads(line) for line in (ROOT / (name + '.jsonl')).open()]
-    nodes, edges = build(rows('bodies'), rows('persons'), rows('interests'), json.loads((ROOT / 'federal_judges.json').read_text()))
+    nodes, edges = build(rows('bodies'), rows('persons'), rows('interests'), json.loads((ROOT / 'federal_judges.json').read_text()),
+                         json.loads((ROOT / 'judicial_public_roles.json').read_text()))
     for name, records in [('network_nodes', nodes), ('network_edges', edges)]:
         path = ROOT / (name + '.jsonl')
         temporary = path.with_suffix('.jsonl.tmp')
@@ -116,7 +128,7 @@ def main():
         temporary.replace(path)
     manifest = {'nodes': len(nodes), 'edges': len(edges),
                 'files': {name: hashlib.sha256((ROOT / name).read_bytes()).hexdigest() for name in
-                          ('bodies.jsonl', 'persons.jsonl', 'interests.jsonl', 'federal_judges.json', 'network_nodes.jsonl', 'network_edges.jsonl')},
+                          ('bodies.jsonl', 'persons.jsonl', 'interests.jsonl', 'federal_judges.json', 'judicial_public_roles.json', 'network_nodes.jsonl', 'network_edges.jsonl')},
                 'interpretation': 'As-published relationships; named party declarations are not bank-audited payments. No legal-entity resolution.'}
     (ROOT / 'network_manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
     print(len(nodes), 'nodes;', len(edges), 'edges')

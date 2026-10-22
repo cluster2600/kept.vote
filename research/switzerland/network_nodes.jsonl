@@ -53424,3 +53424,6 @@
 {"id": "organization-label:5cd2026b6b627924692d", "type": "organization_label_group", "label": "Kasser Schlosser avocats SA", "identity_status": "unverified_textual_group_not_legal_entity"}
 {"id": "judge:09db223b3391d298f435", "type": "judge", "label": "Christoph Willi", "court": "patent", "annual_payment_chf": null, "payment_status": "not_verified", "payment_year": null, "payment_source_urls": []}
 {"id": "organization-label:11133f4dc203133c2c67", "type": "organization_label_group", "label": "CMS von Erlach Partners AG", "identity_status": "unverified_textual_group_not_legal_entity"}
+{"id": "organization-label:46282edda7882de4190b", "type": "organization_label_group", "label": "Justitia 4.0", "identity_status": "unverified_textual_group_not_legal_entity"}
+{"id": "organization-label:9358464c537840f9d04f", "type": "organization_label_group", "label": "Association suisse des magistrats de l’ordre judiciaire (ASM / SVR)", "identity_status": "unverified_textual_group_not_legal_entity"}
+{"id": "organization-label:9c5ac7904a323bfe1c44", "type": "organization_label_group", "label": "Ursula Wirz-Stiftung", "identity_status": "unverified_textual_group_not_legal_entity"}

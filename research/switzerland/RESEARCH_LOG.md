@@ -53,3 +53,40 @@ claim two hours of active searching merely because the deadline has elapsed.
 Do not send document requests, contact judges or parties, merge, or publish the
 profiles live. If originals are not public, prepare precise request drafts and
 identify the gap. Do not guess identities from redacted parties or infer nationality.
+
+## Research pass 2
+
+**22 October 2026, 22:40:57–22:45:45 UTC**, about five minutes of active pass
+wall time. The interval since the first pass was scheduled waiting, not research.
+
+Focused queries included `"SB.2021.9" "2021" Basel Urteil`, `"AG.2021.589"`,
+`"Morges" "13 juillet 2020" juge libération`, `"Nasenweg" "15. Dezember 2022"`,
+`"Christoph Hurni" Stiftungsrat`, `"Sonja Koch" Bundesrichterin Vorstand`,
+`"Yann-Eric Hofmann" conseil fondation`, `"1006598132"`,
+`"Ursula Wirz-Stiftung" "Hurni"` and `site.svr-asm.ch "Hofmann" comité`.
+
+Results:
+- The Justitia 4.0 project's own 24 February 2025 announcement directly identifies
+  federal judge Hofmann as steering co-president. The ASM/SVR current committee
+  page directly identifies him as a committee member. Added both professional
+  governance roles and source snapshots to the profiles and graph.
+- Recovered original SHAB appointment and deletion notices for Christoph Hurni
+  of Fräschels in the Ursula Wirz-Stiftung (CHE-113.802.340). Identity matches
+  published biographical identifiers, but no consulted notice explicitly says he
+  is the federal judge. Retained this as a candidate historical match, distinct
+  from directly confirmed roles. Deletion was published on 17 March 2026; never
+  present it as a current seat. Excluded unrelated namesake search results.
+- Rechecked the official Basel 3 April 2024 remand decision: 42 months of
+  unsuspended custody and seven years' expulsion. Recorded its publication date
+  (15 March 2025), panel and distinction from the original 2021 panel. Later
+  finality remains unverified.
+- Original 2021 cantonal judgment, separate Morges release orders and Nasenweg
+  leave authorisation still not recovered. Search hits quoting them are not
+  originals. A guessed mirror path for the 2021 decision was inaccessible.
+- Recovered a personal CV and contemporary official professional-role sources;
+  no additional verified personal payment was found in this pass.
+
+Validation: **17 focused tests passed**, graph has **53,429 nodes and 51,323
+edges**; two directly identified governance edges and one candidate edge retain
+separate types. Source hashes, endpoints, source URLs and git whitespace checks
+passed. No outbound requests or website publication.

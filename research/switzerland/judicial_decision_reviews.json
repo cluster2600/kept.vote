@@ -5,7 +5,8 @@
     "decision_references": [
       "SB.2021.9 (2021-07-30)",
       "7B_15/2021 and 7B_16/2021 (2023-09-19)",
-      "6B_612/2024 (2024-09-18)"
+      "6B_612/2024 (2024-09-18)",
+      "SB.2021.9 (AG.2024.290), 2024-04-03, remand decision"
     ],
     "summary": "The 2023 federal judgment contained a passage accepting consideration of the relatively short duration of a rape. In 2024 the Federal Supreme Court expressly called that earlier formulation inappropriate and clarified that short duration must never reduce the offender’s culpability. The 2023 panel separately quashed the cantonal sentence on other sentencing grounds; the entire 2023 judgment was not annulled by the 2024 clarification.",
     "federal_panel": [
@@ -32,13 +33,29 @@
     "nationality_evidence_status": "not_verified_in_consulted_primary_sources",
     "source_urls": [
       "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom=",
-      "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/6b_0612_2024_2024_10_15_T_d_11_14_33.pdf"
+      "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/6b_0612_2024_2024_10_15_T_d_11_14_33.pdf",
+      "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823"
     ],
-    "follow_up": "Retrieve the original 2021 cantonal panel and later appeal disposition; do not ascribe a collegial sentence or phrase to an individually identified author.",
+    "follow_up": "Original 30 July 2021 cantonal judgment and later finality still unverified. The 3 April 2024 remand judgment is recovered and increases the sentence to 42 months and expulsion to seven years. Its panel must not automatically be assigned to 2021.",
     "checked_on": "2026-10-23",
     "publication_status": "draft_requires_review",
     "ranking": null,
-    "current_procedural_status_verified": false
+    "current_procedural_status_verified": false,
+    "later_cantonal_disposition": {
+      "date": "2024-04-03",
+      "sentence_months": 42,
+      "suspended_months": 0,
+      "expulsion_years": 7,
+      "panel": [
+        "Liselotte Henz (chair)",
+        "Marc Oser",
+        "Lucienne Renaud"
+      ],
+      "publication_date": "2025-03-15",
+      "source_url": "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823",
+      "finality_verified": false,
+      "interpretation": "Later remand judgment; does not identify the original 2021 panel merely because the case number is shared."
+    }
   },
   {
     "id": "morges-release-before-2020-homicide",

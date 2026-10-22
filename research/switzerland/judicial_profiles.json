@@ -24,7 +24,8 @@
       "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/594/forms/30-42-109"
     ],
     "publication_status": "draft_requires_review",
-    "observed_on": "2026-10-23"
+    "observed_on": "2026-10-23",
+    "public_governance_role_ids": []
   },
   {
     "slug": "christoph-hurni",
@@ -51,7 +52,10 @@
       "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/590/forms/30-33-109"
     ],
     "publication_status": "draft_requires_review",
-    "observed_on": "2026-10-23"
+    "observed_on": "2026-10-23",
+    "public_governance_role_ids": [
+      "judicial-role:hurni-ursula-wirz-candidate"
+    ]
   },
   {
     "slug": "yann-eric-hofmann",
@@ -79,6 +83,10 @@
       "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/593/forms/30-59-109"
     ],
     "publication_status": "draft_requires_review",
-    "observed_on": "2026-10-23"
+    "observed_on": "2026-10-23",
+    "public_governance_role_ids": [
+      "judicial-role:hofmann-justitia40",
+      "judicial-role:hofmann-asm-committee"
+    ]
   }
 ]

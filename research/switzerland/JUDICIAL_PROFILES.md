@@ -96,3 +96,28 @@ No causal connection between contributions and the judgment has been established
 
 These profiles do not establish involvement by any of these three judges in the
 separate releases preceding homicides discussed in `JUDICIAL_DECISIONS.md`.
+
+## Additional public governance roles
+
+Hofmann was welcomed as **co-president of the Justitia 4.0 steering committee on
+24 February 2025**, alongside Florian Dublin. The project's own announcement
+identifies him explicitly as a federal judge. Its current end date has not been
+established. [Project announcement](https://www.justitia40.ch/de/news/yann-eric-hofmann-neuer-co-praesident-des-steuerungsausschusses).
+
+The **Swiss association of judges (ASM/SVR)** also lists Hofmann as a **committee
+member** on its current public page. This is an association governance role, not
+a commercial company directorship. [Committee](https://www.svr-asm.ch/fr/vorstand.htm).
+
+A **candidate historical match** was found for Hurni: SHAB notices for the
+**Ursula Wirz-Stiftung (CHE-113.802.340)** name Christoph Hurni, from Fräschels,
+as a foundation board member with joint signature by two. Appointment was
+published on **23 June 2020** and deletion on **17 March 2026**. The name, place
+of origin and public nomination municipality match, but neither notice explicitly
+identifies him as the federal judge. The corpus therefore keeps the person match
+provisional and must not present this as a current verified seat.
+[Appointment notice](https://shab.ch/api/v1/publications/19391ad1-34c9-4a2a-820f-a0c34667497d/pdf),
+[deletion notice](https://shab.ch/api/v1/publications/74f6e4c2-fc8b-45c3-9c02-98a4bbf290a6/pdf).
+
+Name-only results for other Sonja Kochs and Christoph Hurnis were excluded.
+Structured roles and identity/temporal qualifications are in
+`judicial_public_roles.json` and are preserved on the relationship map edges.
