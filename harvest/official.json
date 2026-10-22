@@ -606,6 +606,24 @@
         { "url": "https://volby.statistics.sk/ref/ref2026/sk/index.html", "what": "Referendum 2026: official results" },
         { "url": "https://volbysr.sk/sk/index.html", "what": "2026 elections: official results site" }
       ]
+    },
+    "SY": {
+      "name": "Syria",
+      "domains": {
+        "gov.sy": {
+          "what": "Public administration: People's Assembly (parliament.gov.sy), Ministry of Justice and Supreme Judicial Council (moj.gov.sy), Central Bank (cb.gov.sy), ministries",
+          "access": "2026-10-22: parliament.gov.sy, presidency.gov.sy, pministry.gov.sy, mofaex.gov.sy, mof.gov.sy, economy.gov.sy and sccourt.gov.sy unreachable; moj.gov.sy renders; cb.gov.sy shows a maintenance page; moi.gov.sy returns error"
+        },
+        "sana.sy": { "what": "Syrian Arab News Agency, state news agency under the Ministry of Information: publishes presidential decrees, appointments and People's Assembly news (attribute as state media). No online official gazette or presidency site was found" }
+      },
+      "watch": [
+        { "url": "https://sana.sy/en/presidency/", "what": "Presidency news: decrees and appointments (English)" },
+        { "url": "https://sana.sy/presidency/", "what": "Presidency news: decrees and appointments (Arabic)" },
+        { "url": "https://sana.sy/peoples-assembly/", "what": "People's Assembly sessions and laws passed" },
+        { "url": "https://sana.sy/government/", "what": "Government and cabinet decisions" },
+        { "url": "https://moj.gov.sy/circulars-page/", "what": "Ministry of Justice circulars" },
+        { "url": "https://moj.gov.sy/category/supreme-judicial-council/", "what": "Supreme Judicial Council decisions" }
+      ]
     }
   }
 }

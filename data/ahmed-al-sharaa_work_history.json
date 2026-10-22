@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ahmed-al-sharaa-work-aqi",
+    "role": "Fighter, later reportedly a cell leader",
+    "organization": "Al-Qaeda in Iraq (AQI; later the Islamic State of Iraq)",
+    "start_date": "2003",
+    "end_date": "2005",
+    "description": "Travelled from Damascus to Iraq around the time of the 2003 US-led invasion and joined al-Qaeda in Iraq, which the UN and the US designated as a terrorist organisation. Britannica writes that he became the leader of a cell; he has described himself as a regular fighter against the US occupation. Arrested by US forces in about 2005–2006 (sources differ) and held for five to six years, including at Camp Bucca, until his release in 2011.",
+    "category": "armed_group",
+    "source_url": [
+      "https://www.britannica.com/biography/Ahmed-al-Sharaa",
+      "https://www.bbc.com/news/articles/c0q0w1g8zqvo",
+      "https://web.archive.org/web/20241214180012/https://www.aljazeera.com/news/2024/12/4/who-is-abu-mohamad-al-julani-the-leader-of-hayat-tahrir-al-sham-in-syria"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-work-nusra",
+    "role": "Founder and general emir (leader), under the nom de guerre Abu Mohammad al-Jolani",
+    "organization": "Jabhat al-Nusra (Nusra Front), al-Qaeda's branch in Syria",
+    "start_date": "2011",
+    "end_date": "2016-07",
+    "description": "Sent to Syria in 2011 with funding from the Islamic State of Iraq to set up the group, publicly announced in January 2012. Pledged allegiance to al-Qaeda leader Ayman al-Zawahiri in April 2013 after refusing a merger into the Islamic State. Designated by the UN and the US in 2013 (see justice).",
+    "category": "armed_group",
+    "source_url": [
+      "https://www.bbc.com/news/articles/c0q0w1g8zqvo",
+      "https://web.archive.org/web/20190822130950/https://2009-2017.state.gov/r/pa/prs/ps/2013/05/209499.htm",
+      "https://en.wikipedia.org/wiki/Ahmed_al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-work-jfs",
+    "role": "Leader",
+    "organization": "Jabhat Fateh al-Sham (JFS)",
+    "start_date": "2016-07-28",
+    "end_date": "2017-01-28",
+    "description": "Name adopted by the Nusra Front when al-Sharaa announced its split from al-Qaeda on 28 July 2016, in his first recorded video message.",
+    "category": "armed_group",
+    "source_url": [
+      "https://www.bbc.com/news/world-middle-east-36916606",
+      "https://en.wikipedia.org/wiki/Ahmed_al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-work-hts",
+    "role": "Military commander, then general commander (emir)",
+    "organization": "Hay'at Tahrir al-Sham (HTS)",
+    "start_date": "2017-01-28",
+    "end_date": "2025-01-29",
+    "description": "Formed by merging JFS with other factions; another commander was nominal leader at first, and al-Sharaa formally took over by late 2017. HTS controlled most of Idlib province, administered through the Syrian Salvation Government, of which he was regarded as the de facto ruler. HTS's dissolution was announced at the Victory Conference of 29 January 2025.",
+    "category": "armed_group",
+    "source_url": [
+      "https://www.britannica.com/biography/Ahmed-al-Sharaa",
+      "https://www.bbc.com/news/articles/c8d9r0vg6v7o",
+      "https://en.wikipedia.org/wiki/Ahmed_al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-work-military-operations-command",
+    "role": "Commander",
+    "organization": "Military Operations Command (Idarat al-Amaliyyat al-Askariyya)",
+    "start_date": "2024-11-27",
+    "end_date": "2025-01-29",
+    "description": "Led the HTS-headed coalition of factions in the offensive launched on 27 November 2024, which took Aleppo, Hama and Homs and entered Damascus on 8 December 2024, when Bashar al-Assad fled to Russia.",
+    "category": "armed_group",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa",
+      "https://www.britannica.com/biography/Ahmed-al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-work-de-facto-leader",
+    "role": "General Commander of the new administration (de facto leader of Syria)",
+    "organization": "Syrian caretaker authorities",
+    "start_date": "2024-12-08",
+    "end_date": "2025-01-29",
+    "description": "Headed the new administration after the fall of Damascus, with Mohammed al-Bashir as caretaker prime minister from 10 December 2024; received the first foreign delegations, including the US delegation that withdrew the reward offer for him on 20 December 2024.",
+    "category": "executive",
+    "source_url": [
+      "https://www.bbc.com/news/articles/c07gv3j818ko",
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-work-president",
+    "role": "President of the Syrian Arab Republic for the transitional period",
+    "organization": "Presidency of the Syrian Arab Republic",
+    "start_date": "2025-01-29",
+    "end_date": null,
+    "description": "Appointed by the General Command of the revolutionary factions at the Victory Conference; under the Constitutional Declaration of 13 March 2025 he heads the executive for a five-year transition, appoints the ministers (there is no prime minister) and a third of the People's Assembly, and is commander-in-chief of the armed forces. Formed the transitional government on 29 March 2025.",
+    "category": "executive",
+    "source_url": [
+      "https://www.bbc.com/news/articles/c8d9r0vg6v7o",
+      "https://www.aljazeera.com/news/2025/3/13/syrias-al-sharaa-signs-five-year-temporary-constitution",
+      "https://www.aljazeera.com/news/2025/3/30/syrian-president-unveils-transitional-government"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-work-nsc",
+    "role": "Chair",
+    "organization": "National Security Council of Syria",
+    "start_date": "2025-03-12",
+    "end_date": null,
+    "description": "The caretaker government announced on 12 March 2025 a National Security Council chaired by the president; under the Constitutional Declaration the president declares general mobilisation and war with its approval.",
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa",
+      "https://en.wikipedia.org/wiki/Constitutional_Declaration_of_the_Syrian_Arab_Republic"
+    ]
+  }
+]
