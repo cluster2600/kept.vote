@@ -16,8 +16,123 @@
     "AT": {
       "name": "Austria",
       "domains": {
-        "gv.at": { "what": "Federal administration and Parliament (parlament.gv.at)" }
-      }
+        "gv.at": {
+          "what": "Federal administration and Parliament (parlament.gv.at): Chancellery, ministries, Federal Law Gazette (ris.bka.gv.at), Interior Ministry elections portal, Court of Audit, Constitutional Court",
+          "access": "2026-10-22: noe.gv.at/wahlen/ answers 403; parlament.gv.at person pages build the transparency (declarations) tab with scripts, readable through the page's ?json=true export; Chancellery CV PDFs are fingerprinted only"
+        },
+        "bundespraesident.at": { "what": "Federal President: appointment and swearing-in of the Chancellor and the government, certification of federal laws" },
+        "statistik.at": { "what": "Statistics Austria: official public-finance data (deficit and debt notifications)" },
+        "fiskalrat.at": { "what": "Fiscal Advisory Council: independent monitoring of fiscal rules and budget forecasts" },
+        "bundesheer.at": { "what": "Ministry of Defence and Armed Forces" }
+      },
+      "watch": [
+        { "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/die-bundesregierung/bundesministerinnen-und-bundesminister.html", "what": "Members of the federal government and state secretaries: reshuffles" },
+        { "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/die-bundesregierung/ministerratsprotokolle.html", "what": "Council of Ministers minutes" },
+        { "url": "https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=BgblAuth&Teil1=True&Teil2=False&Teil3=False&ImRisSeit=EinemMonat&ResultPageSize=100", "what": "Federal Law Gazette: items published in the last month" },
+        { "url": "https://www.bmi.gv.at/412/", "what": "Interior Ministry elections portal: national elections, referendums, official results" },
+        { "url": "https://www.rechnungshof.gv.at/rh/home/was-wir-tun/was-wir-tun_5/was-wir-tun_6/Kontrolle_der_Parteien.html", "what": "Court of Audit: parties' annual statements of accounts" },
+        { "url": "https://www.rechnungshof.gv.at/rh/home/was-wir-tun/was-wir-tun_5/Kontrolle_der_Parteien.html", "what": "Court of Audit: party donations, election-advertising reports, party finance controls" },
+        { "url": "https://www.statistik.at/statistiken/volkswirtschaft-und-oeffentliche-finanzen/oeffentliche-finanzen/maastricht-indikatoren/oeffentliches-defizit/oeffentlicher-ueberschuss", "what": "Statistics Austria: public deficit notifications" },
+        { "url": "https://www.fiskalrat.at/publikationen.html", "what": "Fiscal Advisory Council reports" }
+      ]
+    },
+    "BE": {
+      "name": "Belgium",
+      "domains": {
+        "premier.be": {
+          "what": "Prime Minister's website: biography, press releases, government agreement",
+          "access": "2026-10-22: every page answers 403 Access Denied (Akamai), status blocked"
+        },
+        "belgium.be": {
+          "what": "Federal portal: Chancellery of the Prime Minister, Council of Ministers decisions (news.belgium.be), FPS Finance, official election results (electionresults.belgium.be, JSON API at api.electionresults.belgium.be)",
+          "access": "2026-10-22: www.belgium.be and financien.belgium.be show a CAPTCHA form; chancellery. and news.belgium.be answer 403 (blocked); api.electionresults.belgium.be returns readable JSON"
+        },
+        "fgov.be": {
+          "what": "Federal public services: Belgian Official Journal (ejustice.just.fgov.be), elections directorate (verkiezingen.fgov.be), Federal Pensions Service (sfpd.fgov.be)",
+          "access": "2026-10-22: ejustice.just.fgov.be is robots-disallowed; the other subdomains render"
+        },
+        "dekamer.be": {
+          "what": "Chamber of Representatives (Dutch): members, bills and adopted texts, plenary records, Control Commission for election expenditure and party accounts",
+          "access": "2026-10-22: no answer (unreachable)"
+        },
+        "lachambre.be": {
+          "what": "Chamber of Representatives (French), same content as dekamer.be",
+          "access": "2026-10-22: Cloudflare 522 connection timed out (unreachable)"
+        },
+        "senate.be": {
+          "what": "Senate",
+          "access": "2026-10-22: https://senate.be/ (no www) renders; www.senate.be answers Cloudflare error 1016 (unreachable)"
+        },
+        "monarchie.be": {
+          "what": "Royal Palace: the King's agenda (audiences with the Prime Minister, consultations in government crises, ministers' oaths)",
+          "access": "2026-10-22: unreachable in the morning, renders in the afternoon; retry"
+        },
+        "const-court.be": { "what": "Constitutional Court: judgments, press releases, agenda" },
+        "raadvst-consetat.be": { "what": "Council of State: legislative advice on bills, administrative case law" },
+        "juportal.be": {
+          "what": "Case-law database of the courts, including the Court of Cassation",
+          "access": "2026-10-22: robots-disallowed"
+        },
+        "ccrek.be": {
+          "what": "Court of Audit: lists of office-holders' mandates and their pay, lists of non-filers (asset declarations are filed under seal, not published)",
+          "access": "2026-10-22: HTML pages show a CAPTCHA form or return no content (error); PDFs are fingerprinted only"
+        },
+        "rekenhof.be": {
+          "what": "Court of Audit, Dutch address (redirects to ccrek.be)",
+          "access": "2026-10-22: redirects to the ccrek.be CAPTCHA page"
+        },
+        "courdescomptes.be": {
+          "what": "Court of Audit, French address (redirects to ccrek.be)",
+          "access": "2026-10-22: redirects to the ccrek.be CAPTCHA page"
+        },
+        "ibz.be": { "what": "FPS Home Affairs: elections directorate, national register" },
+        "vlaamsparlement.be": { "what": "Flemish Parliament: members, documents, votes" },
+        "vlaanderenkiest.be": {
+          "what": "Flemish Government election results",
+          "access": "2026-10-22: 403 Access Denied, blocked"
+        }
+      },
+      "watch": [
+        { "url": "https://www.monarchie.be/nl/agenda/zoeken", "what": "Royal agenda: audiences with the Prime Minister, consultations in government crises, ministers' oaths" },
+        { "url": "https://nl.const-court.be/judgments?year=2026", "what": "Constitutional Court judgments 2026" },
+        { "url": "https://nl.const-court.be/agenda/decisions", "what": "Constitutional Court: upcoming decisions" },
+        { "url": "https://www.raadvst-consetat.be/?page=news&lang=en", "what": "Council of State news" },
+        { "url": "https://verkiezingen.fgov.be/algemeen/verkiezingsagenda", "what": "Election calendar" },
+        { "url": "https://verkiezingen.fgov.be/algemeen/resultaten", "what": "Official election results page" },
+        { "url": "https://api.electionresults.belgium.be/election/dates", "what": "Elections recorded in the official results database" },
+        { "url": "https://www.sfpd.fgov.be/en/changes/pension-reform", "what": "Federal Pensions Service: implementation of the pension reform" }
+      ]
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "domains": {
+        "gov.bg": {
+          "what": "Council of Ministers: Prime Minister, cabinet composition, governance programme, cabinet meetings and decisions. Also matched by the gov.xx pattern; listed for its watched pages",
+          "access": "2026-10-22: pages render; PDFs such as the governance programme are fingerprinted only"
+        },
+        "president.bg": { "what": "President: decrees, vetoes returning laws to parliament, appointment of caretaker governments" },
+        "cik.bg": { "what": "Central Election Commission: decisions, registers and official results (results.cik.bg)" },
+        "bulnao.government.bg": { "what": "Court of Audit: control of party and campaign financing, parties' annual financial reports. Also matched by the government.* pattern; listed for its watched page" },
+        "cacbg.bg": {
+          "what": "Court of Audit public register of asset and interest declarations of public office holders (register.cacbg.bg)",
+          "access": "2026-10-22: year pages build their lists with scripts; the harvest gets the title only"
+        },
+        "constcourt.bg": { "what": "Constitutional Court: cases, decisions and announcements" },
+        "justice.bg": { "what": "Judiciary: Supreme Judicial Council (vss.justice.bg) and the courts' portal" },
+        "prb.bg": { "what": "Prosecutor's Office" },
+        "vks.bg": { "what": "Supreme Court of Cassation" },
+        "strategy.bg": { "what": "Council of Ministers public consultation portal (draft laws and strategies)" }
+      },
+      "watch": [
+        { "url": "https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms", "what": "Council of Ministers meetings: agendas and decisions" },
+        { "url": "https://www.gov.bg/bg/pravitelstvo/sastav-na-pravitelstvoto", "what": "Composition of the government: appointments and reshuffles" },
+        { "url": "https://www.president.bg/cat47/Prezidentsko-veto/", "what": "Presidential vetoes (laws returned to parliament)" },
+        { "url": "https://www.cik.bg/bg/decisions", "what": "Central Election Commission decisions" },
+        { "url": "https://results.cik.bg/", "what": "Official election results index" },
+        { "url": "https://www.bulnao.government.bg/bg/kontrol-partii/otcheti-na-partii/", "what": "Annual financial reports of political parties" },
+        { "url": "https://register.cacbg.bg/", "what": "Register of asset and interest declarations, index by year" },
+        { "url": "https://www.constcourt.bg/bg/messages", "what": "Constitutional Court announcements" }
+      ]
     },
     "CH": {
       "name": "Switzerland",
@@ -231,6 +346,42 @@
         { "url": "https://aead.gr/nta/epitropi-deontologias/apofaseis", "what": "National Transparency Authority ethics committee decisions" }
       ]
     },
+    "HR": {
+      "name": "Croatia",
+      "domains": {
+        "gov.hr": { "what": "Government (vlada.gov.hr): members, sessions and decisions; Statistics Office (dzs.gov.hr). Also matched by the gov.xx pattern; listed for its watched pages" },
+        "sabor.hr": { "what": "Croatian Parliament: members, sessions, the government programme, legislative database (edoc.sabor.hr)" },
+        "predsjednik.hr": { "what": "President of the Republic: decisions and news (appointments, promulgation of laws)" },
+        "nn.hr": { "what": "Narodne novine, official gazette (narodne-novine.nn.hr): laws, decrees, Constitutional Court decisions, the State Electoral Commission's final results" },
+        "usud.hr": {
+          "what": "Constitutional Court",
+          "access": "2026-10-22: the case-law database on sljeme.usud.hr is excluded by robots.txt"
+        },
+        "vsrh.hr": { "what": "Supreme Court" },
+        "sudovi.hr": { "what": "Courts portal: county, administrative and high courts" },
+        "dorh.hr": { "what": "State Attorney's Office, including USKOK: press releases on charges and indictments" },
+        "izbori.hr": {
+          "what": "State Electoral Commission: elections and referendums, results, party and campaign finance reports",
+          "access": "2026-10-22: the results archive builds its pages with scripts and result downloads are ZIP files (status error); final results are also in Narodne novine"
+        },
+        "sukobinteresa.hr": {
+          "what": "Commission for the Resolution of Conflicts of Interest: register of officials, asset declarations, decisions",
+          "access": "2026-10-22: officials' individual pages with the asset declarations (/hr/crm-core/contact/...) are excluded by robots.txt"
+        },
+        "revizija.hr": { "what": "State Audit Office" }
+      },
+      "watch": [
+        { "url": "https://vlada.gov.hr/vlada/66", "what": "Members of the Government: reshuffles" },
+        { "url": "https://vlada.gov.hr/sjednice/9", "what": "Government sessions: bills, decrees, appointments" },
+        { "url": "https://narodne-novine.nn.hr/", "what": "Official gazette: issues of the current year" },
+        { "url": "https://edoc.sabor.hr/Statistika/ZakonodavnaAktivnost.aspx", "what": "Sabor legislative activity: laws adopted" },
+        { "url": "https://www.sukobinteresa.hr/hr/odluke", "what": "Conflict-of-interest Commission decisions" },
+        { "url": "https://www.sukobinteresa.hr/hr/registar-duznosnika", "what": "Register of officials required to file asset declarations" },
+        { "url": "https://www.izbori.hr/site/financiranje/redovito-financiranje/financijska-izvjesca-subjekata-nad-kojima-se-provodi-redoviti-nadzor-financiranja/1996", "what": "Annual financial reports of political parties" },
+        { "url": "https://www.izbori.hr/site/izbori-referendumi/izbori-u-tijeku/5464", "what": "Elections in progress" },
+        { "url": "https://dorh.hr/hr/priopcenja", "what": "State Attorney's Office and USKOK press releases" }
+      ]
+    },
     "HU": {
       "name": "Hungary",
       "domains": {
@@ -238,6 +389,72 @@
         "parlament.hu": { "what": "National Assembly, including members' asset declarations" },
         "valasztas.hu": { "what": "National Election Office" }
       }
+    },
+    "IE": {
+      "name": "Ireland",
+      "domains": {
+        "oireachtas.ie": {
+          "what": "Houses of the Oireachtas: TDs and senators, office holders, bills and Acts, election results, Register of Members' Interests, members' pay (open data at api.oireachtas.ie)",
+          "access": "2026-10-22: member, bill and register pages render and api.oireachtas.ie returns JSON; debate, vote and search pages answer with a 'Human Verification' puzzle (blocked); data.oireachtas.ie documents are PDFs, fingerprinted only"
+        },
+        "president.ie": {
+          "what": "President: bills signed or referred to the Supreme Court, appointment of the Taoiseach and Government",
+          "access": "2026-10-22: every page returned a scheduled-maintenance notice; recheck"
+        },
+        "irishstatutebook.ie": { "what": "Irish Statute Book (Attorney General): Acts and statutory instruments as enacted" },
+        "irisoifigiuil.ie": {
+          "what": "Iris Oifigiúil (official gazette)",
+          "access": "2026-10-22: robots.txt disallows the harvest"
+        },
+        "courts.ie": {
+          "what": "Courts Service: judgments and court notices",
+          "access": "2026-10-22: courts.ie/judgments redirects to a 'judgments temporarily unavailable' notice"
+        },
+        "sipo.ie": {
+          "what": "Standards in Public Office Commission: office holders' statements of interests, ethics investigations, political donations, party accounts, election expenses",
+          "access": "2026-10-22: every page answers 403 Forbidden (blocked)"
+        },
+        "electoralcommission.ie": { "what": "Electoral Commission: Register of Political Parties, referendums, constituency reviews" },
+        "cso.ie": { "what": "Central Statistics Office: official statistics" }
+      },
+      "watch": [
+        { "url": "https://www.oireachtas.ie/en/members/register-of-members-interests/", "what": "Register of Members' Interests (Dáil and Seanad) and supplements" },
+        { "url": "https://www.oireachtas.ie/en/elections/", "what": "Dáil and Seanad general and by-election results" },
+        { "url": "https://www.oireachtas.ie/en/bills/", "what": "Bills scheduled for discussion" },
+        { "url": "https://www.irishstatutebook.ie/eli/2026/act/", "what": "Acts of 2026 as enacted" },
+        { "url": "https://www.oireachtas.ie/en/members/salaries-and-allowances/salaries/", "what": "Pay of TDs, senators, the Taoiseach and ministers" },
+        { "url": "https://www.electoralcommission.ie/media-releases/", "what": "Electoral Commission media releases" }
+      ]
+    },
+    "IL": {
+      "name": "Israel",
+      "domains": {
+        "gov.il": {
+          "what": "Government portal: Prime Minister's Office, ministries, cabinet decisions, Ministry of Justice (Reshumot official gazette, Pardons Department), Central Bureau of Statistics. Also matched by the gov.xx pattern; listed for its watched pages",
+          "access": "2026-10-22: www.gov.il and www.justice.gov.il answer a Cloudflare 'Just a moment' check (blocked); cbs.gov.il answered Cloudflare 520 (unreachable)"
+        },
+        "knesset.gov.il": {
+          "what": "Knesset: members and their declarations of interests, bills and laws, votes, committees, historical election results",
+          "access": "2026-10-22: every page redirects to a 'temporarily inaccessible from your location' page; check by hand"
+        },
+        "bechirot.gov.il": {
+          "what": "Central Elections Committee: official results per Knesset (votes22-votes25.bechirot.gov.il)",
+          "access": "2026-10-22: www.bechirot.gov.il, votes21 and votes26 answer 404; votes22-votes25 render; the committee's current pages are on www.gov.il, which is blocked"
+        },
+        "court.gov.il": {
+          "what": "Judicial Authority: Supreme Court / High Court of Justice rulings and updates (supreme.court.gov.il), district courts",
+          "access": "2026-10-22: supreme.court.gov.il renders; www.court.gov.il returns a title only (status error)"
+        },
+        "mevaker.gov.il": { "what": "State Comptroller and Ombudsman: audit reports, party and campaign financing, gifts and legal-defence funding permits for public officials (ministers' asset declarations are filed here, not published)" },
+        "president.gov.il": { "what": "President: assignment of the mandate to form a government, pardons" }
+      },
+      "watch": [
+        { "url": "https://www.president.gov.il/en/category/news/", "what": "President's announcements: consultations and assignment of the mandate to form a government, decisions on pardon requests" },
+        { "url": "https://supreme.court.gov.il/Pages/RecentUpdates.aspx", "what": "Supreme Court / High Court of Justice: recent updates and rulings" },
+        { "url": "https://www.mevaker.gov.il/en/state-audit/parties-financing", "what": "State Comptroller: party financing and election campaign audits" },
+        { "url": "https://www.mevaker.gov.il/en/newsroom", "what": "State Comptroller: newly published audit reports" },
+        { "url": "https://votes25.bechirot.gov.il/nationalresults", "what": "25th Knesset election (2022): official national results (add votes26 once it goes live after 27 October 2026)" }
+      ]
     },
     "IT": {
       "name": "Italy",
@@ -247,6 +464,24 @@
         "senato.it": { "what": "Senate" },
         "cortecostituzionale.it": { "what": "Constitutional Court" }
       }
+    },
+    "LB": {
+      "name": "Lebanon",
+      "domains": {
+        "gov.lb": {
+          "what": "Public administration: Presidency of the Council of Ministers (pcm.gov.lb: cabinet decisions, circulars; Official Gazette at jo.pcm.gov.lb), Presidency (presidency.gov.lb), Parliament (lp.gov.lb), Constitutional Council (cc.gov.lb), Ministry of Justice, Ministry of Interior (moim.gov.lb; elections.gov.lb), Banque du Liban (bdl.gov.lb), Court of Audit (coa.gov.lb), Central Administration of Statistics (cas.gov.lb), state news agency NNA (nna-leb.gov.lb)",
+          "access": "2026-10-22: www.pcm.gov.lb does not answer (pcm.gov.lb without www renders); Official Gazette texts need a paid subscription; nna-leb.gov.lb and elections.gov.lb build their content with scripts (page shell only); finance.gov.lb answers Cloudflare 521; interior.gov.lb, mfa.gov.lb, lebarmy.gov.lb and nacc.gov.lb do not answer"
+        }
+      },
+      "watch": [
+        { "url": "https://pcm.gov.lb/arabic/listingandcalendarnew.aspx?pageid=28", "what": "Decisions of the Council of Ministers" },
+        { "url": "https://pcm.gov.lb/arabic/listingbydatewithdropdown.aspx?pageid=17", "what": "Prime Minister's memoranda and circulars" },
+        { "url": "https://www.lp.gov.lb/ViewLawYears.aspx", "what": "Laws adopted by parliament" },
+        { "url": "https://www.lp.gov.lb/ViewContentRecords?Id=2295", "what": "Parliament's session calendar" },
+        { "url": "https://www.cc.gov.lb/ar/%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA/%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86/", "what": "Constitutional Council rulings on laws" },
+        { "url": "https://moim.gov.lb/latest-decisions/", "what": "Interior Ministry decisions (elections, municipalities)" },
+        { "url": "https://www.bdl.gov.lb/basiccirculars.php", "what": "Banque du Liban basic circulars" }
+      ]
     },
     "NL": {
       "name": "Netherlands",
@@ -295,6 +530,44 @@
       "domains": {
         "gov.pl": { "what": "Government and administration, Sejm (sejm.gov.pl)" }
       }
+    },
+    "PS": {
+      "name": "Palestinian territories",
+      "domains": {
+        "president.ps": { "what": "President of the State of Palestine: official biography, election programme, lists of presidential decrees and decisions (appointments, judges, pardons)" },
+        "elections.ps": {
+          "what": "Central Elections Commission: election laws, decrees and decisions on elections, nominations, results",
+          "access": "2026-10-22: HTML pages render; results PDFs under /Portals/0/pdf/ are disallowed by robots.txt"
+        },
+        "wafa.ps": { "what": "WAFA, the official Palestinian news agency (state media, attribute as such): presidential decrees, PLO and government decisions" },
+        "plo.ps": { "what": "Palestine Liberation Organization: Executive Committee and Central Council" },
+        "nad.ps": { "what": "PLO Negotiations Affairs Department: agreements with Israel, negotiating positions, maps" },
+        "palestinepnc.org": { "what": "Palestinian National Council (PLO parliament)" },
+        "pal-plc.org": {
+          "what": "Palestinian Legislative Council (not convened since 2007, dissolved by a Constitutional Court ruling in 2018)",
+          "access": "2026-10-22: https://www.pal-plc.org/ unreachable; http://pal-plc.org/plc/ renders"
+        },
+        "pacc.ps": { "what": "Palestinian Anti-Corruption Commission: annual reports; receives officials' financial disclosure declarations (no public register)" },
+        "saacb.ps": { "what": "State Audit and Administrative Control Bureau: audit reports" },
+        "ichr.ps": { "what": "Independent Commission for Human Rights (Palestinian ombudsman): complaints and reports on the PA and Gaza authorities" },
+        "gov.ps": {
+          "what": "Public administration: Council of Ministers (palestinecabinet.gov.ps), official gazette (dft.gov.ps), Central Bureau of Statistics (pcbs.gov.ps), judiciary (courts.gov.ps). Also matched by the gov.xx pattern",
+          "access": "2026-10-22: palestinecabinet.gov.ps, dft.gov.ps, pcbs.gov.ps and courts.gov.ps unreachable"
+        },
+        "pna.ps": {
+          "what": "Palestinian Authority: Prime Minister's Office (pmo.pna.ps), ministries of finance and foreign affairs, official gazette office (lab.pna.ps)",
+          "access": "2026-10-22: pmo.pna.ps, mof.pna.ps and mofa.pna.ps unreachable; lab.pna.ps renders"
+        }
+      },
+      "watch": [
+        { "url": "https://www.president.ps/Main/TimeLine/82", "what": "Presidential decrees: government formation and resignation, election calls, states of emergency" },
+        { "url": "https://www.president.ps/Main/TimeLine/93", "what": "Presidential decisions: appointments of governors, judges and heads of oversight bodies, pardons" },
+        { "url": "https://www.elections.ps/tabid/288/language/en-US/Default.aspx", "what": "Central Elections Commission: decrees and decisions on elections" },
+        { "url": "https://www.elections.ps/tabid/1313/language/en-US/Default.aspx", "what": "Central Elections Commission: legislative elections" },
+        { "url": "https://www.elections.ps/tabid/1180/language/en-US/Default.aspx", "what": "Central Elections Commission: nominations and candidate lists" },
+        { "url": "https://www.elections.ps/tabid/1301/language/en-US/Default.aspx", "what": "Central Elections Commission: 2026 local elections and results" },
+        { "url": "https://www.pacc.ps/blog/news/blogpost", "what": "Anti-Corruption Commission: news of referrals and cases" }
+      ]
     },
     "PT": {
       "name": "Portugal",
@@ -370,6 +643,24 @@
         { "url": "https://volby.statistics.sk/ep/ep2024/sk/index.html", "what": "European Parliament election 2024: official results" },
         { "url": "https://volby.statistics.sk/ref/ref2026/sk/index.html", "what": "Referendum 2026: official results" },
         { "url": "https://volbysr.sk/sk/index.html", "what": "2026 elections: official results site" }
+      ]
+    },
+    "SY": {
+      "name": "Syria",
+      "domains": {
+        "gov.sy": {
+          "what": "Public administration: People's Assembly (parliament.gov.sy), Ministry of Justice and Supreme Judicial Council (moj.gov.sy), Central Bank (cb.gov.sy), ministries",
+          "access": "2026-10-22: parliament.gov.sy, presidency.gov.sy, pministry.gov.sy, mofaex.gov.sy, mof.gov.sy, economy.gov.sy and sccourt.gov.sy unreachable; moj.gov.sy renders; cb.gov.sy shows a maintenance page; moi.gov.sy returns error"
+        },
+        "sana.sy": { "what": "Syrian Arab News Agency, state news agency under the Ministry of Information: publishes presidential decrees, appointments and People's Assembly news (attribute as state media). No online official gazette or presidency site was found" }
+      },
+      "watch": [
+        { "url": "https://sana.sy/en/presidency/", "what": "Presidency news: decrees and appointments (English)" },
+        { "url": "https://sana.sy/presidency/", "what": "Presidency news: decrees and appointments (Arabic)" },
+        { "url": "https://sana.sy/peoples-assembly/", "what": "People's Assembly sessions and laws passed" },
+        { "url": "https://sana.sy/government/", "what": "Government and cabinet decisions" },
+        { "url": "https://moj.gov.sy/circulars-page/", "what": "Ministry of Justice circulars" },
+        { "url": "https://moj.gov.sy/category/supreme-judicial-council/", "what": "Supreme Judicial Council decisions" }
       ]
     }
   }

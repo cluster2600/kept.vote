@@ -1,0 +1,94 @@
+[
+  {
+    "id": "rumen-radev-wh-ravnets-pilot",
+    "role": "Fighter pilot, then unit and MiG-29 squadron commander",
+    "organization": "Bulgarian Air Force — 15th Fighter Aviation Regiment / 5th Fighter Air Base, Ravnets",
+    "start_date": "1987",
+    "end_date": "2000",
+    "description": "After graduating top of his class from the air force school at Dolna Mitropoliya in 1987 he served as a fighter pilot; according to Wikipedia he was a junior pilot, deputy unit commander and unit commander in the 15th Fighter Aviation Regiment at Ravnets, then MiG-29 squadron commander (1997–1999) and deputy commander for flight preparation at the 5th Fighter Air Base. The government biography records more than 1,400 flight hours and service as a MiG-29 display pilot.",
+    "category": "military",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel",
+      "https://en.wikipedia.org/wiki/Rumen_Radev"
+    ]
+  },
+  {
+    "id": "rumen-radev-wh-graf-ignatievo",
+    "role": "Chief of staff, then commander of the 3rd Fighter Air Base",
+    "organization": "Bulgarian Air Force — 3rd Fighter Air Base, Graf Ignatievo",
+    "start_date": "2000",
+    "end_date": "2009",
+    "description": "Deputy commander for flight training and chief of staff of the 3rd Fighter Air Base at Graf Ignatievo from 2000, then its commander until July 2009. Sources differ on when he took command: English Wikipedia gives 2004, Bulgarian Wikipedia cites appointment orders of June 2005 and April 2006. He was promoted to brigadier general in April 2007.",
+    "category": "military",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Rumen_Radev",
+      "https://bg.wikipedia.org/wiki/%D0%A0%D1%83%D0%BC%D0%B5%D0%BD_%D0%A0%D0%B0%D0%B4%D0%B5%D0%B2"
+    ]
+  },
+  {
+    "id": "rumen-radev-wh-deputy-commander-af",
+    "role": "Deputy chief of staff for training, then deputy commander of the Air Force",
+    "organization": "Bulgarian Air Force",
+    "start_date": "2009",
+    "end_date": "2014",
+    "description": "Deputy chief of staff for training of the Air Force from July 2009, then deputy chief and, after a 2011 reorganisation, deputy commander of the Air Force until 2014.",
+    "category": "military",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Rumen_Radev",
+      "https://bg.wikipedia.org/wiki/%D0%A0%D1%83%D0%BC%D0%B5%D0%BD_%D0%A0%D0%B0%D0%B4%D0%B5%D0%B2"
+    ]
+  },
+  {
+    "id": "rumen-radev-wh-commander-af",
+    "role": "Commander of the Bulgarian Air Force (major general)",
+    "organization": "Bulgarian Air Force",
+    "start_date": "2014",
+    "end_date": "2016-08",
+    "description": "Commander of the Air Force from 2014, promoted to major general. He resigned on 1 August 2016, formally on reaching the compulsory release age, and explained at a news conference on 16 August that he could not remain subordinate to a defence minister who disregarded his expertise and objected to the paid concept for joint NATO air policing (see polemics).",
+    "category": "military",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel",
+      "https://www.bta.bg/en/news//144946-Former-Air-Force-Commander-Presents-Reasons-for-Resignation"
+    ]
+  },
+  {
+    "id": "rumen-radev-wh-president",
+    "role": "President of the Republic of Bulgaria (президент на Република България)",
+    "organization": "Presidency of the Republic of Bulgaria",
+    "start_date": "2017-01-22",
+    "end_date": "2026-01-23",
+    "description": "Elected in November 2016 with Iliana Iotova as Vice President, sworn in on 19 January 2017 and took office on 22 January 2017; re-elected in November 2021. During the 2021–2026 political crisis he appointed several caretaker governments. He announced his resignation in an address on 19 January 2026, submitted it to the Constitutional Court the next day, and the Court terminated his powers on 23 January 2026, when Iotova became President.",
+    "category": "head_of_state",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel",
+      "https://bntnews.bg/news/bulgarian-constitutional-court-approves-resignation-of-president-rumen-radev-1375496news.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-wh-pb-leader",
+    "role": "Leader of the Progressive Bulgaria coalition",
+    "organization": "Progressive Bulgaria (Прогресивна България)",
+    "start_date": "2026-03",
+    "end_date": null,
+    "description": "Unable to register a new party in time for the snap election, Radev brought together three small parties in early March 2026 to form the Progressive Bulgaria coalition, whose organisational core is made up of his former presidential aides and ministers from caretaker governments he had appointed (OSW). He headed its lists in Burgas and in Sofia's 25th constituency and was its candidate for Prime Minister.",
+    "category": "party",
+    "source_url": [
+      "https://www.osw.waw.pl/en/publikacje/osw-commentary/2026-04-10/presidents-new-clothes-bulgaria-ahead-parliamentary-elections",
+      "https://bntnews.bg/news/-39progressive-bulgaria-39-featuring-former-president-radev-announced-its-top-of-the-list-candidates-for-the-april-19-ea-1383870news.html"
+    ]
+  },
+  {
+    "id": "rumen-radev-wh-prime-minister",
+    "role": "Prime Minister of the Republic of Bulgaria (министър-председател)",
+    "organization": "Council of Ministers of the Republic of Bulgaria (107th cabinet)",
+    "start_date": "2026-05-08",
+    "end_date": null,
+    "description": "Elected by the National Assembly on 8 May 2026 by 124 votes to 70 with 36 abstentions, at the head of a Progressive Bulgaria government backed by the coalition's outright majority (131 of 240 seats) with four deputy prime ministers (Galab Donev, also Finance Minister; Aleksandar Pulev, also Economy Minister; Ivo Hristov; Atanas Pekanov). The cabinet adopted its 2026–2030 governance programme on 12 August 2026.",
+    "category": "government",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel",
+      "https://www.gov.bg/bg/pravitelstvo/sastav-na-pravitelstvoto",
+      "https://www.euronews.com/my-europe/2026/05/08/bulgarian-parliament-confirms-rumen-radev-as-new-prime-minister"
+    ]
+  }
+]

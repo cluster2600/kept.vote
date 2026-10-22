@@ -30,11 +30,12 @@ from profile_format import CORE_SECTIONS, OFFICES, parse_confidence
 
 DATA_DIR = os.getenv("DATA_DIR", "data")
 
-# Countries the site covers: the 27 EU member states, Switzerland and Norway.
+# Countries the site covers: the 27 EU member states, Switzerland and Norway,
+# and Lebanon, Syria, Israel and the Palestinian territories.
 COUNTRY_CODES = {
     "AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GR",
     "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO",
-    "SE", "SI", "SK", "CH", "NO",
+    "SE", "SI", "SK", "CH", "NO", "LB", "SY", "IL", "PS",
 }
 
 # Languages a profile may be written in: the UI locales.

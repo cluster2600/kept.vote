@@ -88,7 +88,8 @@ parliamentary registers of interests) where those are public.
 ```
 
 - `country`: English short name. `country_code`: ISO 3166-1 alpha-2 (`GR` for
-  Greece, not `EL`). Covered: the 27 EU member states, `CH`, `NO`.
+  Greece, not `EL`). Covered: the 27 EU member states, `CH`, `NO`, and `LB`,
+  `SY`, `IL`, `PS` (the Palestinian territories).
 - `office`: one of `head_of_state`, `head_of_government`, `minister`,
   `legislator`, `mayor`, `regional_executive`, `party_leader`, `other`. The UI
   translates this; `role` carries the exact title.
