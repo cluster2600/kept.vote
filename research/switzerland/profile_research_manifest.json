@@ -102,7 +102,7 @@
     },
     {
       "file": "national_comparative_data.json",
-      "sha256": "96857926e4c9b6c271b63e3cc11d80e76837e0a867a91f6f425322ede85404bb",
+      "sha256": "5f9f33e6f79c2796c12033890ce94b5c58293f364e37edd3fb05a01fdeb67aff",
       "source_status": "derived observations; primary URLs contained in file",
       "saved_on": "2026-10-23"
     },
@@ -172,6 +172,28 @@
       "file": "judicial_public_roles.json",
       "sha256": "20e4d4860bcf5eef10db0bc8ef91a69d34b622390160d58e8706e9b646a46bed",
       "source_status": "derived qualified roles; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "sources/bfs-recidivism-web-summary-2026-10-23.html",
+      "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/kriminalitaet-strafrecht/rueckfall.html",
+      "sha256": "d26788592262e97913f78ed49b87e31d6ce1be77bdf45da0e7300ec2db21b3a6",
+      "bytes": 3475776,
+      "retrieval_completed_at": "2026-10-22T22:56:39.792322+00:00",
+      "source_status": "official BFS webpage"
+    },
+    {
+      "file": "sources/urwyler-parole-study-2020-CC-BY.pdf",
+      "url": "https://open-ius.ch/literatur/urwyler_praxis-bedingte-entlassung.pdf",
+      "sha256": "f5f4c5889410dd93cfc1c9ddedbf7e79cd444c39ffcf8765b646fa8e712528dc",
+      "bytes": 3474829,
+      "retrieval_completed_at": "2026-10-22T22:57:00.272554+00:00",
+      "source_status": "primary empirical study, CC BY 4.0; author Christoph Urwyler"
+    },
+    {
+      "file": "historical_cantonal_release_comparison.json",
+      "sha256": "c4c676d937437e13be226e884cfce4807df65832286114026dba4112de099fae",
+      "source_status": "derived observations with primary-source definitions",
       "saved_on": "2026-10-23"
     }
   ],

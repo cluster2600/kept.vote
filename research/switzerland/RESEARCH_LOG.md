@@ -90,3 +90,39 @@ Validation: **17 focused tests passed**, graph has **53,429 nodes and 51,323
 edges**; two directly identified governance edges and one candidate edge retain
 separate types. Source hashes, endpoints, source URLs and git whitespace checks
 passed. No outbound requests or website publication.
+
+## Research pass 3
+
+**22 October 2026, 22:56:00–23:01:27 UTC**, about five and a half minutes of
+research-pass wall time, excluding the intervening scheduled wait.
+
+Queries included `site.bfs.admin.ch "Entlassung 2019" "Rückfall"`,
+`site.bfs.admin.ch "Entlassung 2020" Rückfall`, `"Morges" "03-13-0018"`,
+`"Nasenweg" "Urlaub" "Verfügung"`, `site.bfs.admin.ch "Bedingte Entlassungen"
+Kanton`, `site.bfs.admin.ch "Rückfall" "2019" "46,1"`, and
+`"bedingte Entlassung" Kantone Studie Weber`.
+
+Results:
+- The current official BFS recidivism webpage contains an updated **2019 release
+  cohort of 1,773 people**, explicitly combining Swiss nationals and foreign
+  nationals with C permit. Three-year reconviction is **46.1%**, readmission
+  **19.4%**. Thirteen release-cohort breakdowns were extracted from the page's
+  published table, preserving missing subgroup denominators. This improves on
+  the earlier recovered 2018 Swiss-only workbook without treating their
+  different populations as a comparable trend. Source cutoffs are 15 October
+  2025 (SVS) and 31 March 2026 (criminal register).
+- Recovered Christoph Urwyler's 2020 open-access empirical study, CC BY 4.0.
+  Table 53 contains historical cantonal estimates for 20 cantons. The author
+  excludes six for small counts. Created a 26-canton coverage file with explicit
+  nulls and retained the periods, eligibility-estimation limits and distinction
+  between actual exits and formal approvals. These are not current judge or
+  nationality comparisons and contain no subsequent homicide outcomes.
+- Prepared five precise, anonymisation-preserving document-request drafts for
+  the original orders and 2021 Basel judgment. **None was sent.** The separate
+  release orders remain unrecovered; later quotations do not fill that gap.
+- A bundled runtime lacked BeautifulSoup, so the public webpage table was
+  extracted using the standard-library HTML parser; no dependency was added.
+
+Validation: source hashes, exact table years/total/rates, unique canton codes,
+20 present/six missing counts, historical period differences and all JSON files
+checked. Existing application code and graph were unchanged in this pass.

@@ -2,7 +2,8 @@
 
 Checked 23 October 2026. `national_comparative_data.json` contains **13 national
 annual observations, 52 demographic observations for 2022 and 167 historical
-release-cohort breakdowns**. Original source files are retained under `sources/`.
+release-cohort breakdowns**, plus **13 current 2019 release-cohort breakdowns**
+and a qualified historical comparison covering 20 cantons (six missing). Original source files are retained under `sources/`.
 This is national statistical context, not a comparison of individual judges.
 
 ## Reconviction after a reference judgment
@@ -44,7 +45,32 @@ The dimensions of this particular dataset contain **no judge, panel, nationality
 or canton identifier**. It combines the two eligible nationality groups; it cannot
 compare them. Other BFS datasets may have different dimensions and populations.
 
-## Reconviction after imprisonment: a separate population
+## Updated official release cohort: 2019
+
+The [current BFS summary page](https://www.bfs.admin.ch/bfs/de/home/statistiken/kriminalitaet-strafrecht/rueckfall.html)
+reports **1,773 adults released in 2019**, including Swiss nationals and foreign
+nationals with a C permit. Within three years, **46.1% were reconvicted and 19.4%
+were readmitted**. Source snapshots are dated 15 October 2025 (SVS) and 31 March
+2026 (criminal register). These are different outcomes, neither a homicide rate.
+
+| Published group in the 2019 release cohort | Reconviction (%) | Readmission (%) |
+| --- | ---: | ---: |
+| Total | 46.1 | 19.4 |
+| Men | 45.1 | 18.5 |
+| Women | 53.2 | 25.2 |
+| No prior conviction | 33.5 | 8.9 |
+| One prior conviction | 38.6 | 16.4 |
+| At least two prior convictions | 59.7 | 28.4 |
+| Initial violent offence category | 38.6 | 14.7 |
+
+The violent-offence row describes the **initial offence group**. It does not
+report how many people later committed homicide or another violent offence.
+Subgroup denominators and exact reconviction/readmission counts are not supplied
+in that table and remain null. The eligible nationality groups are combined,
+without a nationality breakdown. The older workbook below is kept as a distinct
+Swiss-only population and must not be treated as a like-for-like trend.
+
+## Reconviction after imprisonment: an older, separate population
 
 The recovered [BFS 2024 workbook, table T 19.06.01.01](https://dam-api.bfs.admin.ch/hub/api/dam/assets/32809186/master)
 contains selected release cohorts from 1988 to 2018. Its footnote explicitly
@@ -76,3 +102,45 @@ release, later homicide or “absurdity” is supported here.
 The separate release orders sought in Morges, Zurich and Basel remain outstanding.
 The Morges full judgment now identifies exact dates, authorities and file references
 for its earlier orders. See `JUDICIAL_DECISIONS.md` and the case JSON.
+
+## Historical cantonal comparison, with missing cantons retained
+
+Christoph Urwyler's 2020 empirical study reproduces BFS estimates in **table 53,
+printed page 395 (PDF page 450)**. The following figures concern **2001–2016**.
+They estimate actual conditional exits among an estimated eligible population
+with custody over 91 days, including treatment measures. They are not current
+judge approval rates. [Study, CC BY 4.0](https://open-ius.ch/literatur/urwyler_praxis-bedingte-entlassung.pdf).
+
+| Canton | Historical estimated conditional release (%) |
+| --- | ---: |
+| AG | 69 |
+| AI | Not published |
+| AR | Not published |
+| BE | 61 |
+| BL | 76 |
+| BS | 74 |
+| FR | 62 |
+| GE | 70 |
+| GL | Not published |
+| GR | 58 |
+| JU | 78 |
+| LU | 73 |
+| NE | 70 |
+| NW | Not published |
+| OW | Not published |
+| SG | 70 |
+| SH | 56 |
+| SO | 69 |
+| SZ | 64 |
+| TG | 77 |
+| TI | 67 |
+| UR | Not published |
+| VD | 50 |
+| VS | 66 |
+| ZG | 61 |
+| ZH | 76 |
+
+The author omitted six cantons because of small counts. Eligibility estimates,
+counting rules and case mix limit comparisons (study pages 125–132). No judge,
+nationality or subsequent-homicide breakdown is supplied. Full periods, original
+rounded values and explicit nulls are in `historical_cantonal_release_comparison.json`.

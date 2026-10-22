@@ -2891,6 +2891,167 @@
           "source_cells": "'1988'!A23:F23"
         }
       ]
+    },
+    {
+      "id": "bfs-web-release-recidivism-2019",
+      "source_url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/kriminalitaet-strafrecht/rueckfall.html",
+      "source_table": "Rückfallraten nach Referenzjahr",
+      "reference_event": "release from imprisonment",
+      "population": "Swiss nationals and foreign nationals with C permit, as explicitly defined by current page footnotes 2 and 3",
+      "cohort_n": 1773,
+      "release_year": 2019,
+      "follow_up_years": 3,
+      "sus_register_as_of": "2026-03-31",
+      "svs_database_as_of": "2025-10-15",
+      "source_precision": "one decimal percentage point for release rates; subgroup counts not published in this table",
+      "nationality_breakdown_present": false,
+      "judge_or_panel_identifier_present": false,
+      "records": [
+        {
+          "dimension_as_published": "total",
+          "category_as_published": "Rückfällige Erwachsene",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 46.1,
+          "readmission_pct": 19.4,
+          "subgroup_denominator_n": 1773,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Geschlecht",
+          "category_as_published": "männlich",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 45.1,
+          "readmission_pct": 18.5,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Geschlecht",
+          "category_as_published": "weiblich",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 53.2,
+          "readmission_pct": 25.2,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Alter",
+          "category_as_published": "18 - 24 Jahre",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 53.3,
+          "readmission_pct": 17.0,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Alter",
+          "category_as_published": "25 - 34 Jahre",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 48.8,
+          "readmission_pct": 20.0,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Alter",
+          "category_as_published": "35 - 44 Jahre",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 50.6,
+          "readmission_pct": 24.5,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Alter",
+          "category_as_published": "45 Jahre und älter",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 37.2,
+          "readmission_pct": 15.2,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Anzahl Vorverurteilungen",
+          "category_as_published": "Keine Vorverurteilung",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 33.5,
+          "readmission_pct": 8.9,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Anzahl Vorverurteilungen",
+          "category_as_published": "Eine Vorverurteilung",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 38.6,
+          "readmission_pct": 16.4,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach Anzahl Vorverurteilungen",
+          "category_as_published": "Zwei Vorverurteilungen oder mehr",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 59.7,
+          "readmission_pct": 28.4,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach ausgewählten Straftaten",
+          "category_as_published": "Gewaltdelikte4)",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 38.6,
+          "readmission_pct": 14.7,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach ausgewählten Straftaten",
+          "category_as_published": "Diebstahl5)",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 58.8,
+          "readmission_pct": 31.0,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        },
+        {
+          "dimension_as_published": "Nach ausgewählten Straftaten",
+          "category_as_published": "Handel mit Betäubungsmitteln6)",
+          "release_year": 2019,
+          "follow_up_years": 3,
+          "reconviction_pct": 45.1,
+          "readmission_pct": 18.5,
+          "subgroup_denominator_n": null,
+          "subgroup_reconvicted_n": null,
+          "subgroup_readmitted_n": null
+        }
+      ],
+      "interpretation": "Updated official website summary with broader population than the archived Swiss-only 2018 workbook. Does not supply a Swiss-versus-foreign comparison or homicide-specific outcome."
     }
   ],
   "interpretation": "The populations, reference events and periods differ. Do not interpret a difference between these two datasets as change in judge performance or effect of release. Neither dataset measures judges allowing foreign nationals to commit homicide."
