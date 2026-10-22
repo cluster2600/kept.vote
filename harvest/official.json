@@ -256,6 +256,42 @@
         "valasztas.hu": { "what": "National Election Office" }
       }
     },
+    "IE": {
+      "name": "Ireland",
+      "domains": {
+        "oireachtas.ie": {
+          "what": "Houses of the Oireachtas: TDs and senators, office holders, bills and Acts, election results, Register of Members' Interests, members' pay (open data at api.oireachtas.ie)",
+          "access": "2026-10-22: member, bill and register pages render and api.oireachtas.ie returns JSON; debate, vote and search pages answer with a 'Human Verification' puzzle (blocked); data.oireachtas.ie documents are PDFs, fingerprinted only"
+        },
+        "president.ie": {
+          "what": "President: bills signed or referred to the Supreme Court, appointment of the Taoiseach and Government",
+          "access": "2026-10-22: every page returned a scheduled-maintenance notice; recheck"
+        },
+        "irishstatutebook.ie": { "what": "Irish Statute Book (Attorney General): Acts and statutory instruments as enacted" },
+        "irisoifigiuil.ie": {
+          "what": "Iris Oifigiúil (official gazette)",
+          "access": "2026-10-22: robots.txt disallows the harvest"
+        },
+        "courts.ie": {
+          "what": "Courts Service: judgments and court notices",
+          "access": "2026-10-22: courts.ie/judgments redirects to a 'judgments temporarily unavailable' notice"
+        },
+        "sipo.ie": {
+          "what": "Standards in Public Office Commission: office holders' statements of interests, ethics investigations, political donations, party accounts, election expenses",
+          "access": "2026-10-22: every page answers 403 Forbidden (blocked)"
+        },
+        "electoralcommission.ie": { "what": "Electoral Commission: Register of Political Parties, referendums, constituency reviews" },
+        "cso.ie": { "what": "Central Statistics Office: official statistics" }
+      },
+      "watch": [
+        { "url": "https://www.oireachtas.ie/en/members/register-of-members-interests/", "what": "Register of Members' Interests (Dáil and Seanad) and supplements" },
+        { "url": "https://www.oireachtas.ie/en/elections/", "what": "Dáil and Seanad general and by-election results" },
+        { "url": "https://www.oireachtas.ie/en/bills/", "what": "Bills scheduled for discussion" },
+        { "url": "https://www.irishstatutebook.ie/eli/2026/act/", "what": "Acts of 2026 as enacted" },
+        { "url": "https://www.oireachtas.ie/en/members/salaries-and-allowances/salaries/", "what": "Pay of TDs, senators, the Taoiseach and ministers" },
+        { "url": "https://www.electoralcommission.ie/media-releases/", "what": "Electoral Commission media releases" }
+      ]
+    },
     "IT": {
       "name": "Italy",
       "domains": {

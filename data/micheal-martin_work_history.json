@@ -1,0 +1,196 @@
+[
+  {
+    "id": "micheal-martin-wh-teacher",
+    "role": "History teacher",
+    "organization": "Presentation Brothers College, Cork",
+    "start_date": "1984",
+    "end_date": "1985",
+    "description": "After a BA, an MA in political history and a Higher Diploma in Education, he taught history for about a year, leaving to become a full-time politician on his election to Cork Corporation in 1985 (Wikipedia; the exact start date is not documented in the sources consulted).",
+    "category": "education",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-cork-council",
+    "role": "Member of Cork Corporation (Cork City Council), Cork South-Central local electoral area",
+    "organization": "Cork Corporation",
+    "start_date": "1985-06",
+    "end_date": "1999-06",
+    "description": "Elected in June 1985 and re-elected at the top of the poll in June 1991 while a TD; he did not stand in 1999, when his brother Seán Martin was elected for Fianna Fáil in the same area.",
+    "category": "local_government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1985_Cork_City_Council_election",
+      "https://en.wikipedia.org/wiki/1991_Cork_City_Council_election",
+      "https://en.wikipedia.org/wiki/1999_Cork_City_Council_election",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-lord-mayor",
+    "role": "Lord Mayor of Cork",
+    "organization": "Cork Corporation",
+    "start_date": "1992-06-20",
+    "end_date": "1993-06-21",
+    "description": "One-year term as the city's first citizen, elected by the council.",
+    "category": "local_government",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-td",
+    "role": "Teachta Dála (TD) for Cork South-Central",
+    "organization": "Dáil Éireann",
+    "start_date": "1989-06",
+    "end_date": null,
+    "description": "Elected at the June 1989 general election after an unsuccessful first attempt in 1987, and re-elected at every general election since (1992, 1997, 2002, 2007, 2011, 2016, 2020 and 2024), a member of the 26th to the 34th Dáil.",
+    "category": "legislature",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://www.oireachtas.ie/en/members/member/Miche%C3%A1l-Martin.D.1989-06-29/",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-spokesperson-education",
+    "role": "Fianna Fáil front-bench spokesperson on Education and the Gaeltacht",
+    "organization": "Fianna Fáil (in opposition)",
+    "start_date": "1995",
+    "end_date": "1997-06",
+    "description": "Appointed to Bertie Ahern's opposition front bench at the start of 1995, after Fianna Fáil lost power in December 1994.",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-min-education",
+    "role": "Minister for Education (Minister for Education and Science from 30 September 1997)",
+    "organization": "Government of Ireland",
+    "start_date": "1997-06-26",
+    "end_date": "2000-01-27",
+    "description": "Youngest member of Bertie Ahern's first cabinet, aged 36. His tenure saw higher spending at all levels of education, a review of the primary curriculum, the introduction of special needs assistants and the Education Act 1998.",
+    "category": "executive",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin",
+      "https://www.irishstatutebook.ie/eli/1998/act/51/enacted/en/html"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-min-health",
+    "role": "Minister for Health and Children",
+    "organization": "Government of Ireland",
+    "start_date": "2000-01-27",
+    "end_date": "2004-09-29",
+    "description": "Introduced the ban on smoking in workplaces, including pubs and restaurants, in force from 29 March 2004; launched the reform that abolished the regional health boards in favour of the Health Service Executive (established under the Health Act 2004, enacted after he had left the department); deregulated pharmacies in January 2002. His record on illegal charges for public nursing-home residents was examined in the 2005 Travers report (see polemics).",
+    "category": "executive",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin",
+      "https://www.irishstatutebook.ie/eli/2004/act/6/enacted/en/html",
+      "https://www.irishstatutebook.ie/eli/2004/act/42/enacted/en/html"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-min-enterprise",
+    "role": "Minister for Enterprise, Trade and Employment",
+    "organization": "Government of Ireland",
+    "start_date": "2004-09-29",
+    "end_date": "2008-05-07",
+    "description": "Swapped departments with Mary Harney in September 2004. Abolished the Groceries Order 1987, which had banned below-cost selling of groceries, through the Competition (Amendment) Act 2006.",
+    "category": "executive",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin",
+      "https://www.irishstatutebook.ie/eli/2006/act/4/enacted/en/html"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-min-foreign-2008",
+    "role": "Minister for Foreign Affairs",
+    "organization": "Government of Ireland",
+    "start_date": "2008-05-07",
+    "end_date": "2011-01-19",
+    "description": "Appointed by Brian Cowen. Led the government's unsuccessful campaign in the June 2008 referendum on the Lisbon Treaty; made the first official visit by an Irish minister to Cuba (2009); visited Gaza in February 2010, the first Western foreign minister to do so since Hamas took control in 2007, according to Wikipedia, and called on Israel to lift the blockade. Resigned in January 2011 after announcing he would vote against Cowen in a party confidence motion; Cowen first refused and then accepted the resignation.",
+    "category": "executive",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-ff-leader",
+    "role": "Leader of Fianna Fáil",
+    "organization": "Fianna Fáil",
+    "start_date": "2011-01-26",
+    "end_date": null,
+    "description": "Elected eighth leader of the party by its parliamentary party after Cowen stood down as leader. He led it to its worst result in February 2011 (20 seats), a partial recovery in 2016 (44 seats), 38 seats in 2020 and first place with 48 seats in 2024.",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin",
+      "https://en.wikipedia.org/wiki/2020_Irish_general_election",
+      "https://en.wikipedia.org/wiki/2024_Irish_general_election"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-opposition-leader",
+    "role": "Leader of the Opposition",
+    "organization": "Dáil Éireann",
+    "start_date": "2011-03-09",
+    "end_date": "2020-06-27",
+    "description": "Led the opposition to the Fine Gael-led governments of Enda Kenny and Leo Varadkar; from 2016 to 2020 Fianna Fáil facilitated Fine Gael minority governments under a confidence-and-supply agreement, which Martin agreed in December 2018 to extend.",
+    "category": "legislature",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-taoiseach-2020",
+    "role": "Taoiseach",
+    "organization": "Government of Ireland",
+    "start_date": "2020-06-27",
+    "end_date": "2022-12-17",
+    "description": "Nominated by the Dáil by 93 votes to 63 on 27 June 2020 at the head of a Fianna Fáil–Fine Gael–Green Party coalition, with Leo Varadkar as Tánaiste. Led the government through the COVID-19 pandemic and the end of the Brexit transition; twice briefly acted as Minister for Agriculture, Food and the Marine in 2020 after the departures of Barry Cowen and Dara Calleary. Resigned on 17 December 2022 under the coalition's rotation agreement.",
+    "category": "executive",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://api.oireachtas.ie/v1/divisions?chamber=dail&date_start=2020-06-27&date_end=2020-06-27&limit=20",
+      "https://www.thejournal.ie/fianna-fail-leader-micheal-martin-has-been-elected-taoiseach-5133786-Jun2020/",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-tanaiste",
+    "role": "Tánaiste, Minister for Foreign Affairs and Minister for Defence",
+    "organization": "Government of Ireland",
+    "start_date": "2022-12-17",
+    "end_date": "2025-01-23",
+    "description": "Deputy head of government under Taoisigh Leo Varadkar and, from April 2024, Simon Harris. As Minister for Foreign Affairs he took part in Ireland's recognition of the State of Palestine (May 2024) and the decision to intervene in South Africa's genocide case against Israel at the International Court of Justice; as Minister for Defence he convened the 2023 Consultative Forum on International Security Policy.",
+    "category": "executive",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin",
+      "https://www.thejournal.ie/ireland-recognising-palestine-6391201-May2024/",
+      "https://www.thejournal.ie/micheal-martin-government-not-hostile-israel-embassy-closure-6573012-Dec2024/"
+    ]
+  },
+  {
+    "id": "micheal-martin-wh-taoiseach-2025",
+    "role": "Taoiseach",
+    "organization": "Government of Ireland",
+    "start_date": "2025-01-23",
+    "end_date": null,
+    "description": "Nominated by the Dáil by 95 votes to 76 on 23 January 2025, a day later than planned after a dispute over speaking rights halted the first sitting, at the head of a Fianna Fáil–Fine Gael coalition supported by Regional Independent TDs, with Simon Harris as Tánaiste, under the programme for government 'Securing Ireland's Future'. Ireland holds the presidency of the Council of the EU from July to December 2026.",
+    "category": "executive",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://www.oireachtas.ie/en/members/member/Miche%C3%A1l-Martin.D.1989-06-29/",
+      "https://api.oireachtas.ie/v1/divisions?chamber=dail&date_start=2025-01-23&date_end=2025-01-23&limit=20",
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.finegael.ie/Programme-For-Government-2025",
+      "https://www.irishtimes.com/politics/2026/10/13/taoiseach-to-chair-new-cabinet-ai-committee-on-regulation-and-impact-of-technology/"
+    ]
+  }
+]
