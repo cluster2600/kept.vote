@@ -1,0 +1,53 @@
+[
+  {
+    "id": "christoph-hurni-wh-clerk-bger",
+    "role": "Court clerk (Gerichtsschreiber)",
+    "organization": "Federal Supreme Court of Switzerland (Bundesgericht)",
+    "start_date": "2008",
+    "end_date": "2017",
+    "description": "Court clerk at the Federal Supreme Court from 2008 to 2017, according to his Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html"
+    ]
+  },
+  {
+    "id": "christoph-hurni-wh-obergericht-parttime",
+    "role": "Part-time senior judge (nebenamtlicher Oberrichter)",
+    "organization": "High Court of the Canton of Bern (Obergericht des Kantons Bern)",
+    "start_date": "2013",
+    "end_date": "2017",
+    "description": "Part-time judge of the Bern High Court from 2013 to 2017, alongside his clerkship at the Federal Supreme Court, according to his Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html"
+    ]
+  },
+  {
+    "id": "christoph-hurni-wh-obergericht",
+    "role": "Senior judge (Oberrichter), President of the Second Civil Chamber",
+    "organization": "High Court of the Canton of Bern (Obergericht des Kantons Bern)",
+    "start_date": "2017",
+    "end_date": "2020",
+    "description": "Judge of the Bern High Court from 2017 to 2020 and president of its Second Civil Chamber (II. Zivilkammer), according to his Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html"
+    ]
+  },
+  {
+    "id": "christoph-hurni-wh-federal-judge",
+    "role": "Federal Judge (Bundesrichter / juge fédéral); President of the First Civil Law Division",
+    "organization": "Federal Supreme Court of Switzerland (Bundesgericht / Tribunal fédéral)",
+    "start_date": "2020",
+    "end_date": null,
+    "description": "His Federal Supreme Court biography lists him as a deputy (part-time) judge of the Court from 2020 and records his election as a federal judge by the United Federal Assembly on 23 September 2020. In 2023 he sat on a panel of the Second Criminal Law Division (cases 7B_15/2021 and 7B_16/2021, see polemics). As of October 2026 the Court's roster lists him as President of the First Civil Law Division (président de la première Cour de droit civil); the start date of that presidency is not given. The biography also lists him as a titular professor (Titularprofessor) at the University of Zurich, without a start date.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-gericht/federal-gerichts-abteilungen/federal-gerichts-abteilungen-erstezivilabteilung.htm",
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom="
+    ]
+  }
+]

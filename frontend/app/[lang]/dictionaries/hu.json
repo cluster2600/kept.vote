@@ -54,6 +54,7 @@
     "mayor": "Polgármester",
     "regional_executive": "Regionális vezető",
     "party_leader": "Pártvezető",
+    "judge": "Bíró",
     "other": "Egyéb tisztség"
   },
   "notFound": {
