@@ -11,11 +11,27 @@ that passes strict validation.
    (`ursula-von-der-leyen`, `petr-fiala`). Diacritics are dropped in the slug
     only, never in the data.
 2. Research and write the files below. Record the research date in your commit
-   message: profiles describe the situation **as of that date**.
+   message: profiles describe the situation **as of that date**. Read source
+   pages through the harvest, which returns them as Markdown marked untrusted
+   (see [HARVEST.md](HARVEST.md)):
+
+   ```bash
+   python harvest.py fetch https://www.gov.pl/web/premier
+   ```
+
 3. Validate. New profiles must pass strict mode:
 
    ```bash
    python validate_profile.py --strict <slug>
+   ```
+
+   Then check that every source answers. `sync` loads the profile's URLs, `run`
+   harvests the next 20 (repeat until none is "not checked yet"), and `report`
+   lists the ones that are dead, blocked or unreachable:
+
+   ```bash
+   python harvest.py sync && python harvest.py run
+   python harvest.py report --slug <slug>
    ```
 
 4. Import locally and check the page renders:
