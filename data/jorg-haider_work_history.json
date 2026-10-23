@@ -1,0 +1,123 @@
+[
+  {
+    "id": "haider-vienna-assistant",
+    "role": "University research assistant",
+    "organization": "University of Vienna, Institute of Constitutional and Administrative Law",
+    "start_date": "1973",
+    "end_date": "1976",
+    "description": "Career entry listed in the parliamentary biography.",
+    "category": "academic",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-kostmann",
+    "role": "Employee",
+    "organization": "Kostmann, Klagenfurt",
+    "start_date": "1976",
+    "end_date": "1977",
+    "description": "Employment listed by Parliament; no ownership stake inferred.",
+    "category": "private-sector",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-nationalrat-1979",
+    "role": "Member of the National Council",
+    "organization": "Austrian Parliament",
+    "start_date": "1979-06-05",
+    "end_date": "1983-06-14",
+    "description": "FPÖ parliamentarian; dates follow the official mandate record.",
+    "category": "elected-office",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-nationalrat-1986",
+    "role": "Member of the National Council",
+    "organization": "Austrian Parliament",
+    "start_date": "1986-12-17",
+    "end_date": "1989-05-30",
+    "description": "FPÖ parliamentarian; dates follow the official mandate record.",
+    "category": "elected-office",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-nationalrat-1992",
+    "role": "Member of the National Council",
+    "organization": "Austrian Parliament",
+    "start_date": "1992-03-11",
+    "end_date": "1999-04-07",
+    "description": "FPÖ parliamentarian; dates follow the official mandate record.",
+    "category": "elected-office",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-fpo-leader",
+    "role": "Federal party chairman",
+    "organization": "Freedom Party of Austria (FPÖ)",
+    "start_date": "1986",
+    "end_date": "2000",
+    "description": "Party leadership, distinct from holding a federal government office.",
+    "category": "politics",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-carinthia-first",
+    "role": "Governor (Landeshauptmann)",
+    "organization": "Land Kärnten / Carinthia",
+    "start_date": "1989-04-21",
+    "end_date": "1991-06-21",
+    "description": "First term; removed following the controversy over his praise for Nazi-era employment policy.",
+    "category": "elected-office",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490",
+      "https://newsv1.orf.at/060916-3953/3964txt_story.html"
+    ]
+  },
+  {
+    "id": "haider-carinthia-second",
+    "role": "Governor (Landeshauptmann)",
+    "organization": "Land Kärnten / Carinthia",
+    "start_date": "1999-04-08",
+    "end_date": "2008-10-11",
+    "description": "Second period as governor, ending with his death.",
+    "category": "elected-office",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-austria-convention",
+    "role": "Member",
+    "organization": "Österreich-Konvent",
+    "start_date": "2003-06-30",
+    "end_date": "2005-01-31",
+    "description": "Constitutional convention membership listed in the parliamentary record.",
+    "category": "politics",
+    "source_url": [
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-bzo-founder",
+    "role": "Founding politician",
+    "organization": "Alliance for the Future of Austria (BZÖ)",
+    "start_date": "2005-04",
+    "end_date": null,
+    "description": "Founded the BZÖ after breaking with the FPÖ. The parliamentary biography compresses leadership dates; this entry does not assert an uninterrupted chairmanship through 2008.",
+    "category": "politics",
+    "source_url": [
+      "https://www.demokratiezentrum.org/ressourcen/lexikon/haider-joerg/"
+    ]
+  }
+]

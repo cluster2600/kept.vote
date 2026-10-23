@@ -1,0 +1,29 @@
+[
+  {
+    "id": "haider-national-election-1999",
+    "election": "Austrian National Council election",
+    "date": "1999-10-03",
+    "role_sought": "FPÖ party leadership in the federal election",
+    "result": "FPÖ won 52 seats",
+    "vote_share": "26.91% (FPÖ national list)",
+    "opponent": null,
+    "detail": "Party result under Haider, not a personal election as chancellor or a personal preference-vote percentage. FPÖ narrowly exceeded ÖVP in votes; both won 52 seats.",
+    "source_url": [
+      "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1999/start.html"
+    ]
+  },
+  {
+    "id": "haider-national-election-2008",
+    "election": "Austrian National Council election",
+    "date": "2008-09-28",
+    "role_sought": "Lead candidate of BZÖ – Liste Jörg Haider",
+    "result": "BZÖ received 522,933 votes",
+    "vote_share": "10.70% (BZÖ national list)",
+    "opponent": null,
+    "detail": "National party-list result. It does not establish that Haider took a National Council seat after this election; his official mandate record ends in 1999.",
+    "source_url": [
+      "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2008/",
+      "https://www.parlament.gv.at/person/490"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "haider-nazi-employment-1991",
+    "title": "Praise for Nazi-era employment policy and removal as governor",
+    "period": "1991-06",
+    "category": "historical-revisionism",
+    "description": "On 13 June 1991 Haider praised the employment policy of the Third Reich during a Carinthian parliamentary exchange. He withdrew the remark with an expression of regret. SPÖ and ÖVP votes removed him as governor on 21 June.",
+    "status": "political",
+    "confidence_score": null,
+    "key_facts": [
+      "Statement: 13 June 1991.",
+      "Removal from office: 21 June 1991.",
+      "Retraction and regret are part of the record.",
+      "Documented political statement and removal from office; not a criminal conviction."
+    ],
+    "source_url": [
+      "https://newsv1.orf.at/060916-3953/3964txt_story.html",
+      "https://www.parlament.gv.at/person/490"
+    ]
+  },
+  {
+    "id": "haider-immigration-petition-1993",
+    "title": "Österreich zuerst petition and opposition to its immigration restrictions",
+    "period": "1992–1993",
+    "category": "immigration-and-equality",
+    "description": "The FPÖ under Haider promoted a petition seeking a constitutional non-immigration declaration, an immigration stop and restrictions affecting foreign nationals. The Lichtermeer demonstration opposed this agenda. These are documented policy demands, not evidence of their enactment.",
+    "status": "political",
+    "confidence_score": null,
+    "key_facts": [
+      "Parliamentary document 1015, XVIII. GP, page 1 contains 12 demands.",
+      "The petition included a 30% ceiling for pupils with a non-German mother tongue in specified classes.",
+      "416,531 signatures; 7.35% of eligible voters.",
+      "Documented campaign; implementation of individual demands not assessed."
+    ],
+    "source_url": [
+      "https://www.parlament.gv.at/dokument/XVIII/I/1015/imfname_262224.pdf",
+      "https://hdgoe.at/auslaender-volksbegehren"
+    ]
+  },
+  {
+    "id": "haider-coalition-2000",
+    "title": "ÖVP–FPÖ coalition and bilateral measures by fourteen EU member states",
+    "period": "2000",
+    "category": "international-relations",
+    "description": "The entry of the FPÖ into coalition with the ÖVP triggered domestic and international opposition. Fourteen EU member states imposed bilateral measures against Austria. Haider stepped down as FPÖ chairman; he did not head the federal government. The measures were lifted in September 2000.",
+    "status": "resolved",
+    "confidence_score": null,
+    "key_facts": [
+      "Bilateral measures by fourteen states must be distinguished from a formal sanction imposed by EU institutions.",
+      "The Three Wise Men report recommended revoking the measures.",
+      "Party leadership and regional governorship are distinct from federal government office.",
+      "Historical diplomatic dispute; measures lifted 12 September 2000."
+    ],
+    "source_url": [
+      "https://www.demokratiezentrum.org/ressourcen/lexikon/haider-joerg/",
+      "https://fra.europa.eu/sites/default/files/fra_uploads/1940-ar_2000_summary-en.pdf"
+    ]
+  },
+  {
+    "id": "haider-slovene-signs",
+    "title": "Attempts to circumvent bilingual place-name sign judgments",
+    "period": "2001–2008; settlement in 2011",
+    "category": "minority-rights-and-rule-of-law",
+    "description": "The Constitutional Court recounts Haider’s attacks on its president and attempts to avoid bilingual signs by moving signs and adding small Slovene supplementary plates. The court rejected these arrangements. The eventual 2011 settlement came after Haider’s death.",
+    "status": "political",
+    "confidence_score": null,
+    "key_facts": [
+      "Court retrospective identifies the 13 December 2001 judgment.",
+      "Court rejected the circumvention arrangements.",
+      "2011 settlement must not be credited to Haider as an implemented personal promise.",
+      "Documented constitutional dispute; no personal criminal conviction asserted."
+    ],
+    "source_url": [
+      "https://www.vfgh.gv.at/timeline/2001__Kaerntner_Ortstafeln.de.html"
+    ]
+  },
+  {
+    "id": "haider-fatal-crash",
+    "title": "Fatal crash: excessive speed and alcohol",
+    "period": "2008-10-11; investigation closed 2009-04-14",
+    "category": "public-conduct",
+    "description": "Haider died at Lambichl near Klagenfurt while driving his official VW Phaeton. Contemporary reporting put his speed at 142 km/h. ORF reported 1.8‰ blood alcohol and the prosecutor’s conclusion of driver error. The investigation found no vehicle manipulation or external involvement.",
+    "status": "resolved",
+    "confidence_score": null,
+    "key_facts": [
+      "The collision occurred on the Loiblpass road (B91) at Lambichl near Klagenfurt.",
+      "ORF describes a late visit to the Stadtkrämer bar and an intended journey to Bärental.",
+      "The prosecutor’s reported closure attributes the accident to driver error; the original case file has not been obtained.",
+      "Accident investigation closed; no homicide or sabotage finding."
+    ],
+    "source_url": [
+      "https://www.derstandard.at/story/1220460584014/haider-war-zum-unfallzeitpunkt-mit-142-kmh-unterwegs",
+      "https://ktnv1.orf.at/stories/355274",
+      "https://orf.at/stories/3053161/"
+    ]
+  },
+  {
+    "id": "haider-hypo-guarantees",
+    "title": "Carinthia’s Hypo Alpe Adria guarantee exposure",
+    "period": "2006 accounts; later parliamentary inquiry",
+    "category": "public-finance",
+    "description": "A witness in the parliamentary Hypo inquiry described Carinthia’s bank guarantees in the 2006 accounts as approximately EUR 24.7 billion. Haider was then governor. This is a regional contingent liability, not his personal wealth, a realised loss of that amount, or a criminal judgment against him.",
+    "status": "political",
+    "confidence_score": null,
+    "key_facts": [
+      "Inquiry transcript discusses 2006 regional accounts.",
+      "Guarantees must be distinguished from cash expenditure and ultimate taxpayer loss.",
+      "The 2016 inquiry report and separate party reports need substantive review before further findings.",
+      "Public-finance accountability issue; individual criminal liability not established here."
+    ],
+    "source_url": [
+      "https://www.parlament.gv.at/dokument/XXV/KOMM/225/fnameorig_503632.html",
+      "https://www.parlament.gv.at/gegenstand/XXV/I/1291",
+      "https://www.parlament.gv.at/person/490"
+    ]
+  }
+]

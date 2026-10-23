@@ -1,0 +1,20 @@
+[
+  {
+    "id": "haider-crash-investigation",
+    "case": "Investigation of the fatal road crash",
+    "period": "2008-10-11–2009-04-14",
+    "type": "other",
+    "description": "ORF reported that the Klagenfurt public prosecutor closed the investigation after attributing the crash to driver error, with excessive speed and alcohol. Technical and medical examinations did not establish manipulation, external involvement or a sudden medical cause.",
+    "status": "Closed",
+    "outcome": "No external involvement established; no criminal conviction of Haider",
+    "court": "Staatsanwaltschaft Klagenfurt (public prosecutor, not a trial court)",
+    "presumption_note": "Haider was the deceased driver. Closure of this accident investigation is not a conviction, acquittal or assessment of his entire legal record. The original prosecution decision has not been obtained.",
+    "key_facts": [
+      "Source is reporting of the prosecutor’s statement, not the original case file.",
+      "Second forensic assessment corroborated the reported findings."
+    ],
+    "source_url": [
+      "https://ktnv1.orf.at/stories/355274"
+    ]
+  }
+]

@@ -1,0 +1,586 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-23",
+  "scope": {
+    "country": "Austria",
+    "first_subject": "jorg-haider",
+    "complete": false,
+    "national_roster_denominator": null,
+    "profiles_researched": 1,
+    "live_database_imported": false,
+    "public_site_verified": false
+  },
+  "person": {
+    "id": "jorg-haider",
+    "name": "Jörg Haider",
+    "official_id": "parliament:490",
+    "birth_date": "1950-01-26",
+    "death_date": "2008-10-11",
+    "birthplace": "Bad Goisern, Upper Austria",
+    "source_ids": [
+      "parliament-bio"
+    ],
+    "religion": null,
+    "sexual_orientation": null,
+    "personal_tax_returns": null,
+    "personal_net_worth": null,
+    "criminal_record_complete": false
+  },
+  "sources": [
+    {
+      "id": "parliament-bio",
+      "url": "https://www.parlament.gv.at/person/490",
+      "publisher": "Austrian Parliament",
+      "document_date": "2008-10-13",
+      "retrieved_on": "2026-10-23",
+      "locator": "Official biography: mandates, career, education; parliamentary biography includes self-reported information.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "election-1999",
+      "url": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1999/start.html",
+      "publisher": "Federal Ministry of the Interior",
+      "document_date": null,
+      "retrieved_on": "2026-10-23",
+      "locator": "Wahltag, Stichtag, Gesamtergebnis; mandates table.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "election-2008",
+      "url": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2008/",
+      "publisher": "Federal Ministry of the Interior",
+      "document_date": null,
+      "retrieved_on": "2026-10-23",
+      "locator": "National total, BZÖ row. Party-list result, not a personal vote share.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "petition-original",
+      "url": "https://www.parlament.gv.at/dokument/XVIII/I/1015/imfname_262224.pdf",
+      "publisher": "Austrian Parliament",
+      "document_date": "1993-04-15",
+      "retrieved_on": "2026-10-23",
+      "locator": "1015 der Beilagen, XVIII. GP, printed page 1: numbered demands 1–12. Text extraction reviewed; scan remains authoritative.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": true,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "petition-context",
+      "url": "https://hdgoe.at/auslaender-volksbegehren",
+      "publisher": "Haus der Geschichte Österreich",
+      "document_date": null,
+      "retrieved_on": "2026-10-23",
+      "locator": "1993: Lichtermeer; petition demands, opposition and signatures.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "nazi-remark",
+      "url": "https://newsv1.orf.at/060916-3953/3964txt_story.html",
+      "publisher": "ORF",
+      "document_date": "2006-09-16",
+      "retrieved_on": "2026-10-23",
+      "locator": "Chronology: 13, 18 and 21 June 1991.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "signs-court",
+      "url": "https://www.vfgh.gv.at/timeline/2001__Kaerntner_Ortstafeln.de.html",
+      "publisher": "Austrian Constitutional Court",
+      "document_date": null,
+      "retrieved_on": "2026-10-23",
+      "locator": "Court retrospective: 2001 judgment, attempts to circumvent judgments, 2011 settlement.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "crash-closure",
+      "url": "https://ktnv1.orf.at/stories/355274",
+      "publisher": "ORF",
+      "document_date": "2009-04-14",
+      "retrieved_on": "2026-10-23",
+      "locator": "Ermittlungen zu Haiders Unfall eingestellt. Article date 14 April 2009; archive masthead displays a different date. Reports prosecutor Gottfried Kranz; original prosecution file not obtained.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "crash-retrospective",
+      "url": "https://orf.at/stories/3053161/",
+      "publisher": "ORF",
+      "document_date": "2018-10-10",
+      "retrieved_on": "2026-10-23",
+      "locator": "Haiders Todesfahrt und ihre Folgen; final evening and destination.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "crash-speed",
+      "url": "https://www.derstandard.at/story/1220460584014/haider-war-zum-unfallzeitpunkt-mit-142-kmh-unterwegs",
+      "publisher": "Der Standard / APA",
+      "document_date": "2008-10-13",
+      "retrieved_on": "2026-10-23",
+      "locator": "Contemporary report: 142 km/h and investigation.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "petzner-interview",
+      "url": "https://www.derstandard.at/story/1220460903904/petzner-angst-zu-haben-ist-nichts-schlechtes",
+      "publisher": "Der Standard",
+      "document_date": "2008-10-15",
+      "retrieved_on": "2026-10-23",
+      "locator": "Direct interview: political programme, succession and Lebensmensch wording.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "petzner-memoir-review",
+      "url": "https://newsv2.orf.at/stories/2298259/",
+      "publisher": "ORF",
+      "document_date": "2015-09-11",
+      "retrieved_on": "2026-10-23",
+      "locator": "Review of Haiders Schatten, especially friendship framing. Memoir itself not reviewed.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "hypo-testimony",
+      "url": "https://www.parlament.gv.at/dokument/XXV/KOMM/225/fnameorig_503632.html",
+      "publisher": "Austrian Parliament",
+      "document_date": null,
+      "retrieved_on": "2026-10-23",
+      "locator": "Hypo inquiry transcript, passage discussing 2006 regional accounts and EUR 24.7 billion guarantees; testimony, not criminal judgment.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "hypo-report-index",
+      "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1291",
+      "publisher": "Austrian Parliament",
+      "document_date": "2016-10-10",
+      "retrieved_on": "2026-10-23",
+      "locator": "1291 d.B., XXV. GP: report index, separately labelled party reports and responses. Full reports not reviewed.",
+      "review_state": "index_only",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "bilateral-measures",
+      "url": "https://fra.europa.eu/sites/default/files/fra_uploads/1940-ar_2000_summary-en.pdf",
+      "publisher": "European Monitoring Centre on Racism and Xenophobia",
+      "document_date": "2000",
+      "retrieved_on": "2026-10-23",
+      "locator": "Annual report summary, Three Wise Men Report section; bilateral measures by 14 member states, lifted 12 September 2000.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "No inference from this source beyond the cited passage. Reporting is distinguished from original legal records."
+    },
+    {
+      "id": "democracy-centre-bio",
+      "url": "https://www.demokratiezentrum.org/ressourcen/lexikon/haider-joerg/",
+      "publisher": "Demokratiezentrum Wien",
+      "document_date": null,
+      "retrieved_on": "2026-10-23",
+      "locator": "Lexicon entry Haider, Jörg; 2000 coalition, party resignation and BZÖ foundation in April 2005; source list checked 21 March 2022.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "Historical reference entry; exact BZÖ chairmanship intervals not established."
+    },
+    {
+      "id": "guardian-petzner-2008",
+      "url": "https://www.theguardian.com/world/2008/oct/23/jorge",
+      "publisher": "The Guardian",
+      "document_date": "2008-10-22",
+      "retrieved_on": "2026-10-23",
+      "locator": "Headline and relationship interpretation.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "Reported them as lovers. Original ORF interview recording not reviewed."
+    },
+    {
+      "id": "ap-petzner-2008",
+      "url": "https://www.latimes.com/archives/la-xpm-2008-oct-25-fg-haider25-story.html",
+      "publisher": "Associated Press, via Los Angeles Times",
+      "document_date": "2008-10-25",
+      "retrieved_on": "2026-10-23",
+      "locator": "Opening paragraphs.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "Petzner did not explicitly confirm a sexual relationship. Original ORF interview recording not reviewed."
+    },
+    {
+      "id": "rtve-petzner-2008",
+      "url": "https://www.rtve.es/noticias/20081023/el-partido-de-haider-destituye-a-su-amigo-especial/182128.shtml",
+      "publisher": "RTVE",
+      "document_date": "2008-10-23",
+      "retrieved_on": "2026-10-23",
+      "locator": "Relationship account and final-evening section.",
+      "review_state": "relevant_text_reviewed",
+      "original_document_obtained": false,
+      "limitations": "Describes a relationship, a reported argument and a subsequent gay-bar visit; its argument account relies on other press reporting. This does not establish a departure from a lover’s home or a causal finding about the crash. Original ORF interview recording not reviewed."
+    }
+  ],
+  "commitments": [
+    {
+      "id": "haider-petition-1993-01",
+      "title": "Declare constitutionally that Austria is not an immigration country",
+      "detail": "Constitutional declaration",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 1",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-02",
+      "title": "Halt immigration subject to specified conditions; reserve subsidised housing for Austrian citizens subject to international obligations",
+      "detail": "The text names irregular migration, housing shortage and unemployment falling to 5%; housing demand contains international-law exceptions.",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 2",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-03",
+      "title": "Require foreign workers to carry workplace identification showing work authorisation and health insurance registration",
+      "detail": "Workplace documentation",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 3",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-04",
+      "title": "Increase police staffing, pay and equipment",
+      "detail": "Includes immigration and criminal police; no quantified staffing target.",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 4",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-05",
+      "title": "Create a permanent border-protection force instead of using the armed forces",
+      "detail": "Institutional replacement",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 5",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-06",
+      "title": "Cap pupils with a non-German mother tongue at 30% in compulsory and vocational school classes; establish separate classes above that threshold",
+      "detail": "The criterion is mother tongue, not citizenship.",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 6",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-07",
+      "title": "Require sufficient German for participation in regular instruction, with preparatory classes",
+      "detail": "School access condition",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 7",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-08",
+      "title": "Limit participation in parties’ internal candidate-selection primaries to Austrian citizens",
+      "detail": "Party candidate selection",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 8",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-09",
+      "title": "Curb early grants of citizenship",
+      "detail": "No numerical target in the demand.",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 9",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-10",
+      "title": "Suppress illegal commercial activity and misuse of social benefits",
+      "detail": "Two distinct policy areas within one numbered demand.",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 10",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-11",
+      "title": "Enable immediate expulsion and residence bans for foreign offenders",
+      "detail": "Demand for legal authority, not proof that any individual was expelled.",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 11",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    },
+    {
+      "id": "haider-petition-1993-12",
+      "title": "Establish an Eastern Europe foundation intended to prevent migration movements",
+      "detail": "Institutional demand",
+      "attribution": "FPÖ collective petition under Haider’s leadership; not assumed sole authorship",
+      "date_made": null,
+      "public_signature_window": [
+        "1993-01-25",
+        "1993-02-01"
+      ],
+      "source_ids": [
+        "petition-original",
+        "petition-context"
+      ],
+      "locator": "1015 der Beilagen XVIII. GP, printed page 1, demand 12",
+      "assessment_status": "unassessed",
+      "verdict": null,
+      "confidence_score": null,
+      "implementation_evidence": []
+    }
+  ],
+  "private_life_review": {
+    "source_ids": [
+      "petzner-interview",
+      "petzner-memoir-review",
+      "crash-retrospective",
+      "guardian-petzner-2008",
+      "ap-petzner-2008",
+      "rtve-petzner-2008"
+    ],
+    "finding": "Contemporary reporting explicitly discussed a possible romantic relationship, with different interpretations of Petzner’s public statements. The earlier dossier omitted that disagreement. Petzner’s emotional language is documented; sexual orientation remains unassigned. The final-evening account must be assessed separately from the relationship reporting.",
+    "sexual_relationship_established": false,
+    "lover_home_departure_established": false,
+    "publication": "Preserve attributed contemporary reporting and its disagreement in the dossier. No categorical sexual-orientation label or private-life scandal card.",
+    "relationship_reporting_status": "reported_as_romantic_by_some_outlets; disputed_interpretation_of_public_statements",
+    "original_radio_recording_reviewed": false,
+    "public_policy_followup": "Locate the exact parliamentary motion and Haider’s recorded vote on the age of consent before asserting legislative hypocrisy. A press report alone does not establish the individual vote."
+  },
+  "source_conflicts": [
+    {
+      "id": "bzo-chairmanship",
+      "source_ids": [
+        "parliament-bio"
+      ],
+      "issue": "Parliament’s biography compresses BZÖ leadership into April 2005–October 2008. Exact chairmanship intervals and other chairholders must be checked against party congress records.",
+      "resolution": "Import only founding role, with no uninterrupted chairmanship claim."
+    },
+    {
+      "id": "accident-final-journey",
+      "source_ids": [
+        "crash-retrospective",
+        "crash-closure"
+      ],
+      "issue": "The requested lover’s-home departure is unsupported; reporting describes a bar visit and destination Bärental.",
+      "resolution": "Use sourced chronology; no causal inference from private relationships."
+    },
+    {
+      "id": "petzner-relationship-reporting",
+      "source_ids": [
+        "guardian-petzner-2008",
+        "ap-petzner-2008",
+        "rtve-petzner-2008",
+        "petzner-memoir-review"
+      ],
+      "issue": "Contemporary outlets differed in interpreting Petzner’s statements; a later friendship account does not erase the earlier relationship reporting.",
+      "resolution": "Attribute each interpretation; original radio recording remains unreviewed. Separate relationship claims from crash causation and journey origin."
+    }
+  ],
+  "research_leads": [
+    {
+      "id": "hypo-primary-reports",
+      "priority": 1,
+      "source_ids": [
+        "hypo-report-index",
+        "hypo-testimony"
+      ],
+      "task": "Read the main 2016 Hypo report, responses and original regional audit/accounts; separate testimony, party conclusions, guarantees and realised costs.",
+      "status": "pending"
+    },
+    {
+      "id": "commitment-outcomes",
+      "priority": 2,
+      "source_ids": [
+        "petition-original"
+      ],
+      "task": "Trace all 12 demands against contemporaneous enacted texts and implementation, preserving collective authorship and Haider’s actual authority.",
+      "status": "pending"
+    },
+    {
+      "id": "legal-history",
+      "priority": 3,
+      "source_ids": [
+        "signs-court",
+        "crash-closure"
+      ],
+      "task": "Build a case-by-case timeline with decision IDs, person roles and finality. Locate original prosecution closure; no claim of exhaustive case coverage.",
+      "status": "pending"
+    },
+    {
+      "id": "assets-and-interests",
+      "priority": 4,
+      "source_ids": [
+        "parliament-bio"
+      ],
+      "task": "Locate historical declarations, company roles and Bärental property acquisition records before publishing ownership, valuation or inheritance claims.",
+      "status": "pending"
+    },
+    {
+      "id": "austria-roster",
+      "priority": 5,
+      "source_ids": [
+        "parliament-bio",
+        "election-2008"
+      ],
+      "task": "Build dated Austrian federal and regional mandate roster, beginning with Carinthia; do not infer guilt from political association.",
+      "status": "pending"
+    }
+  ],
+  "scores": {
+    "promise_delivery": null,
+    "voting_consistency": null,
+    "legislative_effectiveness": null,
+    "disclosure_coverage": null,
+    "reason": "No complete reviewed denominator or implementation assessment."
+  }
+}

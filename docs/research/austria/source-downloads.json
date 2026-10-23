@@ -1,0 +1,192 @@
+[
+  {
+    "source_id": "parliament-bio",
+    "url": "https://www.parlament.gv.at/person/490",
+    "retrieved_at": "2026-10-22T22:07:26.225822+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 49834,
+    "sha256": "5b2e0d4304d56026f4c3552d4a718022dbe27b0cd1326b8c971c07ef54b12638",
+    "page_title": "Parlament Österreich",
+    "body_retained": false
+  },
+  {
+    "source_id": "election-1999",
+    "url": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1999/start.html",
+    "retrieved_at": "2026-10-22T22:07:26.510514+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 104239,
+    "sha256": "93e67531d3625ac354cf95d8aa20bab8450c6679bf0d8f1a6c4045912b4ee84e",
+    "page_title": "Nationalratswahl 1999",
+    "body_retained": false
+  },
+  {
+    "source_id": "election-2008",
+    "url": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2008/",
+    "retrieved_at": "2026-10-22T22:07:26.533512+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 105865,
+    "sha256": "2ac888522a9c08121fa7bc78dbc54a3a50844e21c6cfcc8aea3170b06f500bcf",
+    "page_title": "Nationalratswahl 2008",
+    "body_retained": false
+  },
+  {
+    "source_id": "petition-original",
+    "url": "https://www.parlament.gv.at/dokument/XVIII/I/1015/imfname_262224.pdf",
+    "retrieved_at": "2026-10-22T22:07:27.146547+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 449467,
+    "sha256": "25fea303bdf1f37bd215e9c58adcb1cc5a772bf772ffd7138335be6513c68f96",
+    "path": "docs/research/austria/sources/oesterreich-zuerst-1993.pdf",
+    "text_path": "docs/research/austria/sources/oesterreich-zuerst-1993.txt"
+  },
+  {
+    "source_id": "petition-context",
+    "url": "https://hdgoe.at/auslaender-volksbegehren",
+    "retrieved_at": "2026-10-22T22:07:30.815508+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 108096,
+    "sha256": "e0e1cd86cabcfec540f9eb5735b579a9762a0a32eb1e5352f21346ab6fa0856f",
+    "page_title": "1993: Lichtermeer - hdgö",
+    "body_retained": false
+  },
+  {
+    "source_id": "nazi-remark",
+    "url": "https://newsv1.orf.at/060916-3953/3964txt_story.html",
+    "retrieved_at": "2026-10-22T22:07:29.140757+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 3693,
+    "sha256": "db56463384e4c18412a2ad88d18140764b4db3090b16cb8c7b260985f58e9a75",
+    "page_title": "\"Ordentliche Beschäftigungspolitik\"",
+    "body_retained": false
+  },
+  {
+    "source_id": "signs-court",
+    "url": "https://www.vfgh.gv.at/timeline/2001__Kaerntner_Ortstafeln.de.html",
+    "retrieved_at": "2026-10-22T22:07:28.594432+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 25743,
+    "sha256": "1363dc1778906475865e41cef6286c93674e0c54bcad7d670cb75d95c6f9e0da",
+    "page_title": "2001: Kärntner Ortstafeln - Der Österreichische Verfassungsgerichtshof",
+    "body_retained": false
+  },
+  {
+    "source_id": "crash-closure",
+    "url": "https://ktnv1.orf.at/stories/355274",
+    "retrieved_at": "2026-10-22T22:07:29.872552+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 15456,
+    "sha256": "4cf17f618022d3728eda38b44900155f57508659b329b13944a140b42b8b9da3",
+    "page_title": "Ermittlungen zu Haiders Unfall eingestellt - oesterreich.ORF.at",
+    "body_retained": false
+  },
+  {
+    "source_id": "crash-retrospective",
+    "url": "https://orf.at/stories/3053161/",
+    "retrieved_at": "2026-10-22T22:07:31.612497+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 41909,
+    "sha256": "8a27ea4d735a0f7073c38e202389836a6c1a77d1ef22176cfa0ccbe8551ee807",
+    "page_title": "11. Oktober 2008: Haiders Todesfahrt und ihre Folgen - news.ORF.at",
+    "body_retained": false
+  },
+  {
+    "source_id": "crash-speed",
+    "url": "https://www.derstandard.at/story/1220460584014/haider-war-zum-unfallzeitpunkt-mit-142-kmh-unterwegs",
+    "retrieved_at": "2026-10-22T22:07:31.906767+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 61857,
+    "sha256": "bbc5a0dd84d5a1ed57fa2b7f946e7dd09708e84139315cb9b8cbb7f9cc739c00",
+    "page_title": "Haider war zum Unfallzeitpunkt mit 142 km/h unterwegs - Inland - derStandard.at › Inland",
+    "body_retained": false
+  },
+  {
+    "source_id": "petzner-interview",
+    "url": "https://www.derstandard.at/story/1220460903904/petzner-angst-zu-haben-ist-nichts-schlechtes",
+    "retrieved_at": "2026-10-22T22:07:33.137497+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 65148,
+    "sha256": "e53e5b626610e1f066323067ceb0258e09a4ce644a497bd38d909468ba34e9eb",
+    "page_title": "Petzner: \"Angst zu haben ist nichts Schlechtes\"   - Parteien - derStandard.at › Inland",
+    "body_retained": false
+  },
+  {
+    "source_id": "petzner-memoir-review",
+    "url": "https://newsv2.orf.at/stories/2298259/",
+    "retrieved_at": "2026-10-22T22:07:33.273963+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 19692,
+    "sha256": "d854103190bb9e45234a70d0884d66aff7cbb813738ee963318ff7f642bed874",
+    "page_title": "Petzner veröffentlicht Buch über Verhältnis zu Haider - news.ORF.at",
+    "body_retained": false
+  },
+  {
+    "source_id": "hypo-testimony",
+    "url": "https://www.parlament.gv.at/dokument/XXV/KOMM/225/fnameorig_503632.html",
+    "retrieved_at": "2026-10-22T22:07:34.775367+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 548737,
+    "sha256": "d5a83f38b064fd660c6a898e9004deb800d6b688c6591549ef10db7a2d28725a",
+    "page_title": "2.FALL",
+    "body_retained": false
+  },
+  {
+    "source_id": "hypo-report-index",
+    "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1291",
+    "retrieved_at": "2026-10-22T22:07:34.091273+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 52944,
+    "sha256": "8616285abcff57079511fa9950c2052f71f9f8334a0434d5f820b395b6749948",
+    "page_title": "Parlament Österreich",
+    "body_retained": false
+  },
+  {
+    "source_id": "bilateral-measures",
+    "url": "https://fra.europa.eu/sites/default/files/fra_uploads/1940-ar_2000_summary-en.pdf",
+    "retrieved_at": "2026-10-22T22:07:36.952009+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 432078,
+    "sha256": "ce5424bcb55633f38095449f0b4d20133b7ec418cf95ddf935f6ffa80c69e63f",
+    "path": "docs/research/austria/sources/bilateral-measures.pdf",
+    "text_path": "docs/research/austria/sources/bilateral-measures.txt"
+  },
+  {
+    "source_id": "democracy-centre-bio",
+    "url": "https://www.demokratiezentrum.org/ressourcen/lexikon/haider-joerg/",
+    "retrieved_at": "2026-10-22T22:09:38.516796+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 143023,
+    "sha256": "00be28fdcf0e79c11f4097aec0be670ada46726557b597547ac0c12f082b3d36",
+    "page_title": "Haider, Jörg - Demokratiezentrum Wien",
+    "body_retained": false
+  },
+  {
+    "source_id": "guardian-petzner-2008",
+    "url": "https://www.theguardian.com/world/2008/oct/23/jorge",
+    "retrieved_at": "2026-10-23T05:01:29.379850+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 288033,
+    "sha256": "bf296ded11186b72da86073cbd93e1f2e9b5d7e68a8f41847643b1ba8b6b4d8b",
+    "page_title": "Leader says Haider was his lover | Austria | The Guardian",
+    "body_retained": false
+  },
+  {
+    "source_id": "ap-petzner-2008",
+    "url": "https://www.latimes.com/archives/la-xpm-2008-oct-25-fg-haider25-story.html",
+    "retrieved_at": "2026-10-23T05:01:32.246482+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 441912,
+    "sha256": "266f6a7e7bb2f69517b6beeaa60a65e884f1117e9ecf455501883a85d30ee61c",
+    "page_title": "Speculation swirls over dead Austrian far-rightist - Los Angeles Times",
+    "body_retained": false
+  },
+  {
+    "source_id": "rtve-petzner-2008",
+    "url": "https://www.rtve.es/noticias/20081023/el-partido-de-haider-destituye-a-su-amigo-especial/182128.shtml",
+    "retrieved_at": "2026-10-23T05:01:35.154499+00:00",
+    "status": "downloaded_for_review",
+    "bytes": 72132,
+    "sha256": "65e91ea95ecc5b0b9850fba366a9be4b9fc4f25a4ae35537ffc7c9ed1cf60845",
+    "page_title": "El partido de Haider destituye a su 'amigo especial'",
+    "body_retained": false
+  }
+]

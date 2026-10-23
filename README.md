@@ -3,6 +3,8 @@
 Backend for **[kept.vote](https://github.com/cluster2600/kept.vote)** — a website
 to track politician promises (EU / CH / NO).
 
+Austrian accountability research: [Jörg Haider profile, sources and twelve commitments under review](docs/research/austria/README.md).
+
 > Deployed via Vercel (frontend) + Render (API) + Neon (Postgres). See
 > [`DEPLOY.md`](./DEPLOY.md).
 
