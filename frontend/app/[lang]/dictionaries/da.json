@@ -54,6 +54,7 @@
     "mayor": "Borgmester",
     "regional_executive": "Regionalregering",
     "party_leader": "Partileder",
+    "judge": "Dommer",
     "other": "Andet hverv"
   },
   "notFound": {
