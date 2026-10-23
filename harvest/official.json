@@ -619,6 +619,53 @@
         { "url": "https://www.lat.lt/naujienos/2", "what": "Supreme Court news: cassation rulings" }
       ]
     },
+    "LV": {
+      "name": "Latvia",
+      "domains": {
+        "gov.lv": {
+          "what": "Public administration: Cabinet of Ministers and State Chancellery (mk.gov.lv, vk.gov.lv: government composition, cabinet decisions, government declaration and action plan), Constitutional Court (satv.tiesa.gov.lv), Supreme Court (at.gov.lv), Corruption Prevention and Combating Bureau KNAB (knab.gov.lv: party finance reports, donations database, campaign checks), State Revenue Service VID (vid.gov.lv: public part of public officials' declarations), State Audit Office (lrvk.gov.lv), Central Statistical Bureau (stat.gov.lv), state portal (latvija.gov.lv)",
+          "access": "2026-10-23: mk, vk, satv.tiesa, knab, vid, lrvk and latvija.gov.lv gave no answer, robots.txt included (status unreachable); LSM reported that at least 165 state and municipal websites were taken offline on 21 October 2026 as a precaution against PHP vulnerabilities, so retry; at.gov.lv answers with a 'Request Rejected' firewall page (blocked); stat.gov.lv renders"
+        },
+        "saeima.lv": {
+          "what": "Saeima (parliament): members, bills, votes, verbatim reports, committees and parliamentary inquiry committees; titania.saeima.lv holds the legislative documents",
+          "access": "2026-10-23: www.saeima.lv gave no answer, robots.txt included (unreachable); titania.saeima.lv is disallowed by its robots.txt"
+        },
+        "president.lv": {
+          "what": "President: consultations and nomination of the candidate for Prime Minister, promulgation or return of laws, decrees",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "likumi.lv": {
+          "what": "Official legal-acts portal of the publisher Latvijas Vēstnesis: laws, Cabinet regulations and orders in consolidated versions",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "vestnesis.lv": {
+          "what": "Latvijas Vēstnesis, the official gazette: official publication of laws, presidential decrees and Cabinet acts",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "lvportals.lv": {
+          "what": "LV portāls, the official publisher's legal-information portal: reports and explanations of Saeima and Cabinet decisions",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "cvk.lv": { "what": "Central Election Commission: official results of Saeima, European Parliament and municipal elections, candidate lists, turnout, voters' initiatives and referendums" },
+        "prokuratura.lv": {
+          "what": "Prosecutor's Office: prosecutions and prosecutor's protests, Prosecutor General's statements",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "tiesas.lv": {
+          "what": "Courts portal (Court Administration): court calendar and published judgments of district and regional courts",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        }
+      },
+      "watch": [
+        { "url": "https://www.cvk.lv/saeima-2026-rezultati", "what": "15th Saeima election (3 October 2026): official results" },
+        { "url": "https://www.cvk.lv/rezultati", "what": "Central Election Commission: overview of official election results" },
+        { "url": "https://www.cvk.lv/kandidatu-saraksti", "what": "Registered lists of candidates for the current election" },
+        { "url": "https://www.cvk.lv/veletaju-iniciativas", "what": "Voters' initiatives: signature collections for referendums and draft laws" },
+        { "url": "https://www.cvk.lv/saeimas-rezultati", "what": "14th Saeima election (2022): official results" },
+        { "url": "https://www.cvk.lv/ep-rezultati", "what": "European Parliament election 2024: official results" },
+        { "url": "https://www.cvk.lv/pasvaldibu-rezultati", "what": "Municipal elections 2025: official results" }
+      ]
+    },
     "NL": {
       "name": "Netherlands",
       "domains": {
