@@ -324,3 +324,44 @@ Validation: 13 observations, monotone cumulative counts, 56,891/11,401
 cross-flow denominator consistency, annual-report text/page, all JSON and source
 hashes checked; `git diff --check` passed. No application or graph changes,
 requests, messages, merge or publication.
+
+## Deadline closeout
+
+**23 October 2026, 00:26:03–00:26:27 UTC**, final validation after the
+**00:25 UTC deadline**. No new source searching was started. The automation was
+updated through the app tool and confirmed **PAUSED**.
+
+The eight logged pass intervals total **42 minutes 38 seconds of pass wall time**,
+including source reading and validation. This is not a measurement of continuous
+active searching, and is not hours of research: scheduled gaps and subsequent
+GitHub administration are excluded. The larger elapsed schedule must not be
+represented as active research hours.
+
+Final validation: **17 focused tests passed**, 55 unique manifested files matched
+their hashes, network input/output hashes matched, all research JSON parsed,
+53,429 unique nodes / 51,323 unique edges checked, every edge endpoint and HTTPS
+source URL checked, and `git diff --check` passed. Initial module-style unittest
+invocation could not import the non-package tests directory; corrected to unittest
+discovery, which passed. Application runtime tests were not run; application code
+and live website were not changed by these research passes.
+
+Outstanding gaps:
+- Four original-order request drafts remain **unsent**: two Morges July 2020
+  orders, the Zurich case's September 2021 release/enforcement record, and Basel
+  SMV's 15 December 2022 leave authorisation. Later quotations are not originals.
+- No nationwide judge-linked release/reoffending/homicide denominator was found;
+  no judge rankings or inferred individual fault are supported by this corpus.
+- Seven named national-party declarations are verified as declarations, not
+  bank-audited payments; Hofmann's 2023/2024 entries and cantonal/historical
+  contributions remain unresolved. Missing rows are not proof of nonpayment.
+- Hurni's foundation-board identity remains provisional; current company-board
+  coverage is incomplete. Two Hofmann governance roles are directly sourced.
+- The original Basel 2021 judgment's current publication is recovered; its initial
+  publication version and subsequent finality of the 2024 remand are unverified.
+- General/specific recidivism codes need current-definition reconciliation;
+  expanded source catalogs are not complete individual role extraction.
+
+All verified work is retained in the existing draft PR branch. No document
+requests, third-party messages, merge, application import or live publication.
+Further research requires a fresh user instruction or resumption; this bounded
+run does not claim the original nationwide research objective is complete.
