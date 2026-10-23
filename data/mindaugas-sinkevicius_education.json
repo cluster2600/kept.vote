@@ -1,0 +1,63 @@
+[
+  {
+    "id": "mindaugas-sinkevicius-edu-gymnasium",
+    "institution": "Jonava Senamiestis Gymnasium (Jonavos Senamiesčio gimnazija)",
+    "qualification": "Secondary school leaving certificate",
+    "field": "General secondary education",
+    "years": "until 2003",
+    "detail": "Graduated in 2003 in his home town of Jonava.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mindaugas_Sinkevi%C4%8Dius",
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-edu-vu",
+    "institution": "Vilnius University, Faculty of Economics (Vilniaus universitetas)",
+    "qualification": "Bachelor's degree",
+    "field": "Management and business administration",
+    "years": "until 2007",
+    "detail": "Bachelor's qualification in management and business administration obtained in 2007 (Government CV, VLE).",
+    "source_url": [
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-edu-mru",
+    "institution": "Mykolas Romeris University (Mykolo Romerio universitetas)",
+    "qualification": "Bachelor of Laws",
+    "field": "Law",
+    "years": "until 2008",
+    "detail": "Bachelor's degree in law obtained in 2008 through part-time (extramural) study (VLE).",
+    "source_url": [
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-edu-ism-master",
+    "institution": "ISM University of Management and Economics (ISM Vadybos ir ekonomikos universitetas)",
+    "qualification": "Master's degree",
+    "field": "Marketing and management",
+    "years": "until 2009",
+    "detail": "Master's qualification in marketing and management obtained in 2009 (Government CV, VLE).",
+    "source_url": [
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-edu-ism-phd",
+    "institution": "ISM University of Management and Economics",
+    "qualification": "Doctorate (PhD) in social sciences (management)",
+    "field": "Consumer behaviour: alcohol consumption",
+    "years": "2010–2015",
+    "detail": "Prepared in English and defended in 2015 a dissertation entitled 'Alcohol Consumption in the Context of Conflicting Societal and Personal Factors' (VLE). After plagiarism allegations in July 2026, ISM's ethics commission opened a review of possible breaches of academic ethics, extended until 30 October 2026; no decision as of the research date (see polemics).",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/",
+      "https://www.15min.lt/naujiena/aktualu/lietuva/del-mindaugo-sinkeviciaus-disertacijos-nauji-skundai-ism-pratese-tyrima-56-2769012"
+    ]
+  }
+]

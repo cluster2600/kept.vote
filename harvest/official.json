@@ -564,6 +564,61 @@
         { "url": "https://www.bdl.gov.lb/basiccirculars.php", "what": "Banque du Liban basic circulars" }
       ]
     },
+    "LT": {
+      "name": "Lithuania",
+      "domains": {
+        "lrv.lt": {
+          "what": "Government: Prime Minister and official CV, cabinet composition, sittings and resolutions, press releases; ministries on subdomains",
+          "access": "2026-10-23: pages answer HTTP 403 but render in full"
+        },
+        "lrs.lt": {
+          "what": "Seimas: members, sittings, votes, committees; e-seimas.lrs.lt legal-acts portal",
+          "access": "2026-10-23: www.lrs.lt renders; e-seimas act pages render but its search pages don't (status error)"
+        },
+        "lrp.lt": {
+          "what": "President: decrees appointing the Prime Minister and ministers, laws signed or returned",
+          "access": "2026-10-23: Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "e-tar.lt": {
+          "what": "Register of Legal Acts: official publication of laws, decrees and resolutions",
+          "access": "2026-10-23: answers 403 with an empty page (blocked); acts readable via e-seimas.lrs.lt"
+        },
+        "lrkt.lt": {
+          "what": "Constitutional Court: rulings and accepted petitions",
+          "access": "2026-10-23: Cloudflare bot check (status blocked)"
+        },
+        "lat.lt": { "what": "Supreme Court: cassation rulings, news" },
+        "apeliacinis.lt": { "what": "Court of Appeal" },
+        "teismai.lt": { "what": "Courts portal; LITEKO court-decision search (liteko.teismai.lt)" },
+        "prokuraturos.lt": { "what": "Prosecutor's Office: investigations and indictments" },
+        "stt.lt": { "what": "Special Investigation Service (anti-corruption)" },
+        "vrk.lt": {
+          "what": "Central Electoral Commission: results, candidates, party and campaign financing",
+          "access": "2026-10-23: www.vrk.lt and rezultatai.vrk.lt answer with a Cloudflare bot check (status blocked)"
+        },
+        "vtek.lt": {
+          "what": "Chief Official Ethics Commission: conflict-of-interest decisions; register of declarations of private interests (pinreg.vtek.lt)",
+          "access": "2026-10-23: www.vtek.lt rendered once then timed out; pinreg.vtek.lt answers with a bot check (blocked)"
+        },
+        "vmi.lt": {
+          "what": "State Tax Inspectorate: public extracts of state politicians' annual asset and income declarations",
+          "access": "2026-10-23: pages render, but the declaration viewer builds its data with scripts and shows no figures"
+        },
+        "vkontrole.lt": {
+          "what": "National Audit Office",
+          "access": "2026-10-23: Cloudflare bot check (status blocked)"
+        },
+        "registrucentras.lt": { "what": "Centre of Registers: real property and legal entities (including political parties)" }
+      },
+      "watch": [
+        { "url": "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/", "what": "Official CV of the serving Prime Minister: changes when the head of government changes" },
+        { "url": "https://lrv.lt/lt/apie-vyriausybe/xxi-vyriausybe/", "what": "Composition of the government: ministers appointed or dismissed" },
+        { "url": "https://lrv.lt/lt/posedziai/", "what": "Government sittings and adopted resolutions" },
+        { "url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1", "what": "Members of the Seimas: mandates gained or lost" },
+        { "url": "https://www.lrs.lt/sip/portal.show?p_r=35369&p_k=1", "what": "Seimas plenary sittings: agendas, votes and acts adopted" },
+        { "url": "https://www.lat.lt/naujienos/2", "what": "Supreme Court news: cassation rulings" }
+      ]
+    },
     "NL": {
       "name": "Netherlands",
       "domains": {
