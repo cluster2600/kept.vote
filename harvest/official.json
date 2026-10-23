@@ -141,6 +141,28 @@
         "parlament.ch": { "what": "Federal Assembly" }
       }
     },
+    "CY": {
+      "name": "Cyprus",
+      "domains": {
+        "gov.cy": {
+          "what": "Government portal: Presidency (gov.cy/presidency), Press and Information Office, ministries, Audit Office (gov.cy/audit), Interior Ministry elections site (gov.cy/moi-elections, results at results.elections.moi.gov.cy), Special Parliamentary Committee on 'Pothen Esches' (asset declarations of the President, ministers and MPs), Official Gazette (mof.gov.cy/gpo), Supreme Court (supremecourt.gov.cy), Law Office (law.gov.cy). Also matched by the gov.xx pattern",
+          "access": "2026-10-23: gov.cy pages answer HTTP 403 but render; declaration PDFs under gov.cy/media answer 403 (error); the results site builds its tables with scripts; mof.gov.cy, supremecourt.gov.cy and law.gov.cy are robots-disallowed; anticorruption.gov.cy is unreachable"
+        },
+        "parliament.cy": {
+          "what": "House of Representatives: members, bills, plenary agenda, committee reports. Also matched by the parliament.* pattern",
+          "access": "2026-10-23: pages render; older PDFs (/images/media/redirectfile/), including the 2023 asset declarations, are robots-disallowed"
+        },
+        "cylaw.org": { "what": "CyLaw, run by the Cyprus Bar Association (a statutory body, not a state authority): case law and legislation; the readable source for judgments, since the courts' own site is robots-disallowed" }
+      },
+      "watch": [
+        { "url": "https://www.gov.cy/presidency/about/government-gr/", "what": "Composition of the government: reshuffles" },
+        { "url": "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/proedros-tis-dimokratias/nikos-christodoylidis/", "what": "Asset declarations of the President" },
+        { "url": "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/ypoyrgoi/", "what": "Asset declarations of ministers" },
+        { "url": "https://www.gov.cy/audit/news/", "what": "Audit Office: newly published audit reports" },
+        { "url": "https://www.gov.cy/moi-elections/documents/mitroo-politikon-kommaton/", "what": "Register of political parties" },
+        { "url": "https://www.gov.cy/moi-elections/documents/apotelesmata-eklogon/", "what": "Election results index" }
+      ]
+    },
     "CZ": {
       "name": "Czechia",
       "domains": {

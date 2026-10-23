@@ -1,0 +1,32 @@
+[
+  {
+    "id": "nikos-christodoulides-el-2023-presidential-r1",
+    "election": "2023 Cypriot presidential election, first round",
+    "date": "2023-02-05",
+    "role_sought": "President of the Republic of Cyprus (independent candidate backed by DIKO, EDEK and DIPA)",
+    "result": "First place; qualified for the run-off",
+    "vote_share": "127,309 votes (32.04%)",
+    "opponent": "Andreas Mavroyiannis (independent, AKEL-backed), 29.59%; Averof Neofytou (DISY), 26.11%; Christos Christou (ELAM), 6.04%",
+    "detail": "Fourteen candidates stood; no one won a majority, so the two leading candidates went to a run-off a week later. Turnout was about 72% of 561,273 registered voters. Neofytou's elimination meant that DISY, the party that had struck Christodoulides off its register, was absent from the second round; outgoing President Anastasiades then backed Christodoulides.",
+    "source_url": [
+      "https://www.gov.cy/moi-elections/en/documents/presidential-elections-2023/",
+      "https://en.wikipedia.org/wiki/2023_Cypriot_presidential_election",
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-el-2023-presidential-r2",
+    "election": "2023 Cypriot presidential election, run-off",
+    "date": "2023-02-12",
+    "role_sought": "President of the Republic of Cyprus",
+    "result": "Elected",
+    "vote_share": "204,867 votes (51.97%)",
+    "opponent": "Andreas Mavroyiannis (independent, backed by AKEL), 189,335 votes (48.03%)",
+    "detail": "Official results of the Ministry of the Interior's Central Electoral Service; turnout 72.45%. He took office on 28 February 2023 for a five-year term.",
+    "source_url": [
+      "https://results.elections.moi.gov.cy/english/presidential_runoff_elections_2023_157/Islandwide",
+      "https://cyprus-mail.com/2023/02/12/christodoulides-promises-to-stand-by-election-promises/",
+      "https://en.wikipedia.org/wiki/2023_Cypriot_presidential_election"
+    ]
+  }
+]
