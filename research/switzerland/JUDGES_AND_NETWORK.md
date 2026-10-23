@@ -166,3 +166,8 @@ PDF linked from its current official professions page. The recovered four-page
 list states **16 September 2026** and is archived with its landing page and hash.
 It is an additional federal source, separate from the 15 cantonal PDFs. No role
 edges are imported yet; it concerns BVGer, not the three Supreme Court profiles.
+
+The archived **Justitia 4.0 annual report 2025, page 3**, independently corroborates
+Hofmann's steering co-presidency in the reporting period, naming him alongside
+Florian Düblin. It strengthens the existing directly identified role, but does
+not establish its end date or verify a company-board seat, payment or misconduct.

@@ -159,5 +159,26 @@ Interpretation of the nature-of-recurrence labels remains pending: the current
 methodology describes general recidivism inclusively. Preserve source codes
 until current definitions are reconciled. More-serious recurrence is not a
 homicide count. The two new flow identifiers were discovered from the official
-SUS dataflow catalog; `DF_SUS_REC_COURBREC` is a further timing-series lead, not
-yet extracted here.
+SUS dataflow catalog; `DF_SUS_REC_COURBREC` supplies the additional timing series below.
+
+## Timing and the reference-judgment denominator
+
+`national_reconviction_timing_2022.json` retains 13 observations from the official
+`DF_SUS_REC_COURBREC` flow. Its **2022 reference-judgment cohort has 56,891 people**;
+**11,401** reoffended within three years under the dataset's reconviction definition.
+The latter count exactly matches the modality table's denominator, resolving
+which population those two tables describe. The Swiss/C-permit and sentence
+exclusions still apply. This is not a prison-release cohort.
+
+| Follow-up after reference judgment | Cumulative reconvicted people | Published rate (%) |
+| --- | ---: | ---: |
+| 6 months | 4,368 | 8 |
+| 1 year | 6,849 | 12 |
+| 18 months | 8,494 | 15 |
+| 2 years | 9,734 | 17 |
+| 30 months | 10,669 | 19 |
+| 3 years | 11,401 | 20 |
+
+These are cumulative checkpoints, not disjoint intervals; never sum their counts.
+Rates retain source-rounded whole percentages. Neither flow identifies judges
+or establishes individual release decisions or later homicides.

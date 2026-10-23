@@ -411,6 +411,30 @@
       "bytes": 3042185,
       "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
       "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-timing-structure.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/DF_SUS_REC_COURBREC?references=all",
+      "sha256": "47363cd08f90966931ab4210e795e7f83adb0898813195efd44623d7d91e4e56",
+      "bytes": 1699473,
+      "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-timing-total-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_COURBREC/_T...A?startPeriod=2022&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "285190e7da177fd6ded23acb43ae13fc638d1b60f61e24321b1108c3cec6e991",
+      "bytes": 1112,
+      "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/justitia40-annual-report-2025.pdf",
+      "url": "https://www.justitia40.ch/downloads/jahresberichte/de/justitia-jahresbericht-2025-de.pdf",
+      "sha256": "feef829f51a86ccf101bb8e54f134bcfe80253d8abacd57306b0afeb3f3f8d85",
+      "bytes": 1341778,
+      "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
+      "source_status": "official publisher"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

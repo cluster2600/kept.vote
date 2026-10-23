@@ -288,3 +288,39 @@ Results:
 Validation: 11 unique source-code observations, 2022/total/free-publication
 filters, count partitions, PDF readability, JSON and all manifest hashes checked;
 `git diff --check` passed. No application or graph changes, requests or messages.
+
+## Research pass 8
+
+**23 October 2026, 00:11:02–00:12:15 UTC**, about one minute of source research
+and validation; commit/PR administration and all scheduled idle intervals excluded.
+
+Queries included `site.bfs.admin.ch "Rückfall" "allgemein" "spezifisch" "2026"`,
+`site.bfs.admin.ch "Récidive générale" "spécifique" 2026`,
+`"Sonja Koch" "Mandatsbeitrag" 2021`,
+`"Morges" "ordonnance" "3 juillet 2020"`,
+`site.justice.be.ch Morges Freilassung 2020 Verfügung`,
+`site.svr-asm.ch "Hurni"`, and
+`site.justitia40.ch "Hofmann" "2026"`.
+
+Results:
+- Retrieved the official timing flow **DF_SUS_REC_COURBREC**, its structure and
+  13 observations for the 2022 total. It provides the **56,891-person reference-
+  judgment cohort denominator** and **11,401** reconvicted within three years.
+  The latter matches the modality table's reconvicted denominator exactly.
+- Preserved six cumulative checkpoints, not disjoint intervals, with published
+  whole-percent rates. Swiss/C-permit and sentence exclusions apply; this is
+  not a release cohort and has no judge or nationality subdivision. The
+  general/specific modality-definition question remains unresolved.
+- Archived the **Justitia 4.0 annual report 2025**: page 3 expressly identifies
+  Yann-Eric Hofmann and Florian Düblin as steering co-presidents. This
+  corroborates the existing role during that reporting period, not its end date
+  or a company-board seat. Added corroboration to documentation without creating
+  duplicate graph edges.
+- No additional original release/enforcement order, historical named party
+  payment, or direct confirmation of the provisional Hurni foundation match
+  recovered. Search namesake results excluded.
+
+Validation: 13 observations, monotone cumulative counts, 56,891/11,401
+cross-flow denominator consistency, annual-report text/page, all JSON and source
+hashes checked; `git diff --check` passed. No application or graph changes,
+requests, messages, merge or publication.
