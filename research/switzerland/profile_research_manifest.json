@@ -1,0 +1,451 @@
+{
+  "records": [
+    {
+      "file": "sources/bfs-release-recidivism-2024.xlsx",
+      "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/32809186/master",
+      "sha256": "c0bc6ab325f3e01b8005c9738d5949280fc23ee72091aee74bb8606fe7b5393f",
+      "bytes": 53889,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-reconviction-national-2010-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_UNVRSDPRT/_T._T._T._T._T.REC_3..A?startPeriod=2010&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "3b4832317eb8ca907db5d7ff656490b0cb7533895a3a7e650e068e6d31b09285",
+      "bytes": 1323,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-reconviction-demographics-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_UNVRSDPRT/_T..._T..REC_3..A?startPeriod=2022&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "afb3ce08757d0cb0f5a38b22afa7d1eca991250d8c2c6f1b8dffd6a051045139",
+      "bytes": 4735,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-reconviction-structure.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/DF_SUS_REC_UNVRSDPRT?references=all",
+      "sha256": "b5dc6e44dd566e065ade1dfd0b562b115366a75de5305502a4eb4deab25b70de",
+      "bytes": 1889982,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/SK.2022.35-2023-01-10.pdf",
+      "url": "https://entscheidsuche.ch/dok/CH_BSTG/CH_BSTG_001_SK-2022-35_2023-01-10.pdf",
+      "sha256": "80a971060b5448f4f26bbced51f74d291f03dfc18c44726c29601929052a2218",
+      "bytes": 2036443,
+      "saved_on": "2026-10-23",
+      "source_status": "mirror of court-authored judgment"
+    },
+    {
+      "file": "sources/SB230597-O1-2024-10-01.pdf",
+      "url": "https://www.gerichte-zh.ch/fileadmin/user_upload/entscheide/oeffentlich/SB230597-O1.pdf",
+      "sha256": "ca8b88501b836c9cee65dee9c569d791b8826353b710b97cd9320b35216b479f",
+      "bytes": 399837,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/7B_15-2021-2023-09-19.html",
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom=",
+      "sha256": "e2ed85e2e54de8f01000a9aa2f6d98598399f79c03fde9ec444bc02713c7c965",
+      "bytes": 64629,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/6B_1437-2017-2018-11-06.html",
+      "url": "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F06-11-2018-6B_1437-2017&lang=de&type=show_document&zoom=",
+      "sha256": "a2c4d4a8a00b4b2c4e9c636fec0351e8b4ef1d4468968072ee1dcf13fb6d0e9b",
+      "bytes": 63508,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/koch-sonja-official-biography.html",
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
+      "sha256": "cc2ba480060ac3b0fc60fcc6e8c3fdb3669046b262d717ba461d75322afa3eb4",
+      "bytes": 171523,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/hurni-christoph-official-biography.html",
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
+      "sha256": "296bd1c5babd3fb95b00680816a5c69652d488c9b7e10968a928c1e0a94c1a4d",
+      "bytes": 171458,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/hofmann-yann-eric-official-biography.html",
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html",
+      "sha256": "6bf185fc0ef095b2337775bd56f1df27da9cb78039a1eabd14eca239d80782a6",
+      "bytes": 172171,
+      "saved_on": "2026-10-23",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "judicial_party_contributions.json",
+      "sha256": "cfc8a50bb888da89d40e1348d65c63bc1fd9936c899af721b69cf5ef25e5f816",
+      "source_status": "derived observations; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "judicial_profiles.json",
+      "sha256": "bd8fb411afe7f37fc2bbcd1bd11d4c4e7e9ffe6d5bbf53b2b581c829bf2cf865",
+      "source_status": "derived observations; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "national_comparative_data.json",
+      "sha256": "5f9f33e6f79c2796c12033890ce94b5c58293f364e37edd3fb05a01fdeb67aff",
+      "source_status": "derived observations; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "sources/BL-460-18-347-2019-05-07.pdf",
+      "url": "https://kanton.baselland.ch/politik-und-behorden/gerichte/rechtsprechung/kantonsgericht_rs/rechtsgebiet/strafrecht/entscheide-2019/2019-05-07-sr-2.pdf",
+      "sha256": "e49ce3381e4659df6c57f3623b75eb1d7b4a21e2f77d12d07582eba89d7708c6",
+      "bytes": 329509,
+      "saved_on": "2026-10-23",
+      "source_status": "official court publication"
+    },
+    {
+      "file": "sources/hofmann-justitia40-2025.html",
+      "url": "https://www.justitia40.ch/de/news/yann-eric-hofmann-neuer-co-praesident-des-steuerungsausschusses",
+      "sha256": "396e429ed10d42ed1d1ffe1a09ff3eda3fa12b8ffe1653d5a5c1bf3c3e9a8d3f",
+      "bytes": 90230,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.347166+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/hofmann-asm-committee.html",
+      "url": "https://www.svr-asm.ch/fr/vorstand.htm",
+      "sha256": "afda38d07a515e6e82f48873730c271ba2af691b4df786d8a69feae0fffeb2a7",
+      "bytes": 31868,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.347978+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/hurni-self-published-cv.html",
+      "url": "https://christophhurni.ch/en/cv-en/",
+      "sha256": "cd9b07661fa4cbd5424c309d9d5e26e32182eea2c9ab2546f32bbec6fca7e270",
+      "bytes": 84340,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.348249+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/SHAB-HR02-1004917412-2020-06-23.pdf",
+      "url": "https://shab.ch/api/v1/publications/19391ad1-34c9-4a2a-820f-a0c34667497d/pdf",
+      "sha256": "1b686b547f511d6cfd6f57183a1c4a9a57d4495645f35802155307a79863368f",
+      "bytes": 156473,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.348597+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/SHAB-HR02-1006598132-2026-03-17.pdf",
+      "url": "https://shab.ch/api/v1/publications/74f6e4c2-fc8b-45c3-9c02-98a4bbf290a6/pdf",
+      "sha256": "4443fbfdf364e81994f69e523de03975f7d6c86f68cd8f300c1b696e92bb0f12",
+      "bytes": 153582,
+      "source_status": "primary publisher",
+      "archived_at": "2026-10-22T22:44:29.348956+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "sources/SB-2021-9-remand-2024-04-03.html",
+      "url": "https://entscheidsuche.ch/docs/BS_Omni/BS_SVG_001_SB-2021-9_2024-04-03.html",
+      "sha256": "c16b29a47477db74b11e67ad6ba80e33774c0c8f62ef0715fbe9a3af0fe95874",
+      "bytes": 109821,
+      "source_status": "court judgment mirror",
+      "archived_at": "2026-10-22T22:44:29.349287+00:00",
+      "retrieval_time_precision": "Research pass began 2026-10-22T22:40:57Z; individual request start times not logged. archived_at is local file-copy completion time."
+    },
+    {
+      "file": "judicial_public_roles.json",
+      "sha256": "20e4d4860bcf5eef10db0bc8ef91a69d34b622390160d58e8706e9b646a46bed",
+      "source_status": "derived qualified roles; primary URLs contained in file",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "sources/bfs-recidivism-web-summary-2026-10-23.html",
+      "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/kriminalitaet-strafrecht/rueckfall.html",
+      "sha256": "d26788592262e97913f78ed49b87e31d6ce1be77bdf45da0e7300ec2db21b3a6",
+      "bytes": 3475776,
+      "retrieval_completed_at": "2026-10-22T22:56:39.792322+00:00",
+      "source_status": "official BFS webpage"
+    },
+    {
+      "file": "sources/urwyler-parole-study-2020-CC-BY.pdf",
+      "url": "https://open-ius.ch/literatur/urwyler_praxis-bedingte-entlassung.pdf",
+      "sha256": "f5f4c5889410dd93cfc1c9ddedbf7e79cd444c39ffcf8765b646fa8e712528dc",
+      "bytes": 3474829,
+      "retrieval_completed_at": "2026-10-22T22:57:00.272554+00:00",
+      "source_status": "primary empirical study, CC BY 4.0; author Christoph Urwyler"
+    },
+    {
+      "file": "historical_cantonal_release_comparison.json",
+      "sha256": "c4c676d937437e13be226e884cfce4807df65832286114026dba4112de099fae",
+      "source_status": "derived observations with primary-source definitions",
+      "saved_on": "2026-10-23"
+    },
+    {
+      "file": "sources/SB-2021-9-original-decision-2021-07-30-current-publication.html",
+      "url": "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=72292&Template=search_result_document.html",
+      "sha256": "6f0d9c020f95b961b7f80c35a3d6f6740a8705667ede91c680c59e8aef17d507",
+      "bytes": 425383,
+      "retrieval_completed_at": "2026-10-22T23:12:10.361011+00:00",
+      "source_status": "official court publication; original decision date 2021-07-30, current published text updated 2023-11-23"
+    },
+    {
+      "file": "sources/A-2081-2025-2025-10-13.pdf",
+      "url": "https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf",
+      "sha256": "bee77227b45a2ca8b3c402fbb4a6f4925df2c5fc2825551bd964b3c91a2e5376",
+      "bytes": 581803,
+      "retrieval_completed_at": "2026-10-22T23:14:05.709290+00:00",
+      "source_status": "mirror of court-authored judgment"
+    },
+    {
+      "file": "sources/judicial-interest-register-ag-2026-10-22.html",
+      "url": "https://www.ag.ch/de/ueber-uns/gerichte-kanton-aargau/interessenbindungen",
+      "sha256": "5c6be0eb8bfb11f7c49613a39b9ff31a19fc8258615545ee43110412b34c1562",
+      "bytes": 31706,
+      "retrieved_at_utc": "2026-10-22T23:28:02.912575+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/judicial-interest-register-gr-2026-10-22.html",
+      "url": "https://www.justiz-gr.ch/gerichte/regionalgerichte/allgemeines/interessenbindungen/",
+      "sha256": "c5736592c4e0477c6a6a568f47e627cac9aea3bd99432611f0d011a4cda5774a",
+      "bytes": 43421,
+      "retrieved_at_utc": "2026-10-22T23:28:02.934116+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/judicial-interest-register-vs-2026-10-22.html",
+      "url": "https://geo.vs.ch/de/web/tribunaux/liens-d-d-m",
+      "sha256": "c04cb1fd08865d23a2d74b32d658d26d7f309a9b1d1fb3c7b00f1bc5ae39c4f5",
+      "bytes": 113296,
+      "retrieved_at_utc": "2026-10-22T23:28:03.041757+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/judicial-interest-register-zh-2026-10-22.html",
+      "url": "https://www.zh.ch/de/gerichte-notariate/verwaltungsgericht/organisation-des-verwaltungsgerichts.html",
+      "sha256": "bc783852cb702b13a3b74515472a959b0c990502ba17ca83a71c3db06e754eee",
+      "bytes": 107366,
+      "retrieved_at_utc": "2026-10-22T23:28:03.123441+00:00",
+      "source_status": "official publisher; retrieved earlier in this pass before this receipt timestamp"
+    },
+    {
+      "file": "sources/interest-register-ag-01-2026-10-22.pdf",
+      "url": "https://www.ag.ch/media/kanton-aargau/jb/dokumente/interessenbindungen/20260801-liste-interessenbindungen-hauptamtliche.pdf",
+      "sha256": "f7301dce1056bbb0490a755e021bfea6c33d07b1820e4549fc574cf492e5b864",
+      "bytes": 222730,
+      "retrieved_at_utc": "2026-10-22T23:28:06.355735+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-ag-02-2026-10-22.pdf",
+      "url": "https://www.ag.ch/media/kanton-aargau/jb/dokumente/interessenbindungen/20260801-liste-interessenbindungen-nebenamtliche.pdf",
+      "sha256": "43b71f2a77a4c50d603018fbfb91653b4ba3b97fe1d5482a957ac8dcaf1508da",
+      "bytes": 321291,
+      "retrieved_at_utc": "2026-10-22T23:28:06.620403+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-01-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Albula_Register_11062026-1.pdf",
+      "sha256": "fbed9beceb4e30dbd485a0eea373f200dd115c4e3d4579f4d2960591ce3d69c1",
+      "bytes": 144387,
+      "retrieved_at_utc": "2026-10-22T23:28:06.297786+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-02-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Bernina_Register_01022025.pdf",
+      "sha256": "896d2f8ccdcd944b2a9668f7920abef808422fe853ad9178944cbae5de306651",
+      "bytes": 291982,
+      "retrieved_at_utc": "2026-10-22T23:28:06.529752+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-03-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_EBVM_Register_01022025.pdf",
+      "sha256": "a3d0a17324ddb0243b8ecb2b130f116dd9e21861fa729f61578daaec1889b63e",
+      "bytes": 477146,
+      "retrieved_at_utc": "2026-10-22T23:28:10.013244+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-04-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Imboden_Register_07072025.pdf",
+      "sha256": "72252ec7e863d92499dd140c5fd2d38606ef0e5133956c4eaf86b0dbf87d57a8",
+      "bytes": 302494,
+      "retrieved_at_utc": "2026-10-22T23:28:09.881212+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-05-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Landquart_Register_01022025.pdf",
+      "sha256": "7a2b936586072c1558a80a5825a37c525fc3243f2926623eb09c43c9e12dac4e",
+      "bytes": 294311,
+      "retrieved_at_utc": "2026-10-22T23:28:10.049389+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-06-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Maloja_Register_11062026.pdf",
+      "sha256": "f3cf0600e7d944a628b4b7574c7d30f05c83fd74eb8ee01aa458ad3f81f4ca72",
+      "bytes": 150010,
+      "retrieved_at_utc": "2026-10-22T23:28:09.872539+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-07-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Moesa_Register_01022025.pdf",
+      "sha256": "df8b035f6aa9a0ef072cd78663ba046c498526cf80429ad96f798d0e8b8c8678",
+      "bytes": 294623,
+      "retrieved_at_utc": "2026-10-22T23:28:13.282890+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-08-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Plessur_Register_01022025.pdf",
+      "sha256": "cb8aaf9911a76dcdb0d60c51fcdc6c7776c49cb5b468f487dc7f099c8e3ed35d",
+      "bytes": 297006,
+      "retrieved_at_utc": "2026-10-22T23:28:13.405050+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-09-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Praettigau_Davos_Register_04042025.pdf",
+      "sha256": "cf681780611ddb4bf2ecef60f924fc7bbd69f532412ee4973130981dceeb7cbc",
+      "bytes": 305758,
+      "retrieved_at_utc": "2026-10-22T23:28:13.487734+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-10-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Surselva_Register_19082026.pdf",
+      "sha256": "d15b66e9e0aae0c8ae2fbf9418aac6e360bc304938a13e61bcce3e1746bc9fe6",
+      "bytes": 138851,
+      "retrieved_at_utc": "2026-10-22T23:28:13.259934+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-gr-11-2026-10-22.pdf",
+      "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Viamala_Register_11062026.pdf",
+      "sha256": "f54464c808eddbc76eb6173e2919c6080219c702994c77839a114a18ead6e15a",
+      "bytes": 146150,
+      "retrieved_at_utc": "2026-10-22T23:28:16.493051+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-vs-01-2026-10-22.pdf",
+      "url": "https://geo.vs.ch/documents/d/tribunaux/20260219_partis-politiques",
+      "sha256": "58245c92ed828c6f629ff7d87fa7d2955e3883c0416485e7b9e5f546d16396d4",
+      "bytes": 210230,
+      "retrieved_at_utc": "2026-10-22T23:28:16.447519+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/interest-register-zh-01-2026-10-22.pdf",
+      "url": "https://www.zh.ch/content/dam/zhweb/bilder-dokumente/organisation/gerichte/interessenbindungen_verwaltungsgericht.pdf",
+      "sha256": "d8dab6bc8c029cda1d868ec155ca29c8b8f08c9e5d3e540531c561a17c920935",
+      "bytes": 164904,
+      "retrieved_at_utc": "2026-10-22T23:28:17.192000+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bvger-outside-activities-as-of-2026-09-16.pdf",
+      "url": "https://www.bvger.ch/bvger/documents/arbeitgeber/2026-nebenbeschaeftigungen-der-richterinnen-und-richter.pdf",
+      "sha256": "f4c3ce75f209ddac6d64e2f4e8d9a0e04674d57024d3d2f7bcbb6928fcac2a86",
+      "bytes": 196462,
+      "retrieved_at_utc": "2026-10-22T23:42:31.335704+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bvger-professions-2026-10-22.html",
+      "url": "https://www.bvger.ch/de/arbeiten-am-gericht/berufe",
+      "sha256": "a606c5132fddd85a5f3cb851eb3d9e9cf27b1904b21594baefd5e6ea99bfaaef",
+      "bytes": 189352,
+      "retrieved_at_utc": "2026-10-22T23:42:31.335704+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-sus-dataflow-catalog-2026-10-22.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/all/latest?references=none",
+      "sha256": "20e22a7167d2628a6e2783d3e9247a99569f1caf399f0670e34b6bd6ac77980e",
+      "bytes": 274648,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-modal-structure.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/DF_SUS_REC_MODALREC?references=all",
+      "sha256": "5b238794611f68567711d986a142019529c2db91660f3a44108a4bf5e6bba255",
+      "bytes": 1699947,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-modal-total-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_MODALREC/_T...A?startPeriod=2022&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "a4cc29610c2fc591fa3d3bb0c760f0f7ffc64e5c72a010e09f233a2be0086e95",
+      "bytes": 986,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-methodology-2020.pdf",
+      "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/13407818/master",
+      "sha256": "a03dc2c1ef4084745c463e7aeb9ea67ee4605b44b5e20e151d060d5acf9c017b",
+      "bytes": 3042185,
+      "retrieved_at_utc": "2026-10-22T23:58:07.612458+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-timing-structure.xml",
+      "url": "https://disseminate.stats.swiss/rest/dataflow/CH1.SUS/DF_SUS_REC_COURBREC?references=all",
+      "sha256": "47363cd08f90966931ab4210e795e7f83adb0898813195efd44623d7d91e4e56",
+      "bytes": 1699473,
+      "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/bfs-recidivism-timing-total-2022.csv",
+      "url": "https://disseminate.stats.swiss/rest/data/CH1.SUS,DF_SUS_REC_COURBREC/_T...A?startPeriod=2022&endPeriod=2022&dimensionAtObservation=AllDimensions",
+      "sha256": "285190e7da177fd6ded23acb43ae13fc638d1b60f61e24321b1108c3cec6e991",
+      "bytes": 1112,
+      "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/justitia40-annual-report-2025.pdf",
+      "url": "https://www.justitia40.ch/downloads/jahresberichte/de/justitia-jahresbericht-2025-de.pdf",
+      "sha256": "feef829f51a86ccf101bb8e54f134bcfe80253d8abacd57306b0afeb3f3f8d85",
+      "bytes": 1341778,
+      "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
+      "source_status": "official publisher"
+    }
+  ],
+  "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
+  "failed_retrievals": [
+    {
+      "target": "unfiltered national recidivism CSV",
+      "result": "timed out after 55 seconds; incomplete 224 MB temporary response excluded from corpus; successful filtered queries retained"
+    },
+    {
+      "target": "opendata.swiss CKAN search endpoint",
+      "result": "HTTP 403; not bypassed; official BFS published SDMX links used instead"
+    }
+  ]
+}

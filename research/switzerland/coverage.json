@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-10-22",
+  "source": "https://api.openparldata.ch/",
+  "persons_by_country": {
+    "CHE": 26830,
+    "LIE": 135
+  },
+  "interests_by_country": {
+    "CHE": 30389
+  },
+  "sampled_affairs_by_country": {
+    "CHE": 1994,
+    "LIE": 6
+  },
+  "person_active_flags": {
+    "False": 17724,
+    "True": 8805,
+    "None": 436
+  },
+  "swiss_person_records": 26830,
+  "interest_person_links_unresolved": 0,
+  "person_records_without_systematic_judicial_review": 26965,
+  "case_review_count": 10,
+  "limitations": [
+    "Person records are not unique natural persons across jurisdictions.",
+    "No individual judicial clearance or systematic background investigation completed.",
+    "Affairs capped at 2000; membership, sponsorship and voting records not collected.",
+    "API indexed coverage is incomplete for Switzerland."
+  ]
+}

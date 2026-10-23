@@ -1,0 +1,225 @@
+[
+  {
+    "id": "rape-sentencing-7b15-2021",
+    "kind": "documented_sentencing_criticism",
+    "decision_references": [
+      "SB.2021.9 (2021-07-30)",
+      "7B_15/2021 and 7B_16/2021 (2023-09-19)",
+      "6B_612/2024 (2024-09-18)",
+      "SB.2021.9 (AG.2024.290), 2024-04-03, remand decision"
+    ],
+    "summary": "The 2023 federal judgment contained a passage accepting consideration of the relatively short duration of a rape. In 2024 the Federal Supreme Court expressly called that earlier formulation inappropriate and clarified that short duration must never reduce the offender’s culpability. The 2023 panel separately quashed the cantonal sentence on other sentencing grounds; the entire 2023 judgment was not annulled by the 2024 clarification.",
+    "federal_panel": [
+      {
+        "name": "Sonja Koch",
+        "role": "presiding member",
+        "judge_record_id": "judge:b9da2d6b3677e4afed87"
+      },
+      {
+        "name": "Christoph Hurni",
+        "role": "panel member",
+        "judge_record_id": "judge:afc539997723670fe6ae"
+      },
+      {
+        "name": "Yann-Eric Hofmann",
+        "role": "panel member",
+        "judge_record_id": "judge:520388b00e0d5608dc92"
+      }
+    ],
+    "individual_opinion_attributed": false,
+    "individual_fault_finding": false,
+    "release_followed_by_homicide_established": false,
+    "nationality": "Portuguese",
+    "nationality_evidence_status": "Explicit in original cantonal decision section 11.2; not inferred from names or residence.",
+    "source_urls": [
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom=",
+      "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/6b_0612_2024_2024_10_15_T_d_11_14_33.pdf",
+      "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823",
+      "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=72292&Template=search_result_document.html"
+    ],
+    "follow_up": "Current published text of the original 2021 cantonal judgment and its panel are recovered. An immutable first-publication version, any separate release order and subsequent finality of the 2024 remand judgment remain unverified. Do not confuse the 2021 Henz/Renaud/Mez panel with the 2024 Henz/Oser/Renaud panel.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false,
+    "later_cantonal_disposition": {
+      "date": "2024-04-03",
+      "sentence_months": 42,
+      "suspended_months": 0,
+      "expulsion_years": 7,
+      "panel": [
+        "Liselotte Henz (chair)",
+        "Marc Oser",
+        "Lucienne Renaud"
+      ],
+      "publication_date": "2025-03-15",
+      "source_url": "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?Aufruf=getMarkupDocument&OmnisClass=rtFindinfoWebHtmlService&OmnisLibrary=JURISWEB&OmnisPlatform=WINDOWS&OmnisServer=JURISWEB%2C7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Template=search_result_document.html&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&WebServerUrl=&cSprache=DE&nF30_KEY=76823",
+      "finality_verified": false,
+      "interpretation": "Later remand judgment; does not identify the original 2021 panel merely because the case number is shared."
+    },
+    "original_cantonal_judgment_obtained": true,
+    "original_publication_version_verified": false,
+    "original_cantonal_disposition": {
+      "reference": "SB.2021.9 (AG.2021.589)",
+      "decision_date": "2021-07-30",
+      "first_publication_date": "2021-11-17",
+      "last_update_date_as_published": "2023-11-23",
+      "panel": [
+        "Liselotte Henz (chair)",
+        "Lucienne Renaud",
+        "Carl Gustav Mez"
+      ],
+      "sentence_months": 36,
+      "suspended_months": 18,
+      "probation_years": 3,
+      "expulsion_years": 6,
+      "source_url": "https://rechtsprechung.gerichte.bs.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,7000&Parametername=WEB&Schema=BS_FI_WEB&Source=&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=72292&Template=search_result_document.html",
+      "version_note": "Current court-published text of the original 2021 decision; not a verified immutable copy of its initial November 2021 publication."
+    },
+    "written_cantonal_context": "Section 10.4.2 explicitly acknowledges that even a brief sexual assault can cause severe trauma; section 10.4.3 expressly denies attributing contributory blame to the victim. The judgment nevertheless used duration and other circumstances in sentencing. This qualifies claims about personal beliefs without erasing criticism of the reasoning.",
+    "separate_release_order_obtained": false,
+    "post_release_observation": {
+      "as_of_decision_date": "2024-04-03",
+      "section": "3.2",
+      "statement": "The remand court stated that, as far as known, the appellant had not appeared again in criminal proceedings since the July 2021 appeal hearing and subsequent release.",
+      "limit": "Qualified court observation at that date, not a comprehensive criminal-record check, not proof of zero later offending and not a recovered original release order.",
+      "source_url": "https://entscheidsuche.ch/docs/BS_Omni/BS_SVG_001_SB-2021-9_2024-04-03.html"
+    }
+  },
+  {
+    "id": "morges-release-before-2020-homicide",
+    "kind": "release_followed_by_serious_offence_review",
+    "decision_references": [
+      "AB-BA inspection communication 2023-03-07",
+      "SK.2022.35 judgment 2023-01-10",
+      "A-2081/2025, 2025-10-13, state-liability compensation appeal"
+    ],
+    "summary": "The prosecution oversight authority reviewed pre-attack detention and release. It considered release subject to numerous substitute measures defensible, but criticised the federal prosecution’s failure to react to reported breaches and insufficient joined-up risk assessment. The later Federal Criminal Court judgment convicted the attacker of murder. These sources do not identify an individual releasing judge or establish judicial misconduct.",
+    "relevant_authorities": [
+      "Office of the Attorney General of Switzerland / Bundesanwaltschaft",
+      "Vaud cantonal authorities",
+      "Bern compulsory-measures court (Tmc-BE)"
+    ],
+    "judge_name": null,
+    "individual_fault_finding": false,
+    "nationality": "Swiss citizen; judgment also describes Turkish origin",
+    "nationality_evidence_status": "SK.2022.35 section 4.1 explicitly establishes Swiss citizenship; do not count as foreign-national-only",
+    "source_urls": [
+      "https://ab-ba.admin.ch/wp-content/uploads/2023/03/Medienmitteilung-Terrorismusbekampfung-Optimierung-der-Zusammenarbeit-der-Staatsanwaltschaften-von-Bund-und-Kantonen.pdf",
+      "https://www.bstger.ch/de/media/comunicati-stampa/2023/2023-01-10/1309.html",
+      "https://entscheidsuche.ch/dok/CH_BSTG/CH_BSTG_001_SK-2022-35_2023-01-10.pdf",
+      "https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf"
+    ],
+    "follow_up": "Retrieve the separate MPC order of 3 July 2020 (06-10-0151) and Tmc-BE order of 13 July 2020 (03-13-0018 to 0022), including signatories. The full later judgment establishes this chronology but is not either original order.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false,
+    "original_release_order_obtained": false,
+    "release_order_references": [
+      {
+        "authority": "Federal prosecution (MPC)",
+        "date": "2020-07-03",
+        "effective_date": "2020-07-13",
+        "file_reference": "06-10-0151",
+        "evidence": "SK.2022.35 section 1.7"
+      },
+      {
+        "authority": "Bern compulsory-measures court (Tmc-BE)",
+        "date": "2020-07-13",
+        "file_reference": "03-13-0018 to 0022",
+        "conditions": 16,
+        "evidence": "SK.2022.35 section 1.8"
+      }
+    ],
+    "later_compensation_proceeding": {
+      "reference": "A-2081/2025",
+      "date": "2025-10-13",
+      "court": "Federal Administrative Court",
+      "decision": "Appeal against refusal of CHF 25000 compensation rejected because the claimant did not satisfy the required close-relative/partner status.",
+      "scope": "Not a determination that the prosecutor or releasing judge was culpable, nor a merits exoneration of the release/monitoring decisions.",
+      "source_url": "https://entscheidsuche.ch/dok/CH_BVGer/CH_BVGE_001_A-2081-2025_2025-10-13.pdf",
+      "finality_verified": false
+    }
+  },
+  {
+    "id": "basel-nasenweg-2024-leave",
+    "kind": "custodial_leave_followed_by_homicide_review",
+    "decision_references": [
+      "External report on 2024-08-08 homicide; official summary 2025-06-24"
+    ],
+    "summary": "A homicide occurred while a man undergoing an institutional therapeutic measure was outside the institution. The official review described an inadequately recognised risk and a mistaken treatment conception, but found correct UPK/SMV decision processes and no systemic weakness or serious professional misconduct. This concerns custodial leave and sentence administration, not proof that a judge ordered outright release.",
+    "relevant_authorities": [
+      "Universitäre Psychiatrische Kliniken Basel (UPK)",
+      "Straf- und Massnahmenvollzug Basel-Stadt (SMV)"
+    ],
+    "judge_name": null,
+    "individual_fault_finding": false,
+    "nationality": null,
+    "nationality_evidence_status": "not_verified; do not classify as a foreign-national case",
+    "source_urls": [
+      "https://www.bs.ch/medienmitteilungen/jsd/2025-toetungsdelikt-nasenweg-ergebnisse-der-externen-untersuchung-liegen-vor",
+      "https://media.bs.ch/original_file/f5ef0d0fdd2719da28005174ff4914342645db8c/kt-bs-bericht-20240808-v1-0-geschwaerzt.pdf"
+    ],
+    "follow_up": "Read the complete report and underlying leave authorisations, then verify subsequent criminal proceedings. Keep source redactions intact; do not infer the offender’s identity or nationality.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false
+  },
+  {
+    "id": "zurich-2021-homicide-after-sentence",
+    "kind": "homicide_after_serving_unsuspended_sentence",
+    "decision_references": [
+      "Basel-Landschaft Kantonsgericht sentence 2019-05-07",
+      "6B_298/2025 (2025-06-04), facts B.b and section 7.2"
+    ],
+    "summary": "The judgment identifies a Turkish national who served the unsuspended part of an earlier partly suspended sentence through 25 September 2021. After threats reported on 9 October and a police interview/contact ban on 13 October, he killed his wife that evening. The later murder sentence was 20 years with a 15-year expulsion order. This sequence establishes a homicide after custody, but not a finding that a particular judge unlawfully released him.",
+    "relevant_authorities": [
+      "Kantonsgericht Basel-Landschaft (earlier sentence)",
+      "District Court Zurich (protective order)",
+      "Police (threat report and contact ban)"
+    ],
+    "judge_name": null,
+    "individual_fault_finding": false,
+    "nationality": "Turkish",
+    "nationality_evidence_status": "Expressly stated in section 7.2; offender remains anonymized",
+    "source_urls": [
+      "https://search.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F04-06-2025-6B_298-2025&lang=de&type=show_document&zoom=YES",
+      "https://www.gerichte-zh.ch/fileadmin/user_upload/entscheide/oeffentlich/SB230597-O1.pdf",
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F06-11-2018-6B_1437-2017&lang=de&type=show_document&zoom=",
+      "https://kanton.baselland.ch/politik-und-behorden/gerichte/rechtsprechung/kantonsgericht_rs/rechtsgebiet/strafrecht/entscheide-2019/2019-05-07-sr-2.pdf"
+    ],
+    "follow_up": "The 2019 prior sentence and its five-member panel have been recovered through the explicit 6B_1437/2017 case chain. Still obtain the original 2021 enforcement/release record and clarify whether release followed sentence completion, parole or another decision. Do not label the sentencing panel as the releasing officials.",
+    "checked_on": "2026-10-23",
+    "publication_status": "draft_requires_review",
+    "ranking": null,
+    "current_procedural_status_verified": false,
+    "earlier_case_lead": "SB230597-O1 page 57 cites 6B_1437/2017 (6 November 2018), itself an appeal of BL 460 16 109 (5 April 2017). This is a documentary case-chain link, not identification of the 2021 releasing official.",
+    "original_prior_sentence_obtained": true,
+    "prior_sentence_reference": "460 18 347, 7 May 2019",
+    "prior_sentence_panel": [
+      {
+        "name": "Enrico Rosa",
+        "role": "president"
+      },
+      {
+        "name": "Susanne Afheldt",
+        "role": "judge, reporting member (Ref.)"
+      },
+      {
+        "name": "Stephan Gass",
+        "role": "judge"
+      },
+      {
+        "name": "Helena Hess",
+        "role": "judge"
+      },
+      {
+        "name": "Dominique Steiner",
+        "role": "judge"
+      }
+    ],
+    "prior_sentence_panel_interpretation": "Panel on the published 2019 sentencing judgment, not verified signatories of a 2021 release order; no individual fault finding established."
+  }
+]

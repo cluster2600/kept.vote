@@ -1,0 +1,1018 @@
+{
+  "counts": {
+    "supreme_ordinary": 40,
+    "supreme_deputy": 18,
+    "administrative": 80,
+    "criminal_ordinary": 21,
+    "criminal_deputy": 13,
+    "patent": 42
+  },
+  "records": 214,
+  "party_labels_extracted": 149,
+  "sha256": "279e46db5f97f6e65bd4aefd69480db58132590c856c6f2f638fbf0a2ad577bf",
+  "sources": [
+    {
+      "url": "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "retrieved_at": "2026-10-22T21:53:37.117470+00:00",
+      "sha256": "a8a79b026811050a9a16d091eccfc4d75308f495149661d62fd0566c43b5052a"
+    },
+    {
+      "url": "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm",
+      "retrieved_at": "2026-10-22T21:53:39.749496+00:00",
+      "sha256": "dc530aaf07319172c6e2e10d45c40ff1b92d90a937298c12c1984b47ae6ec970"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/api/json/employees/list",
+      "retrieved_at": "2026-10-22T21:53:43.162289+00:00",
+      "sha256": "ed2b53312f86b4ef90767340115136e0cb9557dd2049afbf1e449096a4e55140"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali.html",
+      "retrieved_at": "2026-10-22T21:53:47.048988+00:00",
+      "sha256": "1409a13d787b92c7314875d7d6e5cdcaa351e53af02110cf955571c07179cecb"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti.html",
+      "retrieved_at": "2026-10-22T21:53:50.893119+00:00",
+      "sha256": "9971d3b5f810462d273a28bb6f84d578fc354d48d62a3993f992d3b0087ec946"
+    },
+    {
+      "url": "https://www.bundespatentgericht.ch/das-gericht/richter-richterinnen/",
+      "retrieved_at": "2026-10-22T21:53:53.186115+00:00",
+      "sha256": "58ba584d0a1759b0e496ea65000f0f2a3ef7e8a0e70cf4ca1b3573c57e9a470c"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-chaixfrancois.html",
+      "retrieved_at": "2026-10-22T21:53:56.630498+00:00",
+      "sha256": "cb1021bfb891b199467c86363e27c6156e930e4460540e6613366ee798a646b9"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-parrinofrancesco.html",
+      "retrieved_at": "2026-10-22T21:53:56.562407+00:00",
+      "sha256": "5bab6ea8ae3315f3dc6dd4344d034b56282515958b5cc7e362487b60f1b50af0"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/abrecht-bernard.html",
+      "retrieved_at": "2026-10-22T21:53:56.274988+00:00",
+      "sha256": "a3bdf7d6fb8a04b666c8f12b48ea18a6df54866ce27e094b88d7dee3c0493018"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-aubryflorence.html",
+      "retrieved_at": "2026-10-22T21:53:56.616943+00:00",
+      "sha256": "a47a64c0a49693cd7654fe1851e9043907cd0691e82149b34619e01ba46a6dc9"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/beusch-michael.html",
+      "retrieved_at": "2026-10-22T21:53:59.179316+00:00",
+      "sha256": "916b5605c3dd8973f41c56a033c274bd40ff20b0c693597c5699017bdf444d36"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/bollinger-susanne.html",
+      "retrieved_at": "2026-10-22T21:53:59.495022+00:00",
+      "sha256": "1fa9bc8695b19b22a25f8b992674706e8bf16cfb1500ada19f925857ce0a414f"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-boveygregory.html",
+      "retrieved_at": "2026-10-22T21:53:59.722690+00:00",
+      "sha256": "8d5bec55170d73e83b85f0c19df144d85fbeeeaef65757f43aaa266dbdfed3a5"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/arthur-brunner.html",
+      "retrieved_at": "2026-10-22T21:53:59.243808+00:00",
+      "sha256": "db51a1b7dc0877777423ed9a455e34ea04e9f7256c5b23387e10eb800aeb1530"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/de-rossa-federica.html",
+      "retrieved_at": "2026-10-22T21:54:02.166341+00:00",
+      "sha256": "b3a31ed8ef7529c5f66f9addae223e5a35d99d15162dda8e5cd172a9b681f8bd"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-denyschristian.html",
+      "retrieved_at": "2026-10-22T21:54:02.330901+00:00",
+      "sha256": "4f53f9d144403a104b2030700db71eeb0ac8dc99690730b32df48e82f2fac198"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-donzallazyves.html",
+      "retrieved_at": "2026-10-22T21:54:02.589483+00:00",
+      "sha256": "73ad46b99c7edb918e031f3671e256ae423f2557c8cc3cbec26ff1193aec28f1"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/edde-marie-chantal.html",
+      "retrieved_at": "2026-10-22T21:54:02.824655+00:00",
+      "sha256": "cc23e0bf6e26d4235e731f67d101756d29e0f7fdfcae78470d9cd33b223a2ce2"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/david-glassey.html",
+      "retrieved_at": "2026-10-22T21:54:04.728198+00:00",
+      "sha256": "c3afec4758a75e79f179608217ab073e45fa769fd3f185134e610a12d4090e33"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/guidon-patrick.html",
+      "retrieved_at": "2026-10-22T21:54:05.085086+00:00",
+      "sha256": "5401155ff4659c768b0a1405e2daa5df65f17fd1a04b073e5dd212b3c1d941a9"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hanni-julia-1.html",
+      "retrieved_at": "2026-10-22T21:54:05.415302+00:00",
+      "sha256": "784164bca5c36afe49d4dadc8b40c2a3329ebf33679100e6e8282f8528dcf6e0"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hartmann-stephan.html",
+      "retrieved_at": "2026-10-22T21:54:05.648922+00:00",
+      "sha256": "5c03826938b367c34bc12fbe8aa10563aa1c93a29cbc56454f8701b06f852107"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-heine3.html",
+      "retrieved_at": "2026-10-22T21:54:08.101917+00:00",
+      "sha256": "1bbb1cb88d31a3839498bc7b454d6b9cffdfb7e0dfb0c816d9c907e4b535da25"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html",
+      "retrieved_at": "2026-10-22T21:54:08.058472+00:00",
+      "sha256": "802571db70a1b250364d732f9bd51acce9f2b1d713692c6e456400fe0f532da8"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
+      "retrieved_at": "2026-10-22T21:54:08.558923+00:00",
+      "sha256": "79735dd65f2c1045d393d22164a83cf0e1d148993247a6422ca2d394d4c64ea5"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/josi-christian.html",
+      "retrieved_at": "2026-10-22T21:54:08.570227+00:00",
+      "sha256": "5581be68a5c45565949822a32da5f1791d5bf1fa26a379446a91053cf4801acd"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kisschristina.html",
+      "retrieved_at": "2026-10-22T21:54:11.404863+00:00",
+      "sha256": "34a4acbba3895181db8fdfd9d06ddeb9f9e3028d5dbf61c21374b686d383e369"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kneubuehlerlorenz.html",
+      "retrieved_at": "2026-10-22T21:54:11.451638+00:00",
+      "sha256": "9a65e44fc4857148ee0d33b2b72d4f6a0d160fc832843fb3325695b6213d04c2"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
+      "retrieved_at": "2026-10-22T21:54:11.423268+00:00",
+      "sha256": "aeda8515c1e793bf1a09df901825e6c8fa63ff24bb2d024adb4e6df279a14dff"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kolz-christian.html",
+      "retrieved_at": "2026-10-22T21:54:11.543430+00:00",
+      "sha256": "558eaa71612f739caeb969a1ed4633ffa1cc1854cf2ef065b78a48720bb2c104"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kradolfer-matthias.html",
+      "retrieved_at": "2026-10-22T21:54:14.596063+00:00",
+      "sha256": "9446c9df6c62a1ab391db929c91198baff12607eb1243206287f1dae5dab88d8"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-maillardmarcel.html",
+      "retrieved_at": "2026-10-22T21:54:14.989781+00:00",
+      "sha256": "85bc4e84d94a531465ee7a3797c0442faca9f6e81ac066142ca65a757cb82f1a"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/merz-laurent.html",
+      "retrieved_at": "2026-10-22T21:54:14.510961+00:00",
+      "sha256": "d4485a3b6ff02a877bf8819e395444eb85329190dd80623738847dc1ff2789ed"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/metral-jean.html",
+      "retrieved_at": "2026-10-22T21:54:15.070221+00:00",
+      "sha256": "15365196b55c6ae02c6cb5aea8bf68f68ae530f34488975496f9ab431f206b8d"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichterin-moserszelessmargit.html",
+      "retrieved_at": "2026-10-22T21:54:17.854144+00:00",
+      "sha256": "6affb0305a209f4d6bdf2374a7bc59bb405beb6d1d10fa9bb9a6937dfff52803"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/muller-thomas.html",
+      "retrieved_at": "2026-10-22T21:54:17.399197+00:00",
+      "sha256": "9bb843b4733712dd16efa3ca088c29f059461b97b5dbc8a60fce8e4a1492b26c"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-muschiettigiuseppe.html",
+      "retrieved_at": "2026-10-22T21:54:18.408400+00:00",
+      "sha256": "0cac493a210ffb05785ee87737d9ab78a3a3511447c9a26f4ce7833e8aa8e07e"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-rueediyves.html",
+      "retrieved_at": "2026-10-22T21:54:18.461686+00:00",
+      "sha256": "711ce8e2514867610668b205611141eb2f1c48612f44e0a3a80afb295327f32c"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/ryter-marianne.html",
+      "retrieved_at": "2026-10-22T21:54:20.383531+00:00",
+      "sha256": "dffcacd0bf4457d773751cb1104398b8e17a2bdd921135d54ad946ebdd2959ca"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/scherrer-reber-karin.html",
+      "retrieved_at": "2026-10-22T21:54:21.077430+00:00",
+      "sha256": "d04d6eab8b56872cf67c28c9514e3d9dc19601068c0d0dd7c3c94e56c3446adf"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-stadelmannthomas.html",
+      "retrieved_at": "2026-10-22T21:54:21.983774+00:00",
+      "sha256": "c43395532f7eef4a24acb3a390e4b437343ca82ee9fa5b436052e87e0168cf16"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/thurnherr-keller-daniela.html",
+      "retrieved_at": "2026-10-22T21:54:21.355356+00:00",
+      "sha256": "22cb7d892ff60f9260dbd2987fbf911d6f167e7b1687107347e4dc9a5a447d73"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/van-de-graaf-beatrice.html",
+      "retrieved_at": "2026-10-22T21:54:23.222322+00:00",
+      "sha256": "dd68be984e0d405ef2845a8adf218dea1f2dda53acdb57191b9028d7cf9505b3"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/viscione-daniela.html",
+      "retrieved_at": "2026-10-22T21:54:24.376635+00:00",
+      "sha256": "9260dc87b0b50038d5f3f35f507d8be4af3018a712313ec9837365208b474e03"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/von-felten-rolf.html",
+      "retrieved_at": "2026-10-22T21:54:24.365757+00:00",
+      "sha256": "b4ae4bee77748559b0c86ed7c896a460520a22280b53dd956df448ad6f2a50cb"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/wohlhauser-sandra.html",
+      "retrieved_at": "2026-10-22T21:54:24.720906+00:00",
+      "sha256": "05b832d6ec2e0c080199d5a5507035cde27646c1bc03f72fb79234ce1af05863"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/yannick-antoniazza-hafner-586",
+      "retrieved_at": "2026-10-22T21:54:25.976905+00:00",
+      "sha256": "d9a9a7e4db314022b40711ea65d56ab170bf7077e6cadf8da0ca5b19be587114"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/christine-ackermann-238",
+      "retrieved_at": "2026-10-22T21:54:27.105472+00:00",
+      "sha256": "61f4059676a26833dff1ef9741176b314e3c1c323251e5dbcb1c0511bb8a96b7"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/pietro-angeli-busi-250",
+      "retrieved_at": "2026-10-22T21:54:27.128434+00:00",
+      "sha256": "afde54c10c82badc05d623d076e4f680288414209ecc6ba18c49a2da815285be"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/emilia-antonioni-luftensteiner-239",
+      "retrieved_at": "2026-10-22T21:54:27.467353+00:00",
+      "sha256": "f04aea0d63efd894549e4b35cda9783c601efd8c75d73134a41cf93f8511e70d"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/david-aschmann-251",
+      "retrieved_at": "2026-10-22T21:54:28.727780+00:00",
+      "sha256": "50510953f8123723bb1081b56f02646ee7c3c920ed3cbb7d9adc8fd51d0bde31"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/jonas-attenhofer-807",
+      "retrieved_at": "2026-10-22T21:54:29.847387+00:00",
+      "sha256": "35f667ff146615ead3c294a8723fa516da179b7c12bcc501aa22d9c1d27da125"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/barbara-balmelli-muehlematter-108",
+      "retrieved_at": "2026-10-22T21:54:29.846953+00:00",
+      "sha256": "a72e894e21e4d65b6f32345ac1c08d443e5a6e309de885b9d1e123c804e228f5"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/caroline-bissegger-60",
+      "retrieved_at": "2026-10-22T21:54:30.184713+00:00",
+      "sha256": "da073eaec4298e41749518afe0bbb33666729b0846a0af5fbba5b90a5977f8c9"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/susanne-bolz-reimann-451",
+      "retrieved_at": "2026-10-22T21:54:31.482303+00:00",
+      "sha256": "68bae24dc17fa47a361dde6f2fa4cfd28d5dc32d9652612460b3ed27064ed6ee"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/manuel-borla-453",
+      "retrieved_at": "2026-10-22T21:54:32.600350+00:00",
+      "sha256": "cb830960c3a842723bca57eb6ea0dda88bae8ca6b9ae3b41cd8fa95ecc307fe3"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/gerald-bovier-474",
+      "retrieved_at": "2026-10-22T21:54:32.879664+00:00",
+      "sha256": "b74326d9cacc4a39d3304dbc8adb402ed9bf2d8e19d235e6131ecd995c850a5f"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/daniela-brueschweiler-475",
+      "retrieved_at": "2026-10-22T21:54:32.923818+00:00",
+      "sha256": "4c2f7fca02cdf1ac1fb68dde574e4bd89751c76000694b13cc6e9104c426b768"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/michela-buerki-moreni-363",
+      "retrieved_at": "2026-10-22T21:54:34.232716+00:00",
+      "sha256": "89469aa08df6f985e00338f56439696ba0a931a118390582400405d571d477e9"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/jerome-candrian-240",
+      "retrieved_at": "2026-10-22T21:54:35.357775+00:00",
+      "sha256": "ecd1ec69fe98265507b042ee5a47433fa980aa2c518dd2f523792dc7e935ccf9"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/daniele-cattaneo-476",
+      "retrieved_at": "2026-10-22T21:54:35.681870+00:00",
+      "sha256": "740c3fc5cf3afc7a142e30282e97495efa48d62cf172a398b7c0fdab33934e94"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/gregor-chatton-109",
+      "retrieved_at": "2026-10-22T21:54:35.687555+00:00",
+      "sha256": "49924638bc8dfc6530dcb31f3da6192727a4547afdd2259625549a203656ab93"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/claudia-cotting-schalch-588",
+      "retrieved_at": "2026-10-22T21:54:36.993014+00:00",
+      "sha256": "c46dece996de3967ccec94ff2627e2f02402ac502f2adc5afbcb9a2c42f8ddaa"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/basil-cupa-589",
+      "retrieved_at": "2026-10-22T21:54:38.111721+00:00",
+      "sha256": "2ff7a4a65e21ab0b20b713a8d6b0a49c28925dffdbd7aa6b7b565ffeec580e0d"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/deborah-d-aveni-542",
+      "retrieved_at": "2026-10-22T21:54:38.423340+00:00",
+      "sha256": "9a4964c22e3d282c88cf43e013c905c30c6aa5cd021b26d89ebd81f7e4f6fcc2"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/regina-derrer-364",
+      "retrieved_at": "2026-10-22T21:54:38.442881+00:00",
+      "sha256": "3f312cd760b889ca67e8d4117b547a50963c6191efa95094b94fe0e015f4125a"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/kathrin-dietrich-279",
+      "retrieved_at": "2026-10-22T21:54:39.814235+00:00",
+      "sha256": "da9ffff11ead68ea8c595b9b425236001e388ec42eb9dae4bb50b3df404a6045"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/philipp-egli-1205",
+      "retrieved_at": "2026-10-22T21:54:41.012421+00:00",
+      "sha256": "fc6407ced8490e71c602ae169f31066aedffeb70b90af93def0cd208bda0af24"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/selin-elmiger-necipoglu-1206",
+      "retrieved_at": "2026-10-22T21:54:41.174378+00:00",
+      "sha256": "75d892ce19f7386fe2dcd4153487a253a72c02bfac0a43ef0b8a37f188936865"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/christoph-errass-287",
+      "retrieved_at": "2026-10-22T21:54:41.169433+00:00",
+      "sha256": "c16d037474e4966048fa37c4dfcbf33b368b65d0e0246952198af043d52d95ae"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/yanick-felley-477",
+      "retrieved_at": "2026-10-22T21:54:42.579955+00:00",
+      "sha256": "6f9d42adc66205245cfa7ce9d7f7a40026d7bbc06d90c93c7e2ff2c1ccb358f8"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/gabriela-freihofer-543",
+      "retrieved_at": "2026-10-22T21:54:43.812807+00:00",
+      "sha256": "1883db8d5ad1c7af456368b64c10b33aaca139ab9c1737587e1d16a86b17be19"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/mia-fuchs-289",
+      "retrieved_at": "2026-10-22T21:54:43.901595+00:00",
+      "sha256": "7dc37b8cdc2d71a76162a2f7288d2b31372718e6c5b97d2182c7e7d078b5be2d"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/caroline-gehring-369",
+      "retrieved_at": "2026-10-22T21:54:43.895243+00:00",
+      "sha256": "8ff5808694d7b0fa22768a0f6908c87e6a6f42a07d59a29d9e47dad233aab9b7"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/susanne-genner-591",
+      "retrieved_at": "2026-10-22T21:54:45.277593+00:00",
+      "sha256": "5b819b5d660d02c91d7d99720b2716608a92be2dad12c2374f37ee2a91aa25f6"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/kaspar-gerber-270",
+      "retrieved_at": "2026-10-22T21:54:46.640617+00:00",
+      "sha256": "e8a9b86dc7ffc5658edea2744f479185d18cc723775dd4d395cd3a2776734ea9"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/viktoria-helfenstein-387",
+      "retrieved_at": "2026-10-22T21:54:46.840621+00:00",
+      "sha256": "b472211baf13d17f589999936141bcb2182e73f851e2bd831fb74cb007a1adfa"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/madeleine-hirsig-vouilloz-399",
+      "retrieved_at": "2026-10-22T21:54:46.678165+00:00",
+      "sha256": "588f1ff5dfe6ba1aa3e26f34e55c262768d301c482085c8ba1d4ba2f636f3021"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/eva-hostettler-893",
+      "retrieved_at": "2026-10-22T21:54:48.021259+00:00",
+      "sha256": "6e07833ee2801d476a10d0dffd36d4cafcf28eb7ddfb04ee6c52ddb07940cf1c"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/ralf-imstepf-2751",
+      "retrieved_at": "2026-10-22T21:54:49.433471+00:00",
+      "sha256": "dcacb4230c722742d33d76e701974e162b2e9f2308499985226d2f1b225be50c"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/sebastian-kempe-592",
+      "retrieved_at": "2026-10-22T21:54:49.441362+00:00",
+      "sha256": "30bf747dc7653851aadf309600f4590c7844731ec952306d85a39b2a77164652"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/walter-lang-478",
+      "retrieved_at": "2026-10-22T21:54:49.609501+00:00",
+      "sha256": "8c97d6e7076b538deeb8ed8e2894cd5407a01049781549291ce7a9f292a2aa98"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/mathias-lanz-840",
+      "retrieved_at": "2026-10-22T21:54:50.791221+00:00",
+      "sha256": "4c6f4fb6bf0385282321e9f135d5e47e2815845cdda4f28e95261767830ddb3d"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/constance-leisinger-559",
+      "retrieved_at": "2026-10-22T21:54:52.209764+00:00",
+      "sha256": "6de5af83b2277d38fe3c369e37d2882dbb764bcf7cb2caa77e8ec8ff232592c9"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/lucien-philippe-magne-2750",
+      "retrieved_at": "2026-10-22T21:54:52.425619+00:00",
+      "sha256": "c98f1dec9cdf9d6d1a1176e26afc478663c5c98ae1223c8aa85128ba0c7f1c52"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/vera-maria-marantelli-sonanini-309",
+      "retrieved_at": "2026-10-22T21:54:52.383082+00:00",
+      "sha256": "772752287f570ccd12f147ba31ca35d498588a6858dc18a5d87dbed048665502"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/giulia-marelli-457",
+      "retrieved_at": "2026-10-22T21:54:53.596881+00:00",
+      "sha256": "669f66fd74bf17de4c1e5d20770c2c66e3e1532132652965dbaecddc5e3f013b"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/camilla-mariethoz-wyssen-575",
+      "retrieved_at": "2026-10-22T21:54:54.981050+00:00",
+      "sha256": "c03b6bc887742998645eb1cf739cf6b9e5312dd8684b7acc7a386af20a8302b5"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/esther-marti-576",
+      "retrieved_at": "2026-10-22T21:54:55.138250+00:00",
+      "sha256": "a13ada31108c612f1eb62575b98c57b6fc88f5172035ebe72859b3b11010db08"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/stephan-metzger-282",
+      "retrieved_at": "2026-10-22T21:54:55.140952+00:00",
+      "sha256": "c6271d3211f18eff822bf8137ccb9e0856cf3a4ce98a89dde5847dc083a4ae93"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/alexander-misic-242",
+      "retrieved_at": "2026-10-22T21:54:56.587895+00:00",
+      "sha256": "d84b6fdd5dfa5bdb9c951a37fef996a0445ad7f6452d6469b17caa38f5a35ab3"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/lukas-mueller-1396",
+      "retrieved_at": "2026-10-22T21:54:57.712494+00:00",
+      "sha256": "f411f4ab741c2421aec47632e54b02160b4dc6f9d4934f087eb0d153a359e5b9"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/keita-mutombo-110",
+      "retrieved_at": "2026-10-22T21:54:57.914763+00:00",
+      "sha256": "280f2545de7cbe02bc868df3a0481d798871638f27d5a01249afce78371080e8"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/lorenz-noli-577",
+      "retrieved_at": "2026-10-22T21:54:57.899500+00:00",
+      "sha256": "fa75ea3e296a7c253969130da8bfba40f2e9e7954ec6e665e4acec54389d5974"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/claudia-pasqualetto-pequignot-243",
+      "retrieved_at": "2026-10-22T21:54:59.365678+00:00",
+      "sha256": "aede27b684162711e02ea2550732fca8179bf6f860a604fbc704136010c9c9ff"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/roswitha-petry-112",
+      "retrieved_at": "2026-10-22T21:55:00.492780+00:00",
+      "sha256": "b68d629b5f22ff98df2aa3dbe384172b881f4a63ca5b9d255a3c630dc3a78867"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/chiara-piras-484",
+      "retrieved_at": "2026-10-22T21:55:00.826888+00:00",
+      "sha256": "8ed0bd0f6740191089be6083cbe1c5a47d58b1b52ec85dc91edbda537db75c4d"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/christa-preisig-822",
+      "retrieved_at": "2026-10-22T21:55:00.714812+00:00",
+      "sha256": "2715bda003c0c905cfe732b253ca6affab9b6965e0974b1113bb7aa4c56a4870"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/pascal-richard-105",
+      "retrieved_at": "2026-10-22T21:55:02.164244+00:00",
+      "sha256": "0054e90b22d0a41aff8ed6ae3765ff89b54e45fed74933be94bc3f61ed4284e8"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/vincent-rittener-1417",
+      "retrieved_at": "2026-10-22T21:55:03.774669+00:00",
+      "sha256": "72a2dcf5765e9f3ad7d508b51f2906f835df9f3800c1ff5e7faaab9d4d0e16be"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/annie-rochat-pauchard-104",
+      "retrieved_at": "2026-10-22T21:55:03.837490+00:00",
+      "sha256": "8bb280aa40de5eaa4967f3bb276f8359f3b991942b4eae4dfc1369281f2e0d6e"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/christoph-rohrer-408",
+      "retrieved_at": "2026-10-22T21:55:03.953102+00:00",
+      "sha256": "36f3a1eedf49d1699f2e90537af3161c787a519b324b0055a39622409d3c50d1"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/pierre-emmanuel-ruedin-3441",
+      "retrieved_at": "2026-10-22T21:55:05.095366+00:00",
+      "sha256": "8aa68aceb29eca8ae668d7784ab26c918a9a31b71b403938df2f11b7ffb61cbc"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/gregory-sauder-583",
+      "retrieved_at": "2026-10-22T21:55:06.757481+00:00",
+      "sha256": "e54632e3a65e8dde51b048e941bead2f2ca6e6f885527c12e958c27593ac6cc4"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/regula-schenker-senn-593",
+      "retrieved_at": "2026-10-22T21:55:06.812512+00:00",
+      "sha256": "a072ac147fa48be2ac011692adacd8ea825509a237a3f40d3442d71dc6ab397f"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/jeannine-scherrer-baenziger-486",
+      "retrieved_at": "2026-10-22T21:55:06.892712+00:00",
+      "sha256": "86e367097ff97da14ed2022f3de76aac2db9b099136b185e57a1e7db46efbb9e"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/eva-schneeberger-310",
+      "retrieved_at": "2026-10-22T21:55:07.853069+00:00",
+      "sha256": "598726a76de9c1a61ea51623675e1607d5f1d53dcbea8eeedd942578a7682283"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/thomas-segessenmann-510",
+      "retrieved_at": "2026-10-22T21:55:09.635219+00:00",
+      "sha256": "4b0b901353650286c568e025aa780d2fb8637e36d667fc6747c1585a7b7309fe"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/nina-spaelti-giannakitsas-111",
+      "retrieved_at": "2026-10-22T21:55:09.722031+00:00",
+      "sha256": "a95d498899d88382dc6a895523a59a548acac83933f2b6d9b1bd02a11949fc32"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/juerg-steiger-245",
+      "retrieved_at": "2026-10-22T21:55:09.864886+00:00",
+      "sha256": "51ab705c4d82923e0269eff505540e5383e3e3c6d9041da97a160f057c5ea68e"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/marc-steiner-311",
+      "retrieved_at": "2026-10-22T21:55:10.618079+00:00",
+      "sha256": "b9adf432449cf44d3aa9cfb5bd03878b3b44a40d315f985abfd6f79bd7c9aa28"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/contessina-theis-107",
+      "retrieved_at": "2026-10-22T21:55:12.496871+00:00",
+      "sha256": "47cebee8d1bec69fd6eb5ff5c7fc7b0e16f0d8cef09dcff31eb5cc6301a86f15"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/julien-theubet-412",
+      "retrieved_at": "2026-10-22T21:55:12.483634+00:00",
+      "sha256": "dc713bb5f0173d0195696fa230fa467fab3fd00ff35c95f73647b2e7046dc4ca"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/simon-mathias-thurnheer-512",
+      "retrieved_at": "2026-10-22T21:55:12.651247+00:00",
+      "sha256": "097cc0c20d22be9010fe6d1b3ef80d3278891fc61870f0832734fdadce346331"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/juerg-marcel-tiefenthal-246",
+      "retrieved_at": "2026-10-22T21:55:13.374590+00:00",
+      "sha256": "d65def2b7f16d046f7dd1a67b97da20ef7ae5a63040e4ebbb0d67936bbf6d23b"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/chrystel-tornare-villanueva-513",
+      "retrieved_at": "2026-10-22T21:55:15.235426+00:00",
+      "sha256": "2b01334396c401c7caddf4ea84c22b1063cb8438ec178ae700d847ca3f7f17c1"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/aileen-truttmann-804",
+      "retrieved_at": "2026-10-22T21:55:15.250110+00:00",
+      "sha256": "acf0a6dc0d83b4b86a52eb2fbeed6e10db7a7e9e7b46fa66b6aa6df02156e1cc"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/vito-valenti-56",
+      "retrieved_at": "2026-10-22T21:55:15.399188+00:00",
+      "sha256": "9ee8f6e4c63ff98aefbde4d366eae6438b1573fdad046eb3f29e077f4fafbf28"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/william-waeber-584",
+      "retrieved_at": "2026-10-22T21:55:16.113327+00:00",
+      "sha256": "85d794035651897957b2d0b1c4a3ac7a4d7f564a82767a63e6ee058385fef705"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/beat-weber-106",
+      "retrieved_at": "2026-10-22T21:55:18.011647+00:00",
+      "sha256": "a4002c0bf52e48faf9e134874cf7210a7044b3a2e4697739aebdad0fa92e3b91"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/david-weiss-428",
+      "retrieved_at": "2026-10-22T21:55:18.012099+00:00",
+      "sha256": "dc2b9cfc4681232dfbc2b57d6e7c9724182ac24d4c970f8e4a7945f05f6b4920"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/david-r-wenger-585",
+      "retrieved_at": "2026-10-22T21:55:18.285018+00:00",
+      "sha256": "51d383147c025920fd28904f19d48fb522d9516b03336d6c4bbc8ca6deca4087"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/iris-widmer-247",
+      "retrieved_at": "2026-10-22T21:55:18.873376+00:00",
+      "sha256": "79c6bc893aa7ac6c130e79f75ca927622c9ea4d017bb1bd7703503f2e126bf64"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/daniel-willisegger-331",
+      "retrieved_at": "2026-10-22T21:55:20.794290+00:00",
+      "sha256": "1f4d4ec412a63c4a2ddcea103ac90e9257da160e721b1dbf47873895656e5d44"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/christian-winiger-332",
+      "retrieved_at": "2026-10-22T21:55:20.868976+00:00",
+      "sha256": "1994637301eb9fb4273ee652857f68ff03cd16f0c34cf76775044637c43bf136"
+    },
+    {
+      "url": "https://www.bvger.ch/fr/le-tribunal/employes/julien-theubet-3551",
+      "retrieved_at": "2026-10-22T21:55:21.131743+00:00",
+      "sha256": "52a98bdf2d6d584222ed68a6d1b549d5e43147f61e3c74f903927ccc654be1e7"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1250/maurizio-albisetti-bernasconi.html",
+      "retrieved_at": "2026-10-22T21:55:22.697154+00:00",
+      "sha256": "b3f50801d115830fc8ef40fc09735f0f64d3a491831fe2d6d9cff54aa0538b81"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/527/jeanluc-bacher.html",
+      "retrieved_at": "2026-10-22T21:55:24.546409+00:00",
+      "sha256": "102759ae3b621dae407833ce1304ec583e3f805757b14a41ac0e81ee77d0b37b"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/998/fiorenza-bergomi.html",
+      "retrieved_at": "2026-10-22T21:55:24.552711+00:00",
+      "sha256": "fb8dc9b6e1e4ff23a1ac4540e4f0f9f6e2260017ab156ce5bbe39c7a3e40d9f9"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/767/andrea-blum.html",
+      "retrieved_at": "2026-10-22T21:55:24.921195+00:00",
+      "sha256": "9eca5010d188b1902e6b44d36a1269ce3a8f10f8870c56e5ed8c341dcbd2a698"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1000/david-bouverat.html",
+      "retrieved_at": "2026-10-22T21:55:26.526278+00:00",
+      "sha256": "385b5589a5f81013c2a1395546b0313af9c2925b5f1ca6c8a2410f935b20e7e5"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/532/josephine-contu-albrizio.html",
+      "retrieved_at": "2026-10-22T21:55:28.277972+00:00",
+      "sha256": "16c63f70e6be79b0cc43819fcf13d2f017bec0195cbfb85d218edf677b04301b"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1276/maric-demont.html",
+      "retrieved_at": "2026-10-22T21:55:28.370103+00:00",
+      "sha256": "04c05cf3d60b4dbd385c2f424c8b2033dfba56ebcebe6a01ec1bc2a15003a115"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1308/andrea-ermotti.html",
+      "retrieved_at": "2026-10-22T21:55:28.678014+00:00",
+      "sha256": "0a03d8f259ef1af1b26fefb691b832791a73c8a7f04d74b9aeb8ab60de03162d"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1123/alberto-fabbri.html",
+      "retrieved_at": "2026-10-22T21:55:30.402042+00:00",
+      "sha256": "27324b23a2cc8a22d729b0cf1c45a959470ee86276fae30898c2f5f53d0722b5"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/526/miriam-forni.html",
+      "retrieved_at": "2026-10-22T21:55:31.929304+00:00",
+      "sha256": "6b3d49e1733e03221f677643fa7ad88312d68188f4b6a1ac2f171b5be421c73b"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/518/roy-garre.html",
+      "retrieved_at": "2026-10-22T21:55:32.102099+00:00",
+      "sha256": "5c1deeb0592cecb66d844419571a65015298540167e090fb218f722fd3f7caa5"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/768/stefan-heimgartner.html",
+      "retrieved_at": "2026-10-22T21:55:32.487656+00:00",
+      "sha256": "67bfa121716199026c7e40829ca2b0c17b8ef03a02be31412795541a26f71e0c"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1580/fiona-krummenacher.html",
+      "retrieved_at": "2026-10-22T21:55:34.195335+00:00",
+      "sha256": "dc92239b3ad99203bc20c8d829da012681ef05d19608f7567e2fe0bffffe837e"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/530/patrick-robertnicoud.html",
+      "retrieved_at": "2026-10-22T21:55:35.634974+00:00",
+      "sha256": "1bc93c06288cae1a141c51b72d0f5bc061d4738f50e5efd2ebceba08029332a9"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/969/jeanpaul-ros.html",
+      "retrieved_at": "2026-10-22T21:55:35.850076+00:00",
+      "sha256": "f2f1d830ce8f08b4760d6bcc452d6a606a331073ca975d6687dd8e58dec54299"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1257/brigitte-stump-wendt.html",
+      "retrieved_at": "2026-10-22T21:55:36.244747+00:00",
+      "sha256": "63d0162fefb648dcea760a180b898184046846b78dfa1b912ce759339e3b7ee4"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/766/martin-stupf.html",
+      "retrieved_at": "2026-10-22T21:55:37.989378+00:00",
+      "sha256": "e195f9b088298b886a52b84c1fc42677262b75631a2d606afb74ca672d789270"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/988/olivier-thormann.html",
+      "retrieved_at": "2026-10-22T21:55:39.314045+00:00",
+      "sha256": "4c6b5ba343e35dd643239bf4040c3455e937f6d93f60e9a0a917e1d187a8a102"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/1283/felix-ulrich.html",
+      "retrieved_at": "2026-10-22T21:55:39.575635+00:00",
+      "sha256": "e252c67b2ba6e951825dc0abd1728e80c852b0e0eea25a30db74e85dac56e6dc"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/851/stephan-zenger.html",
+      "retrieved_at": "2026-10-22T21:55:40.015271+00:00",
+      "sha256": "c01e0666140d9c36d989ccf5700f0a80b196826861fbd0819abb12086fd6a3d9"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-penali-federali/542/nathalie-zufferey.html",
+      "retrieved_at": "2026-10-22T21:55:41.718080+00:00",
+      "sha256": "f8160da34d6ea6f3eda5ed927a94bb3247aa1b8a68e31b8a491b77354e0e353d"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1089/mariaantonella-bino.html",
+      "retrieved_at": "2026-10-22T21:55:43.005918+00:00",
+      "sha256": "2935279a1698d0cb8d068677c5610d217ebecc4379e8327da4cde1d07e7b0bd7"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/964/frederique-butikofer-repond.html",
+      "retrieved_at": "2026-10-22T21:55:43.372931+00:00",
+      "sha256": "4034de0e6f7423ee9484411f2336abe80c38ad97e02787c48f40454c27835d90"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/966/thomas-tom-frischknecht.html",
+      "retrieved_at": "2026-10-22T21:55:43.802591+00:00",
+      "sha256": "4fac2a9ea29bd716b9c886d5903f1a7872f96cde6b3b60655ae5eb6086c3fa12"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1007/monica-galliker.html",
+      "retrieved_at": "2026-10-22T21:55:45.511793+00:00",
+      "sha256": "6eb11cf03ca7355b72cdaf9b9f89cf6c37da039e4435d168ba5ef568e1a34df7"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1091/katharina-giovannonehofmann.html",
+      "retrieved_at": "2026-10-22T21:55:46.818927+00:00",
+      "sha256": "990e06766bd43c4e788eeb2bfcb73422e363f91231767224fd5393283355e097"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/967/beatrice-kolvodouris-janett.html",
+      "retrieved_at": "2026-10-22T21:55:47.100099+00:00",
+      "sha256": "39e1295f23f34ae84656ed32627484c472da32bf197d03f2269cabb98c78f9c1"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/968/barbara-loppacher.html",
+      "retrieved_at": "2026-10-22T21:55:47.477373+00:00",
+      "sha256": "eacf907b4e1f3912772dceb44b02598c3eea9908451103ae7becda742b9f273c"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1446/pierluigi-pasi.html",
+      "retrieved_at": "2026-10-22T21:55:49.189628+00:00",
+      "sha256": "a9eb74ddbe74c7568bdab0c2a3a93042c328e7e8677d2cc83a946b5609cc179d"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/769/bertrand-perrin.html",
+      "retrieved_at": "2026-10-22T21:55:50.565024+00:00",
+      "sha256": "7a1748b0ae9274ce73e48ef7ab902050e962939128703512534d7d9723a66344"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/970/marcia-stucki.html",
+      "retrieved_at": "2026-10-22T21:55:51.110545+00:00",
+      "sha256": "953f7e4bfc04524e2c4e98de679604c1583acaa1955426b1ce1eb18f32571a76"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/1016/adrian-peter-urwyler.html",
+      "retrieved_at": "2026-10-22T21:55:51.333668+00:00",
+      "sha256": "ce87cebefd0bc7d7e48279227e2769f88ad9a0b699f39af87deae7fd7be419ec"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/963/petra-venetz.html",
+      "retrieved_at": "2026-10-22T21:55:52.987821+00:00",
+      "sha256": "c89327f7eb602d7365ecbbe63b83fe9a5e0e6d078dcb7e759e66ee647f1fb20b"
+    },
+    {
+      "url": "https://www.bstger.ch/fr/il-tribunale/giudici/elenco-giudici-supplenti/971/jeanmarc-verniory.html",
+      "retrieved_at": "2026-10-22T21:55:54.297343+00:00",
+      "sha256": "63c359dedfee397b7b988af648addcd38e1995e4ac1a56d7935b92a42e9c0cd6"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-chaixfrancois.html",
+      "retrieved_at": "2026-10-22T21:56:45.094703+00:00",
+      "sha256": "cb1021bfb891b199467c86363e27c6156e930e4460540e6613366ee798a646b9"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-parrinofrancesco.html",
+      "retrieved_at": "2026-10-22T21:56:45.108761+00:00",
+      "sha256": "5bab6ea8ae3315f3dc6dd4344d034b56282515958b5cc7e362487b60f1b50af0"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/abrecht-bernard.html",
+      "retrieved_at": "2026-10-22T21:56:44.722571+00:00",
+      "sha256": "a3bdf7d6fb8a04b666c8f12b48ea18a6df54866ce27e094b88d7dee3c0493018"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-aubryflorence.html",
+      "retrieved_at": "2026-10-22T21:56:45.133540+00:00",
+      "sha256": "a47a64c0a49693cd7654fe1851e9043907cd0691e82149b34619e01ba46a6dc9"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/beusch-michael.html",
+      "retrieved_at": "2026-10-22T21:56:47.653625+00:00",
+      "sha256": "916b5605c3dd8973f41c56a033c274bd40ff20b0c693597c5699017bdf444d36"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/bollinger-susanne.html",
+      "retrieved_at": "2026-10-22T21:56:47.899887+00:00",
+      "sha256": "1fa9bc8695b19b22a25f8b992674706e8bf16cfb1500ada19f925857ce0a414f"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-boveygregory.html",
+      "retrieved_at": "2026-10-22T21:56:48.158782+00:00",
+      "sha256": "8d5bec55170d73e83b85f0c19df144d85fbeeeaef65757f43aaa266dbdfed3a5"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/arthur-brunner.html",
+      "retrieved_at": "2026-10-22T21:56:48.504849+00:00",
+      "sha256": "db51a1b7dc0877777423ed9a455e34ea04e9f7256c5b23387e10eb800aeb1530"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/de-rossa-federica.html",
+      "retrieved_at": "2026-10-22T21:56:50.716274+00:00",
+      "sha256": "b3a31ed8ef7529c5f66f9addae223e5a35d99d15162dda8e5cd172a9b681f8bd"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-denyschristian.html",
+      "retrieved_at": "2026-10-22T21:56:51.014903+00:00",
+      "sha256": "4f53f9d144403a104b2030700db71eeb0ac8dc99690730b32df48e82f2fac198"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-donzallazyves.html",
+      "retrieved_at": "2026-10-22T21:56:51.218098+00:00",
+      "sha256": "73ad46b99c7edb918e031f3671e256ae423f2557c8cc3cbec26ff1193aec28f1"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/edde-marie-chantal.html",
+      "retrieved_at": "2026-10-22T21:56:51.601863+00:00",
+      "sha256": "cc23e0bf6e26d4235e731f67d101756d29e0f7fdfcae78470d9cd33b223a2ce2"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/david-glassey.html",
+      "retrieved_at": "2026-10-22T21:56:53.302445+00:00",
+      "sha256": "c3afec4758a75e79f179608217ab073e45fa769fd3f185134e610a12d4090e33"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/guidon-patrick.html",
+      "retrieved_at": "2026-10-22T21:56:53.681752+00:00",
+      "sha256": "5401155ff4659c768b0a1405e2daa5df65f17fd1a04b073e5dd212b3c1d941a9"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hanni-julia-1.html",
+      "retrieved_at": "2026-10-22T21:56:53.962053+00:00",
+      "sha256": "784164bca5c36afe49d4dadc8b40c2a3329ebf33679100e6e8282f8528dcf6e0"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hartmann-stephan.html",
+      "retrieved_at": "2026-10-22T21:56:54.139821+00:00",
+      "sha256": "5c03826938b367c34bc12fbe8aa10563aa1c93a29cbc56454f8701b06f852107"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-heine3.html",
+      "retrieved_at": "2026-10-22T21:56:56.366552+00:00",
+      "sha256": "1bbb1cb88d31a3839498bc7b454d6b9cffdfb7e0dfb0c816d9c907e4b535da25"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hofmann-yann-eric.html",
+      "retrieved_at": "2026-10-22T21:56:56.631625+00:00",
+      "sha256": "802571db70a1b250364d732f9bd51acce9f2b1d713692c6e456400fe0f532da8"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/hurni-christoph.html",
+      "retrieved_at": "2026-10-22T21:56:56.543367+00:00",
+      "sha256": "79735dd65f2c1045d393d22164a83cf0e1d148993247a6422ca2d394d4c64ea5"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/josi-christian.html",
+      "retrieved_at": "2026-10-22T21:56:56.815503+00:00",
+      "sha256": "5581be68a5c45565949822a32da5f1791d5bf1fa26a379446a91053cf4801acd"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kisschristina.html",
+      "retrieved_at": "2026-10-22T21:56:59.432799+00:00",
+      "sha256": "34a4acbba3895181db8fdfd9d06ddeb9f9e3028d5dbf61c21374b686d383e369"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-kneubuehlerlorenz.html",
+      "retrieved_at": "2026-10-22T21:56:59.615729+00:00",
+      "sha256": "9a65e44fc4857148ee0d33b2b72d4f6a0d160fc832843fb3325695b6213d04c2"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
+      "retrieved_at": "2026-10-22T21:56:59.201412+00:00",
+      "sha256": "aeda8515c1e793bf1a09df901825e6c8fa63ff24bb2d024adb4e6df279a14dff"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kolz-christian.html",
+      "retrieved_at": "2026-10-22T21:56:59.433080+00:00",
+      "sha256": "558eaa71612f739caeb969a1ed4633ffa1cc1854cf2ef065b78a48720bb2c104"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/kradolfer-matthias.html",
+      "retrieved_at": "2026-10-22T21:57:02.154238+00:00",
+      "sha256": "9446c9df6c62a1ab391db929c91198baff12607eb1243206287f1dae5dab88d8"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-maillardmarcel.html",
+      "retrieved_at": "2026-10-22T21:57:02.841895+00:00",
+      "sha256": "85bc4e84d94a531465ee7a3797c0442faca9f6e81ac066142ca65a757cb82f1a"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/merz-laurent.html",
+      "retrieved_at": "2026-10-22T21:57:02.724755+00:00",
+      "sha256": "d4485a3b6ff02a877bf8819e395444eb85329190dd80623738847dc1ff2789ed"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/metral-jean.html",
+      "retrieved_at": "2026-10-22T21:57:02.982988+00:00",
+      "sha256": "15365196b55c6ae02c6cb5aea8bf68f68ae530f34488975496f9ab431f206b8d"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichterin-moserszelessmargit.html",
+      "retrieved_at": "2026-10-22T21:57:05.283225+00:00",
+      "sha256": "6affb0305a209f4d6bdf2374a7bc59bb405beb6d1d10fa9bb9a6937dfff52803"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/muller-thomas.html",
+      "retrieved_at": "2026-10-22T21:57:05.388675+00:00",
+      "sha256": "9bb843b4733712dd16efa3ca088c29f059461b97b5dbc8a60fce8e4a1492b26c"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-muschiettigiuseppe.html",
+      "retrieved_at": "2026-10-22T21:57:05.929677+00:00",
+      "sha256": "0cac493a210ffb05785ee87737d9ab78a3a3511447c9a26f4ce7833e8aa8e07e"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-rueediyves.html",
+      "retrieved_at": "2026-10-22T21:57:06.031961+00:00",
+      "sha256": "711ce8e2514867610668b205611141eb2f1c48612f44e0a3a80afb295327f32c"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/ryter-marianne.html",
+      "retrieved_at": "2026-10-22T21:57:08.214075+00:00",
+      "sha256": "dffcacd0bf4457d773751cb1104398b8e17a2bdd921135d54ad946ebdd2959ca"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/scherrer-reber-karin.html",
+      "retrieved_at": "2026-10-22T21:57:08.278413+00:00",
+      "sha256": "d04d6eab8b56872cf67c28c9514e3d9dc19601068c0d0dd7c3c94e56c3446adf"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/federal-richter-bundesrichter-stadelmannthomas.html",
+      "retrieved_at": "2026-10-22T21:57:09.029201+00:00",
+      "sha256": "c43395532f7eef4a24acb3a390e4b437343ca82ee9fa5b436052e87e0168cf16"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/thurnherr-keller-daniela.html",
+      "retrieved_at": "2026-10-22T21:57:08.730530+00:00",
+      "sha256": "22cb7d892ff60f9260dbd2987fbf911d6f167e7b1687107347e4dc9a5a447d73"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/van-de-graaf-beatrice.html",
+      "retrieved_at": "2026-10-22T21:57:10.806183+00:00",
+      "sha256": "dd68be984e0d405ef2845a8adf218dea1f2dda53acdb57191b9028d7cf9505b3"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/viscione-daniela.html",
+      "retrieved_at": "2026-10-22T21:57:11.402905+00:00",
+      "sha256": "9260dc87b0b50038d5f3f35f507d8be4af3018a712313ec9837365208b474e03"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/von-felten-rolf.html",
+      "retrieved_at": "2026-10-22T21:57:11.381720+00:00",
+      "sha256": "b4ae4bee77748559b0c86ed7c896a460520a22280b53dd956df448ad6f2a50cb"
+    },
+    {
+      "url": "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/wohlhauser-sandra.html",
+      "retrieved_at": "2026-10-22T21:57:11.677950+00:00",
+      "sha256": "05b832d6ec2e0c080199d5a5507035cde27646c1bc03f72fb79234ce1af05863"
+    }
+  ],
+  "scope": "Published lists of four civilian federal courts; military court excluded. Roster presence is not verified tenure. Three profiles enriched with latest named official party declarations; not bank-audited transfers.",
+  "contributions_file": "judicial_party_contributions.json",
+  "contributions_sha256": "cfc8a50bb888da89d40e1348d65c63bc1fd9936c899af721b69cf5ef25e5f816"
+}

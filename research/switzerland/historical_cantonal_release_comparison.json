@@ -1,0 +1,224 @@
+{
+  "source_url": "https://open-ius.ch/literatur/urwyler_praxis-bedingte-entlassung.pdf",
+  "author": "Christoph Urwyler",
+  "title": "Die Praxis der bedingten Entlassung aus dem Strafvollzug",
+  "publication_year": 2020,
+  "doi": "10.24921/2019.94115937",
+  "license": "CC BY 4.0",
+  "source_table": "Table 53, printed page 395, PDF page 450",
+  "source_discussion": "Printed pages 125–132, especially footnotes 495–506",
+  "underlying_data": "BFS estimates supplied to the researcher in June 2018",
+  "measure": "Estimated actual conditional exits divided by estimated eligible population with custodial duration over 91 days; includes sanction/measure custody and later release dates, not merely formal approvals at the two-thirds point.",
+  "limitations": "Historical rounded estimates with imperfect eligibility denominators and mixed prison/treatment populations. No judge identities, post-release homicide outcomes or nationality breakdown. Six cantons omitted because counts were small.",
+  "observed_on": "2026-10-23",
+  "records": [
+    {
+      "canton": "AG",
+      "estimated_release_pct_1984_2016": 72,
+      "estimated_release_pct_1984_2000": 76,
+      "estimated_release_pct_2001_2016": 69,
+      "change_percentage_points_as_published": -7,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "AI",
+      "estimated_release_pct_1984_2016": null,
+      "estimated_release_pct_1984_2000": null,
+      "estimated_release_pct_2001_2016": null,
+      "change_percentage_points_as_published": null,
+      "coverage_status": "omitted_by_author_due_to_small_counts"
+    },
+    {
+      "canton": "AR",
+      "estimated_release_pct_1984_2016": null,
+      "estimated_release_pct_1984_2000": null,
+      "estimated_release_pct_2001_2016": null,
+      "change_percentage_points_as_published": null,
+      "coverage_status": "omitted_by_author_due_to_small_counts"
+    },
+    {
+      "canton": "BE",
+      "estimated_release_pct_1984_2016": 69,
+      "estimated_release_pct_1984_2000": 76,
+      "estimated_release_pct_2001_2016": 61,
+      "change_percentage_points_as_published": -15,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "BL",
+      "estimated_release_pct_1984_2016": 78,
+      "estimated_release_pct_1984_2000": 80,
+      "estimated_release_pct_2001_2016": 76,
+      "change_percentage_points_as_published": -4,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "BS",
+      "estimated_release_pct_1984_2016": 67,
+      "estimated_release_pct_1984_2000": 59,
+      "estimated_release_pct_2001_2016": 74,
+      "change_percentage_points_as_published": 15,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "FR",
+      "estimated_release_pct_1984_2016": 68,
+      "estimated_release_pct_1984_2000": 73,
+      "estimated_release_pct_2001_2016": 62,
+      "change_percentage_points_as_published": -11,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "GE",
+      "estimated_release_pct_1984_2016": 73,
+      "estimated_release_pct_1984_2000": 75,
+      "estimated_release_pct_2001_2016": 70,
+      "change_percentage_points_as_published": -5,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "GL",
+      "estimated_release_pct_1984_2016": null,
+      "estimated_release_pct_1984_2000": null,
+      "estimated_release_pct_2001_2016": null,
+      "change_percentage_points_as_published": null,
+      "coverage_status": "omitted_by_author_due_to_small_counts"
+    },
+    {
+      "canton": "GR",
+      "estimated_release_pct_1984_2016": 59,
+      "estimated_release_pct_1984_2000": 60,
+      "estimated_release_pct_2001_2016": 58,
+      "change_percentage_points_as_published": -2,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "JU",
+      "estimated_release_pct_1984_2016": 79,
+      "estimated_release_pct_1984_2000": 80,
+      "estimated_release_pct_2001_2016": 78,
+      "change_percentage_points_as_published": -2,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "LU",
+      "estimated_release_pct_1984_2016": 76,
+      "estimated_release_pct_1984_2000": 78,
+      "estimated_release_pct_2001_2016": 73,
+      "change_percentage_points_as_published": -5,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "NE",
+      "estimated_release_pct_1984_2016": 72,
+      "estimated_release_pct_1984_2000": 74,
+      "estimated_release_pct_2001_2016": 70,
+      "change_percentage_points_as_published": -4,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "NW",
+      "estimated_release_pct_1984_2016": null,
+      "estimated_release_pct_1984_2000": null,
+      "estimated_release_pct_2001_2016": null,
+      "change_percentage_points_as_published": null,
+      "coverage_status": "omitted_by_author_due_to_small_counts"
+    },
+    {
+      "canton": "OW",
+      "estimated_release_pct_1984_2016": null,
+      "estimated_release_pct_1984_2000": null,
+      "estimated_release_pct_2001_2016": null,
+      "change_percentage_points_as_published": null,
+      "coverage_status": "omitted_by_author_due_to_small_counts"
+    },
+    {
+      "canton": "SG",
+      "estimated_release_pct_1984_2016": 74,
+      "estimated_release_pct_1984_2000": 78,
+      "estimated_release_pct_2001_2016": 70,
+      "change_percentage_points_as_published": -8,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "SH",
+      "estimated_release_pct_1984_2016": 58,
+      "estimated_release_pct_1984_2000": 60,
+      "estimated_release_pct_2001_2016": 56,
+      "change_percentage_points_as_published": -4,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "SO",
+      "estimated_release_pct_1984_2016": 74,
+      "estimated_release_pct_1984_2000": 79,
+      "estimated_release_pct_2001_2016": 69,
+      "change_percentage_points_as_published": -10,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "SZ",
+      "estimated_release_pct_1984_2016": 65,
+      "estimated_release_pct_1984_2000": 65,
+      "estimated_release_pct_2001_2016": 64,
+      "change_percentage_points_as_published": -1,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "TG",
+      "estimated_release_pct_1984_2016": 78,
+      "estimated_release_pct_1984_2000": 79,
+      "estimated_release_pct_2001_2016": 77,
+      "change_percentage_points_as_published": -2,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "TI",
+      "estimated_release_pct_1984_2016": 76,
+      "estimated_release_pct_1984_2000": 84,
+      "estimated_release_pct_2001_2016": 67,
+      "change_percentage_points_as_published": -17,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "UR",
+      "estimated_release_pct_1984_2016": null,
+      "estimated_release_pct_1984_2000": null,
+      "estimated_release_pct_2001_2016": null,
+      "change_percentage_points_as_published": null,
+      "coverage_status": "omitted_by_author_due_to_small_counts"
+    },
+    {
+      "canton": "VD",
+      "estimated_release_pct_1984_2016": 54,
+      "estimated_release_pct_1984_2000": 57,
+      "estimated_release_pct_2001_2016": 50,
+      "change_percentage_points_as_published": -7,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "VS",
+      "estimated_release_pct_1984_2016": 65,
+      "estimated_release_pct_1984_2000": 65,
+      "estimated_release_pct_2001_2016": 66,
+      "change_percentage_points_as_published": 1,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "ZG",
+      "estimated_release_pct_1984_2016": 62,
+      "estimated_release_pct_1984_2000": 62,
+      "estimated_release_pct_2001_2016": 61,
+      "change_percentage_points_as_published": -1,
+      "coverage_status": "published_estimate"
+    },
+    {
+      "canton": "ZH",
+      "estimated_release_pct_1984_2016": 78,
+      "estimated_release_pct_1984_2000": 80,
+      "estimated_release_pct_2001_2016": 76,
+      "change_percentage_points_as_published": -4,
+      "coverage_status": "published_estimate"
+    }
+  ]
+}

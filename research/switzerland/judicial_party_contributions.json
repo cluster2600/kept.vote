@@ -1,0 +1,173 @@
+[
+  {
+    "judge_id": "judge:b9da2d6b3677e4afed87",
+    "name": "Sonja Koch",
+    "declaring_party_as_published": "Schweizerische Volkspartei (SVP), Bern",
+    "year": 2023,
+    "amount_chf": 8000,
+    "currency": "CHF",
+    "institution_as_published": "Bundesgericht",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/428/forms/9-42-23",
+    "section": "Mandatsbeiträge",
+    "row_as_observed": [
+      "Koch",
+      "Sonja",
+      "Bundesgericht",
+      "8'000.00"
+    ],
+    "status": "party_declared_on_official_register",
+    "bank_transfer_independently_audited": false,
+    "observed_on": "2026-10-23",
+    "observation_method": "official public register rendered table, browser DOM"
+  },
+  {
+    "judge_id": "judge:b9da2d6b3677e4afed87",
+    "name": "Sonja Koch",
+    "declaring_party_as_published": "Schweizerische Volkspartei (SVP), Bern",
+    "year": 2024,
+    "amount_chf": 8000,
+    "currency": "CHF",
+    "institution_as_published": "Bundesgericht",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/494/forms/17-42-61",
+    "section": "Mandatsbeiträge",
+    "row_as_observed": [
+      "Koch",
+      "Sonja",
+      "Bundesgericht",
+      "8'000.00"
+    ],
+    "status": "party_declared_on_official_register",
+    "bank_transfer_independently_audited": false,
+    "observed_on": "2026-10-23",
+    "observation_method": "official public register rendered table, browser DOM"
+  },
+  {
+    "judge_id": "judge:b9da2d6b3677e4afed87",
+    "name": "Sonja Koch",
+    "declaring_party_as_published": "Schweizerische Volkspartei (SVP), Bern",
+    "year": 2025,
+    "amount_chf": 8000,
+    "currency": "CHF",
+    "institution_as_published": "Bundesgericht",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/594/forms/30-42-109",
+    "section": "Mandatsbeiträge",
+    "row_as_observed": [
+      "Koch",
+      "Sonja",
+      "Bundesgericht",
+      "8'000.00"
+    ],
+    "status": "party_declared_on_official_register",
+    "bank_transfer_independently_audited": false,
+    "observed_on": "2026-10-23",
+    "observation_method": "official public register rendered table, browser DOM"
+  },
+  {
+    "judge_id": "judge:afc539997723670fe6ae",
+    "name": "Christoph Hurni",
+    "declaring_party_as_published": "Grünliberale Partei Schweiz, Bern",
+    "year": 2023,
+    "amount_chf": 13020,
+    "currency": "CHF",
+    "institution_as_published": "Bundesgericht",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/426/forms/9-33-23",
+    "section": "Mandatsbeiträge",
+    "row_as_observed": [
+      "Hurni",
+      "Christoph",
+      "Bundesgericht",
+      "13'020.00"
+    ],
+    "status": "party_declared_on_official_register",
+    "bank_transfer_independently_audited": false,
+    "observed_on": "2026-10-23",
+    "observation_method": "official public register rendered table, browser DOM"
+  },
+  {
+    "judge_id": "judge:afc539997723670fe6ae",
+    "name": "Christoph Hurni",
+    "declaring_party_as_published": "Grünliberale Partei Schweiz, Bern",
+    "year": 2024,
+    "amount_chf": 13020,
+    "currency": "CHF",
+    "institution_as_published": "Bundesgericht",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/492/forms/17-33-61",
+    "section": "Mandatsbeiträge",
+    "row_as_observed": [
+      "Hurni",
+      "Christoph",
+      "Bundesgericht",
+      "13'020.00"
+    ],
+    "status": "party_declared_on_official_register",
+    "bank_transfer_independently_audited": false,
+    "observed_on": "2026-10-23",
+    "observation_method": "official public register rendered table, browser DOM"
+  },
+  {
+    "judge_id": "judge:afc539997723670fe6ae",
+    "name": "Christoph Hurni",
+    "declaring_party_as_published": "Grünliberale Partei Schweiz, Bern",
+    "year": 2025,
+    "amount_chf": 13020,
+    "currency": "CHF",
+    "institution_as_published": "Bundesgericht",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/590/forms/30-33-109",
+    "section": "Mandatsbeiträge",
+    "row_as_observed": [
+      "Hurni",
+      "Christoph",
+      "Bundesgericht",
+      "13'020.00"
+    ],
+    "status": "party_declared_on_official_register",
+    "bank_transfer_independently_audited": false,
+    "observed_on": "2026-10-23",
+    "observation_method": "official public register rendered table, browser DOM"
+  },
+  {
+    "judge_id": "judge:520388b00e0d5608dc92",
+    "name": "Yann-Eric Hofmann",
+    "declaring_party_as_published": "Die Mitte, Bern",
+    "year": 2025,
+    "amount_chf": 6000,
+    "currency": "CHF",
+    "institution_as_published": "Bundesgericht",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/593/forms/30-59-109",
+    "section": "Mandatsbeiträge",
+    "row_as_observed": [
+      "Hofmann",
+      "Yann-Eric",
+      "Bundesgericht",
+      "6'000.00"
+    ],
+    "status": "party_declared_on_official_register",
+    "bank_transfer_independently_audited": false,
+    "observed_on": "2026-10-23",
+    "observation_method": "official public register rendered table, browser DOM"
+  },
+  {
+    "judge_id": "judge:520388b00e0d5608dc92",
+    "name": "Yann-Eric Hofmann",
+    "declaring_party_as_published": "Die Mitte, Bern",
+    "year": 2023,
+    "amount_chf": null,
+    "currency": "CHF",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/432/forms/9-59-23",
+    "status": "no_matching_name_in_consulted_table",
+    "interpretation": "No matching Hofmann row observed. This does not establish zero payment or non-payment, and does not cover cantonal parties.",
+    "observed_on": "2026-10-23"
+  },
+  {
+    "judge_id": "judge:520388b00e0d5608dc92",
+    "name": "Yann-Eric Hofmann",
+    "declaring_party_as_published": "Die Mitte, Bern",
+    "year": 2024,
+    "amount_chf": null,
+    "currency": "CHF",
+    "source_url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/497/forms/17-59-61",
+    "status": "no_matching_name_in_consulted_table",
+    "interpretation": "No matching Hofmann row observed. This does not establish zero payment or non-payment, and does not cover cantonal parties.",
+    "observed_on": "2026-10-23"
+  }
+]
