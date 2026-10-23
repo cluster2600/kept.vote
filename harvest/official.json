@@ -686,6 +686,51 @@
         { "url": "https://www.ministeriopublico.pt/comunicados", "what": "Prosecution service communiqués" }
       ]
     },
+    "SI": {
+      "name": "Slovenia",
+      "domains": {
+        "gov.si": { "what": "Government (vlada.gov.si and gov.si): Prime Minister's office, ministries, Government Communication Office, government sessions and decisions, e-Demokracija consultations (also matched by the generic gov.xx pattern; listed so its pages can be watched)" },
+        "dz-rs.si": { "what": "National Assembly (Državni zbor): sessions, bills, votes, deputies, legislative service opinions" },
+        "ds-rs.si": { "what": "National Council (Državni svet): suspensive vetoes and opinions on laws" },
+        "predsednik.si": {
+          "what": "President of the Republic: proposals of the Prime Minister candidate, decrees, appointments, promulgation of laws",
+          "access": "2026-10-23: no answer to robots.txt, so the harvest does not fetch the site (status unreachable); check by hand"
+        },
+        "uradni-list.si": { "what": "Official Gazette (Uradni list RS): archive of issues up to 28 February 2026 (later issues are published on PISRS)" },
+        "pisrs.si": {
+          "what": "Legal information system (PISRS): consolidated legislation and, since 1 March 2026, the Official Gazette",
+          "access": "2026-10-23: pages build their text with scripts, the harvest gets the title only (status error); gazette PDFs under pisrs.si/api/uradni-list/objava/ answer 200 and are fingerprinted only"
+        },
+        "us-rs.si": {
+          "what": "Constitutional Court: decisions on laws, referendums, constitutional complaints and constitutional indictments",
+          "access": "2026-10-23: every page answers with a Cloudflare bot check (status blocked, 403); check by hand"
+        },
+        "sodisce.si": { "what": "Courts of Slovenia: Supreme Court, Administrative Court, higher, district and local courts" },
+        "dt-rs.si": { "what": "State Prosecutor's Office, including the Specialised State Prosecutor's Office (corruption, organised crime, asset forfeiture)" },
+        "dvk-rs.si": {
+          "what": "State Election Commission: official results of National Assembly, European Parliament, presidential and local elections and of referendums",
+          "access": "2026-10-23: the results applications under dvk-rs.si/arhivi/ checked for 2021 and 2026 build their figures with scripts (menus only); the summary pages under /volitve-in-referendumi/ and older static archives (1992–2014) render"
+        },
+        "kpk-rs.si": { "what": "Commission for the Prevention of Corruption (KPK): oversight of officials' asset declarations, incompatibility of functions, lobbying, final misdemeanour decisions" },
+        "erar.si": {
+          "what": "KPK's Erar application: public data on changes in the asset declarations of the Prime Minister, ministers, deputies and other officials (Article 46 ZIntPK, since 5 March 2025), gifts, lobbying contacts, public-sector transactions",
+          "access": "2026-10-23: pages build their content with scripts; the harvest gets the title only (status error) or a page asking to prove one is not a robot; check by hand"
+        },
+        "rs-rs.si": {
+          "what": "Court of Audit (Računsko sodišče): audits of political parties' annual reports and election-campaign financing, and of public spending",
+          "access": "2026-10-23: the audit search page (/revizije-in-revidiranje/arhiv-revizij/) rendered once and then returned no content (status error); the home page, which lists the latest audit reports, renders"
+        }
+      },
+      "watch": [
+        { "url": "https://www.gov.si/drzavni-organi/vlada/seje-vlade/", "what": "Press releases on government sessions and decisions (appointments, bills, decrees)" },
+        { "url": "https://www.dz-rs.si/wps/portal/Home/seje/sejeDZ/poDatumu", "what": "National Assembly sessions by date (regular and extraordinary sessions, agendas)" },
+        { "url": "https://www.dvk-rs.si/volitve-in-referendumi/referendumi/", "what": "State Election Commission: referendums called and their results" },
+        { "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-drzavni-zbor/", "what": "National Assembly election 2026: official results summary" },
+        { "url": "https://www.dvk-rs.si/volitve-in-referendumi/lokalne-volitve/", "what": "Local elections (November 2026)" },
+        { "url": "https://www.kpk-rs.si/sl/novice/sporocila-za-javnost", "what": "KPK press releases, including final misdemeanour decisions and findings on officials" },
+        { "url": "https://www.rs-rs.si/", "what": "Court of Audit: latest audit reports, including audits of political parties and election-campaign organisers" }
+      ]
+    },
     "SK": {
       "name": "Slovakia",
       "domains": {
