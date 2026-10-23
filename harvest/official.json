@@ -224,6 +224,65 @@
         { "url": "https://www.valg.im.dk/nyhedsarkiv", "what": "Election administration news" }
       ]
     },
+    "EE": {
+      "name": "Estonia",
+      "domains": {
+        "valitsus.ee": {
+          "what": "Government: Prime Minister and ministers, cabinet decisions, press releases, coalition agreements",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigikogu.ee": {
+          "what": "Riigikogu (parliament): members, bills, votes, verbatim records, open-data API; its Anti-Corruption Select Committee oversees declarations of interests",
+          "access": "2026-10-23: www.riigikogu.ee answers with a Cloudflare bot check (blocked); stenogrammid.riigikogu.ee renders only its search form; api.riigikogu.ee answered 429 or the Swagger UI only"
+        },
+        "president.ee": {
+          "what": "President: appointment and dismissal of the government and ministers, promulgation or refusal of laws",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigiteataja.ee": {
+          "what": "Riigi Teataja (State Gazette): laws, regulations, consolidated legislation",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigikohus.ee": {
+          "what": "Supreme Court, including constitutional review",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "valimised.ee": {
+          "what": "State Electoral Office and National Electoral Committee; official results on per-election subdomains",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "erjk.ee": { "what": "Political Parties Financing Surveillance Committee: parties' quarterly revenue and expense reports, campaign reports, precepts" },
+        "emta.ee": {
+          "what": "Tax and Customs Board: register of declarations of interests for officials, including ministers and MPs (filings up to 30 June 2026)",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "eesti.ee": {
+          "what": "State portal: register of declarations of interests since 1 July 2026",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigikontroll.ee": { "what": "National Audit Office: audit reports, annual report on the state accounts, work plan" },
+        "prokuratuur.ee": {
+          "what": "Prosecutor's Office",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "oiguskantsler.ee": {
+          "what": "Chancellor of Justice: constitutional review and ombudsman",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "stat.ee": {
+          "what": "Statistics Estonia: official statistics and election statistics",
+          "access": "2026-10-23: answers with a '403 Forbidden' page (title only)"
+        }
+      },
+      "watch": [
+        { "url": "https://www.erjk.ee/et/komisjoni-too", "what": "Party financing committee meeting agendas: prohibited donations, campaign debts, precepts" },
+        { "url": "https://www.erjk.ee/en/financing-reports/revenues-political-parties", "what": "Parties' quarterly revenue reports" },
+        { "url": "https://www.erjk.ee/en/financing-reports/election-campaigns", "what": "Election-campaign financing reports" },
+        { "url": "https://www.erjk.ee/et/ulevaated", "what": "Overviews of party and campaign financing" },
+        { "url": "https://www.riigikontroll.ee/audits", "what": "National Audit Office: audit reports published" },
+        { "url": "https://www.riigikontroll.ee/tooplaan", "what": "National Audit Office work plan" }
+      ]
+    },
     "ES": {
       "name": "Spain",
       "domains": {
