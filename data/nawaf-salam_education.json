@@ -1,0 +1,49 @@
+[
+  {
+    "id": "nawaf-salam-edu-cpf",
+    "institution": "Collège Protestant Français, Beirut",
+    "qualification": "Secondary education",
+    "field": "",
+    "years": "",
+    "detail": "French-language secondary school in Beirut.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nawaf_Salam"
+    ]
+  },
+  {
+    "id": "nawaf-salam-edu-sorbonne",
+    "institution": "Sorbonne University (Paris)",
+    "qualification": "Doctorate",
+    "field": "History",
+    "years": "1979",
+    "detail": "Doctorate in history.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nawaf_Salam",
+      "https://lbcgroup.tv/news/news-bulletin-reports/830486/the-new-prime-minister-designate-of-lebanon-who-is-nawaf-salam/en"
+    ]
+  },
+  {
+    "id": "nawaf-salam-edu-harvard",
+    "institution": "Harvard Law School",
+    "qualification": "Master of Laws (LL.M.)",
+    "field": "Law",
+    "years": "1991",
+    "detail": "",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nawaf_Salam",
+      "https://lbcgroup.tv/news/news-bulletin-reports/830486/the-new-prime-minister-designate-of-lebanon-who-is-nawaf-salam/en"
+    ]
+  },
+  {
+    "id": "nawaf-salam-edu-sciencespo",
+    "institution": "Sciences Po (Institut d'études politiques de Paris)",
+    "qualification": "Doctorate (doctorat d'État)",
+    "field": "Political science",
+    "years": "1992",
+    "detail": "",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nawaf_Salam",
+      "https://lbcgroup.tv/news/news-bulletin-reports/830486/the-new-prime-minister-designate-of-lebanon-who-is-nawaf-salam/en"
+    ]
+  }
+]

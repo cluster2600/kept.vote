@@ -1,0 +1,29 @@
+[
+  {
+    "id": "kyriakos-mitsotakis-stk-2024-securities",
+    "holding": "Shares and bonds",
+    "type": "securities",
+    "value": "11,222.37 EUR and 21,532.99 USD",
+    "as_of": "fiscal year 2024 (declaration 2025)",
+    "detail": "CNN Greece reports the shares-and-bonds portfolio as stable compared with the previous year; To Vima gives the same figures. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "status": "declared",
+    "source_url": [
+      "https://www.cnn.gr/politiki/story/533005/pothen-esxes-2025-ti-dilonei-o-prothypourgos-kyriakos-mitsotakis-ta-eisodimata-kai-ta-akinita",
+      "https://www.tovima.gr/2026/05/11/politics/ayta-einai-ta-pothen-esxes-ton-politikon/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-stk-greek-tbills",
+    "holding": "Greek government Treasury bills (Hellenic T-bills), 500,000 EUR nominal",
+    "type": "government securities",
+    "value": "Bought for 490,575 EUR; sold for 500,000 EUR",
+    "as_of": "bought in fiscal year 2023, sold in fiscal year 2024",
+    "detail": "LiFO reports the purchase, from earlier savings, in the declaration for fiscal year 2023; Fortune Greece and SKAI report the sale in the declaration for fiscal year 2024, with about 472,000 EUR of the proceeds held in a bank account. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "status": "divested",
+    "source_url": [
+      "https://www.lifo.gr/now/politics/pothen-eshes-i-dilosi-toy-kyriakoy-mitsotaki",
+      "https://www.fortunegreece.com/article/ti-dilonei-o-kiriakos-mitsotakis-sto-pothen-esxes-gia-to-2025/",
+      "https://www.skai.gr/news/politics/kyriakos-mitsotakis-to-pothen-esxes-tou-prothypourgou-kai-tis-syzygou-tou"
+    ]
+  }
+]

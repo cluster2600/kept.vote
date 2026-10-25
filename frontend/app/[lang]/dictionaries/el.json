@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Πολιτικοί",
     "countryFilterLabel": "Φιλτράρισμα ανά χώρα",
-    "mapLabel": "Χάρτης της Ευρώπης: επιλέξτε χώρα",
+    "mapLabel": "Χάρτης: επιλέξτε χώρα",
     "mapCovered": "Καλύπτεται",
     "mapNotCovered": "Δεν καλύπτεται ακόμη",
     "allCountries": "Όλες οι χώρες",
@@ -54,6 +54,7 @@
     "mayor": "Δήμαρχος",
     "regional_executive": "Περιφερειάρχης",
     "party_leader": "Αρχηγός κόμματος",
+    "judge": "Δικαστής",
     "other": "Άλλο αξίωμα"
   },
   "notFound": {
@@ -65,6 +66,7 @@
     "back": "← Όλοι οι πολιτικοί",
     "trackRecord": "Ιστορικό τήρησης υποσχέσεων",
     "contentLanguage": "Το προφίλ είναι γραμμένο στα {language}",
+    "photoCredit": "Φωτογραφία: {author}, {license}, μέσω {source}",
     "tabsLabel": "Ενότητες προφίλ",
     "tabs": {
       "promises": "Υποσχέσεις",

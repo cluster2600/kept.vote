@@ -1,0 +1,33 @@
+[
+  {
+    "id": "luis-montenegro-nw-2014",
+    "year": 2014,
+    "declared_net_worth": "Financial assets valued at about 1,556,944 EUR by Observador (market value of declared holdings); about 103,000 EUR invested in the main holding",
+    "note": "Not a declared figure: Observador valued the shares and funds he declared (mainly about 1.5 million BCP shares bought in 2011–2012 for about €103,000) at the average market price of the month of the declaration. BCP shares later fell sharply; in June 2018 his roughly 950,000 shares were worth about €249,000.",
+    "status": "estimated",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-nw-2022",
+    "year": 2022,
+    "declared_net_worth": "Real estate with a total tax value of 641,717.98 EUR (54 properties) and financial assets of 496,196.13 EUR; no consolidated net-worth figure",
+    "note": "Replacement declaration of 15 October 2024 (income year 2022): over 50 entries, mostly rustic plots inherited from his father and brother in Bragança and Resende; the Espinho house alone accounts for more than €574,000 of the tax value. Portuguese declarations do not give a single net-worth figure.",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-nw-2024",
+    "year": 2024,
+    "declared_net_worth": "Real estate with a total tax value of about 948,000 EUR (Observador's sum), with a 100,000 EUR mortgage",
+    "note": "Observador added to the 2022 total the tax value (over €153,000 each) of the two one-bedroom flats in the same Lisbon building; the declaration amendment of December 2024 records one purchase for over €300,000 with a €100,000 mortgage. Correio da Manhã put the cost of the two flats at about €715,000 (see real estate).",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://www.jornaldenegocios.pt/economia/politica/detalhe/familia-de-montenegro-paga-a-pronto-715-mil-euros-na-compra-de-duas-casas-em-lisboa"
+    ]
+  }
+]

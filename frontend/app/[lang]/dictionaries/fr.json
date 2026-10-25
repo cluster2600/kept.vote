@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Responsables politiques",
     "countryFilterLabel": "Filtrer par pays",
-    "mapLabel": "Carte de l’Europe : choisissez un pays",
+    "mapLabel": "Carte : choisissez un pays",
     "mapCovered": "Couvert",
     "mapNotCovered": "Pas encore couvert",
     "allCountries": "Tous les pays",
@@ -56,6 +56,7 @@
     "mayor": "Maire",
     "regional_executive": "Exécutif régional",
     "party_leader": "Responsable de parti",
+    "judge": "Juge",
     "other": "Autre fonction"
   },
   "notFound": {
@@ -67,6 +68,7 @@
     "back": "← Tous les responsables politiques",
     "trackRecord": "Bilan des promesses",
     "contentLanguage": "Profil rédigé en {language}",
+    "photoCredit": "Photo : {author}, {license}, via {source}",
     "tabsLabel": "Sections du profil",
     "tabs": {
       "promises": "Promesses",

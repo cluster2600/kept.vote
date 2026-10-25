@@ -1,0 +1,60 @@
+[
+  {
+    "id": "nikos-christodoulides-fin-2023-deposits",
+    "year": 2023,
+    "type": "bank_account",
+    "label": "Bank deposits (joint and personal accounts)",
+    "amount": "almost 120,000 EUR",
+    "detail": "From the asset declaration (πόθεν έσχες) he filed on taking office, published on 27 April 2023, as reported by the Cyprus Mail: a joint account at Hellenic Bank (€99,922 as of 28 November 2022), a joint account with the Housing Finance Corporation (€612), a deposit account at Hellenic Bank (€13,575), and savings accounts of €959 and €2.39 (March 2023); he also declared that €99,000 previously held in an ING Belgium account had been transferred to Hellenic Bank when that account closed. The Special Parliamentary Committee on 'Pothen Esches' publishes his declarations for 2018, 2021, 2022 and 2023; the PDF files could not be read through the harvest (HTTP 403), so the figures rely on the Cyprus Mail's reading of the 2023 declaration.",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement",
+      "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/proedros-tis-dimokratias/nikos-christodoylidis/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-fin-2022-lump-sum",
+    "year": 2022,
+    "type": "income",
+    "label": "Lump sum on leaving the foreign ministry",
+    "amount": "79,000 EUR",
+    "detail": "Lump sum received after leaving his post at the foreign ministry in 2022, as declared in the 2023 asset declaration (Cyprus Mail).",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement",
+      "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/proedros-tis-dimokratias/nikos-christodoylidis/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-fin-2023-housing-loans",
+    "year": 2023,
+    "type": "liability",
+    "label": "Two housing loans (Hellenic Bank)",
+    "amount": "232,000 EUR (183,000 + 49,000)",
+    "detail": "Outstanding balances of two housing loans as of March 2023, plus a joint overdraft account of €4,277 and a credit card €3 in debit, per the 2023 asset declaration (Cyprus Mail).",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement",
+      "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/proedros-tis-dimokratias/nikos-christodoylidis/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-fin-2023-life-insurance",
+    "year": 2023,
+    "type": "life_insurance",
+    "label": "Life insurance policies",
+    "amount": "see detail",
+    "detail": "According to the Cyprus Mail's account of the 2023 declaration, two life insurance policies with Hellenic Life Insurance linked to housing loans, valued at almost €60,000 and €96,000, a separate life insurance of €11,000 and a policy with Universal Life of €50,000.",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-fin-2023-vehicles",
+    "year": 2023,
+    "type": "other",
+    "label": "Vehicles",
+    "amount": "none declared",
+    "detail": "The 2023 declaration lists no vehicle in his name (Cyprus Mail).",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement"
+    ]
+  }
+]

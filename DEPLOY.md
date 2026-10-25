@@ -19,6 +19,7 @@ verification).
 | Worker `kept-vote` | Cloudflare Workers (Paid plan) | [`frontend/cloudflare.config.ts`](./frontend/cloudflare.config.ts) |
 | Database `kept-vote` | Cloudflare D1, Western Europe | [`d1/schema.sql`](./d1/schema.sql) |
 | Domains `kept.vote`, `www.kept.vote` | Workers custom domains | `domains` in `cloudflare.config.ts` |
+| Worker `kept-vote-kitesurf` + D1 `kept-vote-harvest` | Source checks and research ([HARVEST.md](./docs/HARVEST.md)) | [`harvest/cloudflare.config.ts`](./harvest/cloudflare.config.ts) |
 
 > **Plan:** the account must be on **Workers Paid** ($5/month). Rendering a page
 > takes 40–250 ms of CPU; the free plan allows 10 ms and starts failing requests
@@ -79,6 +80,10 @@ Local D1 state lives in `frontend/.cloudflare/state` (gitignored).
 - **Usage:** D1 rows read/written and Worker requests/CPU under Workers & Pages
   → kept-vote → Metrics. Quotas are per account and shared with other projects
   on the same account.
+- **Sources:** the harvest Worker re-checks every cited source (official pages
+  weekly, others monthly). `python harvest.py report` lists dead or blocked
+  sources per profile, and `python harvest.py changes` lists official pages
+  whose content changed. See [HARVEST.md](./docs/HARVEST.md).
 
 ## Notes / gotchas
 

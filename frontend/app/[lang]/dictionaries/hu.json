@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Politikusok",
     "countryFilterLabel": "Szűrés ország szerint",
-    "mapLabel": "Európa térképe: válasszon országot",
+    "mapLabel": "Térkép: válasszon országot",
     "mapCovered": "Lefedve",
     "mapNotCovered": "Még nincs lefedve",
     "allCountries": "Minden ország",
@@ -54,6 +54,7 @@
     "mayor": "Polgármester",
     "regional_executive": "Regionális vezető",
     "party_leader": "Pártvezető",
+    "judge": "Bíró",
     "other": "Egyéb tisztség"
   },
   "notFound": {
@@ -65,6 +66,7 @@
     "back": "← Összes politikus",
     "trackRecord": "Az ígéretek mérlege",
     "contentLanguage": "A profil {language} nyelven készült",
+    "photoCredit": "Fotó: {author}, {license}, forrás: {source}",
     "tabsLabel": "A profil részei",
     "tabs": {
       "promises": "Ígéretek",

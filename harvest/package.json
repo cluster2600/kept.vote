@@ -1,0 +1,21 @@
+{
+  "name": "kept-vote-kitesurf",
+  "private": true,
+  "description": "Information harvest for kept.vote with Cloudflare Kitesurf.",
+  "type": "module",
+  "scripts": {
+    "deploy": "npm run typecheck && npm test && cf deploy",
+    "test": "node --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "2.0.0-beta.v.3",
+    "@types/node": "24.19.2",
+    "cf": "1.0.0-beta.20",
+    "typescript": "6.0.3",
+    "vite": "8.3.5"
+  },
+  "allowScripts": {
+    "workerd@1.20261019.1": true
+  }
+}

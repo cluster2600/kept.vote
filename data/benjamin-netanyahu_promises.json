@@ -1,0 +1,335 @@
+[
+  {
+    "id": "benjamin-netanyahu-promise-bar-ilan-two-states",
+    "title": "Accept a demilitarised Palestinian state alongside Israel (Bar-Ilan speech)",
+    "description": "In a speech at Bar-Ilan University in June 2009, three months after returning to office, Netanyahu for the first time expressed conditional support for an independent Palestinian state: it would have to be demilitarised and the Palestinians would have to recognise Israel as the state of the Jewish people. He repeated the offer of a demilitarised Palestinian state to Palestinian Authority President Mahmoud Abbas in 2012.",
+    "date_made": "2009-06",
+    "category": "Foreign policy / Israeli–Palestinian conflict",
+    "status": "broken",
+    "confidence_score": 0.8,
+    "reasoning": "No Palestinian state was negotiated: according to Britannica, the conditions were rejected by Palestinian leaders, a brief round of talks broke down in 2010 when a 10-month partial settlement moratorium expired and was not extended, and the peace process remained at a standstill for the rest of his 2009–2021 term. Netanyahu has since publicly reversed the position: in 2025–2026 he repeatedly restated his opposition to a Palestinian state, including while the US-led Gaza plan was being implemented. The commitment is therefore recorded as abandoned.",
+    "key_evidence": [
+      "June 2009: first qualified support for a demilitarised Palestinian state that recognises Israel as a Jewish state (Britannica)",
+      "May 2012: Netanyahu wrote to Abbas offering a demilitarised Palestinian state (Times of Israel)",
+      "2010: talks collapsed after the settlement moratorium expired; no further negotiations reached agreement",
+      "January 2026: Netanyahu said there would be no Gaza reconstruction before Hamas disarms and no Palestinian state (Times of Israel; House of Commons Library)"
+    ],
+    "source_url": [
+      "https://www.britannica.com/biography/Benjamin-Netanyahu",
+      "https://www.timesofisrael.com/netanyahu-pledges-to-establish-demilitarized-palestinian-state/",
+      "https://www.timesofisrael.com/liveblog_entry/netanyahu-stresses-no-gaza-reconstruction-before-disarmament-and-no-palestinian-state/",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-jordan-valley-sovereignty-2019",
+    "title": "Apply Israeli sovereignty to the Jordan Valley immediately after the September 2019 election",
+    "description": "In a campaign speech on 10 September 2019, Netanyahu said that if re-elected he would ‘with the formation of the next government’ apply Israeli sovereignty over the Jordan Valley and northern Dead Sea (almost a quarter of the West Bank) and later to all West Bank settlements, in coordination with the United States. The UN and most states regard the West Bank as occupied territory and describe applying Israeli sovereignty there as annexation; the Israeli government refers to the area as Judea and Samaria.",
+    "date_made": "2019-09-10",
+    "category": "West Bank / sovereignty",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "No government was formed after the September 2019 election. After the January 2020 US peace plan, Netanyahu again pledged to apply sovereignty, but in the joint US–Israel–UAE statement of 13 August 2020 Israel agreed to ‘suspend declaring sovereignty’ over the areas outlined in the US plan in exchange for normalisation with the United Arab Emirates. As of October 2026 Israeli sovereignty has not been applied to the Jordan Valley; in October 2025 Netanyahu's Likud boycotted preliminary votes on annexation bills brought by other right-wing MKs.",
+    "key_evidence": [
+      "10 September 2019: campaign pledge to apply sovereignty over the Jordan Valley and northern Dead Sea (Times of Israel)",
+      "13 August 2020: US–Israel–UAE joint statement: Israel ‘will suspend declaring sovereignty’ over areas in the US plan",
+      "22 October 2025: two annexation bills passed a preliminary reading against Netanyahu's wishes; Likud boycotted the votes and called the move ‘trolling’"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/in-campaign-pitch-netanyahu-vows-to-annex-jordan-valley-if-reelected/",
+      "https://trumpwhitehouse.archives.gov/briefings-statements/joint-statement-united-states-state-israel-united-arab-emirates/",
+      "https://www.timesofisrael.com/2-west-bank-annexation-bills-get-initial-nod-with-mks-rebelling-against-pm-as-vance-visits/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-sovereignty-coalition-2022",
+    "title": "Extend Israeli sovereignty to the West Bank (‘Judea and Samaria’) at a time of the prime minister's choosing",
+    "description": "In Likud's December 2022 coalition agreement with the Religious Zionism party, Netanyahu committed in principle that Israeli sovereignty would be ‘extended to Judea and Samaria’, subject to the prime minister's considerations regarding ‘timing, and the weighing of the national and international interests of the State of Israel’ (Times of Israel). The agreement is not legally binding. The UN and most states regard the West Bank, including East Jerusalem, as occupied territory.",
+    "date_made": "2022-12-28",
+    "category": "West Bank / sovereignty",
+    "status": "no_action",
+    "confidence_score": 0.85,
+    "reasoning": "No government decision or law applying sovereignty was adopted during the 2022–2026 term. When right-wing MKs brought annexation bills to a preliminary vote in October 2025, during a visit by US Vice President JD Vance and after President Donald Trump said he would not allow Israel to annex the West Bank, Likud boycotted the votes, and the Times of Israel judged it highly unlikely that Netanyahu would let them become law; Likud said it was working to create the right conditions for sovereignty.",
+    "key_evidence": [
+      "28 December 2022: Likud–Religious Zionism agreement commits to sovereignty ‘in principle’, timing left to the prime minister",
+      "22 October 2025: bill to apply sovereignty to all settlements passed a preliminary reading 25–24; all Likud MKs but one boycotted",
+      "No sovereignty law or cabinet decision as of October 2026"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/coalition-deals-include-discrimination-bill-judicial-override-immigration-reform/",
+      "https://www.timesofisrael.com/2-west-bank-annexation-bills-get-initial-nod-with-mks-rebelling-against-pm-as-vance-visits/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-settlement-expansion",
+    "title": "Promote and develop settlement in all parts of the Land of Israel, including the West Bank, and legalise outposts",
+    "description": "The guidelines of the 37th government (December 2022) state the Jewish people's ‘exclusive and inalienable right to all parts of the Land of Israel’ and pledge to bolster settlement in ‘the Galilee, the Negev, the Golan and Judea and Samaria’; the agreement with Religious Zionism also pledges to legalise settlement outposts considered illegal under Israeli law. The UN and most states consider Israeli settlements in the West Bank illegal under international law, and in July 2024 the International Court of Justice said in an advisory opinion that Israel's continued presence in the West Bank and East Jerusalem is unlawful; Israel disputes these positions.",
+    "date_made": "2022-12-28",
+    "category": "West Bank / settlements",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "In March 2026 the security cabinet approved 34 new West Bank settlements, the largest number approved at one time, bringing to 103 the number of settlements approved by this government since 2022, including retroactively legalised outposts, according to the Times of Israel and the Peace Now organisation (which opposes settlement); only six new settlements had been formally approved in the 30 years from the Oslo Accords to 2022. Only a handful of the 103 have completed the planning process. The commitment as stated has been carried out.",
+    "key_evidence": [
+      "December 2022: guidelines and coalition deals commit to settlement expansion and legalising outposts",
+      "March–April 2026: 34 new settlements approved; 103 approved by the current government (Times of Israel, Peace Now count)",
+      "July 2024: ICJ advisory opinion that Israel's presence in the occupied Palestinian territory is unlawful; Israel rejects it"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/coalition-deals-include-discrimination-bill-judicial-override-immigration-reform/",
+      "https://www.timesofisrael.com/government-formally-approves-34-new-settlements-as-it-acts-to-deepen-hold-on-west-bank/",
+      "https://www.timesofisrael.com/world-court-israeli-presence-in-east-jerusalem-west-bank-is-illegal-and-must-end/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-judicial-overhaul",
+    "title": "Overhaul the judiciary: political control of judicial appointments, an override clause, limits on judicial review and on the attorney general",
+    "description": "The 37th government's guidelines committed it to ‘restore the proper balance between the legislature, the executive and the judiciary’, and its coalition agreements provided for an ‘override’ clause letting the Knesset re-enact laws struck down by the High Court. On 4 January 2023 Justice Minister Yariv Levin, backed by Netanyahu, presented a plan covering judicial appointments, the override clause, the reasonableness standard and the status of government legal advisers.",
+    "date_made": "2023-01-04",
+    "category": "Justice / constitutional reform",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "Netanyahu froze the main bills in March 2023 after mass protests, strikes and reservists' refusal to serve. The one law passed that year, the July 2023 reasonableness amendment to Basic Law: The Judiciary, was struck down by the High Court (8–7) on 1 January 2024. The coalition later passed a law remaking the Judicial Selection Committee (March 2025, in force only from the next Knesset and under High Court challenge), a law removing the police investigations department from the State Attorney's Office, and a July 2026 law allowing ministers to reject the attorney general's legal positions (in force from January 2027, petitions pending). No override clause was enacted. The programme was thus carried out in part and in altered form, with its fate depending on the courts and the October 2026 election.",
+    "key_evidence": [
+      "December 2022: coalition deals commit to an override clause and to ‘restoring the balance’ between branches",
+      "March 2023: legislation frozen amid mass protests",
+      "1 January 2024: High Court annuls the reasonableness amendment, 8–7",
+      "27 March 2025: Judicial Selection Committee law passed, effective in the next Knesset",
+      "15 July 2026: law weakening the attorney general's powers passed 65–51, effective January 2027"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/coalition-deals-include-discrimination-bill-judicial-override-immigration-reform/",
+      "https://www.timesofisrael.com/coalition-scored-successes-in-judicial-overhaul-but-high-court-elections-will-decide-its-fate/",
+      "https://www.timesofisrael.com/in-historic-ruling-high-court-strikes-down-key-judicial-overhaul-legislation/",
+      "https://www.timesofisrael.com/judicial-appointments-law-is-levins-victory-in-fight-to-handpick-ideological-hardliners/",
+      "https://www.timesofisrael.com/coalition-passes-law-gutting-attorney-generals-powers-removing-key-check-on-government/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-haredi-draft-law",
+    "title": "Regulate in law the status of yeshiva students (military-service exemption for ultra-Orthodox men)",
+    "description": "The December 2022 coalition agreements with Shas and United Torah Judaism provided for increased support for full-time Torah study and committed the coalition to settling the legal status of yeshiva students, whose blanket exemption from military service had lapsed after court rulings. The ultra-Orthodox parties accused the government in July 2025 of having ‘repeatedly violated its commitments to care for the status of yeshiva students’.",
+    "date_made": "2022-12-28",
+    "category": "Defence / religion and state",
+    "status": "broken",
+    "confidence_score": 0.8,
+    "reasoning": "No permanent exemption or conscription law was passed before the Knesset dispersed on 17 July 2026. United Torah Judaism quit the government in July 2025 over the draft bill, and successive versions stalled in the Foreign Affairs and Defence Committee. In the last week of the term the coalition passed only a temporary law banning the arrest and prosecution of ultra-Orthodox draft evaders until late January 2027; the High Court of Justice froze it immediately pending a hearing. The commitment was not delivered within the term.",
+    "key_evidence": [
+      "December 2022: coalition deals with Shas and UTJ on yeshiva students' status and Torah-study funding",
+      "15 July 2025: UTJ quits the government, accusing it of breaking its commitments on yeshiva students",
+      "14 July 2026: temporary law banning arrests of Haredi draft evaders passed 58–54; frozen by the High Court",
+      "17 July 2026: Knesset dispersed with no draft law passed"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/coalition-deals-include-discrimination-bill-judicial-override-immigration-reform/",
+      "https://www.timesofisrael.com/united-torah-judaism-quits-govt-to-protest-new-proposal-on-army-enlistment-exemptions/",
+      "https://www.timesofisrael.com/knesset-passes-law-banning-arrests-of-haredi-draft-dodgers-legitimizing-ongoing-non-enlistment/",
+      "https://www.timesofisrael.com/knesset-votes-on-official-dispersal-of-parliament-wrapping-up-final-legislative-blitz/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-death-penalty",
+    "title": "Introduce the death penalty for terrorists",
+    "description": "A death penalty for people convicted of deadly terrorist attacks was a demand of Itamar Ben-Gvir's Otzma Yehudit party, which said its passage was a condition of its coalition agreement with Netanyahu's Likud.",
+    "date_made": "2022-12",
+    "category": "Security / criminal justice",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The Knesset passed the Death Penalty for Terrorists Law on 30 March 2026 by 62 votes to 48, with Netanyahu voting in favour. According to the Times of Israel, it makes death by hanging the default punishment for West Bank residents convicted by military courts of deadly terrorist acts, with life imprisonment possible only in vaguely defined ‘special circumstances’. Netanyahu had reportedly asked Ben-Gvir to soften the wording because of international and domestic legal risks. Civil-rights groups and opposition MKs petitioned the High Court against the law, and a UN body said it perpetuates racial discrimination. The commitment was enacted.",
+    "key_evidence": [
+      "10 November 2025: first reading passed",
+      "February 2026: Netanyahu reported to have asked for the bill's wording to be softened",
+      "30 March 2026: final readings passed 62–48, Netanyahu voting in favour",
+      "Petitions against the law filed with the High Court of Justice"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/liveblog_entry/knesset-passes-death-penalty-law-for-west-bank-palestinians-convicted-of-terrorism/",
+      "https://www.timesofisrael.com/pm-said-pushing-to-soften-wording-of-bill-mandating-death-penalty-for-terrorists/",
+      "https://www.timesofisrael.com/liveblog_entry/un-watchdog-argues-israels-death-penalty-law-perpetuates-racial-discrimination/",
+      "https://en.wikipedia.org/wiki/Death_Penalty_for_Terrorists_Law"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-repeal-plastic-sugar-taxes",
+    "title": "Repeal the taxes on disposable plastic tableware and sweetened drinks",
+    "description": "Cancelling the purchase taxes on single-use plasticware and sweetened beverages introduced by the previous Bennett–Lapid government was a key coalition demand of the ultra-Orthodox parties, which said the levies targeted their communities and demanded in coalition negotiations that they be undone.",
+    "date_made": "2022-12",
+    "category": "Economy / taxation",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "On 1 January 2023, in his first act as finance minister, Bezalel Smotrich instructed officials to prepare orders cancelling both taxes, and on 28 March 2023 he signed the directive cancelling the sweetened-drinks tax, which was brought to the cabinet the same day. Israel's doctors' union called the move ‘irresponsible’ and damaging to public health. The commitment was carried out.",
+    "key_evidence": [
+      "1 January 2023: Smotrich orders the plasticware and sugary-drink taxes cancelled",
+      "28 March 2023: directive cancelling the sweetened-drinks tax signed; doctors' union calls it irresponsible"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/in-1st-move-as-minister-smotrich-orders-taxes-on-plasticware-sugary-drinks-nixed/",
+      "https://www.timesofisrael.com/finance-minister-cancels-tax-on-sweetened-drinks-doctors-slam-move-as-irresponsible/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-eliminate-hamas",
+    "title": "Eliminate Hamas's military and governing capabilities (‘total victory’)",
+    "description": "After the 7 October 2023 attack, the government set as official war goals the elimination of Hamas's military and governing capabilities, the return of all hostages and ensuring that Gaza no longer poses a threat to Israel. Netanyahu repeatedly promised ‘total victory’. Hamas is designated a terrorist organisation by the EU, the US, the UK and others.",
+    "date_made": "2023-10",
+    "category": "Security / Gaza war",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Hamas suffered heavy losses and its leaders Yahya Sinwar and Mohammed Deif were killed, and under the October 2025 ceasefire it released all hostages and announced the dissolution of its government in Gaza, which Israel called a ‘stunt’ (Al Jazeera). As of October 2026, however, Hamas has not disarmed: it says it will hand weapons to the Palestinian technocratic committee but rejects the disarmament clause until Israel withdraws and stops its attacks, while Israel says it will not move forward without disarmament. Israeli forces control just over half to about 60% of the Strip according to the House of Commons Library and Al Jazeera, and a Times of Israel poll in August 2026 found 62% of Israelis thought ‘total victory’ would never come. The goal is partly achieved but not completed.",
+    "key_evidence": [
+      "October 2023: war goals set by the security cabinet (restated in September 2024)",
+      "October 2025: ceasefire under the US 20-point plan; phase two launched in January 2026",
+      "October 2026: Hamas still armed; standoff over disarmament and Israeli withdrawal (Al Jazeera)",
+      "August 2026 poll: 62% of Israelis think the promised ‘total victory’ will never come (Times of Israel)"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/liveblog_entry/security-cabinet-makes-return-of-residents-to-the-north-an-official-war-goal/",
+      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+      "https://www.timesofisrael.com/icc-rejects-israeli-appeal-against-arrest-warrants-for-netanyahu-and-gallant/",
+      "https://www.timesofisrael.com/liveblog-august-3-2026/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-return-hostages",
+    "title": "Bring all the hostages home",
+    "description": "The return of all hostages taken into Gaza on 7 October 2023 (251 people, living and dead) was one of the government's official war goals from October 2023.",
+    "date_made": "2023-10",
+    "category": "Security / Gaza war",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Hostages were returned through the November 2023 and January–March 2025 deals, military operations and the October 2025 ceasefire, under which Hamas released all remaining living hostages and handed over bodies. On 26 January 2026 the body of the last hostage, police officer Ran Gvili, was recovered by the army in Gaza City, 843 days after the attack; the Times of Israel reported that for the first time since 2014 no hostages were held in Gaza. Many hostages died in captivity, and families of hostages and members of the war cabinet had accused Netanyahu of delaying deals (Britannica); he rejected the accusations.",
+    "key_evidence": [
+      "251 people abducted on 7 October 2023",
+      "October 2025 ceasefire: all living hostages released",
+      "26 January 2026: body of the last hostage, Ran Gvili, returned to Israel"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/liveblog_entry/security-cabinet-makes-return-of-residents-to-the-north-an-official-war-goal/",
+      "https://www.timesofisrael.com/all-of-them-home-now-body-of-last-hostage-ran-gvili-found-in-gaza-returned-to-israel/",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-northern-residents",
+    "title": "Return the residents of northern Israel safely to their homes",
+    "description": "On 17 September 2024 the security cabinet added ‘the safe return of the residents of the north to their homes’ as a fourth official war goal, about eleven months after some 60,000 people were evacuated from areas near the Lebanese border because of near-daily Hezbollah fire. Hezbollah is designated a terrorist organisation by the US, the UK and others.",
+    "date_made": "2024-09-17",
+    "category": "Security / Lebanon",
+    "status": "compromise",
+    "confidence_score": 0.6,
+    "reasoning": "After the Israeli offensive of autumn 2024 and the November 2024 ceasefire, around 90% of the 60,000 evacuees had returned by mid-2025, according to the House of Commons Library. Hezbollah was not disarmed, however, and it resumed missile fire on 1 March 2026 after the US–Israeli strikes on Iran, leading to a new Israeli ground offensive in Lebanon; media reports cited by the Library suggest few residents left the north in 2026. A June 2026 US–Lebanon–Israel framework envisages Hezbollah's disarmament and an Israeli withdrawal, with no timescale. Residents returned, but the security conditions promised were only partly met.",
+    "key_evidence": [
+      "17 September 2024: return of northern residents made an official war goal",
+      "By mid-2025: about 90% of evacuees back home (House of Commons Library)",
+      "1 March 2026: Hezbollah attacks resume; Israeli ground offensive in southern Lebanon",
+      "June 2026: trilateral framework on ending the conflict; implementation pending"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/liveblog_entry/security-cabinet-makes-return-of-residents-to-the-north-an-official-war-goal/",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10887/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-no-hamas-no-pa-in-gaza",
+    "title": "Neither Hamas nor the Palestinian Authority will govern Gaza after the war",
+    "description": "Netanyahu repeatedly said he would not replace ‘Hamastan with Fatahstan’ in Gaza, referring to the Fatah-led Palestinian Authority, and on 17 February 2025 his office stated: ‘as I promised, the day after the war in Gaza, neither Hamas nor the Palestinian Authority will be there’.",
+    "date_made": "2025-02-17",
+    "category": "Security / Gaza governance",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "Under phase two of the US plan, launched in January 2026, a technocratic National Committee for the Administration of Gaza was formed under the US-chaired Board of Peace without members from Hamas or the Palestinian Authority; the plan foresees an eventual handover to a reformed PA. As of October 2026 the committee operates from Cairo and Israel has not allowed it to enter Gaza (Al Jazeera), while Hamas, which says it has dissolved its government, still holds the parts of the Strip not controlled by the Israeli army. The PA has no governing role in Gaza, but Hamas has not been removed, so the commitment is only partly realised.",
+    "key_evidence": [
+      "17 February 2025: Netanyahu's office: neither Hamas nor the PA will be in Gaza the day after the war",
+      "January 2026: NCAG formed without Hamas or PA members (House of Commons Library)",
+      "October 2026: NCAG not admitted into Gaza; Hamas not disarmed (Al Jazeera)"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/liveblog_entry/netanyahu-reiterates-neither-hamas-nor-palestinian-authority-will-rule-gaza-after-the-war/",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-trump-gaza-plan",
+    "title": "Implement the US 20-point plan to end the war in Gaza",
+    "description": "In late September 2025 Netanyahu accepted US President Donald Trump's 20-point plan, under which Hamas would release all hostages, Israel would release Palestinian prisoners and pull back to a line leaving it in control of about half of the Strip, Hamas would disarm, an International Stabilization Force would deploy and Israeli forces would withdraw further as disarmament advanced. The ceasefire took effect on 10 October 2025, and the UN Security Council endorsed the framework in November 2025.",
+    "date_made": "2025-09-29",
+    "category": "Security / Gaza war",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "Phase one was largely carried out: all hostages were returned, Palestinian prisoners were released and the Board of Peace and the Palestinian technocratic committee were set up. Phase two has stalled as of October 2026: no stabilisation force has deployed, Hamas has not disarmed, and, according to Al Jazeera, Israel controls about 60% of the Strip rather than the roughly 50% foreseen, while more than 1,400 Palestinians had been killed since the ceasefire according to the Gaza Health Ministry. Israel says its strikes target Hamas members and that it will not advance without disarmament; Hamas says Israel has not met its withdrawal obligations. Concrete steps were taken but the plan is unfinished.",
+    "key_evidence": [
+      "10 October 2025: ceasefire takes effect",
+      "January 2026: phase two announced; Board of Peace and NCAG established",
+      "October 2026: no International Stabilization Force deployed; disarmament–withdrawal standoff (Al Jazeera)",
+      "11 October 2026: Gaza Health Ministry reports 1,488 killed since the ceasefire (Times of Israel)"
+    ],
+    "source_url": [
+      "https://www.aljazeera.com/news/2025/9/29/heres-the-full-text-of-trumps-20-point-plan-to-end-israels-war-on-gaza",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza",
+      "https://www.timesofisrael.com/liveblog_entry/hamas-run-health-ministry-1488-killed-in-gaza-since-ceasefire-began-a-year-ago/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-iran-no-nuclear-weapons",
+    "title": "Iran will not obtain nuclear weapons while he is prime minister",
+    "description": "Preventing Iran from acquiring nuclear weapons has been a central theme of Netanyahu's career; in June 2026 he pledged: ‘As long as I am prime minister of Israel, Iran will not have nuclear weapons’, calling it his ‘life's mission’.",
+    "date_made": "2026-06-12",
+    "category": "Foreign policy / Iran",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "Israel struck Iranian nuclear and military sites in June 2025 (joined by US strikes on Fordow, Natanz and Isfahan), and from 28 February 2026 Israel and the United States waged a six-week war on Iran that killed Supreme Leader Ali Khamenei; a Pakistan-mediated ceasefire and a US–Iran memorandum of understanding in June 2026 halted large-scale fighting. Iran is not known to have a nuclear weapon, but the IAEA assessed after the 2025 strikes that the programme had been delayed only by months (CFR), core disputes over enrichment remain unresolved, and Netanyahu said he did not know the details of the US–Iran deal. The pledge holds so far but its outcome is not settled.",
+    "key_evidence": [
+      "June 2025: Israeli and US strikes on Iranian nuclear sites",
+      "28 February 2026: US–Israeli offensive against Iran begins; ceasefire from April; US–Iran MOU in June 2026",
+      "15 June 2026: Netanyahu says that ‘with an agreement or without’ Iran will not have nuclear weapons",
+      "October 2026: no comprehensive settlement on Iran's nuclear programme (CFR)"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/liveblog_entry/netanyahu-trump-and-i-agree-completely-that-iran-cannot-have-nuclear-weapons/",
+      "https://www.timesofisrael.com/netanyahu-avoids-criticizing-us-iran-deal-claims-wars-main-goals-have-been-achieved/",
+      "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10521/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-october-7-inquiry",
+    "title": "Investigate the 7 October failures after the war; ‘everyone will have to give answers, including me’",
+    "description": "In a televised address on 25 October 2023 Netanyahu said: ‘The debacle will be checked to the full. Everyone will have to give answers on the debacle — including me — but all that will happen only after the war.’ In August 2024 he told Time magazine that after the war ‘there'll be an independent commission that will examine everything that happened before’.",
+    "date_made": "2023-10-25",
+    "category": "Governance / accountability",
+    "status": "no_action",
+    "confidence_score": 0.75,
+    "reasoning": "No inquiry had been established by October 2026, a year after the Gaza ceasefire. The government rejected a state commission of inquiry, whose members are appointed by the Supreme Court president and which Netanyahu says would be biased against him, and instead backed a bill for a commission appointed by politicians; it passed only a first reading (59–0, boycotted by the opposition). In July 2026 the government told the High Court that no inquiry would be set up before the election and that it would pass the bill if re-elected.",
+    "key_evidence": [
+      "25 October 2023: ‘everyone will have to give answers … including me … only after the war’",
+      "August 2024: promises an independent commission after the war (Time interview)",
+      "22 July 2026: government tells the High Court there will be no inquiry before the 27 October election"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/netanyahu-following-war-everyone-will-have-to-answer-for-failures-including-me/",
+      "https://www.timesofisrael.com/netanyahu-says-hes-deeply-sorry-about-october-7-but-rejects-probe-until-after-war/",
+      "https://www.timesofisrael.com/government-says-no-oct-7-inquiry-before-election-urges-high-court-not-to-intervene/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-promise-saudi-normalisation",
+    "title": "Achieve a historic peace with Saudi Arabia",
+    "description": "In his address to the UN General Assembly on 22 September 2023 Netanyahu said Israel was ‘at the cusp of a more dramatic breakthrough, a historic peace with Saudi Arabia’, building on the 2020 Abraham Accords.",
+    "date_made": "2023-09-22",
+    "category": "Foreign policy / Arab states",
+    "status": "broken",
+    "confidence_score": 0.6,
+    "reasoning": "US-mediated talks stalled after the 7 October 2023 attack and the Gaza war, and no normalisation agreement had been reached when the Knesset dispersed in July 2026. The House of Commons Library noted in February 2026 that Saudi Arabia's immediate foreign-policy priorities had moved further away from normalisation, while Netanyahu restated his opposition to a Palestinian state. The goal was not achieved within the term; the verdict could change if talks resume.",
+    "key_evidence": [
+      "22 September 2023: ‘on the cusp’ of peace with Saudi Arabia (UN address)",
+      "Talks frozen after 7 October 2023",
+      "February 2026: Saudi priorities ‘moved further away’ from normalisation (House of Commons Library, citing Bloomberg)"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/full-text-of-netanyahus-un-address-on-the-cusp-of-historic-saudi-israel-peace/",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/"
+    ]
+  }
+]

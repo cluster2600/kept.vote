@@ -1,0 +1,23 @@
+[
+  {
+    "id": "micheal-martin-jus-v-google-2023",
+    "case": "Micheál Martin v Google Ireland Ltd and Google LLC (High Court, 2023): disclosure of who placed fake adverts using his image",
+    "period": "December 2023",
+    "type": "civil proceedings (Martin as plaintiff) seeking a disclosure order",
+    "description": "In High Court proceedings issued in late 2023, Martin, then Tánaiste, said two display adverts placed through Google Ads in July 2023 on the websites of the Irish Times, the Irish Independent and DoneDeal used his photograph and linked to a fake newspaper article claiming he endorsed a cryptocurrency trading scheme, 'Immediate Edge', which he believed to be fraudulent. He said the material defamed him and sought information identifying those responsible so that he could sue them for defamation and passing off. On 7 December 2023 Mr Justice Mark Sanfey allowed him to serve the proceedings at short notice. On 14 December 2023, after the parties reached agreement, the court made orders, which Google neither opposed nor consented to, requiring it to provide within 21 days the names, email addresses and phone numbers associated with the advertising accounts, details of payment accounts and IP addresses, to the extent such information exists; the action was then struck out with no order as to costs.",
+    "status": "settled",
+    "outcome": "Disclosure orders made by agreement on 14 December 2023; action struck out with no order as to costs. No report was found of a subsequent defamation action.",
+    "court": "High Court (Ireland)",
+    "presumption_note": "Martin was the plaintiff; no one was accused of a criminal offence in these proceedings. Google had suspended the advertiser accounts and said it could not disclose user data without a court order. The allegations about the adverts are Martin's claims and were not tried.",
+    "key_facts": [
+      "Represented by Padraic Lyons SC, instructed by solicitor and Fianna Fáil senator Catherine Ardagh",
+      "Google described such adverts as part of a 'global trend' of 'scammy bad actors'"
+    ],
+    "source_url": [
+      "https://www.irishtimes.com/crime-law/courts/2023/12/07/court-permits-tanaiste-to-take-case-against-google-seeking-information-about-people-behind-allegedly-false-ads/",
+      "https://www.irishtimes.com/crime-law/2023/12/14/google-not-objecting-to-order-to-provide-micheal-martin-with-identities-of-those-behind-fake-adverts/",
+      "https://www.irishexaminer.com/news/courtandcrime/arid-41285470.html",
+      "https://thecurrency.news/articles/136305/micheal-martin-initiates-high-court-action-against-google-ireland"
+    ]
+  }
+]

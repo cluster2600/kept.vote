@@ -7,5 +7,13 @@
   "content_lang": "fr",
   "party": "Les Républicains (LR) / Divers droite (DVD)",
   "birth_date": "1960-07-19",
-  "bio": "Jean-Luc Moudenc, né le 19 juillet 1960 à Toulouse, est un homme politique français membre des Républicains. Diplômé de l'Université Toulouse 1 Capitole, il a exercé comme journaliste avant d'entrer en politique locale en 1987 comme conseiller municipal. Il est maire de Toulouse depuis 2014, après avoir exercé une première fois cette fonction de 2004 à 2008. Réélu en mars 2026 avec 53,87 % des voix au second tour face au candidat LFI François Piquemal, il entame son quatrième mandat de maire et demeure président de Toulouse Métropole."
+  "bio": "Jean-Luc Moudenc, né le 19 juillet 1960 à Toulouse, est un homme politique français membre des Républicains. Diplômé de l'Université Toulouse 1 Capitole, il a exercé comme journaliste avant d'entrer en politique locale en 1987 comme conseiller municipal. Il est maire de Toulouse depuis 2014, après avoir exercé une première fois cette fonction de 2004 à 2008. Réélu en mars 2026 avec 53,87 % des voix au second tour face au candidat LFI François Piquemal, il entame son quatrième mandat de maire et demeure président de Toulouse Métropole.",
+  "portrait": {
+    "file": "jean-luc-moudenc.webp",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jean-Luc_Moudenc%2C_maire_%28LR%29_de_Toulouse_%28cropped%29.jpg",
+    "author": "Kevin Figuier",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-22"
+  }
 }
