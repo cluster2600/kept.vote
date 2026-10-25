@@ -365,3 +365,441 @@ All verified work is retained in the existing draft PR branch. No document
 requests, third-party messages, merge, application import or live publication.
 Further research requires a fresh user instruction or resumption; this bounded
 run does not claim the original nationwide research objective is complete.
+
+## Resumed window: 25 October 2026, pass 9
+
+The user explicitly resumed research for a few more hours, prioritising original
+release orders, historical individual party payments and board memberships of
+Koch, Hurni and Hofmann. The existing automation was reactivated, with a new
+bounded deadline **25 October 2026, 13:49 UTC / 14:49 Europe/Zurich**. Pause at
+that deadline. No messages or document requests are authorised by this resumption.
+
+**25 October 2026, 10:49:12–10:50:25 UTC**: initial source research and validation
+interval, excluding later GitHub administration. The earlier 42m38s accounting
+remains separate; scheduled elapsed time is not active research hours.
+
+Queries included `"Christoph Hurni" "Ursula Wirz"`,
+`"Yann-Eric Hofmann" "Stiftungsrat"`,
+`"Sonja Koch" "Verwaltungsrat" Richterin`,
+`"Morges" "13 juillet 2020" "ordonnance" tribunal`,
+`"Hofmann" "Yann-Eric" "comité"`,
+`"Hofmann" "Yann-Eric" "cotisation" parti`,
+`"Christoph Hurni" "Stiftung" Bundesrichter`,
+`"Sonja Koch" "Mandatsabgaben"`, and targeted Fribourg/party-domain searches.
+
+Results:
+- Archived ASM's **2024 annual report, page 1**: Hofmann's committee election is
+  proposed **subject to definitive acceptance**. This does not establish that
+  election occurred at the report date. Keep the later committee page as the
+  evidence of actual membership; do not invent a precise appointment date.
+- Archived the Supreme Court-hosted Justitia 4.0 committee-composition PDF dated
+  **26 November 2025**, directly naming Hofmann as steering co-president and
+  federal judge. It corroborates historical tenure, not an unlimited current role.
+- No new original release order, named historical payment or confirmed company-
+  board seat recovered in this initial pass. Namesake Sonja Koch corporate
+  results and unrelated Christoph Hurni records remain excluded.
+- A secondary 2021 CH Media/Watson report says the Supreme Court released a list
+  of approved outside activities and that Hurni had six entries. Treat this only
+  as a lead for recovering that original list; do not import six roles or amounts
+  from the headline. Likewise the Onlinekommentar editors page is a professional-
+  publishing lead, not automatically a legal-entity board seat.
+
+Validation: local/remote PR branch had no divergence before work; both PDFs
+opened and relevant text checked; all research JSON and source hashes checked;
+`git diff --check` passed. Existing unrelated .serena directory preserved. No
+application/graph change, merge, publication, messages or requests.
+
+## Resumed pass 10 (25 October 2026)
+
+Source work began with the **11:04:47 UTC** trigger; initial source/validation
+checkpoint **11:06:36 UTC** (about two minutes pass wall time), followed by GitHub
+state verification and administration. Scheduled intervals excluded.
+
+Queries included `site.bger.ch "Nebenbeschäftigungen" "Hurni"`,
+`"Hurni" "bewilligten Nebenbeschäftigungen"`,
+`"Hofmann" "Mandatsbeiträge" Fribourg`,
+`"Morges" "ZMG" "Juli 2020" Verfügung`,
+`site.bger.ch "Nebenbeschäftigungen" filetype:pdf`,
+`"Christoph Hurni" "Herausgeber" Onlinekommentar` and
+`"Yann-Eric Hofmann" "Le Centre" contributions`.
+
+Verified findings:
+- Onlinekommentar's current publisher pages directly identify **Sonja Koch** as
+  editor of the Criminal Procedure Code commentary and **Christoph Hurni** as
+  editor/co-editor for specified commentaries. Each explicitly identifies the
+  federal judicial profession and links a professional biography/site.
+- Server HTML and web open yielded only a JavaScript shell. The public rendered
+  pages were read in the in-app browser; visible-text snapshots, retrieval times,
+  hashes and exact URLs retained. No hidden data or unpublished API was used.
+- Added `judicial_editorial_roles.json`, explicitly distinguishing editorial
+  responsibility from entity-board seats. Dates of appointment, pay and ownership
+  remain unknown. No governance graph edges fabricated for publishing roles.
+- No additional original release order, historical individual payment or confirmed
+  corporate/foundation board seat recovered. The 2021 approved-side-activities
+  list remains a primary-document lead, not six invented Hurni roles.
+
+**Material GitHub state correction:** live `gh pr view 10` shows PR #10 was
+**MERGED at 2026-10-25 10:46:14 UTC**, before the resumed request. This agent did
+not merge it. Consequently its frozen head is a6944c5; post-merge d25b40c and
+subsequent research-branch commits are not part of that merged PR. Prior resumed
+wording calling it a draft was stale. The automation prompt was corrected; keep
+new findings on the authorised research branch, without new PR, merge or live
+publication. Historical PR descriptions should not imply these later commits
+were included in the merge.
+
+Validation: live publisher identity/role checked, two JSON records with distinct
+editorial type, all manifest hashes and JSON checked; `git diff --check` passed.
+Unrelated .serena directory preserved. No messages or document requests sent.
+
+## Post-merge PR and continued searches (25 October 2026)
+
+At approximately **11:09 UTC**, the user explicitly authorised a new PR for the
+post-#10 findings. Opened and attached **draft PR #13**:
+https://github.com/cluster2600/kept.vote/pull/13 . Its initial comparison to current
+origin/main contains exactly the two post-merge research commits d25b40c and
+1931b8e, not the already merged corpus. This authorisation supersedes the preceding
+no-new-PR constraint. Updated the existing automation to maintain draft #13;
+the 13:49 UTC deadline and no merge/publication/messages constraints remain.
+
+Continued primary-source searches at **11:09–11:10 UTC**, including
+`site.justice.be.ch "Hurni" "Nebenbeschäftigungen"`,
+`site.gr.be.ch "Hurni" "Wirz"`, `site.fr.ch "Hofmann" "intérêts"`,
+`site.grunliberale.ch "Hurni" "Mandatsbeiträge"`,
+`site.bger.ch "Liste" "Nebenbeschäftigungen" Bundesrichter` and
+`"Nasenweg" "15. Dezember 2022" Bewilligung`, yielded no new verified target
+board seat, payment or original release authorisation. A 2011 Supreme Court
+personnel-file press release is unrelated to the target judges' later tenure and
+was not imported as their disclosure list. Secondary 2021 side-activity reporting
+remains a lead only.
+
+Validation: current origin/main fetched, post-merge diff reviewed; **17 focused
+tests passed**; draft #13 confirmed OPEN with correct head 1931b8e before this
+log-only commit. No application changes or third-party messages.
+
+## Resumed pass 11 (25 October 2026)
+
+**11:19:54–11:21:00 UTC**, about one minute of source research/validation before
+subsequent administration; no scheduled intervals counted.
+
+Queries included `"Yann-Eric Hofmann" "conseil de fondation"`,
+`"Sonja Koch" "Vorstand" Bundesrichterin`,
+`"Christoph Hurni" "Stiftungsrat" Bundesrichter`,
+`"Morges" "13.07.2020" Zwangsmassnahmengericht`,
+`site.justice.be.ch Zwangsmassnahmengericht Entscheide Publikation`,
+`site.baselland.ch Strafvollzug bedingte Entlassung zuständig Sicherheitsdirektion`,
+`site.bs.ch Strafvollzug Ausgänge Bewilligung SMV`, and
+`site.fr.ch financement partis comptes 2020 2021 contributions élus`.
+
+- Followed Fribourg's official finance transparency page to its publications
+  index. Archived the index with hash/receipt. It states that the displayed
+  elected-person income disclosures are removed/destroyed one year after
+  publication; it is not a permanent historical payment ledger. Those income
+  declarations are also not party-payment receipts. No Hofmann amount is
+  established here; did not download unrelated people's income disclosures or
+  attempt to recover intentionally removed disclosures.
+- Official Basel-Landschaft search output describes the enforcement unit's
+  general power to decide conditional release, but direct curl returned **403**.
+  No bypass attempted or snapshot invented. General current competence does not
+  establish which authority signed this person's September 2021 document.
+- Bern's official published-decision search remains a potential route; no exact
+  Morges original order located from the fresh date-language query.
+- Corporate/association namesakes (including German Sonja Koch board records)
+  were not joined to the judge. No target original order, historical named
+  contribution or verified company/foundation seat added.
+
+Validation: official index content/retention statement, archived hash and all
+research JSON/source hashes checked; no application or graph changes. Four
+original-order drafts remain unsent. No merge, publication, messages or requests.
+
+## Resumed pass 12 (25 October 2026)
+
+**11:35:19–11:37:05 UTC**, about two minutes of source research/validation,
+excluding subsequent administration and scheduled waiting.
+
+Searches: `"Yann-Eric Hofmann" "Stiftung"`,
+`"Christoph Hurni" "Ursula Wirz" Bundesrichter`,
+`"Sonja Koch" "Herausgeberin" Strafprozessordnung`, and
+`"Morges" "13 juillet 2020" "KZM"`. These yielded no new direct board identity,
+payment or original release order.
+
+More substantively, used **Bern's official public decision-search interface** at
+https://www.zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de with blank
+full text and exact decision-date filters:
+- **13 July 2020** (from=to): the visible all-sources result list returned two
+  entries, **KES 2020 538** (protective placement/danger to others) and
+  **BK 2020 177** (non-opening/threat). Neither listing is the required Morges
+  compulsory-measures release order.
+- **3 July 2020** (from=to): one entry, **BK 2020 206**, validity of an objection
+  to a penal order. The displayed case concerned a different proceeding and
+  cannot be joined to Morges by date or anonymised A.________ label.
+
+Archived the two search-state text snapshots, preserving filters and references,
+URLs, timestamps and hashes. They are **search evidence, not original orders**.
+No result in this selected public collection does not establish that an order
+never existed, was unlawful, or is unavailable through other lawful access.
+The MPC order is in any event a federal-prosecution document, so a cantonal
+collection's absence cannot settle its availability.
+
+UI issues: date replacement initially appended text; corrected the values and
+verified displayed dates/results. Stale accessibility indices caused two failed
+clicks; refreshed UI state and retained only the verified query outcomes.
+No documents or messages requested from third parties.
+
+Validation: exact date filters and listed references checked against saved
+states; all manifest hashes checked; `git diff --check` passed. No graph or
+application change. Financial and entity-board gaps remain unchanged.
+
+## Resumed pass 13 (25 October 2026)
+
+**11:49:59–11:52:24 UTC**, about two and a half minutes of source research and
+validation; subsequent GitHub administration and scheduled waiting excluded.
+
+Queries included `site.fr.ch "Le Centre" "comptes" "2022" parti`,
+`site.fr.ch "PDC" "comptes annuels" 2021`,
+`"Hofmann" "Yann-Eric" "contributions" parti`,
+`"Christoph Hurni" "2022" "Mandatsbeitrag"` and targeted Centre-Fribourg/
+GLP-Bern/SVP financial-rule searches.
+
+- Re-read **official EFK national Die Mitte declarations for 2023 and 2024** in
+  the browser, explicitly checking Hofmann/Hoffmann and Yann/Yann-Eric/Yann Eric
+  variants. The tables contain no matching row. Archived deduplicated, nonempty
+  four-cell rendered table rows (75 and 73 including headers), with URL, timestamp
+  and hash, plus a narrow recheck record. Responsive/empty duplicate rows were
+  removed; no amount inferred. An unrelated Yannick entry is not a Yann match.
+- This corroborates the existing **unknown** historical observations, not zero
+  payment/nonpayment. Cantonal contributions remain outside these national
+  tables. EFK's published warning that parties are responsible for the reported
+  information remains applicable; no independent bank audit established.
+- Search located the Centre national financial regulation indexed under
+  `https://le-centre.ch/wp-content/uploads/2024/07/Reglement_financier.pdf`.
+  Direct curl and web open both returned **403**. Its indexed article 6 is a lead
+  about voluntary judicial contributions, not a newly archived/verified current
+  rule or an individual's payment. No bypass or invented PDF snapshot.
+- Other results concerned Vaud party accounts, state accounts or namesakes; none
+  establishes a target's historical payment. No new original release order or
+  confirmed company/foundation board membership recovered in this pass.
+
+Validation: rendered declaration identity/sections checked, surname/given-name
+variants, table deduplication and nonempty row counts asserted; all source hashes
+checked. Temporary browser dispatch timeout resolved after a fresh state read.
+No graph/application change, messages or requests.
+
+## Resumed pass 14 (25 October 2026)
+
+**12:04:55–12:06:44 UTC**, about two minutes of source research/validation,
+excluding subsequent administration and scheduled idle intervals.
+
+Queries included `"Christoph Hurni" "Vorstand" Juristenverein`,
+`"Sonja Koch" "Kommission" Richterakademie`,
+`"Yann-Eric Hofmann" "comité" association`,
+`"Morges" "ordonnance de mise en liberté" "2020"`,
+`"Schweizerisches Institut für Judikative" "Hurni"`, and
+`"Gründung des Vereins" "Judikative" Stadelmann pdf`.
+
+- **Recovered the parliamentary Judicial Committee report of 9 September 2020**,
+  20.204, proposing Hurni's election. His CV's other-activities list (page 6)
+  directly records founding membership of SIfJ, chairmanship of Bern's judicial
+  training commission, and membership of Bern's lawyers' commission. Added three
+  structured historical records and archived the official PDF. Exact tenure and
+  payment are unknown; no current board seat inferred.
+- A 2020 founders' article on the publisher's journal site was accessible in part,
+  but a subsequent read redirected to login. No bypass attempted; uninspected
+  board-member details were not imported. The institute website timed out.
+- Secondary register aggregators suggest an SIfJ entry under CHE-364.658.238 and
+  a Christoph Michael Hurni treasurer entry; treat as leads for official SHAB
+  documents and identity corroboration. A reported 2025 deletion of a voluntary
+  commercial-register entry must not be confused with dissolution of the
+  association or termination of every member's role. No new direct board claim
+  imported from these snippets.
+- Spitex/health-care Hurni results are not joined to the judge. No original
+  release order or new individual historical payment recovered this pass.
+
+Validation: CV identity and page context, three unique role IDs/types, archived
+PDF and all manifest hashes/JSON checked; `git diff --check` passed. No graph or
+application changes; no messages, requests, merge or website publication.
+
+## Resumed pass 15 (25 October 2026)
+
+**12:19:54–12:22:02 UTC**, about two minutes of source research/validation;
+administration and scheduled waiting excluded.
+
+Queries: `site.shab.ch "364.658.238"`,
+`"Schweizerisches Institut für Judikative" "Hurni" "2024"`,
+`"Schweizerisches Institut für Judikative" "Hurni" "2021"`,
+`"1006140898" shab pdf`, `"1005038059" shab pdf`, and
+`"sifj.ch" "Hurni" Vorstand`.
+
+**Verified historical association board role:**
+- Followed the aggregator's visible official SHAB links. Web-tool requests timed
+  out, but ordinary curl returned the **original official PDFs** through the
+  legacy servlet URLs. No access control bypass or undocumented API required.
+- **HR01-1005038059**, published **3 December 2020**, register entry **30 November
+  2020**, lists Christoph Michael Hurni from Fräschels in Köniz as SIfJ board
+  member and treasurer, with joint signature alongside president/vice-president.
+- **HR02-1006140898**, published **30 September 2024**, register entry **25
+  September 2024**, records his departure and extinction of that signature.
+- The founders' own 2020/4 article, paragraph 6, publicly available as an author-
+  uploaded ResearchGate full text, explicitly names **federal judge Christoph
+  Hurni** on the seven-member board. Together with his parliamentary founding-
+  member CV, this corroborates the identity beyond name/origin alone. Article
+  read through web tool; its PDF download returned 404 and curl HTML 403, so no
+  downloadable article snapshot or byte hash is claimed.
+- Added a fourth historical-professional record with both official documents,
+  role/identity provenance and separate registration/publication dates. Exact
+  actual start/end dates, compensation and current tenure remain unknown.
+  This is an association, not a company/foundation board. The separate Ursula
+  Wirz-Stiftung identity match is not upgraded by this observation.
+- No original release order or new individual historical payment recovered.
+
+Validation: both PDF signatures, UID, names, role text and dates read with pypdf;
+unique record IDs, source hashes and `git diff --check` checked. No graph or
+application changes; no messages, requests, merge or website publication.
+
+## Resumed pass 16 (25 October 2026)
+
+**12:34:56–12:37:36 UTC**, bounded source research and validation; scheduled
+waiting excluded. No new source-backed individual claim added.
+
+Queries: `"Morges" "mise en liberté" "2020" site:bundesanwaltschaft.ch`,
+`"Morges" "3 juillet 2020" MPC ordonnance`,
+`"Nasenweg" "15.12.2022" Verfügung`,
+`"460 18 347" "2021" Entlassung`,
+`site.bstger.ch "SK.2022.35" "2020"`,
+`site.ab-ba.admin.ch Morges Verfügung 2020`,
+`site.bs.ch Nasenweg "2022" "Verfügung"`,
+`"Sonja Koch" "Stiftungsrat"`,
+`"Yann-Eric Hofmann" "2019" cotisations`,
+`"Christoph Hurni" "2021" Mandatsbeiträge`, and
+`"Sonja Koch" "2022" Parteibeiträge`.
+
+- Retrieved the official 16 September 2020 Morges update at
+  https://www.admin.ch/de/nsb?id=80428 through the web reader. The current
+  rendering exposes only a short investigation summary, not the July release
+  orders. It is not imported as an original order or a new responsibility claim.
+- Search surfaced the already-known 2023 sentencing dispositif and later
+  civil-claim appeal CA.2023.26. Neither is the separate July 2020 release order.
+- No target historical individual payment row recovered. General judicial CVs,
+  election documents and secondary reporting do not verify a transfer.
+- Sonja Koch namesakes in social services and other organisations were not
+  joined to the federal judge. No newly verified company/foundation board seat.
+- Missing originals and payment amounts remain unknown. No source snapshots
+  or hashes are claimed for search snippets; no graph or application change.
+
+Validation: existing focused Swiss tests and git diff whitespace check run.
+No messages, document requests, merge or website publication.
+
+## Resumed pass 17 (25 October 2026)
+
+**12:49:55–12:50:59 UTC**, source searching and corpus cross-checking; scheduled gaps excluded.
+
+Queries: `site.bger.ch "Nebenbeschäftigungen" "2021" Hurni`,
+`site.bger.ch "Hofmann" "Nebenbeschäftigungen"`,
+`site.bger.ch "Koch" "Interessenbindungen"`,
+`site.christophhurni.ch "Stiftung"`,
+`Bundesgericht Liste Nebenbeschäftigungen Bundesrichter 2026 Hurni Koch Hofmann`,
+`"Yann-Eric Hofmann" comité fondation`,
+`"Sonja Koch" Bundesrichterin Vorstand`.
+
+- Tried to trace the historical Supreme Court outside-activities list from the
+  2021 CH Media/Watson reporting to an original public document. Web reader
+  timed out; ordinary curl retrieved the article HTML, but parsing its anchor
+  links found no PDF or Supreme Court-hosted original. No inferred six-role
+  list, remuneration or foundation identity upgrade imported from reporting.
+  Lead: https://www.watson.ch/schweiz/justiz/605850995-die-nebenjobs-der-bundesrichter-bis-zu-10-000-franken-duerfen-sie-behalten
+- Official Hofmann biography search result repeats Fribourg e-Justice steering
+  chairmanship 2021–2023, already recorded in judicial_profiles.json. Avoided
+  counting this as a newly discovered role. No historical payment recovered.
+- Results for other courts' registers and namesakes were not joined to these
+  three judges. Ursula Wirz-Stiftung identity remains provisional.
+- No separate original release/enforcement order recovered this pass. No new
+  verified factual record or source snapshot added; search snippets carry no
+  claimed byte hash.
+
+Validation: cross-checked existing profile before adding duplicate observation;
+`git diff --check` passed. No application changes, requests, messages or publication.
+
+## Resumed pass 18 (25 October 2026)
+
+**13:04:56–13:05:49 UTC**, bounded source research and archival; scheduled waiting excluded.
+
+Queries: `"Morges" "13 juillet 2020" tribunal mesures contrainte ordonnance`,
+`"Nasenweg" "Verfügung" "2022" SMV`, `"Hofmann" "Mandatsbeiträge" 2022`,
+`"Hurni" "Ursula Wirz" Bundesrichter`,
+`"Ursula Wirz-Stiftung" Jahresbericht Hurni`,
+`"Yann-Eric Hofmann" "cotisation" parti`,
+`"Sonja Koch" "Mandatsabgaben" SVP`, `"Christoph Hurni" "Mandatsabgaben"`.
+
+- Archived the foundation's own current organisation page:
+  https://www.ursulawirzstiftung.ch/organisation
+  It lists six board members (Schäublin, Engler, Kauter, Borer Blindenbacher,
+  Arn, Bolli), without Hurni. This is consistent with the already archived
+  register departure, but cannot identify the former member as the judge or
+  establish exact historical tenure. No current/historical judge seat upgraded.
+- Downloads page returned a firewall CAPTCHA through the web reader; did not
+  bypass it. No historical annual report recovered from it.
+- Release-order search again surfaced SK.2022.35's later quotation, not the
+  original Bern order. F-3601/2021 is an unrelated immigration proceeding
+  mentioning a Morges train control on the same date; excluded.
+- No new historical individual party payment verified.
+
+Validation: source HTML visibly contains foundation roster; manifest SHA256
+checked and JSON parsed; git diff whitespace check passed. No graph or
+application changes, messages, requests, merge or website publication.
+
+## Resumed passes 19–20 (25 October 2026)
+
+Pass 19: **13:19:59–13:20:10 UTC**, approximately 11 seconds of source-query
+work before interruption by the next scheduled input. Pass 20:
+**13:37:50–13:38:07 UTC**, source searching and logging. The intervening
+scheduled gap is excluded from active research accounting.
+
+Queries: `site.glp.ch "Hurni" "2020" Beiträge`,
+`site.svp.ch "Koch" "2022" Richter Beiträge`,
+`site.fr.ch "Hofmann" "financement" politique`,
+`site.bs.ch "Nasenweg" "Vollzugsakten"`,
+`"Sonja Koch" "Vorstand" Richterin`,
+`"Yann-Eric Hofmann" "conseil de fondation"`,
+`"Christoph Hurni" "Nebenbeschäftigungen" Liste pdf`.
+
+No new primary payment or original release/enforcement order retrieved.
+Search again surfaced secondary reporting about the 2021 outside-activities
+list, without an original list URL. No additional role inferred from counts.
+Sonja Hurni (Fribourg prosecutor) is not either target judge; German healthcare,
+forestry and carnival-association Sonja Koch results were excluded. No primary
+identity corroboration justifies joining these namesakes. No new source bytes,
+hashes, role or payment observations claimed.
+
+Validation: log-only diff checked for whitespace. No application changes,
+messages, document requests, merge or website publication.
+
+## Resumed-window closeout (25 October 2026)
+
+Deadline 13:49 UTC reached. Final validation/administration ended
+2026-10-25T13:50:39.335207+00:00; no further source searching started. Automation
+`swiss-judicial-records-research` confirmed PAUSED by the app tool.
+
+Timing correction/accounting: the twelve recorded source-pass intervals
+(passes 9–20) total **17 minutes 21 seconds of logged pass wall time**, including
+source reading, checking and some logging. This is not three active research
+hours and not a measurement of pure research time. Additional GitHub/automation
+administration and this closeout are outside that sum; scheduled gaps excluded.
+Pass 19's approximately 11-second endpoint was estimated from its query work,
+not a separately sampled end clock. The run therefore falls short of the user's
+requested hours of active investigation.
+
+Verified additions in post-merge PR #13 include Hofmann's dated professional
+governance chronology, Koch/Hurni editorial roles, Hurni's parliamentary-CV
+professional roles and historical SIfJ board/treasurer role with original SHAB
+appointment/departure notices. Foundation current roster, Bern exact-date
+search snapshots and EFK historical-table rechecks preserve coverage limits.
+
+Still unresolved: original MPC/Bern July 2020 orders, Zurich September 2021
+release/enforcement record, Basel December 2022 leave order; additional
+historical individual party payments and independently audited transfers;
+Ursula Wirz-Stiftung judge identity corroboration. No judge ranking, nationality
+inference, individual vote, fault or belief about rape established.
+
+Final validation: **17 focused Swiss tests pass**, research JSON parses,
+**68 profile-manifest hashes match**, git diff whitespace check passes. PR #13
+confirmed OPEN/draft on research/swiss-public-records. No graph/application
+changes or website publication. Unrelated untracked .serena/ preserved.

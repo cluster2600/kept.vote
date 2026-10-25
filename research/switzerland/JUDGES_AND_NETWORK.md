@@ -171,3 +171,62 @@ The archived **Justitia 4.0 annual report 2025, page 3**, independently corrobor
 Hofmann's steering co-presidency in the reporting period, naming him alongside
 Florian Düblin. It strengthens the existing directly identified role, but does
 not establish its end date or verify a company-board seat, payment or misconduct.
+
+Resumed research on **25 October 2026** adds two historical primary-source
+checkpoints for Hofmann without changing graph identity or creating duplicate
+role edges:
+
+- ASM's **2024 annual report, page 1**, proposes electing Hofmann to its committee,
+  subject to his definitive acceptance. This is a proposal, not proof of election
+  or an exact appointment date. The later published committee page remains the
+  membership evidence.
+- The Federal Supreme Court-hosted **Justitia 4.0 committee composition dated
+  26 November 2025** directly identifies Hofmann as steering co-president and
+  federal judge. It corroborates the role at that document date, not indefinite
+  tenure. Both PDFs are retained with hashes in the source manifest.
+
+## Professional editorial roles (25 October 2026)
+
+`judicial_editorial_roles.json` records two additional directly identified roles
+from the publisher's live, browser-rendered pages: **Koch edits the Criminal
+Procedure Code commentary**; **Hurni co-edits the Code of Obligations commentary
+with Mirjam Eggen**, edits chapter 12 PILA and is listed as interim editor for
+CPC, PILA and the Lugano Convention. The pages explicitly identify their federal
+judicial profession and link Koch's court biography / Hurni's professional site.
+Visible-text snapshots, exact URLs, observation times and hashes are retained.
+
+These are publishing responsibilities, **not company/foundation board seats**.
+No appointment date, pay, ownership or misconduct is established. They are kept
+outside the existing governance-edge export until an editorial relation type is
+explicitly supported; no new graph behavior or misleading board edges added.
+
+## Historical Hurni professional roles from Parliament
+
+The Judicial Committee's **9 September 2020 report, page 6**, lists Hurni as
+founding member of the **Schweizerisches Institut für Judikative**, chair of the
+**Bern judicial training commission**, and member of the **Bern lawyers'
+commission**. These three directly identified historical observations are in
+`judicial_historical_professional_roles.json`; the public nomination report is
+archived with its source URL, date and hash.
+
+The report gives no exact appointment/end dates or individual remuneration for
+these activities. It does not establish current tenure. Founding membership is
+not a board seat. None resolves the separate provisional Ursula Wirz-Stiftung
+identity match; no relationship to unrelated health-care Christoph Hurni records
+is inferred. These historical records are not yet imported as graph edges.
+
+### SIfJ historical board and treasurer role
+
+Official SHAB notices **HR01-1005038059** (published **3 December 2020**, register
+entry 30 November) and **HR02-1006140898** (published **30 September 2024**,
+register entry 25 September) list Christoph Michael Hurni as SIfJ board member
+and treasurer, with joint signature by two alongside its president or vice-
+president, and then record his departure. Both original SHAB PDFs are archived.
+
+Identity is corroborated by the founders' own **2020/4 article, paragraph 6**,
+which explicitly identifies federal judge Christoph Hurni as a board member, and
+his parliamentary nomination CV's founding-membership statement. The article's
+author-uploaded public full text was read through the web tool; a downloadable
+copy was not recovered. This supports a historical **association** governance
+role, not a current company/foundation seat. Exact actual tenure dates and pay
+remain unknown. The Ursula Wirz-Stiftung match remains separately provisional.

@@ -435,6 +435,110 @@
       "bytes": 1341778,
       "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
       "source_status": "official publisher"
+    },
+    {
+      "file": "sources/asm-annual-report-2024.pdf",
+      "url": "https://www.juges.ch/fr/index_htm_files/SVR-ASM%20rapport%20annuel%202024.pdf",
+      "sha256": "5ede5e033dea991f30a5038a03d979921d6ece8073dbb7a5de63bc4992083d63",
+      "bytes": 346335,
+      "retrieved_at_utc": "2026-10-25T10:50:25.310279+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/justitia40-composition-2025-11-26.pdf",
+      "url": "https://www.tribunal-federal.ch/files/live/sites/tfl/files/pdf/Justitia_4.0/2025_11_26_Steuerungsausschuss_Zusammensetzung_mit_Kantonswappen_d_f_i.pdf",
+      "sha256": "94263eed8b261618314ed0d38d76d3c13cdd17442672fe44fddeced6c8cb5695",
+      "bytes": 106310,
+      "retrieved_at_utc": "2026-10-25T10:50:25.310279+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/onlinekommentar-sonja-koch-rendered-2026-10-25.txt",
+      "url": "https://onlinekommentar.ch/de/herausgeber/sonja-koch",
+      "sha256": "f8cf5ff88d8ee24e90a282367b48bdcbd68e1ae032c066fae79f067034ff84cd",
+      "bytes": 478,
+      "retrieved_at_utc": "2026-10-25T11:06:36.763424+00:00",
+      "source_status": "primary publisher; rendered visible-text snapshot through browser; not server HTML"
+    },
+    {
+      "file": "sources/onlinekommentar-christoph-hurni-rendered-2026-10-25.txt",
+      "url": "https://onlinekommentar.ch/de/herausgeber/christoph-hurni",
+      "sha256": "7ae9b08c05105faf82f8ae66f34117d7509a237411810d8c2551fccdc869f6ee",
+      "bytes": 630,
+      "retrieved_at_utc": "2026-10-25T11:06:36.763424+00:00",
+      "source_status": "primary publisher; rendered visible-text snapshot through browser; not server HTML"
+    },
+    {
+      "file": "sources/fribourg-finance-publications-2026-10-25.html",
+      "url": "https://www.fr.ch/etat-et-droit/votations-elections-et-droits-politiques/financement-de-la-politique/publications-des-informations-sur-le-financement-de-la-politique",
+      "sha256": "1fff2717330d10694dd0c0dc03b4f8ff0c694c65e54c342154b8905f55e80550",
+      "bytes": 110373,
+      "retrieved_at_utc": "2026-10-25T11:21:21.768523+00:00",
+      "source_status": "official publisher; finance-publication index and retention policy, no individual target payment established"
+    },
+    {
+      "file": "sources/bern-decision-search-2020-07-13-observed-2026-10-25.txt",
+      "url": "https://www.zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de",
+      "sha256": "0c98f0c4b17658919c519a1f492cbd75010f8b16eae6c398f8acf29f4eed2983",
+      "bytes": 8439,
+      "retrieved_at_utc": "2026-10-25T11:37:05.304215+00:00",
+      "source_status": "official decision-search UI; accessibility-text snapshot; search results, not original release orders"
+    },
+    {
+      "file": "sources/bern-decision-search-2020-07-03-observed-2026-10-25.txt",
+      "url": "https://www.zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de",
+      "sha256": "8681150bb9c318b9e8367adb05551f95a117f0530d0a179e691d931b22e13a3e",
+      "bytes": 7133,
+      "retrieved_at_utc": "2026-10-25T11:37:05.304215+00:00",
+      "source_status": "official decision-search UI; accessibility-text snapshot; search results, not original release orders"
+    },
+    {
+      "file": "sources/efk-centre-2023-table-recheck-2026-10-25.json",
+      "url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/432/forms/9-59-23",
+      "sha256": "e27c5d0c3e87b854bb8122a6a39bea08153183bfd672d01798a551deef87e524",
+      "bytes": 5873,
+      "retrieved_at_utc": "2026-10-25T11:52:24.592362+00:00",
+      "source_status": "official EFK public rendered table; duplicate responsive/empty rows removed; party declaration not bank audit"
+    },
+    {
+      "file": "sources/efk-centre-2024-table-recheck-2026-10-25.json",
+      "url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/497/forms/17-59-61",
+      "sha256": "32482db0b341866ed7e084aa97241b277aaff0a058a3b7930519bab573d83cc7",
+      "bytes": 5690,
+      "retrieved_at_utc": "2026-10-25T11:52:24.592362+00:00",
+      "source_status": "official EFK public rendered table; duplicate responsive/empty rows removed; party declaration not bank audit"
+    },
+    {
+      "file": "sources/hurni-parliament-nomination-2020-09-09.pdf",
+      "url": "https://www.parlament.ch/centers/kb/Documents/2020/Rapport_de_la_commission_CJ-V_20.204_2020-09-09_a.pdf",
+      "sha256": "2e9bf8ad308ab769a3896aaa2b3d5ad831f17a813802fc0f6f2f5fb4add4fe6d",
+      "bytes": 127470,
+      "retrieved_at_utc": "2026-10-25T12:06:43.877126+00:00",
+      "source_status": "publicly published parliamentary nomination report; historical CV claims"
+    },
+    {
+      "file": "sources/sifj-shab-HR01-1005038059-2020-12-03.pdf",
+      "url": "https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=HR01-1005038059",
+      "sha256": "f321a3a1e426919b9bfb733562194e58786333b8985ac69931347103e85c897d",
+      "bytes": 204334,
+      "retrieved_at_utc": "2026-10-25T12:22:02.163893+00:00",
+      "source_status": "official SHAB PDF retrieved through legacy publication link"
+    },
+    {
+      "file": "sources/sifj-shab-HR02-1006140898-2024-09-30.pdf",
+      "url": "https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=HR02-1006140898",
+      "sha256": "c5b41c39befdfd456e0d7ea15f07a459dbb069b39d1c48ce371b4fce838f867c",
+      "bytes": 197825,
+      "retrieved_at_utc": "2026-10-25T12:22:02.163893+00:00",
+      "source_status": "official SHAB PDF retrieved through legacy publication link"
+    },
+    {
+      "file": "sources/ursula-wirz-organisation-2026-10-25.html",
+      "url": "https://www.ursulawirzstiftung.ch/organisation",
+      "sha256": "7c1bce6e3b29b46e70a85c2259ac478bc1f57a543be054fbe8dac89aaaa0b2b2",
+      "bytes": 15290,
+      "retrieved_at_utc": "2026-10-25T13:05:49.304969+00:00",
+      "source_status": "foundation own public organisation page; current roster only, not historical judge identity corroboration"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

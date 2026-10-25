@@ -1,0 +1,39 @@
+{
+  "observed_at_utc": "2026-10-25T11:52:24.592362+00:00",
+  "checks": [
+    {
+      "year": 2023,
+      "url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/432/forms/9-59-23",
+      "unique_nonempty_rows_including_header": 75,
+      "snapshot": "sources/efk-centre-2023-table-recheck-2026-10-25.json",
+      "surname_variants_checked": [
+        "Hofmann",
+        "Hoffmann"
+      ],
+      "given_name_variants_checked": [
+        "Yann",
+        "Yann-Eric",
+        "Yann Eric"
+      ],
+      "matching_rows": 0,
+      "interpretation": "No matching named row in this national-party table at observation. Not zero/nonpayment; does not cover cantonal-party payments."
+    },
+    {
+      "year": 2024,
+      "url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/497/forms/17-59-61",
+      "unique_nonempty_rows_including_header": 73,
+      "snapshot": "sources/efk-centre-2024-table-recheck-2026-10-25.json",
+      "surname_variants_checked": [
+        "Hofmann",
+        "Hoffmann"
+      ],
+      "given_name_variants_checked": [
+        "Yann",
+        "Yann-Eric",
+        "Yann Eric"
+      ],
+      "matching_rows": 0,
+      "interpretation": "No matching named row in this national-party table at observation. Not zero/nonpayment; does not cover cantonal-party payments."
+    }
+  ]
+}
