@@ -30,11 +30,12 @@ from profile_format import CORE_SECTIONS, OFFICES, parse_confidence
 
 DATA_DIR = os.getenv("DATA_DIR", "data")
 
-# Countries the site covers: the 27 EU member states, Switzerland and Norway.
+# Countries the site covers: the 27 EU member states, Switzerland and Norway,
+# and Lebanon, Syria, Israel and the Palestinian territories.
 COUNTRY_CODES = {
     "AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GR",
     "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO",
-    "SE", "SI", "SK", "CH", "NO",
+    "SE", "SI", "SK", "CH", "NO", "LB", "SY", "IL", "PS",
 }
 
 # Languages a profile may be written in: the UI locales.
@@ -170,8 +171,10 @@ def check_bio(slug: str, report: Report) -> None:
         return
     for field in sorted(BIO_FIELDS - bio.keys()):
         report.legacy(f"bio: missing '{field}'")
-    for field in sorted(bio.keys() - BIO_FIELDS - {"slug"}):
+    for field in sorted(bio.keys() - BIO_FIELDS - {"slug", "portrait"}):
         report.legacy(f"bio: unknown field '{field}'")
+    if "portrait" in bio:
+        check_portrait(slug, bio["portrait"], report)
     if bio.get("country_code") and bio["country_code"] not in COUNTRY_CODES:
         report.error(f"bio: country_code '{bio['country_code']}' not covered")
     if bio.get("office") and bio["office"] not in OFFICES:
@@ -183,6 +186,31 @@ def check_bio(slug: str, report: Report) -> None:
             datetime.date.fromisoformat(bio["birth_date"])
         except (TypeError, ValueError):
             report.legacy(f"bio: birth_date '{bio['birth_date']}' is not YYYY-MM-DD")
+
+
+PORTRAIT_DIR = os.path.join(os.path.dirname(DATA_DIR), "frontend", "public", "portraits")
+PORTRAIT_LICENSE = re.compile(
+    r"CC0 1\.0|CC BY(-SA)? \d\.\d|Public domain|Attribution|Licence Ouverte \d\.\d|KOGL Type 1|© European Union"
+)
+
+
+def check_portrait(slug: str, portrait: object, report: Report) -> None:
+    """A free-licensed Commons photo, stored as portraits/<slug>.<ext>."""
+    if not isinstance(portrait, dict):
+        report.error("bio: portrait must be an object")
+        return
+    for field in ("file", "source_url", "author", "license"):
+        if not portrait.get(field):
+            report.error(f"bio: portrait missing '{field}'")
+    file = portrait.get("file") or ""
+    if file and not re.fullmatch(rf"{re.escape(slug)}\.(jpg|png|webp)", file):
+        report.error(f"bio: portrait file '{file}' should be {slug}.jpg, .png or .webp")
+    elif file and not os.path.exists(os.path.join(PORTRAIT_DIR, file)):
+        report.error(f"bio: portrait file frontend/public/portraits/{file} not found")
+    if portrait.get("license") and not PORTRAIT_LICENSE.fullmatch(portrait["license"]):
+        report.error(f"bio: portrait license '{portrait['license']}' is not one harvest.py accepts")
+    if portrait.get("source_url") and not str(portrait["source_url"]).startswith("https://commons.wikimedia.org/wiki/File:"):
+        report.error("bio: portrait source_url must be a Wikimedia Commons file page")
 
 
 def check_section(slug: str, section: str, report: Report) -> None:

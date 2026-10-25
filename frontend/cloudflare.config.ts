@@ -12,7 +12,8 @@ export default defineConfig({
     assets: {
       htmlHandling: "none",
       notFoundHandling: "none",
-      runWorkerFirst: ["/*", "!/_next/static/*", "!/*/_next/static/*"],
+      // Static files skip the Worker: build output and portraits (public/).
+      runWorkerFirst: ["/*", "!/_next/static/*", "!/*/_next/static/*", "!/portraits/*"],
     },
     env: {
       ASSETS: bindings.assets(),

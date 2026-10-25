@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filtrování podle země",
-    "mapLabel": "Mapa Evropy: vyberte zemi",
+    "mapLabel": "Mapa: vyberte zemi",
     "mapCovered": "Zahrnuto",
     "mapNotCovered": "Zatím nezahrnuto",
     "allCountries": "Všechny země",
@@ -58,6 +58,7 @@
     "mayor": "Starosta",
     "regional_executive": "Regionální exekutiva",
     "party_leader": "Předseda strany",
+    "judge": "Soudce",
     "other": "Jiná funkce"
   },
   "notFound": {
@@ -69,6 +70,7 @@
     "back": "← Všichni politici",
     "trackRecord": "Bilance slibů",
     "contentLanguage": "Jazyk profilu: {language}",
+    "photoCredit": "Foto: {author}, {license}, zdroj: {source}",
     "tabsLabel": "Části profilu",
     "tabs": {
       "promises": "Sliby",

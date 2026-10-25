@@ -172,6 +172,9 @@ class Politician(Base):
     party: Mapped[str | None] = mapped_column(String(255), index=True)
     birth_date: Mapped[datetime.date | None] = mapped_column()
     bio: Mapped[str | None] = mapped_column(Text)
+    # Portrait file (frontend/public/portraits/) and its credit; see
+    # docs/PROFILE_FORMAT.md.
+    portrait: Mapped[dict | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     promises: Mapped[list["Promise"]] = relationship(

@@ -88,16 +88,43 @@ parliamentary registers of interests) where those are public.
 ```
 
 - `country`: English short name. `country_code`: ISO 3166-1 alpha-2 (`GR` for
-  Greece, not `EL`). Covered: the 27 EU member states, `CH`, `NO`.
+  Greece, not `EL`). Covered: the 27 EU member states, `CH`, `NO`, and `LB`,
+  `SY`, `IL`, `PS` (the Palestinian territories).
 - `office`: one of `head_of_state`, `head_of_government`, `minister`,
-  `legislator`, `mayor`, `regional_executive`, `party_leader`, `other`. The UI
-  translates this; `role` carries the exact title.
+  `legislator`, `mayor`, `regional_executive`, `party_leader`, `judge`,
+  `other`. The UI translates this; `role` carries the exact title. Judges have
+  no promises or legislation: those files hold `[]`, and `electoral_history`
+  records their election by parliament where there is one.
 - `content_lang`: the language every text field is written in. **New profiles
   are written in English** (`en`), keeping native names and official titles in
   the original language where useful (e.g. "Federal Chancellor
   (Bundeskanzler)"). The UI is translated, profile text is not.
 - `party`: native name with abbreviation, then the European Parliament group.
 - `birth_date`: `YYYY-MM-DD`.
+- `portrait` (optional): added by `python harvest.py portrait <slug>`, never
+  by hand. It takes the lead photo of the person's Wikipedia article, only if
+  it is a Wikimedia Commons file under a free license that allows reuse and
+  crops with credit (CC0, public domain, CC BY, CC BY-SA, Commons' "Attribution",
+  Etalab's Licence Ouverte, Korea's KOGL Type 1, the European Parliament's
+  reuse notice),
+  saves it as `frontend/public/portraits/<slug>.jpg` and records the credit
+  shown under the photo:
+
+  ```json
+  "portrait": {
+    "file": "jana-novakova.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jana_Novakova_2025.jpg",
+    "author": "Example Photographer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-22"
+  }
+  ```
+
+  When the command skips someone (no free photo, or the article or file name
+  doesn't match), check by hand and pass `--page <Wikipedia article or Commons
+  file page>`. Never use a photo from a news site or a government page whose
+  license isn't stated as free.
 
 ## Sections
 

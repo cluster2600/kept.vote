@@ -251,6 +251,7 @@ async def list_politicians(
                 role=politician.role,
                 content_lang=politician.content_lang,
                 party=politician.party,
+                portrait=politician.portrait,
                 promise_count=len(owned),
                 kept_count=counts[VerificationStatus.FULFILLED],
                 broken_count=counts[VerificationStatus.BROKEN],
