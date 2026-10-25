@@ -450,3 +450,28 @@ were included in the merge.
 Validation: live publisher identity/role checked, two JSON records with distinct
 editorial type, all manifest hashes and JSON checked; `git diff --check` passed.
 Unrelated .serena directory preserved. No messages or document requests sent.
+
+## Post-merge PR and continued searches (25 October 2026)
+
+At approximately **11:09 UTC**, the user explicitly authorised a new PR for the
+post-#10 findings. Opened and attached **draft PR #13**:
+https://github.com/cluster2600/kept.vote/pull/13 . Its initial comparison to current
+origin/main contains exactly the two post-merge research commits d25b40c and
+1931b8e, not the already merged corpus. This authorisation supersedes the preceding
+no-new-PR constraint. Updated the existing automation to maintain draft #13;
+the 13:49 UTC deadline and no merge/publication/messages constraints remain.
+
+Continued primary-source searches at **11:09–11:10 UTC**, including
+`site.justice.be.ch "Hurni" "Nebenbeschäftigungen"`,
+`site.gr.be.ch "Hurni" "Wirz"`, `site.fr.ch "Hofmann" "intérêts"`,
+`site.grunliberale.ch "Hurni" "Mandatsbeiträge"`,
+`site.bger.ch "Liste" "Nebenbeschäftigungen" Bundesrichter` and
+`"Nasenweg" "15. Dezember 2022" Bewilligung`, yielded no new verified target
+board seat, payment or original release authorisation. A 2011 Supreme Court
+personnel-file press release is unrelated to the target judges' later tenure and
+was not imported as their disclosure list. Secondary 2021 side-activity reporting
+remains a lead only.
+
+Validation: current origin/main fetched, post-merge diff reviewed; **17 focused
+tests passed**; draft #13 confirmed OPEN with correct head 1931b8e before this
+log-only commit. No application changes or third-party messages.
