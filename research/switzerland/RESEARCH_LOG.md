@@ -745,3 +745,29 @@ Queries: `"Morges" "13 juillet 2020" tribunal mesures contrainte ordonnance`,
 Validation: source HTML visibly contains foundation roster; manifest SHA256
 checked and JSON parsed; git diff whitespace check passed. No graph or
 application changes, messages, requests, merge or website publication.
+
+## Resumed passes 19–20 (25 October 2026)
+
+Pass 19: **13:19:59–13:20:10 UTC**, approximately 11 seconds of source-query
+work before interruption by the next scheduled input. Pass 20:
+**13:37:50–13:38:07 UTC**, source searching and logging. The intervening
+scheduled gap is excluded from active research accounting.
+
+Queries: `site.glp.ch "Hurni" "2020" Beiträge`,
+`site.svp.ch "Koch" "2022" Richter Beiträge`,
+`site.fr.ch "Hofmann" "financement" politique`,
+`site.bs.ch "Nasenweg" "Vollzugsakten"`,
+`"Sonja Koch" "Vorstand" Richterin`,
+`"Yann-Eric Hofmann" "conseil de fondation"`,
+`"Christoph Hurni" "Nebenbeschäftigungen" Liste pdf`.
+
+No new primary payment or original release/enforcement order retrieved.
+Search again surfaced secondary reporting about the 2021 outside-activities
+list, without an original list URL. No additional role inferred from counts.
+Sonja Hurni (Fribourg prosecutor) is not either target judge; German healthcare,
+forestry and carnival-association Sonja Koch results were excluded. No primary
+identity corroboration justifies joining these namesakes. No new source bytes,
+hashes, role or payment observations claimed.
+
+Validation: log-only diff checked for whitespace. No application changes,
+messages, document requests, merge or website publication.
