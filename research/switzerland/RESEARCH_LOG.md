@@ -654,3 +654,36 @@ Queries: `site.shab.ch "364.658.238"`,
 Validation: both PDF signatures, UID, names, role text and dates read with pypdf;
 unique record IDs, source hashes and `git diff --check` checked. No graph or
 application changes; no messages, requests, merge or website publication.
+
+## Resumed pass 16 (25 October 2026)
+
+**12:34:56–12:37:36 UTC**, bounded source research and validation; scheduled
+waiting excluded. No new source-backed individual claim added.
+
+Queries: `"Morges" "mise en liberté" "2020" site:bundesanwaltschaft.ch`,
+`"Morges" "3 juillet 2020" MPC ordonnance`,
+`"Nasenweg" "15.12.2022" Verfügung`,
+`"460 18 347" "2021" Entlassung`,
+`site.bstger.ch "SK.2022.35" "2020"`,
+`site.ab-ba.admin.ch Morges Verfügung 2020`,
+`site.bs.ch Nasenweg "2022" "Verfügung"`,
+`"Sonja Koch" "Stiftungsrat"`,
+`"Yann-Eric Hofmann" "2019" cotisations`,
+`"Christoph Hurni" "2021" Mandatsbeiträge`, and
+`"Sonja Koch" "2022" Parteibeiträge`.
+
+- Retrieved the official 16 September 2020 Morges update at
+  https://www.admin.ch/de/nsb?id=80428 through the web reader. The current
+  rendering exposes only a short investigation summary, not the July release
+  orders. It is not imported as an original order or a new responsibility claim.
+- Search surfaced the already-known 2023 sentencing dispositif and later
+  civil-claim appeal CA.2023.26. Neither is the separate July 2020 release order.
+- No target historical individual payment row recovered. General judicial CVs,
+  election documents and secondary reporting do not verify a transfer.
+- Sonja Koch namesakes in social services and other organisations were not
+  joined to the federal judge. No newly verified company/foundation board seat.
+- Missing originals and payment amounts remain unknown. No source snapshots
+  or hashes are claimed for search snippets; no graph or application change.
+
+Validation: existing focused Swiss tests and git diff whitespace check run.
+No messages, document requests, merge or website publication.
