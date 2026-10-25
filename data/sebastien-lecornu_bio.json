@@ -1,7 +1,19 @@
 {
   "name": "Sébastien Lecornu",
   "country": "France",
+  "country_code": "FR",
+  "office": "head_of_government",
+  "role": "Prime Minister of France",
+  "content_lang": "en",
   "party": "Renaissance",
   "birth_date": "1986-06-11",
-  "bio": "Sébastien Lecornu is a French politician who has served as Prime Minister of France since September 2025, continuing in office after the February 2026 reshuffle of his own government. A former member of the Republicans (LR) who joined the Macron camp in 2017, he previously held several ministerial posts, including Minister of the Armed Forces (2022–2025), Minister of the Overseas (2020–2022), Minister for Local Authorities (2018–2020) and Secretary of State for the Ecological Transition (2017–2018). He was Mayor of Vernon and twice President of the Departmental Council of the Eure before his national rise."
+  "bio": "Sébastien Lecornu is a French politician who has served as Prime Minister of France since September 2025, continuing in office after the February 2026 reshuffle of his own government. A former member of the Republicans (LR) who joined the Macron camp in 2017, he previously held several ministerial posts, including Minister of the Armed Forces (2022–2025), Minister of the Overseas (2020–2022), Minister for Local Authorities (2018–2020) and Secretary of State for the Ecological Transition (2017–2018). He was Mayor of Vernon and twice President of the Departmental Council of the Eure before his national rise.",
+  "portrait": {
+    "file": "sebastien-lecornu.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped%29.jpg",
+    "author": "© Patrice Normand/Leextra via opale",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-22"
+  }
 }

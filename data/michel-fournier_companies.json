@@ -1,6 +1,6 @@
 [
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-1",
     "entity": "Association des maires ruraux de France (AMRF)",
     "role": "board_member",
     "ownership_stake": "",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-2",
     "entity": "Association des maires ruraux des Vosges (AMR88)",
     "role": "board_member",
     "ownership_stake": "",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-3",
     "entity": "Commune des Voivres (Les Voivres, 88240, Vosges)",
     "role": "director",
     "ownership_stake": "",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-4",
     "entity": "Communauté d'agglomération d'Epinal (CAE)",
     "role": "director",
     "ownership_stake": "",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-5",
     "entity": "Communauté de communes du Val de Vôge",
     "role": "director",
     "ownership_stake": "",
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-6",
     "entity": "PETR Pays d'Epinal Coeur des Vosges (Pole d'Equilibre Territorial et Rural)",
     "role": "board_member",
     "ownership_stake": "",
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-7",
     "entity": "Agence nationale de la cohesion des territoires (ANCT)",
     "role": "board_member",
     "ownership_stake": "",
@@ -89,7 +89,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-8",
     "entity": "SEM Les diners insolites",
     "role": "board_member",
     "ownership_stake": "",
@@ -101,7 +101,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-9",
     "entity": "SEM Terr'enr",
     "role": "board_member",
     "ownership_stake": "",
@@ -113,7 +113,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-10",
     "entity": "SEM Vosges TV",
     "role": "board_member",
     "ownership_stake": "",
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-11",
     "entity": "SCI (societe civile immobiliere, name not published by HATVP)",
     "role": "owner",
     "ownership_stake": "45%",
@@ -137,7 +137,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-12",
     "entity": "Association aux Sources de Saone et Meuse",
     "role": "board_member",
     "ownership_stake": "",
@@ -149,7 +149,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-13",
     "entity": "Ministere charge de la ruralite (Gouvernement francais)",
     "role": "none",
     "ownership_stake": "",
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "id": "michel-fournier",
+    "id": "michel-fournier-company-14",
     "entity": "Professional background (agent commercial / former occupations)",
     "role": "employee",
     "ownership_stake": "",

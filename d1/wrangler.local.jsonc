@@ -1,0 +1,14 @@
+// Used only to load data into the local D1 that `npm run dev` / `npm run
+// preview` use (frontend/.cloudflare/state). Deploy config lives in
+// frontend/cloudflare.config.ts.
+{
+  "name": "kept-vote",
+  "compatibility_date": "2026-10-21",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "kept-vote",
+      "database_id": "8fe5630a-bcda-47d5-a644-5af00d85c81c"
+    }
+  ]
+}

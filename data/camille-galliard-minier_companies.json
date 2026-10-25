@@ -1,6 +1,6 @@
 [
   {
-    "id": "camille-galliard-minier",
+    "id": "camille-galliard-minier-company-1",
     "entity": "Avocate au barreau de Grenoble",
     "role": "employee",
     "ownership_stake": "",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": "camille-galliard-minier",
+    "id": "camille-galliard-minier-company-2",
     "entity": "Fonds de dotation Sesame",
     "role": "founder",
     "ownership_stake": "",

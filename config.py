@@ -62,8 +62,13 @@ class Settings:
         self.anthropic_api_key: str | None = os.getenv("ANTHROPIC_API_KEY")
         # Default to the most capable current Claude model. Override per
         # deployment via CLAUDE_MODEL if needed.
-        self.claude_model: str = os.getenv("CLAUDE_MODEL", "claude-opus-4-8")
-        self.claude_max_tokens: int = int(os.getenv("CLAUDE_MAX_TOKENS", "4096"))
+        self.claude_model: str = os.getenv("CLAUDE_MODEL", "claude-opus-5-5")
+        # Thinking is always on and counts toward max_tokens, so leave room for
+        # it on top of the JSON verdict.
+        self.claude_max_tokens: int = int(os.getenv("CLAUDE_MAX_TOKENS", "16000"))
+        # low | medium | high | xhigh | max — trades thinking depth for cost
+        # and latency. Set explicitly: the API default differs per model.
+        self.claude_effort: str = os.getenv("CLAUDE_VERIFY_EFFORT", "medium")
 
         # ---- CORS ---------------------------------------------------------
         # Comma-separated list of allowed browser origins for the frontend.

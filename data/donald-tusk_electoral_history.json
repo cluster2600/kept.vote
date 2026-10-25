@@ -1,0 +1,239 @@
+[
+  {
+    "id": "donald-tusk-el-1991-sejm",
+    "election": "1991 Polish parliamentary election (Sejm)",
+    "date": "1991-10-27",
+    "role_sought": "Member of the Sejm, Gdańsk constituency (no. 22), Liberal Democratic Congress (KLD) list",
+    "result": "Elected",
+    "vote_share": "38,778 votes (7.87%)",
+    "opponent": "",
+    "detail": "The KLD, which Tusk co-founded, won 37 seats nationally.",
+    "source_url": [
+      "https://pl.wikipedia.org/wiki/Donald_Tusk",
+      "https://en.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-1993-sejm",
+    "election": "1993 Polish parliamentary election (Sejm)",
+    "date": "1993-09-19",
+    "role_sought": "Member of the Sejm, constituency no. 11, KLD list",
+    "result": "Not elected",
+    "vote_share": "50,268 votes (9.14%)",
+    "opponent": "",
+    "detail": "Despite a strong personal result he lost his seat because the KLD failed to reach the 5% national threshold.",
+    "source_url": [
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-1997-senate",
+    "election": "1997 Polish Senate election",
+    "date": "1997-09-21",
+    "role_sought": "Senator, Gdańsk voivodeship (Freedom Union)",
+    "result": "Elected",
+    "vote_share": "221,343 votes (38.43%)",
+    "opponent": "",
+    "detail": "Subsequently chosen as a Deputy Marshal of the Senate for the 1997–2001 term.",
+    "source_url": [
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2001-sejm",
+    "election": "2001 Polish parliamentary election (Sejm)",
+    "date": "2001-09-23",
+    "role_sought": "Member of the Sejm, Gdynia constituency (no. 26), Civic Platform list",
+    "result": "Elected",
+    "vote_share": "56,048 votes (14.55%)",
+    "opponent": "",
+    "detail": "First election contested by the newly founded Civic Platform; Tusk then became a Deputy Marshal of the Sejm.",
+    "source_url": [
+      "https://api.sejm.gov.pl/sejm/term4/MP/409",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2005-sejm",
+    "election": "2005 Polish parliamentary election (Sejm)",
+    "date": "2005-09-25",
+    "role_sought": "Member of the Sejm, Gdańsk constituency (no. 25), Civic Platform list",
+    "result": "Elected; PO came second",
+    "vote_share": "79,237 votes (22.75%)",
+    "opponent": "Law and Justice (PiS)",
+    "detail": "PiS won the election with 26.99% to PO's 24.14%, and planned PO–PiS coalition talks collapsed; PO went into opposition.",
+    "source_url": [
+      "https://api.sejm.gov.pl/sejm/term5/MP/393",
+      "https://wybory2005.pkw.gov.pl/",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2005-president-r1",
+    "election": "2005 Polish presidential election, first round",
+    "date": "2005-10-09",
+    "role_sought": "President of the Republic of Poland",
+    "result": "First place; advanced to the run-off",
+    "vote_share": "5,429,666 votes (36.33%)",
+    "opponent": "Lech Kaczyński (PiS)",
+    "detail": "Tusk led the first round ahead of Lech Kaczyński.",
+    "source_url": [
+      "https://prezydent2005.pkw.gov.pl/",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2005-president-r2",
+    "election": "2005 Polish presidential election, second round",
+    "date": "2005-10-23",
+    "role_sought": "President of the Republic of Poland",
+    "result": "Lost",
+    "vote_share": "7,022,319 votes (45.96%)",
+    "opponent": "Lech Kaczyński (PiS), 8,257,468 votes (54.04%)",
+    "detail": "Turnout was about 51%. The campaign featured a controversy over a claim by PiS politician Jacek Kurski that Tusk's grandfather had volunteered for the Wehrmacht; according to the record cited by Polish Wikipedia, he had been conscripted in 1944 as a resident of the annexed Free City of Danzig.",
+    "source_url": [
+      "https://prezydent2005.pkw.gov.pl/PZT/PL/WYN/W/index.htm",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2007-sejm",
+    "election": "2007 Polish parliamentary election (Sejm)",
+    "date": "2007-10-21",
+    "role_sought": "Member of the Sejm, Warsaw constituency (no. 19), and PO candidate for Prime Minister",
+    "result": "Elected; PO won the election",
+    "vote_share": "534,241 personal votes (46.62%); PO 41.51% nationally",
+    "opponent": "Law and Justice (PiS), 32.11%",
+    "detail": "The early election ended the PiS-led government; Tusk formed a PO–PSL coalition and became Prime Minister on 16 November 2007.",
+    "source_url": [
+      "https://api.sejm.gov.pl/sejm/term6/MP/396",
+      "https://wybory2007.pkw.gov.pl/SJM/PL/WYN/W/index.htm"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2011-sejm",
+    "election": "2011 Polish parliamentary election (Sejm)",
+    "date": "2011-10-09",
+    "role_sought": "Member of the Sejm, Warsaw constituency (no. 19), and PO candidate for Prime Minister",
+    "result": "Elected; PO won the election",
+    "vote_share": "374,920 personal votes (36.84%); PO 39.18% nationally (207 seats)",
+    "opponent": "Law and Justice (PiS), 29.89% (157 seats)",
+    "detail": "PO became the first ruling party re-elected since 1989, and Tusk the first re-elected Prime Minister; the PO–PSL coalition continued.",
+    "source_url": [
+      "https://wybory2011.pkw.gov.pl/wsw/pl/000000.html",
+      "https://api.sejm.gov.pl/sejm/term7/MP/406"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2014-european-council",
+    "election": "Election of the President of the European Council",
+    "date": "2014-08-30",
+    "role_sought": "President of the European Council",
+    "result": "Elected (unanimously)",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Chosen by EU heads of state or government at a special European Council meeting; took office on 1 December 2014.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Donald_Tusk",
+      "https://www.gov.pl/web/premier/donald-tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2017-european-council",
+    "election": "Re-election of the President of the European Council",
+    "date": "2017-03-09",
+    "role_sought": "President of the European Council (second term)",
+    "result": "Re-elected",
+    "vote_share": "27 of 28 member states",
+    "opponent": "Jacek Saryusz-Wolski (nominated by Poland's PiS government)",
+    "detail": "Poland's own government opposed his re-election and was the only member state to vote against.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Donald_Tusk",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2019-epp",
+    "election": "EPP Congress, Zagreb — election of the party president",
+    "date": "2019-11-20",
+    "role_sought": "President of the European People's Party",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Took office on 1 December 2019, the day after his European Council term ended.",
+    "source_url": [
+      "https://pl.wikipedia.org/wiki/Donald_Tusk",
+      "https://www.gov.pl/web/premier/donald-tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2021-po-leadership",
+    "election": "Civic Platform leadership election",
+    "date": "2021-10",
+    "role_sought": "Chairman of Civic Platform",
+    "result": "Elected",
+    "vote_share": "about 97% of votes cast",
+    "opponent": "",
+    "detail": "Confirmed as PO leader after returning to Polish politics in July 2021 as acting chairman.",
+    "source_url": [
+      "https://koalicjaobywatelska.pl/ludzie/donald-tusk/",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2023-sejm",
+    "election": "2023 Polish parliamentary election (Sejm)",
+    "date": "2023-10-15",
+    "role_sought": "Member of the Sejm, Warsaw constituency (no. 19), heading the Civic Coalition (KO) list",
+    "result": "Elected; KO second, opposition coalition won a majority",
+    "vote_share": "538,634 personal votes (31.41%); KO 30.70% nationally (157 seats)",
+    "opponent": "Law and Justice (PiS), 35.38% (194 seats)",
+    "detail": "PiS came first but lost its majority; KO, Third Way and The Left together won 248 of 460 seats and formed a government under Tusk.",
+    "source_url": [
+      "https://api.sejm.gov.pl/sejm/term10/MP/400",
+      "https://sejmsenat2023.pkw.gov.pl/sejmsenat2023/pl/wyniki/sejm/pl",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2023-pm-vote",
+    "election": "Sejm vote electing the Prime Minister (Article 154(3) of the Constitution)",
+    "date": "2023-12-11",
+    "role_sought": "Prime Minister of Poland",
+    "result": "Elected",
+    "vote_share": "248 for, 201 against, 10 abstentions",
+    "opponent": "",
+    "detail": "Held the same day Mateusz Morawiecki's government lost its confidence vote; the Sejm approved Tusk's cabinet on 12 December and it was sworn in on 13 December 2023.",
+    "source_url": [
+      "https://notesfrompoland.com/2023/12/11/tusk-picked-as-polands-new-prime-minister-by-parliament/",
+      "https://pl.wikipedia.org/wiki/Trzeci_rz%C4%85d_Donalda_Tuska"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2025-confidence-vote",
+    "election": "Sejm vote of confidence in the Tusk government",
+    "date": "2025-06-11",
+    "role_sought": "Prime Minister (confidence vote requested by the government)",
+    "result": "Won",
+    "vote_share": "243 for, 210 against, 7 abstentions",
+    "opponent": "",
+    "detail": "Tusk sought the vote after his coalition's candidate Rafał Trzaskowski lost the June 2025 presidential run-off to Karol Nawrocki.",
+    "source_url": [
+      "https://pl.wikipedia.org/wiki/Trzeci_rz%C4%85d_Donalda_Tuska",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-el-2026-ko-leadership",
+    "election": "Civic Coalition (KO) party leadership vote",
+    "date": "2026-03",
+    "role_sought": "Chairman of the Civic Coalition party",
+    "result": "Elected (sole candidate)",
+    "vote_share": "97% (16,316 for, 379 against; turnout 78%)",
+    "opponent": "",
+    "detail": "First leadership vote of the KO party formed in October 2025 from PO, Nowoczesna and Inicjatywa Polska; results announced on 9 March 2026.",
+    "source_url": [
+      "https://www.bankier.pl/wiadomosc/Donald-Tusk-zostal-wybrany-na-przewodniczacego-Koalicji-Obywatelskiej-9095066.html"
+    ]
+  }
+]

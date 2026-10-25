@@ -1,0 +1,19 @@
+{
+  "name": "Emmanuel Macron",
+  "country": "France",
+  "country_code": "FR",
+  "office": "head_of_state",
+  "role": "President of the French Republic",
+  "content_lang": "en",
+  "party": "Renaissance",
+  "birth_date": "1977-12-21",
+  "bio": "President of France since 2017, re-elected in 2022. Founder of the centrist movement now known as Renaissance.",
+  "portrait": {
+    "file": "macron.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_%28cropped%29.jpg",
+    "author": "gov.si Nebojša Tejić",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "retrieved": "2026-10-22"
+  }
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "robert-fico-edu-gymnazium",
+    "institution": "Gymnázium Topoľčany",
+    "qualification": "Secondary school leaving certificate (maturita)",
+    "field": "General secondary education",
+    "years": "until 1982",
+    "detail": "Attended the grammar school in his home town of Topoľčany, graduating in 1982.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Robert_Fico"
+    ]
+  },
+  {
+    "id": "robert-fico-edu-comenius-law",
+    "institution": "Faculty of Law, Comenius University in Bratislava (Právnická fakulta Univerzity Komenského)",
+    "qualification": "Law degree (JUDr.)",
+    "field": "Law (criminal law)",
+    "years": "1982–1986",
+    "detail": "Graduated in law in 1986, specialising in criminal law and human rights according to TASR.",
+    "source_url": [
+      "https://www.teraz.sk/nrsr-a-vlada-profily/profil-predsedu-vlady-sr-fica/188424-clanok.html",
+      "https://www.noviny.sk/slovensko/124947-profil-robert-fico-49-bojuje-o-post-prezidenta-sr",
+      "https://en.wikipedia.org/wiki/Robert_Fico"
+    ]
+  },
+  {
+    "id": "robert-fico-edu-judicial-exam",
+    "institution": "Judicial practice and judicial examinations (Slovak justice system)",
+    "qualification": "Judicial examination (qualification to serve as a judge)",
+    "field": "Law",
+    "years": "1987–1988",
+    "detail": "According to TASR he completed judicial practice and the judicial examinations, which qualify a candidate for the office of judge, in 1987–1988.",
+    "source_url": [
+      "https://www.teraz.sk/nrsr-a-vlada-profily/profil-predsedu-vlady-sr-fica/188424-clanok.html"
+    ]
+  },
+  {
+    "id": "robert-fico-edu-sav",
+    "institution": "Institute of State and Law, Slovak Academy of Sciences (Ústav štátu a práva SAV)",
+    "qualification": "Candidate of Sciences (CSc.); later habilitated as docent (associate professor) in 2002",
+    "field": "Criminal law",
+    "years": "1988–1992",
+    "detail": "Postgraduate study in criminal law leading to the CSc. degree; Wikipedia gives the thesis topic as the death penalty in Czechoslovakia. TASR reports that he habilitated as docent in 2002, without naming the awarding institution.",
+    "source_url": [
+      "https://www.teraz.sk/nrsr-a-vlada-profily/profil-predsedu-vlady-sr-fica/188424-clanok.html",
+      "https://en.wikipedia.org/wiki/Robert_Fico"
+    ]
+  }
+]

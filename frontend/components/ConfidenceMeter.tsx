@@ -1,11 +1,17 @@
 interface ConfidenceMeterProps {
   score: number;
+  /** "Confidence" in the active locale. */
+  label: string;
+  /** The score as a locale-formatted percentage (e.g. "85 %"). */
+  valueLabel: string;
   size?: "sm" | "lg";
 }
 
 /** A horizontal bar conveying how confident the verdict is (0-1). */
 export default function ConfidenceMeter({
   score,
+  label,
+  valueLabel,
   size = "sm",
 }: ConfidenceMeterProps) {
   const pct = Math.round(Math.max(0, Math.min(1, score)) * 100);
@@ -19,14 +25,14 @@ export default function ConfidenceMeter({
             size === "lg" ? "text-xs font-semibold" : "text-[10px] font-medium"
           }`}
         >
-          Confidence
+          {label}
         </span>
         <span
           className={`tabular-nums font-semibold text-slate-700 ${
             size === "lg" ? "text-sm" : "text-xs"
           }`}
         >
-          {pct}%
+          {valueLabel}
         </span>
       </div>
       <div className={`w-full rounded-full bg-slate-200 ${height}`}>

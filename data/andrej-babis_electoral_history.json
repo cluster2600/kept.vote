@@ -1,0 +1,71 @@
+[
+  {
+    "id": "andrej-babis-election-2013-chamber",
+    "election": "2013 Czech Chamber of Deputies election",
+    "date": "2013-10-26",
+    "role_sought": "Member of the Chamber of Deputies (ANO list leader, Prague)",
+    "result": "Elected; ANO second nationally (47 seats)",
+    "vote_share": "ANO 18.65% (927,240 votes); Babiš 18,955 preference votes (19.62% of ANO's Prague vote)",
+    "opponent": "ČSSD (20.45%) came first",
+    "detail": "First election contested by ANO; led to the ČSSD–ANO–KDU-ČSL coalition in which Babiš became Finance Minister. Voting held 25–26 October 2013.",
+    "source_url": [
+      "https://www.volby.cz/pls/ps2013/ps2?xjazyk=CZ",
+      "https://www.volby.cz/pls/ps2013/ps111?xjazyk=CZ&xkraj=1&xstrana=20&xv=1&xt=2"
+    ]
+  },
+  {
+    "id": "andrej-babis-election-2017-chamber",
+    "election": "2017 Czech Chamber of Deputies election",
+    "date": "2017-10-21",
+    "role_sought": "Member of the Chamber of Deputies (ANO list leader, Central Bohemian Region); prime-ministerial candidate",
+    "result": "Elected; ANO first (78 seats)",
+    "vote_share": "ANO 29.64% (1,500,113 votes); Babiš 48,645 preference votes",
+    "opponent": "ODS second with 11.32%",
+    "detail": "Voting held 20–21 October 2017; Babiš received the most preference votes of any elected candidate and was appointed Prime Minister on 6 December 2017.",
+    "source_url": [
+      "https://www.volby.cz/pls/ps2017/ps2?xjazyk=CZ",
+      "https://www.volby.cz/pls/ps2017/ps111?xjazyk=CZ&xkraj=2&xstrana=21&xv=1&xt=2"
+    ]
+  },
+  {
+    "id": "andrej-babis-election-2021-chamber",
+    "election": "2021 Czech Chamber of Deputies election",
+    "date": "2021-10-09",
+    "role_sought": "Member of the Chamber of Deputies (ANO list leader, Ústí nad Labem Region); re-election as Prime Minister",
+    "result": "Elected as MP; ANO won most seats (72) but lost power",
+    "vote_share": "ANO 27.12% (1,458,140 votes); Babiš 38,277 preference votes",
+    "opponent": "SPOLU coalition (ODS, KDU-ČSL, TOP 09) 27.79%; Pirates and Mayors (PirStan)",
+    "detail": "Voting held 8–9 October 2021. SPOLU and PirStan formed a majority government under Petr Fiala; Babiš became leader of the opposition.",
+    "source_url": [
+      "https://www.volby.cz/pls/ps2021/ps2?xjazyk=CZ",
+      "https://www.volby.cz/pls/ps2021/ps111?xjazyk=CZ&xkraj=6&xstrana=20&xv=1&xt=2"
+    ]
+  },
+  {
+    "id": "andrej-babis-election-2023-president",
+    "election": "2023 Czech presidential election",
+    "date": "2023-01-28",
+    "role_sought": "President of the Czech Republic",
+    "result": "Lost in the second round",
+    "vote_share": "First round (13–14 Jan 2023): 1,952,213 votes (34.99%); second round (27–28 Jan 2023): 2,400,046 votes (41.67%)",
+    "opponent": "Petr Pavel (elected with 3,359,151 votes, 58.32%)",
+    "detail": "Nominated by deputies; he finished second in the first round behind Petr Pavel (35.40%) and lost the run-off.",
+    "source_url": [
+      "https://www.volby.cz/pls/prez2023/pe2?xjazyk=CZ"
+    ]
+  },
+  {
+    "id": "andrej-babis-election-2025-chamber",
+    "election": "2025 Czech Chamber of Deputies election",
+    "date": "2025-10-04",
+    "role_sought": "Member of the Chamber of Deputies (ANO list leader, Moravian-Silesian Region); prime-ministerial candidate",
+    "result": "Elected; ANO first (80 seats)",
+    "vote_share": "ANO 34.51% (1,940,507 votes); Babiš 72,119 preference votes (26.50% of ANO's regional vote)",
+    "opponent": "SPOLU coalition (ODS, KDU-ČSL, TOP 09) led by Petr Fiala, second with 23.36% (52 seats)",
+    "detail": "Voting held 3–4 October 2025. ANO formed a coalition with SPD and Motoristé sobě (108 of 200 seats); Babiš was appointed Prime Minister on 9 December 2025.",
+    "source_url": [
+      "https://volby.gov.cz/appdata/ps2025/odata/vysledky.xml",
+      "https://www.volby.cz/opendata/ps2025/ps2025_opendata.htm"
+    ]
+  }
+]

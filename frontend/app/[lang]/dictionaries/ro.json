@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "kept.vote – monitorizarea promisiunilor politice",
+    "description": "Un instrument nepartizan de monitorizare a promisiunilor politice: care au fost respectate, care au fost încălcate și care sunt încă în curs – cu surse."
+  },
+  "header": {
+    "home": "kept.vote – pagina principală",
+    "politicians": "Politicieni",
+    "methodology": "Metodologie",
+    "language": "Limbă"
+  },
+  "footer": {
+    "methodologyTitle": "Metodologie",
+    "methodologyBody": "Fiecare promisiune este evaluată pe baza surselor primare – legi, documente oficiale și date guvernamentale – și primește un statut: {kept}, {broken}, {inProgress} sau {noAction}. Un scor de încredere reflectă soliditatea dovezilor disponibile. Fiecare verdict trimite la sursele sale, astfel încât oricine să poată verifica faptele.",
+    "tagline": "kept.vote – un instrument nepartizan de monitorizare a promisiunilor. Prototip."
+  },
+  "home": {
+    "eyebrow": "Monitorizarea promisiunilor",
+    "title": "Și-au ținut cuvântul?",
+    "intro": "kept.vote compară ceea ce au promis politicienii cu ceea ce au făcut în realitate – promisiuni respectate, încălcate sau încă în curs –, iar fiecare verdict se bazează pe surse primare.",
+    "stats": {
+      "politicians": "Politicieni",
+      "promises": "Promisiuni monitorizate",
+      "verified": "Verificate"
+    },
+    "politiciansHeading": "Politicieni",
+    "countryFilterLabel": "Filtrare după țară",
+    "mapLabel": "Hartă: alegeți o țară",
+    "mapCovered": "Acoperit",
+    "mapNotCovered": "Încă neacoperit",
+    "allCountries": "Toate țările",
+    "otherCountry": "Alte țări",
+    "politicianCount": {
+      "one": "{count} politician",
+      "few": "{count} politicieni",
+      "other": "{count} de politicieni"
+    },
+    "promiseCount": {
+      "one": "{count} promisiune",
+      "few": "{count} promisiuni",
+      "other": "{count} de promisiuni"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Nicio promisiune verificată deocamdată",
+    "viewDossier": "Vedeți dosarul",
+    "noneInCountry": "Încă nu este monitorizat niciun politician din această țară.",
+    "emptyState": "Nu există încă politicieni. Rulați scriptul de inițializare pentru a încărca datele demonstrative:",
+    "connectionErrorTitle": "Datele nu au putut fi încărcate.",
+    "connectionErrorBody": "Baza de date nu a răspuns. Vă rugăm să încercați din nou în câteva momente."
+  },
+  "office": {
+    "head_of_state": "Șef de stat",
+    "head_of_government": "Șef de guvern",
+    "minister": "Ministru",
+    "legislator": "Parlamentar",
+    "mayor": "Primar",
+    "regional_executive": "Executiv regional",
+    "party_leader": "Lider de partid",
+    "judge": "Judecător",
+    "other": "Altă funcție"
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "body": "Nu am găsit ceea ce căutați.",
+    "back": "Înapoi la politicieni"
+  },
+  "politician": {
+    "back": "← Toți politicienii",
+    "trackRecord": "Bilanțul promisiunilor",
+    "contentLanguage": "Profil redactat în {language}",
+    "photoCredit": "Fotografie: {author}, {license}, prin {source}",
+    "tabsLabel": "Secțiunile profilului",
+    "tabs": {
+      "promises": "Promisiuni",
+      "background": "Parcurs",
+      "finances": "Avere",
+      "justice": "Justiție",
+      "controversies": "Controverse",
+      "sources": "Surse"
+    },
+    "background": {
+      "electoral": "Istoric electoral",
+      "work": "Parcurs profesional",
+      "education": "Studii",
+      "legislation": "Principalele acte legislative",
+      "honors": "Decorații și distincții"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Sumele sunt reproduse așa cum au fost declarate; majoritatea provin din declarațiile oficiale depuse la {hatvp} (Înalta Autoritate pentru Transparența Vieții Publice) din Franța. Formulări precum „declarat” sau „aprox.” reflectă sursa și sunt redate nemodificat.",
+      "switzerland": "Elveția nu are un regim public de declarare a averii pentru titularii de funcții publice, astfel încât sumele apar doar acolo unde au fost făcute publice. Mandatele și interesele provin din registrul de interese al Parlamentului și de la Lobbywatch. Formulări precum „declarat” sau „aprox.” reflectă sursa și sunt redate nemodificat.",
+      "default": "Sumele sunt reproduse așa cum au fost declarate, pe baza declarațiilor publice oficiale, acolo unde țara le publică; în caz contrar, această secțiune rămâne goală. Formulări precum „declarat” sau „aprox.” reflectă sursa și sunt redate nemodificat."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Avere netă",
+      "assets": "Bunuri",
+      "income": "Venituri",
+      "real_estate": "Bunuri imobile"
+    },
+    "netWorthTimeline": "Evoluția averii nete",
+    "stocks": "Titluri de valoare și acțiuni",
+    "realEstate": "Bunuri imobile",
+    "companies": "Companii și participații",
+    "interests": "Declarație de interese",
+    "asOf": "la data de {date}",
+    "declarationStatus": "Statutul declarației"
+  },
+  "status": {
+    "fulfilled": "Respectată",
+    "broken": "Încălcată",
+    "in_progress": "În curs",
+    "compromise": "Compromis",
+    "no_action": "Nicio acțiune",
+    "unverified": "Neverificată"
+  },
+  "legalStatus": {
+    "no_charges": "Fără acuzații",
+    "ongoing": "În desfășurare",
+    "concluded": "Caz închis",
+    "in_court": "În instanță",
+    "political": "Politic",
+    "victim": "Victimă",
+    "under_investigation": "Anchetă în curs",
+    "awaiting_trial": "În așteptarea judecății",
+    "party_matter": "Chestiune internă de partid",
+    "no_proceedings": "Fără proceduri judiciare",
+    "conviction": "Condamnare",
+    "noted": "Consemnat",
+    "unknown": "Nespecificat",
+    "appeal_pending": "Apel în curs",
+    "convicted": "Condamnare",
+    "acquitted": "Achitare",
+    "dismissed": "Clasare",
+    "settled": "Acord extrajudiciar"
+  },
+  "assetStatus": {
+    "declared": "Declarat",
+    "estimated": "Estimat",
+    "historical": "Istoric",
+    "divested": "Înstrăinat",
+    "none": "Nimic declarat"
+  },
+  "justice": {
+    "intro": "Fiecare înregistrare documentează o cauză judiciară și situația sa juridică actuală. Anchetele și cauzele aflate pe rol nu reprezintă o constatare a vinovăției; prezumția de nevinovăție se aplică până la pronunțarea unei hotărâri judecătorești definitive.",
+    "outcome": "Soluție:",
+    "keyFacts": "Fapte esențiale"
+  },
+  "polemics": {
+    "intro": "Fiecare înregistrare rezumă o controversă documentată public și indică situația sa juridică sau politică actuală. Descrierile sunt factuale și neutre; o acuzație nu reprezintă o constatare a vinovăției.",
+    "statusLine": "Statut juridic/politic:",
+    "keyFacts": "Fapte esențiale"
+  },
+  "legislation": {
+    "significance": "Importanță:"
+  },
+  "honors": {
+    "exOfficio": "Din oficiu"
+  },
+  "electoral": {
+    "versus": "vs. {opponent}"
+  },
+  "dates": {
+    "present": "prezent"
+  },
+  "sources": {
+    "title": "Surse și referințe",
+    "summary": "Pe baza a {sources} din {domains}",
+    "sourceCount": {
+      "one": "{count} sursă",
+      "few": "{count} surse",
+      "other": "{count} de surse"
+    },
+    "domainCount": {
+      "one": "{count} domeniu",
+      "few": "{count} domenii",
+      "other": "{count} de domenii"
+    },
+    "methodologyLabel": "Metodologie.",
+    "methodologySources": {
+      "france": "Datele sunt compilate din surse oficiale – declarațiile de avere depuse la HATVP, INSEE, Légifrance și site-uri guvernamentale –, precum și din presa de referință.",
+      "switzerland": "Datele sunt compilate din surse oficiale – registrul de interese al Adunării Federale, parlament.ch și site-urile autorităților federale, cantonale și municipale –, precum și de la Lobbywatch și din presa de referință.",
+      "default": "Datele sunt compilate din surse oficiale – documente parlamentare și guvernamentale, monitoare oficiale și declarații publice, acolo unde țara le publică –, precum și din presa de referință."
+    },
+    "methodologyStatuses": "Statutele reflectă rezultate verificabile la data menționată; acuzațiile sunt semnalate ca atare, iar situația lor juridică este indicată.",
+    "otherDomain": "altele",
+    "sections": {
+      "promises": "Promisiuni",
+      "work_history": "Parcurs profesional",
+      "finances": "Avere",
+      "stocks": "Acțiuni",
+      "real_estate": "Imobile",
+      "companies": "Companii",
+      "controversies": "Controverse",
+      "electoral_history": "Alegeri",
+      "interests": "Interese",
+      "education": "Studii",
+      "honors": "Distincții",
+      "key_legislation": "Legislație",
+      "net_worth": "Avere netă",
+      "justice": "Justiție"
+    },
+    "linkLabel": {
+      "one": "Sursă:",
+      "few": "Surse:",
+      "other": "Surse:"
+    }
+  },
+  "promises": {
+    "all": "Toate",
+    "otherCategory": "Altele",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Nicio promisiune monitorizată",
+    "emptyBody": "Nu sunt încă monitorizate promisiuni electorale sau programatice pentru {name}. Activitatea sa este documentată în secțiunile {background}, {legislation} și {controversies}.",
+    "contextLabel": "Context.",
+    "campaignOnly": "{name} nu a ocupat funcții executive. Acestea sunt promisiuni de campanie, nu politici puse în aplicare, astfel încât fiecare este înregistrată cu statutul „{noAction}”, și nu ca respectată sau încălcată.",
+    "promised": "Promisiune din {date}",
+    "confidenceValue": "Încredere: {value}",
+    "filterLabel": "Filtrați promisiunile după statut"
+  },
+  "promise": {
+    "breadcrumbFallback": "Promisiune",
+    "verdict": "Verdict",
+    "assessment": "Evaluare",
+    "keyEvidence": "Dovezi principale",
+    "sourcesHeading": {
+      "one": "Sursă",
+      "few": "Surse",
+      "other": "Surse"
+    },
+    "primarySource": "Sursă primară",
+    "additionalSource": "Sursă suplimentară",
+    "lastReviewed": "Ultima verificare: {date}",
+    "editoriallyReviewed": "Validat de redacție",
+    "notVerified": "Această promisiune nu a fost încă verificată."
+  },
+  "confidence": {
+    "label": "Încredere"
+  }
+}

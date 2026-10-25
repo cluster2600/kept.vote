@@ -1,0 +1,231 @@
+[
+  {
+    "id": "luis-montenegro-promise-irc-15",
+    "title": "Cut corporate income tax (IRC) from 21% to 15% by the end of the legislature",
+    "description": "The programme of the first Montenegro government, restated in the 'Acelerar a Economia' package approved by the Council of Ministers on 4 July 2024, planned to lower the general IRC rate by two percentage points a year until it reached 15% at the end of the legislature, presented as a way to raise investment and wages.",
+    "date_made": "2024-07-04",
+    "category": "Economy / taxation",
+    "status": "compromise",
+    "confidence_score": 0.85,
+    "reasoning": "The cut has been legislated but in a smaller form than promised. Lacking a majority, the government obtained a one-point cut to 20% for 2025, and in September 2025 parliament approved, with Chega's votes, its bill to reduce the rate to 19% in 2026, 18% in 2027 and 17% in 2028, which President Marcelo Rebelo de Sousa promulgated on 3 November 2025. The 15% general rate was replaced by a 17% target; only the first €50,000 of taxable profit of small and mid-sized companies is taxed at 15% from 2026.",
+    "key_evidence": [
+      "CNN Portugal/Lusa, 4 July 2024: IRC to fall two points a year to 15% by the end of the legislature, as provided in the government programme",
+      "ECO, 19 September 2025: bill for 19% (2026), 18% (2027) and 17% (2028) approved in principle with votes from PSD, Chega, IL, CDS, PAN and JPP; PS, PCP and Livre against; estimated cost about €300 million a year",
+      "Sábado/Lusa, 3 November 2025: President promulgated the reduction from the current 20% to 17% in 2028; final vote on 17 October 2025"
+    ],
+    "source_url": [
+      "https://cnnportugal.iol.pt/governo/taxa-de-irc/governo-aprova-reducao-gradual-da-taxa-de-irc-ate-15/20240704/66869c49d34e04989222b78e",
+      "https://eco.sapo.pt/2025/09/19/descida-do-irc-proposta-pelo-governo-aprovada-no-parlamento-com-a-ajuda-do-chega/",
+      "https://www.sabado.pt/dinheiro/detalhe/pr-promulga-diploma-que-reduz-taxas-gerais-do-irc"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-irs-jovem",
+    "title": "IRS Jovem: cut income tax for under-35s by two thirds, with a maximum rate of 15%",
+    "description": "The AD's flagship youth measure: for taxpayers up to 35, income-tax rates would be cut by two thirds, with a maximum rate of 15% up to the eighth (second-highest) bracket, the top bracket remaining at 48%.",
+    "date_made": "2024",
+    "category": "Taxation / youth",
+    "status": "compromise",
+    "confidence_score": 0.85,
+    "reasoning": "The original model was not adopted. To secure the PS abstention on the 2025 budget, Montenegro announced in October 2024 a reformulated scheme based on the existing exemption: open to everyone up to 35 regardless of education, lasting up to 10 years (he had proposed 13, the PS wanted 7), with exemptions of 100%, 75%, 50% and 25% in successive bands of years, capped at 55 times the social support index (IAS). The 2025 budget containing it passed on 29 November 2024. A youth tax cut was delivered, but not in the promised 15%-maximum-rate form.",
+    "key_evidence": [
+      "Observador, 4 October 2024: the government's initial proposal cut rates by two thirds with a 15% maximum rate up to the eighth bracket; the new model extends the existing exemption to age 35 and to all young people",
+      "Observador: the budget proposal sets a maximum duration of 10 years, between the 13 years announced by the Prime Minister and the 7 years sought by the PS",
+      "RTP, 29 November 2024: 2025 State Budget approved in the final vote with the PS abstaining"
+    ],
+    "source_url": [
+      "https://observador.pt/especiais/simulacoes-irs-jovem-da-ad-e-o-novo-modelo-de-montenegro-no-final-vai-dar-praticamente-ao-mesmo/",
+      "https://observador.pt/especiais/simulacoes-apos-avancos-e-recuos-quanto-vao-afinal-os-jovens-poupar-no-irs-em-2025/",
+      "https://www.rtp.pt/noticias/economia/orcamento-do-estado-para-2025-aprovado-em-votacao-final-global-com-abstencao-do-ps_e1618224"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-minimum-wage-1100",
+    "title": "Raise the national minimum wage to €1,100 a month by 2029",
+    "description": "After the May 2025 election, the programme of the XXV Government set a target of €1,100 gross a month for the guaranteed minimum wage (RMMG) by 2029, above the €1,020 by 2028 agreed with employers and the UGT union confederation in October 2024.",
+    "date_made": "2025-06",
+    "category": "Labour / wages",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The minimum wage rose from €820 to €870 in 2025 and to €920 on 1 January 2026, by decree published on 29 December 2025 in execution of the 2025–2028 social-concertation agreement. The agreed path of about €50 a year leads to €1,020 in 2028, so reaching €1,100 in 2029 requires a larger final increase; the target is not yet due.",
+    "key_evidence": [
+      "Renascença/Lusa, 29 December 2025: decree setting the minimum wage at €920 from 1 January 2026 (+5.7%) published in the Diário da República",
+      "The October 2024 agreement between the government, the four employers' confederations and the UGT foresees €50 annual increases to €1,020 in 2028",
+      "The XXV Government's programme set a new target of €1,100 gross a month in 2029"
+    ],
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/governo/programa-do-governo",
+      "https://rr.pt/noticia/economia/2025/12/29/agora-e-oficial-subida-do-salario-minimo-para-920-euros-em-2026-publicada-em-diario-da-republica/453287/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-teachers-service-time",
+    "title": "Restore teachers' frozen service time (6 years, 6 months and 23 days)",
+    "description": "A central 2024 campaign pledge: recover, over the legislature, the 6 years, 6 months and 23 days of career time frozen for state-school teachers, which previous governments had refused to restore in full.",
+    "date_made": "2024",
+    "category": "Education / public sector",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "In May 2024 the government improved its offer after negotiations with the unions: 25% of the time returned in September 2024 and 25% in 2025, with the rest phased in; the final calendar fixed in 2024 ends with a last 25% tranche on 1 July 2027. The 2027 budget proposal (October 2026) includes the fourth and last tranche and no measure blocking teachers' career progression. Restoration is on schedule but not complete.",
+    "key_evidence": [
+      "Observador, 13 May 2024: the government agrees to return 25% of the frozen time in September 2024 and 25% in 2025, keeping a five-year horizon criticised by unions",
+      "DN, 8 October 2026: the OE2027 proposal accommodates the fourth and final tranche; on 1 July 2027 teachers receive the final 25%, completing the multi-year calendar fixed in 2024"
+    ],
+    "source_url": [
+      "https://observador.pt/especiais/governo-cede-e-professores-recuperam-metade-do-tempo-de-servico-em-dois-anos-sindicatos-contra-calendario-ate-2028/",
+      "https://www.dn.pt/economia/oe2027-fim-do-travo-oramental-progresso-na-carreira-dos-professores"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-family-doctor",
+    "title": "Give every user timely family-doctor care by the end of 2025 and a family doctor for all",
+    "description": "The programme of the XXIV Government provided for ensuring, by the end of 2025, timely general-practice consultations for all National Health Service (SNS) users and for assigning a family doctor to every resident, starting with the most vulnerable; the Health Emergency and Transformation Plan (May 2024) set out the measures.",
+    "date_made": "2024-04",
+    "category": "Health",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "The deadline has passed and the gap has not closed. More than 1.6 million registered users had no family doctor in early 2026, the fourth consecutive monthly rise (Observador). After a reclassification of the national user register in 2026, coverage stood at 87%, with about 1.36 million users awaiting a doctor. The SNS reference framework for 2026–2028, published nine months late, keeps coverage at 85.37% until 2028, the 2024 level, and the health minister and the SNS executive director had already said it would not be possible to give every user a family doctor by 2027 (ECO).",
+    "key_evidence": [
+      "RTP, April 2024: the government programme provides for timely GP consultations for all users by the end of 2025 and a family doctor for everyone, starting with the most vulnerable",
+      "Observador, 2 March 2026: users without a family doctor above 1.6 million, the fourth consecutive monthly increase",
+      "DN, 2026: register reclassified at 10.77 million users, 87% with a family doctor",
+      "ECO, 5 September 2026: 2026–2028 framework foresees 85.37% coverage in 2028, the same as 2024, against an earlier 98% goal for 2026"
+    ],
+    "source_url": [
+      "https://www.rtp.pt/noticias/economia/executivo-quer-consulta-com-medico-de-familia-em-tempo-util-para-todos-ate-2025_n1563272",
+      "https://portugal.gov.pt/gc24/comunicacao/noticias/plano-de-emergencia-e-transformacao-na-saude-conheca-as-principais-medidas",
+      "https://observador.pt/2026/03/02/numero-de-utentes-sem-medico-volta-a-subir-e-ultrapassa-barreira-dos-16-milhoes-e-o-quarto-aumento-mensal-consecutivo/",
+      "https://www.dn.pt/sociedade/sns-com-1077-milhes-de-utentes-inscritos-cobertura-de-mdico-de-famlia-de-87",
+      "https://eco.sapo.pt/2026/09/05/cerca-de-15-dos-utentes-do-sns-sem-medico-de-familia-ate-2028/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-lisbon-airport",
+    "title": "Decide the location of the new Lisbon airport and move ahead with it, even without the PS",
+    "description": "In the 2024 campaign Montenegro promised to move ahead with the new Lisbon airport even without a consensus with the PS, and said the concessionaire ANA was 'in default with the country'.",
+    "date_made": "2024-02-20",
+    "category": "Infrastructure",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The decision was taken: on 14 May 2024 the Council of Ministers chose the Alcochete shooting range (Campo de Tiro de Alcochete), as recommended by the independent technical commission, for the 'Luís de Camões' airport, to replace Humberto Delgado airport entirely. The project is in the licensing and planning phase with ANA; in February 2026 the government imposed preventive land-use restrictions over about 71,000 hectares in seven municipalities around the site. Construction has not started.",
+    "key_evidence": [
+      "ECO, 20 February 2024: Montenegro promises to move ahead with the new airport even without consensus with the PS",
+      "RTP, 14 May 2024: Alcochete is the government's choice for the new airport",
+      "ECO, 21 February 2026: Council of Ministers resolution sets preventive measures over 71,000 ha in Alcochete, Benavente, Coruche, Montemor-o-Novo, Montijo, Palmela and Vendas Novas"
+    ],
+    "source_url": [
+      "https://eco.sapo.pt/2024/02/20/montenegro-promete-avancar-com-novo-aeroporto-mesmo-sem-consenso-do-ps-a-ana-esta-em-falta-com-o-pais-diz/",
+      "https://www.rtp.pt/noticias/economia/alcochete-e-escolha-do-governo-para-novo-aeroporto_n1571396",
+      "https://eco.sapo.pt/2026/02/21/novo-aeroporto-limita-construcao-em-71-mil-hectares-e-sete-concelhos/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-tap-privatisation",
+    "title": "Privatise TAP Air Portugal, ideally in full",
+    "description": "The PSD has long supported privatising the state-owned airline; as Prime Minister, Montenegro said in October 2024 that 'the ideal is to be able to reach a total privatisation of TAP's capital', provided the strategic routes and the Lisbon hub were secured.",
+    "date_made": "2024-10-08",
+    "category": "Economy / state enterprises",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "A first, partial phase is under way. On 14 October 2026 the Council of Ministers chose Lufthansa to buy 44.9% of TAP plus a 5% tranche reserved for employees, for €1,201 million in total (implying a valuation of €2,407 million), ahead of Air France-KLM. Montenegro wants a second phase selling the remaining 50.1% to Lufthansa by 2028, which would need parliamentary support from PS or Chega. The state keeps a majority for now.",
+    "key_evidence": [
+      "ECO, 8 October 2024: Montenegro says the ideal is a total privatisation of TAP's capital",
+      "ECO, 14 October 2026: Lufthansa wins the privatisation of 49.9% with an offer of €1,201 million; Air France-KLM offered €1,038 million",
+      "ECO, 14 October 2026: the Prime Minister wants to sell the remaining 50.1% to Lufthansa by 2028"
+    ],
+    "source_url": [
+      "https://eco.sapo.pt/2024/10/08/o-ideal-e-podermos-atingir-uma-privatizacao-total-do-capital-da-tap/",
+      "https://www.rtp.pt/noticias/economia/psd-sempre-defendeu-privatizacao-e-ps-e-que-tem-politica-erratica-montenegro_n1471667",
+      "https://eco.sapo.pt/2026/10/14/lufthansa-paga-1-201-milhoes-e-vence-privatizacao-da-tap/",
+      "https://eco.sapo.pt/2026/10/14/montenegro-quer-avancar-para-venda-de-100-da-tap-ate-2028-com-troca-de-participacoes-com-lufthansa/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-immigration-nationality",
+    "title": "Regulate immigration: end the 'manifestação de interesse' route and tighten the foreigners and nationality laws",
+    "description": "In June 2024 the government announced an immigration plan ending the regime that let foreigners enter (for example on a tourist visa) and only then apply for residence; after the 2025 election it made stricter rules on entry, family reunification and access to nationality a priority, dedicating its first Council of Ministers to them.",
+    "date_made": "2024-06-03",
+    "category": "Immigration",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "All three steps were enacted. The 'manifestação de interesse' was ended in June 2024. A first amendment of the foreigners law was found unconstitutional on five points by the Constitutional Court; a revised text approved on 30 September 2025 with Chega's decisive votes was promulgated on 16 October 2025. The nationality law revision, whose first version the Court also found partly unconstitutional, was approved in a second version on 1 April 2026, promulgated by President António José Seguro on 3 May 2026 and entered into force on 19 May 2026, raising the residence requirement from five to seven years for citizens of Portuguese-speaking countries and to ten for others, with PS, Livre, PCP, BE and PAN voting against.",
+    "key_evidence": [
+      "Euronews, 4 June 2024: the government ended the exceptional regime allowing foreigners to enter and then apply for residence",
+      "DN, 16 October 2025: President promulgates the revised foreigners law after the first version was struck down; approved with Chega's support",
+      "RTP, 3 May 2026: President promulgates the decree amending the nationality law but says he wished for broader consensus",
+      "Observador, 18 May 2026: the new nationality law enters into force on Tuesday 19 May"
+    ],
+    "source_url": [
+      "https://www.euronews.com/my-europe/2024/06/04/portugal-toughens-migration-rules-ahead-of-upcoming-eu-elections",
+      "https://www.dn.pt/pol%C3%ADtica/marcelo-promulga-nova-lei-dos-estrangeiros-que-limita-fluxos-de-imigrantes",
+      "https://www.rtp.pt/noticias/politica/presidente-promulga-decreto-que-altera-lei-da-nacionalidade-mas-desejava-maior-consenso_n1738711",
+      "https://observador.pt/2026/05/18/nova-lei-da-nacionalidade-entra-em-vigor-esta-terca-feira/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-young-homebuyers",
+    "title": "Exempt young people from property transfer tax (IMT) and stamp duty on their first home, with a state mortgage guarantee",
+    "description": "A housing pledge for buyers up to 35: no IMT, stamp duty or registration fees on the purchase of a first permanent home, and a public guarantee so that banks can finance the whole purchase.",
+    "date_made": "2024-05",
+    "category": "Housing / youth",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Both measures are in force. The exemption applies from 1 August 2024 to buyers up to 35: full exemption up to €316,772 and partial up to €633,453, and a state guarantee of up to 15% of the price for homes up to €450,000. The October 2026 budget proposal keeps the exemptions and guarantee for 2027 and raises the full-exemption ceiling to €338,141.",
+    "key_evidence": [
+      "ECO, 24 May 2024: the government's package for under-35s includes the IMT exemption and guarantees for home purchases",
+      "RTP: the President promulgated the government decree exempting first-home purchases by young people from IMT and stamp duty",
+      "Observador, 1 August 2024: exemption in force from that day",
+      "CNN Portugal, 8 October 2026: OE2027 raises the IMT Jovem exemption ceiling to €338,000 and keeps the public guarantee"
+    ],
+    "source_url": [
+      "https://eco.sapo.pt/2024/05/24/do-irs-a-isencao-de-imt-e-as-garantias-para-a-compra-de-casa-tudo-o-que-muda-para-os-jovens-ate-aos-35-anos/",
+      "https://www.rtp.pt/noticias/economia/pr-promulga-diploma-do-governo-que-isenta-de-imt-e-is-compra-de-1a-casa-por-jovens_n1581909",
+      "https://observador.pt/2024/08/01/jovens-com-isencao-de-imt-e-imposto-de-selo-na-compra-da-primeira-casa-a-partir-desta-quinta-feira/",
+      "https://cnnportugal.iol.pt/oe2027/orcamento-do-estado-2027/oe2027-isencao-do-imt-jovem-na-compra-de-casa-sobe-2-3-para-338-mil-euros/20261008/6ac7a12ad34e9a786e75b666"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-no-chega-agreement",
+    "title": "No governing agreement with Chega ('não é não')",
+    "description": "On 27 September 2023 Montenegro said: 'I will never make a political governing agreement with Chega', a position summed up as 'não é não' ('no means no') and repeated in the 2024 and 2025 campaigns.",
+    "date_made": "2023-09-27",
+    "category": "Governance / coalitions",
+    "status": "kept",
+    "confidence_score": 0.7,
+    "reasoning": "Both of his governments are PSD/CDS-PP minority governments with no coalition or written governing agreement with Chega, and in late 2024 he said time had proved him right. However, several flagship laws passed only with Chega's votes (the foreigners and nationality laws, the 2025 IRC cut), and opponents such as PS deputy Isabel Moreira say an agreement exists in substance; the PSD denies it. The verdict covers the formal pledge, which has been kept as of October 2026.",
+    "key_evidence": [
+      "RTP, 27 September 2023: Montenegro excludes Chega from any 'acordo político de governação'",
+      "RTP, November 2024: Montenegro says time has proved him right on 'não é não'",
+      "ECO, 19 September 2025: IRC cut approved in principle with Chega's votes",
+      "RTP (Antena 1), 2026: PS deputy Isabel Moreira says the 'não é não' is 'a lie' and that an agreement with Chega is in place on essential matters"
+    ],
+    "source_url": [
+      "https://www.rtp.pt/noticias/politica/montenegro-diz-que-nao-e-nao-e-exclui-chega-de-acordo-politico-de-governacao_a1517035",
+      "https://www.rtp.pt/noticias/mundo/montenegro-diz-que-o-tempo-tem-lhe-dado-razao-sobre-nao-e-nao-ao-chega_n1615371",
+      "https://eco.sapo.pt/2025/09/19/descida-do-irc-proposta-pelo-governo-aprovada-no-parlamento-com-a-ajuda-do-chega/",
+      "https://www.rtp.pt/noticias/politica/socialista-isabel-moreira-da-acordo-entre-psd-e-chega-como-certo-montenegro-enganou-o-seu-eleitorado_a1729394"
+    ]
+  },
+  {
+    "id": "luis-montenegro-promise-defence-2pct",
+    "title": "Reach NATO's target of 2% of GDP on defence in 2025 instead of 2029",
+    "description": "Portugal had committed to reach 2% of GDP on defence by 2029; in June 2025, before the NATO summit in The Hague, the government promised to reach it in 2025 itself, without a supplementary budget or social cuts.",
+    "date_made": "2025-06-23",
+    "category": "Defence",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "NATO's annual report (March 2026) records Portugal at the 2% minimum for the first time in 2025, with spending of a little over €6 billion against €4.4 billion in 2024, though it remains among the five lowest spenders in the alliance. Confidence is not higher because NATO's accounting counts items that are not visible as defence spending in the national budget, and the government has not detailed what it included (Observador).",
+    "key_evidence": [
+      "CNN Portugal, 23 June 2025: Portugal promises to reach 2% this year without a supplementary budget or social cuts",
+      "RTP, March 2026: Portugal reached 2% of GDP on defence in 2025, per NATO's annual report",
+      "ECO, 26 March 2026: historic investment to meet the 2% target",
+      "Observador: almost everything fits in the data sent to NATO; 2024 was 1.58% under NATO criteria"
+    ],
+    "source_url": [
+      "https://cnnportugal.iol.pt/pib/luis-montenegro/portugal-promete-chegar-aos-2-do-pib-ja-este-ano-sem-retificativo-ou-cortes-sociais/20250623/6858fb71d34ef72ee44778f1",
+      "https://www.rtp.pt/noticias/mundo/portugal-atingiu-2-do-pib-em-defesa-mas-esta-entre-paises-da-nato-que-menos-gasta_n1729438",
+      "https://eco.sapo.pt/2026/03/26/portugal-fez-investimento-historico-em-defesa-para-cumprir-meta-de-2-mas-e-dos-que-gasta-menos/",
+      "https://observador.pt/especiais/reforco-das-despesas-com-defesa-para-2-sem-retificativo-cabe-quase-tudo-nos-dados-enviados-a-nato/"
+    ]
+  }
+]

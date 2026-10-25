@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pedro-sanchez-justice-begona-gomez",
+    "case": "Begoña Gómez case: influence peddling and misuse of public funds (Juzgado de Instrucción nº 41 de Madrid)",
+    "period": "2024–2026",
+    "type": "criminal_proceeding_involving_spouse",
+    "description": "Criminal proceedings against Begoña Gómez, the President's wife, opened in April 2024 by Judge Juan Carlos Peinado after a complaint by the association Manos Limpias, concerning her activities as director of a chair (cátedra) at the Universidad Complutense de Madrid, support allegedly given to businessman Juan Carlos Barrabés, and software developed within the chair. Pedro Sánchez is not investigated in this case; he was summoned as a witness and, on 30 July 2024, invoked his legal right not to testify against his spouse. As of October 2026 the case has been sent to a jury trial at the Audiencia Provincial de Madrid on charges of influence peddling (tráfico de influencias) and misuse of public funds (malversación); Cristina Álvarez, an adviser at La Moncloa, is accused of malversación as an alleged necessary cooperator.",
+    "status": "ongoing",
+    "outcome": "No verdict. On 21 September 2026 Judge Peinado issued a new order opening the oral trial before a jury (Tribunal del Jurado) at the Audiencia Provincial de Madrid; no trial date had been set as of October 2026. The public prosecutor and both defences request acquittal; the popular accusation led by HazteOír requests 13 years' imprisonment for Gómez.",
+    "court": "Juzgado de Instrucción nº 41 de Madrid (investigation); Audiencia Provincial de Madrid, Sección 23 (appeals) and jury court (trial)",
+    "presumption_note": "Begoña Gómez and Cristina Álvarez have not been convicted and are presumed innocent; both deny wrongdoing and the public prosecutor is seeking their acquittal. Pedro Sánchez is not a party under investigation; he appears in the case only as a witness. The allegations are those of the private and popular accusations as summarised by the investigating judge and are not established facts.",
+    "key_facts": [
+      "16 April 2024: investigation opened after a complaint by Manos Limpias; it became public on 24 April 2024.",
+      "30 July 2024: Sánchez, summoned as a witness at La Moncloa, declined to testify, as the law allows for a spouse.",
+      "Charges of unlawful professional practice (intrusismo), business corruption and misappropriation (apropiación indebida) were dropped during 2026; on 16 July 2026 the Audiencia Provincial de Madrid confirmed trial only for influence peddling and malversación and separated Barrabés's contracts into another investigation.",
+      "21 September 2026: new order sending Gómez and Álvarez to trial before a jury; Judge Peinado retired on 27 September 2026.",
+      "The public prosecutor and the defences request acquittal; HazteOír requests 13 years for Gómez and 6 years for Álvarez."
+    ],
+    "source_url": [
+      "https://www.infobae.com/espana/2026/09/21/el-juez-peinado-envia-a-begona-gomez-a-juicio-ante-un-jurado-popular-en-la-audiencia-provincial-de-madrid-por-malversacion-y-trafico-de-influencias/",
+      "https://www.elespanol.com/espana/tribunales/20260716/audiencia-madrid-avala-jurado-juzgue-begona-gomez-mujer-sanchez-presuntos-delitos-corrupcion/1003744319470_0.html",
+      "https://www.eldiario.es/politica/juez-peinado-da-ultimo-paso-begona-gomez-sea-juzgada-tribunal-jurado_1_13507684.html",
+      "https://www.elindependiente.com/espana/2024/07/30/sanchez-se-acoge-a-su-derecho-a-no-declarar-en-la-causa-de-begona-gomez/amp/"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-justice-querella-contra-peinado",
+    "case": "Complaint filed on Sánchez's behalf against Judge Juan Carlos Peinado for prevaricación (TSJ de Madrid)",
+    "period": "2024",
+    "type": "complaint_filed_by_sanchez",
+    "description": "On 30 July 2024 the State Attorney's Office (Abogacía del Estado), acting for the President of the Government, filed a criminal complaint (querella) for judicial prevaricación against Judge Juan Carlos Peinado, who was investigating Begoña Gómez, arguing that after Sánchez invoked his right not to testify the judge should have allowed him to give evidence in writing rather than in person; the complaint was extended in August 2024 after the video of the session was shared with the parties. Here Sánchez was the complainant, not the accused.",
+    "status": "dismissed",
+    "outcome": "On 18 October 2024 the Civil and Criminal Chamber of the High Court of Justice of Madrid (TSJ de Madrid) dismissed the complaint, finding that summoning Sánchez in person was not prevaricación because he had been called as Gómez's husband, not as head of government.",
+    "court": "Tribunal Superior de Justicia de Madrid, Sala de lo Civil y Penal",
+    "presumption_note": "Sánchez was the complainant in this proceeding; no charge was brought against anyone. Judge Peinado was not found to have committed any offence.",
+    "key_facts": [
+      "30 July 2024: complaint filed through the Abogacía del Estado, the same day Sánchez declined to testify as a witness.",
+      "Late August 2024: complaint extended after the recording of the session was shared with the parties.",
+      "18 October 2024: complaint dismissed by the TSJ de Madrid.",
+      "The use of the State Attorney's Office prompted separate complaints against Sánchez himself, archived by the Supreme Court on 7 May 2025."
+    ],
+    "source_url": [
+      "https://www.elindependiente.com/espana/2024/10/18/el-tsjm-rechaza-la-querella-de-pedro-sanchez-contra-el-juez-peinado/amp/",
+      "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-archiva-tres-querellas-contra-el-Presidente-del-Gobierno-por-recurrir-a-la-Abogacia-del-Estado-en-su-querella-contra-el-juez-de-Instruccion-numero-41-de-Madrid"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-justice-querellas-abogacia-estado",
+    "case": "Complaints against Sánchez over the use of the State Attorney's Office against Judge Peinado (Tribunal Supremo)",
+    "period": "2024–2025",
+    "type": "criminal_complaint_against_sanchez",
+    "description": "Vox, HazteOír and Iustitia Europa filed criminal complaints against Sánchez (Vox's also named Justice Minister Félix Bolaños and the head of the State Attorney's Office) alleging prevaricación and misuse of public funds for having the State Attorney's Office file a complaint on his behalf against Judge Peinado.",
+    "status": "dismissed",
+    "outcome": "The Criminal Chamber of the Supreme Court archived the three complaints (reported 7 May 2025), finding no indication of an offence: it described the decision to use the State Attorney's Office as legally 'discutible' but neither grossly illegal nor arbitrary.",
+    "court": "Tribunal Supremo, Sala de lo Penal",
+    "presumption_note": "The complaints were not admitted and no investigation was opened against Sánchez. He was never charged.",
+    "key_facts": [
+      "Complainants: Vox, HazteOír and Iustitia Europa.",
+      "Alleged offences: prevaricación and malversación.",
+      "7 May 2025: complaints archived by the Supreme Court's Criminal Chamber."
+    ],
+    "source_url": [
+      "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-archiva-tres-querellas-contra-el-Presidente-del-Gobierno-por-recurrir-a-la-Abogacia-del-Estado-en-su-querella-contra-el-juez-de-Instruccion-numero-41-de-Madrid"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-justice-querellas-dana",
+    "case": "Complaints against Sánchez and six ministers over the October 2024 Valencia floods (DANA) (Tribunal Supremo)",
+    "period": "2024–2025",
+    "type": "criminal_complaint_against_sanchez",
+    "description": "Several associations filed criminal complaints and reports against Sánchez and six ministers, among others, alleging criminal inaction in the response to the deadly floods (DANA) in the province of Valencia on 29 October 2024.",
+    "status": "dismissed",
+    "outcome": "On 31 July 2025 the Supreme Court's Criminal Chamber archived the complaints, holding that they were too abstract and that discretionary policy choices do not by themselves amount to criminal liability. The decision leaves open the possibility for the Catarroja investigating court (Juzgado de Primera Instancia e Instrucción nº 3) to refer qualified evidence against any person with Supreme Court jurisdiction (aforado).",
+    "court": "Tribunal Supremo, Sala de lo Penal",
+    "presumption_note": "No investigation was opened against Sánchez; the complaints were archived for lack of any indication of an offence.",
+    "key_facts": [
+      "The complaints also targeted then Valencian regional president Carlos Mazón and other officials, over whom the Supreme Court declined jurisdiction.",
+      "31 July 2025: complaints against Sánchez and six ministers archived."
+    ],
+    "source_url": [
+      "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/TS-archiva-querellas-y-denuncias-contra-Pedro-Sanchez-y-seis-ministros-por-la-dana-al-no-apreciar-delito"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-justice-querella-vox-revelacion",
+    "case": "Vox complaint alleging Sánchez revealed the Koldo investigation to Ábalos (Tribunal Supremo)",
+    "period": "2025–2026",
+    "type": "criminal_complaint_against_sanchez",
+    "description": "Vox filed a criminal complaint against Sánchez for alleged revelation of secrets, obstruction of justice and concealment (encubrimiento), based on a press report that he had told former minister José Luis Ábalos in September 2023 that the Guardia Civil's UCO was investigating his former adviser Koldo García.",
+    "status": "dismissed",
+    "outcome": "On 21 January 2026 the Supreme Court's Criminal Chamber refused to admit the complaint and archived it, finding that a media report not backed by objective evidence cannot justify a criminal investigation and that admitting it would amount to a prohibited prospective investigation.",
+    "court": "Tribunal Supremo, Sala de lo Penal",
+    "presumption_note": "The complaint was not admitted; Sánchez was never investigated or charged in relation to these allegations.",
+    "key_facts": [
+      "The complaint relied on a press report about a meeting at La Moncloa in September 2023.",
+      "21 January 2026: complaint archived without investigation."
+    ],
+    "source_url": [
+      "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-archiva-la-querella-de-VOX-contra-el-presidente-del-Gobierno-por-presuntos-delitos-de-revelacion-de-secretos--obstruccion-a-la-justicia-y-encubrimiento"
+    ]
+  }
+]

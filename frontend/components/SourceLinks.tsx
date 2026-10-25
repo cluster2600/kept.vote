@@ -1,10 +1,17 @@
+import { plural } from "@/lib/i18n/format";
+import type { I18nProps } from "@/lib/i18n/props";
+
 /** Compact inline list of source links showing each source's hostname. */
-export default function SourceLinks({ urls }: { urls: string[] | null }) {
+export default function SourceLinks({
+  urls,
+  dict,
+  lang,
+}: { urls: string[] | null } & I18nProps) {
   if (!urls || urls.length === 0) return null;
   return (
     <div className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-slate-500">
       <span className="font-medium text-slate-400">
-        {urls.length > 1 ? "Sources:" : "Source:"}
+        {plural(dict.sources.linkLabel, urls.length, lang)}
       </span>
       {urls.map((url, i) => (
         <a

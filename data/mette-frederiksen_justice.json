@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mette-frederiksen-jus-doll-threat-case",
+    "case": "'Doll case' (dukkesagen): threats against the Prime Minister at a 2021 demonstration (Frederiksen as the threatened person)",
+    "period": "January 2021 – January 2025",
+    "type": "criminal case (Frederiksen as the person threatened, injured party)",
+    "description": "At a 'Men in Black' demonstration against COVID-19 restrictions on 23 January 2021, at Forum in Frederiksberg (Copenhagen), three men brought a mannequin bearing a picture of Frederiksen and a sign reading, among other things, 'We must and shall fight the virus… She must and shall be put down!' ('Hun må og skal aflives!'), and hung it from a lamppost by a strap around its neck; it was later set on fire, which they were not accused of. They were arrested, initially also suspected of high treason under section 113 of the Criminal Code (attacks on the government), a suspicion that was dropped, and in August 2021 were charged only with threats against the Prime Minister. They said the sign referred to the culling of mink.",
+    "status": "other",
+    "outcome": "On 14 September 2022 the Frederiksberg District Court acquitted the three men, citing freedom of expression. The Eastern High Court (Østre Landsret) convicted them in spring 2024 and sentenced each to 40 days' imprisonment. On 3 January 2025 the Supreme Court (Højesteret) upheld the conviction and the 40-day unconditional sentence, finding the sign, the mannequin and the circumstances amounted to a death threat; the sentence was considered served by eight weeks of pre-trial detention. One defence lawyer said they would try to bring the case before the European Court of Human Rights.",
+    "court": "Retten på Frederiksberg (district court); Østre Landsret (Eastern High Court); Højesteret (Supreme Court)",
+    "presumption_note": "Frederiksen was the target of the threats, not an accused. The three defendants were convicted with final effect by the Supreme Court on 3 January 2025; any application to the European Court of Human Rights would not reopen the Danish judgment.",
+    "key_facts": [
+      "Demonstration of 23 January 2021; mannequin of the Prime Minister hung from a lamppost",
+      "Acquittal at first instance (14 September 2022), conviction on appeal (2024), upheld by the Supreme Court (3 January 2025)"
+    ],
+    "source_url": [
+      "https://www.dr.dk/nyheder/indland/hoejesteret-stadfaester-dom-i-dukkesag",
+      "https://www.dr.dk/nyheder/indland/hoejforraederi-trusler-og-nu-frifindelse-og-lettelse-i-dukkesag-ikke-meget-rafle-om"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-jus-kultorvet-assault",
+    "case": "Assault on the Prime Minister at Kultorvet, Copenhagen, 7 June 2024 (Frederiksen as injured party)",
+    "period": "June – August 2024",
+    "type": "criminal trial (Frederiksen as the victim, injured party)",
+    "description": "On the evening of 7 June 2024, two days before the European Parliament election, a man struck Frederiksen on her right upper arm with a clenched fist in the Kultorvet square in central Copenhagen; she was taken to hospital and found to have minor whiplash. A 39-year-old Polish national was arrested, charged with violence against a person in public service and remanded in custody; police said the attack did not appear to be politically motivated (BBC).",
+    "status": "other",
+    "outcome": "On 7 August 2024 the Copenhagen City Court, sitting with lay judges, unanimously convicted the man of violence against a public servant and of unrelated offences (including indecent exposure and deposit-return fraud), and sentenced him to four months' unconditional imprisonment and expulsion with a six-year entry ban. The court stressed that he had said he recognised the Prime Minister and that her bodyguard had found him aggressive. He accepted the verdict, so it is final.",
+    "court": "Københavns Byret (Copenhagen City Court); preliminary hearing at Retten på Frederiksberg",
+    "presumption_note": "Frederiksen was the victim in this case, not an accused. The defendant was convicted at first instance and did not appeal, so the judgment is final.",
+    "key_facts": [
+      "Minor whiplash; Frederiksen said she was 'shaken' but fine",
+      "Four months' imprisonment and expulsion with a six-year entry ban (7 August 2024)"
+    ],
+    "source_url": [
+      "https://www.dr.dk/nyheder/indland/polak-doemt-vold-mod-statsminister-mette-frederiksen",
+      "https://nyheder.tv2.dk/krimi/2024-08-07-polsk-mand-faengsles-og-udvises-af-danmark-efter-slag-mod-mette-frederiksen",
+      "https://www.bbc.com/news/articles/cd11kyj11vjo",
+      "https://en.wikipedia.org/wiki/Mette_Frederiksen"
+    ]
+  }
+]
