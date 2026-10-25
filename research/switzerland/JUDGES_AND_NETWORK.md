@@ -171,3 +171,16 @@ The archived **Justitia 4.0 annual report 2025, page 3**, independently corrobor
 Hofmann's steering co-presidency in the reporting period, naming him alongside
 Florian Düblin. It strengthens the existing directly identified role, but does
 not establish its end date or verify a company-board seat, payment or misconduct.
+
+Resumed research on **25 October 2026** adds two historical primary-source
+checkpoints for Hofmann without changing graph identity or creating duplicate
+role edges:
+
+- ASM's **2024 annual report, page 1**, proposes electing Hofmann to its committee,
+  subject to his definitive acceptance. This is a proposal, not proof of election
+  or an exact appointment date. The later published committee page remains the
+  membership evidence.
+- The Federal Supreme Court-hosted **Justitia 4.0 committee composition dated
+  26 November 2025** directly identifies Hofmann as steering co-president and
+  federal judge. It corroborates the role at that document date, not indefinite
+  tenure. Both PDFs are retained with hashes in the source manifest.

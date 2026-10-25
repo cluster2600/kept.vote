@@ -435,6 +435,22 @@
       "bytes": 1341778,
       "retrieved_at_utc": "2026-10-23T00:11:59.724283+00:00",
       "source_status": "official publisher"
+    },
+    {
+      "file": "sources/asm-annual-report-2024.pdf",
+      "url": "https://www.juges.ch/fr/index_htm_files/SVR-ASM%20rapport%20annuel%202024.pdf",
+      "sha256": "5ede5e033dea991f30a5038a03d979921d6ece8073dbb7a5de63bc4992083d63",
+      "bytes": 346335,
+      "retrieved_at_utc": "2026-10-25T10:50:25.310279+00:00",
+      "source_status": "official publisher"
+    },
+    {
+      "file": "sources/justitia40-composition-2025-11-26.pdf",
+      "url": "https://www.tribunal-federal.ch/files/live/sites/tfl/files/pdf/Justitia_4.0/2025_11_26_Steuerungsausschuss_Zusammensetzung_mit_Kantonswappen_d_f_i.pdf",
+      "sha256": "94263eed8b261618314ed0d38d76d3c13cdd17442672fe44fddeced6c8cb5695",
+      "bytes": 106310,
+      "retrieved_at_utc": "2026-10-25T10:50:25.310279+00:00",
+      "source_status": "official publisher"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

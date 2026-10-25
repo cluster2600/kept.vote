@@ -365,3 +365,46 @@ All verified work is retained in the existing draft PR branch. No document
 requests, third-party messages, merge, application import or live publication.
 Further research requires a fresh user instruction or resumption; this bounded
 run does not claim the original nationwide research objective is complete.
+
+## Resumed window: 25 October 2026, pass 9
+
+The user explicitly resumed research for a few more hours, prioritising original
+release orders, historical individual party payments and board memberships of
+Koch, Hurni and Hofmann. The existing automation was reactivated, with a new
+bounded deadline **25 October 2026, 13:49 UTC / 14:49 Europe/Zurich**. Pause at
+that deadline. No messages or document requests are authorised by this resumption.
+
+**25 October 2026, 10:49:12–10:50:25 UTC**: initial source research and validation
+interval, excluding later GitHub administration. The earlier 42m38s accounting
+remains separate; scheduled elapsed time is not active research hours.
+
+Queries included `"Christoph Hurni" "Ursula Wirz"`,
+`"Yann-Eric Hofmann" "Stiftungsrat"`,
+`"Sonja Koch" "Verwaltungsrat" Richterin`,
+`"Morges" "13 juillet 2020" "ordonnance" tribunal`,
+`"Hofmann" "Yann-Eric" "comité"`,
+`"Hofmann" "Yann-Eric" "cotisation" parti`,
+`"Christoph Hurni" "Stiftung" Bundesrichter`,
+`"Sonja Koch" "Mandatsabgaben"`, and targeted Fribourg/party-domain searches.
+
+Results:
+- Archived ASM's **2024 annual report, page 1**: Hofmann's committee election is
+  proposed **subject to definitive acceptance**. This does not establish that
+  election occurred at the report date. Keep the later committee page as the
+  evidence of actual membership; do not invent a precise appointment date.
+- Archived the Supreme Court-hosted Justitia 4.0 committee-composition PDF dated
+  **26 November 2025**, directly naming Hofmann as steering co-president and
+  federal judge. It corroborates historical tenure, not an unlimited current role.
+- No new original release order, named historical payment or confirmed company-
+  board seat recovered in this initial pass. Namesake Sonja Koch corporate
+  results and unrelated Christoph Hurni records remain excluded.
+- A secondary 2021 CH Media/Watson report says the Supreme Court released a list
+  of approved outside activities and that Hurni had six entries. Treat this only
+  as a lead for recovering that original list; do not import six roles or amounts
+  from the headline. Likewise the Onlinekommentar editors page is a professional-
+  publishing lead, not automatically a legal-entity board seat.
+
+Validation: local/remote PR branch had no divergence before work; both PDFs
+opened and relevant text checked; all research JSON and source hashes checked;
+`git diff --check` passed. Existing unrelated .serena directory preserved. No
+application/graph change, merge, publication, messages or requests.
