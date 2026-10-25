@@ -617,3 +617,40 @@ Queries included `"Christoph Hurni" "Vorstand" Juristenverein`,
 Validation: CV identity and page context, three unique role IDs/types, archived
 PDF and all manifest hashes/JSON checked; `git diff --check` passed. No graph or
 application changes; no messages, requests, merge or website publication.
+
+## Resumed pass 15 (25 October 2026)
+
+**12:19:54–12:22:02 UTC**, about two minutes of source research/validation;
+administration and scheduled waiting excluded.
+
+Queries: `site.shab.ch "364.658.238"`,
+`"Schweizerisches Institut für Judikative" "Hurni" "2024"`,
+`"Schweizerisches Institut für Judikative" "Hurni" "2021"`,
+`"1006140898" shab pdf`, `"1005038059" shab pdf`, and
+`"sifj.ch" "Hurni" Vorstand`.
+
+**Verified historical association board role:**
+- Followed the aggregator's visible official SHAB links. Web-tool requests timed
+  out, but ordinary curl returned the **original official PDFs** through the
+  legacy servlet URLs. No access control bypass or undocumented API required.
+- **HR01-1005038059**, published **3 December 2020**, register entry **30 November
+  2020**, lists Christoph Michael Hurni from Fräschels in Köniz as SIfJ board
+  member and treasurer, with joint signature alongside president/vice-president.
+- **HR02-1006140898**, published **30 September 2024**, register entry **25
+  September 2024**, records his departure and extinction of that signature.
+- The founders' own 2020/4 article, paragraph 6, publicly available as an author-
+  uploaded ResearchGate full text, explicitly names **federal judge Christoph
+  Hurni** on the seven-member board. Together with his parliamentary founding-
+  member CV, this corroborates the identity beyond name/origin alone. Article
+  read through web tool; its PDF download returned 404 and curl HTML 403, so no
+  downloadable article snapshot or byte hash is claimed.
+- Added a fourth historical-professional record with both official documents,
+  role/identity provenance and separate registration/publication dates. Exact
+  actual start/end dates, compensation and current tenure remain unknown.
+  This is an association, not a company/foundation board. The separate Ursula
+  Wirz-Stiftung identity match is not upgraded by this observation.
+- No original release order or new individual historical payment recovered.
+
+Validation: both PDF signatures, UID, names, role text and dates read with pypdf;
+unique record IDs, source hashes and `git diff --check` checked. No graph or
+application changes; no messages, requests, merge or website publication.

@@ -515,6 +515,22 @@
       "bytes": 127470,
       "retrieved_at_utc": "2026-10-25T12:06:43.877126+00:00",
       "source_status": "publicly published parliamentary nomination report; historical CV claims"
+    },
+    {
+      "file": "sources/sifj-shab-HR01-1005038059-2020-12-03.pdf",
+      "url": "https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=HR01-1005038059",
+      "sha256": "f321a3a1e426919b9bfb733562194e58786333b8985ac69931347103e85c897d",
+      "bytes": 204334,
+      "retrieved_at_utc": "2026-10-25T12:22:02.163893+00:00",
+      "source_status": "official SHAB PDF retrieved through legacy publication link"
+    },
+    {
+      "file": "sources/sifj-shab-HR02-1006140898-2024-09-30.pdf",
+      "url": "https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=HR02-1006140898",
+      "sha256": "c5b41c39befdfd456e0d7ea15f07a459dbb069b39d1c48ce371b4fce838f867c",
+      "bytes": 197825,
+      "retrieved_at_utc": "2026-10-25T12:22:02.163893+00:00",
+      "source_status": "official SHAB PDF retrieved through legacy publication link"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

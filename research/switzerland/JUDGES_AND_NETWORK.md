@@ -214,3 +214,19 @@ these activities. It does not establish current tenure. Founding membership is
 not a board seat. None resolves the separate provisional Ursula Wirz-Stiftung
 identity match; no relationship to unrelated health-care Christoph Hurni records
 is inferred. These historical records are not yet imported as graph edges.
+
+### SIfJ historical board and treasurer role
+
+Official SHAB notices **HR01-1005038059** (published **3 December 2020**, register
+entry 30 November) and **HR02-1006140898** (published **30 September 2024**,
+register entry 25 September) list Christoph Michael Hurni as SIfJ board member
+and treasurer, with joint signature by two alongside its president or vice-
+president, and then record his departure. Both original SHAB PDFs are archived.
+
+Identity is corroborated by the founders' own **2020/4 article, paragraph 6**,
+which explicitly identifies federal judge Christoph Hurni as a board member, and
+his parliamentary nomination CV's founding-membership statement. The article's
+author-uploaded public full text was read through the web tool; a downloadable
+copy was not recovered. This supports a historical **association** governance
+role, not a current company/foundation seat. Exact actual tenure dates and pay
+remain unknown. The Ursula Wirz-Stiftung match remains separately provisional.

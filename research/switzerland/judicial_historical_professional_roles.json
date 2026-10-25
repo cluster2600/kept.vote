@@ -55,5 +55,44 @@
     "current_tenure_verified": false,
     "individual_payment_verified": false,
     "limit": "Listed among other activities in the 2020 nomination CV; not proof of a current seat, compensation, or a corporate board role."
+  },
+  {
+    "id": "historical-role:hurni-sifj-board-treasurer",
+    "judge_id": "judge:afc539997723670fe6ae",
+    "name": "Christoph Hurni",
+    "register_name_as_published": "Christoph Michael Hurni",
+    "organization_as_published": "Schweizerisches Institut für Judikative",
+    "organization_uid_as_published": "CHE-364.658.238",
+    "role": "Historical association board member and treasurer, joint signature by two with president or vice-president",
+    "role_type": "historical_association_board_and_treasurer",
+    "identity_status": "corroborated_by_primary_founders_article_explicitly_naming_federal_judge_and_parliamentary_founder_cv",
+    "identity_sources": [
+      {
+        "url": "https://www.researchgate.net/publication/356346419_Grundung_des_Vereins_Schweizerisches_Institut_fur_Judikative",
+        "section": "Author-uploaded 2020/4 founders article, paragraph 6, explicitly names federal judge Christoph Hurni on seven-member board; text read through web tool, downloadable PDF not recovered."
+      },
+      {
+        "url": "https://www.parlament.ch/centers/kb/Documents/2020/Rapport_de_la_commission_CJ-V_20.204_2020-09-09_a.pdf",
+        "section": "Page 6, directly identifies judge as founding member of this same association."
+      }
+    ],
+    "source_urls": [
+      "https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=HR01-1005038059",
+      "https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=HR02-1006140898"
+    ],
+    "source_files": [
+      "sources/sifj-shab-HR01-1005038059-2020-12-03.pdf",
+      "sources/sifj-shab-HR02-1006140898-2024-09-30.pdf"
+    ],
+    "appointment_register_date": "2020-11-30",
+    "appointment_publication_date": "2020-12-03",
+    "deletion_register_date": "2024-09-25",
+    "deletion_publication_date": "2024-09-30",
+    "observed_at_utc": "2026-10-25T12:22:02.163893+00:00",
+    "tenure_start": null,
+    "tenure_end": null,
+    "current_tenure_verified": false,
+    "individual_payment_verified": false,
+    "limit": "Register/publication dates are not exact actual tenure dates. Historical association role, not a company/foundation board seat. Does not verify the separate Ursula Wirz-Stiftung identity match."
   }
 ]
