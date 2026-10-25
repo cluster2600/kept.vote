@@ -1,0 +1,102 @@
+[
+  {
+    "id": "kyriakos-mitsotakis-fin-2024-income-total",
+    "year": 2024,
+    "type": "income",
+    "label": "Total income declared for fiscal year 2024",
+    "amount": "about 81,673 EUR",
+    "detail": "CNN Greece and To Vima give 81,673.38 EUR (To Vima's text also gives 81,673.94 EUR), SKAI about 81,673 EUR and Fortune Greece 81,672 EUR. Declaration for 2025 covering fiscal year 2024, published on 11 May 2026. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.cnn.gr/politiki/story/533005/pothen-esxes-2025-ti-dilonei-o-prothypourgos-kyriakos-mitsotakis-ta-eisodimata-kai-ta-akinita",
+      "https://www.tovima.gr/2026/05/11/politics/ayta-einai-ta-pothen-esxes-ton-politikon/",
+      "https://www.skai.gr/news/politics/kyriakos-mitsotakis-to-pothen-esxes-tou-prothypourgou-kai-tis-syzygou-tou",
+      "https://www.fortunegreece.com/article/ti-dilonei-o-kiriakos-mitsotakis-sto-pothen-esxes-gia-to-2025/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-fin-2024-income-salary",
+    "year": 2024,
+    "type": "income",
+    "label": "Income from salaried services and allowances (parliamentary allowance and premiership), fiscal year 2024",
+    "amount": "35,916.48 EUR net, plus 34,728.84 EUR exempt from tax and contributions",
+    "detail": "According to To Vima, the declaration lists net income of 35,916.48 EUR from salaried services, allowances and additional pay, and 34,728.84 EUR exempt from tax and contributions under Article 63 of the Constitution (the part of MPs' remuneration that is tax-free). Declaration for 2025 covering fiscal year 2024, published on 11 May 2026. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.tovima.gr/2026/05/11/politics/ayta-einai-ta-pothen-esxes-ton-politikon/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-fin-2024-income-other",
+    "year": 2024,
+    "type": "income",
+    "label": "Other income declared for fiscal year 2024: property, agriculture, dividends and interest",
+    "amount": "10,700 EUR from property; 176.58 EUR from agricultural activity; 95.29 EUR from dividends, interest and royalties",
+    "detail": "Breakdown reported by To Vima; SKAI and Fortune Greece also report about 10,700 EUR from the use of real estate. Declaration for 2025 covering fiscal year 2024, published on 11 May 2026. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.tovima.gr/2026/05/11/politics/ayta-einai-ta-pothen-esxes-ton-politikon/",
+      "https://www.skai.gr/news/politics/kyriakos-mitsotakis-to-pothen-esxes-tou-prothypourgou-kai-tis-syzygou-tou",
+      "https://www.fortunegreece.com/article/ti-dilonei-o-kiriakos-mitsotakis-sto-pothen-esxes-gia-to-2025/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-fin-2024-deposits",
+    "year": 2024,
+    "type": "savings",
+    "label": "Bank deposits declared for fiscal year 2024",
+    "amount": "575,208.56 EUR and 419.44 USD",
+    "detail": "To Vima reports that the largest account holds 472,005.41 EUR with the note 'transfer of amount from Hellenic bond', followed by accounts of 100,163.89 EUR and 1,912.17 EUR; SKAI and Fortune Greece put deposits at about 573,000 EUR, most of it from the sale of Greek government bonds (see the securities section). CNN Greece reports 10 bank accounts. Declaration for 2025 covering fiscal year 2024, published on 11 May 2026. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.tovima.gr/2026/05/11/politics/ayta-einai-ta-pothen-esxes-ton-politikon/",
+      "https://www.cnn.gr/politiki/story/533005/pothen-esxes-2025-ti-dilonei-o-prothypourgos-kyriakos-mitsotakis-ta-eisodimata-kai-ta-akinita",
+      "https://www.skai.gr/news/politics/kyriakos-mitsotakis-to-pothen-esxes-tou-prothypourgou-kai-tis-syzygou-tou",
+      "https://www.fortunegreece.com/article/ti-dilonei-o-kiriakos-mitsotakis-sto-pothen-esxes-gia-to-2025/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-fin-2024-debts",
+    "year": 2024,
+    "type": "debt",
+    "label": "Debts declared for fiscal year 2024",
+    "amount": "156,100.52 EUR",
+    "detail": "SKAI and Fortune Greece report a 150,000 EUR private loan from a family member and a 6,100 EUR credit-card balance; CNN Greece describes the 6,100 EUR as the outstanding balance of an original loan of 35,700 EUR. The total of 156,100.52 EUR is To Vima's summary figure. Declaration for 2025 covering fiscal year 2024, published on 11 May 2026. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.tovima.gr/2026/05/11/politics/ayta-einai-ta-pothen-esxes-ton-politikon/",
+      "https://www.skai.gr/news/politics/kyriakos-mitsotakis-to-pothen-esxes-tou-prothypourgou-kai-tis-syzygou-tou",
+      "https://www.fortunegreece.com/article/ti-dilonei-o-kiriakos-mitsotakis-sto-pothen-esxes-gia-to-2025/",
+      "https://www.cnn.gr/politiki/story/533005/pothen-esxes-2025-ti-dilonei-o-prothypourgos-kyriakos-mitsotakis-ta-eisodimata-kai-ta-akinita"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-fin-2024-insurance",
+    "year": 2024,
+    "type": "life_insurance",
+    "label": "Investment insurance contracts",
+    "amount": "valued at more than 3,000 EUR",
+    "detail": "CNN Greece reports that his portfolio includes investment insurance contracts valued at over 3,000 EUR. Declaration for 2025 covering fiscal year 2024, published on 11 May 2026. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.cnn.gr/politiki/story/533005/pothen-esxes-2025-ti-dilonei-o-prothypourgos-kyriakos-mitsotakis-ta-eisodimata-kai-ta-akinita"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-fin-2024-vehicles",
+    "year": 2024,
+    "type": "vehicle",
+    "label": "Two private cars",
+    "amount": "",
+    "detail": "SKAI reports two cars of 1,560 cc and 875 cc, acquired in 2016 and 2017. Declaration for 2025 covering fiscal year 2024, published on 11 May 2026. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.skai.gr/news/politics/kyriakos-mitsotakis-to-pothen-esxes-tou-prothypourgou-kai-tis-syzygou-tou",
+      "https://www.cnn.gr/politiki/story/533005/pothen-esxes-2025-ti-dilonei-o-prothypourgos-kyriakos-mitsotakis-ta-eisodimata-kai-ta-akinita"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-fin-2023-income-total",
+    "year": 2023,
+    "type": "income",
+    "label": "Total income declared for fiscal year 2023 (declaration 2024)",
+    "amount": "70,457.39 EUR, of which 59,475.97 EUR parliamentary allowance",
+    "detail": "As reported by LiFO. The same article reports that in that year he bought Greek Treasury bills from earlier savings, so that his bank deposits fell to about 110,000 EUR, and that his real estate was unchanged. Greek MPs file an annual asset declaration (δήλωση περιουσιακής κατάστασης, 'pothen esches') that the Hellenic Parliament's audit committee publishes on hellenicparliament.gr; that site was not readable for this research (access denied to the harvest), so the figures are taken from press reports that cite the declaration. The separate declaration of his spouse is not reproduced.",
+    "source_url": [
+      "https://www.lifo.gr/now/politics/pothen-eshes-i-dilosi-toy-kyriakoy-mitsotaki"
+    ]
+  }
+]

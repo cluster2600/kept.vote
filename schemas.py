@@ -32,8 +32,19 @@ Office = Literal[
     "mayor",
     "regional_executive",
     "party_leader",
+    "judge",
     "other",
 ]
+
+
+class Portrait(BaseModel):
+    """A politician's photo, served from /portraits/, and its credit."""
+
+    file: str
+    source_url: str
+    author: str
+    license: str
+    license_url: str | None = None
 
 
 class PoliticianBase(BaseModel):
@@ -48,6 +59,7 @@ class PoliticianBase(BaseModel):
     party: str | None = Field(default=None, max_length=255)
     birth_date: datetime.date | None = None
     bio: str | None = None
+    portrait: Portrait | None = None
 
 
 class PoliticianCreate(PoliticianBase):
@@ -76,6 +88,7 @@ class PoliticianSummary(BaseModel):
     role: str | None = None
     content_lang: str | None = None
     party: str | None = None
+    portrait: Portrait | None = None
     promise_count: int = 0
     kept_count: int = 0
     broken_count: int = 0

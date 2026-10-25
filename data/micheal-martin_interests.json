@@ -1,0 +1,16 @@
+[
+  {
+    "id": "micheal-martin-int-register-2025",
+    "item": "Dáil Register of Members' Interests 2025: a single registrable interest, his constituency office in Turners Cross, Cork",
+    "type": "annual statement of registrable interests",
+    "period": "registration period 1 January – 31 December 2025 (register published 25 February 2026)",
+    "value": "",
+    "detail": "According to the Irish Examiner's report on the register, 'Taoiseach Micheál Martin had just one thing to declare, his Turners Cross office, which he notes was bought with a mortgage from AIB'; no other occupation, shareholding, directorship or gift is reported for him. Members of the Oireachtas file an annual statement of registrable interests (occupations, shares, directorships, land worth more than €13,000, gifts and similar), which the Clerk of the Dáil publishes as the Register of Members' Interests and sends to the Standards in Public Office Commission (SIPO). The register is a PDF that the harvest used for this research fingerprints but does not render, so its content is taken from the Irish Examiner's report on it. Office holders also furnish statements of interests under the Ethics in Public Office Acts; these are not readable through sipo.ie, which refused the harvest (HTTP 403).",
+    "status": "declared",
+    "source_url": [
+      "https://www.oireachtas.ie/en/members/register-of-members-interests/",
+      "https://data.oireachtas.ie/ie/oireachtas/members/registerOfMembersInterests/dail/2026/2026-02-25_register-of-member-s-interests-dail-eireann-2025_en.pdf",
+      "https://www.irishexaminer.com/news/politics/arid-41802197.html"
+    ]
+  }
+]

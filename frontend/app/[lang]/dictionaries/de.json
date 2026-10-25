@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiker",
     "countryFilterLabel": "Nach Land filtern",
+    "mapLabel": "Karte: Land auswählen",
+    "mapCovered": "Abgedeckt",
+    "mapNotCovered": "Noch nicht abgedeckt",
     "allCountries": "Alle Länder",
     "otherCountry": "Andere",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "Bürgermeisteramt",
     "regional_executive": "Regionalregierung",
     "party_leader": "Parteivorsitz",
+    "judge": "Richteramt",
     "other": "Sonstiges Amt"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Alle Politiker",
     "trackRecord": "Bilanz der Versprechen",
     "contentLanguage": "Profil auf {language} verfasst",
+    "photoCredit": "Foto: {author}, {license}, über {source}",
     "tabsLabel": "Profilbereiche",
     "tabs": {
       "promises": "Versprechen",

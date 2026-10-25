@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politicians",
     "countryFilterLabel": "Filter by country",
+    "mapLabel": "Map: choose a country",
+    "mapCovered": "Covered",
+    "mapNotCovered": "Not covered yet",
     "allCountries": "All countries",
     "otherCountry": "Other",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "Mayor",
     "regional_executive": "Regional executive",
     "party_leader": "Party leader",
+    "judge": "Judge",
     "other": "Other office"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← All politicians",
     "trackRecord": "Promise track record",
     "contentLanguage": "Profile written in {language}",
+    "photoCredit": "Photo: {author}, {license}, via {source}",
     "tabsLabel": "Profile sections",
     "tabs": {
       "promises": "Promises",

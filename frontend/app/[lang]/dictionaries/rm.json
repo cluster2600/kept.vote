@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politichers",
     "countryFilterLabel": "Filtrar tenor pajais",
+    "mapLabel": "Charta: tschernai in pajais",
+    "mapCovered": "Cuvrì",
+    "mapNotCovered": "Anc betg cuvrì",
     "allCountries": "Tut ils pajais",
     "otherCountry": "Auters",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "President communal",
     "regional_executive": "Executiv regiunal",
     "party_leader": "President da partida",
+    "judge": "Derschader",
     "other": "Autra funcziun"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Tut ils politichers",
     "trackRecord": "Bilanza da las empermischuns",
     "contentLanguage": "Profil scrit en {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Secziuns dal profil",
     "tabs": {
       "promises": "Empermischuns",

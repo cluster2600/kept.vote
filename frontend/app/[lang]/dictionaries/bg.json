@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Политици",
     "countryFilterLabel": "Филтриране по държава",
+    "mapLabel": "Карта: изберете държава",
+    "mapCovered": "Обхваната",
+    "mapNotCovered": "Все още не е обхваната",
     "allCountries": "Всички държави",
     "otherCountry": "Други",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "Кмет",
     "regional_executive": "Регионален ръководител",
     "party_leader": "Партиен лидер",
+    "judge": "Съдия",
     "other": "Друга длъжност"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Всички политици",
     "trackRecord": "Изпълнение на обещанията",
     "contentLanguage": "Профилът е написан на {language}",
+    "photoCredit": "Снимка: {author}, {license}, чрез {source}",
     "tabsLabel": "Раздели на профила",
     "tabs": {
       "promises": "Обещания",

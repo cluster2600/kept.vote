@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Poliitikot",
     "countryFilterLabel": "Suodata maan mukaan",
+    "mapLabel": "Kartta: valitse maa",
+    "mapCovered": "Mukana",
+    "mapNotCovered": "Ei vielä mukana",
     "allCountries": "Kaikki maat",
     "otherCountry": "Muu",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "Pormestari",
     "regional_executive": "Aluejohtaja",
     "party_leader": "Puoluejohtaja",
+    "judge": "Tuomari",
     "other": "Muu tehtävä"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Kaikki poliitikot",
     "trackRecord": "Lupausten toteutuminen",
     "contentLanguage": "Profiilin kieli: {language}",
+    "photoCredit": "Kuva: {author}, {license}, lähde: {source}",
     "tabsLabel": "Profiilin osiot",
     "tabs": {
       "promises": "Lupaukset",

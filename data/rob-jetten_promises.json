@@ -1,0 +1,242 @@
+[
+  {
+    "id": "rob-jetten-promise-aow-life-expectancy",
+    "title": "Link the state pension age (AOW) one-to-one to life expectancy from 2033",
+    "description": "The coalition agreement 'Aan de slag – Bouwen aan een beter Nederland' of D66, VVD and CDA (30 January 2026) provided that from 2033 the AOW pension age would rise in step with life expectancy, a full year per year of extra life expectancy instead of the current eight months, saving almost €3 billion a year according to NOS. Jetten defended the measure in the debate on the agreement as a necessary step to keep pensions affordable.",
+    "date_made": "2026-01-30",
+    "category": "Pensions",
+    "status": "broken",
+    "confidence_score": 0.95,
+    "reasoning": "The trade unions refused to negotiate with the cabinet while the faster rise stood, and by mid-June 2026 Social Affairs Minister Vijlbrief had dropped it (NOS). In a letter to unions and employers before the summer the cabinet stopped the plan, and the Budget Memorandum of 15 September 2026 states that the one-to-one link 'is definitief geschrapt'. The commitment was abandoned within the term.",
+    "key_evidence": [
+      "Coalition agreement, 30 January 2026: AOW age to follow life expectancy from 2033 (NOS summary)",
+      "4 February 2026: a GL-PvdA motion to drop the plan was rejected; Klaver called it 'a false start' breaking the 2019 pension agreement",
+      "14 June 2026 (NOS): Minister Vijlbrief 'heeft een streep gezet door de snellere verhoging van de AOW-leeftijd'",
+      "15 September 2026, Miljoenennota 2027: the decision to link the AOW age one-to-one to life expectancy 'is definitief geschrapt'"
+    ],
+    "source_url": [
+      "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://nos.nl/collectie/14012/artikel/2600857-jetten-op-zoek-naar-ministers-coalitieakkoord-na-kritisch-debat-nog-overeind",
+      "https://nos.nl/artikel/2618510-staken-en-polderen-tegelijk-hoe-verder-bezuinigen-op-de-sociale-zekerheid",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-welvaart-opnieuw-verdienen",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-maatregelen-op-het-gebied-van-szw"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-ww-wia-cuts",
+    "title": "Shorten unemployment benefit (WW) from two years to one and lower the maximum daily wage for benefits",
+    "description": "The coalition agreement cut the maximum duration of WW unemployment benefit from two years to one, with a higher benefit in the first two months, and lowered the maximum daily wage (maximumdagloon) used to calculate WIA disability and other benefits by 20%, as part of about €6.5 billion of long-term savings on social security.",
+    "date_made": "2026-01-30",
+    "category": "Social security",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "The 2027 budget scrapped the 20% cut in the maximum daily wage and postponed the WW shortening to 1 January 2029. On 2 October 2026 Jetten announced that the cabinet was taking the previously announced savings on WW, the disability allowance (TAO) and WIA 'van tafel' to allow talks with unions and employers on a social agreement. Reforms may still come out of those talks, but the specific cuts promised have been withdrawn.",
+    "key_evidence": [
+      "Coalition agreement: WW cut from two years to one; €6.5 billion long-term savings on AOW, WW and WIA (NOS)",
+      "22 May 2026: Jetten still aimed for the €6.5 billion saving but offered to negotiate; unions refused talks and struck on 22–24 June",
+      "15 September 2026: maximum daily wage cut scrapped; WW shortening postponed to 1 January 2029; other 2027 social-security cuts postponed a year",
+      "2 October 2026: Jetten: 'halen we de eerder aangekondigde bezuinigingen op de WW, tegemoetkoming arbeidsongeschikten en WIA van tafel'"
+    ],
+    "source_url": [
+      "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://nos.nl/artikel/2615440-jetten-bereid-over-aow-ww-en-wia-te-onderhandelen-streeft-nog-wel-naar-bezuiniging",
+      "https://nos.nl/artikel/2618510-staken-en-polderen-tegelijk-hoe-verder-bezuinigen-op-de-sociale-zekerheid",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-maatregelen-op-het-gebied-van-szw",
+      "https://www.rijksoverheid.nl/documenten/2026/10/02/letterlijke-tekst-persconferentie-na-ministerraad-2-oktober-2026"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-defence-freedom-contribution",
+    "title": "Invest €19 billion extra in defence, financed in part by a 'freedom contribution' (vrijheidsbijdrage)",
+    "description": "The coalition agreement earmarks €19 billion extra for defence over the coming years, a build-up of the armed forces to 122,000 people and more capacity for the intelligence services, financed in part by a new 'freedom contribution' that citizens and companies pay through taxation and that is to raise more than €5 billion a year in time.",
+    "date_made": "2026-01-30",
+    "category": "Defence",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The cabinet's first budget and Tax Plan 2027 (15 September 2026) include the freedom contribution: the Ministry of Social Affairs attributes the expected 0.1% loss of purchasing power for a typical household to coalition measures 'zoals de vrijheidsbijdrage'. As of 21 October 2026 the Tax Plan had no secured majority, with the House vote set for 12 November, so the financing is not yet law; the multi-year defence figures were not checked in detail for this profile.",
+    "key_evidence": [
+      "Coalition agreement: €19 billion extra for defence; armed forces to 122,000; 'vrijheidsbijdrage' of more than €5 billion a year in time (NOS)",
+      "4 February 2026: VVD leader Yeşilgöz defended the tax increase in the debate on the agreement (NOS)",
+      "15 September 2026: the purchasing-power picture for 2027 reflects coalition measures 'zoals de vrijheidsbijdrage' (Rijksoverheid)",
+      "2 October 2026: House vote on the Tax Plan scheduled for 12 November; PRO and JA21 demand lower income tax for their support (NOS)"
+    ],
+    "source_url": [
+      "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://nos.nl/collectie/14012/artikel/2600857-jetten-op-zoek-naar-ministers-coalitieakkoord-na-kritisch-debat-nog-overeind",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-maatregelen-op-het-gebied-van-szw",
+      "https://nos.nl/artikel/2633430-jetten-over-onduidelijkheid-box-3-snap-als-mensen-het-niet-meer-kunnen-bijbenen"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-education-investment",
+    "title": "Reverse education cuts and invest €1 billion more in education next year, rising to €1.5 billion",
+    "description": "The coalition agreement said the education cuts of the Schoof cabinet would be taken off the table, with €1 billion extra the following year rising to €1.5 billion after some years, a focus on reading, writing and arithmetic and more attention for pre-vocational education (vmbo) and teachers.",
+    "date_made": "2026-01-30",
+    "category": "Education",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "The 2027 education budget proposes €668 million extra in 2027 rising to almost €1.3 billion structurally, structural funding of over €500 million a year for basic skills, €121 million to restore the 'School & Omgeving' programme and a partial reversal of research cuts (€428 million structurally). The amounts are below the coalition figures and the budget still needs parliamentary approval, so the pledge is in progress rather than kept.",
+    "key_evidence": [
+      "Coalition agreement: education cuts 'gaan van tafel'; €1 billion extra next year rising to €1.5 billion (NOS)",
+      "15 September 2026: €668 million in 2027, rising to almost €1.3 billion structurally (Ministry of Education)",
+      "Earlier cuts on international talent and School & Omgeving reversed; research cuts partly reversed",
+      "The 2027 budget had no secured majority in either chamber as of October 2026"
+    ],
+    "source_url": [
+      "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-kabinet-investeert-in-talent-taal-en-media",
+      "https://www.eerstekamer.nl/nieuws/20261007/algemene_politieke_beschouwingen"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-asylum-laws",
+    "title": "Implement the Asylum Emergency Measures Act and the two-status asylum system",
+    "description": "The coalition agreement promised 'now really' big steps on asylum: carrying out the Asielnoodmaatregelenwet and the two-status system inherited from the Schoof cabinet, keeping the dispersal act (Spreidingswet), a temporary asylum stop if inflow surges, a harder line on criminal asylum seekers and more money for procedures and reception.",
+    "date_made": "2026-01-30",
+    "category": "Migration",
+    "status": "compromise",
+    "confidence_score": 0.85,
+    "reasoning": "On 21 April 2026 the Senate adopted the two-status system act (36.703) by 41 votes to 34 but rejected the Asylum Emergency Measures Act by 31 to 44, after first rejecting the amending bill that would have softened the criminalisation of illegal stay; D66 senators voted against all three bills and CDA against the emergency act. The Senate approved the act implementing the EU Asylum and Migration Pact on 26 May 2026. Only part of the promised legislation was delivered.",
+    "key_evidence": [
+      "Coalition agreement: 'Asielnoodmaatregelenwet en tweestatusstelsel worden uitgevoerd' (NOS summary)",
+      "21 April 2026, Senate: two-status system act adopted 41–34; Asylum Emergency Measures Act rejected 31–44; amending bill rejected 37–38",
+      "D66 voted against all three bills in the Senate; CDA against the emergency measures act after the amending bill failed",
+      "26 May 2026: Senate approves the implementation act for the EU Asylum and Migration Pact (Parlement.com)"
+    ],
+    "source_url": [
+      "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://www.eerstekamer.nl/nieuws/20260421/senaat_verwerpt_strafbaarstelling",
+      "https://www.eerstekamer.nl/wetsvoorstel/36703_wet_invoering",
+      "https://www.parlement.com/kabinet-jetten-2026-heden"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-nitrogen-breakthrough",
+    "title": "Break the nitrogen deadlock ('stikstofslot') and restart permits for farming, building and infrastructure",
+    "description": "The coalition parties promised breakthroughs on nitrogen policy and housing; the agreement revived earlier nitrogen plans, with support for farmers, nature restoration and measures to get permits moving again.",
+    "date_made": "2026-01-30",
+    "category": "Agriculture / environment",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "On 26 June 2026 the cabinet presented a €20 billion package: farm-level emission norms for 2035 (0.164 kg ammonia per phosphate right for dairy), additional zones of 500–1,000 metres around about 100 vulnerable nature areas, €9 billion of support for farmers there, €2.2 billion for nature restoration, 50% nitrogen reduction for industry and mobility by 2035 and a legally robust de minimis threshold. The bill with sector targets was due in the House in October 2026; it needs majorities the minority coalition lacks, and BBB and PVV called for the plans to be withdrawn in the Senate debate of 6 October.",
+    "key_evidence": [
+      "Coalition agreement: breakthroughs promised on nitrogen and housing (NOS)",
+      "26 June 2026: €20 billion nitrogen package presented by Minister Van Essen (Rijksoverheid)",
+      "Bill with the new nitrogen targets for all sectors to go to the House in October 2026",
+      "6 October 2026: PVV motion in the Senate to abandon the agriculture, nature and nitrogen measures rejected"
+    ],
+    "source_url": [
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://nos.nl/collectie/14012/artikel/2600318-oude-stikstofplannen-weer-uit-de-kast-draagvlak-blijft-vraagteken",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/06/26/kabinet-haalt-nederland-van-het-stikstofslot-met-stevig-pakket-weer-ruimte-voor-boer-natuur-en-bouw",
+      "https://www.parlement.com/kabinet-jetten-2026-heden",
+      "https://www.eerstekamer.nl/nieuws/20261007/algemene_politieke_beschouwingen"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-affordable-housing",
+    "title": "Spend €1 billion a year on building affordable homes from 2029 and get house-building moving",
+    "description": "The coalition agreement sets aside €1 billion a year from 2029 for affordable housing, links new infrastructure to new housing, promotes movement in the rental market (annual income checks on tenants, an asset test for new social-housing tenants) and leaves mortgage interest relief unchanged.",
+    "date_made": "2026-01-30",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "The 2027 budget proposes €425 million a year through policy measures for housing associations, abolishing transfer tax for housing associations, cutting transfer tax for investors from 8% to 7% and scrapping the interest-deduction limitation. The €1 billion a year from 2029 cannot yet be assessed, and in the Senate debate of 6 October 2026 the PVV said little was coming of the target of 100,000 new homes a year. The measures still need parliamentary approval.",
+    "key_evidence": [
+      "Coalition agreement: €1 billion a year from 2029 for affordable housing; mortgage interest relief unchanged (NOS)",
+      "15 September 2026: €425 million a year for housing associations; transfer-tax changes in the Tax Plan 2027",
+      "Tax Plan votes in the House and Senate scheduled for November–December 2026"
+    ],
+    "source_url": [
+      "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-welvaart-opnieuw-verdienen",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-in-begrijpelijke-taal",
+      "https://www.eerstekamer.nl/nieuws/20261007/algemene_politieke_beschouwingen"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-box3-capital-gains",
+    "title": "Turn the new box 3 tax on actual returns into a capital-gains tax",
+    "description": "The coalition agreement provides that the new box 3 system for taxing savings and investments on their actual return (Wet werkelijk rendement box 3) is developed further into a capital-gains system (vermogenswinstsystematiek).",
+    "date_made": "2026-01-30",
+    "category": "Taxation",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "On 2 October 2026 the cabinet adopted an amending bill (novelle) to the Wet werkelijk rendement box 3 that brings as much as possible under a capital-gains tax and asked the Council of State for urgent advice; Deputy PM Yeşilgöz said the change would take effect in 2028. The cabinet's first proposal to pay for it, partly by taxing smaller savers and investors, was withdrawn within a day and a half after objections from opposition and coalition parties, and new financing of an estimated €15 billion was still being negotiated in October 2026.",
+    "key_evidence": [
+      "15 September 2026: the cabinet recalls the coalition commitment to develop box 3 into a capital-gains system",
+      "29 September – 1 October 2026: coverage plan taxing smaller savers withdrawn after a day and a half (NOS)",
+      "2 October 2026: novelle adopted by the Council of Ministers and sent to the Council of State for urgent advice",
+      "Accelerated capital-gains tax estimated to cost about €15 billion; new coverage still to be found (NOS)"
+    ],
+    "source_url": [
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-welvaart-opnieuw-verdienen",
+      "https://www.rijksoverheid.nl/documenten/2026/10/02/letterlijke-tekst-persconferentie-na-ministerraad-2-oktober-2026",
+      "https://nos.nl/artikel/2633430-jetten-over-onduidelijkheid-box-3-snap-als-mensen-het-niet-meer-kunnen-bijbenen"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-fuel-excise",
+    "title": "Extend the reduction of fuel excise by one more year",
+    "description": "The coalition agreement extends the reduction in fuel excise on petrol by one more year.",
+    "date_made": "2026-01-30",
+    "category": "Taxation / energy prices",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The Tax Plan 2027 proposes extending the excise discount for petrol and diesel to 31 December 2027, reducing it in 2028 and ending it on 1 January 2029; Yeşilgöz counted it among the gains of the right in the budget. The extension still had to be voted by both chambers (November–December 2026), so it is in progress.",
+    "key_evidence": [
+      "Coalition agreement: 'Nog 1 jaar verlenging verlaging brandstofaccijns (benzine)' (NOS summary)",
+      "Tax Plan 2027: petrol excise about €0.85 per litre in 2027 instead of about €1.03 without the extension; discount ends 1 January 2029",
+      "Votes on the Tax Plan in November and December 2026"
+    ],
+    "source_url": [
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://www.rijksoverheid.nl/themas/belastingen-uitkeringen-en-toeslagen/belastingplan/plannen-kabinet-voor-belasting-op-brandstof-vliegbelasting-en-reiskostenvergoeding",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-in-begrijpelijke-taal",
+      "https://nos.nl/artikel/2633430-jetten-over-onduidelijkheid-box-3-snap-als-mensen-het-niet-meer-kunnen-bijbenen"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-childcare",
+    "title": "Make childcare almost free for working parents",
+    "description": "In the debate on the coalition agreement on 3–4 February 2026, VVD leader Yeşilgöz presented an almost free childcare system, with mortgage interest relief kept, as what the coalition had arranged for middle incomes; the agreement provides for a higher childcare allowance.",
+    "date_made": "2026-02-04",
+    "category": "Family policy",
+    "status": "compromise",
+    "confidence_score": 0.6,
+    "reasoning": "In the 2027 budget the cabinet decided to raise the childcare allowance less than planned in the coalition agreement: €322 million extra in 2027, which still gives many parents a higher allowance than in 2026. The commitment is being carried out in a reduced form for now; later years remain open.",
+    "key_evidence": [
+      "4 February 2026: Yeşilgöz: childcare will become almost free and mortgage interest relief stays (NOS)",
+      "15 September 2026: childcare allowance to rise less than planned in the coalition agreement; €322 million extra in 2027 (Rijksoverheid)"
+    ],
+    "source_url": [
+      "https://nos.nl/collectie/14012/artikel/2600857-jetten-op-zoek-naar-ministers-coalitieakkoord-na-kritisch-debat-nog-overeind",
+      "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-maatregelen-op-het-gebied-van-szw"
+    ]
+  },
+  {
+    "id": "rob-jetten-promise-care-cost-deduction",
+    "title": "Abolish the income-tax deduction for specific healthcare costs",
+    "description": "Among the coalition's savings on healthcare, the tax deduction for care costs (such as insoles, hearing aids, travel to specialists and certain medicines) is to be scrapped, saving €618 million a year according to NOS.",
+    "date_made": "2026-01-30",
+    "category": "Health / taxation",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "The Tax Plan 2027 proposes abolishing the deduction for specific care costs, and the related allowance for low earners, from 1 January 2028, with money reserved from 2028 to limit care costs for the chronically ill. Parliament had not yet voted on the plan as of October 2026.",
+    "key_evidence": [
+      "Coalition agreement: 'Schrappen fiscale aftrek zorgkosten', €618 million a year (NOS)",
+      "Tax Plan 2027: deduction for specific care costs abolished from 1 January 2028; compensation for the chronically ill being worked out in 2027"
+    ],
+    "source_url": [
+      "https://nos.nl/collectie/14012/artikel/2600274-coalitieakkoord-19-miljard-voor-defensie-forse-bezuinigingen-op-zorg-uitkeringen",
+      "https://www.rijksoverheid.nl/themas/belastingen-uitkeringen-en-toeslagen/belastingplan/plannen-kabinet-belastingen-voor-inkomen"
+    ]
+  }
+]

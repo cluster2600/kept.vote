@@ -1,0 +1,145 @@
+[
+  {
+    "id": "kyriakos-mitsotakis-wh-chase",
+    "role": "Financial analyst, corporate finance",
+    "organization": "Chase Investment Bank, London",
+    "start_date": "1990",
+    "end_date": "1991",
+    "description": "First job after graduating from Harvard, according to Britannica.",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-army",
+    "role": "Military service",
+    "organization": "Hellenic Army",
+    "start_date": "1991",
+    "end_date": "1992",
+    "description": "Mandatory national service, according to Wikipedia.",
+    "category": "public_service",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-mckinsey",
+    "role": "Management consultant",
+    "organization": "McKinsey & Company, London",
+    "start_date": "1995",
+    "end_date": "1997",
+    "description": "Advised clients mainly in financial services and telecommunications (Britannica).",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-alpha-ventures",
+    "role": "Senior investment officer",
+    "organization": "Alpha Ventures (private-equity arm of Alpha Bank)",
+    "start_date": "1997",
+    "end_date": "1999",
+    "description": "Venture-capital and private-equity transactions in Greece (Britannica, Wikipedia).",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-nbg-vc",
+    "role": "Chief executive officer",
+    "organization": "NBG Venture Capital (National Bank of Greece)",
+    "start_date": "1999",
+    "end_date": "2003",
+    "description": "Founded and ran the venture-capital and private-equity subsidiary of the National Bank of Greece until resigning in 2003 to enter politics; recognised by the World Economic Forum as a Global Leader for Tomorrow in 2003 (Britannica, Wikipedia).",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-mp",
+    "role": "Member of the Hellenic Parliament (Βουλευτής)",
+    "organization": "Hellenic Parliament (Βουλή των Ελλήνων)",
+    "start_date": "2004-03",
+    "end_date": null,
+    "description": "Elected for New Democracy in Athens B in 2004 and re-elected in 2007, 2009, 2012 and 2015; elected in Athens B2 (West Sector) in 2019 and for Thessaloniki A (Α΄ Θεσσαλονίκης) in 2023. He sat on the committees on defence and foreign affairs, European affairs, finance, production and trade and constitutional revision, and chaired the environment committee in 2007–2009 (Britannica). The parliament's member page could not be read for this research.",
+    "category": "legislature",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82",
+      "https://www.parapolitika.gr/politiki/article/1275378/ekloges-2023-giati-o-mitsotakis-apofasise-na-kratisei-tin-edra-tis-a-thessalonikis-sumvolismoi-ston-vorra/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-minister-admin-reform",
+    "role": "Minister of Administrative Reform and e-Governance",
+    "organization": "Government of Antonis Samaras",
+    "start_date": "2013-06",
+    "end_date": "2015-01",
+    "description": "Appointed in the June 2013 reshuffle; reorganised government institutions and processes, cut the public-service workforce and restructured the tax administration under the bailout programme, until the Samaras government lost the January 2015 election (Britannica; Greek Wikipedia gives 25 June 2013 – 27 January 2015).",
+    "category": "government",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-nd-spokesperson",
+    "role": "Parliamentary spokesperson (κοινοβουλευτικός εκπρόσωπος)",
+    "organization": "New Democracy parliamentary group",
+    "start_date": "2015",
+    "end_date": "2015",
+    "description": "Appointed after ND's defeat in the January 2015 election, before standing for the party leadership (Greek Wikipedia).",
+    "category": "party",
+    "source_url": [
+      "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82",
+      "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-nd-president",
+    "role": "President (leader) of New Democracy",
+    "organization": "New Democracy (Νέα Δημοκρατία)",
+    "start_date": "2016-01-10",
+    "end_date": null,
+    "description": "Elected leader in the January 2016 run-off against Vangelis Meimarakis; as leader of the opposition until July 2019 he opposed the Prespa agreement with North Macedonia and campaigned on tax cuts and privatisation (Britannica, The Guardian).",
+    "category": "party",
+    "source_url": [
+      "https://www.theguardian.com/world/2016/jan/10/kyriakos-mitsotakis-elected-as-leader-of-greek-centre-right-party",
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-pm-first",
+    "role": "Prime Minister of Greece (first term)",
+    "organization": "Government of Greece",
+    "start_date": "2019-07-08",
+    "end_date": "2023-05-25",
+    "description": "Sworn in after ND won an absolute majority in the 7 July 2019 election. His first government's Executive State law (Law 4622/2019) created the Presidency of the Government and placed the intelligence service (EYP) under the Prime Minister. After the inconclusive election of 21 May 2023 he returned the mandate and handed over to caretaker Prime Minister Ioannis Sarmas (Greek Wikipedia).",
+    "category": "government",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-wh-pm-second",
+    "role": "Prime Minister of Greece (second term)",
+    "organization": "Government of Greece",
+    "start_date": "2023-06-26",
+    "end_date": null,
+    "description": "Sworn in again after ND won 158 seats in the 25 June 2023 election; in April 2026 he reshuffled the government after resignations linked to the OPEKEPE farm-subsidy investigation (DW). The next parliamentary election is due in 2027.",
+    "category": "government",
+    "source_url": [
+      "https://www.britannica.com/biography/Kyriakos-Mitsotakis",
+      "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82",
+      "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mette-frederiksen-fin-2026-ministerial-pay",
+    "year": 2026,
+    "type": "income",
+    "label": "Statutory salary as Prime Minister (ministervederlag), annual rate from 1 April 2026",
+    "amount": "DKK 2,030,628.77 a year",
+    "detail": "Ministers' pay is set by the act on remuneration and pension for ministers. Regeringen.dk publishes the rates: the Prime Minister receives 125% of the base amount, DKK 1,958,176.25 at the 31 March 2026 level, or DKK 2,030,628.77 a year after the 3.7% adjustment of 1 April 2026, under the scheme that applies to ministers who were already ministers or MPs before the 2026 election. This is the published rate for the office, not a personal declaration. The government also publishes each minister's own declaration of personal financial interests (oplysningsskema) as a PDF on the minister's page; the harvest used for this research does not render PDFs, so its contents are not reproduced here.",
+    "source_url": [
+      "https://regeringen.dk/om-regeringen/hvad-tjener-en-minister/",
+      "https://regeringen.dk/ministrene/statsminister-mette-frederiksen/"
+    ]
+  }
+]

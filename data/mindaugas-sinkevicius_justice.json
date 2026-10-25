@@ -1,0 +1,27 @@
+[
+  {
+    "id": "mindaugas-sinkevicius-jus-cekiukai",
+    "case": "'Čekiukai' (expense receipts) case: abuse of office, forgery of documents and misappropriation of municipal funds (Jonava)",
+    "period": "2023–2025",
+    "type": "criminal case (Sinkevičius as accused, then convicted at first instance and on appeal); convictions quashed and case discontinued by the Supreme Court",
+    "description": "Part of the nationwide scandal over the use of municipal councillors' expense allowances, the case concerned Sinkevičius's use of funds allotted to him as a member of the Jonava District council and as mayor between 2019 and 2023. According to the courts' findings reported by BNS and LRT, he caused €1,487 in financial and non-financial damage to the municipal administration, including purchases of two television sets and payment of telecommunications services, and was charged with falsifying 16 documents containing inaccurate information about purchases unrelated to his council work; he repaid €4,015 to the municipal budget before the trial and attributed the payment of personal telecom bills to human error. He suspended his LSDP membership in November 2023, after formal charges were brought, and stood trial from February 2024. On 27 May 2024 the Kaunas Regional Court found him guilty of abuse of office, forgery of documents and misappropriation, fined him €12,500 and barred him for three years from being elected or appointed to state and municipal institutions; on 19 September 2024 the Court of Appeal of Lithuania rejected his appeal, and the Central Electoral Commission (VRK) revoked his mandate as mayor of Jonava. The municipal council appointed his father, Social Democrat Rimantas Sinkevičius, as interim mayor, and the Seimas set an early mayoral election for 16 March 2025. Sinkevičius contested the charges, and the case went to the Supreme Court on cassation.",
+    "status": "dismissed",
+    "outcome": "On 5 March 2025 the Supreme Court of Lithuania quashed the lower courts' convictions and discontinued the criminal case, holding that his conduct could not give rise to criminal liability; according to LRT, it found that he had possibly committed an official (disciplinary) misconduct that does not entail criminal liability. The decision is final. His mayoral mandate was restored, he returned to lead Jonava District in March 2025 and resumed his LSDP membership.",
+    "court": "Kaunas Regional Court (Kauno apygardos teismas); Court of Appeal of Lithuania (Lietuvos apeliacinis teismas); Supreme Court of Lithuania (Lietuvos Aukščiausiasis Teismas)",
+    "presumption_note": "The first-instance and appeal convictions were quashed by the Supreme Court, whose final decision of 5 March 2025 discontinued the case; Mindaugas Sinkevičius has no criminal conviction in this case. The facts described above are those found by the lower courts as reported by the press, not established by a final judgment.",
+    "key_facts": [
+      "Damage found by the lower courts: €1,487 (2019–2023); 16 documents; €4,015 repaid before the trial",
+      "27 May 2024: Kaunas Regional Court conviction, €12,500 fine and three-year ban from public office",
+      "19 September 2024: Court of Appeal upheld the conviction; VRK revoked his mayoral mandate",
+      "5 March 2025: Supreme Court quashed the convictions and discontinued the case; he returned as mayor",
+      "LSDP membership suspended November 2023 to March 2025 (VLE)"
+    ],
+    "source_url": [
+      "https://www.lrt.lt/en/news-in-english/19/2371751/lithuanian-town-picks-interim-mayor-following-corruption-scandal",
+      "https://www.lrt.lt/naujienos/lietuvoje/2/2386568/seimas-nustate-pirmalaikiu-jonavos-mero-rinkimu-data-kitamet-kovo-16-aja",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://www.lrt.lt/naujienos/lietuvoje/2/2985085/vrk-panaikino-jonavos-mero-mindaugo-sinkeviciaus-igaliojimus",
+      "https://www.lrt.lt/en/news-in-english/19/2976107/seimas-votes-to-appoint-sinkevicius-as-new-pm"
+    ]
+  }
+]

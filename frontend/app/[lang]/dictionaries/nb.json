@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politikere",
     "countryFilterLabel": "Filtrer etter land",
+    "mapLabel": "Kart: velg et land",
+    "mapCovered": "Dekket",
+    "mapNotCovered": "Ikke dekket ennå",
     "allCountries": "Alle land",
     "otherCountry": "Andre",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "Borgermester",
     "regional_executive": "Regionregjering",
     "party_leader": "Partileder",
+    "judge": "Dommer",
     "other": "Annet verv"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Alle politikere",
     "trackRecord": "Løfteregnskap",
     "contentLanguage": "Profilen er skrevet på {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profildeler",
     "tabs": {
       "promises": "Løfter",

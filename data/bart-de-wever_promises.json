@@ -1,0 +1,251 @@
+[
+  {
+    "id": "bart-de-wever-promise-migration",
+    "title": "Implement the \"strictest migration policy ever\": tighter family reunification and no reception for asylum seekers already protected elsewhere in the EU",
+    "description": "The coalition agreement of 31 January 2025 set out what De Wever called the strictest migration policy Belgium has had and \"the strictest you can have in Europe\": higher income requirements and longer waiting periods for family reunification, fewer rights for people with subsidiary protection, a nationality exam, no full social benefits for newcomers in their first five years, and no access to the asylum procedure or reception for people who have already applied or been protected in another EU state.",
+    "date_made": "2025-01-31",
+    "category": "Migration and asylum",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "The main measures were legislated in 2025: the Easter agreement of April 2025 ended board and lodging for asylum seekers already protected in another EU state, and the Chamber adopted the stricter family-reunification law in the night of 17 to 18 July 2025. On 26 February 2026, however, the Constitutional Court suspended two of these laws (the refusal of reception and the stricter reunification rules for people with subsidiary protection) and referred questions to the EU Court of Justice. The minister kept applying the reception refusal on other legal grounds and says the reunification rules still apply to 98% of cases, so the pledge stands in a partly suspended form.",
+    "key_evidence": [
+      "VRT, 3 February 2025: the coalition agreement promises the \"strictest migration policy ever\"; De Wever called it the \"strictest you can have in Europe\"",
+      "VRT, 14 April 2025: under the Easter agreement, asylum seekers already protected in another EU state lose the right to board and lodging; income requirements for family reunification are raised",
+      "La Libre, 18 July 2025: the Chamber adopted the family-reunification bill (income threshold 110% of the average guaranteed minimum monthly income, i.e. €2,323, plus 10% per additional family member; minimum age 21); supported by the majority, Vlaams Belang and Open Vld",
+      "VRT, 26 February 2026: the Constitutional Court suspended the two laws pending a ruling of the EU Court of Justice",
+      "VRT, 4 March 2026: the minister's office says the reunification rules still apply to 98% of cases; arrivals of people already protected elsewhere in the EU fell 83% in September–December 2025 year on year"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/02/03/mr-de-wever-launches-belgiums-strictest-migration-policy-yet/",
+      "https://www.vrt.be/vrtnws/en/2025/04/14/easter-accord-tackles-tightens-asylum-policy-frees-cash-for-def/",
+      "https://www.lalibre.be/belgique/politique-belge/2025/07/18/asile-et-migration-la-chambre-approuve-le-durcissement-du-regroupement-familial-Z7OGHW6FNJBNDNVDVEL2ZEIXII/",
+      "https://www.vrt.be/vrtnws/nl/2026/02/26/minister-van-bossuyt-n-va-reageert-belgische-wetgeving-volled/",
+      "https://www.vrt.be/vrtnws/en/2026/03/04/asylum-minister-van-bossuyt-persists-in-refusal-of-asylum-seeker/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-unemployment-limit",
+    "title": "Limit unemployment benefits to a maximum of two years",
+    "description": "The coalition agreement ended Belgium's unlimited-duration unemployment benefit: claimants unemployed for more than two years would lose it, with exceptions for people over 55 with long careers. De Wever's government presented it as one of its biggest labour-market reforms.",
+    "date_made": "2025-01-31",
+    "category": "Labour market and social security",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The time limit was written into the programme act adopted by the Chamber in July 2025 and took effect on 1 January 2026. Long-term claimants are being phased out in waves (those unemployed for 20 years or more lost their benefit at the start of 2026, those unemployed for 8 to 20 years on 1 March 2026), and new claimants since March 2026 can receive full benefits for at most two years. The measure was implemented as announced.",
+    "key_evidence": [
+      "VRT, 3 February 2025: coalition agreement, \"people who have been unemployed for more than 2 years will no longer be able to claim unemployment benefits\"",
+      "VRT, 14 April 2025: Easter agreement fixes the start date, 1 January 2026",
+      "VRT, 9 June 2025: the Chamber's social affairs committee approved the bill; about 180,000 people expected to lose benefits in 2026",
+      "VRT, 2 March 2026: new claimants limited to two years (one year for school leavers); the first group lost entitlement at the beginning of 2026 and the next on 1 March"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/02/03/what-are-the-new-governments-plans/",
+      "https://www.vrt.be/vrtnws/en/2025/04/14/easter-accord-tackles-tightens-asylum-policy-frees-cash-for-def/",
+      "https://www.vrt.be/vrtnws/en/2025/06/09/bill-to-limit-unemployment-benefit-to-2-years-oked/",
+      "https://www.vrt.be/vrtnws/en/2026/03/02/unemployment-benefits-limited-to-two-years-for-new-claimants/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-pension-reform",
+    "title": "Reform pensions with a bonus-malus system while keeping the statutory retirement age at 67",
+    "description": "The coalition agreement promised a thorough pension reform: the legal retirement age stays at 67, but people who stop working before it without a full career get a lower pension (malus) and those who work longer a higher one (bonus), with the civil-service, employee and self-employed schemes brought closer together.",
+    "date_made": "2025-01-31",
+    "category": "Pensions",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The pension bill was approved by the Chamber on 28 May 2026 and published in the Belgian Official Journal on 1 June 2026, according to the Federal Pensions Service. It introduces the malus for early retirees who do not meet the new work requirements from 2027, a new bonus accruing from 2026, a 156-day minimum for a career year to count, and a new option to retire at 60 after 42 long career years. The main pledge has been legislated; most effects start in 2027 and some provisions still need implementing measures.",
+    "key_evidence": [
+      "VRT, 23 January 2025: De Wever's formateur note foresaw a malus of 2% per year of early retirement until 2030, then 4% and 5%, and a matching bonus",
+      "VRT, 3 February 2025: coalition agreement keeps the statutory retirement age at 67 with a bonus-malus system",
+      "Federal Pensions Service: the pension bill was approved on 28 May 2026 and published on 1 June 2026; malus from 2027, new bonus accruing from 2026"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/01/23/how-does-formateur-de-wever-hope-to-raise-23-billion-euros/",
+      "https://www.vrt.be/vrtnws/en/2025/02/03/what-are-the-new-governments-plans/",
+      "https://www.sfpd.fgov.be/en/changes/pension-reform"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-indexation",
+    "title": "Retain automatic wage indexation in full",
+    "description": "VRT reported that under the coalition agreement \"the current system of automatic wage indexation will be retained in full\", after adjustments to the calculation had been discussed during the formation talks.",
+    "date_made": "2025-01-31",
+    "category": "Wages and purchasing power",
+    "status": "compromise",
+    "confidence_score": 0.85,
+    "reasoning": "The automatic indexation mechanism still exists, but the budget agreement of 24 November 2025 modified it: in 2026 and 2028, wages above 4,000 euros a month are indexed only on their first 4,000 euros. Most wage earners are not affected, but indexation is no longer applied in full to higher wages in those two years. As of October 2026 a further index skip is again among the options discussed for the 2027–2029 budget.",
+    "key_evidence": [
+      "VRT, 3 February 2025: \"The current system of automatic wage indexation will be retained in full\"",
+      "VRT, 24 November 2025: the budget agreement changes the index mechanism in 2026 and 2028; salaries of 4,000 euros a month and above are indexed only on the first 4,000 euros",
+      "VRT, 12 October 2026: an index skip is again among the measures blocking the 2027 budget talks"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/02/03/what-are-the-new-governments-plans/",
+      "https://www.vrt.be/vrtnws/en/2025/11/24/federal-government-reaches-budget-agreement/",
+      "https://www.vrt.be/vrtnws/nl/2026/10/12/begroting-deja-vu-herhaling-vorig-jaar-analyse/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-capital-gains-tax",
+    "title": "Introduce a 10% capital gains tax (\"solidarity contribution\") with a €10,000 exemption",
+    "description": "The coalition agreement introduced a 10% tax on capital gains on financial assets, called a 'solidarity contribution', sparing small investors through an annual exemption of 10,000 euros. It had been one of the most contested points of the formation talks and a condition of Vooruit for joining the coalition.",
+    "date_made": "2025-01-31",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The Federal Parliament approved Finance Minister Jan Jambon's capital gains tax bill in early April 2026, with the votes of the coalition and of the PS and PVDA-PTB. The tax applies at 10% with a 10,000-euro exemption per person (20,000 for couples married under community of property), and has been in force since 1 January 2026 under a transitional arrangement. It is expected to raise 500 million euros a year once fully operational.",
+    "key_evidence": [
+      "VRT, 3 February 2025: 10% solidarity contribution on capital gains, gains up to 10,000 euros exempt",
+      "VRT, 3 April 2026: Parliament approved the capital gains tax; in force since 1 January 2026; 10% rate, 10,000-euro exemption; expected yield 500 million euros"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/02/03/what-are-the-new-governments-plans/",
+      "https://www.vrt.be/vrtnws/en/2026/04/03/parliament-gives-green-light-to-capital-gains-tax/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-nuclear-exit-repeal",
+    "title": "Repeal the 2003 nuclear phase-out law",
+    "description": "The coalition agreement scrapped the 2003 act that set closure dates for Belgium's seven reactors and banned new nuclear generating capacity, and aimed to extend the Doel 4 and Tihange 3 reactors by 20 years and to study new nuclear plants.",
+    "date_made": "2025-01-31",
+    "category": "Energy",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The Chamber of Representatives voted by a large majority on 15 May 2025 to repeal the 2003 Nuclear Exit Act, on a bill tabled by the five coalition parties. The verdict covers the repeal itself; the further aim of a 20-year extension of Doel 4 and Tihange 3 depends on negotiations with the operator Engie, whose outcome was not assessed for this profile.",
+    "key_evidence": [
+      "VRT, 3 February 2025: the government is scrapping the nuclear exit law and wants to extend Doel 4 and Tihange 3 by 20 years",
+      "VRT, 16 May 2025: MPs voted by a large majority to repeal the 2003 law; Energy Minister Mathieu Bihet called it \"a turning point\""
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/02/03/what-are-the-new-governments-plans/",
+      "https://www.vrt.be/vrtnws/en/2025/05/16/federal-parliament-repeals-law-scrapping-nuclear-energy-producti/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-defence-2pct",
+    "title": "Reach NATO's 2% of GDP defence spending norm well before 2029",
+    "description": "Belgium had planned to reach NATO's 2% of GDP norm for defence spending by 2029. On 6 March 2025 De Wever said \"2029 is far too late\" and that the norm had to be met sooner; the Easter agreement of April 2025 brought the target forward to 2025 itself.",
+    "date_made": "2025-03-06",
+    "category": "Defence",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The Easter agreement released about 4 billion euros of extra defence spending for 2025, funded mainly from taxes on frozen Russian assets at Euroclear and an exceptional Belfius dividend. NATO's figures show Belgium spent 2% of GDP on defence in 2025, for the first time, and estimate the same level for 2026. At the July 2026 NATO summit the government said it would hold spending at 2% until 2029 while drawing up a roadmap towards NATO's new 3.5% target.",
+    "key_evidence": [
+      "VRT, 6 March 2025: Belgium had planned 2% by 2029; De Wever: \"2029 is far too late\"",
+      "VRT, 14 April 2025: Easter agreement, about 4 billion euros extra for defence so Belgium can promise 2% of GDP at the June 2025 NATO summit",
+      "VRT, 8 July 2026: NATO says Belgium reached 2% in 2025 and expects 2% in 2026; the government will keep 2% until 2029"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/03/06/prime-minister-de-wever-to-examine-how-natos-2-defence-spending/",
+      "https://www.vrt.be/vrtnws/en/2025/04/14/easter-accord-tackles-tightens-asylum-policy-frees-cash-for-def/",
+      "https://www.vrt.be/vrtnws/en/2026/07/08/belgium-to-keep-defence-spending-at-2-of-gdp-till-2029-commitm/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-tax-on-work",
+    "title": "Make work pay: cut income tax on earnings, mainly by raising the tax-free allowance",
+    "description": "\"Work must pay more\" was the coalition's motto: VRT reported that a single person on an average wage would gain about 1,200 euros a year after tax and working couples up to 1,900 euros. De Wever's formateur note set the aim of widening the gap between working and not working to 500 euros a month.",
+    "date_made": "2025-01-31",
+    "category": "Taxation",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The Chamber adopted Finance Minister Jan Jambon's personal income tax reform in plenary on 9 July 2026. It raises the tax-free allowance in stages from 10,910 euros to 14,450 euros for tax year 2030 (15,600 euros for 2031, to be confirmed by the next government) and raises the work bonus for low wages. Under the November 2025 budget agreement the first phase started in 2026 and the second was brought forward to 2028, but the third phase was pushed back a year to 2030, so the full effect falls after the current legislature.",
+    "key_evidence": [
+      "VRT, 3 February 2025: about 1,200 euros a year extra for a single person on an average wage, up to 1,900 euros for working couples",
+      "VRT, 26 November 2025: tax reform phase one in 2026, phase two in 2028 (a year early), phase three a year later than planned, in 2030",
+      "La Libre, 10 July 2026: the Chamber adopted the reform; tax-free allowance to 14,450 euros for tax year 2030; work bonus raised; the left-wing opposition voted against"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/02/03/what-are-the-new-governments-plans/",
+      "https://www.vrt.be/vrtnws/en/2025/01/23/how-does-formateur-de-wever-hope-to-raise-23-billion-euros/",
+      "https://www.vrt.be/vrtnws/en/2025/11/26/pm-presents-budget-and-policy-plans-to-parliament/",
+      "https://www.lalibre.be/belgique/politique-belge/2026/07/10/la-grande-reforme-fiscale-de-jan-jambon-adoptee-voici-ce-qui-va-changer-pour-les-belges-APTWISNNDRBHTEOWZIA7MU7SKA/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-deficit",
+    "title": "Bring the budget deficit back towards the EU's 3% of GDP limit by the end of the legislature",
+    "description": "De Wever's January 2025 formateur note planned about 23 billion euros of measures, of which some 18 billion to reduce the deficit to the EU norm of 3% of GDP by 2030 under a seven-year EU adjustment path, the rest to fund new policies. The government has since framed the goal as meeting its European commitments by 2029.",
+    "date_made": "2025-01-23",
+    "category": "Public finances",
+    "status": "in_progress",
+    "confidence_score": 0.5,
+    "reasoning": "The government adopted a multi-year budget agreement on 24 November 2025 worth 9.2 billion euros a year by 2029. In July 2026, however, the Monitoring Committee put the deficit of the federal government and social security at 3.9% of GDP in 2026 and 5.2% in 2029 at unchanged policy, and said at least 7.7 billion euros more was needed just to meet the European commitments; RTBF reports that reaching 3% would take roughly double that. The coalition set itself a 10-billion-euro target, but as of 22 October 2026 the talks were deadlocked and the 15 October deadline for submitting the budget to the European Commission had passed. The low score reflects that the outcome depends on talks still under way.",
+    "key_evidence": [
+      "VRT, 23 January 2025: the formateur's note aims to reduce the deficit to 3% of GDP by 2030 and seeks 23 billion euros",
+      "VRT, 24 November 2025: budget agreement worth 9.2 billion euros a year by 2029",
+      "RTBF, July 2026: Monitoring Committee requires a further 7.7 billion euros by 2029; deficit of 3.9% of GDP in 2026 and 5.2% in 2029 at unchanged policy; public debt 107.9% of GDP in 2025",
+      "La Libre, 10 July 2026: the coalition sets a 10-billion-euro effort for 2029",
+      "VRT, 22 October 2026: no agreement on the 2027–2029 budget after months of talks"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/01/23/how-does-formateur-de-wever-hope-to-raise-23-billion-euros/",
+      "https://www.vrt.be/vrtnws/en/2025/11/24/federal-government-reaches-budget-agreement/",
+      "https://www.rtbf.be/article/budget-federal-7-7-milliards-d-euros-a-trouver-d-ici-2029-pour-garder-le-deficit-budgetaire-sous-controle-11753597",
+      "https://www.lalibre.be/belgique/politique-belge/2026/07/10/larizona-sengage-a-realiser-10-milliards-deuros-deffort-budgetaire-pour-2029-G6Y4IT4PDVHCDKARKEUC4233W4/",
+      "https://www.vrt.be/vrtnws/nl/2026/10/22/maanden-onderhandelen-zonder-resultaat-federaal-begrotingsoverl"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-abolish-senate",
+    "title": "Abolish the Senate before the 2029 federal elections",
+    "description": "The coalition agreement provides for abolishing the Senate, whose role had already been reduced by successive state reforms. In June 2025 the government agreed to transfer its remaining powers to the Chamber, aiming to complete the abolition just before the 2029 elections. Constitutional amendments require a two-thirds majority, which the coalition does not have on its own.",
+    "date_made": "2025-01-31",
+    "category": "Institutions",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The first step has been completed: the revision of Article 195 of the Constitution, which allows the other Senate-related articles to be revised during this legislature, was approved by the Senate on 3 April 2026 (36 votes to 8, with 14 abstentions) and by the Chamber on 2 July 2026 (96 to 16, with 10 abstentions). The abolition itself still requires further constitutional votes with two-thirds majorities, and MR and Les Engagés have set conditions, notably on guaranteed representation of German-speaking Belgians.",
+    "key_evidence": [
+      "VRT, 3 February 2025: the coalition agrees to abolish the Senate",
+      "VRT, 17 June 2025: the government agrees to move the Senate's remaining powers to the Chamber; abolition planned just ahead of the 2029 elections",
+      "VRT, 3 April 2026: the Senate approved the revision of Article 195 by 36 to 8 with 14 abstentions; because MR and some Les Engagés senators abstained, Vlaams Belang's votes were needed for the two-thirds majority",
+      "VRT, 3 July 2026: the Chamber approved the revision of Article 195 by 96 to 16 with 10 abstentions; De Wever called the Senate a \"symbol of waste\""
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/02/03/what-are-the-new-governments-plans/",
+      "https://www.vrt.be/vrtnws/en/2025/06/17/federal-government-reaches-agreement-on-abolishing-the-senate-b/",
+      "https://www.vrt.be/vrtnws/nl/2026/04/03/senaat-maakt-zijn-eigen-afschaffing-mogelijk-na-lang-en-tumultue/",
+      "https://www.vrt.be/vrtnws/fr/2026/07/03/la-chambre-a-approuve-la-revision-de-l-article-195-de-la-constit/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-palestine",
+    "title": "Formally recognise the State of Palestine once the hostages are freed and Hamas is removed from power",
+    "description": "At the United Nations on 22 September 2025, De Wever announced that Belgium recognises a Palestinian state as a political and diplomatic signal, and said full legal recognition would follow once all hostages held by Hamas are released and Hamas is removed from power; diplomatic relations would depend on Hamas disarming.",
+    "date_made": "2025-09-22",
+    "category": "Foreign policy",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "Legal recognition requires a royal decree, which had not been adopted as of the latest reporting found for this profile (July 2026). In January 2026, after the body of the last hostage was recovered, De Wever told the Chamber it would be prudent to wait. In July 2026, after Hamas announced the dissolution of its governing bodies in Gaza, Foreign Minister Maxime Prévot asked his administration to prepare the formal recognition. No later development was found, hence the moderate score.",
+    "key_evidence": [
+      "VRT, 23 September 2025: De Wever at the UN, full legal recognition only once all hostages are released, Hamas is removed from power and elections are held",
+      "VRT, 28 January 2026: De Wever tells the Chamber it would be prudent to wait before recognising Palestine",
+      "VRT, 7 July 2026: Prévot asks his administration to prepare the recognition; it has not yet been laid down in a royal decree"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2025/09/23/belgium-conditionally-recognises-palestinian-state/",
+      "https://www.vrt.be/vrtnws/fr/2026/01/28/de-wever-a-la-chambre-il-serait-prudent-dattendre-avant-de-re",
+      "https://www.vrt.be/vrtnws/fr/2026/07/07/le-ministre-des-affaires-etrangeres-prevot-prepare-une-decision"
+    ]
+  },
+  {
+    "id": "bart-de-wever-promise-no-vlaams-belang",
+    "title": "Not form a government with Vlaams Belang",
+    "description": "Although he has called the cordon sanitaire around Vlaams Belang undemocratic, De Wever said before the June 2024 elections that he would not form a government with the party; earlier he told Humo that if he had to choose between leaving politics and working with Vlaams Belang he would stop immediately (RTBF).",
+    "date_made": "2024",
+    "category": "Coalition politics",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "After the 2024 elections, in which N-VA again came first in Flanders, De Wever formed the federal Arizona coalition without Vlaams Belang, and the Flemish government formed by his party colleague Matthias Diependaele also left Vlaams Belang in opposition. Vlaams Belang remains an opposition party in the Chamber as of 2026.",
+    "key_evidence": [
+      "VRT portrait, 1 February 2025: before the 2024 elections De Wever said he would not form a government with Vlaams Belang",
+      "RTBF: De Wever \"closes the door, with a smile\" on Vlaams Belang and told Humo he would rather quit politics than work with it",
+      "VRT, 3 July 2026: Vlaams Belang listed among opposition parties in the Chamber vote on the Senate reform"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/nl/2025/01/10/portret-bart-de-wever/",
+      "https://www.rtbf.be/article/bart-de-wever-exclut-toute-future-coalition-avec-le-vlaams-belang-strategie-de-com-ou-reelle-volonte-10657882",
+      "https://www.vrt.be/vrtnws/fr/2026/07/03/la-chambre-a-approuve-la-revision-de-l-article-195-de-la-constit/"
+    ]
+  }
+]

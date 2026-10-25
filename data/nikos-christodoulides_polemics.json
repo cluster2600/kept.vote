@@ -1,0 +1,173 @@
+[
+  {
+    "id": "nikos-christodoulides-pol-videogate",
+    "title": "'Videogate': covert video alleging campaign-finance breaches and paid access around the president (2026)",
+    "period": "January 2026 – ongoing",
+    "category": "judicial",
+    "description": "On 8 January 2026, days after Cyprus took over the presidency of the Council of the EU, an account named 'Emily Thompson' posted on X an edited video combining covert recordings of the president's chief of staff (director of the president's office) Charalambos Charalambous, former energy minister Giorgos Lakkotrypis and Giorgos Chrysochos, chief executive of the construction group Cyfield. According to the Cyprus Mail, Charalambous and Lakkotrypis appeared to explain how cash donations were used to circumvent campaign-finance rules for Christodoulides' 2023 campaign and to suggest that donations from oligarchs threatened with sanctions would lead him to help them avoid EU sanctions, while Chrysochos appeared to say he paid €250,000 a year for access to the government; the video also alleged that donors used the social support body chaired by the First Lady to curry favour. The government denied any wrongdoing. Charalambous resigned on 12 January 2026, saying his words had been distorted by 'selective excerpts'; Attorney-General George Savvides appointed former Supreme Court judge Andreas Paschalides as independent criminal investigator on 13 January. In April 2026 the Israeli private intelligence firm Black Cube confirmed it had produced the recordings, saying Cyfield was the target. On 20 July 2026 Paschalides reported no offence under the Criminal Code, described the video as edited and as a 'hybrid attack' against the Republic, and found no wrongdoing in the sanctions allegations, but days later stated that he had found offences under the anti-corruption convention law by some individuals and recommended prosecutions; Black Cube's lawyer said the police had certified the authenticity of the 26 hours of footage. Christodoulides is not among the people shown in the video, and the recordings, according to Black Cube's lawyer, contain 'no communication with the President of the Republic'; he is not a party to the proceedings. No one has been charged; the people shown in the video are presumed innocent.",
+    "status": "judicial",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "8 January 2026: video posted on X; 12 January: chief of staff Charalambous resigns; First Lady Philippa Karsera Christodoulides steps down as chair of the social support body",
+      "13 January 2026: former Supreme Court judge Andreas Paschalides appointed independent criminal investigator",
+      "10 April 2026: Black Cube confirms it was behind the video (Politis, Cyprus Mail)",
+      "20–23 July 2026: investigator finds no Criminal Code offence but recommends prosecutions under the anti-corruption convention law; the Legal Service assesses possible bribery, trading-in-influence and money-laundering offences involving two individuals",
+      "As of October 2026 the Attorney-General's decision was pending; the investigator's mandate was extended to 31 December 2026 to identify Black Cube's client and motives"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2026/01/12/christodoulides-chief-of-staff-resigns-in-video-storm",
+      "https://cyprus-mail.com/2026/01/13/independent-criminal-investigator-appointed-to-look-into-video",
+      "https://www.euronews.com/2026/01/13/cyprus-presidents-top-aide-quits-after-video-alleging-government-corruption",
+      "https://cyprus-mail.com/2026/04/10/israeli-private-intelligence-agency-allegedly-behind-christodoulides-corruption-video",
+      "https://cyprus-mail.com/2026/07/20/no-criminal-wrongdoing-indicated-in-videogate-investigator-says",
+      "https://cyprus-mail.com/2026/07/22/legal-service-to-assess-possible-corruption-offences-in-videogate-probe",
+      "https://cyprus-mail.com/2026/07/23/paschalides-recommends-criminal-prosecutions-in-videogate-affair",
+      "https://cyprus-mail.com/2026/07/31/if-i-was-wrong-hang-me-says-paschalidis-on-videogate-probe",
+      "https://en.politis.com.cy/news/1020613/black-cube-answers-politis-on-videogate-probe-defends-cyprus-operation"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-social-support-body",
+    "title": "Social support body chaired by the First Lady: donor scrutiny and abolition by parliament (2026)",
+    "period": "January – April 2026",
+    "category": "transparency",
+    "description": "The social support body for needy students, set up in 2014 under the patronage of the then First Lady Andri Anastasiades, passed to Philippa Karsera Christodoulides after her husband's election. Following the January 2026 'Videogate' video, which alleged that donors used it to gain favour with the president, she stepped down as chair; according to the Cyprus Mail, donations to the fund had surged in 2023 and an Audit Office report said it gave the impression of a system linked to influence or expected benefit, and a court had found its previous legal framework unconstitutional. Christodoulides said he was considering abolishing it, and in February 2026 the government told MPs it considered 'the agency's lifecycle complete' and proposed transferring its functions to the finance ministry. Parliament rejected the government's two bills and instead voted to abolish the body and transfer its operations to the state scholarships foundation; government spokesman Konstantinos Letymbiotis called the decision 'regrettable' and attributed it to 'petty political expediencies'.",
+    "status": "resolved",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "January 2026: Philippa Karsera Christodoulides resigns as chair after the video's publication",
+      "February 2026: government says the body's 'lifecycle' is complete; AKEL and others table bills to abolish it",
+      "April 2026: House abolishes the body, transferring it to the state scholarships foundation; government calls the vote 'regrettable'"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2026/02/11/social-support-agency-set-for-abolition-powers-to-be-transferred-to-finance-ministry",
+      "https://cyprus-mail.com/2026/04/03/government-criticises-parliament-on-decision-to-scrap-social-support-agency"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-audit-spokesman-payments",
+    "title": "Audit Office findings on payments he received as government spokesman (2023)",
+    "period": "2022 – 2024",
+    "category": "public funds / accountability",
+    "description": "In a report published on 7 December 2023, the Audit Office under Auditor-General Odysseas Michaelides found that Christodoulides' 2014 appointment as government spokesman had never been published in the Gazette, and said he should return €18,176 (before deductions) paid in 2018 for 75 days of accumulated leave whose forms he had filled in only after leaving the civil service; that the private share of the 172,861 km driven in his official car over three and a half years should be repaid (estimated by the Audit Office at €38,928, the presidency having refused to provide data); and that about €20,804 of his overseas allowance had been overpaid, a matter it left to him. The presidency argued the Audit Office was exceeding its remit and violating personal data, and Christodoulides referred the report to the Attorney-General. Attorney-General George Savvides responded that the mileage methodology 'indicates an intention to discredit the president' and, as Michaelides acknowledged in December 2024, closed the matter; Michaelides disputes that conclusion.",
+    "status": "resolved",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "7 December 2023: Audit Office report on leave pay, car use and overseas allowance from his years as spokesman (2014–2018)",
+      "Christodoulides refers the report to the Attorney-General; the Attorney-General's opinion disputes the Audit Office's calculations and the matter is closed",
+      "December 2024: Michaelides, by then removed from office, accuses the president and the Attorney-General of 'collusion'"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2023/12/07/audit-office-demands-thousands-in-overpayments-to-president/",
+      "https://cyprus-mail.com/2024/12/05/michaelides-accuses-president-and-attorney-general-of-collusion-to-get-him-sacked/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-auditor-general-removal",
+    "title": "Removal of Auditor-General Odysseas Michaelides (2024)",
+    "period": "April 2024 – 2025",
+    "category": "institutions",
+    "description": "After years of public clashes between the Audit Office and the Legal Service, Attorney-General George Savvides applied in April 2024 to the Supreme Constitutional Court to remove Auditor-General Odysseas Michaelides for inappropriate conduct. On 18 September 2024 an eight-judge panel unanimously found him unfit for office in a 209-page decision, saying he had repeatedly misinformed the public and undermined the Attorney-General. Michaelides called it 'a black day for Cyprus' and said the effort to remove him, begun under President Anastasiades, had been joined by 'the incumbent President'; in December 2024 he accused Christodoulides and Savvides of 'collusion'. Government spokesman Konstantinos Letymbiotis rejected the allegation and said the court's decision would be respected. AKEL, the Greens, DIKO and Volt criticised the ruling as a blow to transparency. Christodoulides was not a party to the case, which was brought by the Attorney-General; Michaelides went on to found the ALMA party in May 2025, which won four seats in May 2026.",
+    "status": "resolved",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "April 2024: Attorney-General files for Michaelides' removal",
+      "18 September 2024: Supreme Constitutional Court removes him unanimously",
+      "Government denies Michaelides' claim that the president was behind the effort"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2024/09/18/auditor-general-fired-for-inappropriate-conduct/",
+      "https://cyprus-mail.com/2024/09/18/govt-denies-trying-to-get-auditor-general-fired/",
+      "https://cyprus-mail.com/2024/12/05/michaelides-accuses-president-and-attorney-general-of-collusion-to-get-him-sacked/",
+      "https://en.wikipedia.org/wiki/2026_Cypriot_legislative_election"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-reshuffle-giorgallas",
+    "title": "January 2024 reshuffle and reports that Athens sought the defence minister's removal",
+    "period": "December 2023 – January 2024",
+    "category": "government / appointments",
+    "description": "Ten months into his term Christodoulides replaced four ministers on 8 January 2024, including Defence Minister Michalis Giorgallas, replaced by Vasilis Palmas; the parties backing him said they were caught off guard. The Greek newspaper Estia reported that Giorgallas had been 'beheaded at the request of Athens' over his stance on Turkey, a claim repeated by Greek opposition leader Kyriakos Velopoulos. Government spokesman Konstantinos Letymbiotis denied any Greek intervention, saying the decision was 'solely the choice of the President'. AKEL said the early reshuffle reflected 'great disappointment' with the government.",
+    "status": "resolved",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "8 January 2024: Giorgallas (defence), Xenophontos (agriculture), Procopiou (justice) and Kanari (health) replaced",
+      "16 January 2024: the government denies reports of Greek pressure"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2024/01/08/four-ministers-out-as-reshuffle-announced/",
+      "https://cyprus-mail.com/2024/01/16/greece-was-not-behind-ministers-ousting/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-migrant-pushbacks",
+    "title": "Allegations of pushbacks of Syrian refugees and suspension of Syrian asylum claims (2024)",
+    "period": "2023 – 2024",
+    "category": "migration / human rights",
+    "description": "In April 2024 the government suspended the processing of asylum applications from Syrian nationals, citing mass arrivals from Lebanon. In a 90-page report published on 4 September 2024, Human Rights Watch said that the Cypriot coast guard and security forces had sent Syrians whose boats reached Cyprus back to Lebanon without regard to their refugee status, describing the returns as collective expulsions prohibited by the European Convention on Human Rights, and documented cases from August 2021 to September 2023 (partly before his term) involving the use of force and zip-ties, including on a 15-year-old boy. It called on Cyprus to resume asylum processing for Syrians. According to the Associated Press, Cypriot and Lebanese officials deny violating any laws and say they are overwhelmed by the migration they face. The government presents its migration policy as a success, citing sharply lower arrivals and higher returns.",
+    "status": "political",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "April 2024: suspension of Syrian asylum applications",
+      "4 September 2024: Human Rights Watch report 'I Can't Go Home, Stay Here, or Leave'",
+      "Cypriot officials deny breaking the law (AP via Arab News)"
+    ],
+    "source_url": [
+      "https://www.hrw.org/news/2024/09/04/lebanon/cyprus-refugees-pulled-back-expelled-then-forced-back-syria",
+      "https://cyprus-mail.com/2024/09/04/cyprus-blatantly-disregards-migrant-human-rights-report",
+      "https://www.arabnews.com/node/2570055"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-hezbollah-threat",
+    "title": "Hezbollah's threat over Cyprus' ties with Israel (June 2024)",
+    "period": "June 2024",
+    "category": "foreign policy",
+    "description": "On 19 June 2024 Hezbollah leader Hassan Nasrallah said that opening Cypriot 'airports and bases' to Israel to target Lebanon would make the Cypriot government 'part of the war'; the remark was widely read as referring to the British base RAF Akrotiri. Christodoulides replied the same evening that 'Cyprus is not participating in any military engagements' and that it was 'part of the solution, not the problem', pointing to the Amalthea humanitarian corridor, and said Cyprus kept open diplomatic channels with Lebanon and Iran.",
+    "status": "political",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "19 June 2024: Nasrallah threatens Cyprus in a televised address",
+      "Christodoulides: 'Cyprus is not part of the problem, it is part of the solution'"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2024/06/19/hezbollah-leader-threatens-cyprus"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-great-sea-interconnector",
+    "title": "Great Sea Interconnector: dispute with Greece and EPPO investigation (2025)",
+    "period": "2025 – ongoing",
+    "category": "energy / foreign relations",
+    "description": "The Great Sea Interconnector, an EU-funded electricity cable meant to link Cyprus with Greece (and Israel), stalled in 2025. Cyprus withheld the first of five €25 million annual payments promised to the Greek operator Admie, its 51% shareholder, citing a lack of progress, and Finance Minister Makis Keravnos said studies by 'independent and serious organisations' found the project 'not sustainable'; Greek ministers asked Nicosia to clarify its position and spoke of 'constantly conflicting messages'. Christodoulides insisted there was 'no crisis' with Greece, only 'technocratic differences', that Cyprus 'will not be blackmailed by any head of Admie', and that the project would 'of course' be built, dismissing what he called Turkey's 'absurd objections'. On 4 September 2025 the European Public Prosecutor's Office (EPPO) confirmed it had opened an investigation into the project; according to the daily Phileleftheros it concerns the period before Admie took over, when the Cyprus-based EuroAsia Interconnector ran it. No outcome had been reported in the sources consulted.",
+    "status": "ongoing",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "September 2025: EPPO confirms an investigation into the project",
+      "October 2025: Christodoulides says there is 'no crisis' with Greece and that the 2026 budget provides a further €25 million"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2025/09/04/eu-launches-investigation-into-great-sea-interconnector",
+      "https://cyprus-mail.com/2025/10/07/no-crisis-between-cyprus-and-greece-christodoulides-insists"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-pol-vasiliko-lng",
+    "title": "Stalled Vasiliko LNG terminal and repayment of EU funds (2024–2026)",
+    "period": "July 2024 – ongoing",
+    "category": "energy / public funds",
+    "description": "The LNG import terminal at Vasiliko, meant to bring natural gas to power generation, was backed by a €101 million EU grant approved in 2017 and contracted in December 2019 to a Chinese-led consortium (CPP-Metron), both under his predecessor. The consortium tore up its contract in July 2024, accusing the state company Etyfa of 'bullying' and late payment, leaving the jetty half-built and the floating regasification unit moored in Malaysia; the same month the European Commission demanded repayment of almost €69 million over possible irregularities in the 2019 tender award and a 2022 funding agreement, and the European Public Prosecutor's Office (EPPO) opened an investigation into possible procurement fraud and corruption. In February 2026 Energy Minister Michael Damianos told MPs the government was returning €67 million and could give no completion date; opposition MPs criticised the lack of accountability, and AKEL said the idle vessel cost taxpayers €470,000 a month. A new call for expressions of interest to complete the terminal, at an estimated €180 million, closed on 9 October 2026.",
+    "status": "ongoing",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "December 2019: contract signed with the CPP-Metron consortium (before his term)",
+      "July 2024: the consortium leaves the project; the Commission seeks repayment of almost €69 million; EPPO investigation opened",
+      "February 2026: €67 million being returned; no completion date given",
+      "9 October 2026: deadline for expressions of interest in completing the terminal"
+    ],
+    "source_url": [
+      "https://cyprus-mail.com/2026/02/10/cyprus-returning-european-money-for-lng-terminal",
+      "https://cyprus-mail.com/2026/10/09/deadline-passes-for-expressions-of-interest-in-vasiliko-lng-project"
+    ]
+  }
+]

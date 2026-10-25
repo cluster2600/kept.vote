@@ -1,0 +1,78 @@
+[
+  {
+    "id": "luis-montenegro-co-spinumviva",
+    "entity": "Spinumviva, Lda.",
+    "role": "founder, partner and manager",
+    "ownership_stake": "62.5% (2021–2022)",
+    "period": "2021–2022",
+    "status": "historical",
+    "detail": "Family company founded in 2021 with his wife and two sons, providing data-protection compliance and other services. He transferred his stake to his wife in 2022; her 70% was declared with a value of €4,200. Its clients, published by his office on 26 March 2026, are Rádio Popular; Lopes Barata – Consultoria e Gestão; CLIP – Colégio Luso Internacional do Porto; Ferpinta; Solverde; Cofina; Grupo Joaquim de Barros Rodrigues & Filhos / Rodáreas – Áreas de Serviço; ITAU; Sogenave; Portugalenses Transportes; Beetsteel; Inetum Portugal; and Grupel (as listed by Lusa; his office described them as 13 clients).",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://www.rtp.pt/noticias/lusa/montenegro-diz-que-divulgacao-dos-clientes-da-spinumviva-segue-termos-definidos-pela-entidade-para-a-transparencia_n1733920"
+    ]
+  },
+  {
+    "id": "luis-montenegro-co-spm",
+    "entity": "SP&M – Sousa Pinheiro & Montenegro (law firm)",
+    "role": "co-founder and partner",
+    "ownership_stake": "50%",
+    "period": "2012–2022",
+    "status": "historical",
+    "detail": "Founded with his colleague Sousa Pinheiro; stake sold in 2022 (official biography: partner until July 2022).",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro"
+    ]
+  },
+  {
+    "id": "luis-montenegro-co-oliveiras-gold",
+    "entity": "Oliveiras Gold Portugal (olive oil)",
+    "role": "shareholder",
+    "ownership_stake": "25%",
+    "period": "declared 2011; sold by 2015",
+    "status": "historical",
+    "detail": "Stake declared in 2011 and no longer held in 2015 (Observador).",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-co-luimonteado",
+    "entity": "Luimonteado (mineral-water trading, Barcelos)",
+    "role": "majority shareholder",
+    "ownership_stake": "95%",
+    "period": "declared 2011; sold by 2015",
+    "status": "historical",
+    "detail": "Stake declared in 2011 and no longer held in 2015 (Observador).",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-co-radio-popular",
+    "entity": "Rádio Popular, S.A.",
+    "role": "chair of the general meeting",
+    "ownership_stake": null,
+    "period": "from May 2015",
+    "status": "historical",
+    "detail": "Corporate office first declared for 2015; Rádio Popular later became a client of Spinumviva.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro"
+    ]
+  },
+  {
+    "id": "luis-montenegro-co-ferpinta",
+    "entity": "Grupo Ferpinta (steel tubes)",
+    "role": "chair of the general meeting",
+    "ownership_stake": null,
+    "period": "declared from 2017",
+    "status": "historical",
+    "detail": "Corporate office declared from 2017; Ferpinta later became a client of Spinumviva.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro"
+    ]
+  }
+]

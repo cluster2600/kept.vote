@@ -1,0 +1,48 @@
+[
+  {
+    "id": "mindaugas-sinkevicius-fin-2023-savings",
+    "year": 2023,
+    "type": "savings",
+    "label": "Money held in credit institutions and elsewhere, with his wife (end of 2023)",
+    "amount": "21,000 EUR",
+    "detail": "As reported by LRT's investigations unit from the annual asset declaration data published by the State Tax Inspectorate (VMI). According to LRT he had not filed a declaration for 2024. Lithuanian state politicians file an annual family asset declaration (metinė gyventojo (šeimos) turto deklaracija) whose public extract VMI publishes; VMI's extract viewer builds its content with scripts and could not be read by the harvest for this research, so the figures are taken from LRT, which cites the declarations.",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis",
+      "https://www.vmi.lt/evmi/metines-gyventojo-seimos-turto-deklaracijos-duomenu-israsai"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-fin-2025-savings",
+    "year": 2025,
+    "type": "savings",
+    "label": "Money held in credit institutions, with his wife (declaration for 2025)",
+    "amount": "17,400 EUR",
+    "detail": "From his declaration for 2025 as reported by LRT's investigations unit (June 2026). VMI's public extract viewer could not be read by the harvest; figures as cited by LRT.",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis",
+      "https://www.vmi.lt/evmi/metines-gyventojo-seimos-turto-deklaracijos-duomenu-israsai"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-fin-2025-debt",
+    "year": 2025,
+    "type": "debt",
+    "label": "Borrowed funds (declaration for 2025)",
+    "amount": "27,400 EUR",
+    "detail": "Borrowed funds listed in his declaration for 2025, as reported by LRT's investigations unit. VMI's public extract viewer could not be read by the harvest; figures as cited by LRT.",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-fin-2025-land",
+    "year": 2025,
+    "type": "real_estate",
+    "label": "Value of land plots held (declaration for 2025)",
+    "amount": "96,200 EUR",
+    "detail": "Total value of the land plots listed in his declaration for 2025, as reported by LRT's investigations unit; the individual plots are described under real estate. VMI's public extract viewer could not be read by the harvest; figures as cited by LRT.",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  }
+]

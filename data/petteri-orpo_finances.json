@@ -1,0 +1,24 @@
+[
+  {
+    "id": "petteri-orpo-fin-2025-kokoomus",
+    "year": 2025,
+    "type": "income",
+    "label": "Income from Kokoomus (party chairmanship), declared for 2025",
+    "amount": "€24,000",
+    "detail": "Declared as income from activities outside the MP's mandate. The register does not cover his salary as Prime Minister or MP. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-fin-2025-turku",
+    "year": 2025,
+    "type": "income",
+    "label": "Turku City Council fees, declared for 2025",
+    "amount": "€1,140",
+    "detail": "Declared as income from activities outside the MP's mandate; no income from business activity was declared for 2025. Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  }
+]

@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filteren op land",
+    "mapLabel": "Kaart: kies een land",
+    "mapCovered": "Opgenomen",
+    "mapNotCovered": "Nog niet opgenomen",
     "allCountries": "Alle landen",
     "otherCountry": "Overig",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "Burgemeester",
     "regional_executive": "Regionaal bestuurder",
     "party_leader": "Partijleider",
+    "judge": "Rechter",
     "other": "Ander ambt"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Alle politici",
     "trackRecord": "Balans van beloften",
     "contentLanguage": "Profiel opgesteld in het {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profielonderdelen",
     "tabs": {
       "promises": "Beloften",

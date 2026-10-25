@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiċi",
     "countryFilterLabel": "Iffiltra skont il-pajjiż",
+    "mapLabel": "Mappa: agħżel pajjiż",
+    "mapCovered": "Kopert",
+    "mapNotCovered": "Għadu mhux kopert",
     "allCountries": "Il-pajjiżi kollha",
     "otherCountry": "Oħrajn",
     "politicianCount": {
@@ -57,6 +60,7 @@
     "mayor": "Sindku",
     "regional_executive": "Eżekuttiv reġjonali",
     "party_leader": "Kap tal-partit",
+    "judge": "Imħallef",
     "other": "Kariga oħra"
   },
   "notFound": {
@@ -68,6 +72,7 @@
     "back": "← Il-politiċi kollha",
     "trackRecord": "Rekord tal-wegħdiet",
     "contentLanguage": "Lingwa tal-profil: {language}",
+    "photoCredit": "Ritratt: {author}, {license}, permezz ta' {source}",
     "tabsLabel": "Taqsimiet tal-profil",
     "tabs": {
       "promises": "Wegħdiet",

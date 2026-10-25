@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mindaugas-sinkevicius-re-jonava-centre-plot",
+    "property": "State land plot of 38.23 ares on J. Basanavičius Street",
+    "location": "Jonava (town centre)",
+    "transaction_type": "purchase at a state auction, then sale",
+    "date": "2024-05",
+    "value": "Bought for 11,670.98 EUR (starting price, sole bidder); sold in March 2025 for 55,000 EUR",
+    "detail": "According to LRT's investigations unit, which used Centre of Registers and National Land Service records, he bought the plot from the state while mayor of Jonava and sold it to the company 'Fondatum', which operates a car wash there; he told LRT he earned 44,000 EUR and paid the taxes. The circumstances of the sale are described under polemics.",
+    "status": "divested",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-re-jonava-shared-plot",
+    "property": "One-third share (with his wife) of a land plot",
+    "location": "Jonava",
+    "transaction_type": "purchase",
+    "date": "2024-09",
+    "value": "Two-thirds of the plot transferred for 92,000 EUR to him and his wife and to another couple; his share could have cost about 46,000 EUR (LRT)",
+    "detail": "Bought from fellow Social Democrat councillor Nerijus Šalūga, who had bought the whole plot in June 2024 for 138,000 EUR; the other third went to councillor Erlandas Andrejevas and his wife. According to LRT, the day before the transaction was registered the Jonava municipality approved a planning programme to subdivide the plot and change its use from agricultural to residential.",
+    "status": "declared",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-re-vilnius-district-plot",
+    "property": "One-quarter share of a land plot",
+    "location": "Pašiliai village, Vilnius District",
+    "transaction_type": "purchase",
+    "date": "2024",
+    "value": "Total price 55,000 EUR; his quarter share could have cost about 13,750 EUR (LRT)",
+    "detail": "Co-owned with Jonava councillor Erlandas Andrejevas (half) and another co-owner, according to LRT's investigation.",
+    "status": "declared",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-re-ragoziai-plot",
+    "property": "Half share (with his wife) of a land plot",
+    "location": "Ragožiai village, Jonava District",
+    "transaction_type": "purchase",
+    "date": "2025-12",
+    "value": "21,000 EUR (registered transaction value)",
+    "detail": "Bought from Erlandas Andrejevas, who had acquired the plot in July 2025, according to LRT's investigation.",
+    "status": "declared",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-re-earlier-transactions",
+    "property": "Earlier plots and buildings bought and resold (2012–2022)",
+    "location": "Jonava District",
+    "transaction_type": "purchases, sales and an exchange",
+    "date": "2012–2022",
+    "value": "Plot in Šveicarija village bought in 2012 for 3,403 EUR and sold in August 2015 for 4,000 EUR; confectionery-workshop buildings in Rukla bought in November 2013 for 2,082 EUR and sold in January 2015 for 2,027 EUR; five forest plots bought at auction in 2018 for 3,032 EUR in total and exchanged in December 2022 for two plots in Šveicarija village",
+    "detail": "According to LRT's investigation, the Šveicarija plot was sold a month after the municipal administration changed its designation from agricultural to residential land (July 2015), and the Rukla buildings were sold to Social Democrat councillor Nerijus Šalūga after Sinkevičius, as mayor, had asked the municipality to form a state land plot next to them. The forest plots received in the 2022 exchange were later sold to a timber company.",
+    "status": "historical",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lrt-tyrimai/5/2976417/lrt-tyrimas-naujasis-premjeras-sekmingas-zemvaldys-sklypus-dalinasi-draugu-burelis"
+    ]
+  }
+]

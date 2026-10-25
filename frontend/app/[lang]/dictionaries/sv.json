@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiker",
     "countryFilterLabel": "Filtrera efter land",
+    "mapLabel": "Karta: välj ett land",
+    "mapCovered": "Bevakat",
+    "mapNotCovered": "Ännu inte bevakat",
     "allCountries": "Alla länder",
     "otherCountry": "Övriga",
     "politicianCount": {
@@ -51,6 +54,7 @@
     "mayor": "Borgmästare",
     "regional_executive": "Regionregering",
     "party_leader": "Partiledare",
+    "judge": "Domare",
     "other": "Annat uppdrag"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Alla politiker",
     "trackRecord": "Löftesfacit",
     "contentLanguage": "Profilen är skriven på {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profilavsnitt",
     "tabs": {
       "promises": "Löften",

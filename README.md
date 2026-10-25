@@ -51,6 +51,8 @@ promise-verification-api/
 ├── validate_profile.py    # Check profiles against docs/PROFILE_FORMAT.md
 ├── build_d1.py            # Render the site's data into SQL for Cloudflare D1
 ├── d1/                    # D1 schema (+ generated seed in d1/build/)
+├── harvest.py             # Source checks and research pages (Kitesurf)
+├── harvest/               # kept-vote-kitesurf Worker (docs/HARVEST.md)
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml     # Postgres + API (local tooling)
@@ -148,6 +150,8 @@ Profiles live in [`data/`](./data) as one JSON file per section. To add a
 politician, follow [`docs/PROFILE_FORMAT.md`](./docs/PROFILE_FORMAT.md): it
 covers the fields, sourcing and editorial rules, and the
 `python validate_profile.py --strict <slug>` check every new profile must pass.
+Sources are read and re-checked through Cloudflare Kitesurf with
+[`harvest.py`](./harvest.py); see [`docs/HARVEST.md`](./docs/HARVEST.md).
 
 ## API endpoints
 

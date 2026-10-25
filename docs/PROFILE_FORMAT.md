@@ -11,11 +11,27 @@ that passes strict validation.
    (`ursula-von-der-leyen`, `petr-fiala`). Diacritics are dropped in the slug
     only, never in the data.
 2. Research and write the files below. Record the research date in your commit
-   message: profiles describe the situation **as of that date**.
+   message: profiles describe the situation **as of that date**. Read source
+   pages through the harvest, which returns them as Markdown marked untrusted
+   (see [HARVEST.md](HARVEST.md)):
+
+   ```bash
+   python harvest.py fetch https://www.gov.pl/web/premier
+   ```
+
 3. Validate. New profiles must pass strict mode:
 
    ```bash
    python validate_profile.py --strict <slug>
+   ```
+
+   Then check that every source answers. `sync` loads the profile's URLs, `run`
+   harvests the next 20 (repeat until none is "not checked yet"), and `report`
+   lists the ones that are dead, blocked or unreachable:
+
+   ```bash
+   python harvest.py sync && python harvest.py run
+   python harvest.py report --slug <slug>
    ```
 
 4. Import locally and check the page renders:
@@ -72,16 +88,43 @@ parliamentary registers of interests) where those are public.
 ```
 
 - `country`: English short name. `country_code`: ISO 3166-1 alpha-2 (`GR` for
-  Greece, not `EL`). Covered: the 27 EU member states, `CH`, `NO`.
+  Greece, not `EL`). Covered: the 27 EU member states, `CH`, `NO`, and `LB`,
+  `SY`, `IL`, `PS` (the Palestinian territories).
 - `office`: one of `head_of_state`, `head_of_government`, `minister`,
-  `legislator`, `mayor`, `regional_executive`, `party_leader`, `other`. The UI
-  translates this; `role` carries the exact title.
+  `legislator`, `mayor`, `regional_executive`, `party_leader`, `judge`,
+  `other`. The UI translates this; `role` carries the exact title. Judges have
+  no promises or legislation: those files hold `[]`, and `electoral_history`
+  records their election by parliament where there is one.
 - `content_lang`: the language every text field is written in. **New profiles
   are written in English** (`en`), keeping native names and official titles in
   the original language where useful (e.g. "Federal Chancellor
   (Bundeskanzler)"). The UI is translated, profile text is not.
 - `party`: native name with abbreviation, then the European Parliament group.
 - `birth_date`: `YYYY-MM-DD`.
+- `portrait` (optional): added by `python harvest.py portrait <slug>`, never
+  by hand. It takes the lead photo of the person's Wikipedia article, only if
+  it is a Wikimedia Commons file under a free license that allows reuse and
+  crops with credit (CC0, public domain, CC BY, CC BY-SA, Commons' "Attribution",
+  Etalab's Licence Ouverte, Korea's KOGL Type 1, the European Parliament's
+  reuse notice),
+  saves it as `frontend/public/portraits/<slug>.jpg` and records the credit
+  shown under the photo:
+
+  ```json
+  "portrait": {
+    "file": "jana-novakova.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jana_Novakova_2025.jpg",
+    "author": "Example Photographer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-22"
+  }
+  ```
+
+  When the command skips someone (no free photo, or the article or file name
+  doesn't match), check by hand and pass `--page <Wikipedia article or Commons
+  file page>`. Never use a photo from a news site or a government page whose
+  license isn't stated as free.
 
 ## Sections
 

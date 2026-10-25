@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politycy",
     "countryFilterLabel": "Filtrowanie według kraju",
+    "mapLabel": "Mapa: wybierz kraj",
+    "mapCovered": "Uwzględniony",
+    "mapNotCovered": "Jeszcze nieuwzględniony",
     "allCountries": "Wszystkie kraje",
     "otherCountry": "Inne",
     "politicianCount": {
@@ -55,6 +58,7 @@
     "mayor": "Burmistrz",
     "regional_executive": "Władze regionalne",
     "party_leader": "Lider partii",
+    "judge": "Sędzia",
     "other": "Inna funkcja"
   },
   "notFound": {
@@ -66,6 +70,7 @@
     "back": "← Wszyscy politycy",
     "trackRecord": "Bilans obietnic",
     "contentLanguage": "Język profilu: {language}",
+    "photoCredit": "Zdjęcie: {author}, {license}, źródło: {source}",
     "tabsLabel": "Sekcje profilu",
     "tabs": {
       "promises": "Obietnice",

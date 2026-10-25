@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filtrovanie podľa krajiny",
+    "mapLabel": "Mapa: vyberte krajinu",
+    "mapCovered": "Zahrnuté",
+    "mapNotCovered": "Zatiaľ nezahrnuté",
     "allCountries": "Všetky krajiny",
     "otherCountry": "Ostatné",
     "politicianCount": {
@@ -55,6 +58,7 @@
     "mayor": "Starosta",
     "regional_executive": "Regionálna exekutíva",
     "party_leader": "Predseda strany",
+    "judge": "Sudca",
     "other": "Iná funkcia"
   },
   "notFound": {
@@ -66,6 +70,7 @@
     "back": "← Všetci politici",
     "trackRecord": "Bilancia sľubov",
     "contentLanguage": "Jazyk profilu: {language}",
+    "photoCredit": "Foto: {author}, {license}, zdroj: {source}",
     "tabsLabel": "Časti profilu",
     "tabs": {
       "promises": "Sľuby",

@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiki",
     "countryFilterLabel": "Filtriranje po državi",
+    "mapLabel": "Zemljevid: izberite državo",
+    "mapCovered": "Vključeno",
+    "mapNotCovered": "Še ni vključeno",
     "allCountries": "Vse države",
     "otherCountry": "Drugo",
     "politicianCount": {
@@ -55,6 +58,7 @@
     "mayor": "Župan",
     "regional_executive": "Regionalna izvršna oblast",
     "party_leader": "Vodja stranke",
+    "judge": "Sodnik",
     "other": "Druga funkcija"
   },
   "notFound": {
@@ -66,6 +70,7 @@
     "back": "← Vsi politiki",
     "trackRecord": "Bilanca obljub",
     "contentLanguage": "Jezik profila: {language}",
+    "photoCredit": "Fotografija: {author}, {license}, vir: {source}",
     "tabsLabel": "Razdelki profila",
     "tabs": {
       "promises": "Obljube",
