@@ -1,0 +1,90 @@
+[
+  {
+    "id": "luis-montenegro-fin-income-2010",
+    "year": 2010,
+    "type": "declared_income",
+    "label": "Declared income for 2010",
+    "amount": "164,204.08 EUR",
+    "detail": "€73,704.08 from employment (MP's salary) and €90,500 from self-employment as a lawyer, his first declared self-employed income; declaration filed in August 2011. Portuguese office-holders file a single declaration of income, assets and interests (declaração única) with the Entidade para a Transparência (EpT) at the Constitutional Court; until 2024 declarations were filed with the Court itself. As of October 2026 Montenegro's declarations are locked on the EpT platform because of his opposition requests, and the platform is not readable by the harvest, so figures are taken from Observador's review of his 17 declarations (May 2025).",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-fin-income-2017",
+    "year": 2017,
+    "type": "declared_income",
+    "label": "Declared income for 2017",
+    "amount": "about 190,000 EUR",
+    "detail": "€58,522.63 from employment and €131,964.17 from self-employment (legal work and, according to Observador, political commentary for TSF and TVI); declaration signed on 5 June 2018 on leaving parliament.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-fin-income-2021",
+    "year": 2021,
+    "type": "declared_income",
+    "label": "Declared income for 2021",
+    "amount": "207,782.44 EUR",
+    "detail": "€9,014.10 from employment, €97,875 from self-employment and €100,893.34 of business income; declaration filed in September 2022 on becoming PSD president.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-fin-income-2022",
+    "year": 2022,
+    "type": "declared_income",
+    "label": "Declared income for 2022",
+    "amount": "about 130,000 EUR (129,491.49 EUR)",
+    "detail": "From a replacement declaration filed in October 2024: €48,456.52 salary as PSD president, €4,800 as manager of Spinumviva, €2,500 of self-employment as a lawyer, €67,484.97 of business income as a partner of SP&M and €6,250 from the sale of his stakes in SP&M and Spinumviva.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-fin-income-2023",
+    "year": 2023,
+    "type": "declared_income",
+    "label": "Total income for 2023 (disclosed in parliament)",
+    "amount": "118,992 EUR",
+    "detail": "Total disclosed by Montenegro in parliament and sent by the PSD to Observador; according to Observador the breakdown was not in his declarations, and the EpT said in May 2025 that all his declarations remained under review.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-fin-financial-assets-2022",
+    "year": 2022,
+    "type": "financial_assets",
+    "label": "Financial assets (securities, asset account, capitalisation insurance, savings account)",
+    "amount": "496,196.13 EUR",
+    "detail": "Total declared in September 2022; after a 2019 change in the rules, financial assets are no longer itemised in declarations.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-fin-mortgage-2024",
+    "year": 2024,
+    "type": "liability",
+    "label": "Mortgage loan",
+    "amount": "100,000 EUR",
+    "detail": "Registered in a declaration amendment filed on 19 December 2024 with the purchase of a flat in Lisbon (Observador). Earlier home loans, peaking at €200,000 (2005), were repaid by 2015.",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-fin-vehicles-2022",
+    "year": 2022,
+    "type": "vehicles",
+    "label": "Declared vehicles",
+    "amount": "",
+    "detail": "A 1970 Jaguar XJ6 classic car bought for restoration, a 1994 Mercedes E200 and a 2021 BMW 4 series (declaration for 2022, as reported by Observador).",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  }
+]

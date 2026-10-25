@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politycy",
     "countryFilterLabel": "Filtrowanie według kraju",
+    "mapLabel": "Mapa: wybierz kraj",
+    "mapCovered": "Uwzględniony",
+    "mapNotCovered": "Jeszcze nieuwzględniony",
     "allCountries": "Wszystkie kraje",
     "otherCountry": "Inne",
     "politicianCount": {
@@ -44,8 +47,8 @@
     "viewDossier": "Zobacz dossier",
     "noneInCountry": "Dla tego kraju nie śledzimy jeszcze żadnych polityków.",
     "emptyState": "Brak polityków. Aby wczytać dane demonstracyjne, należy uruchomić skrypt seed:",
-    "connectionErrorTitle": "Nie udało się połączyć z API backendu.",
-    "connectionErrorBody": "Należy sprawdzić, czy backend FastAPI działa i czy zmienna {envVar} wskazuje na jego adres."
+    "connectionErrorTitle": "Nie udało się wczytać danych.",
+    "connectionErrorBody": "Baza danych nie odpowiedziała. Spróbuj ponownie za chwilę."
   },
   "office": {
     "head_of_state": "Głowa państwa",
@@ -55,6 +58,7 @@
     "mayor": "Burmistrz",
     "regional_executive": "Władze regionalne",
     "party_leader": "Lider partii",
+    "judge": "Sędzia",
     "other": "Inna funkcja"
   },
   "notFound": {
@@ -66,6 +70,7 @@
     "back": "← Wszyscy politycy",
     "trackRecord": "Bilans obietnic",
     "contentLanguage": "Język profilu: {language}",
+    "photoCredit": "Zdjęcie: {author}, {license}, źródło: {source}",
     "tabsLabel": "Sekcje profilu",
     "tabs": {
       "promises": "Obietnice",

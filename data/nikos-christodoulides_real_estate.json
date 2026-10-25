@@ -1,0 +1,81 @@
+[
+  {
+    "id": "nikos-christodoulides-re-dali",
+    "property": "Plot of land, 549 m² (co-owned)",
+    "location": "Dali, Nicosia district",
+    "transaction_type": "Co-ownership",
+    "date": "",
+    "value": "161,950 EUR (value given for 2021)",
+    "detail": "Listed in the asset declaration published on 27 April 2023. The Cyprus Mail noted that he gave 2021 values rather than present-day values for his properties.",
+    "status": "declared",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement",
+      "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/proedros-tis-dimokratias/nikos-christodoylidis/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-re-geroskipou",
+    "property": "Land, 602 m²",
+    "location": "Geroskipou (Yeroskipou), Paphos district",
+    "transaction_type": "Inheritance",
+    "date": "1996",
+    "value": "148,700 EUR (value given for 2021)",
+    "detail": "Inherited in 1996 in his birthplace; 2023 asset declaration (Cyprus Mail).",
+    "status": "declared",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-re-choulou-1",
+    "property": "Land, 2,509 m²",
+    "location": "Choulou, Paphos district",
+    "transaction_type": "Inheritance",
+    "date": "2015",
+    "value": "3,800 EUR",
+    "detail": "Inherited in 2015; 2023 asset declaration (Cyprus Mail).",
+    "status": "declared",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-re-choulou-2",
+    "property": "One-sixth share of a plot (his share 526 m²)",
+    "location": "Choulou, Paphos district",
+    "transaction_type": "Co-ownership",
+    "date": "",
+    "value": "850 EUR",
+    "detail": "2023 asset declaration (Cyprus Mail).",
+    "status": "declared",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-re-land-4348",
+    "property": "Land, 4,348 m²",
+    "location": "Not specified in the press report",
+    "transaction_type": "Inheritance",
+    "date": "",
+    "value": "6,500 EUR",
+    "detail": "Inherited plot listed in the 2023 asset declaration (Cyprus Mail).",
+    "status": "declared",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-re-anarita",
+    "property": "Half share of a plot of 2,020 m²",
+    "location": "Anarita, Paphos district",
+    "transaction_type": "Inheritance",
+    "date": "",
+    "value": "18,200 EUR",
+    "detail": "Inherited half share; 2023 asset declaration (Cyprus Mail). Together, the declared properties amount to about €340,000.",
+    "status": "declared",
+    "source_url": [
+      "https://cyprus-mail.com/2023/04/27/christodoulides-publishes-wealth-statement"
+    ]
+  }
+]

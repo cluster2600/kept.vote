@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Poliitikot",
     "countryFilterLabel": "Suodata maan mukaan",
+    "mapLabel": "Kartta: valitse maa",
+    "mapCovered": "Mukana",
+    "mapNotCovered": "Ei vielä mukana",
     "allCountries": "Kaikki maat",
     "otherCountry": "Muu",
     "politicianCount": {
@@ -40,8 +43,8 @@
     "viewDossier": "Avaa profiili",
     "noneInCountry": "Tästä maasta ei vielä seurata poliitikkoja.",
     "emptyState": "Poliitikkoja ei vielä ole. Lataa esittelytiedot ajamalla seed-skripti:",
-    "connectionErrorTitle": "Taustajärjestelmän API-rajapintaan ei saatu yhteyttä.",
-    "connectionErrorBody": "Varmista, että FastAPI-taustajärjestelmä on käynnissä ja että {envVar} osoittaa siihen."
+    "connectionErrorTitle": "Tietoja ei voitu ladata.",
+    "connectionErrorBody": "Tietokanta ei vastannut. Yritä hetken kuluttua uudelleen."
   },
   "office": {
     "head_of_state": "Valtionpäämies",
@@ -51,6 +54,7 @@
     "mayor": "Pormestari",
     "regional_executive": "Aluejohtaja",
     "party_leader": "Puoluejohtaja",
+    "judge": "Tuomari",
     "other": "Muu tehtävä"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Kaikki poliitikot",
     "trackRecord": "Lupausten toteutuminen",
     "contentLanguage": "Profiilin kieli: {language}",
+    "photoCredit": "Kuva: {author}, {license}, lähde: {source}",
     "tabsLabel": "Profiilin osiot",
     "tabs": {
       "promises": "Lupaukset",

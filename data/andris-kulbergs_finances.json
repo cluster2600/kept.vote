@@ -1,0 +1,82 @@
+[
+  {
+    "id": "andris-kulbergs-fin-2025-total-income",
+    "year": 2025,
+    "type": "income",
+    "label": "Total income declared for 2025",
+    "amount": "90,227 EUR",
+    "detail": "As reported by TV3 from his public official's declaration (valsts amatpersonas deklarācija) for 2025: mostly his salary as a member of the Saeima (78,581.68 EUR), plus 10,000 EUR in dividends from SIA VK Development, bank interest and a State Social Insurance Agency (VSAA) benefit. The LETA report published by Apollo gives his 2025 pay for work in parliament as 83,005 EUR, 11.8% more than the year before; the two press readings of the declaration differ and the declaration itself could not be checked. Latvian public officials file declarations with the State Revenue Service (VID), which publishes their public part; the VID website gave no answer to the harvest on 23 October 2026, so the figures are taken from press reports citing the declaration.",
+    "source_url": [
+      "https://tv3.lv/zinas/latvija/politika/no-auto-biznesa-lidz-valdibas-vaditaja-kreslam-kas-ir-jaunais-premjers-andris-kulbergs/",
+      "https://www.apollo.lv/8472295/kas-ir-jaunais-ministru-prezidents-ieskats-andra-kulberga-biografija"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-fin-2025-saeima-salary",
+    "year": 2025,
+    "type": "salary",
+    "label": "Salary as a member of the Saeima (2025)",
+    "amount": "78,581.68 EUR (TV3) or 83,005 EUR (LETA)",
+    "detail": "The two press reports citing his declaration for 2025 give different amounts; LETA adds that it was 11.8% more than in the previous year. Figures from press reports citing the VID declaration, which could not be read for this research.",
+    "source_url": [
+      "https://tv3.lv/zinas/latvija/politika/no-auto-biznesa-lidz-valdibas-vaditaja-kreslam-kas-ir-jaunais-premjers-andris-kulbergs/",
+      "https://www.apollo.lv/8472295/kas-ir-jaunais-ministru-prezidents-ieskats-andra-kulberga-biografija"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-fin-2025-dividends",
+    "year": 2025,
+    "type": "income",
+    "label": "Dividends from SIA VK Development (2025)",
+    "amount": "10,000 EUR",
+    "detail": "Declared for 2025, according to TV3's reading of his declaration. He holds 200 shares in the company (see companies). Figures from press reports citing the VID declaration, which could not be read for this research.",
+    "source_url": [
+      "https://tv3.lv/zinas/latvija/politika/no-auto-biznesa-lidz-valdibas-vaditaja-kreslam-kas-ir-jaunais-premjers-andris-kulbergs/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-fin-2025-savings",
+    "year": 2025,
+    "type": "savings",
+    "label": "Non-cash savings at the end of 2025",
+    "amount": "14,794 EUR",
+    "detail": "Declared non-cash savings at the end of 2025, as reported by LETA (Apollo) from his declaration. Figures from press reports citing the VID declaration, which could not be read for this research.",
+    "source_url": [
+      "https://www.apollo.lv/8472295/kas-ir-jaunais-ministru-prezidents-ieskats-andra-kulberga-biografija"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-fin-2022-savings",
+    "year": 2022,
+    "type": "savings",
+    "label": "Cash and non-cash savings declared on taking up his Saeima seat (2022)",
+    "amount": "15,250 EUR in cash; 13,903 EUR non-cash",
+    "detail": "From the declaration he filed on taking office as an MP in autumn 2022, as reported by LETA (Apollo, 26 December 2022). Figures from press reports citing the VID declaration, which could not be read for this research.",
+    "source_url": [
+      "https://www.apollo.lv/7678113/deputats-kulbergs-deklarejis-11-transportlidzeklus"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-fin-2025-vehicles",
+    "year": 2025,
+    "type": "vehicle",
+    "label": "Eleven vehicles declared (declaration for 2025)",
+    "amount": "11 vehicles",
+    "detail": "As listed by TV3 from his declaration: a 1939 Alfa Romeo 6C 2500 SS, a 1973 Dodge Challenger, a 1985 Audi 90, a 1999 Mitsubishi Lancer Evolution, a 2021 BMW i3s, a 2018 Ducati Multistrada 1260 S motorcycle, a 2006 Suzuki LT-R 450 quad bike, a 1984 RYDS 500 HT motorboat and three trailers (2016 Syland NP1, 2002 Tiki Treiler BT 750, 2002 Tabbert 327). No values are given in the report. Figures from press reports citing the VID declaration, which could not be read for this research.",
+    "source_url": [
+      "https://tv3.lv/zinas/latvija/politika/no-auto-biznesa-lidz-valdibas-vaditaja-kreslam-kas-ir-jaunais-premjers-andris-kulbergs/",
+      "https://www.apollo.lv/8472295/kas-ir-jaunais-ministru-prezidents-ieskats-andra-kulberga-biografija"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-fin-2022-vehicles",
+    "year": 2022,
+    "type": "vehicle",
+    "label": "Eleven vehicles declared on taking up his Saeima seat (2022)",
+    "amount": "11 vehicles",
+    "detail": "As reported by LETA (Apollo): vintage cars — a 1939 Alfa Romeo 6C 2500 SS, a 1973 Dodge Challenger, a 1984 Audi Coupe and a 1985 Audi 90 — and a 1956 EMW R35 motorcycle; a 1999 Mitsubishi Lancer Evolution owned and a second one of the same model and year in his possession; two modern motorcycles (2018 Ducati Multistrada 1260 S, 2020 KTM 125 Duke); a 2006 Suzuki LT-R 450 quad bike and a Tabbert 327 caravan. Figures from press reports citing the VID declaration, which could not be read for this research.",
+    "source_url": [
+      "https://www.apollo.lv/7678113/deputats-kulbergs-deklarejis-11-transportlidzeklus"
+    ]
+  }
+]

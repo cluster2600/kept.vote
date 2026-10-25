@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiķi",
     "countryFilterLabel": "Filtrēt pēc valsts",
+    "mapLabel": "Karte: izvēlieties valsti",
+    "mapCovered": "Iekļauta",
+    "mapNotCovered": "Vēl nav iekļauta",
     "allCountries": "Visas valstis",
     "otherCountry": "Citas valstis",
     "politicianCount": {
@@ -42,8 +45,8 @@
     "viewDossier": "Skatīt dosjē",
     "noneInCountry": "Šajā valstī vēl netiek uzraudzīts neviens politiķis.",
     "emptyState": "Politiķu vēl nav. Lai ielādētu demonstrācijas datus, palaidiet datu ielādes skriptu:",
-    "connectionErrorTitle": "Neizdevās izveidot savienojumu ar aizmugursistēmas API.",
-    "connectionErrorBody": "Pārliecinieties, ka FastAPI aizmugursistēma darbojas un {envVar} norāda uz to."
+    "connectionErrorTitle": "Datus neizdevās ielādēt.",
+    "connectionErrorBody": "Datubāze neatbildēja. Lūdzu, mēģiniet vēlreiz pēc brīža."
   },
   "office": {
     "head_of_state": "Valsts vadītājs",
@@ -53,6 +56,7 @@
     "mayor": "Mērs",
     "regional_executive": "Reģiona vadītājs",
     "party_leader": "Partijas līderis",
+    "judge": "Tiesnesis",
     "other": "Cits amats"
   },
   "notFound": {
@@ -64,6 +68,7 @@
     "back": "← Visi politiķi",
     "trackRecord": "Solījumu izpildes rādītāji",
     "contentLanguage": "Profila valoda: {language}",
+    "photoCredit": "Foto: {author}, {license}, avots: {source}",
     "tabsLabel": "Profila sadaļas",
     "tabs": {
       "promises": "Solījumi",

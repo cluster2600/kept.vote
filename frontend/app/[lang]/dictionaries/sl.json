@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiki",
     "countryFilterLabel": "Filtriranje po državi",
+    "mapLabel": "Zemljevid: izberite državo",
+    "mapCovered": "Vključeno",
+    "mapNotCovered": "Še ni vključeno",
     "allCountries": "Vse države",
     "otherCountry": "Drugo",
     "politicianCount": {
@@ -44,8 +47,8 @@
     "viewDossier": "Ogled profila",
     "noneInCountry": "Za to državo še ne spremljamo nobenega politika.",
     "emptyState": "Politikov še ni. Za nalaganje demonstracijskih podatkov zaženite skript seed:",
-    "connectionErrorTitle": "Povezava z zalednim API-jem ni uspela.",
-    "connectionErrorBody": "Preverite, ali zaledni sistem FastAPI deluje in ali spremenljivka {envVar} kaže nanj."
+    "connectionErrorTitle": "Podatkov ni bilo mogoče naložiti.",
+    "connectionErrorBody": "Podatkovna zbirka se ni odzvala. Poskusite znova čez nekaj trenutkov."
   },
   "office": {
     "head_of_state": "Šef države",
@@ -55,6 +58,7 @@
     "mayor": "Župan",
     "regional_executive": "Regionalna izvršna oblast",
     "party_leader": "Vodja stranke",
+    "judge": "Sodnik",
     "other": "Druga funkcija"
   },
   "notFound": {
@@ -66,6 +70,7 @@
     "back": "← Vsi politiki",
     "trackRecord": "Bilanca obljub",
     "contentLanguage": "Jezik profila: {language}",
+    "photoCredit": "Fotografija: {author}, {license}, vir: {source}",
     "tabsLabel": "Razdelki profila",
     "tabs": {
       "promises": "Obljube",

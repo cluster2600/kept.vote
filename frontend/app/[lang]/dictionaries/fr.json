@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Responsables politiques",
     "countryFilterLabel": "Filtrer par pays",
+    "mapLabel": "Carte : choisissez un pays",
+    "mapCovered": "Couvert",
+    "mapNotCovered": "Pas encore couvert",
     "allCountries": "Tous les pays",
     "otherCountry": "Autres pays",
     "politicianCount": {
@@ -42,8 +45,8 @@
     "viewDossier": "Voir le dossier",
     "noneInCountry": "Aucun responsable politique n’est encore suivi pour ce pays.",
     "emptyState": "Aucun responsable politique pour l’instant. Exécutez le script d’initialisation pour charger les données de démonstration :",
-    "connectionErrorTitle": "Impossible de joindre l’API du serveur.",
-    "connectionErrorBody": "Vérifiez que le serveur FastAPI est lancé et que {envVar} pointe vers son adresse."
+    "connectionErrorTitle": "Impossible de charger les données.",
+    "connectionErrorBody": "La base de données n’a pas répondu. Veuillez réessayer dans un instant."
   },
   "office": {
     "head_of_state": "Chef de l’État",
@@ -53,6 +56,7 @@
     "mayor": "Maire",
     "regional_executive": "Exécutif régional",
     "party_leader": "Responsable de parti",
+    "judge": "Juge",
     "other": "Autre fonction"
   },
   "notFound": {
@@ -64,6 +68,7 @@
     "back": "← Tous les responsables politiques",
     "trackRecord": "Bilan des promesses",
     "contentLanguage": "Profil rédigé en {language}",
+    "photoCredit": "Photo : {author}, {license}, via {source}",
     "tabsLabel": "Sections du profil",
     "tabs": {
       "promises": "Promesses",

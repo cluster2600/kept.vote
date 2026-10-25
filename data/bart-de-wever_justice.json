@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bart-de-wever-jus-racism-complaint-2015",
+    "case": "Racism complaint over remarks on the Berber community (Terzake, March 2015)",
+    "period": "2015–2016",
+    "type": "criminal complaint (De Wever as the person complained against); dismissed by the prosecutor",
+    "description": "In March 2015 lawyer Abderrahim Lahlali filed a complaint with the Antwerp public prosecutor on behalf of the Moroccan Association for Human Rights (AMDH) against De Wever, then Mayor of Antwerp and N-VA chairman, under the anti-racism law, over remarks he made on VRT's Terzake linking radicalisation to the Berber community and describing racism as a \"relative\" notion. Movement X and nine citizens also filed complaints (La Libre). Because De Wever enjoyed parliamentary immunity, the complainants could not bring the case directly before an investigating judge as civil parties; the prosecutor had to decide whether to open proceedings (La Libre).",
+    "status": "dismissed",
+    "outcome": "The Antwerp prosecutor's office dismissed the AMDH complaint (classement sans suite), finding that no offence had been committed; the decision was taken around mid-2015 and made public in August 2016 through Gazet van Antwerpen and De Standaard (RTBF). De Wever said the prosecutor had confirmed that \"explaining facts is not an offence\". No prosecution followed.",
+    "court": "Antwerp public prosecutor's office (parket Antwerpen)",
+    "presumption_note": "Bart De Wever was never charged or prosecuted in this matter. The prosecutor dismissed the complaint, finding no offence; the outcome of the other complaints filed at the same time was not reported in the sources consulted.",
+    "key_facts": [
+      "Complaint filed in March 2015 by lawyer Abderrahim Lahlali for the AMDH",
+      "De Wever's parliamentary immunity prevented a direct civil-party complaint to an investigating judge",
+      "Dismissed by the Antwerp prosecutor for lack of an offence; reported in August 2016"
+    ],
+    "source_url": [
+      "https://www.rtbf.be/article/plainte-pour-racisme-contre-bart-de-wever-le-parquet-d-anvers-la-classe-sans-suite-9372078",
+      "https://www.lalibre.be/belgique/politique-belge/2015/03/31/la-tension-monte-autour-de-de-wever-il-refuse-de-presenter-des-excuses-des-citoyens-et-associations-portent-plainte-6HBEDG24ZVCJRFIV6R2PD7OYJU/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-jus-terror-plot-2023",
+    "case": "Trial of a jihadist group that planned to assassinate De Wever (Antwerp, 2023–2024)",
+    "period": "2023–2024",
+    "type": "criminal trial (De Wever as the intended victim and civil party)",
+    "description": "On 27 March 2023 police searches across Belgium led to the arrest of five men and a woman charged with terrorist offences. According to the Antwerp criminal court, the 21-year-old main defendant had advanced plans, with a date set for April 2023, to attack De Wever, then Mayor of Antwerp and N-VA chairman, and an unspecified police station; an undercover agent had made contact with one of the suspects via Telegram (VRT). De Wever did not initially claim damages, but in December 2024 his spokesman confirmed that he had asked his lawyer to claim 7,500 euros from the convicted defendants as \"a signal\" to those who wish to disrupt the country, adding that he would not keep the money for himself.",
+    "status": "other",
+    "outcome": "On 5 June 2024 the Antwerp criminal court convicted five of the six defendants of attempted murder in a terrorist context and membership or leadership of a terrorist group, with prison sentences of 7 to 13 years; the sixth was acquitted. The ruling on De Wever's civil damages claim, filed in December 2024, was not found in the sources consulted.",
+    "court": "Criminal court of Antwerp (correctionele rechtbank Antwerpen)",
+    "presumption_note": "Bart De Wever is the intended victim and a civil party in this case, not a defendant. The convictions concern the defendants only.",
+    "key_facts": [
+      "Arrests on 27 March 2023; attack planned for April 2023, after Ramadan",
+      "5 June 2024: five defendants sentenced to 7–13 years, one acquitted",
+      "December 2024: De Wever claimed 7,500 euros in damages"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/en/2024/06/05/prison-sentences-of-up-to-13-years-for-members-of-terror-group-t/",
+      "https://www.vrt.be/vrtnws/en/2024/12/10/mayor-of-antwerp-demands-compensation-from-terrorist-that-planne/"
+    ]
+  },
+  {
+    "id": "bart-de-wever-jus-drone-plot-2025",
+    "case": "Investigation into an alleged jihadist drone-attack plot against politicians including De Wever (Antwerp, 2025)",
+    "period": "2025–",
+    "type": "criminal investigation (De Wever as an alleged target)",
+    "description": "On 9 October 2025 searches by the federal judicial police in Deurne (Antwerp) led to the arrest of three young adults in an investigation by the federal prosecutor's office into attempted terrorist murder and participation in the activities of a terrorist group. Federal prosecutor Ann Fransen spoke of a \"jihadist-inspired attack on politicians\"; according to VRT, the targets included Prime Minister De Wever, and later reporting also named the Dutch politician Geert Wilders. A home-made explosive resembling an IED was found at one suspect's home and a 3D printer at another's, and investigators found indications that the suspects intended to attach the charge to a drone. Two suspects were brought before the investigating judge; the third was released.",
+    "status": "other",
+    "outcome": "On 15 October 2025 the two charged suspects, aged 23 and 18, were remanded in custody for a further month (VRT). No indictment or trial date had been reported in the sources consulted as of October 2026.",
+    "court": "Federal prosecutor's office; Antwerp investigating judge specialised in terrorism cases",
+    "presumption_note": "Bart De Wever is an alleged target in this investigation, not a suspect. The suspects are presumed innocent; no court has ruled on the charges.",
+    "key_facts": [
+      "9 October 2025: four searches in Deurne, three arrests; one suspect released",
+      "Charges: attempted terrorist murder, participation in the activities of a terrorist group (VRT, 15 October 2025: also preparing a terrorist offence)",
+      "Reported targets included De Wever and Geert Wilders"
+    ],
+    "source_url": [
+      "https://www.vrt.be/vrtnws/nl/2025/10/09/sint-rochusstraat-in-deurne-afgezet-en-paar-buurtbewoners-geevac/",
+      "https://www.vrt.be/vrtnws/en/2025/10/15/antwerp-terror-plot-suspects-remanded-in-custody-for-a-further-m/"
+    ]
+  }
+]

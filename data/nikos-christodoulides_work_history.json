@@ -1,0 +1,108 @@
+[
+  {
+    "id": "nikos-christodoulides-wh-diplomat",
+    "role": "Career diplomat",
+    "organization": "Ministry of Foreign Affairs of the Republic of Cyprus",
+    "start_date": "1999",
+    "end_date": "2018",
+    "description": "According to his official biography, he was a career diplomat between 1999 and 2018, serving among other posts as Consul General at the High Commission of the Republic of Cyprus in the United Kingdom, Deputy Chief of Mission at the Embassy of Cyprus in Greece and spokesperson of the Cyprus Presidency of the Council of the EU (second half of 2012) at the Permanent Representation in Brussels; he was also director of the foreign minister's office and of the office of the ministry's permanent secretary. From 2013 he served at the Presidential Palace (see below).",
+    "category": "public_service",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/",
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-wh-ucy-lecturer",
+    "role": "Lecturer and research associate (History of the Post-war World)",
+    "organization": "University of Cyprus, Department of History and Archaeology",
+    "start_date": "2007",
+    "end_date": "2010",
+    "description": "Taught the history of the post-war world. He is the author of books on the plans for a solution of the Cyprus problem (1948–1978, published 2009 and 2021) and on relations between Athens and Nicosia and the Cyprus problem (1977–1988, published 2013).",
+    "category": "public_service",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-wh-diplomatic-office",
+    "role": "Director of the Diplomatic Office of the President of the Republic",
+    "organization": "Presidency of the Republic of Cyprus (President Nicos Anastasiades)",
+    "start_date": "2013",
+    "end_date": "2018",
+    "description": "Head of the diplomatic office of President Nicos Anastasiades (DISY) during his first term, a post he combined from 2014 with that of government spokesman.",
+    "category": "executive",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-wh-government-spokesman",
+    "role": "Government Spokesman (Κυβερνητικός Εκπρόσωπος)",
+    "organization": "Government of the Republic of Cyprus (Anastasiades administration)",
+    "start_date": "2014",
+    "end_date": "2018-02",
+    "description": "Government spokesman until the end of Anastasiades' first term on 28 February 2018 (Wikipedia gives 14 April 2014 as the start). A December 2023 Audit Office report noted that the appointment was never published in the Gazette and questioned payments he received in the post (see polemics).",
+    "category": "executive",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/",
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides",
+      "https://cyprus-mail.com/2023/12/07/audit-office-demands-thousands-in-overpayments-to-president/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-wh-foreign-minister",
+    "role": "Minister of Foreign Affairs",
+    "organization": "Council of Ministers of the Republic of Cyprus (second Anastasiades government)",
+    "start_date": "2018-03-01",
+    "end_date": "2022-01-11",
+    "description": "Appointed foreign minister at the start of Anastasiades' second term; resigned on 11 January 2022 amid expectations that he would run for president without the backing of his party, DISY. He was succeeded by Ioannis Kasoulides.",
+    "category": "executive",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/",
+      "https://cyprus-mail.com/2023/01/05/christodoulides-struck-from-disy-party-register",
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-wh-candidate-2023",
+    "role": "Independent presidential candidate",
+    "organization": "2023 presidential election (backed by DIKO, EDEK and DIPA)",
+    "start_date": "2022-06",
+    "end_date": "2023-02-12",
+    "description": "A longtime member of the Democratic Rally (DISY), he confirmed in June 2022 that he would run as an independent against DISY's candidate Averof Neofytou. DISY struck him off its register on 5 January 2023, the day he formally filed his candidacy. He was endorsed by DIKO, EDEK and the Democratic Alignment (DIPA), and won the run-off on 12 February 2023.",
+    "category": "party",
+    "source_url": [
+      "https://cyprus-mail.com/2023/01/05/christodoulides-struck-from-disy-party-register",
+      "https://cyprus-mail.com/2023/02/12/christodoulides-promises-to-stand-by-election-promises/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-wh-president",
+    "role": "President of the Republic of Cyprus (head of state and head of government)",
+    "organization": "Presidency of the Republic of Cyprus",
+    "start_date": "2023-02-28",
+    "end_date": null,
+    "description": "Sworn in before the House of Representatives on 28 February 2023 as the 8th President of the Republic. As both head of state and head of government he appoints and leads the Council of Ministers; he reshuffled it in January 2024 and December 2025. He represents Cyprus at the European Council, leads the Greek Cypriot side in the UN-facilitated Cyprus talks and, from January to June 2026, oversaw the Cyprus presidency of the Council of the EU.",
+    "category": "executive",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/",
+      "https://www.voanews.com/a/cyprus-problem-top-priority-for-island-s-new-president/6982137.html",
+      "https://cyprus-mail.com/2024/01/08/four-ministers-out-as-reshuffle-announced/",
+      "https://cyprus-mail.com/2026/04/27/wealth-of-incoming-outgoing-ministers-revealed"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-wh-eu-council-presidency",
+    "role": "Head of the member state holding the presidency of the Council of the EU",
+    "organization": "Cyprus Presidency of the Council of the European Union",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-30",
+    "description": "Cyprus held the rotating presidency of the Council of the EU for the second time (after 2012) under the motto 'An Autonomous Union. Open to the World', with five priorities: defence and security, competitiveness, enlargement, citizens' rights and the 2028–2034 budget. Christodoulides presented its results to the European Council on 18–19 June 2026; the national effort was overseen by Deputy Minister for European Affairs Marilena Raouna.",
+    "category": "international",
+    "source_url": [
+      "https://cyprus-presidency.consilium.europa.eu/en/news/cyprus-presidency-of-the-council-of-the-european-union-concludes-six-month-term-with-significant-results/",
+      "https://cyprus-presidency.consilium.europa.eu/en/news/the-president-of-the-republic-of-cyprus-presented-the-achievements-of-the-presidency-during-the-european-council/"
+    ]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "id": "petteri-orpo-promise-debt-ratio",
+    "title": "Curb the growth of public debt and stabilise the debt ratio",
+    "description": "The June 2023 government programme made curbing the growth of central government debt its primary economic aim. Orpo repeated the commitment throughout the term; in April 2025, defending tax cuts, he asserted that the state debt would not increase further because growth would offset them.",
+    "date_made": "2023-06-16",
+    "category": "Public finances",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "The debt ratio has risen throughout the term and the government itself now places stabilisation after 2027. In November–December 2025 the European Commission proposed placing Finland under the excessive deficit procedure and recommended bringing the deficit below 3% of GDP by the end of 2028. The Finance Ministry's September 2026 forecast puts the deficit at 4.2% of GDP in 2026 and 4.5% in 2027, with debt above 90% of GDP in 2026 and close to 98% by 2030. In his New Year message of 31 December 2025, Orpo said the economy would not be fixed within his government's term.",
+    "key_evidence": [
+      "Yle, 17 June 2023: the programme's primary target is curbing the increase in central government debt",
+      "Yle, 27 April 2025: Orpo said the state debt would not increase; Yle's analysis found the government had not reined in the growth of state debt",
+      "Commission proposal of 25 November 2025 and recommendations of 13 December 2025 placing Finland under the excessive deficit procedure (Yle)",
+      "Finance Ministry forecast, September 2026: deficit 4.2% of GDP in 2026 and 4.5% in 2027; debt ratio above 90% in 2026 and nearly 98% by 2030 (Yle)",
+      "2027 budget agreed on 1 September 2026 with a €12.4 billion central government deficit (Helsinki Times)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20037304",
+      "https://yle.fi/a/74-20158319",
+      "https://yle.fi/a/74-20196150",
+      "https://yle.fi/a/74-20199587",
+      "https://yle.fi/a/74-20247361",
+      "https://yle.fi/a/74-20202063",
+      "https://www.helsinkitimes.fi/finland/finland-news/politics/29222-government-agrees-92-5-billion-budget-with-12-4-billion-deficit.html"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-6bn-adjustment",
+    "title": "Adjust public finances by €6 billion over the term",
+    "description": "Before the 2023 government talks Kokoomus invited only parties that accepted a €6 billion adjustment of public finances, a figure based on Finance Ministry calculations; it became a commitment of the government programme.",
+    "date_made": "2023-06-16",
+    "category": "Public finances",
+    "status": "kept",
+    "confidence_score": 0.7,
+    "reasoning": "The government decided spending cuts and tax rises beyond the €6 billion target: by April 2024 about €6 billion of measures were in place and the goal had been raised to about €9 billion, including the VAT increase; in December 2025 Orpo put the adjustments at around €10 billion. Part of the effect was offset by tax cuts decided in April 2025 (about €2 billion of lost revenue, according to Yle), and the adjustment did not stop the debt ratio from rising (see the debt promise); the verdict concerns only the size of the measures decided.",
+    "key_evidence": [
+      "Yle, 17 June 2023: €6 billion adjustment as a condition for joining the government",
+      "Yle, 16 April 2024: about €6 billion of austerity measures already in place; target of some €9 billion of cuts and tax rises",
+      "Orpo's New Year message, 31 December 2025: adjustments 'to the tune of around 10 billion euros' (Yle)",
+      "Yle, 27 April 2025: the 2025 tax cuts cost about €2 billion in revenue"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20037304",
+      "https://yle.fi/a/74-20065393",
+      "https://yle.fi/a/74-20084026",
+      "https://yle.fi/a/74-20202063",
+      "https://yle.fi/a/74-20158319"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-100000-jobs",
+    "title": "Bring 100,000 more people into work during the term",
+    "description": "The government programme set the target of raising employment by 100,000 people through social-security and labour-market reforms that make it 'easier and more profitable to find employment or work as an entrepreneur'.",
+    "date_made": "2023-06-16",
+    "category": "Employment",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "Employment fell instead: by April 2025 it had declined by almost 50,000 since the government took office, with about 300,000 people unemployed (Yle). In April 2026 Orpo said the target would be difficult to reach, and in June 2026 a Finance Ministry assessment requested by Parliament's Finance Committee estimated that the government's measures would add only about 18,000 jobs by 2030. The ministry forecasts unemployment of 10.3% for 2026, and the term ends in spring 2027.",
+    "key_evidence": [
+      "Programme target of 100,000 more people in work (Yle, 16 June 2023)",
+      "Employment down by almost 50,000 since June 2023 and about 300,000 unemployed (Yle, 27 April 2025)",
+      "Orpo on 26 April 2026: the employment target will be hard to achieve (Yle)",
+      "Finance Ministry assessment, June 2026: about 18,000 additional jobs by 2030 (Yle)",
+      "Finance Ministry forecast, September 2026: unemployment 10.3% in 2026 (Yle)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20037253",
+      "https://yle.fi/a/74-20158319",
+      "https://yle.fi/a/74-20222766",
+      "https://yle.fi/a/74-20231103",
+      "https://yle.fi/a/74-20247361"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-strike-limits",
+    "title": "Limit political strikes and sympathy action and raise penalties for unlawful strikes",
+    "description": "The government programme provided for restricting the right to strike and higher fines for unlawful work stoppages; the plan included capping the length of political strikes.",
+    "date_made": "2023-06-16",
+    "category": "Labour market",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Parliament passed the industrial peace legislation (HE 12/2024) on 8 May 2024 by 107 votes to 57 and it entered into force on 18 May 2024. Political strikes are capped at 24 hours, 'disproportionate' sympathy action is restricted and the maximum fine for unlawful strikes rose from €37,400 to €150,000. The union strike wave of September 2023–April 2024 did not lead the government to withdraw the measures.",
+    "key_evidence": [
+      "Union protests against the planned reduction in the length of political strikes (Yle, December 2023)",
+      "Vote of 8 May 2024: 107–57 (Yle)",
+      "In force 18 May 2024 (Finlex: Act 247/2024)"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Petteri_Orpo",
+      "https://yle.fi/a/74-20063896",
+      "https://yle.fi/a/74-20087808",
+      "https://yle.fi/a/74-20089015",
+      "https://www.finlex.fi/fi/hallituksen-esitykset/2024/12",
+      "https://www.finlex.fi/fi/lainsaadanto/1962/420"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-export-model",
+    "title": "Introduce an export-led wage model that binds the National Conciliator",
+    "description": "Programme commitment to an export-led wage model, under which mediation in labour disputes should not produce wage increases above those agreed in the export sector.",
+    "date_made": "2023-06-16",
+    "category": "Labour market",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The government submitted HE 146/2024 on 3 October 2024; despite a joint no-confidence motion by all opposition parties, it was enacted as Act 816/2024 amending the Act on Mediation in Labour Disputes, in force from 1 January 2025. Yle reported that in the 2025 bargaining round the National Conciliator could no longer propose settlements with higher wage increases than those in the export industries.",
+    "key_evidence": [
+      "Employment Minister Arto Satonen, December 2023: 'the export-driven wage model is important' (Yle)",
+      "Opposition no-confidence motion, 11 October 2024 (Yle)",
+      "Act 816/2024, in force 1 January 2025 (Finlex)",
+      "Technology-industry settlement of February 2025 under the new rules (Yle)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20063896",
+      "https://yle.fi/a/74-20117404",
+      "https://www.finlex.fi/fi/hallituksen-esitykset/2024/146",
+      "https://www.finlex.fi/fi/lainsaadanto/1962/420",
+      "https://yle.fi/a/74-20145394"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-dismissal-fixed-term",
+    "title": "Make hiring easier for small firms: ease dismissal on personal grounds and allow fixed-term contracts without a reason",
+    "description": "The programme pledged to 'remove barriers to employment and strengthen the operating conditions of small and medium-sized companies', including easier dismissals and wider use of fixed-term contracts.",
+    "date_made": "2023-06-16",
+    "category": "Labour market",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Parliament approved the dismissal reform on 19 December 2025 by 108 votes to 54 (HE 158/2025; in force 1 January 2026): a 'proper reason' now suffices instead of a 'proper and weighty' one. On 20 May 2026 it approved the fixed-term contract reform by 93 votes to 78 (HE 199/2025; in force 1 June 2026), which removes the need to justify offering fixed-term rather than permanent contracts and allows an employee's first fixed-term contract of up to one year to be terminated. Unions opposed both laws.",
+    "key_evidence": [
+      "Programme statement on removing barriers to employment for SMEs (Yle, 16 June 2023)",
+      "Dismissal law approved 19 December 2025, 108–54 (Yle; Finlex Act 1390/2025)",
+      "Fixed-term contract law approved 20 May 2026, 93–78 (Yle; Finlex Act 412/2026)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20037253",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo",
+      "https://yle.fi/a/74-20200745",
+      "https://www.finlex.fi/fi/hallituksen-esitykset/2025/158",
+      "https://yle.fi/a/74-20227081",
+      "https://www.finlex.fi/fi/hallituksen-esitykset/2025/199",
+      "https://www.finlex.fi/fi/lainsaadanto/2001/55"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-no-wage-tax-rise",
+    "title": "Not raise taxes on wages; lighten the taxation of work",
+    "description": "Kokoomus campaigned in 2023 on avoiding tax increases on work and cutting income taxes. In December 2023, as the government looked for more savings, Orpo said: 'we are not going to raise taxation on work salaries… the amount left over from work will not decrease'.",
+    "date_made": "2023-12-16",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.75,
+    "reasoning": "Taxes on earned income were not raised. The April 2025 framework cut income tax for low- and middle-income earners (€525 million in 2026, €650 million in 2027), raised the employment income credit for parents and lowered the top marginal rate to 52%; the 2027 budget keeps these cuts. The pledge concerned taxes on wages: the government did raise the general VAT rate from 24% to 25.5% in September 2024, which a Statistics Finland report cited by Yle found weighs disproportionately on lower-income earners.",
+    "key_evidence": [
+      "Orpo on Yle's Ykkösaamu, 16 December 2023: no tightening of taxation on wages",
+      "April 2025 framework: income tax cuts and a 52% top marginal rate (Yle)",
+      "2027 budget, 1 September 2026: income tax cuts for low- and middle-income earners continue (Helsinki Times)",
+      "VAT raised to 25.5% from 1 September 2024 (Yle)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20065393",
+      "https://en.wikipedia.org/wiki/Orpo_Cabinet",
+      "https://yle.fi/a/74-20157854",
+      "https://www.helsinkitimes.fi/finland/finland-news/politics/29222-government-agrees-92-5-billion-budget-with-12-4-billion-deficit.html",
+      "https://yle.fi/a/74-20091421"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-citizenship",
+    "title": "Tighten citizenship rules: eight years' residence, an income requirement and a citizenship test",
+    "description": "The programme committed to extending the minimum residence requirement for citizenship from five to eight years, with an income requirement and mandatory civics and language tests.",
+    "date_made": "2023-06-16",
+    "category": "Immigration",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Act 474/2024 raised the general residence requirement to eight years from 1 October 2024; Act 929/2025 (in force 17 December 2025) revised further conditions including the livelihood requirement; Act 552/2026 adds a requirement to show knowledge of Finnish society from 1 January 2027. All three stages announced by the Interior Ministry have therefore been enacted, the last one applying from 2027.",
+    "key_evidence": [
+      "Programme: residence requirement of eight years, income requirement, civics and language tests (Yle, 16 June 2023)",
+      "Interior Minister Mari Rantanen presents the plans, 16 October 2023 (Yle)",
+      "Eight-year requirement in force 1 October 2024 (Yle; Finlex)",
+      "Citizenship Act section 13 as amended by Acts 474/2024, 929/2025 and 552/2026 (Finlex)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20037253",
+      "https://yle.fi/a/74-20055443",
+      "https://yle.fi/a/74-20098223",
+      "https://www.finlex.fi/fi/lainsaadanto/2003/359"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-refugee-quota",
+    "title": "Cut the annual refugee quota to 500",
+    "description": "The programme cut the annual UNHCR resettlement quota by more than half, from 1,050 to 500 people.",
+    "date_made": "2023-06-16",
+    "category": "Immigration",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The quota has been 500 in each year of the term (2024, 2025 and 2026). The 2025 allocation was revised in November 2024 after the Non-Discrimination Ombudsman warned that plans by the Finns Party-led Interior Ministry to exclude refugees from Muslim-majority countries would probably be discriminatory; the Chancellor of Justice later found the preparation flawed but that religion had not been used unlawfully.",
+    "key_evidence": [
+      "Programme: quota cut from 1,050 to 500 (Yle, 16 June 2023)",
+      "2025 quota of 500 confirmed on 28 November 2024 (Yle)",
+      "2026 quota of 500, unchanged from the previous two years (Yle, 6 February 2026)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20037253",
+      "https://yle.fi/a/74-20127990",
+      "https://yle.fi/a/74-20208705"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-school-phones",
+    "title": "Restrict pupils' use of mobile phones during the school day",
+    "description": "The programme stated: 'We will make the necessary legislative amendments to enable more efficient restrictions in cases such as the use of mobile devices during the school day so that pupils and students can better concentrate on teaching.'",
+    "date_made": "2023-06-16",
+    "category": "Education",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Parliament approved the amendments on 29 April 2025 and they apply from August 2025: phone use during lessons requires a teacher's permission, and staff may confiscate devices that disrupt teaching.",
+    "key_evidence": [
+      "Programme wording quoted by Yle, 10 May 2024",
+      "Law approved on 29 April 2025 (Yle)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20088057",
+      "https://yle.fi/a/74-20158886"
+    ]
+  },
+  {
+    "id": "petteri-orpo-promise-defence-3pct",
+    "title": "Raise defence spending to 3% of GDP by 2029",
+    "description": "Commitment in the budget framework announced on 23 April 2025, implying about €3.6 billion of additional defence spending; the government's longer-term aim is NATO's 3.5% target.",
+    "date_made": "2025-04-23",
+    "category": "Defence",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The increase is built into the budget frameworks, and the 2027 budget agreed in September 2026 lists defence and security among the rising expenditure items. The target year 2029 falls after the end of this government's term, so the outcome depends on the next government; the EU's defence escape clause allows the extra spending to be discounted under the deficit rules until 2028.",
+    "key_evidence": [
+      "Budget framework of April 2025: defence spending to 3% of GDP by 2029, about €3.6 billion more (Yle)",
+      "2027 budget: defence and security costs adding to spending (Helsinki Times)",
+      "Defence exception to EU deficit rules until 2028 (Yle)"
+    ],
+    "source_url": [
+      "https://yle.fi/a/74-20157854",
+      "https://www.helsinkitimes.fi/finland/finland-news/politics/29222-government-agrees-92-5-billion-budget-with-12-4-billion-deficit.html",
+      "https://yle.fi/a/74-20199587"
+    ]
+  }
+]

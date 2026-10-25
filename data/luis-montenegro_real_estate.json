@@ -1,0 +1,69 @@
+[
+  {
+    "id": "luis-montenegro-re-espinho-house",
+    "property": "Six-storey detached house (829.6 m² gross floor area), family home",
+    "location": "Espinho (near Praia Azul), Aveiro district",
+    "transaction_type": "Purchase of a derelict building and new construction",
+    "date": "2016–2021",
+    "value": "Tax value over 574,000 EUR (declaration of October 2024); about 100,000 EUR paid for the previous building",
+    "detail": "First declared in March 2017 as under construction; use licence issued in 2021. A 2023 controversy concerned the absence of its value in his declarations up to 2022 (see polemics), and tax benefits for the works were the subject of a prosecution inquiry closed in 2024 (see justice). It is also the registered office of Spinumviva.",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://cnnportugal.iol.pt/governo/politica/montenegro-nao-declarou-valor-de-casa-de-luxo-em-espinho-ao-tribunal-constitucional/20230505/6454bccbd34ef47b87538255"
+    ]
+  },
+  {
+    "id": "luis-montenegro-re-lisbon-flat",
+    "property": "One-bedroom flat (T1)",
+    "location": "Estrela, Lisbon",
+    "transaction_type": "Purchase (with his wife)",
+    "date": "2024-11-29",
+    "value": "More than 300,000 EUR with a 100,000 EUR mortgage according to his declaration (Observador); more than 400,000 EUR with no bank loan in the deed according to Correio da Manhã (via Jornal de Negócios); tax value over 153,000 EUR",
+    "detail": "Bought after he became Prime Minister, in the same building as a flat bought by his children in December 2023. The sources disagree on price and financing. The purchases were examined, and cleared, in the prosecution service's preventive inquiry (see justice).",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://www.jornaldenegocios.pt/economia/politica/detalhe/familia-de-montenegro-paga-a-pronto-715-mil-euros-na-compra-de-duas-casas-em-lisboa"
+    ]
+  },
+  {
+    "id": "luis-montenegro-re-espinho-flat",
+    "property": "Apartment",
+    "location": "Espinho",
+    "transaction_type": "Purchase",
+    "date": "by 2011",
+    "value": "",
+    "detail": "An apartment in Espinho declared from 2011 (different from the share of a building in Espinho declared in 2002) and still declared on leaving parliament in 2018.",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-re-inherited-properties",
+    "property": "Inherited and donated shares of urban and rustic properties",
+    "location": "Bragança (Rabal parish) and Resende; Espinho",
+    "transaction_type": "Inheritance and donation",
+    "date": "2011–2022",
+    "value": "Most rustic plots have tax values of a few euros (Observador)",
+    "detail": "From 2011: 1/8 of an apartment with garage in Bragança, 1/8 of an apartment in Espinho and 1/12 of several rustic plots in Rabal, inherited from his father. The 2022 declaration adds properties inherited from his father and brother and donated by his mother (including an urban property and two rural ones in Resende), for 54 entries in all.",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-re-silvalde",
+    "property": "Urban building",
+    "location": "Silvalde, Espinho",
+    "transaction_type": "Purchase",
+    "date": "by 2009",
+    "value": "",
+    "detail": "Declared from 2009; no longer listed in his June 2018 declaration.",
+    "status": "historical",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "luis-montenegro-wh-jsd-espinho",
+    "role": "President of the Social Democratic Youth (JSD) of Espinho",
+    "organization": "Juventude Social Democrata (JSD), Espinho section",
+    "start_date": "1994",
+    "end_date": "1996",
+    "description": "Entered the PSD through its youth organisation in Espinho, which he chaired from 1994 to 1996 (Lusa profile).",
+    "category": "party",
+    "source_url": [
+      "https://www.dn.pt/poder/perfil-luis-montenegro-de-rosto-do-governo-de-passos-coelho-a-candidato-a-lider-do-psd-10427525.html"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-espinho-councillor",
+    "role": "Municipal councillor (vereador), without executive portfolio",
+    "organization": "Câmara Municipal de Espinho (Espinho city council)",
+    "start_date": "1997-12",
+    "end_date": "2009-11",
+    "description": "Elected councillor in the December 1997 local elections, in the opposition to PS mayor José Mota, without a portfolio. The Lusa profile dates his councillor term 1997–2001; according to Observador, which consulted his asset declarations, he later held a non-permanent councillor's seat whose end was declared as 3 November 2009. He ran for mayor in 2005 and lost (see electoral history).",
+    "category": "local_government",
+    "source_url": [
+      "https://www.dn.pt/poder/perfil-luis-montenegro-de-rosto-do-governo-de-passos-coelho-a-candidato-a-lider-do-psd-10427525.html",
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-espinho-assembly",
+    "role": "President of the Municipal Assembly of Espinho",
+    "organization": "Assembleia Municipal de Espinho",
+    "start_date": "2009-10",
+    "end_date": "2013-09",
+    "description": "The official biography states that he was a member and president of the Espinho Municipal Assembly; Wikipedia gives his presidency as October 2009 to September 2013.",
+    "category": "local_government",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://en.wikipedia.org/wiki/Lu%C3%ADs_Montenegro"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-mp-2002-2018",
+    "role": "Member of the Assembly of the Republic (deputado) for Aveiro",
+    "organization": "Assembleia da República",
+    "start_date": "2002-04-05",
+    "end_date": "2018-04-05",
+    "description": "Elected for the Aveiro constituency in 2002 and re-elected in 2005, 2009, 2011 and 2015, serving 16 years. He became deputy chair of the PSD parliamentary group in 2010 under Miguel Macedo. He left parliament on 5 April 2018, after Pedro Passos Coelho's departure from the party leadership.",
+    "category": "legislative",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://www.dn.pt/poder/perfil-luis-montenegro-de-rosto-do-governo-de-passos-coelho-a-candidato-a-lider-do-psd-10427525.html",
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-psd-group-leader",
+    "role": "Chair of the PSD parliamentary group (líder parlamentar)",
+    "organization": "Grupo Parlamentar do PSD, Assembleia da República",
+    "start_date": "2011-06",
+    "end_date": "2017-07",
+    "description": "Elected group leader in June 2011, after the PSD won the election and Pedro Passos Coelho became Prime Minister; with CDS-PP group leader Nuno Magalhães he defended the coalition government in parliament during the troika bailout programme. Official biography: 2011 to 2017.",
+    "category": "legislative",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://www.dn.pt/poder/perfil-luis-montenegro-de-rosto-do-governo-de-passos-coelho-a-candidato-a-lider-do-psd-10427525.html"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-cada",
+    "role": "Member",
+    "organization": "Comissão de Acesso aos Documentos Administrativos (CADA, the administrative documents access commission)",
+    "start_date": "2011",
+    "end_date": "2017-03",
+    "description": "According to Observador's review of his declarations, he was a member of CADA from 2011 and filed a declaration on leaving it in March 2017.",
+    "category": "public_service",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-lawyer",
+    "role": "Lawyer (advogado) in private practice",
+    "organization": "Self-employed; from 2012 through the SP&M law firm",
+    "start_date": "2009",
+    "end_date": "2022-07",
+    "description": "Identified himself as a lawyer in his December 2009 declaration and first declared self-employed income from legal work for 2010 (€90,500), according to Observador.",
+    "category": "private_sector",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-spm",
+    "role": "Co-founder and partner (50% stake)",
+    "organization": "SP&M (Sousa Pinheiro & Montenegro), law firm",
+    "start_date": "2012",
+    "end_date": "2022-07",
+    "description": "Founded the firm with his colleague Sousa Pinheiro in 2012, holding 50% (Observador); the official biography states he was a partner until July 2022. He declared €6,250 from the sale of his stakes in SP&M and Spinumviva in 2022.",
+    "category": "private_sector",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-general-meetings",
+    "role": "Chair of the general meeting (presidente da mesa da assembleia geral)",
+    "organization": "Rádio Popular (electronics retailer) and Grupo Ferpinta (steel tubes)",
+    "start_date": "2015-05",
+    "end_date": "2022",
+    "description": "Declared as chair of the general meeting of Rádio Popular from May 2015 and, from his 2017 declaration, of the Ferpinta group (Observador); both are listed in the official biography. Both companies later became clients of Spinumviva. The sources consulted give no end date; Montenegro has said he held no paid private engagement after his election as PSD president in 2022.",
+    "category": "private_sector",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://www.rtp.pt/noticias/pais/averiguacao-a-spinumviva-arquivada-montenegro-fala-de-autentico-inquerito-criminal_n1705002"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-spinumviva",
+    "role": "Founder, majority partner (62.5%) and manager",
+    "organization": "Spinumviva, Lda. (family company, Espinho)",
+    "start_date": "2021",
+    "end_date": "2022",
+    "description": "Founded the company in 2021 with his wife and two sons, holding 62.5%; he transferred his stake to his wife in 2022 on becoming PSD leader. He declared €4,800 of income as its manager in 2022 (Observador). See polemics.",
+    "category": "private_sector",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://cnnportugal.iol.pt/spinumviva/luis-montenegro/montenegro-vendeu-participacao-na-spinumviva-a-mulher-numa-operacao-nula-e-inutil/20250220/67b79c5fd34e3f0bae9abd23"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-psd-president",
+    "role": "President of the Social Democratic Party (Presidente da Comissão Política Nacional)",
+    "organization": "Partido Social Democrata (PSD)",
+    "start_date": "2022-05-28",
+    "end_date": null,
+    "description": "Elected in the direct election of 28 May 2022 and re-elected unopposed in September 2024 and May 2026 (see electoral history). Leader of the opposition until April 2024. He receives a salary from the party as its president (€48,456.52 declared for 2022).",
+    "category": "party",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://www.rtp.pt/noticias/politica/luis-montenegro-reeleito-presidente-do-psd-com-948-dos-votos_n1744560",
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-pm-xxiv",
+    "role": "Prime Minister (XXIV Constitutional Government)",
+    "organization": "Government of Portugal",
+    "start_date": "2024-04-02",
+    "end_date": "2025-06-05",
+    "description": "Minority PSD/CDS-PP government sworn in on 2 April 2024 after the AD's narrow plurality in March 2024. It fell when parliament rejected its motion of confidence on 11 March 2025, with votes from PS, Chega, PCP, BE, Livre and PAN, and was succeeded by the XXV Government after the May 2025 election.",
+    "category": "executive",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://eco.sapo.pt/2025/03/11/parlamento-chumba-mocao-de-confianca-e-dita-queda-do-governo/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-pm-xxv",
+    "role": "Prime Minister (XXV Constitutional Government)",
+    "organization": "Government of Portugal",
+    "start_date": "2025-06-05",
+    "end_date": null,
+    "description": "Second PSD/CDS-PP minority government, formed after the AD won 91 of 230 seats on 18 May 2025. The official Government site gives his current term as from 5 June 2025.",
+    "category": "executive",
+    "source_url": [
+      "https://portugal.gov.pt/pt/gc25/primeiro-ministro",
+      "https://www.cne.pt/content/mapa-oficial-no-2-a2025-de-31-de-maio"
+    ]
+  },
+  {
+    "id": "luis-montenegro-wh-interim-mai",
+    "role": "Acting Minister of Internal Administration (interim)",
+    "organization": "Government of Portugal",
+    "start_date": "2026-02-10",
+    "end_date": "2026-02-23",
+    "description": "Took over the Interior ministry temporarily after Maria Lúcia Amaral resigned on 10 February 2026 at his proposal, until Luís Neves was sworn in on 23 February 2026.",
+    "category": "executive",
+    "source_url": [
+      "https://cnnportugal.iol.pt/geral/ministra-da-administracao-interna-demite-se/20260210/698b9e98d34e92a34498b301",
+      "https://cnnportugal.iol.pt/governo/ministerio-da-administracao-interna/luis-neves-toma-posse-como-ministro-da-administracao-interna/20260223/699c24d7d34e28842c80f5d6"
+    ]
+  }
+]

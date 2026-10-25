@@ -23,3 +23,7 @@ anthropic==1.15.0
 # PdfReader API).
 pypdf==6.21.1
 python-docx==1.2.0
+
+# Used by build_d1.py to run the importers and the API on a throwaway SQLite
+# database when rendering the site's data for Cloudflare D1.
+aiosqlite==0.22.1

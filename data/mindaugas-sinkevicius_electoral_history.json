@@ -1,0 +1,100 @@
+[
+  {
+    "id": "mindaugas-sinkevicius-el-2007-council",
+    "election": "2007 Lithuanian municipal council elections (Jonava District)",
+    "date": "2007-02-25",
+    "role_sought": "Member of the Jonava District Municipal Council, LSDP list",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First elected office; he sat on the council from 2007 to 2016 (VLE). The Central Electoral Commission's results site could not be read for this research (bot check), so no figures are given.",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-el-2011-council-mayor",
+    "election": "2011 Lithuanian municipal council elections (Jonava District) and election of the mayor by the council",
+    "date": "2011-02-27",
+    "role_sought": "Member of the Jonava District Municipal Council, LSDP list; mayor (elected by the council)",
+    "result": "Elected to the council; elected mayor by the council in April 2011",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Until 2015 Lithuanian mayors were elected by municipal councils; he became mayor at 26. Figures not available for this research (the Central Electoral Commission site answers with a bot check).",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://en.wikipedia.org/wiki/Mindaugas_Sinkevi%C4%8Dius"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-el-2015-mayor",
+    "election": "2015 Lithuanian municipal elections, first direct mayoral election (Jonava District)",
+    "date": "2015-03-01",
+    "role_sought": "Mayor of Jonava District (LSDP)",
+    "result": "Elected",
+    "vote_share": "71.2%",
+    "opponent": "",
+    "detail": "Re-elected in Lithuania's first direct mayoral elections. The share is given by English Wikipedia, citing the Central Electoral Commission (VRK), whose results site could not be read for this research.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mindaugas_Sinkevi%C4%8Dius",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-el-2019-mayor",
+    "election": "2019 Lithuanian municipal elections (Jonava District mayor)",
+    "date": "2019-03-03",
+    "role_sought": "Mayor of Jonava District (LSDP)",
+    "result": "Elected",
+    "vote_share": "57.36%",
+    "opponent": "",
+    "detail": "Returned as mayor after his years as minister and water-utility director; also re-elected to the council. The share is given by English Wikipedia; the VRK results site could not be read for this research.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mindaugas_Sinkevi%C4%8Dius",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-el-2023-mayor",
+    "election": "2023 Lithuanian municipal elections (Jonava District mayor)",
+    "date": "2023-03-05",
+    "role_sought": "Mayor of Jonava District (LSDP)",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected for a third term as directly elected mayor (LRT/BNS). The mandate was revoked in September 2024 after his conviction on appeal and restored after the Supreme Court discontinued the case in March 2025. Vote figures not available for this research (VRK site behind a bot check).",
+    "source_url": [
+      "https://www.lrt.lt/en/news-in-english/19/2371751/lithuanian-town-picks-interim-mayor-following-corruption-scandal",
+      "https://en.wikipedia.org/wiki/2023_Lithuanian_municipal_elections"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-el-2026-lsdp-chair",
+    "election": "2026 LSDP chair election",
+    "date": "2026-05-01",
+    "role_sought": "Chair of the Lithuanian Social Democratic Party",
+    "result": "Elected",
+    "vote_share": "503 of 535 votes cast (as reported by Kauno diena via Lithuanian Wikipedia)",
+    "opponent": "None (sole candidate)",
+    "detail": "Acting chair since 31 July 2025 after Gintautas Paluckas resigned; elected as the only candidate. Inga Ruginienė, then Prime Minister, was not eligible because the party statute requires three years of membership.",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://www.lrt.lt/naujienos/lietuvoje/2/2975075/sinkeviciaus-akistata-su-konservatoriais-klausimas-del-2-milijardu-ir-baltarusisku-trasu",
+      "https://lt.wikipedia.org/wiki/Mindaugas_Sinkevi%C4%8Dius"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-el-2026-seimas-pm",
+    "election": "Seimas vote approving the appointment of the Prime Minister",
+    "date": "2026-06-30",
+    "role_sought": "Prime Minister of Lithuania",
+    "result": "Approved",
+    "vote_share": "80 for, 2 against, 28 abstentions",
+    "opponent": "",
+    "detail": "Under Article 92 of the Constitution the President appoints the Prime Minister with the Seimas's approval. Sinkevičius, then mayor of Jonava, is not a member of the Seimas. The government took office on 14 July 2026 after the Seimas approved its programme by 72 votes to 29, with four abstentions.",
+    "source_url": [
+      "https://www.lrt.lt/en/news-in-english/19/2976107/seimas-votes-to-appoint-sinkevicius-as-new-pm",
+      "https://www.lrt.lt/en/news-in-english/19/2990220/seimas-approves-sinkevicius-government-program-new-cabinet-sworn-in"
+    ]
+  }
+]

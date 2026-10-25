@@ -1,0 +1,241 @@
+[
+  {
+    "id": "mette-frederiksen-promise-early-retirement",
+    "title": "Introduce a right to early retirement for people with long working lives (the 'Arne pension')",
+    "description": "A central Social Democratic pledge in the 2019 election campaign: people who started working young and have had long, often physically demanding careers should be able to retire before the state pension age.",
+    "date_made": "2019-06",
+    "category": "Pensions / labour market",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The government agreed the scheme with the Danish People's Party, SF and the Red–Green Alliance on 10 October 2020, and the Folketing adopted it on 21 December 2020; it has applied since 1 January 2022. The pledge was delivered as promised. Her third government has since promised to halt the scheduled rise in the scheme's age limit from 1 January 2027 and to raise the benefit, which is a separate, later commitment.",
+    "key_evidence": [
+      "Bill L 104 (2020–21) adopted 21 December 2020 by 54 votes to 43; Act No. 2202 of 29 December 2020",
+      "Right to retire one to three years early after 42 to 44 years on the labour market (Lex)",
+      "2 June 2026: Frederiksen announced the age-limit increase due on 1 January 2027 would be stopped and the benefit raised by DKK 3,000 a month"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mette_Frederiksen",
+      "https://www.ft.dk/samling/20201/lovforslag/L104/index.htm",
+      "https://lex.dk/tidlig_pension",
+      "https://stm.dk/presse/pressemoedearkiv/2026/pressemoede-den-2-juni-2026/"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-minimum-staffing",
+    "title": "Make minimum staffing ratios in day care a legal requirement",
+    "description": "Under the agreement of 5 December 2020 with the Social Liberals, SF, the Red–Green Alliance and the Alternative, the Frederiksen I government committed to legally binding minimum staffing ratios (minimumsnormeringer) in nurseries and kindergartens.",
+    "date_made": "2020-12-05",
+    "category": "Children / welfare",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Two laws implemented the agreement: L 200 on data to monitor staffing (adopted 3 June 2021) and L 92 A setting the statutory minimum staffing duty for municipalities (adopted 21 December 2021, 78 votes to 11). The commitment was turned into law as agreed; this profile did not assess how municipalities have met the ratios in practice.",
+    "key_evidence": [
+      "Agreement on minimum staffing ratios of 5 December 2020 (cited in the bill L 200)",
+      "Bill L 200 (2020–21) adopted 3 June 2021; Act No. 1162 of 8 June 2021",
+      "Bill L 92 A (2021–22) adopted 21 December 2021; Act No. 2594 of 28 December 2021"
+    ],
+    "source_url": [
+      "https://www.ft.dk/samling/20201/lovforslag/L200/index.htm",
+      "https://www.ft.dk/samling/20211/lovforslag/L92A/index.htm"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-climate-70",
+    "title": "Cut greenhouse-gas emissions by 70% from 1990 levels by 2030, in a binding climate law",
+    "description": "Part of the June 2019 agreement with the Social Liberals, SF and the Red–Green Alliance on which her first government was formed: legislation to cut emissions by 70% within a decade.",
+    "date_made": "2019-06",
+    "category": "Climate",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The legal part was delivered: the Climate Act, adopted on 18 June 2020 by 90 votes to 5, makes the 70% target binding. The target itself is not yet met and is in doubt: in its 2026 status report the independent Council on Climate Change found the 2025 interim target (50–54%) likely to be met, at about 57%, but concluded that the government's climate policy no longer demonstrates that the 70% target will be reached in 2030, citing a carbon-capture tender expected to deliver less and the lack of a concrete plan B.",
+    "key_evidence": [
+      "DW, June 2019: the deal behind the new government included legislation to cut CO2 emissions by 70% over the next decade",
+      "Climate Act (L 117, 2019–20) adopted 18 June 2020; Act No. 965 of 26 June 2020",
+      "Klimarådet status report 2026: 2025 target likely met; 70% target in 2030 no longer 'anskueliggjort' (demonstrated)"
+    ],
+    "source_url": [
+      "https://www.dw.com/en/denmarks-youngest-prime-minister-to-lead-new-government/a-49357121",
+      "https://www.ft.dk/samling/20191/lovforslag/L117/index.htm",
+      "https://klimaraadet.dk/da/rapport/statusrapport-2026"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-asylum-outside-europe",
+    "title": "Process asylum claims in reception centres outside Europe",
+    "description": "A long-standing goal of Frederiksen's Social Democrats: asylum seekers arriving in Denmark would be transferred to a partner country outside Europe. Her first government legislated for it in 2021, and on 2 June 2026 she said her new government 'will continue working to establish departure centres and reception centres outside Europe'.",
+    "date_made": "2021-04-29",
+    "category": "Asylum and immigration",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "Concrete steps were taken: the law allowing transfers to a third country was adopted on 3 June 2021, and the government held talks with Rwanda. But no partner agreement for transfers and no operating centre has been reported, and the June 2026 government platform still describes such centres as a goal to work towards, five years later. Confidence is moderate because the pledge has shifted towards EU-level arrangements and its final form is open.",
+    "key_evidence": [
+      "Bill L 226 (2020–21) tabled 29 April 2021, adopted 3 June 2021 by 70 votes to 24; entry into force left to the minister",
+      "The Guardian (June 2021): no partner-country agreement yet; UN and European Commission criticism",
+      "Press conference of 2 June 2026: work on centres outside Europe to continue"
+    ],
+    "source_url": [
+      "https://www.ft.dk/samling/20201/lovforslag/L226/index.htm",
+      "https://www.theguardian.com/world/2021/jun/03/denmark-passes-law-to-let-it-relocate-asylum-seekers-outside-europe",
+      "https://stm.dk/presse/pressemoedearkiv/2026/pressemoede-den-2-juni-2026/"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-defence-2pct",
+    "title": "Raise defence spending to NATO's 2% of GDP (by 2033, then brought forward to 2030)",
+    "description": "The national compromise on security policy of 6 March 2022, signed by Frederiksen, committed to lifting defence and security spending permanently to 2% of GDP by the end of 2033. The SVM government formed in December 2022 brought the deadline forward to 2030.",
+    "date_made": "2022-03-06",
+    "category": "Defence",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The target was reached well before the deadline and then overtaken. NATO's 2025 estimates put Danish defence spending above 3% of GDP, and the government's 2027 finance bill proposal of 9 October 2026 sets aside funds to raise it to 3.5% of GDP in 2030, in line with the new NATO commitment. Part of the extra money came from abolishing the Store Bededag holiday.",
+    "key_evidence": [
+      "6 March 2022: national compromise sets 2% of GDP by the end of 2033 and a referendum on the EU defence opt-out",
+      "BBC, 28 February 2023: the government said abolishing Store Bededag was needed to reach 2% by 2030 instead of 2033",
+      "NATO, Defence expenditure of NATO countries (2025): Denmark above 3% of GDP (estimate)",
+      "2027 finance bill proposal: defence spending to rise to 3.5% of GDP in 2030"
+    ],
+    "source_url": [
+      "https://www.regeringen.dk/nyheder/2022/nationalt-kompromis-om-dansk-sikkerhedspolitik/",
+      "https://www.bbc.com/news/world-europe-64802462",
+      "https://www.nato.int/content/dam/nato/webready/documents/finance/def-exp-2025-en.pdf",
+      "https://regeringen.dk/aktuelt/nyheder/2026/finanslovforslag-med-fokus-paa-tryghed-og-sikkerhed-loeft-af-velfaerden-og-groen-omstilling/"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-abolish-store-bededag",
+    "title": "Abolish the Store Bededag public holiday to help pay for defence",
+    "description": "Announced with the SVM government platform 'Ansvar for Danmark' in December 2022: the spring holiday would become a working day, raising about DKK 3 billion a year for defence.",
+    "date_made": "2022-12-14",
+    "category": "Labour market / public finances",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The Folketing adopted the abolition on 28 February 2023 by 95 votes to 68 despite large protests, and the holiday was last observed in May 2023. The measure was implemented as announced. Her third government has since decided to reverse it from 2030, a new commitment assessed separately.",
+    "key_evidence": [
+      "Bill L 13 (2022–23, 2nd session) adopted 28 February 2023; Act No. 214 of 6 March 2023",
+      "BBC: an extra DKK 3 billion for defence, according to the government",
+      "Last Store Bededag holiday: 5 May 2023 (Wikipedia)"
+    ],
+    "source_url": [
+      "https://stm.dk/statsministeriet/publikationer/regeringsgrundlag-2022/",
+      "https://www.ft.dk/samling/20222/lovforslag/L13/index.htm",
+      "https://www.bbc.com/news/world-europe-64802462",
+      "https://en.wikipedia.org/wiki/Store_Bededag"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-income-tax-reform",
+    "title": "Cut income tax on work through a reform of the top tax and a higher employment allowance",
+    "description": "The SVM government platform of December 2022 promised a tax reform lowering the tax on work, financed in part by a new higher rate on the very highest incomes.",
+    "date_made": "2022-12-14",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The reform was agreed on 14 December 2023 with four other parties and enacted on 16 May 2024 (L 138, 76 votes to 30): the top-tax rate falls by 7.5 points on incomes up to DKK 750,000, a 5-point higher rate applies above DKK 2.5 million, and the employment allowance rises. Confidence is below 0.9 because the platform text (a PDF) could not be read for this research; the commitment is taken from the bill's reference to the government's reform.",
+    "key_evidence": [
+      "Agreement on personal tax reform of 14 December 2023 (S, V, M, DD, KF, RV, NB)",
+      "Bill L 138 (2023–24) adopted 16 May 2024; Act No. 482 of 22 May 2024"
+    ],
+    "source_url": [
+      "https://stm.dk/statsministeriet/publikationer/regeringsgrundlag-2022/",
+      "https://www.ft.dk/samling/20231/lovforslag/L138/index.htm"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-one-year-masters",
+    "title": "Shorten about half of all university master's degrees to one year",
+    "description": "In September 2022 Frederiksen proposed that roughly half of university students should in future take a one-year master's degree, so that more people enter the labour market earlier and train later in their careers.",
+    "date_made": "2022-09-25",
+    "category": "Higher education",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "The proposal drew strong criticism from rectors, students, academics and parts of business. The reform eventually adopted on 27 May 2025 (L 172, 92 votes to 16), following a framework agreement of 27 June 2023, created master's degrees of 75 ECTS points (about a year and a quarter) and new flexible professional master's programmes, rather than one-year degrees for half of all students. The reform happened in an altered, weaker form.",
+    "key_evidence": [
+      "DR, 25 September 2022: Frederiksen proposes one-year master's degrees for half of students; rectors and students warn about quality",
+      "Framework agreement on university reform of 27 June 2023",
+      "Bill L 172 (2024–25) adopted 27 May 2025; Act No. 754 of 20 June 2025"
+    ],
+    "source_url": [
+      "https://www.dr.dk/nyheder/politik/regeringen-faar-voldsom-kritik-ville-skaere-en-lang-raekke-universitet-kandidater",
+      "https://www.ft.dk/samling/20241/lovforslag/L172/index.htm"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-expel-criminals",
+    "title": "Expel more foreign criminals",
+    "description": "Presenting her third government's platform on 2 June 2026, Frederiksen said the new government 'stands firm on Danish immigration and justice policy' and would 'expel more criminal foreigners'.",
+    "date_made": "2026-06-02",
+    "category": "Immigration / criminal justice",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The Folketing adopted the expulsion reform on 3 September 2026 by 100 votes to 10: foreigners sentenced to at least one year's unconditional imprisonment for certain serious crimes are now as a rule to be expelled. In her opening speech of 6 October 2026 she said further tightening was on the way. The pledge was delivered within three months.",
+    "key_evidence": [
+      "Press conference of 2 June 2026: 'vi vil udvise flere kriminelle udlændinge'",
+      "Bill L 17 A (2025–26, 2nd session) adopted 3 September 2026; Act No. 766 of 8 September 2026",
+      "Opening speech, 6 October 2026: 'Folketinget har netop vedtaget en udvisningsreform'"
+    ],
+    "source_url": [
+      "https://stm.dk/presse/pressemoedearkiv/2026/pressemoede-den-2-juni-2026/",
+      "https://www.ft.dk/samling/20252/lovforslag/L17A/index.htm",
+      "https://stm.dk/statsministeren/taler/statsminister-mette-frederiksens-tale-ved-folketingets-aabning-den-6-oktober-2026/"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-pensioners-1000",
+    "title": "Give the poorest state pensioners DKK 1,000 more a month",
+    "description": "On 2 June 2026 Frederiksen promised 'the pensioners who have least' an extra DKK 1,000 a month.",
+    "date_made": "2026-06-02",
+    "category": "Pensions / social policy",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The government's finance bill proposal for 2027, presented on 9 October 2026, includes a permanent increase of just over DKK 1,600 a month before tax, about DKK 1,000 after tax, for the state pensioners with least. The finance act has not yet been adopted, so the pledge is under way but not delivered.",
+    "key_evidence": [
+      "Press conference of 2 June 2026: '1000 kr. ekstra om måneden får I'",
+      "2027 finance bill proposal (9 October 2026): permanent increase of about DKK 1,600 a month (DKK 1,000 after tax)"
+    ],
+    "source_url": [
+      "https://stm.dk/presse/pressemoedearkiv/2026/pressemoede-den-2-juni-2026/",
+      "https://regeringen.dk/aktuelt/nyheder/2026/finanslovforslag-med-fokus-paa-tryghed-og-sikkerhed-loeft-af-velfaerden-og-groen-omstilling/"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-reinstate-store-bededag",
+    "title": "Reinstate Store Bededag as a public holiday",
+    "description": "The platform of the four-party government formed in June 2026 brings back the holiday abolished by Frederiksen's previous government in 2023, as SF leader Pia Olsen Dyhr announced at the joint press conference of 2 June 2026.",
+    "date_made": "2026-06-02",
+    "category": "Labour market / public holidays",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "The government's legislative programme for 2026–27, presented on 6 October 2026, includes a bill, to be tabled in spring 2027, reinstating Store Bededag as a holiday from 2030, according to Economy and Interior Minister Pia Olsen Dyhr and the National Church. No bill has been tabled yet, and the holiday would only return in 2030.",
+    "key_evidence": [
+      "Press conference of 2 June 2026: 'Store Bededag [er] tilbage'",
+      "Ritzau/Nordjyske, 5 October 2026: bill in spring 2027, holiday back in 2030",
+      "Folkekirken.dk: the church ministry promised to involve the National Church"
+    ],
+    "source_url": [
+      "https://stm.dk/presse/pressemoedearkiv/2026/pressemoede-den-2-juni-2026/",
+      "https://nordjyske.dk/nyheder/politik/lovforslag-om-genindfoersel-af-store-bededag-i-2030-kommer-i-foraaret/6199497",
+      "https://www.folkekirken.dk/aktuelt/nyheder/regeringen-vil-genindfoere-store-bededag-biskop-efterlyser-lovgivning"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-promise-food-vat",
+    "title": "Halve VAT on food and abolish it on fruit and vegetables",
+    "description": "On 2 June 2026 Frederiksen promised to make food 'markedly cheaper'; in her opening speech to the Folketing on 6 October 2026 she specified that the government would halve VAT on food and remove it entirely on fruit and vegetables.",
+    "date_made": "2026-10-06",
+    "category": "Cost of living / taxation",
+    "status": "no_action",
+    "confidence_score": 0.6,
+    "reasoning": "As of 21 October 2026 no bill on food VAT had been tabled in the Folketing (none appears among the 2026–27 bills searched in the parliament's database), and the government's 2027 finance bill press release does not mention the measure. No timetable was given in the speech. The pledge is recent and may be legislated later.",
+    "key_evidence": [
+      "Press conference of 2 June 2026: 'Vi gør det markant billigere at købe fødevarer'",
+      "Opening speech, 6 October 2026: 'vil vi halvere momsen på fødevarer. Og fjerne den helt på frugt og grønt'",
+      "No food-VAT bill found in the Folketing's 2026–27 bill list as of 21 October 2026"
+    ],
+    "source_url": [
+      "https://stm.dk/presse/pressemoedearkiv/2026/pressemoede-den-2-juni-2026/",
+      "https://stm.dk/statsministeren/taler/statsminister-mette-frederiksens-tale-ved-folketingets-aabning-den-6-oktober-2026/",
+      "https://regeringen.dk/aktuelt/nyheder/2026/finanslovforslag-med-fokus-paa-tryghed-og-sikkerhed-loeft-af-velfaerden-og-groen-omstilling/",
+      "https://www.ft.dk/da/dokumenter/dokumentlister/lovforslag"
+    ]
+  }
+]

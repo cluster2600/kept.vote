@@ -1,0 +1,19 @@
+{
+  "name": "Rumen Radev",
+  "country": "Bulgaria",
+  "country_code": "BG",
+  "office": "head_of_government",
+  "role": "Prime Minister of the Republic of Bulgaria (министър-председател на Република България)",
+  "content_lang": "en",
+  "party": "Progressive Bulgaria (Прогресивна България, PB) — founded in 2026, after the 2024 European Parliament election; no European Parliament group affiliation reported as of October 2026",
+  "birth_date": "1963-06-18",
+  "bio": "Rumen Radev (Румен Радев), born in Dimitrovgrad in 1963, is a former MiG-29 fighter pilot and major general who commanded the Bulgarian Air Force from 2014 to 2016, and has been Prime Minister of Bulgaria since 8 May 2026. Backed by the Bulgarian Socialist Party, he was elected President in November 2016 against GERB's Tsetska Tsacheva and re-elected in 2021 with 66.72% of the run-off vote; he was often in conflict with GERB-led cabinets, notably backing the 2020 protests against Boyko Borisov's government, and during the 2021–2026 political crisis he appointed a series of caretaker governments. He resigned as President on 20 January 2026, a year before the end of his second term (the Constitutional Court terminated his powers on 23 January), and in March formed the Progressive Bulgaria coalition, which won the 19 April 2026 snap election with 44.59% of the vote and 131 of 240 seats on a pledge to dismantle the 'oligarchic model' of governance; the National Assembly elected him Prime Minister by 124 votes to 70, the first government in Bulgaria to rest on an outright parliamentary majority since 1997. As of October 2026 his cabinet has adopted a 2026 budget with a 5.7% of GDP deficit after the EU opened an excessive deficit procedure, passed laws against unfair trading practices and excessive prices, launched the election of a new Supreme Judicial Council, ended weapons supplies from army stocks to Ukraine and abstained on EU-funded lethal aid, and obtained the removal of Patriarch Kirill and Lukoil founder Vagit Alekperov from a draft EU sanctions package. His positions on Russia and Ukraine, criticised by the opposition and in a European Parliament resolution of 22 October 2026, have been a recurring source of controversy since his presidency.",
+  "portrait": {
+    "file": "rumen-radev.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Rumen_Radev_%282026%29_%28cropped%29.jpg",
+    "author": "Government of Bulgaria",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "retrieved": "2026-10-22"
+  }
+}

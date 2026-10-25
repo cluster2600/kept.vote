@@ -1,0 +1,38 @@
+[
+  {
+    "id": "luis-montenegro-st-bcp",
+    "holding": "Banco Comercial Português (BCP) shares",
+    "type": "listed equity",
+    "value": "Up to 1,920,000 shares (September 2023 declaration); sold with a capital gain of about 200,000 EUR, by his account",
+    "as_of": "2024-03",
+    "detail": "His main financial asset since the late 1990s, first declared for 2001 (1,006 shares). He bought most of the stake in 2011–2012 for about €103,000, including in a heavily discounted 2012 rights issue, and added to it before becoming PSD leader. He told CNN Portugal he sold all the shares in the week before taking office as Prime Minister, because a Prime Minister should not hold shares in a listed company (Observador).",
+    "status": "divested",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-st-other-equities",
+    "holding": "Altri SGPS, EDP and FC Porto SAD shares",
+    "type": "listed equity",
+    "value": "3,000 then 6,000 Altri shares; 4,000 EDP shares; 20 FC Porto SAD shares",
+    "as_of": "2011",
+    "detail": "Altri shares declared from 2009 (6,000 in 2011), EDP shares in 2011, and a symbolic 20 shares of FC Porto's football company from 2002. Holdings are not itemised in declarations after the 2019 rule change.",
+    "status": "historical",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-st-funds-savings",
+    "holding": "Investment funds, term deposits, savings certificates and retirement savings plans (PPR)",
+    "type": "funds and savings",
+    "value": "Funds of 60,721.77 EUR and term deposits of 93,032.18 EUR (2011 declaration)",
+    "as_of": "2011",
+    "detail": "BCP and Caixa Geral de Depósitos equity and bond funds, term deposits, savings certificates and PPRs declared between 2011 and 2015.",
+    "status": "historical",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  }
+]

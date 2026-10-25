@@ -1,0 +1,88 @@
+[
+  {
+    "id": "andrej-plenkovic-el-2011-sabor",
+    "election": "2011 Croatian parliamentary election",
+    "date": "2011-12-04",
+    "role_sought": "Member of the Croatian Parliament, HDZ list, VII constituency (4th elected on the list)",
+    "result": "Elected",
+    "vote_share": "HDZ list in the VII constituency: 57,196 votes (21.88%), 4 of 14 seats",
+    "opponent": "SDP-led list won the constituency with 110,540 votes (42.28%)",
+    "detail": "Elections held on 3–4 December 2011. Final official results published by the State Electoral Commission in Narodne novine 144/2011. Closed lists; turnout in the constituency 64.47%. The HDZ went into opposition after the election.",
+    "source_url": [
+      "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2926.html",
+      "https://www.sabor.hr/en/members-parliament/plenkovic-andrej-7-term"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-el-2013-ep",
+    "election": "2013 European Parliament election in Croatia",
+    "date": "2013-04-14",
+    "role_sought": "Member of the European Parliament, HDZ–HSP AS–BUZ list",
+    "result": "Elected",
+    "vote_share": "HDZ–HSP AS–BUZ list: 243,654 votes (32.86%), 6 of 12 seats",
+    "opponent": "SDP–HNS–HSU list led by Tonino Picula: 237,778 votes (32.07%), 5 seats",
+    "detail": "Croatia's first European election, held before its EU accession on 1 July 2013; turnout 20.83%. The State Electoral Commission's results archive could not be read by the harvest; figures from Wikipedia, mandate dates from the European Parliament.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2013_European_Parliament_election_in_Croatia",
+      "https://www.europarl.europa.eu/meps/en/112755/ANDREJ_PLENKOVIC/history/7"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-el-2014-ep",
+    "election": "2014 European Parliament election in Croatia",
+    "date": "2014-05-25",
+    "role_sought": "Member of the European Parliament, head of the HDZ-led coalition list",
+    "result": "Re-elected",
+    "vote_share": "HDZ-led coalition list: 381,844 votes (41.42%), 6 of 11 seats",
+    "opponent": "Kukuriku coalition list led by Neven Mimica: 275,904 votes (29.93%), 4 seats",
+    "detail": "Turnout 25.24%. He served until 13 October 2016, when he left to become Prime Minister. The State Electoral Commission's results archive could not be read by the harvest; figures from Wikipedia, mandate dates from the European Parliament.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2014_European_Parliament_election_in_Croatia",
+      "https://www.europarl.europa.eu/meps/en/112755/ANDREJ_PLENKOVIC/history/8"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-el-2016-sabor",
+    "election": "2016 Croatian parliamentary election",
+    "date": "2016-09-11",
+    "role_sought": "Member of the Croatian Parliament, head of the HDZ–HSLS list in the I constituency; HDZ candidate for Prime Minister",
+    "result": "Elected; HDZ formed the government and he became Prime Minister on 19 October 2016",
+    "vote_share": "HDZ–HSLS list in the I constituency: 62,310 votes (31.63%), 5 of 14 seats; 33,265 preference votes for Plenković (53.38% of the list's votes)",
+    "opponent": "SDP-led list headed by Zoran Milanović: 77,541 votes (39.36%) and 7 seats in the I constituency",
+    "detail": "Elections held on 10–11 September 2016. Official results published by the State Electoral Commission in Narodne novine 86/2016; turnout in the constituency 59.86%. His parliamentary mandate has been dormant while he serves as Prime Minister.",
+    "source_url": [
+      "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_09_86_1868.html",
+      "https://www.sabor.hr/en/members-parliament/plenkovic-andrej-9-term",
+      "https://vlada.gov.hr/14-vlada-rh/44283"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-el-2020-sabor",
+    "election": "2020 Croatian parliamentary election",
+    "date": "2020-07-05",
+    "role_sought": "Member of the Croatian Parliament, head of the HDZ–HSLS list in the I constituency; HDZ candidate for Prime Minister",
+    "result": "Elected; re-appointed Prime Minister on 23 July 2020",
+    "vote_share": "HDZ–HSLS list in the I constituency: 49,202 votes (28.32%), 5 seats; 32,208 preference votes for Plenković (65.46% of the list's votes)",
+    "opponent": "SDP-led list: 38,701 votes (22.27%); Možemo!: 36,702 votes (21.12%) in the I constituency",
+    "detail": "Elections held on 4–5 July 2020, during the COVID-19 pandemic. Final official results published by the State Electoral Commission in Narodne novine 82/2020; turnout in the constituency 51.61%.",
+    "source_url": [
+      "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_07_82_1530.html",
+      "https://vlada.gov.hr/15-vlada-rh/44284"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-el-2024-sabor",
+    "election": "2024 Croatian parliamentary election",
+    "date": "2024-04-17",
+    "role_sought": "Member of the Croatian Parliament, head of the HDZ-led list in the I constituency; HDZ candidate for Prime Minister",
+    "result": "Elected; HDZ and partners first with 61 of 151 seats; formed a government with the Homeland Movement (DP), appointed on 17 May 2024",
+    "vote_share": "HDZ–HSLS–HDS–HNS–HSU list in the I constituency: 63,763 votes (27.65%), 5 seats; 33,080 preference votes for Plenković (51.87% of the list's votes)",
+    "opponent": "SDP-led coalition list: 56,205 votes (24.37%); Možemo!: 45,831 votes (19.87%) in the I constituency",
+    "detail": "Elections held on 16–17 April 2024. Final official results confirmed by the State Electoral Commission on 29 April 2024 and published in Narodne novine 50/2024; turnout in the constituency 69.07%. The HDZ-led coalition won 61 seats nationally, short of a majority (tportal/Hina).",
+    "source_url": [
+      "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_50_853.html",
+      "https://www.tportal.hr/vijesti/clanak/dip-objavio-sluzbene-rezultate-izbore-dobronic-ih-donosi-milanovicu-foto-20240429",
+      "https://vlada.gov.hr/15-vlada-rh/44284"
+    ]
+  }
+]

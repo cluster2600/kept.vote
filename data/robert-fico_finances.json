@@ -1,0 +1,51 @@
+[
+  {
+    "id": "robert-fico-fin-2023-public",
+    "year": 2023,
+    "type": "income",
+    "label": "Income from public office (MP, then Prime Minister) declared for 2023",
+    "amount": "54,374 EUR",
+    "detail": "As reported by Pravda, TA3 and STVR (TASR) from the declarations for 2023 published by the parliamentary committee on 7 November 2024. Slovak public officials file an annual declaration (oznámenie funkcionára) with the National Council's Committee on Incompatibility of Functions, which publishes it on nrsr.sk; that site was not readable for this research (bot check), so the figures are taken from press reports that cite the declaration.",
+    "source_url": [
+      "https://spravy.pravda.sk/domace/clanok/730118-premieri-ministri-majetkove-priznanie-robert-fico-ludovit-odor-eduard-heger",
+      "https://www.ta3.com/clanok/966161/politici-opat-zverejnili-svoje-majetky-fico-ma-konecne-byt-danko-za-minuly-rok-zarobil-400-tisic-eur",
+      "https://spravy.stvr.sk/2024/11/parlament-zverejnil-majetkove-priznania-politikov-kto-vlani-zarobil-najviac/"
+    ]
+  },
+  {
+    "id": "robert-fico-fin-2023-other",
+    "year": 2023,
+    "type": "income",
+    "label": "Other income declared for 2023 (outside public office, including practice as a lawyer)",
+    "amount": "47,410 EUR",
+    "detail": "Pravda and TA3 report that the declaration lists income outside public office and that he also practised as an advocate (advokát). Slovak public officials file an annual declaration (oznámenie funkcionára) with the National Council's Committee on Incompatibility of Functions, which publishes it on nrsr.sk; that site was not readable for this research (bot check), so the figures are taken from press reports that cite the declaration.",
+    "source_url": [
+      "https://spravy.pravda.sk/domace/clanok/730118-premieri-ministri-majetkove-priznanie-robert-fico-ludovit-odor-eduard-heger",
+      "https://www.ta3.com/clanok/966161/politici-opat-zverejnili-svoje-majetky-fico-ma-konecne-byt-danko-za-minuly-rok-zarobil-400-tisic-eur"
+    ]
+  },
+  {
+    "id": "robert-fico-fin-2023-total",
+    "year": 2023,
+    "type": "income",
+    "label": "Total income declared for 2023",
+    "amount": "101,784 EUR",
+    "detail": "Sum of the two items above, as given by Pravda and STVR. According to Pravda the declaration lists savings and building-society savings (stavebné sporenie) without amounts in the press reports, and no mortgage; TA3 reports that it lists no vehicles or other valuable movable property. Slovak public officials file an annual declaration (oznámenie funkcionára) with the National Council's Committee on Incompatibility of Functions, which publishes it on nrsr.sk; that site was not readable for this research (bot check), so the figures are taken from press reports that cite the declaration.",
+    "source_url": [
+      "https://spravy.pravda.sk/domace/clanok/730118-premieri-ministri-majetkove-priznanie-robert-fico-ludovit-odor-eduard-heger",
+      "https://spravy.stvr.sk/2024/11/parlament-zverejnil-majetkove-priznania-politikov-kto-vlani-zarobil-najviac/"
+    ]
+  },
+  {
+    "id": "robert-fico-fin-2024-income",
+    "year": 2024,
+    "type": "income",
+    "label": "Income declared for 2024 (Prime Minister for the whole year)",
+    "amount": "66,673 EUR",
+    "detail": "Reported by TASR (published by SME on 18 November 2025) from the declarations for 2024 that the committee published on 17 November 2025; the report does not split public-office and other income. Slovak public officials file an annual declaration (oznámenie funkcionára) with the National Council's Committee on Incompatibility of Functions, which publishes it on nrsr.sk; that site was not readable for this research (bot check), so the figures are taken from press reports that cite the declaration.",
+    "source_url": [
+      "https://www.sme.sk/domov/c/najviac-v-roku-2024-zarobil-z-ustavnych-cinitelov-pellegrini-ukazuju-zverejnene-majetkove-priznania",
+      "https://spravy.stvr.sk/2025/11/na-webe-narodnej-rady-sr-zverejnili-majetkove-priznania-viac-ako-1-600-verejnych-funkcionarov/"
+    ]
+  }
+]

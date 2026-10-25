@@ -1,0 +1,89 @@
+[
+  {
+    "id": "rob-jetten-el-2010-nijmegen",
+    "election": "2010 Nijmegen municipal election",
+    "date": "2010-03-03",
+    "role_sought": "Member of Nijmegen municipal council, D66 lead candidate",
+    "result": "Elected; D66 won 6 of the council's seats",
+    "vote_share": "D66: 10,922 votes (15.14%)",
+    "opponent": "",
+    "detail": "PvdA came first with 13,224 votes (18.33%, 8 seats). Turnout 54.6%.",
+    "source_url": [
+      "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/GR20100303/623188",
+      "https://www.parlement.com/biografie/raa-rob-jetten"
+    ]
+  },
+  {
+    "id": "rob-jetten-el-2014-nijmegen",
+    "election": "2014 Nijmegen municipal election",
+    "date": "2014-03-19",
+    "role_sought": "Member of Nijmegen municipal council, D66 lead candidate",
+    "result": "Re-elected; D66 won 7 seats",
+    "vote_share": "D66: 13,406 votes (17.87%)",
+    "opponent": "",
+    "detail": "SP (14,147 votes, 8 seats) and GroenLinks (13,819 votes, 8 seats) finished ahead of D66. Turnout 54.64%.",
+    "source_url": [
+      "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/GR20140319/623197",
+      "https://www.parlement.com/biografie/raa-rob-jetten"
+    ]
+  },
+  {
+    "id": "rob-jetten-el-2017-tk",
+    "election": "2017 Dutch general election (Tweede Kamer)",
+    "date": "2017-03-15",
+    "role_sought": "Member of the House of Representatives, D66 list",
+    "result": "Elected; D66 won 19 of 150 seats",
+    "vote_share": "D66: 1,285,819 votes (12.23%)",
+    "opponent": "",
+    "detail": "VVD came first with 33 seats. D66 then joined the third Rutte cabinet; Jetten took his seat on 23 March 2017.",
+    "source_url": [
+      "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20170315",
+      "https://www.kiesraad.nl/adviezen-en-publicaties/proces-verbalen/2017/3/proces-verbaal-zitting-kiesraad-uitslag-tweede-kamerverkiezing-2017/getekend-proces-verbaal-zitting-bekendmaking-uitslag-tweede-kamer-22-03-2017"
+    ]
+  },
+  {
+    "id": "rob-jetten-el-2021-tk",
+    "election": "2021 Dutch general election (Tweede Kamer)",
+    "date": "2021-03-17",
+    "role_sought": "Member of the House of Representatives, no. 2 on the D66 list behind Sigrid Kaag",
+    "result": "Elected; D66 won 24 seats, second place",
+    "vote_share": "D66: 1,565,861 votes (15.02%)",
+    "opponent": "",
+    "detail": "Polling ran from 15 to 17 March 2021. VVD came first with 34 seats; D66 joined the fourth Rutte cabinet, in which Jetten became a minister in January 2022.",
+    "source_url": [
+      "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20210317",
+      "https://www.kiesraad.nl/adviezen-en-publicaties/proces-verbalen/2021/03/26/uitslag-tweede-kamerverkiezing-17-maart-2021",
+      "https://www.parlement.com/biografie/raa-rob-jetten"
+    ]
+  },
+  {
+    "id": "rob-jetten-el-2023-tk",
+    "election": "2023 Dutch general election (Tweede Kamer)",
+    "date": "2023-11-22",
+    "role_sought": "Member of the House of Representatives, D66 lead candidate (lijsttrekker)",
+    "result": "Elected; D66 fell to 9 seats (from 24)",
+    "vote_share": "D66: 656,292 votes (6.29%)",
+    "opponent": "Geert Wilders (PVV), Frans Timmermans (GL-PvdA), Dilan Yeşilgöz (VVD), Pieter Omtzigt (NSC)",
+    "detail": "The PVV came first with 37 seats; D66 went into opposition to the Schoof cabinet.",
+    "source_url": [
+      "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20231122",
+      "https://www.kiesraad.nl/adviezen-en-publicaties/proces-verbalen/2023/12/04/proces-verbaal-van-de-uitslag-van-de-tweede-kamerverkiezing-2023",
+      "https://www.parlement.com/biografie/raa-rob-jetten"
+    ]
+  },
+  {
+    "id": "rob-jetten-el-2025-tk",
+    "election": "2025 Dutch general election (Tweede Kamer)",
+    "date": "2025-10-29",
+    "role_sought": "Member of the House of Representatives, D66 lead candidate (lijsttrekker)",
+    "result": "Elected; D66 largest party by votes with 26 seats, tied in seats with the PVV",
+    "vote_share": "D66: 1,790,634 votes (16.94%)",
+    "opponent": "Geert Wilders (PVV: 1,760,966 votes, 16.66%, 26 seats)",
+    "detail": "D66's best result in a general election, under the slogan 'Het kan wél'. Official result established by the Kiesraad on 7 November 2025, with a margin of 29,668 votes over the PVV; VVD 22 seats, GL-PvdA 20, CDA 18. Turnout 78.3%. The election led to the D66–VVD–CDA minority cabinet with Jetten as prime minister.",
+    "source_url": [
+      "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20251029",
+      "https://www.kiesraad.nl/adviezen-en-publicaties/publicaties/2025/11/07/proces-verbaal-van-de-uitslag-van-de-verkiezing-van-de-tweede-kamer-2025-d.d.-7-november-2025",
+      "https://www.vrt.be/vrtnws/nl/liveblog/informateur-hans-wijers-van-d66-stapt-op-na-gelekt-privebericht-~1761592901504/"
+    ]
+  }
+]

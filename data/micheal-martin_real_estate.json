@@ -1,0 +1,17 @@
+[
+  {
+    "id": "micheal-martin-re-constituency-office",
+    "property": "Constituency office",
+    "location": "Turners Cross, Cork",
+    "transaction_type": "purchase financed with an AIB mortgage",
+    "date": "",
+    "value": "Not stated in the reports consulted (the register records land worth more than €13,000 without a value)",
+    "detail": "Declared in the Dáil Register of Members' Interests for 2025, according to the Irish Examiner; the Oireachtas lists the Turners Cross office as his constituency contact address. Members of the Oireachtas file an annual statement of registrable interests (occupations, shares, directorships, land worth more than €13,000, gifts and similar), which the Clerk of the Dáil publishes as the Register of Members' Interests and sends to the Standards in Public Office Commission (SIPO). The register is a PDF that the harvest used for this research fingerprints but does not render, so its content is taken from the Irish Examiner's report on it. Office holders also furnish statements of interests under the Ethics in Public Office Acts; these are not readable through sipo.ie, which refused the harvest (HTTP 403).",
+    "status": "declared",
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41802197.html",
+      "https://data.oireachtas.ie/ie/oireachtas/members/registerOfMembersInterests/dail/2026/2026-02-25_register-of-member-s-interests-dail-eireann-2025_en.pdf",
+      "https://www.oireachtas.ie/en/members/member/Miche%C3%A1l-Martin.D.1989-06-29/"
+    ]
+  }
+]
