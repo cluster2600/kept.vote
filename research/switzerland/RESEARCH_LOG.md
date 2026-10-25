@@ -510,3 +510,41 @@ Queries included `"Yann-Eric Hofmann" "conseil de fondation"`,
 Validation: official index content/retention statement, archived hash and all
 research JSON/source hashes checked; no application or graph changes. Four
 original-order drafts remain unsent. No merge, publication, messages or requests.
+
+## Resumed pass 12 (25 October 2026)
+
+**11:35:19–11:37:05 UTC**, about two minutes of source research/validation,
+excluding subsequent administration and scheduled waiting.
+
+Searches: `"Yann-Eric Hofmann" "Stiftung"`,
+`"Christoph Hurni" "Ursula Wirz" Bundesrichter`,
+`"Sonja Koch" "Herausgeberin" Strafprozessordnung`, and
+`"Morges" "13 juillet 2020" "KZM"`. These yielded no new direct board identity,
+payment or original release order.
+
+More substantively, used **Bern's official public decision-search interface** at
+https://www.zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de with blank
+full text and exact decision-date filters:
+- **13 July 2020** (from=to): the visible all-sources result list returned two
+  entries, **KES 2020 538** (protective placement/danger to others) and
+  **BK 2020 177** (non-opening/threat). Neither listing is the required Morges
+  compulsory-measures release order.
+- **3 July 2020** (from=to): one entry, **BK 2020 206**, validity of an objection
+  to a penal order. The displayed case concerned a different proceeding and
+  cannot be joined to Morges by date or anonymised A.________ label.
+
+Archived the two search-state text snapshots, preserving filters and references,
+URLs, timestamps and hashes. They are **search evidence, not original orders**.
+No result in this selected public collection does not establish that an order
+never existed, was unlawful, or is unavailable through other lawful access.
+The MPC order is in any event a federal-prosecution document, so a cantonal
+collection's absence cannot settle its availability.
+
+UI issues: date replacement initially appended text; corrected the values and
+verified displayed dates/results. Stale accessibility indices caused two failed
+clicks; refreshed UI state and retained only the verified query outcomes.
+No documents or messages requested from third parties.
+
+Validation: exact date filters and listed references checked against saved
+states; all manifest hashes checked; `git diff --check` passed. No graph or
+application change. Financial and entity-board gaps remain unchanged.

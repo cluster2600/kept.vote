@@ -475,6 +475,22 @@
       "bytes": 110373,
       "retrieved_at_utc": "2026-10-25T11:21:21.768523+00:00",
       "source_status": "official publisher; finance-publication index and retention policy, no individual target payment established"
+    },
+    {
+      "file": "sources/bern-decision-search-2020-07-13-observed-2026-10-25.txt",
+      "url": "https://www.zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de",
+      "sha256": "0c98f0c4b17658919c519a1f492cbd75010f8b16eae6c398f8acf29f4eed2983",
+      "bytes": 8439,
+      "retrieved_at_utc": "2026-10-25T11:37:05.304215+00:00",
+      "source_status": "official decision-search UI; accessibility-text snapshot; search results, not original release orders"
+    },
+    {
+      "file": "sources/bern-decision-search-2020-07-03-observed-2026-10-25.txt",
+      "url": "https://www.zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de",
+      "sha256": "8681150bb9c318b9e8367adb05551f95a117f0530d0a179e691d931b22e13a3e",
+      "bytes": 7133,
+      "retrieved_at_utc": "2026-10-25T11:37:05.304215+00:00",
+      "source_status": "official decision-search UI; accessibility-text snapshot; search results, not original release orders"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
