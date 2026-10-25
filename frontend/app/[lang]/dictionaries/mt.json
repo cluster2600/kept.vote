@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiċi",
     "countryFilterLabel": "Iffiltra skont il-pajjiż",
+    "mapLabel": "Mappa: agħżel pajjiż",
+    "mapCovered": "Kopert",
+    "mapNotCovered": "Għadu mhux kopert",
     "allCountries": "Il-pajjiżi kollha",
     "otherCountry": "Oħrajn",
     "politicianCount": {
@@ -46,8 +49,8 @@
     "viewDossier": "Ara d-dossier",
     "noneInCountry": "Għad m’hemm l-ebda politiku mmonitorjat għal dan il-pajjiż.",
     "emptyState": "Għad m’hemm l-ebda politiku. Biex ittella’ data ta’ dimostrazzjoni, ħaddem l-iskript tad-data inizjali:",
-    "connectionErrorTitle": "Ma kienx possibbli li jsir kuntatt mal-API tal-backend.",
-    "connectionErrorBody": "Kun żgur li l-backend FastAPI qed jaħdem u li {envVar} jippunta lejh."
+    "connectionErrorTitle": "Ma setgħux jitniżżlu d-data.",
+    "connectionErrorBody": "Id-database ma wieġbitx. Erġa’ pprova fi ftit ħin."
   },
   "office": {
     "head_of_state": "Kap tal-Istat",
@@ -57,6 +60,7 @@
     "mayor": "Sindku",
     "regional_executive": "Eżekuttiv reġjonali",
     "party_leader": "Kap tal-partit",
+    "judge": "Imħallef",
     "other": "Kariga oħra"
   },
   "notFound": {
@@ -68,6 +72,7 @@
     "back": "← Il-politiċi kollha",
     "trackRecord": "Rekord tal-wegħdiet",
     "contentLanguage": "Lingwa tal-profil: {language}",
+    "photoCredit": "Ritratt: {author}, {license}, permezz ta' {source}",
     "tabsLabel": "Taqsimiet tal-profil",
     "tabs": {
       "promises": "Wegħdiet",

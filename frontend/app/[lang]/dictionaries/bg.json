@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Политици",
     "countryFilterLabel": "Филтриране по държава",
+    "mapLabel": "Карта: изберете държава",
+    "mapCovered": "Обхваната",
+    "mapNotCovered": "Все още не е обхваната",
     "allCountries": "Всички държави",
     "otherCountry": "Други",
     "politicianCount": {
@@ -40,8 +43,8 @@
     "viewDossier": "Вижте досието",
     "noneInCountry": "За тази държава все още не се проследяват политици.",
     "emptyState": "Все още няма политици. Стартирайте скрипта за начални данни, за да заредите демонстрационните данни:",
-    "connectionErrorTitle": "Няма връзка с API на бекенда.",
-    "connectionErrorBody": "Уверете се, че бекендът FastAPI работи и че {envVar} сочи към него."
+    "connectionErrorTitle": "Данните не можаха да бъдат заредени.",
+    "connectionErrorBody": "Базата данни не отговори. Моля, опитайте отново след малко."
   },
   "office": {
     "head_of_state": "Държавен глава",
@@ -51,6 +54,7 @@
     "mayor": "Кмет",
     "regional_executive": "Регионален ръководител",
     "party_leader": "Партиен лидер",
+    "judge": "Съдия",
     "other": "Друга длъжност"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Всички политици",
     "trackRecord": "Изпълнение на обещанията",
     "contentLanguage": "Профилът е написан на {language}",
+    "photoCredit": "Снимка: {author}, {license}, чрез {source}",
     "tabsLabel": "Раздели на профила",
     "tabs": {
       "promises": "Обещания",

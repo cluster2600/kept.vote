@@ -1,0 +1,19 @@
+{
+  "name": "Giorgia Meloni",
+  "country": "Italy",
+  "country_code": "IT",
+  "office": "head_of_government",
+  "role": "President of the Council of Ministers of Italy (Presidente del Consiglio dei ministri)",
+  "content_lang": "en",
+  "party": "Fratelli d'Italia (FdI) — European Conservatives and Reformists (ECR)",
+  "birth_date": "1977-01-15",
+  "bio": "Giorgia Meloni is an Italian politician who has been President of the Council of Ministers (Prime Minister) since 22 October 2022, the first woman to hold the office. Active in right-wing youth politics from 1992 (MSI's Fronte della Gioventù, then Alleanza Nazionale's youth movements), she has sat in the Chamber of Deputies since 2006, was its Vice-President (2006–2008) and served as Minister for Youth in the fourth Berlusconi government (2008–2011). She co-founded Fratelli d'Italia (FdI) in December 2012, has been its president since March 2014 and chaired the European Conservatives and Reformists Party from 2020 to January 2025. After FdI became the largest party in the September 2022 general election, she formed a government of FdI, Lega, Forza Italia and Noi Moderati, which on 31 August 2026 became the longest-serving in the history of the Italian Republic. As of October 2026 she remains in office despite voters rejecting her government's separation-of-careers justice reform in the referendum of 22–23 March 2026; Parliament adopted a new electoral law on 8 October 2026 ahead of the general election due in 2027.",
+  "portrait": {
+    "file": "giorgia-meloni.webp",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
+    "author": "Governo Italiano",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-22"
+  }
+}

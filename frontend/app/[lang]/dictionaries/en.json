@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politicians",
     "countryFilterLabel": "Filter by country",
+    "mapLabel": "Map: choose a country",
+    "mapCovered": "Covered",
+    "mapNotCovered": "Not covered yet",
     "allCountries": "All countries",
     "otherCountry": "Other",
     "politicianCount": {
@@ -40,8 +43,8 @@
     "viewDossier": "View dossier",
     "noneInCountry": "No politicians are tracked for this country yet.",
     "emptyState": "No politicians yet. Run the seed script to load demo data:",
-    "connectionErrorTitle": "Couldn't reach the backend API.",
-    "connectionErrorBody": "Make sure the FastAPI backend is running and {envVar} points to it."
+    "connectionErrorTitle": "Couldn't load the data.",
+    "connectionErrorBody": "The database didn't respond. Please try again in a moment."
   },
   "office": {
     "head_of_state": "Head of state",
@@ -51,6 +54,7 @@
     "mayor": "Mayor",
     "regional_executive": "Regional executive",
     "party_leader": "Party leader",
+    "judge": "Judge",
     "other": "Other office"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← All politicians",
     "trackRecord": "Promise track record",
     "contentLanguage": "Profile written in {language}",
+    "photoCredit": "Photo: {author}, {license}, via {source}",
     "tabsLabel": "Profile sections",
     "tabs": {
       "promises": "Promises",

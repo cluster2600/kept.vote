@@ -1,0 +1,68 @@
+[
+  {
+    "id": "giorgia-meloni-interest-deputy",
+    "item": "Member of the Chamber of Deputies",
+    "type": "elected_office",
+    "period": "since 2006 (current mandate from October 2022)",
+    "value": "",
+    "detail": "The only office listed in her declaration of offices to the Chamber of Deputies for the XIX legislature (signed 11 October 2022), with no business or professional activity declared.",
+    "status": "declared",
+    "source_url": [
+      "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MELONI_GIORGIA.pdf",
+      "https://www.camera.it/deputati/elenco/19-302103"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-interest-no-other-offices",
+    "item": "No other public or private offices, and no other publicly funded posts",
+    "type": "declaration_of_offices",
+    "period": "2022–present",
+    "value": "",
+    "detail": "In Modello A published by the Presidency of the Council (Legislative Decree 33/2013, art. 14(1)(d) and (e)) she declares no other offices with public or private bodies and no other posts paid by public funds.",
+    "status": "declared",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_incarichi_modA.pdf",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-interest-fdi",
+    "item": "President of Fratelli d'Italia",
+    "type": "party_office",
+    "period": "since March 2014",
+    "value": "",
+    "detail": "Party leadership role; she co-founded the party in December 2012. Her published tax returns show no income from the party.",
+    "status": "declared",
+    "source_url": [
+      "https://library.fes.de/pdf-files/bueros/rom/19659.pdf",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_redditi_2025.pdf"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-interest-author",
+    "item": "Author of books (royalty income)",
+    "type": "publishing",
+    "period": "2021–2024",
+    "value": "Gross author's income: 55,000 EUR (2021), 257,434 EUR (2022), 478,672 EUR (2023), 35,260 EUR (2024)",
+    "detail": "Royalties declared in her tax returns as income from the economic use of intellectual works; the returns do not name the titles.",
+    "status": "declared",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_redditi_2025.pdf",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_Redditi2024.pdf",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-interest-family-consent",
+    "item": "Relatives' financial data not published (consent not given)",
+    "type": "family_consent",
+    "period": "2022–present",
+    "value": "",
+    "detail": "Under Legislative Decree 33/2013 the asset and income data of a non-separated spouse and relatives up to the second degree are published only with their consent; the Presidency's Modello E records that consent was not given, so no family data is shown.",
+    "status": "declared",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_familiari_ModE.pdf",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"
+    ]
+  }
+]

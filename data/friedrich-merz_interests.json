@@ -1,0 +1,104 @@
+[
+  {
+    "id": "merz-interest-law-practice",
+    "item": "Self-employed lawyer (Rechtsanwalt), Düsseldorf/Arnsberg",
+    "type": "Paid activity alongside the mandate (Bundestag register)",
+    "period": "declared in the 20th and 21st terms; dormant since 25 March 2025",
+    "value": "",
+    "detail": "Listed in the Bundestag register of interests for the 21st term as a paid activity alongside the mandate, marked as dormant (ruhend) since 25 March 2025. No income is published for it.",
+    "status": "declared",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648"
+    ]
+  },
+  {
+    "id": "merz-interest-kas",
+    "item": "Konrad-Adenauer-Stiftung e.V., Berlin — member of the executive board (Vorstand), honorary",
+    "type": "Function in an association or foundation (Bundestag register)",
+    "period": "since 29 November 2023",
+    "value": "",
+    "detail": "Unpaid board seat at the CDU-affiliated political foundation, declared in the Bundestag register (20th and 21st terms). Merz studied as a scholarship holder of the foundation.",
+    "status": "declared",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-interest-united-europe",
+    "item": "United Europe e.V., Hamburg — member of the executive board",
+    "type": "Function in an association or foundation (Bundestag register)",
+    "period": "declared in the 20th and 21st terms",
+    "value": "",
+    "detail": "Board membership of the Hamburg-based association, declared in the Bundestag register.",
+    "status": "declared",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648"
+    ]
+  },
+  {
+    "id": "merz-interest-merz-stiftung",
+    "item": "Friedrich und Charlotte Merz-Stiftung für Bildung und Ausbildung, Arnsberg — member of the executive board",
+    "type": "Function in an association or foundation (Bundestag register)",
+    "period": "declared in the 20th and 21st terms (foundation established 2005)",
+    "value": "",
+    "detail": "Charitable foundation under civil law based in Arnsberg whose statutory purpose is to promote the education and training of young people, for example through scholarships, teaching materials and study stays abroad. Board membership declared in the Bundestag register.",
+    "status": "declared",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://www.merz-stiftung.de/satzung/"
+    ]
+  },
+  {
+    "id": "merz-interest-europa-union",
+    "item": "Europa-Union Deutschland — member of its Bundestag parliamentarians' group",
+    "type": "Association membership",
+    "period": "21st Bundestag",
+    "value": "",
+    "detail": "Listed by the pro-European federalist association among its members in the 21st Bundestag.",
+    "status": "declared",
+    "source_url": [
+      "https://www.europa-union.de/ueber-uns/parlamentariergruppen/deutscher-bundestag/a-z-21-bt"
+    ]
+  },
+  {
+    "id": "merz-interest-atlantik-bruecke",
+    "item": "Atlantik-Brücke e.V. — chairman",
+    "type": "Association leadership (historical)",
+    "period": "2009–2019",
+    "value": "",
+    "detail": "Chaired the German-American association for a decade; listed in his official Bundestag biography.",
+    "status": "historical",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080"
+    ]
+  },
+  {
+    "id": "merz-interest-wirtschaftsrat",
+    "item": "Wirtschaftsrat der CDU e.V. — vice-president",
+    "type": "Business association leadership (historical)",
+    "period": "2019–2021",
+    "value": "",
+    "detail": "Vice-president of the CDU-affiliated business association before his return to the Bundestag; listed in his official Bundestag biography.",
+    "status": "historical",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://www.sueddeutsche.de/politik/neuer-job-merz-wird-vizepraesident-des-cdu-wirtschaftsrates-1.4357559"
+    ]
+  },
+  {
+    "id": "merz-interest-nrw-brexit-commissioner",
+    "item": "Commissioner for the consequences of Brexit and transatlantic relations of the State of North Rhine-Westphalia (honorary)",
+    "type": "Unpaid public advisory role (historical)",
+    "period": "from 1 January 2018",
+    "value": "",
+    "detail": "Appointed by the NRW cabinet on the proposal of Minister-President Armin Laschet on 7 November 2017 as an honorary (Ehrenamt) commissioner to strengthen the state's relations with the United Kingdom and the United States.",
+    "status": "historical",
+    "source_url": [
+      "https://www.land.nrw/pressemitteilung/ministerpraesident-armin-laschet-beruft-friedrich-merz-zum-beauftragten-fuer-die"
+    ]
+  }
+]

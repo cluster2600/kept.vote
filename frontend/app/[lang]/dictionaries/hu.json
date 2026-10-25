@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politikusok",
     "countryFilterLabel": "Szűrés ország szerint",
+    "mapLabel": "Térkép: válasszon országot",
+    "mapCovered": "Lefedve",
+    "mapNotCovered": "Még nincs lefedve",
     "allCountries": "Minden ország",
     "otherCountry": "Egyéb",
     "politicianCount": {
@@ -40,8 +43,8 @@
     "viewDossier": "Adatlap megtekintése",
     "noneInCountry": "Ebből az országból még nem követünk politikusokat.",
     "emptyState": "Még nincsenek politikusok. A bemutató adatok betöltéséhez futtassa a seed szkriptet:",
-    "connectionErrorTitle": "Nem sikerült elérni a backend API-t.",
-    "connectionErrorBody": "Ellenőrizze, hogy fut-e a FastAPI backend, és hogy az {envVar} változó rá mutat-e."
+    "connectionErrorTitle": "Az adatokat nem sikerült betölteni.",
+    "connectionErrorBody": "Az adatbázis nem válaszolt. Kérjük, próbálja újra egy kis idő múlva."
   },
   "office": {
     "head_of_state": "Államfő",
@@ -51,6 +54,7 @@
     "mayor": "Polgármester",
     "regional_executive": "Regionális vezető",
     "party_leader": "Pártvezető",
+    "judge": "Bíró",
     "other": "Egyéb tisztség"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Összes politikus",
     "trackRecord": "Az ígéretek mérlege",
     "contentLanguage": "A profil {language} nyelven készült",
+    "photoCredit": "Fotó: {author}, {license}, forrás: {source}",
     "tabsLabel": "A profil részei",
     "tabs": {
       "promises": "Ígéretek",

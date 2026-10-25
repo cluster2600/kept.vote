@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filtra per paese",
+    "mapLabel": "Mappa: scegli un Paese",
+    "mapCovered": "Coperto",
+    "mapNotCovered": "Non ancora coperto",
     "allCountries": "Tutti i paesi",
     "otherCountry": "Altri paesi",
     "politicianCount": {
@@ -42,8 +45,8 @@
     "viewDossier": "Consulta il dossier",
     "noneInCountry": "Per questo paese non è ancora monitorato alcun politico.",
     "emptyState": "Nessun politico presente. Eseguire lo script di inizializzazione per caricare i dati dimostrativi:",
-    "connectionErrorTitle": "Impossibile raggiungere l’API del backend.",
-    "connectionErrorBody": "Verificare che il backend FastAPI sia in esecuzione e che {envVar} punti al suo indirizzo."
+    "connectionErrorTitle": "Impossibile caricare i dati.",
+    "connectionErrorBody": "Il database non ha risposto. Riprova tra qualche istante."
   },
   "office": {
     "head_of_state": "Capo dello Stato",
@@ -53,6 +56,7 @@
     "mayor": "Sindaco",
     "regional_executive": "Esecutivo regionale",
     "party_leader": "Leader di partito",
+    "judge": "Giudice",
     "other": "Altra carica"
   },
   "notFound": {
@@ -64,6 +68,7 @@
     "back": "← Tutti i politici",
     "trackRecord": "Bilancio delle promesse",
     "contentLanguage": "Profilo redatto in {language}",
+    "photoCredit": "Foto: {author}, {license}, tramite {source}",
     "tabsLabel": "Sezioni del profilo",
     "tabs": {
       "promises": "Promesse",

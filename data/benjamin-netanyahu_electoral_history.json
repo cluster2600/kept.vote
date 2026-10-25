@@ -1,0 +1,262 @@
+[
+  {
+    "id": "benjamin-netanyahu-el-1988-knesset",
+    "election": "1988 Knesset election (12th Knesset)",
+    "date": "1988-11-01",
+    "role_sought": "Member of the Knesset, Likud list (fifth place)",
+    "result": "Elected",
+    "vote_share": "Likud: 31.07%, 40 seats",
+    "opponent": "",
+    "detail": "First election to the Knesset, on the Likud list led by Prime Minister Yitzhak Shamir; Likud formed a national unity government with Labor. The Knesset's own results pages are not reachable from outside Israel (geo-blocked), so figures are taken from the Wikipedia summary of the official results.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1988_Israeli_legislative_election",
+      "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-1992-knesset",
+    "election": "1992 Knesset election (13th Knesset)",
+    "date": "1992-06-23",
+    "role_sought": "Member of the Knesset, Likud list",
+    "result": "Elected (Likud in opposition)",
+    "vote_share": "Likud: 24.89%, 32 seats",
+    "opponent": "Labor (Yitzhak Rabin): 34.65%, 44 seats",
+    "detail": "Likud lost power to Yitzhak Rabin's Labor Party; Netanyahu was re-elected.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1992_Israeli_legislative_election"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-1993-likud-leadership",
+    "election": "1993 Likud leadership election",
+    "date": "1993-03-24",
+    "role_sought": "Chairman of Likud",
+    "result": "Elected",
+    "vote_share": "52.1% (72,705 votes)",
+    "opponent": "David Levy, Benny Begin, Moshe Katsav",
+    "detail": "First direct election of the Likud leader by party members, to succeed Yitzhak Shamir.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1993_Likud_leadership_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-1996-prime-minister",
+    "election": "1996 election for Prime Minister (first direct election)",
+    "date": "1996-05-29",
+    "role_sought": "Prime Minister",
+    "result": "Elected",
+    "vote_share": "50.50% (1,501,023 votes)",
+    "opponent": "Shimon Peres (Labor): 49.50% (1,471,566 votes)",
+    "detail": "Held with the Knesset election under the 1992 direct-election law; he won by about one percentage point, while Labor won more Knesset seats than the joint Likud–Gesher–Tzomet list. He formed a government on 18 June 1996.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1996_Israeli_prime_ministerial_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-1999-prime-minister",
+    "election": "1999 election for Prime Minister",
+    "date": "1999-05-17",
+    "role_sought": "Prime Minister (re-election)",
+    "result": "Defeated",
+    "vote_share": "43.92% (1,402,474 votes)",
+    "opponent": "Ehud Barak (One Israel): 56.08% (1,791,020 votes)",
+    "detail": "Lost to Ehud Barak; he then resigned from the Knesset and the Likud leadership.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1999_Israeli_prime_ministerial_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2003-knesset",
+    "election": "2003 Knesset election (16th Knesset)",
+    "date": "2003-01-28",
+    "role_sought": "Member of the Knesset, Likud list",
+    "result": "Elected",
+    "vote_share": "Likud: 29.39%, 38 seats",
+    "opponent": "",
+    "detail": "Likud, led by Ariel Sharon, won the election; Netanyahu returned to the Knesset and became finance minister.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2003_Israeli_legislative_election"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2005-likud-leadership",
+    "election": "2005 Likud leadership election",
+    "date": "2005-12-19",
+    "role_sought": "Chairman of Likud",
+    "result": "Elected",
+    "vote_share": "44.4% (Wikipedia's article on the primary; its article on Netanyahu gives 47%)",
+    "opponent": "Silvan Shalom (33%), Moshe Feiglin",
+    "detail": "Held after Ariel Sharon left Likud to found Kadima. Sources differ on the exact percentage.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2005_Likud_leadership_election",
+      "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2006-knesset",
+    "election": "2006 Knesset election (17th Knesset)",
+    "date": "2006-03-28",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected (Likud third, in opposition)",
+    "vote_share": "Likud: 8.99%, 12 seats",
+    "opponent": "Kadima (Ehud Olmert): 22.02%, 29 seats",
+    "detail": "Likud's worst result to date; Netanyahu became Leader of the Opposition.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2006_Israeli_legislative_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2009-knesset",
+    "election": "2009 Knesset election (18th Knesset)",
+    "date": "2009-02-10",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected; formed the government",
+    "vote_share": "Likud: 21.61% (729,054 votes), 27 seats",
+    "opponent": "Kadima (Tzipi Livni): 22.47%, 28 seats",
+    "detail": "Likud finished one seat behind Kadima, but President Shimon Peres asked Netanyahu to form the government, which was sworn in on 31 March 2009 with Yisrael Beiteinu, Shas, Labor and others.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2009_Israeli_legislative_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2013-knesset",
+    "election": "2013 Knesset election (19th Knesset)",
+    "date": "2013-01-22",
+    "role_sought": "Member of the Knesset; head of the joint Likud Yisrael Beiteinu list",
+    "result": "Elected; formed the government",
+    "vote_share": "Likud Yisrael Beiteinu: 23.34%, 31 seats",
+    "opponent": "Yesh Atid (Yair Lapid): second place",
+    "detail": "The joint list came first but fell short of expectations; he formed a coalition with Yesh Atid, HaTnua and several smaller parties.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2013_Israeli_legislative_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2015-knesset",
+    "election": "2015 Knesset election (20th Knesset)",
+    "date": "2015-03-17",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected; formed the government",
+    "vote_share": "Likud: 23.40% (985,408 votes), 30 seats",
+    "opponent": "Zionist Union (Isaac Herzog, Tzipi Livni): 24 seats",
+    "detail": "Likud won a larger margin than polls predicted.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2015_Israeli_legislative_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2019-april-knesset",
+    "election": "April 2019 Knesset election (21st Knesset)",
+    "date": "2019-04-09",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected; no government formed",
+    "vote_share": "Likud: 26.46% (1,140,370 votes), 35 seats",
+    "opponent": "Blue and White (Benny Gantz): 35 seats",
+    "detail": "Coalition talks failed over ultra-Orthodox conscription and the Knesset dissolved itself, triggering a new election. The Central Elections Committee's results site for this election no longer answers, so figures come from the Wikipedia summary.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2019-september-knesset",
+    "election": "September 2019 Knesset election (22nd Knesset)",
+    "date": "2019-09-17",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected; no government formed",
+    "vote_share": "Likud: 25.10% (1,113,617 votes), 32 seats",
+    "opponent": "Blue and White (Benny Gantz, Yair Lapid): 25.95% (1,151,214 votes), 33 seats",
+    "detail": "Official final results of the Central Elections Committee: turnout 69.83% of 6,394,030 registered voters. Neither bloc could form a government.",
+    "source_url": [
+      "https://votes22.bechirot.gov.il/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2019-december-likud-leadership",
+    "election": "December 2019 Likud leadership election",
+    "date": "2019-12-26",
+    "role_sought": "Chairman of Likud",
+    "result": "Re-elected",
+    "vote_share": "72.5% (41,792 votes)",
+    "opponent": "Gideon Sa'ar: 27.5% (15,885 votes)",
+    "detail": "Held a month after his indictment was announced.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2019_Likud_leadership_election"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2020-knesset",
+    "election": "2020 Knesset election (23rd Knesset)",
+    "date": "2020-03-02",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected; remained Prime Minister under a rotation agreement",
+    "vote_share": "Likud: 29.46% (1,352,449 votes), 36 seats",
+    "opponent": "Blue and White (Benny Gantz): 26.59% (1,220,381 votes), 33 seats",
+    "detail": "Official final results of the Central Elections Committee: turnout 71.52%. In April 2020 Gantz agreed to an emergency unity government under Netanyahu with a rotation of the premiership after 18 months, which did not take place.",
+    "source_url": [
+      "https://votes23.bechirot.gov.il/",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2021-knesset",
+    "election": "2021 Knesset election (24th Knesset)",
+    "date": "2021-03-23",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected; lost office to the Bennett–Lapid coalition",
+    "vote_share": "Likud: 24.19% (1,066,892 votes), 30 seats",
+    "opponent": "Yesh Atid (Yair Lapid): 13.93% (614,112 votes), 17 seats",
+    "detail": "Official final results of the Central Elections Committee: turnout 67.44%. Likud came first, but Netanyahu and his allies fell short of a majority, and a coalition led by Naftali Bennett and Yair Lapid took office in June 2021.",
+    "source_url": [
+      "https://votes24.bechirot.gov.il/",
+      "https://www.britannica.com/biography/Benjamin-Netanyahu"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2022-knesset",
+    "election": "2022 Knesset election (25th Knesset)",
+    "date": "2022-11-01",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Elected; formed the government",
+    "vote_share": "Likud: 23.41% (1,115,336 votes), 32 seats",
+    "opponent": "Yesh Atid (Yair Lapid): 17.79% (847,435 votes), 24 seats",
+    "detail": "Official final results of the Central Elections Committee: turnout 70.63% of 6,788,804 registered voters. Netanyahu's bloc of Likud, Religious Zionism–Otzma Yehudit (14 seats), Shas (11) and United Torah Judaism (7) won 64 of 120 seats; the government was sworn in on 29 December 2022.",
+    "source_url": [
+      "https://votes25.bechirot.gov.il/"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2026-likud-primary",
+    "election": "2026 Likud primary (Knesset list)",
+    "date": "2026-08-17",
+    "role_sought": "Head of the Likud list",
+    "result": "Heads the Likud list",
+    "vote_share": "Turnout 53% (76,068 party members voting)",
+    "opponent": "",
+    "detail": "Likud members chose the party's Knesset slate; the top places went to Netanyahu, Eli Cohen and Amir Ohana.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"
+    ]
+  },
+  {
+    "id": "benjamin-netanyahu-el-2026-knesset",
+    "election": "2026 Knesset election (26th Knesset)",
+    "date": "2026-10-27",
+    "role_sought": "Member of the Knesset; Likud leader and candidate for Prime Minister",
+    "result": "Pending: the vote is scheduled for 27 October 2026",
+    "vote_share": "",
+    "opponent": "Main challengers: Gadi Eisenkot (Yashar) and Naftali Bennett (Together)",
+    "detail": "The first Knesset election held on its legally scheduled date since 1988. Polls reported by the Times of Israel in July 2026 showed Netanyahu and his allies well short of a majority. Official results are due to be confirmed on 4 November 2026.",
+    "source_url": [
+      "https://www.timesofisrael.com/knesset-election-set-for-october-27-with-government-set-to-complete-full-term/",
+      "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"
+    ]
+  }
+]

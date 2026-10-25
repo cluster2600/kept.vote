@@ -1,0 +1,55 @@
+[
+  {
+    "id": "peter-magyar-int-tisza-president",
+    "item": "President of the Tisztelet és Szabadság Párt (TISZA)",
+    "type": "party office",
+    "period": "July 2024 – present",
+    "value": "unpaid",
+    "detail": "Declared in section C of his European Parliament declaration (23 July 2024) and as an unpaid position in his Hungarian declarations of 2025–2026.",
+    "status": "declared",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-int-association",
+    "item": "Member of an association (egyesületi tag)",
+    "type": "membership",
+    "period": "declared January 2026 and June 2026",
+    "value": "unpaid",
+    "detail": "Declared as an unpaid association membership in his Hungarian declarations; the association is not named in the published form.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-int-opera-ballet-foundation",
+    "item": "Trustee (kuratóriumi tag), Magyar Állami Operaház Balettnövendékeiért Alapítvány",
+    "type": "foundation board",
+    "period": "2021 – 2023",
+    "value": "unpaid",
+    "detail": "Foundation supporting ballet students of the Hungarian State Opera; declared as unpaid in his European Parliament and Hungarian declarations.",
+    "status": "historical",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf",
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-int-afco-vice-chair",
+    "item": "Declaration of awareness of conflicts of interest as Vice-Chair of the Committee on Constitutional Affairs (AFCO)",
+    "type": "European Parliament office",
+    "period": "July 2024 – May 2026",
+    "value": "",
+    "detail": "Filed on 23 July 2024 on taking up the committee vice-chairmanship. His declaration of private interests lists no other interest that could influence the performance of his duties (section F empty).",
+    "status": "historical",
+    "source_url": [
+      "https://data.europarl.europa.eu/distribution/doc/DCI-256868-2024-07-23-387970_fr.pdf",
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  }
+]

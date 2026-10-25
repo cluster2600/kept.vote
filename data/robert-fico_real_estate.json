@@ -1,0 +1,46 @@
+[
+  {
+    "id": "robert-fico-re-flat-bratislava",
+    "property": "Flat and garage",
+    "location": "Bratislava – Staré Mesto (Old Town)",
+    "transaction_type": "purchase",
+    "date": "2023-12",
+    "value": "Purchase price reported as 'slightly over half a million euros' (Pravda)",
+    "detail": "First listed in the declaration for 2023 (TA3, Pravda) and again for 2024 (TASR). Pravda reports that he bought the flat, which he had rented since 2019, at the end of December 2023 from Smer MP Dušan Muňko, at a price it describes as about half the market value; the foundation Zastavme korupciu questioned how the purchase was financed, and according to Pravda's reading of the land register no mortgage is registered. Fico has said the price is a private matter. Slovak public officials file an annual declaration (oznámenie funkcionára) with the National Council's Committee on Incompatibility of Functions, which publishes it on nrsr.sk; that site was not readable for this research (bot check), so the figures are taken from press reports that cite the declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://spravy.pravda.sk/domace/clanok/730118-premieri-ministri-majetkove-priznanie-robert-fico-ludovit-odor-eduard-heger",
+      "https://www.ta3.com/clanok/966161/politici-opat-zverejnili-svoje-majetky-fico-ma-konecne-byt-danko-za-minuly-rok-zarobil-400-tisic-eur",
+      "https://www.sme.sk/domov/c/najviac-v-roku-2024-zarobil-z-ustavnych-cinitelov-pellegrini-ukazuju-zverejnene-majetkove-priznania",
+      "https://spravy.pravda.sk/domace/clanok/695018-kde-zobral-statisice-fico-kupil-byt-na-ktory-by-jeho-oficialne-uvadzane-prijmy-nestacili-tvrdi-nadacia/"
+    ]
+  },
+  {
+    "id": "robert-fico-re-vineyard",
+    "property": "Share in a vineyard plot",
+    "location": "Bratislava (reported as Vinohrady for the 2023 declaration and as Rača for the 2024 declaration)",
+    "transaction_type": "",
+    "date": "",
+    "value": "",
+    "detail": "Pravda lists a vineyard in Vinohrady in the declaration for 2023; the TASR report on the declaration for 2024 describes a half share of a vineyard in Bratislava-Rača. The press reports do not explain whether these are the same plot. Slovak public officials file an annual declaration (oznámenie funkcionára) with the National Council's Committee on Incompatibility of Functions, which publishes it on nrsr.sk; that site was not readable for this research (bot check), so the figures are taken from press reports that cite the declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://spravy.pravda.sk/domace/clanok/730118-premieri-ministri-majetkove-priznanie-robert-fico-ludovit-odor-eduard-heger",
+      "https://www.sme.sk/domov/c/najviac-v-roku-2024-zarobil-z-ustavnych-cinitelov-pellegrini-ukazuju-zverejnene-majetkove-priznania"
+    ]
+  },
+  {
+    "id": "robert-fico-re-farmland",
+    "property": "Inherited share of arable land",
+    "location": "Cadastral areas of Hrušovany (and Preseľany, per the 2023 declaration), Topoľčany district",
+    "transaction_type": "inheritance",
+    "date": "",
+    "value": "",
+    "detail": "Pravda reports inherited arable land in Hrušovany and Preseľany in the declaration for 2023; TASR reports an inherited share of arable land in Hrušovany in the declaration for 2024. Slovak public officials file an annual declaration (oznámenie funkcionára) with the National Council's Committee on Incompatibility of Functions, which publishes it on nrsr.sk; that site was not readable for this research (bot check), so the figures are taken from press reports that cite the declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://spravy.pravda.sk/domace/clanok/730118-premieri-ministri-majetkove-priznanie-robert-fico-ludovit-odor-eduard-heger",
+      "https://www.sme.sk/domov/c/najviac-v-roku-2024-zarobil-z-ustavnych-cinitelov-pellegrini-ukazuju-zverejnene-majetkove-priznania"
+    ]
+  }
+]

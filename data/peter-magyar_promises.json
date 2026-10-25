@@ -1,0 +1,247 @@
+[
+  {
+    "id": "peter-magyar-promise-eppo",
+    "title": "Join the European Public Prosecutor's Office (EPPO)",
+    "description": "Tisza's 2026 election programme ('Működő és emberséges Magyarország', presented on 7 February 2026) pledged that Hungary would join the European Public Prosecutor's Office, which the Orbán governments had refused to do. As an MEP, Magyar had repeatedly made EPPO accession his central anti-corruption demand.",
+    "date_made": "2026-02-07",
+    "category": "Anti-corruption / rule of law",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The government sent Hungary's request to join the enhanced cooperation on the EPPO at the end of May 2026, and the European Commission confirmed Hungary's participation by Decision (EU) 2026/1701 of 10 July 2026, published in the Official Journal on 13 July. According to the EPPO, Hungary became a participating Member State in early August 2026, allowing the EPPO to consider offences committed after 1 June 2021. The office only becomes operational in Hungary 20 days after a European Prosecutor for Hungary is appointed, which was still pending in the sources consulted, but the accession itself has been completed.",
+    "key_evidence": [
+      "Formal request to join sent by the Magyar government at the end of May 2026 (notification dated 27 May according to EU sources)",
+      "Commission Decision (EU) 2026/1701 of 10 July 2026 confirming Hungary's participation in the EPPO",
+      "EPPO: Hungary a participating Member State since 2 August 2026 (the Council gives 3 August), the 25th to join",
+      "Operational start depends on the appointment of a European Prosecutor for Hungary from three national candidates"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202601701",
+      "https://www.eppo.europa.eu/about/members/hungary_en",
+      "https://eucrim.eu/news/hungary-joins-eppo-eppo-regulation-now-eu-acquis/"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-eu-funds",
+    "title": "Bring home the EU funds frozen under the Orbán government",
+    "description": "The Tisza programme promised to recover the roughly 8,000 billion forints of EU funds owed to Hungary but frozen over rule-of-law and corruption concerns, and to draw down about 2,000 billion forints a year under the next EU budget.",
+    "date_made": "2026-02-07",
+    "category": "EU relations / public finance",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "In May 2026 Magyar and Commission President Ursula von der Leyen agreed on releasing a total of €16.4 billion in exchange for reforms. The Council approved Hungary's revised recovery plan in July 2026, opening the way to about €10 billion of recovery-fund money once milestones are verified, and on 13 October 2026 it ended the 2022 conditionality procedure, freeing €4.2 billion and restoring Erasmus+ and Horizon Europe access. As of 20 October 2026 the recovery-fund payments still awaited the Commission's assessment and about €2.2 billion remained tied to academic-freedom conditions, so the money has been unlocked in large part but not yet fully paid out.",
+    "key_evidence": [
+      "May 2026: agreement with the Commission on releasing €16.4 billion subject to reforms",
+      "July 2026: Council approval of Hungary's revised national recovery plan (about €10 billion), payments conditional on 'super milestones'",
+      "13 October 2026: Council ends the conditionality mechanism, releasing €4.2 billion and restoring Erasmus+ and Horizon Europe",
+      "About €2.2 billion of cohesion money still linked to academic-freedom concerns; recovery-fund payments pending Commission assessment"
+    ],
+    "source_url": [
+      "https://telex.hu/belfold/2026/02/07/tisza-part-program-orszaggyulesi-valasztas-2026-aprilis-magyar-peter",
+      "https://www.euronews.com/2026/10/13/eu-ends-anti-corruption-funding-curbs-on-hungary-freeing-42bn",
+      "https://www.euronews.com/my-europe/2026/07/09/eu-set-to-greenlight-hungarys-10-billion-recovery-envelope",
+      "https://www.euronews.com/2026/09/23/von-der-leyen-says-hungary-strengthened-rule-of-law-unlocks-42bn-in-eu-funding"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-pm-term-limit",
+    "title": "Limit any prime minister to two terms (eight years)",
+    "description": "The Tisza programme pledged to limit the prime minister's mandate to two terms. After the April 2026 election Magyar said the constitutional amendment would be among his first steps.",
+    "date_made": "2026-02-07",
+    "category": "Constitution / democratic institutions",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "On 15 June 2026 the National Assembly adopted the 16th amendment to the Fundamental Law, barring anyone from serving more than eight years as prime minister, consecutively or not, counting terms since 1990. The rule excludes a return by Viktor Orbán and also binds Magyar himself. It could in principle be reversed by a later two-thirds majority, but the commitment has been enacted.",
+    "key_evidence": [
+      "16th amendment to the Fundamental Law adopted on 15 June 2026 (135 votes to 50, 6 abstentions, as reported by most outlets)",
+      "Eight-year cap applies to past, current and future prime ministers since 2 May 1990",
+      "The same amendment prepared the abolition of the Sovereignty Protection Office"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://www.aljazeera.com/news/2026/6/15/hungarian-mps-approve-pm-limits-to-block-potential-return-of-orban",
+      "https://www.bloomberg.com/news/articles/2026-06-15/hungary-starts-unwinding-orban-system-with-term-limit-clawback"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-asset-recovery-office",
+    "title": "Create a National Asset Recovery and Protection Office",
+    "description": "The Tisza programme promised a National Asset Recovery and Protection Office (Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, NVVH) to trace and recover public assets acquired unlawfully, alongside retroactive asset checks on politicians.",
+    "date_made": "2026-02-07",
+    "category": "Anti-corruption / rule of law",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Parliament adopted Act XXXIV of 2026 on the NVVH on 28 July 2026 (143 votes to 47 on the qualified-majority provisions); it was signed by the acting president and entered into force on 29 July, with most criminal-procedure powers applying from 27 September 2026. Parliament elected political scientist Anna Unger as its head on 28 August 2026 for a six-year term starting 1 September. The office exists and is staffed; whether it will actually recover assets cannot yet be judged, and the separate pledge of 20-year retroactive asset checks on politicians is not assessed here.",
+    "key_evidence": [
+      "Act XXXIV of 2026 on the NVVH adopted on 28 July 2026, in force from 29 July 2026",
+      "Head of the office, Anna Unger, elected on 28 August 2026 (137 yes, 7 no, 1 abstention)",
+      "Fidesz announced it would ask the Constitutional Court to review the law"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://njt.jog.gov.hu/jogszabaly/2026-34-00-00",
+      "https://mti.hu/hirek/2026/07/28/ogy-elfogadta-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-felallitasarol",
+      "https://telex.hu/belfold/2026/08/28/fidesz-frakcio-nvvh-alkotmanybirosag-tiszas-avh"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-public-media-news",
+    "title": "Suspend public-media news until independent reporting is guaranteed",
+    "description": "The Tisza programme pledged to suspend the news service of the public broadcaster immediately, until the conditions for independent news were in place. Magyar repeated the pledge after the election, including in interviews on Kossuth Rádió and M1 on 15 April 2026.",
+    "date_made": "2026-02-07",
+    "category": "Media",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "Parliament passed a public-media reform in late June 2026 (145 votes to 39) replacing MTVA and Duna Média with new bodies and requiring the old leadership to step down. On 7 July 2026 the new interim management took M1 off air and suspended news across public-media platforms; according to State Media Monitor, news returned on M1 on 20 August 2026 under a new editorial team. The suspension happened about two months after the government took office rather than 'immediately', but it was carried out as promised.",
+    "key_evidence": [
+      "Public-media reform adopted in June 2026, 145 votes to 39, with Fidesz–KDNP against",
+      "7 July 2026: M1 screens go black, news suspended on all public-media platforms",
+      "News programmes reintroduced from 20 August 2026 according to State Media Monitor (single source)"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://www.theguardian.com/world/2026/apr/15/hungary-prime-minister-elect-peter-magyar-suspend-state-media-propaganda",
+      "https://eurovoix.com/2026/07/03/hungary-hungarian-government-votes-mtva/",
+      "https://bbj.hu/politics/domestic/hungary-public-media-halts-news-broadcasts-as-m1-goes-black-in-historic-overhaul/",
+      "https://statemediamonitor.com/2026/10/mtva/"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-minimum-wage-tax",
+    "title": "Cut personal income tax on the minimum wage from 15% to 9%",
+    "description": "The Tisza programme pledged to cut the personal income tax (SZJA) on minimum-wage earnings from 15% to 9%, worth about 20,000 forints a month, to lower the tax of those earning below the median wage and to keep the 15% rate above it.",
+    "date_made": "2026-02-07",
+    "category": "Taxation",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "On 19–20 October 2026 Magyar and Finance Minister András Kármán presented the 2027 budget, under which income tax is cut for employees earning less than about 680,000 forints a month, the rate on the minimum wage falls from 15% to 9%, and about 2.5 million employees would pay less income tax from 2027. As of 20 October 2026 the detailed budget bill had not yet been submitted to parliament, so the cut is announced and costed but not yet enacted.",
+    "key_evidence": [
+      "2027 budget presented on 20 October 2026: minimum-wage income tax rate to fall to 9%",
+      "About 2.5 million employees expected to pay less income tax",
+      "Budget bill not yet tabled in the National Assembly at the time of research"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://index.hu/belfold/2026/10/20/magyar-peter-karman-andras-2027-koltsegvetes-ado-szja-kata-tisza-kormany/adocsokkentes-beremeles-dupla-csaladi-potlek",
+      "https://index.hu/belfold/2026/10/20/magyar-peter-karman-andras-2027-koltsegvetes-ado-szja-kata-tisza-kormany"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-wealth-tax",
+    "title": "Introduce a 1% wealth tax on fortunes above 1 billion forints",
+    "description": "The Tisza programme pledged a 1% annual wealth tax on private fortunes exceeding 1 billion forints, presented as a 'billionaires' tax' to share the public burden more fairly.",
+    "date_made": "2026-02-07",
+    "category": "Taxation",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "The government included a wealth tax on billionaires in the 2027 budget presented on 20 October 2026; Finance Minister Kármán said it applies to private wealth rather than companies and expects it to raise about 200 billion forints a year. The tax still has to be legislated with the budget package, which had not been submitted to parliament at the time of research.",
+    "key_evidence": [
+      "Wealth tax included in the 2027 budget plan presented on 20 October 2026",
+      "Expected revenue of about 200 billion forints a year according to the finance minister",
+      "Legislation not yet adopted as of 20 October 2026"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://index.hu/belfold/2026/10/20/magyar-peter-karman-andras-2027-koltsegvetes-ado-szja-kata-tisza-kormany",
+      "https://www.atv.hu/belfold/20261008/karman-andras-vagyonado"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-health-funding",
+    "title": "At least 500 billion forints a year more for health care",
+    "description": "The Tisza programme pledged to raise public health spending to 7% of GDP by 2030, with at least 500 billion forints of additional funding a year until then, together with waiting-list targets for the end of 2027 and a separate health ministry with a veto in cabinet.",
+    "date_made": "2026-02-07",
+    "category": "Health",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "A separate Ministry of Health was created in the Magyar government, and Magyar announced that the health minister would have a veto over government decisions. The 2027 budget presented on 20 October 2026 allocates 510 billion forints more to health than the 2026 appropriation (192 billion for pay rises, 318 billion for care, medicines, equipment and waiting lists), which matches the pledged amount, but it is not yet adopted and the 7%-of-GDP and waiting-list targets lie in the future.",
+    "key_evidence": [
+      "Separate Ministry of Health headed by Zsolt Hegedűs; health minister given a veto in cabinet",
+      "2027 budget plan: +510 billion forints for health compared with 2026",
+      "Budget not yet adopted; 2030 spending and 2027 waiting-list targets not yet measurable"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://en.wikipedia.org/wiki/Magyar_Government",
+      "https://index.hu/belfold/2026/10/20/magyar-peter-karman-andras-2027-koltsegvetes-ado-szja-kata-tisza-kormany"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-minimum-pension",
+    "title": "Guarantee a minimum old-age pension of 120,000 forints",
+    "description": "The Tisza programme pledged a guaranteed minimum old-age pension of 120,000 forints (for people aged 65 or over with 20 years of service), while keeping the 13th and 14th month pensions and adding a pensioner SZÉP card.",
+    "date_made": "2026-02-07",
+    "category": "Pensions / social policy",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "In August 2026 Magyar announced that the minimum old-age pension would rise from 28,500 to 120,000 forints from January 2027, and the 2027 budget presented on 20 October 2026 includes the increase, with tiered rises for small pensions up to 146,000 forints, the retention of the 13th and 14th month pensions and a phased pensioner SZÉP card. The measure takes effect only in 2027 and the budget has not yet been adopted.",
+    "key_evidence": [
+      "August 2026 announcement: minimum pension from 28,500 to 120,000 forints from January 2027",
+      "2027 budget plan includes the increase and keeps the 13th and 14th month pensions",
+      "Pensioner SZÉP card to be introduced in four steps, a quarter paid in 2027"
+    ],
+    "source_url": [
+      "https://telex.hu/belfold/2026/02/07/tisza-part-program-orszaggyulesi-valasztas-2026-aprilis-magyar-peter",
+      "https://www.reuters.com/world/hungarian-government-raise-minimum-old-age-pension-pm-magyar-says-2026-08-27/",
+      "https://index.hu/belfold/2026/10/20/magyar-peter-karman-andras-2027-koltsegvetes-ado-szja-kata-tisza-kormany"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-family-allowance",
+    "title": "Double the family allowance (családi pótlék)",
+    "description": "The Tisza programme pledged to double the family allowance, which had been frozen since 2008, together with maternity support and the GYES/GYET childcare benefits.",
+    "date_made": "2026-02-07",
+    "category": "Family policy",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "In the 2027 budget presented on 20 October 2026 the government announced that the family allowance will be doubled from 2027, while the planned extension of the family tax allowance was dropped for lack of funding. The doubling is budgeted but not yet legislated, and the other doublings promised (maternity support, GYES/GYET) were not confirmed in the reporting consulted.",
+    "key_evidence": [
+      "2027 budget plan: family allowance, unchanged since 2008, doubled from 2027; about 1.6 million children and 1 million families concerned according to the finance minister",
+      "Family tax allowance extension not introduced for lack of fiscal room",
+      "Budget not yet adopted at the time of research"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://index.hu/belfold/2026/10/20/magyar-peter-karman-andras-2027-koltsegvetes-ado-szja-kata-tisza-kormany"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-guest-workers",
+    "title": "Halt the import of non-European guest workers from 1 June 2026",
+    "description": "The Tisza programme pledged to stop the mass employment of non-European guest workers from 1 June 2026 and to focus on training Hungarian workers instead.",
+    "date_made": "2026-02-07",
+    "category": "Labour / migration",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "Government Decree 92/2026 (VI. 5.), in force since 6 June 2026, emptied the list of countries whose citizens may obtain a guest-worker residence permit, so no new guest-worker permits can be requested. However, the separate residence permit for employment purposes remains available to third-country nationals, existing guest-worker permits can be extended, and a broader review of the rules was ordered. The guest-worker scheme was closed about a week after the promised date, but non-EU labour migration was not halted as such.",
+    "key_evidence": [
+      "Government Decree 92/2026 (VI. 5.) in force from 6 June 2026: no third country eligible for guest-worker residence permits",
+      "Residence permits for employment purposes still issued; existing guest-worker permits extendable",
+      "Government Decision 1153/2026 (V. 18.) ordered a comprehensive review of rules on third-country workers"
+    ],
+    "source_url": [
+      "https://index.hu/belfold/2026/02/07/magyar-peter-tisza-part-program-valasztasok-2026/",
+      "https://cms.law/en/hun/legal-updates/hungary-stops-guest-worker-residence-permits-what-does-this-mean-for-employers",
+      "https://dailynewshungary.com/hungary-guest-worker-ban-foreign-workers/"
+    ]
+  },
+  {
+    "id": "peter-magyar-promise-icc",
+    "title": "Reverse Hungary's withdrawal from the International Criminal Court",
+    "description": "After the April 2026 election Magyar repeatedly vowed that his government would reverse the Orbán government's 2025 decision to leave the International Criminal Court before the withdrawal took effect on 2 June 2026.",
+    "date_made": "2026-04",
+    "category": "Foreign policy / international law",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The government tabled a bill on 25 May 2026 and parliament adopted it on 27 May under a fast-track procedure (133 votes in favour). On 29 May 2026 the government formally notified the UN Secretary-General that it was withdrawing its notice of withdrawal, and the ICC welcomed Hungary's decision to remain a State Party. The withdrawal never took effect.",
+    "key_evidence": [
+      "27 May 2026: parliament votes to revoke the 2025 withdrawal decision (133 votes in favour)",
+      "29 May 2026: formal notification to the UN Secretary-General withdrawing the notice of withdrawal",
+      "ICC statement welcoming Hungary's decision to remain a State Party to the Rome Statute"
+    ],
+    "source_url": [
+      "https://www.theguardian.com/world/2026/may/27/hungary-mps-vote-remain-member-icc-overturn-decision-viktor-orban-peter-magyar",
+      "https://www.icc-cpi.int/news/international-criminal-court-welcomes-decision-hungary-remain-state-party-rome-statute"
+    ]
+  }
+]

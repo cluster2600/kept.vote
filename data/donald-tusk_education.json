@@ -1,0 +1,27 @@
+[
+  {
+    "id": "donald-tusk-edu-lo1-gdansk",
+    "institution": "I Liceum Ogólnokształcące im. Mikołaja Kopernika, Gdańsk",
+    "qualification": "Secondary school leaving certificate (matura)",
+    "field": "General secondary education",
+    "years": "until 1976",
+    "detail": "Attended Primary School No. 57 in Gdańsk (1964–1972) and graduated from the Nicolaus Copernicus I General Secondary School in Gdańsk in 1976.",
+    "source_url": [
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  },
+  {
+    "id": "donald-tusk-edu-ug-history",
+    "institution": "University of Gdańsk (Uniwersytet Gdański), Faculty of Humanities",
+    "qualification": "Master's degree (magister)",
+    "field": "History",
+    "years": "1976–1980",
+    "detail": "Studied history at the University of Gdańsk, graduating in 1980; his master's thesis dealt with the formation of the legend of Józef Piłsudski in pre-war periodicals. As a student he was involved in opposition activity, including the Student Solidarity Committee and the founding of the Independent Students' Association (NZS). The Sejm's records list his profession as historian.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/donald-tusk",
+      "https://koalicjaobywatelska.pl/ludzie/donald-tusk/",
+      "https://api.sejm.gov.pl/sejm/term7/MP/406",
+      "https://pl.wikipedia.org/wiki/Donald_Tusk"
+    ]
+  }
+]

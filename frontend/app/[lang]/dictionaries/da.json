@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politikere",
     "countryFilterLabel": "Filtrér efter land",
+    "mapLabel": "Kort: vælg et land",
+    "mapCovered": "Dækket",
+    "mapNotCovered": "Endnu ikke dækket",
     "allCountries": "Alle lande",
     "otherCountry": "Andet",
     "politicianCount": {
@@ -40,8 +43,8 @@
     "viewDossier": "Se dossier",
     "noneInCountry": "Der følges endnu ingen politikere fra dette land.",
     "emptyState": "Endnu ingen politikere. Kør seed-scriptet for at indlæse demodata:",
-    "connectionErrorTitle": "Kunne ikke få forbindelse til backend-API'et.",
-    "connectionErrorBody": "Kontrollér, at FastAPI-backenden kører, og at {envVar} peger på den."
+    "connectionErrorTitle": "Dataene kunne ikke indlæses.",
+    "connectionErrorBody": "Databasen svarede ikke. Prøv igen om et øjeblik."
   },
   "office": {
     "head_of_state": "Statsoverhoved",
@@ -51,6 +54,7 @@
     "mayor": "Borgmester",
     "regional_executive": "Regionalregering",
     "party_leader": "Partileder",
+    "judge": "Dommer",
     "other": "Andet hverv"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Alle politikere",
     "trackRecord": "Løfteregnskab",
     "contentLanguage": "Profilen er skrevet på {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profilafsnit",
     "tabs": {
       "promises": "Løfter",

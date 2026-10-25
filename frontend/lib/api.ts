@@ -1,13 +1,5 @@
-// Typed client for the kept.vote FastAPI backend.
-//
-// All calls run in React Server Components, so they execute on the server and
-// read `API_BASE_URL` from the environment. `NEXT_PUBLIC_API_BASE_URL` is also
-// honoured as a fallback for convenience.
-
-export const API_BASE =
-  process.env.API_BASE_URL ||
-  process.env.NEXT_PUBLIC_API_BASE_URL ||
-  "http://localhost:8000";
+// Types and display helpers for the kept.vote data, shared by server and client
+// components. The data itself is read on the server by lib/data.ts.
 
 // ---- Domain types (mirror the backend Pydantic schemas) ------------------
 export type VerificationStatus =
@@ -27,7 +19,18 @@ export type Office =
   | "mayor"
   | "regional_executive"
   | "party_leader"
+  | "judge"
   | "other";
+
+/** A politician's photo (free-licensed, from Wikimedia Commons), served from
+ *  /portraits/, and the credit its license requires. */
+export interface Portrait {
+  file: string;
+  source_url: string;
+  author: string;
+  license: string;
+  license_url?: string | null;
+}
 
 export interface PoliticianSummary {
   id: string;
@@ -41,6 +44,7 @@ export interface PoliticianSummary {
   /** BCP-47 language the profile's text is written in (e.g. "fr"). */
   content_lang?: string | null;
   party: string | null;
+  portrait?: Portrait | null;
   promise_count: number;
   kept_count: number;
   broken_count: number;
@@ -60,6 +64,7 @@ export interface Politician {
   party: string | null;
   birth_date: string | null;
   bio: string | null;
+  portrait?: Portrait | null;
   created_at: string;
 }
 
@@ -286,88 +291,12 @@ export interface SystemStatus {
   verifications: number;
 }
 
-// ---- Fetch helper --------------------------------------------------------
-async function apiFetch<T>(path: string): Promise<T> {
-  const res = await fetch(`${API_BASE}${path}`, {
-    // Always fetch fresh data — this is a live fact-check dashboard.
-    cache: "no-store",
-    headers: { Accept: "application/json" },
-  });
-  if (res.status === 404) {
-    throw new NotFoundError(path);
-  }
-  if (!res.ok) {
-    throw new Error(`API ${res.status} on ${path}: ${await res.text()}`);
-  }
-  return (await res.json()) as T;
-}
-
 export class NotFoundError extends Error {
   constructor(path: string) {
     super(`Not found: ${path}`);
     this.name = "NotFoundError";
   }
 }
-
-// ---- Endpoints -----------------------------------------------------------
-export const getStatus = () => apiFetch<SystemStatus>("/api/status");
-
-export const listPoliticians = () =>
-  apiFetch<PoliticianSummary[]>("/api/politicians");
-
-export const getPolitician = (id: string) =>
-  apiFetch<Politician>(`/api/politicians/${id}`);
-
-export const listPoliticianPromises = (id: string) =>
-  apiFetch<PromiseWithVerification[]>(`/api/politicians/${id}/promises`);
-
-export const getPromise = (id: string) =>
-  apiFetch<PromiseRecord>(`/api/promises/${id}`);
-
-export const getPromiseVerification = (id: string) =>
-  apiFetch<Verification | null>(`/api/promises/${id}/verification`);
-
-export const listWorkHistory = (id: string) =>
-  apiFetch<WorkHistoryItem[]>(`/api/politicians/${id}/work-history`);
-
-export const listFinances = (id: string) =>
-  apiFetch<FinanceEntry[]>(`/api/politicians/${id}/finances`);
-
-export const listPolemics = (id: string) =>
-  apiFetch<Polemic[]>(`/api/politicians/${id}/polemics`);
-
-export const listStocks = (id: string) =>
-  apiFetch<StockHolding[]>(`/api/politicians/${id}/stocks`);
-
-export const listRealEstate = (id: string) =>
-  apiFetch<RealEstate[]>(`/api/politicians/${id}/real-estate`);
-
-export const listCompanies = (id: string) =>
-  apiFetch<Company[]>(`/api/politicians/${id}/companies`);
-
-export const getSources = (id: string) =>
-  apiFetch<SourcesResponse>(`/api/politicians/${id}/sources`);
-
-export const listElectoralHistory = (id: string) =>
-  apiFetch<ElectoralHistoryItem[]>(`/api/politicians/${id}/electoral-history`);
-
-export const listInterests = (id: string) =>
-  apiFetch<Interest[]>(`/api/politicians/${id}/interests`);
-
-export const listEducation = (id: string) =>
-  apiFetch<EducationItem[]>(`/api/politicians/${id}/education`);
-
-export const listHonors = (id: string) =>
-  apiFetch<Honor[]>(`/api/politicians/${id}/honors`);
-
-export const listKeyLegislation = (id: string) =>
-  apiFetch<KeyLegislationItem[]>(`/api/politicians/${id}/key-legislation`);
-
-export const listNetWorth = (id: string) =>
-  apiFetch<NetWorthPoint[]>(`/api/politicians/${id}/net-worth`);
-
-export const listJustice = (id: string) =>
-  apiFetch<JusticeCase[]>(`/api/politicians/${id}/justice`);
 
 
 // ---- Presentation helpers ------------------------------------------------

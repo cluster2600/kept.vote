@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politiker",
     "countryFilterLabel": "Filtrera efter land",
+    "mapLabel": "Karta: välj ett land",
+    "mapCovered": "Bevakat",
+    "mapNotCovered": "Ännu inte bevakat",
     "allCountries": "Alla länder",
     "otherCountry": "Övriga",
     "politicianCount": {
@@ -40,8 +43,8 @@
     "viewDossier": "Visa profil",
     "noneInCountry": "Inga politiker från det här landet bevakas ännu.",
     "emptyState": "Inga politiker ännu. Kör seed-skriptet för att läsa in demodata:",
-    "connectionErrorTitle": "Det gick inte att nå backend-API:et.",
-    "connectionErrorBody": "Kontrollera att FastAPI-backenden körs och att {envVar} pekar på den."
+    "connectionErrorTitle": "Uppgifterna kunde inte läsas in.",
+    "connectionErrorBody": "Databasen svarade inte. Försök igen om en stund."
   },
   "office": {
     "head_of_state": "Statschef",
@@ -51,6 +54,7 @@
     "mayor": "Borgmästare",
     "regional_executive": "Regionregering",
     "party_leader": "Partiledare",
+    "judge": "Domare",
     "other": "Annat uppdrag"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Alla politiker",
     "trackRecord": "Löftesfacit",
     "contentLanguage": "Profilen är skriven på {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
     "tabsLabel": "Profilavsnitt",
     "tabs": {
       "promises": "Löften",

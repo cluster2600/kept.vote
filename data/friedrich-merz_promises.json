@@ -1,0 +1,256 @@
+[
+  {
+    "id": "merz-promise-debt-brake",
+    "title": "Keep the constitutional debt brake",
+    "description": "The CDU/CSU programme for the 2025 federal election ('Politikwechsel für Deutschland'), on which Merz ran as chancellor candidate, pledged: \"Wir halten an der Schuldenbremse des Grundgesetzes fest\" (we will stick to the debt brake in the Basic Law), adding that today's debts are tomorrow's tax increases.",
+    "date_made": "2024-12",
+    "category": "Public finance",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "Less than four weeks after the 23 February 2025 election, the CDU/CSU and SPD used the outgoing Bundestag to amend the Basic Law with the Greens' votes: defence and security spending above 1% of GDP was exempted from the debt brake, the Länder received structural borrowing room and a debt-financed €500 billion fund for infrastructure and climate neutrality was created. The rule formally remains in the constitution but was substantially loosened, the opposite of the programme's commitment, so the verdict is broken.",
+    "key_evidence": [
+      "CDU/CSU programme 2025: \"Wir halten an der Schuldenbremse des Grundgesetzes fest. Die Schulden von heute sind die Steuererhöhungen von morgen.\"",
+      "18 March 2025: 512 members of the outgoing (20th) Bundestag voted for the constitutional amendment, reaching the two-thirds majority with the Greens; the Bundesrat approved it on 21 March 2025.",
+      "Defence and other security spending above 1% of GDP is no longer counted against the debt brake; a €500 billion special fund for infrastructure and climate neutrality was created.",
+      "Correctiv (20 March 2025) documented the pre-election pledge and noted that broken campaign promises are a political, not a criminal, matter."
+    ],
+    "source_url": [
+      "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+      "https://www.bundestag.de/dokumente/textarchiv/2025/kw12-de-sondersitzung-1056916",
+      "https://correctiv.org/faktencheck/2025/03/20/merz-und-schuldenbremse-falsche-wahlversprechen-sind-keine-waehlertaeuschung-nach-strafgesetz/"
+    ]
+  },
+  {
+    "id": "merz-promise-border-rejections",
+    "title": "Turn back asylum seekers at Germany's borders",
+    "description": "Merz's January 2025 'five-point plan' called for permanent controls at all German borders and the rejection of all attempts at illegal entry, including by people who want to apply for asylum (a 'de facto entry ban'). The coalition agreement 'Verantwortung für Deutschland' (lines 2988–2989) commits to rejections at the common borders \"auch bei Asylgesuchen\" (also in the case of asylum requests), \"in Abstimmung mit unseren europäischen Nachbarn\" (in coordination with our European neighbours).",
+    "date_made": "2025-01-28",
+    "category": "Migration",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "Rejections of asylum seekers began on 7 May 2025, the day after Merz took office, on the instruction of Interior Minister Alexander Dobrindt, and border controls continued into 2026. However, vulnerable people (for example minors and the infirm) were exempted, only about 3,000 of roughly 33,000 people turned back in the first year were asylum seekers according to Dobrindt's own figures, and the Berlin Administrative Court ruled in individual urgent cases (2 June 2025 and 22 May 2026) that such rejections breached the EU Dublin rules. The pledge was therefore implemented in a narrower and legally contested form, which the guide classes as a compromise.",
+    "key_evidence": [
+      "Five-point plan motion of the CDU/CSU group, Bundestag document 20/14698 (28 January 2025).",
+      "Coalition agreement, lines 2988–2993: rejections \"auch bei Asylgesuchen\" and continued controls at all German borders.",
+      "7 May 2025: Dobrindt instructs the Federal Police to turn back asylum seekers, with exceptions for vulnerable people (taz, 6 May 2026).",
+      "2 June 2025: Berlin Administrative Court declares the rejection of three Somali nationals unlawful; Merz says the government will continue (tagesschau).",
+      "22 May 2026: a second chamber of the same court rules the rejection of an Eritrean man unlawful (case 28 L 270/26 A, reported by LTO).",
+      "May 2026: Dobrindt reports about 33,000 people turned back since May 2025, of whom about 3,000 were asylum seekers, and announces the practice will continue."
+    ],
+    "source_url": [
+      "https://dserver.bundestag.de/btd/20/146/2014698.pdf",
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2025/pressemitteilung.1565917.php",
+      "https://www.tagesschau.de/inland/zurueckweisung-grenze-debatte-102.html",
+      "https://www.lto.de/recht/hintergruende/h/vg-berlin-28l27026a-zurueckweisung-asylsuchende-asyl-dobrindt",
+      "https://taz.de/Illegale-Abweisungen-von-Asylsuchenden/!6176856/"
+    ]
+  },
+  {
+    "id": "merz-promise-family-reunification",
+    "title": "Suspend family reunification for people with subsidiary protection for two years",
+    "description": "Coalition agreement (lines 2975–2978): \"Wir setzen den Familiennachzug zu subsidiär Schutzberechtigten befristet für zwei Jahre aus. Härtefälle bleiben hiervon unberührt.\" The CDU/CSU programme had also promised to suspend this family reunification.",
+    "date_made": "2025-04-09",
+    "category": "Migration",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "The coalition groups introduced a bill in June 2025 and the Bundestag adopted it on 27 June 2025 by 444 votes to 133, suspending family reunification for people with subsidiary protection for two years while keeping hardship cases. The official parliamentary record settles the verdict.",
+    "key_evidence": [
+      "Bill 21/321 of the CDU/CSU and SPD groups, first reading on 6 June 2025.",
+      "27 June 2025: Bundestag adopts the suspension in a roll-call vote, 444 in favour, 133 against.",
+      "Hardship cases remain exempt, as stated in the coalition agreement."
+    ],
+    "source_url": [
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.bundestag.de/dokumente/textarchiv/2025/kw23-de-familiennachzug-1083664"
+    ]
+  },
+  {
+    "id": "merz-promise-buergergeld",
+    "title": "Replace the Bürgergeld with a new basic income support",
+    "description": "The CDU/CSU programme promised: \"Wir schaffen das sogenannte 'Bürgergeld' ab und ersetzen es durch eine Neue Grundsicherung.\" The coalition agreement (line 501) commits to turning the Bürgergeld system into a \"neue Grundsicherung für Arbeitssuchende\" with binding rights and obligations.",
+    "date_made": "2024-12",
+    "category": "Social policy / labour market",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The Bundestag passed the reform on 5 March 2026 and, after Bundesrat approval, the Bürgergeld was replaced on 1 July 2026 by the 'Grundsicherungsgeld' under the 13th amendment to Book II of the Social Code. The new system prioritises job placement, tightens sanctions and assets rules, matching the substance of the pledge; social associations criticised the reform as a step backwards.",
+    "key_evidence": [
+      "5 March 2026: Bundestag adopts the conversion of the Bürgergeld into a basic income support (tagesschau).",
+      "1 July 2026: the Federal Employment Agency announces that the Grundsicherungsgeld replaces the Bürgergeld.",
+      "Stricter rules include priority for job placement and temporary benefit cuts for breaches of obligations."
+    ],
+    "source_url": [
+      "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.tagesschau.de/inland/innenpolitik/buergergeld-grundsicherung-102.html",
+      "https://www.arbeitsagentur.de/grundsicherung-loest-buergergeld-ab"
+    ]
+  },
+  {
+    "id": "merz-promise-electricity-tax",
+    "title": "Cut the electricity tax to the EU minimum for everyone",
+    "description": "Coalition agreement (lines 956–958 and 1500–1503): relieve companies and consumers by at least five cents per kWh and, as an immediate measure, cut the electricity tax \"für alle\" (for everyone) \"so schnell wie möglich\" to the European minimum and reduce levies and grid fees. The CDU/CSU programme had promised that electricity would become cheaper \"für alle schnell und spürbar\".",
+    "date_made": "2025-04-09",
+    "category": "Energy / cost of living",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "In summer 2025 the cabinet and the coalition committee limited the electricity-tax cut to manufacturing, agriculture and forestry, with effect from 1 January 2026, and postponed relief for private households and other businesses until fiscal room exists. The government instead subsidised transmission grid fees for 2026. Part of the pledge was delivered, but its 'for everyone' core was not; no decision extending the cut to households was found as of October 2026.",
+    "key_evidence": [
+      "July 2025: the coalition committee confirms that the electricity tax will not be cut for private consumers for now; further steps only \"sobald hierfür finanzielle Spielräume bestehen\" (ZDF).",
+      "The reduction to the EU minimum applies from 1 January 2026 to manufacturing companies and agriculture/forestry only.",
+      "The federal government cites lower grid fees for 2026 as the relief for households and says a household tax cut would require budget room.",
+      "The Federation of German Consumer Organisations (vzbv) concluded that the promised relief for consumers had not materialised."
+    ],
+    "source_url": [
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.zdfheute.de/politik/deutschland/stromsteuer-koalition-ausschuss-keine-einigung-100.html",
+      "https://www.bundesregierung.de/breg-de/aktuelles/niedrigere-netzentgelte-2382396",
+      "https://www.vzbv.de/pressemitteilungen/untersuchung-versprochene-entlastung-fuer-verbraucherinnen-bei-strompreisen"
+    ]
+  },
+  {
+    "id": "merz-promise-heating-law",
+    "title": "Abolish the 'heating law' (Heizungsgesetz)",
+    "description": "The CDU/CSU programme pledged: \"Wir schaffen das Heizungsgesetz der Ampel ab.\" The coalition agreement (line 754) states: \"Wir werden das Heizungsgesetz abschaffen. Das neue GEG machen wir technologieoffener, flexibler und einfacher.\"",
+    "date_made": "2024-12",
+    "category": "Energy / housing",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The cabinet adopted a Gebäudemodernisierungsgesetz in May 2026 and the Bundestag passed it on 10 July 2026 (323 to 271). It scraps the central rule of the previous government's reform that new heating systems must run on 65% renewable energy and allows oil and gas heating to remain in use in the long term; the law was renamed and entered into force on 29 July 2026. The building-energy framework itself was rewritten rather than repealed, which matches the coalition wording.",
+    "key_evidence": [
+      "13 May 2026: cabinet adopts the draft Gebäudemodernisierungsgesetz (Bundesregierung).",
+      "10 July 2026: Bundestag adopts the amendment of the Building Energy Act in a roll-call vote, 323 to 271; the 65% renewable requirement is removed.",
+      "The Gebäudeenergiegesetz is renamed Gebäudemodernisierungsgesetz (GModG), in force since 29 July 2026."
+    ],
+    "source_url": [
+      "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.bundesregierung.de/breg-de/aktuelles/neues-gebaeudemodernisierungsgesetz-2430284",
+      "https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-heizungsgesetz-1194534"
+    ]
+  },
+  {
+    "id": "merz-promise-restaurant-vat",
+    "title": "Cut VAT on restaurant food to 7% from 1 January 2026",
+    "description": "Coalition agreement (lines 1497–1499): \"Die Umsatzsteuer für Speisen in der Gastronomie wird zum 01.01.2026 dauerhaft auf sieben Prozent reduziert.\" The CDU/CSU programme had promised the same ('Gastro-Steuer runter').",
+    "date_made": "2025-04-09",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "The cut was included in the Steueränderungsgesetz 2025, which the Bundesrat approved on 19 December 2025. Since 1 January 2026 food served in restaurants is taxed at 7% instead of 19% (drinks excluded), as promised and on the promised date.",
+    "key_evidence": [
+      "19 December 2025: Bundesrat approves the Steueränderungsgesetz 2025.",
+      "From 1 January 2026, VAT on restaurant food falls permanently from 19% to 7%; drinks remain at the standard rate.",
+      "The same law raised the commuter allowance to 38 cents from the first kilometre, another coalition pledge."
+    ],
+    "source_url": [
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.der-betrieb.de/meldungen/bundesrat-stimmt-fuer-entlastung-von-pendlern-und-gastwirten/",
+      "https://www.topagrar.com/betriebsleitung/news/gastronomie-pendler-ehrenamt-bundesrat-stimmt-fur-entlastungen-20021684.html"
+    ]
+  },
+  {
+    "id": "merz-promise-investment-booster",
+    "title": "'Investment booster' and a stepwise corporate tax cut from 2028",
+    "description": "Coalition agreement (lines 1430–1434): introduce 30% declining-balance depreciation on equipment investment in 2025, 2026 and 2027, and cut corporation tax in five steps of one percentage point each from 1 January 2028, both in a single legislative procedure. The CDU/CSU programme had promised to lower the overall corporate tax burden to a maximum of 25%.",
+    "date_made": "2025-04-09",
+    "category": "Taxation / economy",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The Gesetz für ein steuerliches Investitionssofortprogramm was passed by the Bundestag in June 2025 and approved by the Bundesrat on 11 July 2025. It provides up to 30% declining-balance depreciation for movable assets acquired from July 2025 to the end of 2027 and lowers the corporation tax rate from 15% to 10% in annual one-point steps from 2028 to 2032. Both measures are law; the rate cuts themselves take effect only from 2028.",
+    "key_evidence": [
+      "11 July 2025: Bundesrat approves the investment programme law; estimated revenue shortfall of almost €46 billion over 2025–2029.",
+      "Declining-balance depreciation of up to 30% for equipment acquired between July 2025 and December 2027.",
+      "Corporation tax falls from 15% to 14% (2028) and then by one point a year to 10% from 2032."
+    ],
+    "source_url": [
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.autohaus.de/recht-steuern/steuerluchs/autohaus-steuerluchs-bundesrat-stimmt-steuerlichem-investitionssofortprogramm-zu-3689013",
+      "https://www.ey.com/de_de/technical/steuernachrichten/bundestag-beschliesst-steuerliches-investitionssofortprogramm"
+    ]
+  },
+  {
+    "id": "merz-promise-income-tax",
+    "title": "Cut income tax for small and middle incomes by mid-term",
+    "description": "Coalition agreement (line 1442): \"Wir werden die Einkommensteuer für kleine und mittlere Einkommen zur Mitte der Legislatur senken.\" The CDU/CSU programme had promised to flatten the income tax curve and relieve low and middle incomes.",
+    "date_made": "2025-04-09",
+    "category": "Taxation",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The coalition committee of 1–2 July 2026 agreed an income tax reform with about €10 billion a year in relief, partly financed by higher taxes on very high incomes, and the cabinet adopted Finance Minister Klingbeil's draft on 2 September 2026 for entry into force on 1 January 2027. As of October 2026 the bill is before the Bundestag and Bundesrat and the SPD has called for changes to the wider reform package, so the pledge is in progress but not yet enacted.",
+    "key_evidence": [
+      "2 July 2026: coalition leaders announce agreement on an income tax reform with a relief volume of about €10 billion (Frankfurter Rundschau live coverage).",
+      "2 September 2026: cabinet adopts the draft; basic allowance to rise to €12,564 (2027) and €12,900 (2028); the 42% rate to start at €70,600 instead of €69,879.",
+      "Counter-financing includes applying the 45% rate from €250,000 and a new 47% rate from €280,000 of taxable income.",
+      "8 October 2026: Klingbeil presents the Einkommensteuerreformgesetz 2027 in the Bundestag and urges passage so that relief applies from 1 January 2027."
+    ],
+    "source_url": [
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.fr.de/politik/koalitionsausschuss-am-mittwoch-merz-klingbeil-und-soeder-vor-dem-reformkraftakt-zr-94376780.html",
+      "https://www.zdfheute.de/politik/deutschland/einkommen-steuerreform-entwurf-kabinett-klingbeil-100.html",
+      "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/bmf-einkommensteuerreform-2027-2456464"
+    ]
+  },
+  {
+    "id": "merz-promise-retirement-age",
+    "title": "No further increase in the statutory retirement age; keep retirement after 45 contribution years",
+    "description": "The CDU/CSU programme pledged: \"An der bestehenden gesetzlichen Regelung zum Renteneintrittsalter halten wir fest\" and to keep the rule for people with 45 insurance years. The coalition agreement (lines 609–612) states that retirement without deductions after 45 contribution years \"wird auch künftig möglich bleiben\" and that, \"statt einer weiteren Erhöhung des gesetzlichen Renteneintrittsalters\", the coalition wants more flexibility based on voluntary choices.",
+    "date_made": "2024-12",
+    "category": "Pensions",
+    "status": "broken",
+    "confidence_score": 0.7,
+    "reasoning": "On 2 July 2026 the coalition committee chaired by Merz decided to implement all 33 recommendations of the government's pension commission, including raising the standard retirement age after 2031 in line with life expectancy (from 67 to 67.5 by 2041) and abolishing deduction-free retirement after 45 contribution years. This reverses both commitments. The changes had not yet been legislated as of October 2026 and the SPD was seeking to soften them, which is why confidence is below 0.8.",
+    "key_evidence": [
+      "23 June 2026: the Alterssicherungskommission presents 33 recommendations.",
+      "2 July 2026: the coalition committee says it will implement all recommendations \"vollständig und zügig\"; the Bundesregierung FAQ states that the standard retirement age is to be adjusted to rising life expectancy after 2031.",
+      "The FAQ also states that tax-funded deduction-free retirement after 45 contribution years ('Rente mit 63') is to be abolished.",
+      "Merz has said the reforms should be legislated by the end of 2026."
+    ],
+    "source_url": [
+      "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.bundesregierung.de/breg-de/aktuelles/faq-rentenreform-2444534",
+      "https://en.wikipedia.org/wiki/2026_German_government_crisis"
+    ]
+  },
+  {
+    "id": "merz-promise-pension-level-aktivrente",
+    "title": "Guarantee a 48% pension level until 2031 and introduce the 'Aktivrente'",
+    "description": "Coalition agreement (lines 587–588 and 613–614): secure the pension level at 48% by law until 2031, funded from taxes, and make working beyond retirement age attractive with an 'Aktivrente' under which up to €2,000 a month of wages is tax-free. The Aktivrente was a CDU/CSU programme pledge.",
+    "date_made": "2025-04-09",
+    "category": "Pensions",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "On 5 December 2025 the Bundestag adopted the government's pension package (318 votes in favour, reaching the chancellor majority), extending the 48% pension level and the 'Mütterrente'; the Aktivrente law adopted in December 2025 grants a monthly tax-free allowance of €2,000 for employees who keep working past the statutory retirement age from 1 January 2026. Both commitments were enacted as promised, despite criticism of the pension package from the CDU/CSU youth organisation Junge Union.",
+    "key_evidence": [
+      "5 December 2025: Bundestag passes the pension package, 318 yes, 225 no, 53 abstentions.",
+      "The 48% pension level is fixed until 2031; the extended Mütterrente is included.",
+      "Aktivrente: €2,000 per month of wages tax-free for employees past the statutory retirement age, from 1 January 2026."
+    ],
+    "source_url": [
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.bundestag.de/dokumente/textarchiv/2025/kw49-de-rentenpaket-1128720",
+      "https://www.tagesschau.de/inland/innenpolitik/rentenpaket-kernpunkte-100.html"
+    ]
+  },
+  {
+    "id": "merz-promise-military-service",
+    "title": "Create a new, initially voluntary military service on the Swedish model",
+    "description": "Coalition agreement (lines 4149–4154): \"Wir schaffen einen neuen attraktiven Wehrdienst, der zunächst auf Freiwilligkeit basiert\", modelled on Sweden, and create the conditions for registering and monitoring those liable for service within 2025. (The CDU/CSU programme had gone further, promising a gradually expanding compulsory service.)",
+    "date_made": "2025-04-09",
+    "category": "Defence",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The Bundestag adopted the Wehrdienstmodernisierungsgesetz on 5 December 2025 (323 to 272) and it took effect on 1 January 2026. It introduces registration and medical screening for all men born from 2008 while keeping actual service voluntary; compulsory call-ups would require a further decision by parliament if recruitment targets are missed. This matches the coalition pledge, though not the CDU/CSU programme's call for compulsory service.",
+    "key_evidence": [
+      "5 December 2025: Bundestag passes the new military service law in a roll-call vote, 323 to 272.",
+      "Medical screening (Musterung) for all men born from 2008; the decision to serve remains voluntary.",
+      "The law sets growth targets for the Bundeswehr up to 2035; any mandatory service would need further legislation."
+    ],
+    "source_url": [
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf",
+      "https://www.tagesschau.de/inland/innenpolitik/wehrdienstgesetz-abstimmung-100.html",
+      "https://de.wikipedia.org/wiki/Wehrpflicht_in_Deutschland"
+    ]
+  }
+]

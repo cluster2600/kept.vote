@@ -177,3 +177,4 @@ def _apply_bio(p: Politician, bio: dict) -> None:
     p.party = bio.get("party")
     p.birth_date = parse_date(bio.get("birth_date"))
     p.bio = bio.get("bio")
+    p.portrait = bio.get("portrait")

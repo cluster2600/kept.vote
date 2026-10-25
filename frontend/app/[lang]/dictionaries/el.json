@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Πολιτικοί",
     "countryFilterLabel": "Φιλτράρισμα ανά χώρα",
+    "mapLabel": "Χάρτης: επιλέξτε χώρα",
+    "mapCovered": "Καλύπτεται",
+    "mapNotCovered": "Δεν καλύπτεται ακόμη",
     "allCountries": "Όλες οι χώρες",
     "otherCountry": "Άλλη",
     "politicianCount": {
@@ -40,8 +43,8 @@
     "viewDossier": "Προβολή φακέλου",
     "noneInCountry": "Δεν παρακολουθούνται ακόμη πολιτικοί για αυτή τη χώρα.",
     "emptyState": "Δεν υπάρχουν ακόμη πολιτικοί. Εκτελέστε το script αρχικών δεδομένων για να φορτώσετε δεδομένα επίδειξης:",
-    "connectionErrorTitle": "Δεν ήταν δυνατή η σύνδεση με το API του backend.",
-    "connectionErrorBody": "Βεβαιωθείτε ότι το backend FastAPI εκτελείται και ότι το {envVar} παραπέμπει σε αυτό."
+    "connectionErrorTitle": "Δεν ήταν δυνατή η φόρτωση των δεδομένων.",
+    "connectionErrorBody": "Η βάση δεδομένων δεν απάντησε. Δοκιμάστε ξανά σε λίγο."
   },
   "office": {
     "head_of_state": "Αρχηγός κράτους",
@@ -51,6 +54,7 @@
     "mayor": "Δήμαρχος",
     "regional_executive": "Περιφερειάρχης",
     "party_leader": "Αρχηγός κόμματος",
+    "judge": "Δικαστής",
     "other": "Άλλο αξίωμα"
   },
   "notFound": {
@@ -62,6 +66,7 @@
     "back": "← Όλοι οι πολιτικοί",
     "trackRecord": "Ιστορικό τήρησης υποσχέσεων",
     "contentLanguage": "Το προφίλ είναι γραμμένο στα {language}",
+    "photoCredit": "Φωτογραφία: {author}, {license}, μέσω {source}",
     "tabsLabel": "Ενότητες προφίλ",
     "tabs": {
       "promises": "Υποσχέσεις",

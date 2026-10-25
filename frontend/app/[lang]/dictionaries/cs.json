@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filtrování podle země",
+    "mapLabel": "Mapa: vyberte zemi",
+    "mapCovered": "Zahrnuto",
+    "mapNotCovered": "Zatím nezahrnuto",
     "allCountries": "Všechny země",
     "otherCountry": "Ostatní",
     "politicianCount": {
@@ -44,8 +47,8 @@
     "viewDossier": "Zobrazit profil",
     "noneInCountry": "Pro tuto zemi zatím nesledujeme žádné politiky.",
     "emptyState": "Zatím zde nejsou žádní politici. Demonstrační data načtete spuštěním skriptu seed:",
-    "connectionErrorTitle": "Nepodařilo se spojit s backendovým API.",
-    "connectionErrorBody": "Ověřte, že backend FastAPI běží a že na něj odkazuje proměnná {envVar}."
+    "connectionErrorTitle": "Data se nepodařilo načíst.",
+    "connectionErrorBody": "Databáze neodpověděla. Zkuste to prosím za chvíli znovu."
   },
   "office": {
     "head_of_state": "Hlava státu",
@@ -55,6 +58,7 @@
     "mayor": "Starosta",
     "regional_executive": "Regionální exekutiva",
     "party_leader": "Předseda strany",
+    "judge": "Soudce",
     "other": "Jiná funkce"
   },
   "notFound": {
@@ -66,6 +70,7 @@
     "back": "← Všichni politici",
     "trackRecord": "Bilance slibů",
     "contentLanguage": "Jazyk profilu: {language}",
+    "photoCredit": "Foto: {author}, {license}, zdroj: {source}",
     "tabsLabel": "Části profilu",
     "tabs": {
       "promises": "Sliby",

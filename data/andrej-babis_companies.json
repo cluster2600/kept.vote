@@ -1,0 +1,30 @@
+[
+  {
+    "id": "andrej-babis-company-agrofert",
+    "entity": "AGROFERT, a.s. (IČO 26185610)",
+    "role": "Founder; former sole shareholder",
+    "ownership_stake": "None of record since 20 February 2026 (previously 100%)",
+    "period": "1993–2026",
+    "status": "transferred_to_trust",
+    "detail": "Holding company of the Agrofert group (agriculture, food processing, chemicals). According to the Commercial Register kept by the Municipal Court in Prague (file B 6626), Babiš was recorded as sole shareholder from 30 June 2005 until 3 February 2017, when he placed the shares in trust funds (AB private trust I and II, according to Czech media) to comply with the amended conflict-of-interest act, and again from 15 October 2025. Since 20 February 2026 the sole shareholder of record is the trustee of RSVP TRUST, soukromý svěřenský fond (IČO 240 99 333, trust register no. SF 4262). Babiš states the transfer is irrevocable and that he neither controls nor benefits from Agrofert; the European Commission said in September 2026 that the trust does not sufficiently mitigate a potential conflict of interest.",
+    "source_url": [
+      "https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=525681&typ=UPLNY",
+      "https://english.radio.cz/babis-places-agrofert-shares-trust-fund-says-conflict-interest-resolved-8878417",
+      "https://euperspectives.eu/2026/09/babis-rejects-eu-agrofert-conflict-concerns/"
+    ]
+  },
+  {
+    "id": "andrej-babis-company-synbiol",
+    "entity": "SynBiol, a.s. (IČO 26014343)",
+    "role": "Sole shareholder",
+    "ownership_stake": "100%",
+    "period": "2008–2017; since 2 December 2024",
+    "status": "current",
+    "detail": "Holding company outside the Agrofert group (registered activity: management of own assets); Czech media describe Imoba, the owner of the Čapí hnízdo complex, as part of the SynBiol group. Commercial Register: Babiš recorded as sole shareholder from 8 August 2008 to 3 February 2017, then the trustee of AB private trust I until 2 December 2024, and Babiš again since 2 December 2024. In December 2025 Babiš said he would place only Agrofert, not SynBiol, into the RSVP Trust.",
+    "source_url": [
+      "https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=312802&typ=UPLNY",
+      "https://english.radio.cz/pm-babis-only-place-agrofert-blind-trust-8873112",
+      "https://cnn.iprima.cz/agrofert-poslal-babisovi-ctyri-miliardy-korun-odhalilo-priznani-duchod-bere-ve-dvou-statech-516057"
+    ]
+  }
+]

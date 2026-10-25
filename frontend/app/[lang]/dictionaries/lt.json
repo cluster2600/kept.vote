@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Politikai",
     "countryFilterLabel": "Filtruoti pagal šalį",
+    "mapLabel": "Žemėlapis: pasirinkite šalį",
+    "mapCovered": "Įtraukta",
+    "mapNotCovered": "Dar neįtraukta",
     "allCountries": "Visos šalys",
     "otherCountry": "Kitos šalys",
     "politicianCount": {
@@ -44,8 +47,8 @@
     "viewDossier": "Peržiūrėti dosjė",
     "noneInCountry": "Šios šalies politikai dar nestebimi.",
     "emptyState": "Politikų dar nėra. Norėdami įkelti demonstracinius duomenis, paleiskite pradinių duomenų įkėlimo scenarijų:",
-    "connectionErrorTitle": "Nepavyko pasiekti serverio API.",
-    "connectionErrorBody": "Įsitikinkite, kad veikia FastAPI serverio programa ir kad {envVar} nurodo jos adresą."
+    "connectionErrorTitle": "Nepavyko įkelti duomenų.",
+    "connectionErrorBody": "Duomenų bazė neatsakė. Bandykite dar kartą po kelių akimirkų."
   },
   "office": {
     "head_of_state": "Valstybės vadovas",
@@ -55,6 +58,7 @@
     "mayor": "Meras",
     "regional_executive": "Regiono vadovas",
     "party_leader": "Partijos lyderis",
+    "judge": "Teisėjas",
     "other": "Kitos pareigos"
   },
   "notFound": {
@@ -66,6 +70,7 @@
     "back": "← Visi politikai",
     "trackRecord": "Pažadų vykdymo rezultatai",
     "contentLanguage": "Profilio kalba: {language}",
+    "photoCredit": "Nuotrauka: {author}, {license}, šaltinis: {source}",
     "tabsLabel": "Profilio skiltys",
     "tabs": {
       "promises": "Pažadai",

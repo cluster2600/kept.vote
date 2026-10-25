@@ -1,0 +1,230 @@
+[
+  {
+    "id": "andrej-babis-promise-retirement-age-65",
+    "title": "Cap the statutory retirement age at 65",
+    "description": "Reverse the previous government's reform that raises the retirement age towards 67 by capping it at 65. A headline ANO campaign pledge, written into the coalition's programme statement approved on 5 January 2026: 'Důchodový věk bude zastropován na 65 letech' and 'Zastropujeme věk odchodu do důchodu na 65 letech'.",
+    "date_made": "2026-01-05",
+    "category": "Pensions",
+    "status": "no_action",
+    "confidence_score": 0.75,
+    "reasoning": "As of October 2026 no law capping the retirement age at 65 had been adopted, and the cap was not part of the government's first pension amendment. In March 2026 Labour Minister Aleš Juchelka (ANO) said the cap would not take effect from the following January as originally planned but would come in a later wave of pension changes, together with rules for demanding professions. The previous government's rules raising the age towards 67 therefore remain in force; the pledge is still achievable within the term.",
+    "key_evidence": [
+      "Programme statement (5 January 2026): 'Důchodový věk bude zastropován na 65 letech.'",
+      "Tripartite talks on a proposal to cap the age at 65 were held in spring 2026 (Radio Prague International).",
+      "ČT24, 9 March 2026: Juchelka said the cap will not apply from next year and is moved to a later wave of pension changes with adjustments for demanding professions.",
+      "The first pension amendment focuses on indexation and age-related pension increases, not the age cap."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-projedna-moznost-ukonceni-penzijniho-sporeni-bez-sankci-pro-duchodce-371094",
+      "https://www.seznamzpravy.cz/clanek/ekonomika-juchelka-vek-se-na-65-letech-zastropuje-az-s-upravou-penzi-narocnych-profesi-301084",
+      "https://english.radio.cz/tripartite-discuss-capping-retirement-age-65-8880004"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-abolish-licence-fees",
+    "title": "Abolish licence fees for Czech Television and Czech Radio",
+    "description": "Abolish the television and radio licence fees (koncesionářské poplatky) and finance the public broadcasters from the state budget, while 'preserving their independence' and adding audit oversight by the Supreme Audit Office (NKÚ). Programme statement: 'Zrušíme poplatky za veřejnoprávní média.'",
+    "date_made": "2026-01-05",
+    "category": "Media",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "The cabinet approved a bill on 15 June 2026 that repeals the licence-fee act and replaces fees with fixed state-budget contributions (CZK 5.74 billion for ČT and CZK 2.065 billion for ČRo). As of September 2026 the bill had not yet had its first reading in the Chamber; Lupa.cz reported that the planned 1 January 2027 start was very unlikely and that Deputy Speaker Patrik Nacher (ANO) did not rule out a shift to 2028. The plan has drawn large protests and a strike at the broadcasters.",
+    "key_evidence": [
+      "Government press release, 15 June 2026: bill approved to end licence-fee funding and repeal the radio and television fees act.",
+      "Fixed contributions proposed: CZK 5.740 bn (ČT) and CZK 2.065 bn (ČRo), with indexation only if cumulative inflation exceeds a 10-point threshold.",
+      "Lupa.cz, 7 September 2026: first reading scheduled for the September session; 1 January 2027 effective date 'extremely unlikely'."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://vlada.gov.cz/cz/media-centrum/aktualne/vlada-andreje-babise-schvalila-navrh-na-zmenu-financovani-ceske-televize-a-ceskeho-rozhlasu-227533/",
+      "https://www.lupa.cz/clanky/zacina-parlamentni-bitva-o-poplatky-jejich-zruseni-se-muze-odlozit/"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-fare-discounts-75",
+    "title": "Restore 75% public-transport fare discounts for students and seniors",
+    "description": "Return the fare discount for students and seniors on trains and long-distance buses to 75%, after the previous government cut it to 50%. Programme statement: 'Vrátíme slevy na jízdné pro studenty a seniory ve výši 75 procent.'",
+    "date_made": "2026-01-05",
+    "category": "Transport / social policy",
+    "status": "no_action",
+    "confidence_score": 0.8,
+    "reasoning": "The Ministry of Transport set 1 January 2027 as the target date in April 2026, but the draft 2027 state budget keeps the existing 50% discount. Transport Minister Ivan Bednárik (SPD) said in September 2026 that money for the higher discount was lacking, and Babiš said in June that if it could not be introduced in 2027 the government would try in 2028. No measure raising the discount had been adopted as of October 2026.",
+    "key_evidence": [
+      "Programme statement (January 2026) promised the 75% discount without a date.",
+      "April 2026: ministry targets 1 January 2027; 15 June 2026: Bednárik says about CZK 2 bn more is needed in the 2027 budget.",
+      "14 September 2026: Bednárik says the draft budget assumes the current 50% discount.",
+      "Babiš (June 2026): if not possible in 2027, the government will try in 2028."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://www.mesec.cz/aktuality/ano-slevy-jsme-slibili-na-vyssi-jizdne-pro-studenty-a-seniory-ale-vlada-nema-penize/",
+      "https://www.podnikatel.cz/clanky/velky-slib-seniorum-se-rozplyva-tyka-se-levnejsiho-jizdneho/"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-poze-state-pays",
+    "title": "Make the state, not consumers, pay the renewable-energy support fee (POZE)",
+    "description": "Lower regulated electricity prices by having the state budget take over the fee for supported energy sources (poplatek za POZE) paid by households and firms. Programme statement: 'Lidé a firmy nebudou dále platit poplatek za POZE, poplatky za tuto složku regulované elektřiny na sebe převezme stát.'",
+    "date_made": "2025-12-16",
+    "category": "Energy",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "At its first regular meeting on 16 December 2025 the cabinet decided that the state would cover the POZE component (about CZK 17 billion a year). The Energy Regulatory Office then issued an amended price decision, effective 1 January 2026, under which customers no longer pay any POZE contribution; average regulated low-voltage prices fell by about 15%. Finance Minister Alena Schillerová said the draft 2027 budget keeps the arrangement.",
+    "key_evidence": [
+      "Government decision of 16 December 2025 to raise the state subsidy so it covers POZE costs in full (Novinky; ERÚ).",
+      "ERÚ amended price decision (29 December 2025, effective 1 January 2026): POZE contribution of CZK 495/MWh for households removed; low-voltage average -15.1%, high voltage -21.0%, very high voltage -34.2%.",
+      "21 September 2026: Schillerová says the state will keep paying renewable fees instead of consumers in 2027."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://www.novinky.cz/clanek/domaci-tiskovka-po-prvnim-velkem-jednani-vlady-babis-slibil-odmitnout-migracni-pakt-i-ets2-40553612",
+      "https://eru.gov.cz/eru-vydal-zmenovy-cenovy-vymer-kterym-upravuje-regulovane-ceny-na-rok-2026",
+      "https://www.ceskenoviny.cz/zpravy/stat-bude-pristi-rok-hospodarit-se-schodek-386-mld-kc-rozhodla-vlada/2876940"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-eet-2",
+    "title": "Reintroduce electronic registration of sales (EET 2.0) from 2027",
+    "description": "Bring back the electronic sales-registration system abolished by the previous government, in a simplified form without mandatory printed receipts or permanent online connection and with exemptions for the smallest traders. Programme statement: 'Od roku 2027 zavedeme EET 2.0.'",
+    "date_made": "2026-01-05",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "The cabinet approved the bill on 4 May 2026; the Chamber passed it on 15 July 2026, the Senate returned it with amendments on 19 August, and the Chamber reaffirmed its version on 9 September with 104 coalition votes. President Petr Pavel signed it on 17 September 2026, with the system due to start on 1 January 2027. Unlike the original EET it also covers in-person card payments, which part of the opposition says it may challenge at the Constitutional Court.",
+    "key_evidence": [
+      "Ministry of Finance press release presenting EET 2.0 (May 2026).",
+      "Senate returned the bill on 19 August 2026 seeking to exempt cashless payments; Chamber rejected the changes on 9 September 2026.",
+      "17 September 2026: President Pavel signs the EET law (E15).",
+      "Small flat-tax traders with turnover under CZK 1 million may opt out by paying a higher flat-tax instalment (CZK 1,500 instead of CZK 100 a month)."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/eet-2-0-ministerstvo-financi-predstavuje-moderni-a-62878",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/senat-bude-schvalovat-obnoveni-eet-a-zakon-o-statnich-urednicich-376731",
+      "https://www.e15.cz/domaci/politika/pavel-podepsal-zavedeni-eet-i-zmenu-stavebniho-zakona-dve-sporne-novely-vetoval-1435852"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-skolkovne-student-credit",
+    "title": "Restore the kindergarten-fee deduction (školkovné) and the student tax credit",
+    "description": "Reinstate two tax reliefs abolished under the previous government's 2023 consolidation package: the deduction for pre-school childcare fees ('školkovné') and the tax credit for working students. Programme statement: 'Rodinám vrátíme školkovné ... a pracujícím studentům vrátíme daňovou slevu.'",
+    "date_made": "2026-01-05",
+    "category": "Taxation / family policy",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "Both reliefs were included in the law reintroducing EET, which the Chamber finally approved on 9 September 2026 over the Senate's amendments and President Pavel signed on 17 September 2026. The same law also moves non-alcoholic drinks served in restaurants to the 12% VAT rate, another programme commitment.",
+    "key_evidence": [
+      "E15, 17 September 2026: the signed EET law restores školkovné and the student tax credit and applies 12% VAT to soft drinks in restaurants.",
+      "Novinky, 9 September 2026: 'EET i školkovné se vrátí, Sněmovna odmítla změny Senátu'."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://www.e15.cz/domaci/politika/pavel-podepsal-zavedeni-eet-i-zmenu-stavebniho-zakona-dve-sporne-novely-vetoval-1435852",
+      "https://www.novinky.cz/clanek/ekonomika-eet-i-skolkovne-se-vrati-snemovna-odmitla-zmeny-senatu-40596927"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-building-law-housing",
+    "title": "Speed up building permits and make large housing projects a public interest",
+    "description": "Simplify and accelerate planning and permitting, declare housing a public interest in law and treat residential complexes as strategic state constructions with faster approval. Programme statement: 'Připravíme nový stavební zákon ... Zákonem stanovíme bydlení jako veřejný zájem. Bytové komplexy zařadíme pod strategické stavby státu.'",
+    "date_made": "2026-01-05",
+    "category": "Housing / construction",
+    "status": "kept",
+    "confidence_score": 0.7,
+    "reasoning": "Instead of a brand-new code, the coalition passed a far-reaching amendment to the Building Act (submitted as an MPs' bill): the Chamber approved it on 10 July 2026, overrode the Senate's rejection on 9 September and President Pavel signed it on 17 September 2026. It creates a state building administration headed by a Territorial Development Office (from 1 January 2027, full network by 2028), a single merged permit procedure, and classifies residential projects over 10,000 m2 as 'reserved constructions' treated as public-interest projects. Whether permitting actually becomes faster cannot yet be measured, and critics (the Senate, mayors, environmental groups) plan a Constitutional Court challenge.",
+    "key_evidence": [
+      "Chamber approval 10 July 2026; Senate rejection 20 August 2026 (55 of 66 senators present); Chamber override 9 September 2026 (104 votes).",
+      "President Pavel signed the amendment on 17 September 2026 while voicing reservations.",
+      "Česká justice, 15 September 2026: ~600 municipal and regional building offices to be replaced by 14 regional directorates; residential projects above 10,000 m2 become public-interest 'reserved constructions'."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://www.ceska-justice.cz/2026/09/co-skutecne-meni-novela-stavebniho-zakona/",
+      "https://www.e15.cz/domaci/politika/pavel-podepsal-zavedeni-eet-i-zmenu-stavebniho-zakona-dve-sporne-novely-vetoval-1435852"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-national-referendum",
+    "title": "Adopt a law on nationwide referendums",
+    "description": "Enact a (constitutional) law allowing citizens to decide key questions of public interest directly, with EU and NATO membership excluded. Programme statement: 'Připravíme zákon o celostátním referendu ... členství České republiky v Evropské unii a Severoatlantické alianci nebude předmětem referenda.' ANO had also put a constitutional referendum in its 2025 election programme.",
+    "date_made": "2026-01-05",
+    "category": "Democratic institutions",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "The government added a constitutional referendum bill to its legislative plan in March 2026 and in June 2026 the coalition agreed its parameters (a result valid if at least 35% of all eligible voters back it, initiation by 300,000 signatures or by Parliament, prior Constitutional Court review). As of 28 September 2026 the bill had not yet been approved by the cabinet; a constitutional law needs three-fifths majorities in both chambers, and the coalition lacked the opposition votes it needs, with the Pirates and KDU-ČSL ruling out support.",
+    "key_evidence": [
+      "Programme statement commitment to a nationwide referendum law.",
+      "June 2026: coalition agrees 35% approval threshold and 300,000-signature initiative.",
+      "ČT24, 28 September 2026: Justice Minister Jeroným Tejc to submit the bill to the cabinet around the turn of September/October; at least 12 opposition MPs needed; chances described as very slim."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/ke-schvaleni-zakona-o-celostatnim-referendu-chybi-vlade-hlasy-opozice-378013",
+      "https://www.seznamzpravy.cz/clanek/domaci-politika-navrh-o-referendu-ma-koalice-hotovy-nutny-bude-souhlas-35-procent-vsech-volicu-307568",
+      "https://www.novinky.cz/clanek/domaci-celostatni-referendum-treba-o-eutanazii-zminil-sef-ano-40538987"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-cancel-ammunition-initiative",
+    "title": "Cancel the Czech ammunition initiative for Ukraine",
+    "description": "During the 2025 campaign Babiš said an ANO government would cancel the Czech-led initiative that buys artillery ammunition for Ukraine on world markets, calling it non-transparent and overpriced and suggesting NATO could take it over. Asked by Reuters whether ANO would scrap it: 'Samozřejmě. Proč bychom pokračovali? My potřebujeme peníze pro naše lidi.'",
+    "date_made": "2025-07-15",
+    "category": "Foreign policy / defence",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "After taking office Babiš did not cancel the initiative: on 7 January 2026 he announced that it would continue with the Czech Republic as coordinator, on condition that no Czech state-budget money is used and partner countries finance it. The pledge to scrap the scheme was therefore reversed, although the government did end any Czech budget contribution.",
+    "key_evidence": [
+      "15 July 2025 (Novinky/ČTK, citing Reuters): Babiš says an ANO government would cancel the initiative.",
+      "7 January 2026: 'The project will continue, and the Czech Republic will be the coordinator' and 'No money from Czech citizens will be invested in the ammunition initiative' (Expats.cz).",
+      "The decision was agreed with coalition partners SPD and Motoristé."
+    ],
+    "source_url": [
+      "https://www.novinky.cz/clanek/domaci-babis-vlada-ano-by-zrusila-ceskou-municni-iniciativu-40530425",
+      "https://www.expats.cz/czech-news/article/czech-government-to-keep-ammunition-initiative-but-without-state-funding"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-give-up-agrofert",
+    "title": "Irrevocably give up ownership and control of Agrofert",
+    "description": "Commitment made to President Petr Pavel and the public before his appointment: in a video on 4 December 2025 Babiš said he would irreversibly relinquish ownership of, economic ties to and decision-making influence over Agrofert by placing it in a trust run by an independent trustee and overseen by an independent protector, with neither him nor his family benefiting and his children acquiring the company only after his death.",
+    "date_made": "2025-12-04",
+    "category": "Conflict of interest / integrity",
+    "status": "compromise",
+    "confidence_score": 0.6,
+    "reasoning": "The transfer took place: the Commercial Register shows the trustee of RSVP TRUST as Agrofert's sole shareholder since 20 February 2026. But before the transfer Agrofert paid Babiš a dividend of about CZK 4.25 billion net in 2025; the trust's statutes have not been published, and Seznam Zprávy reported they hand control to his children after he leaves office rather than after his death; and on 8 September 2026 the European Commission said the trust does not sufficiently mitigate a potential conflict of interest. Babiš says he no longer owns or benefits from Agrofert. The verdict depends partly on documents that are not public, hence the moderate confidence.",
+    "key_evidence": [
+      "Brno Daily, 5 December 2025: details of the announced trust (independent administrator and protector; children inherit only after his death).",
+      "Commercial Register: Babiš sole shareholder of record 15 October 2025 - 20 February 2026; since 20 February 2026 the trustee of RSVP TRUST (IČO 240 99 333).",
+      "1 July 2026: Babiš confirms a 2025 Agrofert dividend of CZK 4.25 bn net (CZK 5 bn gross) paid before the transfer.",
+      "8 September 2026: Commission spokesperson says the trust 'does not sufficiently mitigate' a potential conflict of interest."
+    ],
+    "source_url": [
+      "https://brnodaily.com/2025/12/05/news/politics/babis-to-be-appointed-prime-minister-on-9-december-after-announcing-handover-of-agrofert/",
+      "https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=525681&typ=UPLNY",
+      "https://www.globalbankingandfinance.com/czech-prime-minister-he-took-200-million-payout-his-former/",
+      "https://euperspectives.eu/2026/09/babis-rejects-eu-agrofert-conflict-concerns/"
+    ]
+  },
+  {
+    "id": "andrej-babis-promise-deficit-below-3",
+    "title": "Keep the deficit safely below 3% of GDP and reduce it gradually",
+    "description": "Programme statement: 'Veřejné finance České republiky budeme udržovat blízko vyrovnané bilance, a to bezpečně pod hranicí 3 % deficitu ... dosáhneme postupného snižování deficitu veřejných financí.'",
+    "date_made": "2026-01-05",
+    "category": "Public finances",
+    "status": "broken",
+    "confidence_score": 0.6,
+    "reasoning": "The government's budgets move the deficit up, not down: the cabinet's revised 2026 budget raised the planned state deficit to CZK 310 billion (from CZK 286 billion in the previous government's draft), and on 21 September 2026 it approved a CZK 386 billion deficit for 2027. The National Budget Council forecasts the general-government deficit rising from 2.1% of GDP in 2025 to 2.7% in 2026 and 3.5-3.7% in 2027, above the 3% ceiling. The Ministry of Finance disputes the Council's conclusions and the 2027 budget still has to pass the Chamber, so the verdict rests partly on forecasts.",
+    "key_evidence": [
+      "26 January 2026: cabinet approves a 2026 budget with a CZK 310 bn deficit (ČT24).",
+      "21 September 2026: cabinet approves a 2027 budget with a CZK 386 bn deficit, described as the second-highest in Czech history (ČTK).",
+      "24 September 2026: National Budget Council forecasts a general-government deficit of 3.5-3.7% of GDP in 2027 and the debt brake being hit in 2034."
+    ],
+    "source_url": [
+      "https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-projedna-navrh-statniho-rozpoctu-369650",
+      "https://www.ceskenoviny.cz/zpravy/stat-bude-pristi-rok-hospodarit-se-schodek-386-mld-kc-rozhodla-vlada/2876940",
+      "https://ct24.ceskatelevize.cz/clanek/ekonomika/rozpoctova-rada-zverejnuje-hodnoceni-udrzitelnosti-verejnych-financi-377908"
+    ]
+  }
+]

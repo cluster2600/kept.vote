@@ -1,0 +1,33 @@
+[
+  {
+    "id": "giorgia-meloni-former-home-rome",
+    "property": "Former main home with one appurtenance (pertinenza)",
+    "location": "Rome",
+    "transaction_type": "Sale (declared 2023)",
+    "date": "2023",
+    "value": "Not stated (Italian declarations do not report values)",
+    "detail": "Declared as a building owned outright (100%) in the 2022 opening declarations to the Chamber and to the Presidency of the Council, and in the tax returns for 2021–2023. Her Chamber variation statement of 9 August 2023 declares 'vendita abitazione e relativa pertinenza; acquisto nuova abitazione'; the property no longer appears in the return for tax year 2024.",
+    "status": "divested",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_patrimoniale_ModC.pdf",
+      "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c1f4dc12-0ad9-4f0a-b338-7bb524716138",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-new-home-rome",
+    "property": "Main home (prima casa) with two appurtenances",
+    "location": "Rome",
+    "transaction_type": "Purchase (finalised December 2024)",
+    "date": "2024-12",
+    "value": "Not stated (Italian declarations do not report values)",
+    "detail": "Owned outright (100%). The return for tax year 2024 lists the home and two appurtenances held for 9 days of 2024, and her Chamber declaration of 28 October 2025 and the Presidency's 2025 asset statement record the 'acquisto definitivo nuova abitazione come prima casa'. The 2024 return claims 3,047 EUR of mortgage interest on the main home; Open, citing registry documents, reported a 200,000 EUR 15-year mortgage taken out on 23 December 2024 and transferred to another bank in June 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/af368826-3669-452b-b980-3bc34aad83c6",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_patrimoniale_Mod_D_2025.pdf",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_redditi_2025.pdf",
+      "https://www.open.online/2025/11/04/giorgia-meloni-dichiarazione-redditi-2025/"
+    ]
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "id": "donald-tusk-fin-2023appt-cash-pln",
+    "year": 2023,
+    "type": "savings",
+    "label": "Cash savings in Polish zloty (on appointment, 13 Dec 2023)",
+    "amount": "112,000 PLN",
+    "detail": "Declared cash resources in Polish currency in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM). The form covers both his separate property and property held in statutory marital community (wspólność majątkowa).",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023appt-cash-eur",
+    "year": 2023,
+    "type": "savings",
+    "label": "Cash savings in foreign currency (on appointment, 13 Dec 2023)",
+    "amount": "285,000 EUR",
+    "detail": "Declared cash resources in foreign currency (euro) in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM).",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023appt-movable",
+    "year": 2023,
+    "type": "movable_property",
+    "label": "Wristwatch, Grand Seiko GMT (2016)",
+    "amount": "over 10,000 PLN (exact value not stated)",
+    "detail": "The only movable item worth more than 10,000 PLN listed in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM). No motor vehicle is declared.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023appt-debt",
+    "year": 2023,
+    "type": "debt",
+    "label": "Liabilities over 10,000 PLN (on appointment)",
+    "amount": "none",
+    "detail": "The declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM) answers 'nie dotyczy' (not applicable) to the section on loans, credits and other liabilities above 10,000 PLN.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2022-pension-ec",
+    "year": 2022,
+    "type": "pension",
+    "label": "European Commission pension (income in 2022)",
+    "amount": "65,000 EUR",
+    "detail": "Pension from the European Commission (after his term as President of the European Council, 2014-2019), listed among income 'obtained in 2022' in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM).",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2022-epp",
+    "year": 2022,
+    "type": "salary",
+    "label": "Work for the European People's Party (income in 2022)",
+    "amount": "331,458.68 PLN",
+    "detail": "Income declared as 'Praca w EPP' (he was EPP president until June 2022), listed in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM).",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2022-pension-zus",
+    "year": 2022,
+    "type": "pension",
+    "label": "Polish state pension, ZUS (income in 2022)",
+    "amount": "52,210.08 PLN",
+    "detail": "Pension from the Polish Social Insurance Institution (ZUS), listed in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM).",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2022-pension-be",
+    "year": 2022,
+    "type": "pension",
+    "label": "Belgian pension (income in 2022)",
+    "amount": "1,515.03 PLN (as written in the declaration)",
+    "detail": "Pension from Belgium, listed in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM); the amount is given in PLN on the form, whereas later declarations give the Belgian pension in euro.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2022-royalties",
+    "year": 2022,
+    "type": "royalties",
+    "label": "Copyright income (income in 2022)",
+    "amount": "177,791 PLN (Poland) + 1,145.53 PLN (abroad)",
+    "detail": "Two copyright lines ('prawa autorskie' and 'prawa autorskie (za granicą)') listed in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM).",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2022-interest",
+    "year": 2022,
+    "type": "interest_income",
+    "label": "Interest on savings (income in 2022)",
+    "amount": "175 PLN",
+    "detail": "Interest on savings listed in the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM).",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-cash-pln",
+    "year": 2023,
+    "type": "savings",
+    "label": "Cash savings in Polish zloty (31 Dec 2023)",
+    "amount": "120,000 PLN",
+    "detail": "Declared cash resources in Polish currency in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-cash-eur",
+    "year": 2023,
+    "type": "savings",
+    "label": "Cash savings in foreign currency (31 Dec 2023)",
+    "amount": "295,000 EUR",
+    "detail": "Declared cash resources in foreign currency (euro) in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM. TVN24 later cited 297,000 EUR for 2023; the official KPRM document reads 295,000 EUR.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-movable",
+    "year": 2023,
+    "type": "movable_property",
+    "label": "Wristwatch, Grand Seiko GMT (2016)",
+    "amount": "over 10,000 PLN (exact value not stated)",
+    "detail": "Only movable item above 10,000 PLN listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM. No motor vehicle declared.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-debt",
+    "year": 2023,
+    "type": "debt",
+    "label": "Liabilities over 10,000 PLN (31 Dec 2023)",
+    "amount": "none",
+    "detail": "'Nie dotyczy' (not applicable) in the liabilities section of the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-pension-ec",
+    "year": 2023,
+    "type": "pension",
+    "label": "European Commission pension (income in 2023)",
+    "amount": "64,757.76 EUR",
+    "detail": "Listed among income obtained in 2023 in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-pension-zus",
+    "year": 2023,
+    "type": "pension",
+    "label": "Polish state pension, ZUS (income in 2023)",
+    "amount": "118,887.10 PLN",
+    "detail": "Listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-pension-be",
+    "year": 2023,
+    "type": "pension",
+    "label": "Belgian pension (income in 2023)",
+    "amount": "2,371.76 EUR",
+    "detail": "Listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-royalties",
+    "year": 2023,
+    "type": "royalties",
+    "label": "Copyright income (income in 2023)",
+    "amount": "12,703.97 PLN",
+    "detail": "Listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-interest",
+    "year": 2023,
+    "type": "interest_income",
+    "label": "Interest on savings (income in 2023)",
+    "amount": "61 EUR",
+    "detail": "Listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-mp-salary",
+    "year": 2023,
+    "type": "salary",
+    "label": "Sejm salary, uposażenie poselskie (income in 2023)",
+    "amount": "17,541.79 PLN",
+    "detail": "MP's salary for the period after he took his seat in the 10th-term Sejm (oath on 13 November 2023), listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-mp-allowance",
+    "year": 2023,
+    "type": "parliamentary_allowance",
+    "label": "Sejm allowance, dieta parlamentarna (income in 2023)",
+    "amount": "6,211.66 PLN (of which 5,405.00 PLN tax-free, 806.66 PLN taxable)",
+    "detail": "Listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2023-kprm",
+    "year": 2023,
+    "type": "salary",
+    "label": "Chancellery of the Prime Minister, KPRM (income in 2023)",
+    "amount": "13,441.60 PLN",
+    "detail": "Remuneration as Prime Minister for the period from 13 December 2023, listed in the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-cash-pln",
+    "year": 2024,
+    "type": "savings",
+    "label": "Cash savings in Polish zloty (31 Dec 2024)",
+    "amount": "220,000 PLN (as reported)",
+    "detail": "Cash resources in Polish currency in the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date).",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-cash-eur",
+    "year": 2024,
+    "type": "savings",
+    "label": "Cash savings in foreign currency (31 Dec 2024)",
+    "amount": "290,000 EUR (as reported)",
+    "detail": "Cash resources in euro in the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date).",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-movable",
+    "year": 2024,
+    "type": "movable_property",
+    "label": "Wristwatch, Grand Seiko GMT (2016)",
+    "amount": "over 10,000 PLN (exact value not stated)",
+    "detail": "Only movable item above 10,000 PLN reported from the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date); no car.",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-debt",
+    "year": 2024,
+    "type": "debt",
+    "label": "Liabilities over 10,000 PLN (31 Dec 2024)",
+    "amount": "none (as reported)",
+    "detail": "Interia reports no liabilities above 10,000 PLN in the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date).",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-pension-ec",
+    "year": 2024,
+    "type": "pension",
+    "label": "European Commission pension (income in 2024)",
+    "amount": "69,700 EUR",
+    "detail": "Reported from the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date).",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-pension-zus",
+    "year": 2024,
+    "type": "pension",
+    "label": "Polish state pension, ZUS (income in 2024)",
+    "amount": "133,762 PLN",
+    "detail": "Reported from the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date). TVN24 and Dziennik.pl give 133,762 PLN (consistent with TVN24's PLN income total of 468,191.63 PLN); Interia gives 133,762.62 PLN.",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-pension-be",
+    "year": 2024,
+    "type": "pension",
+    "label": "Belgian pension (income in 2024)",
+    "amount": "2,443.32 EUR",
+    "detail": "Reported from the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date).",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-royalties",
+    "year": 2024,
+    "type": "royalties",
+    "label": "Copyright income (income in 2024)",
+    "amount": "25,078.23 PLN (corrected total)",
+    "detail": "The periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date) first listed two separate copyright amounts, 17,116.99 PLN and 7,961.23 PLN; according to Interia, Tusk corrected this in a letter to the Sejm Ethics Committee (Komisja Etyki Poselskiej), giving a total of 25,078.23 PLN. TVN24 and Dziennik.pl cite only the 7,961.23 PLN line.",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-interest",
+    "year": 2024,
+    "type": "interest_income",
+    "label": "Interest on savings (income in 2024)",
+    "amount": "94 EUR",
+    "detail": "Reported from the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date).",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-mp-allowance",
+    "year": 2024,
+    "type": "parliamentary_allowance",
+    "label": "Sejm allowance, dieta parlamentarna (income in 2024)",
+    "amount": "45,679.92 PLN (of which 36,000 PLN tax-free)",
+    "detail": "Reported from the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date). No separate MP salary (uposażenie) line is reported for 2024.",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2024-kprm",
+    "year": 2024,
+    "type": "salary",
+    "label": "Chancellery of the Prime Minister, KPRM (income in 2024)",
+    "amount": "280,788.48 PLN",
+    "detail": "Remuneration as Prime Minister, reported from the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date).",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-cash-pln",
+    "year": 2025,
+    "type": "savings",
+    "label": "Cash savings in Polish zloty (31 Dec 2025)",
+    "amount": "49,568.36 PLN",
+    "detail": "Cash resources in Polish currency in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website, down from about 220,000 PLN a year earlier.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-cash-eur",
+    "year": 2025,
+    "type": "savings",
+    "label": "Cash savings in foreign currency (31 Dec 2025)",
+    "amount": "282,642 EUR",
+    "detail": "Cash resources in euro in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-movable",
+    "year": 2025,
+    "type": "movable_property",
+    "label": "Wristwatch, Grand Seiko GMT (2016)",
+    "amount": "over 10,000 PLN (exact value not stated)",
+    "detail": "Only movable item above 10,000 PLN listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website. No motor vehicle declared.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-debt",
+    "year": 2025,
+    "type": "debt",
+    "label": "Liabilities over 10,000 PLN (31 Dec 2025)",
+    "amount": "none",
+    "detail": "'Nie posiadam' (none) in the liabilities section of the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-pension-ec",
+    "year": 2025,
+    "type": "pension",
+    "label": "European Commission pension (income in 2025)",
+    "amount": "71,282.78 EUR",
+    "detail": "Listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-pension-zus",
+    "year": 2025,
+    "type": "pension",
+    "label": "Polish state pension, ZUS (income in 2025)",
+    "amount": "144,423.77 PLN",
+    "detail": "Listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-pension-be",
+    "year": 2025,
+    "type": "pension",
+    "label": "Belgian pension (income in 2025)",
+    "amount": "2,504.50 EUR",
+    "detail": "Listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-royalties",
+    "year": 2025,
+    "type": "royalties",
+    "label": "Copyright income (income in 2025)",
+    "amount": "11,625.33 PLN",
+    "detail": "Listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-interest",
+    "year": 2025,
+    "type": "interest_income",
+    "label": "Interest on savings (income in 2025)",
+    "amount": "181 EUR",
+    "detail": "Listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-mp-allowance",
+    "year": 2025,
+    "type": "parliamentary_allowance",
+    "label": "Sejm allowance, dieta parlamentarna (income in 2025)",
+    "amount": "47,603.76 PLN (of which 36,000.00 PLN tax-free, 11,603.76 PLN taxable)",
+    "detail": "Listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website. No separate MP salary (uposażenie) line appears.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  },
+  {
+    "id": "donald-tusk-fin-2025-kprm",
+    "year": 2025,
+    "type": "salary",
+    "label": "Chancellery of the Prime Minister, KPRM (income in 2025)",
+    "amount": "294,977.52 PLN",
+    "detail": "Remuneration as Prime Minister, listed in the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website. Rzeczpospolita put his total 2025 income at about 812,256 PLN, converting the euro items at the June 2026 exchange rate.",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "petteri-orpo-edu-lukio",
+    "institution": "Säkylän seudun lukio (upper secondary school, Säkylä region)",
+    "qualification": "Matriculation examination (ylioppilas)",
+    "field": "General upper secondary education",
+    "years": "",
+    "detail": "Listed in his Eduskunta biography.",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-edu-turku",
+    "institution": "University of Turku (Turun yliopisto)",
+    "qualification": "Master of Social Sciences (valtiotieteiden maisteri)",
+    "field": "Political science",
+    "years": "",
+    "detail": "Degree listed in his Eduskunta biography; Wikipedia gives political science as the field. While a student he was secretary general of the university's student union (1994–1996).",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  }
+]

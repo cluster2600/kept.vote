@@ -1,0 +1,221 @@
+[
+  {
+    "id": "janez-jansa-el-1990",
+    "election": "1990 election to the Assembly of the Republic of Slovenia",
+    "date": "1990-04-08",
+    "role_sought": "Deputy, Slovenian Democratic Union (SDZ) within the DEMOS coalition",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "The first free multi-party elections; DEMOS won and Janša became Minister of Defence in Lojze Peterle's government (official biography; election date from Wikipedia).",
+    "source_url": [
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/1990_Slovenian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-1992",
+    "election": "1992 National Assembly election",
+    "date": "1992-12-06",
+    "role_sought": "Member of the National Assembly, Social Democratic Party of Slovenia (SDSS) list",
+    "result": "Elected",
+    "vote_share": "SDSS: 39,675 votes (3.34%)",
+    "opponent": "",
+    "detail": "His official biography states that he has won a seat at every parliamentary election; he remained Minister of Defence until March 1994 and became party president in May 1993.",
+    "source_url": [
+      "https://www.dvk-rs.si/arhivi/dz1992/rezultati.html",
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/1992_Slovenian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-1996",
+    "election": "1996 National Assembly election",
+    "date": "1996-11-10",
+    "role_sought": "Member of the National Assembly, SDS (Social Democratic Party of Slovenia) list, as party leader",
+    "result": "Re-elected",
+    "vote_share": "SDS: 172,470 votes (16.13%)",
+    "opponent": "",
+    "detail": "His first election as party leader; the party's share rose from 3.34% to 16.13%, third behind Liberal Democracy of Slovenia (27.01%) and the Slovenian People's Party (19.38%), and it stayed in opposition.",
+    "source_url": [
+      "https://www.dvk-rs.si/arhivi/dz1996/rezultati_sl.html",
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/1996_Slovenian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2000",
+    "election": "2000 National Assembly election",
+    "date": "2000-10-15",
+    "role_sought": "Member of the National Assembly, SDS list, as party leader",
+    "result": "Re-elected",
+    "vote_share": "SDS: 170,228 votes (15.81%)",
+    "opponent": "",
+    "detail": "Held after his short second term as defence minister in the Bajuk government; Liberal Democracy of Slovenia won 36.26% and the SDS returned to opposition.",
+    "source_url": [
+      "https://www.dvk-rs.si/arhivi/dz2000/rez_sl.html",
+      "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-2/",
+      "https://en.wikipedia.org/wiki/2000_Slovenian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2004",
+    "election": "2004 National Assembly election",
+    "date": "2004-10-03",
+    "role_sought": "Member of the National Assembly, SDS list, as party leader and candidate for Prime Minister",
+    "result": "Re-elected",
+    "vote_share": "SDS: 29.08%, 29 seats (first place)",
+    "opponent": "Liberal Democracy of Slovenia (LDS): 22.80%, 23 seats",
+    "detail": "The SDS's first election victory; Janša formed his first government, which took office on 3 December 2004.",
+    "source_url": [
+      "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-3/",
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/2004_Slovenian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2007-confidence",
+    "election": "Vote of confidence in the government, called by Prime Minister Janša",
+    "date": "2007-11-19",
+    "role_sought": "Prime Minister (confidence of the National Assembly)",
+    "result": "Won",
+    "vote_share": "51 for, 33 against",
+    "opponent": "",
+    "detail": "Janša tabled the motion on 15 November 2007, after the opposition-backed candidate Danilo Türk won the presidential election, saying the opposition's criticism hampered the government ahead of Slovenia's EU Council presidency (Wikipedia); the National Assembly reconfirmed the government (official biography).",
+    "source_url": [
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/Janez_Jan%C5%A1a"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2008",
+    "election": "2008 National Assembly election",
+    "date": "2008-09-21",
+    "role_sought": "Member of the National Assembly, SDS list, as incumbent Prime Minister",
+    "result": "Re-elected",
+    "vote_share": "SDS: 307,735 votes (29.26%), 28 seats (second place)",
+    "opponent": "Social Democrats (SD), Borut Pahor: 320,248 votes (30.45%), 29 seats",
+    "detail": "The SDS narrowly lost first place to the Social Democrats, and Borut Pahor succeeded Janša as Prime Minister.",
+    "source_url": [
+      "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs/",
+      "https://en.wikipedia.org/wiki/2008_Slovenian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2011",
+    "election": "2011 early National Assembly election",
+    "date": "2011-12-04",
+    "role_sought": "Member of the National Assembly, SDS list, as party leader",
+    "result": "Re-elected",
+    "vote_share": "SDS: 288,719 votes (26.19%), 26 seats (second place)",
+    "opponent": "Positive Slovenia (PS), Zoran Janković: 314,273 votes (28.51%), 28 seats",
+    "detail": "Zoran Janković failed to win a majority in the National Assembly; Janša was then proposed by a five-party coalition, and his second government took office on 10 February 2012.",
+    "source_url": [
+      "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-predcasne-volitve/",
+      "https://en.wikipedia.org/wiki/2011_Slovenian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Janez_Jan%C5%A1a"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2013-no-confidence",
+    "election": "Constructive vote of no confidence in the Janša government",
+    "date": "2013-02-27",
+    "role_sought": "Prime Minister (retaining office)",
+    "result": "Lost",
+    "vote_share": "55 for the motion, 33 against",
+    "opponent": "Alenka Bratušek (Positive Slovenia)",
+    "detail": "The National Assembly dismissed the government and designated Alenka Bratušek as Prime Minister after the coalition broke up over the anti-corruption commission's report on Janša's assets and amid protests against austerity.",
+    "source_url": [
+      "https://www.aljazeera.com/economy/2013/2/27/slovenian-parliament-ousts-pm-over-corruption",
+      "https://www.rtvslo.si/slovenija/janseva-pritozba-zoper-porocilo-kpk-ja-spet-na-sodiscu/339181"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2014",
+    "election": "2014 early National Assembly election",
+    "date": "2014-07-13",
+    "role_sought": "Member of the National Assembly, SDS list, as party leader",
+    "result": "Re-elected",
+    "vote_share": "SDS: 181,052 votes (20.71%), 21 seats (second place)",
+    "opponent": "Party of Miro Cerar (SMC): 301,563 votes (34.49%), 36 seats",
+    "detail": "Elected while serving his Patria sentence in Dob prison. The National Assembly declared his mandate terminated; the Constitutional Court stayed that decision and annulled it in June 2015.",
+    "source_url": [
+      "https://www.dvk-rs.si/arhivi/dz2014/",
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://www.rtvslo.si/news-in-english/constitutional-court-conclusively-restored-parliamentary-seat-to-jansa/367315"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2018",
+    "election": "2018 early National Assembly election",
+    "date": "2018-06-03",
+    "role_sought": "Member of the National Assembly, SDS list, as party leader",
+    "result": "Re-elected",
+    "vote_share": "SDS: 24.92%, 25 seats (first place); Janša in the Grosuplje district: 7,020 votes (39.3%) according to Wikipedia",
+    "opponent": "",
+    "detail": "The SDS came first but could not form a government (official biography); Marjan Šarec formed a minority government. Janša became Prime Minister in March 2020 after Šarec resigned.",
+    "source_url": [
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/predcasne-volitve-v-drzavni-zbor-rs-2018/",
+      "https://en.wikipedia.org/wiki/Janez_Jan%C5%A1a"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2020-pm",
+    "election": "Election of the Prime Minister by the National Assembly",
+    "date": "2020-03-03",
+    "role_sought": "Prime Minister",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected Prime Minister-designate after the resignation of Marjan Šarec; his third government, with New Slovenia, the Modern Centre Party and DeSUS, took office on 13 March 2020.",
+    "source_url": [
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/Janez_Jan%C5%A1a"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2022",
+    "election": "2022 National Assembly election",
+    "date": "2022-04-24",
+    "role_sought": "Member of the National Assembly, SDS list, as incumbent Prime Minister",
+    "result": "Re-elected",
+    "vote_share": "SDS: 279,897 votes (23.48%), 27 seats (second place)",
+    "opponent": "Freedom Movement (GS), Robert Golob: 410,769 votes (34.45%), 41 seats",
+    "detail": "Turnout 70.97%. Robert Golob's Freedom Movement formed the next government and the SDS went into opposition (percentages from the State Election Commission; votes and seats from Wikipedia).",
+    "source_url": [
+      "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/",
+      "https://en.wikipedia.org/wiki/2022_Slovenian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2026",
+    "election": "2026 National Assembly election",
+    "date": "2026-03-22",
+    "role_sought": "Member of the National Assembly, SDS list, as party leader and candidate for Prime Minister",
+    "result": "Re-elected",
+    "vote_share": "SDS: 328,923 votes (27.88%), 28 seats (second place)",
+    "opponent": "Freedom Movement (GS), Robert Golob: 338,102 votes (28.66%), 29 seats",
+    "detail": "Turnout 70.25%. Seven lists passed the threshold, according to the State Election Commission: Freedom Movement 28.66%, SDS 27.88%, NSi–SLS–Fokus 9.26%, Social Democrats 6.71%, Democrats 6.69%, Left and Vesna 5.69%, Resni.ca 5.49%. On 20 April Golob said he could not form a government and that his party would go into opposition (Wikipedia, citing Reuters).",
+    "source_url": [
+      "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-drzavni-zbor/",
+      "https://en.wikipedia.org/wiki/2026_Slovenian_parliamentary_election",
+      "https://www.aljazeera.com/news/2026/5/22/slovenias-parliament-approves-right-wing-janez-jansa-as-prime-minister"
+    ]
+  },
+  {
+    "id": "janez-jansa-el-2026-pm",
+    "election": "Election of the Prime Minister by the National Assembly",
+    "date": "2026-05-22",
+    "role_sought": "Prime Minister",
+    "result": "Elected",
+    "vote_share": "51 for, 36 against (secret ballot)",
+    "opponent": "",
+    "detail": "His candidacy was signed by the deputies of the SDS, NSi, SLS, Fokus and the Democrats, who had signed the coalition agreement on 21 May, and by Resni.ca, which remains formally in opposition: together 48 votes, against the 46 needed (Primorske novice). He received 51. His fourth government took office on 4 June 2026.",
+    "source_url": [
+      "https://www.aljazeera.com/news/2026/5/22/slovenias-parliament-approves-right-wing-janez-jansa-as-prime-minister",
+      "https://primorske.si/slovenija/sds-demokrati-ter-trojcek-nsi-sls-in-fokus-podpisali-koalicijsko-pogodbo/",
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/"
+    ]
+  }
+]

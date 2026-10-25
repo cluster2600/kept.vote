@@ -1,0 +1,65 @@
+[
+  {
+    "id": "andrej-plenkovic-re-zagreb-flat",
+    "property": "Flat (191.53 m²)",
+    "location": "Zagreb",
+    "transaction_type": "purchase",
+    "date": "",
+    "value": "346,406.53 EUR as declared until 2025; revalued at 600,000 EUR in the declaration published in early 2026",
+    "detail": "Declared as bought with the proceeds of the sale of property and with employment income (tportal). In January 2026 media noted that the declared value had not been updated for about ten years; the new declaration revalued it at 600,000 EUR (Dnevnik Nova TV; see polemics). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://dnevnik.hr/vijesti/hrvatska/provokacija-se-obila-o-glavu-plenkovicev-stan-ispao-800-eura-jeftiniji-po-kvadratu---957996.html",
+      "https://dnevnik.hr/vijesti/hrvatska/ovo-je-nova-plenkoviceva-imovinska-kartica-poznato-za-koliko-su-mu-skocile-placa-i-stednja-ali-i-vrijednost-stana---960905.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-re-zagreb-other",
+    "property": "Other real estate (5.63 m²)",
+    "location": "Zagreb",
+    "transaction_type": "",
+    "date": "",
+    "value": "2,654.46 EUR",
+    "detail": "Listed as 'other real estate' in the declaration filed in January 2024 (tportal, Nacional). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://www.nacional.hr/objavljena-nova-plenkoviceva-imovinska-kartica-ima-nekoliko-nekretnina-i-veliku-ustedevinu/",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-re-makose-house",
+    "property": "One-third share of a house with garden (759 m²)",
+    "location": "Makoše, Župa dubrovačka (Dubrovnik-Neretva County)",
+    "transaction_type": "",
+    "date": "",
+    "value": "66,361.40 EUR (value reported for the share)",
+    "detail": "Co-owned with family members and third parties; Plenković holds a 33.33% share, according to tportal's reading of the January 2024 declaration. Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-re-hvar-garden",
+    "property": "16% share of a garden (25 m²)",
+    "location": "Stari Grad, island of Hvar",
+    "transaction_type": "inheritance",
+    "date": "",
+    "value": "156.25 EUR",
+    "detail": "Inherited share, first listed in the declaration filed in early 2023 (Index.hr) and again in January 2024 (tportal, Dnevnik Nova TV). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.index.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-stednja-mu-povecana-za-80000-eura/2437239.aspx",
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  }
+]

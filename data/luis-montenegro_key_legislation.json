@@ -1,0 +1,134 @@
+[
+  {
+    "id": "luis-montenegro-leg-oe2025",
+    "law_name": "State Budget for 2025 (Lei do Orçamento do Estado para 2025)",
+    "year": 2024,
+    "area": "Public finances / taxation",
+    "description": "First budget of the Montenegro government, approved in the final vote on 29 November 2024 with PSD and CDS-PP in favour and the PS abstaining; Chega, IL, PAN, Livre, PCP and BE voted against. It carried the reformulated IRS Jovem (an income-tax exemption for workers up to 35 for up to 10 years, in decreasing bands, capped at 55 times the IAS index) and a one-point cut in corporate tax to 20%.",
+    "significance": "Passed by a minority government thanks to the abstention of the main opposition party, after negotiations that changed both flagship tax measures.",
+    "source_url": [
+      "https://www.rtp.pt/noticias/economia/orcamento-do-estado-para-2025-aprovado-em-votacao-final-global-com-abstencao-do-ps_e1618224",
+      "https://observador.pt/especiais/simulacoes-apos-avancos-e-recuos-quanto-vao-afinal-os-jovens-poupar-no-irs-em-2025/",
+      "https://www.sabado.pt/dinheiro/detalhe/pr-promulga-diploma-que-reduz-taxas-gerais-do-irc"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-imt-jovem",
+    "law_name": "Government decree exempting young buyers' first homes from IMT, stamp duty and fees, and public guarantee for their mortgages",
+    "year": 2024,
+    "area": "Housing / taxation",
+    "description": "Decree-law promulgated by the President in July 2024 and applied from 1 August 2024: buyers up to 35 pay no property transfer tax (IMT), stamp duty or registration fees on a first permanent home up to €316,772, with partial exemption up to €633,453; a separate scheme gives a state guarantee of up to 15% of the purchase price. The 2027 budget proposal raises the full-exemption ceiling to about €338,000.",
+    "significance": "One of the government's main housing measures for young people.",
+    "source_url": [
+      "https://www.rtp.pt/noticias/economia/pr-promulga-diploma-do-governo-que-isenta-de-imt-e-is-compra-de-1a-casa-por-jovens_n1581909",
+      "https://observador.pt/2024/08/01/jovens-com-isencao-de-imt-e-imposto-de-selo-na-compra-da-primeira-casa-a-partir-desta-quinta-feira/",
+      "https://cnnportugal.iol.pt/oe2027/orcamento-do-estado-2027/oe2027-isencao-do-imt-jovem-na-compra-de-casa-sobe-2-3-para-338-mil-euros/20261008/6ac7a12ad34e9a786e75b666"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-teachers-service-time",
+    "law_name": "Recovery of teachers' frozen service time (6 years, 6 months and 23 days)",
+    "year": 2024,
+    "area": "Education / public sector pay",
+    "description": "Regime agreed with several teachers' unions in May 2024 and enacted by the government, returning the frozen career time in four 25% tranches, the first in September 2024 and the last on 1 July 2027.",
+    "significance": "Addresses the long-running dispute with teachers over frozen career time; the final tranche is funded in the 2027 budget proposal.",
+    "source_url": [
+      "https://observador.pt/especiais/governo-cede-e-professores-recuperam-metade-do-tempo-de-servico-em-dois-anos-sindicatos-contra-calendario-ate-2028/",
+      "https://www.dn.pt/economia/oe2027-fim-do-travo-oramental-progresso-na-carreira-dos-professores"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-end-manifestacao-interesse",
+    "law_name": "Repeal of the 'manifestação de interesse' residence route (Migration Action Plan)",
+    "year": 2024,
+    "area": "Immigration",
+    "description": "Announced on 3 June 2024 as part of the government's migration plan: foreigners can no longer enter Portugal (for example on a tourist visa) and then apply for a residence permit through an expression of interest; they must apply from abroad with a work or other visa.",
+    "significance": "First step in tightening immigration policy, presented by Montenegro as a response to 'excessive abuse' of the system.",
+    "source_url": [
+      "https://www.euronews.com/my-europe/2024/06/04/portugal-toughens-migration-rules-ahead-of-upcoming-eu-elections"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-lisbon-airport",
+    "law_name": "Council of Ministers decision on the location of the new Lisbon airport (Aeroporto Luís de Camões, Alcochete)",
+    "year": 2024,
+    "area": "Infrastructure / transport",
+    "description": "On 14 May 2024 the government chose the Alcochete shooting range (Campo de Tiro de Alcochete) for the new Lisbon airport, following the independent technical commission, to replace Humberto Delgado airport entirely; in February 2026 it imposed preventive land-use measures over about 71,000 hectares around the site.",
+    "significance": "Montenegro presented it as resolving an 'impasse of decades'; construction by the concessionaire ANA has not yet started.",
+    "source_url": [
+      "https://www.rtp.pt/noticias/economia/alcochete-e-escolha-do-governo-para-novo-aeroporto_n1571396",
+      "https://www.rtp.pt/noticias/politica/novo-aeroporto-montenegro-sublinha-resolucao-de-impasse-de-decadas-sem-aventureirismos_n1571786",
+      "https://eco.sapo.pt/2026/02/21/novo-aeroporto-limita-construcao-em-71-mil-hectares-e-sete-concelhos/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-irc-reduction-2025",
+    "law_name": "Amendment to the Corporate Income Tax Code reducing the general IRC rate to 17% by 2028",
+    "year": 2025,
+    "area": "Taxation",
+    "description": "Government bill cutting the general corporate tax rate by one point a year, from 20% to 19% in 2026, 18% in 2027 and 17% in 2028, and the rate on the first €50,000 of profit of small and mid-sized companies from 16% to 15%. Approved in principle on 19 September 2025 and in the final vote on 17 October 2025 with PSD, CDS-PP, Chega, IL, PAN and JPP; promulgated on 3 November 2025.",
+    "significance": "Delivers part of the promised cut to 15%; passed with Chega's votes, at an estimated cost of about €300 million a year per point.",
+    "source_url": [
+      "https://eco.sapo.pt/2025/09/19/descida-do-irc-proposta-pelo-governo-aprovada-no-parlamento-com-a-ajuda-do-chega/",
+      "https://www.sabado.pt/dinheiro/detalhe/pr-promulga-diploma-que-reduz-taxas-gerais-do-irc"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-foreigners-law-2025",
+    "law_name": "Amendment to the Foreigners Act (Lei n.º 23/2007, regime of entry, stay, exit and removal of foreigners)",
+    "year": 2025,
+    "area": "Immigration",
+    "description": "Approved by the first Council of Ministers of the XXV Government and passed by parliament with Chega's votes; after the Constitutional Court found five provisions of the first version unconstitutional, a revised text approved on 30 September 2025 by about 70% of MPs was promulgated on 16 October 2025. Among other changes, it lengthens the time an immigrant must wait before applying for family reunification.",
+    "significance": "Central plank of the government's policy of reducing immigration flows.",
+    "source_url": [
+      "https://www.dn.pt/pol%C3%ADtica/marcelo-promulga-nova-lei-dos-estrangeiros-que-limita-fluxos-de-imigrantes"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-oe2026",
+    "law_name": "State Budget for 2026 (Lei do Orçamento do Estado para 2026)",
+    "year": 2025,
+    "area": "Public finances",
+    "description": "Approved in the final vote on 27 November 2025 with PSD and CDS-PP in favour and the PS abstaining; Chega, IL, Livre, PCP, BE, PAN and JPP voted against. PS leader José Luís Carneiro said the abstention avoided a new political crisis.",
+    "significance": "Second budget passed by the AD minority with PS abstention.",
+    "source_url": [
+      "https://eco.sapo.pt/2025/11/27/e-oficial-orcamento-do-estado-para-2026-aprovado-com-abstencao-exigente-do-ps/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-nationality-law-2026",
+    "law_name": "Amendment to the Nationality Law (Lei da Nacionalidade)",
+    "year": 2026,
+    "area": "Citizenship / immigration",
+    "description": "Raises the legal-residence requirement for naturalisation from five to at least seven years for citizens of Portuguese-speaking countries and to at least ten years for other foreigners; pending applications keep the previous rules. After the Constitutional Court found parts of the first decree unconstitutional, a second version was approved on 1 April 2026 by PSD, Chega, IL and CDS-PP, with PS, Livre, PCP, BE and PAN against and JPP abstaining, promulgated by President António José Seguro on 3 May 2026 with criticism of the lack of broader consensus, and in force from 19 May 2026.",
+    "significance": "Second major immigration-related law of the XXV Government passed with Chega's votes; a separate decree creating loss of nationality as an accessory criminal penalty was approved on 13 April 2026 (RTP).",
+    "source_url": [
+      "https://www.rtp.pt/noticias/politica/presidente-promulga-decreto-que-altera-lei-da-nacionalidade-mas-desejava-maior-consenso_n1738711",
+      "https://observador.pt/2026/05/03/seguro-promulga-lei-da-nacionalidade-mas-critica-nao-ter-tido-maior-consenso/",
+      "https://observador.pt/2026/05/18/nova-lei-da-nacionalidade-entra-em-vigor-esta-terca-feira/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-minimum-wage-2026",
+    "law_name": "Decree-law raising the guaranteed minimum monthly wage to €920 from 1 January 2026",
+    "year": 2025,
+    "area": "Labour",
+    "description": "Published on 29 December 2025 in execution of the 2025–2028 agreement signed in October 2024 with the employers' confederations and the UGT: a 5.7% rise from €870.",
+    "significance": "Step towards the programme target of €1,100 in 2029.",
+    "source_url": [
+      "https://rr.pt/noticia/economia/2025/12/29/agora-e-oficial-subida-do-salario-minimo-para-920-euros-em-2026-publicada-em-diario-da-republica/453287/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-leg-tap-privatisation",
+    "law_name": "Privatisation of TAP Air Portugal: sale of 49.9% to Lufthansa",
+    "year": 2026,
+    "area": "State enterprises / transport",
+    "description": "On 14 October 2026 the Council of Ministers approved the privatisation of 49.9% of TAP (44.9% to an industrial partner plus a 5% offer to employees at the same price) to Lufthansa, for €1,201 million including the employees' tranche and the sale of two subsidiaries, over Air France-KLM's €1,038 million. Lufthansa also proposed a second phase for the remaining 50.1%, which Montenegro wants to complete by 2028.",
+    "significance": "Lufthansa becomes TAP's industrial partner, with commitments to enlarge the fleet; a second phase for full privatisation would need parliamentary support from PS or Chega.",
+    "source_url": [
+      "https://eco.sapo.pt/2026/10/14/lufthansa-paga-1-201-milhoes-e-vence-privatizacao-da-tap/",
+      "https://eco.sapo.pt/2026/10/14/montenegro-quer-avancar-para-venda-de-100-da-tap-ate-2028-com-troca-de-participacoes-com-lufthansa/"
+    ]
+  }
+]

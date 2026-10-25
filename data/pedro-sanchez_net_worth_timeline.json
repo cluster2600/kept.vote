@@ -1,0 +1,33 @@
+[
+  {
+    "id": "pedro-sanchez-nw-2018",
+    "year": 2018,
+    "declared_net_worth": "c. 150,964 EUR (assets 342,990.83 EUR minus liabilities 192,026.83 EUR)",
+    "note": "BOE resolution of 26 September 2018 (BOE no. 236, 29 September 2018), declaration on appointment as President of the Government: real estate 180,794.88; bank deposits 21,434.92; shares 5,667.20; other assets and rights 135,093.83; liabilities 192,026.83 (EUR). The BOE publishes category totals only; the net figure is computed here from those totals and is not stated by the BOE.",
+    "status": "declared",
+    "source_url": [
+      "https://www.boe.es/boe/dias/2018/09/29/pdfs/BOE-A-2018-13218.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-nw-2020",
+    "year": 2020,
+    "declared_net_worth": "c. 211,650 EUR (assets 372,979.36 EUR minus liabilities 161,329.35 EUR)",
+    "note": "BOE resolution of 24 March 2021 (BOE no. 73, 26 March 2021), covering officials who took or left office in 2020 (his re-appointment in January 2020): real estate 180,794.88; bank deposits 73,159.87; shares 5,550.40; life insurance and pension plans 85,865; other assets 27,609.21; liabilities 161,329.35 (EUR). Net figure computed from the published totals.",
+    "status": "declared",
+    "source_url": [
+      "https://www.boe.es/boe/dias/2021/03/26/pdfs/BOE-A-2021-4751.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-nw-2023",
+    "year": 2023,
+    "declared_net_worth": "c. 324,553 EUR (assets 448,125.85 EUR minus liabilities 123,572.63 EUR)",
+    "note": "BOE resolution of 25 March 2024 (BOE no. 79, 30 March 2024), covering officials who took or left office in 2023 (his re-appointment in November 2023): real estate 180,794.88; bank deposits 20,194.10; listed securities and bonds 81,449.20; unlisted shares 5,104; life insurance and pension plans 105,378.10; other assets 55,205.57; liabilities 123,572.63 (EUR). Net figure computed from the published totals. Under Ley 3/2015 the BOE publishes declarations only on taking or leaving office, so there are no annual updates for 2024–2026; annual tax returns go to a non-public register.",
+    "status": "declared",
+    "source_url": [
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf",
+      "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3444"
+    ]
+  }
+]

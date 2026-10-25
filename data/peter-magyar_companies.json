@@ -1,0 +1,90 @@
+[
+  {
+    "id": "peter-magyar-co-llm",
+    "entity": "LLM Zrt. (LLM Tanácsadó és Befektetési Zrt.)",
+    "role": "shareholder (100%); chief executive until 2026",
+    "ownership_stake": "100%",
+    "period": "by July 2024 – present",
+    "status": "current",
+    "detail": "Declared as a 100% shareholding in his European Parliament declaration of 23 July 2024 and in his Hungarian declarations, where he is listed as shareholder and unpaid chief executive (July 2025, January 2026) and, from May 2026, as shareholder only. According to Telex, the consultancy had 36.7 million HUF of revenue and 16.7 million HUF of after-tax profit in 2024, which the Tisza Party said came from book publishing, and he handed over the chief-executive post at the end of April 2026.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat",
+      "https://telex.hu/belfold/2026/06/08/magyar-peter-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-co-mbh",
+    "entity": "MBH Bank Nyrt.",
+    "role": "supervisory board member",
+    "ownership_stake": null,
+    "period": "2022-09 – 2024-02",
+    "status": "historical",
+    "detail": "Paid 1,500,000 HUF a month according to his European Parliament declaration; relinquished in February 2024.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-co-magyar-kozut",
+    "entity": "Magyar Közút Nonprofit Zrt.",
+    "role": "board member",
+    "ownership_stake": null,
+    "period": "2022-08 – 2024-02",
+    "status": "historical",
+    "detail": "State road operator; annual board fees declared in his European Parliament declaration.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-co-volanbusz",
+    "entity": "Volánbusz Zrt.",
+    "role": "board member",
+    "ownership_stake": null,
+    "period": "2023-04 – 2023-12",
+    "status": "historical",
+    "detail": "State bus company; 1,100,000 HUF a month according to his European Parliament declaration.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-co-diakhitel",
+    "entity": "Diákhitel Központ Zrt.",
+    "role": "chief executive; board member",
+    "ownership_stake": null,
+    "period": "2019-06 – 2022-07",
+    "status": "historical",
+    "detail": "State student-loan company: chief executive June 2019 – February 2022, board member January 2021 – July 2022.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-co-hiventures",
+    "entity": "Hiventures Zrt.",
+    "role": "investment committee member",
+    "ownership_stake": null,
+    "period": "2021 – 2024-02",
+    "status": "historical",
+    "detail": "State venture-capital fund manager; 400,000 HUF a month according to his European Parliament declaration.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-co-hodler",
+    "entity": "Hodler Alapkezelő Zrt.",
+    "role": "legal director and investment adviser",
+    "ownership_stake": null,
+    "period": "2022-04 – 2024-03",
+    "status": "historical",
+    "detail": "Fund manager; 3,000,000 HUF a month according to his European Parliament declaration.",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf"
+    ]
+  }
+]

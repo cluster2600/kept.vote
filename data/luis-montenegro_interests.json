@@ -1,0 +1,52 @@
+[
+  {
+    "id": "luis-montenegro-int-psd-salary",
+    "item": "Salaried president of the PSD",
+    "type": "party office",
+    "period": "since 2022",
+    "value": "48,456.52 EUR (2022)",
+    "detail": "The PSD pays its leader a monthly salary; amount declared for 2022 (Observador).",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-int-cada",
+    "item": "Member of the Comissão de Acesso aos Documentos Administrativos (CADA)",
+    "type": "public body membership",
+    "period": "2011–2017",
+    "value": "",
+    "detail": "Declared in 2011; cessation declaration filed in March 2017 (Observador).",
+    "status": "declared",
+    "source_url": [
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-int-spinumviva-clients",
+    "item": "Spinumviva client list (register of interests)",
+    "type": "register of interests",
+    "period": "2021–2025",
+    "value": "13 clients, as stated by his office",
+    "detail": "Following the Constitutional Court's final refusal of his appeal on 12 March 2026, the client list must be included in his register of interests; his office published it on 26 March 2026, saying it had been given to the EpT on 29 April 2025 (see companies and polemics). Access to the services provided to each client remains suspended pending further appeals.",
+    "status": "declared",
+    "source_url": [
+      "https://www.rtp.pt/noticias/lusa/montenegro-diz-que-divulgacao-dos-clientes-da-spinumviva-segue-termos-definidos-pela-entidade-para-a-transparencia_n1733920",
+      "https://www.rtp.pt/noticias/pais/spinumviva-tribunal-constitucional-recusa-em-definitivo-analisar-recurso-de-montenegro_n1725973"
+    ]
+  },
+  {
+    "id": "luis-montenegro-int-declarations-status",
+    "item": "Status of his declarations at the Entidade para a Transparência",
+    "type": "declaration status",
+    "period": "2025–present",
+    "value": "",
+    "detail": "All his declarations (as Prime Minister, PSD president, Councillor of State and MP) were locked on the EpT public platform after his opposition requests; RTP also reported that the interests declaration for his current term had not yet been filed at the time. Portuguese office-holders file a single declaration of income, assets and interests (declaração única) with the Entidade para a Transparência (EpT) at the Constitutional Court; until 2024 declarations were filed with the Court itself. As of October 2026 Montenegro's declarations are locked on the EpT platform because of his opposition requests, and the platform is not readable by the harvest, so figures are taken from Observador's review of his 17 declarations (May 2025).",
+    "status": "declared",
+    "source_url": [
+      "https://www.rtp.pt/noticias/economia/montenegro-opoe-se-a-consulta-publica-de-declaracao-unica-de-rendimentos_n1666027",
+      "https://www.tribunalconstitucional.pt/tc/ept/"
+    ]
+  }
+]

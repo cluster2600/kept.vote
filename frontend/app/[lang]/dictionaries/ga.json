@@ -25,6 +25,9 @@
     },
     "politiciansHeading": "Polaiteoirí",
     "countryFilterLabel": "Scag de réir tíre",
+    "mapLabel": "Léarscáil: roghnaigh tír",
+    "mapCovered": "Clúdaithe",
+    "mapNotCovered": "Gan clúdach fós",
     "allCountries": "Gach tír",
     "otherCountry": "Eile",
     "politicianCount": {
@@ -46,8 +49,8 @@
     "viewDossier": "Féach ar an gcomhad",
     "noneInCountry": "Níl aon pholaiteoir á rianú don tír seo fós.",
     "emptyState": "Níl aon pholaiteoir ann fós. Rith an script síolaithe chun sonraí taispeána a lódáil:",
-    "connectionErrorTitle": "Theip ar an gceangal leis an API cúlchórais.",
-    "connectionErrorBody": "Cinntigh go bhfuil an cúlchóras FastAPI ag rith agus go bhfuil {envVar} dírithe air."
+    "connectionErrorTitle": "Níorbh fhéidir na sonraí a lódáil.",
+    "connectionErrorBody": "Níor fhreagair an bunachar sonraí. Bain triail eile as i gceann tamaill."
   },
   "office": {
     "head_of_state": "Ceann stáit",
@@ -57,6 +60,7 @@
     "mayor": "Méara",
     "regional_executive": "Feidhmeannach réigiúnach",
     "party_leader": "Ceannaire páirtí",
+    "judge": "Breitheamh",
     "other": "Oifig eile"
   },
   "notFound": {
@@ -68,6 +72,7 @@
     "back": "← Na polaiteoirí go léir",
     "trackRecord": "Taifead comhlíonta gealltanas",
     "contentLanguage": "Teanga na próifíle: {language}",
+    "photoCredit": "Grianghraf: {author}, {license}, trí {source}",
     "tabsLabel": "Codanna den phróifíl",
     "tabs": {
       "promises": "Gealltanais",

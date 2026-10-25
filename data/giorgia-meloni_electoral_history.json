@@ -1,0 +1,123 @@
+[
+  {
+    "id": "giorgia-meloni-1998-provincia-roma",
+    "election": "1998 Province of Rome election",
+    "date": "1998",
+    "role_sought": "Councillor of the Province of Rome (Alleanza Nazionale)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Ran for Alleanza Nazionale after winning the party's primary for Rome's XI municipio; served as provincial councillor until 2002.",
+    "source_url": ["https://www.comune.roma.it/web-resources/cms/documents/Meloni_2016_cvp.pdf", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2005-lazio-regional",
+    "election": "2005 Lazio regional election",
+    "date": "2005-04",
+    "role_sought": "Regional councillor (regional list 'Per il Lazio')",
+    "result": "Not elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Candidate on the regional list of centre-right presidential candidate Francesco Storace, whose defeat meant the list's candidates did not win seats.",
+    "source_url": ["https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2006-chamber",
+    "election": "2006 Italian general election (Chamber of Deputies)",
+    "date": "2006-04",
+    "role_sought": "Deputy, Lazio 1 constituency (Alleanza Nazionale list)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected at 29 from eighth place on AN's closed list; subsequently elected Vice-President of the Chamber (May 2006).",
+    "source_url": ["https://storia.camera.it/deputato/giorgia-meloni-19770115", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2008-chamber",
+    "election": "2008 Italian general election (Chamber of Deputies)",
+    "date": "2008-04",
+    "role_sought": "Deputy, Lazio 2 constituency (Il Popolo della Libertà list)",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Re-elected on the PdL closed list; appointed Minister for Youth in the fourth Berlusconi government on 8 May 2008.",
+    "source_url": ["https://storia.camera.it/deputato/giorgia-meloni-19770115", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2013-chamber",
+    "election": "2013 Italian general election (Chamber of Deputies)",
+    "date": "2013-02",
+    "role_sought": "Deputy, Lombardia 3 constituency (Fratelli d'Italia list)",
+    "result": "Re-elected",
+    "vote_share": "FdI nationally: 1.96% (Chamber)",
+    "opponent": "",
+    "detail": "First election for the newly founded Fratelli d'Italia, part of the centre-right coalition; she became leader of the FdI group in the Chamber in the XVII legislature.",
+    "source_url": ["https://elezionistorico.interno.gov.it/index.php?tpel=C&dtel=24/02/2013&tpa=I&tpe=I&lev0=0&levsut0=0&lev1=5&levsut1=1&ne1=5&es0=S&es1=S&ms=S&ne2=0", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2014-european",
+    "election": "2014 European Parliament election in Italy",
+    "date": "2014-05-25",
+    "role_sought": "Member of the European Parliament (FdI list leader in all constituencies)",
+    "result": "Not elected (party below threshold)",
+    "vote_share": "FdI: 3.67% (threshold 4%); 348,700 personal preference votes",
+    "opponent": "",
+    "detail": "Fratelli d'Italia fell short of the 4% threshold and won no seats despite her preference votes.",
+    "source_url": ["https://www.corriere.it/foto-gallery/politica/speciali/2014/elezioni-europee/14_maggio_26/europee-soru-piu-votato-classifica-preferenze-74fe85e4-e485-11e3-8e3e-8f5de4ddd12f.shtml", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2016-rome-mayor",
+    "election": "2016 Rome municipal election",
+    "date": "2016-06-05",
+    "role_sought": "Mayor of Rome (FdI, Noi con Salvini and civic lists)",
+    "result": "Lost in first round (third place); elected to the city council",
+    "vote_share": "20.62% (first round)",
+    "opponent": "Virginia Raggi (M5S), Roberto Giachetti (centre-left)",
+    "detail": "Finished third behind Raggi and Giachetti and did not reach the run-off; FdI's own list took 12.27%. She took a seat on Rome's city council.",
+    "source_url": ["https://www.ilfattoquotidiano.it/2016/06/06/elezioni-amministrative-2016-risultati-roma-raggi-36-al-ballottaggio-con-giachetti-pd-non-sfonda-bologna-e-torino/2799129/", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2018-chamber",
+    "election": "2018 Italian general election (Chamber of Deputies)",
+    "date": "2018-03-04",
+    "role_sought": "Deputy, single-member constituency Lazio 2 – 07 (Latina), centre-right coalition",
+    "result": "Elected",
+    "vote_share": "41.00%",
+    "opponent": "Leone Martellucci (M5S, 36.50%); Federico Fauttilli (centre-left, 15.34%)",
+    "detail": "Won the Latina single-member seat; FdI nationally rose to 4.35%.",
+    "source_url": ["https://elezionistorico.interno.gov.it/index.php?tpel=C&dtel=04/03/2018&tpa=I&tpe=L&lev0=0&levsut0=0&lev1=16&levsut1=1&lev2=2&levsut2=2&levsut3=3&ne1=16&ne2=162&es0=S&es1=S&es2=S&es3=S&ms=S&ne3=1624&lev3=4", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-2019-european",
+    "election": "2019 European Parliament election in Italy",
+    "date": "2019-05-26",
+    "role_sought": "Member of the European Parliament (FdI list leader in all constituencies)",
+    "result": "Elected; declined the seat",
+    "vote_share": "FdI: about 6.5%; 490,677 personal preference votes (reported)",
+    "opponent": "",
+    "detail": "Elected in every constituency but renounced the European seat to keep her seat in the Chamber of Deputies.",
+    "source_url": ["https://it.wikipedia.org/wiki/Giorgia_Meloni", "https://it.wikipedia.org/wiki/Elezioni_europee_del_2019_in_Italia"]
+  },
+  {
+    "id": "giorgia-meloni-2022-chamber",
+    "election": "2022 Italian general election (Chamber of Deputies)",
+    "date": "2022-09-25",
+    "role_sought": "Deputy, single-member constituency Abruzzo – 03 (L'Aquila), centre-right coalition; FdI leader and coalition's de facto prime-ministerial candidate",
+    "result": "Elected; FdI first party nationally",
+    "vote_share": "51.49% in the constituency; FdI about 26% nationally",
+    "opponent": "Rita Innocenzi (centre-left, 20.94%); Attilio D'Andrea (M5S, 16.27%)",
+    "detail": "FdI became the largest party in both chambers and the centre-right coalition won an absolute majority, leading to her appointment as Prime Minister on 22 October 2022.",
+    "source_url": ["https://www.ansa.it/abruzzo/notizie/2022/09/26/in-abruzzo-fdi-fa-il-pieno-con-6-seggi-meloni-a-51_684ef960-44bf-4349-b13c-cd0aeb842d40.html", "https://www.camera.it/leg19/29?tipoAttivita=&tipoVisAtt=&tipoPersona=&shadow_deputato=302103&idLegislatura=19"]
+  },
+  {
+    "id": "giorgia-meloni-2024-european",
+    "election": "2024 European Parliament election in Italy",
+    "date": "2024-06-09",
+    "role_sought": "Member of the European Parliament (FdI list leader in all constituencies)",
+    "result": "Elected; declined the seat",
+    "vote_share": "FdI: about 28.8%, first party",
+    "opponent": "",
+    "detail": "As sitting Prime Minister she announced on 28 April 2024 that she would head FdI's lists and renounce the seat if elected, the office of MEP being incompatible with that of Prime Minister; FdI came first nationally.",
+    "source_url": ["https://www.ilpost.it/2024/04/28/giorgia-meloni-candidata-elezioni-europee/", "https://www.lemonde.fr/en/european-elections/article/2024/06/10/eu-election-results-giorgia-meloni-consolidates-her-position-both-in-italy-and-in-europe_6674398_297.html"]
+  }
+]
