@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filtra per paese",
-    "mapLabel": "Mappa dell’Europa: scegli un Paese",
+    "mapLabel": "Mappa: scegli un Paese",
     "mapCovered": "Coperto",
     "mapNotCovered": "Non ancora coperto",
     "allCountries": "Tutti i paesi",
@@ -56,6 +56,7 @@
     "mayor": "Sindaco",
     "regional_executive": "Esecutivo regionale",
     "party_leader": "Leader di partito",
+    "judge": "Giudice",
     "other": "Altra carica"
   },
   "notFound": {

@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Polaiteoirí",
     "countryFilterLabel": "Scag de réir tíre",
-    "mapLabel": "Léarscáil na hEorpa: roghnaigh tír",
+    "mapLabel": "Léarscáil: roghnaigh tír",
     "mapCovered": "Clúdaithe",
     "mapNotCovered": "Gan clúdach fós",
     "allCountries": "Gach tír",
@@ -60,6 +60,7 @@
     "mayor": "Méara",
     "regional_executive": "Feidhmeannach réigiúnach",
     "party_leader": "Ceannaire páirtí",
+    "judge": "Breitheamh",
     "other": "Oifig eile"
   },
   "notFound": {

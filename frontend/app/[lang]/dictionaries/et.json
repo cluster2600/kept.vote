@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Poliitikud",
     "countryFilterLabel": "Filtreeri riigi järgi",
-    "mapLabel": "Euroopa kaart: valige riik",
+    "mapLabel": "Kaart: valige riik",
     "mapCovered": "Kaetud",
     "mapNotCovered": "Pole veel kaetud",
     "allCountries": "Kõik riigid",
@@ -54,6 +54,7 @@
     "mayor": "Linnapea",
     "regional_executive": "Piirkondlik juht",
     "party_leader": "Erakonna juht",
+    "judge": "Kohtunik",
     "other": "Muu ametikoht"
   },
   "notFound": {

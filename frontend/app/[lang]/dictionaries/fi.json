@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Poliitikot",
     "countryFilterLabel": "Suodata maan mukaan",
-    "mapLabel": "Euroopan kartta: valitse maa",
+    "mapLabel": "Kartta: valitse maa",
     "mapCovered": "Mukana",
     "mapNotCovered": "Ei vielä mukana",
     "allCountries": "Kaikki maat",
@@ -54,6 +54,7 @@
     "mayor": "Pormestari",
     "regional_executive": "Aluejohtaja",
     "party_leader": "Puoluejohtaja",
+    "judge": "Tuomari",
     "other": "Muu tehtävä"
   },
   "notFound": {

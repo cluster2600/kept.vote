@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Politici",
     "countryFilterLabel": "Filteren op land",
-    "mapLabel": "Kaart van Europa: kies een land",
+    "mapLabel": "Kaart: kies een land",
     "mapCovered": "Opgenomen",
     "mapNotCovered": "Nog niet opgenomen",
     "allCountries": "Alle landen",
@@ -54,6 +54,7 @@
     "mayor": "Burgemeester",
     "regional_executive": "Regionaal bestuurder",
     "party_leader": "Partijleider",
+    "judge": "Rechter",
     "other": "Ander ambt"
   },
   "notFound": {

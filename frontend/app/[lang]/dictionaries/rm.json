@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Politichers",
     "countryFilterLabel": "Filtrar tenor pajais",
-    "mapLabel": "Charta da l’Europa: tschernai in pajais",
+    "mapLabel": "Charta: tschernai in pajais",
     "mapCovered": "Cuvrì",
     "mapNotCovered": "Anc betg cuvrì",
     "allCountries": "Tut ils pajais",
@@ -54,6 +54,7 @@
     "mayor": "President communal",
     "regional_executive": "Executiv regiunal",
     "party_leader": "President da partida",
+    "judge": "Derschader",
     "other": "Autra funcziun"
   },
   "notFound": {

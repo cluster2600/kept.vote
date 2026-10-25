@@ -1,0 +1,113 @@
+[
+  {
+    "id": "christian-stocker-wh-lawyer",
+    "role": "Lawyer (Rechtsanwalt) with his own law firm",
+    "organization": "Self-employed, Wiener Neustadt",
+    "start_date": "1994",
+    "end_date": "2025-03",
+    "description": "After his court traineeship (Gerichtsjahr) at the district and regional courts in Wiener Neustadt, he has been a lawyer since 1994, with his own firm in Wiener Neustadt (ORF, 2022); his parliamentary biography lists 'Rechtsanwalt seit 1994'. Under § 2 of the Incompatibility and Transparency Act, members of the federal government may not pursue a profession for gain while in office, which applies to him since he became Chancellor in March 2025.",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.parlament.gv.at/person/5439",
+      "https://orf.at/stories/3286638/",
+      "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000756",
+      "https://de.wikipedia.org/wiki/Christian_Stocker"
+    ]
+  },
+  {
+    "id": "christian-stocker-wh-wn-council",
+    "role": "Member of the municipal council (Gemeinderat)",
+    "organization": "City of Wiener Neustadt",
+    "start_date": "1990",
+    "end_date": "2025-02",
+    "description": "Elected to the municipal council of his home town in 1990; ÖVP group leader (Klubobmann) 1992–1995 and chairman of the audit committee 1995–2000. Re-elected in January 2025, he gave up his seat after the election, shortly before becoming Chancellor.",
+    "category": "local_government",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Christian_Stocker",
+      "https://www.wiener-neustadt.at/index.php/de/stadt/aktuelles-detail/grw25erg"
+    ]
+  },
+  {
+    "id": "christian-stocker-wh-wn-vice-mayor",
+    "role": "Vice-mayor and city councillor (Vizebürgermeister, Stadtrat)",
+    "organization": "City of Wiener Neustadt",
+    "start_date": "2000",
+    "end_date": "2025-02",
+    "description": "Second vice-mayor from 2000, when the city was still governed by the SPÖ, and first vice-mayor from 2015, after the ÖVP took over the city government and he left the mayoralty to Klaus Schneeberger. As city councillor he was responsible for building (2000–2010), schools (2010–2015), finance and education (2015–2020) and finance and property management (from 2020).",
+    "category": "local_government",
+    "source_url": [
+      "https://www.parlament.gv.at/person/5439",
+      "https://noe.orf.at/stories/3299144",
+      "https://de.wikipedia.org/wiki/Christian_Stocker"
+    ]
+  },
+  {
+    "id": "christian-stocker-wh-wn-party-chair",
+    "role": "Chairman of the ÖVP Wiener Neustadt city party (Stadtparteiobmann)",
+    "organization": "Österreichische Volkspartei (ÖVP), Wiener Neustadt",
+    "start_date": "2000",
+    "end_date": null,
+    "description": "City party chairman since 2000 according to his parliamentary biography; re-elected in June 2021. After the January 2025 municipal election he remained chairman, with Matthias Zauner as executive chairman (German Wikipedia).",
+    "category": "party",
+    "source_url": [
+      "https://www.parlament.gv.at/person/5439",
+      "https://noe.orf.at/stories/3299144",
+      "https://de.wikipedia.org/wiki/Christian_Stocker"
+    ]
+  },
+  {
+    "id": "christian-stocker-wh-national-council",
+    "role": "Member of the National Council (Abgeordneter zum Nationalrat), ÖVP",
+    "organization": "Parliament of Austria – National Council (XXVI–XXVIII legislative periods), constituency 3E Lower Austria South",
+    "start_date": "2019-06-12",
+    "end_date": "2025-03-06",
+    "description": "Sworn in on 12 June 2019 as successor to Johann Rädler, shortly before the early end of the XXVI legislative period, and re-elected in 2019 and 2024. He was the ÖVP group's spokesman for internal affairs and security from December 2021, a member of the ÖVP corruption inquiry committee, where ORF described him as one of the front-line defenders of his party, and chairman of the Interior Committee from March 2022. His mandate ended on 6 March 2025 after he became Chancellor.",
+    "category": "legislature",
+    "source_url": [
+      "https://www.parlament.gv.at/person/5439",
+      "https://orf.at/stories/3286638/",
+      "https://de.wikipedia.org/wiki/Christian_Stocker"
+    ]
+  },
+  {
+    "id": "christian-stocker-wh-secretary-general",
+    "role": "Secretary-general of the ÖVP (Generalsekretär)",
+    "organization": "Österreichische Volkspartei (ÖVP)",
+    "start_date": "2022-09-23",
+    "end_date": "2025-01-05",
+    "description": "Appointed by party leader and Chancellor Karl Nehammer, succeeding Laura Sachslehner; he was secretary-general during the 2024 European Parliament and National Council election campaigns. Nehammer later called the appointment one of his best decisions, describing Stocker as 'shield and sword of the party' (ORF). Succeeded by Alexander Pröll when he became acting party leader.",
+    "category": "party",
+    "source_url": [
+      "https://orf.at/stories/3286638/",
+      "https://orf.at/stories/3389018/",
+      "https://www.profil.at/oesterreich/neuer-oevp-chef-stocker-fuer-koalition-mit-kickl-offen/402995134"
+    ]
+  },
+  {
+    "id": "christian-stocker-wh-party-chairman",
+    "role": "Federal chairman of the ÖVP (Bundesparteiobmann)",
+    "organization": "Österreichische Volkspartei (ÖVP)",
+    "start_date": "2025-01-05",
+    "end_date": null,
+    "description": "Appointed acting chairman by the party executive on 5 January 2025, after Karl Nehammer announced his resignation, and elected chairman at the 41st party congress in Wiener Neustadt on 29 March 2025 with 98.42% of the votes.",
+    "category": "party",
+    "source_url": [
+      "https://www.profil.at/oesterreich/neuer-oevp-chef-stocker-fuer-koalition-mit-kickl-offen/402995134",
+      "https://orf.at/stories/3389018/"
+    ]
+  },
+  {
+    "id": "christian-stocker-wh-chancellor",
+    "role": "Federal Chancellor (Bundeskanzler)",
+    "organization": "Federal Government of the Republic of Austria",
+    "start_date": "2025-03-03",
+    "end_date": null,
+    "description": "Sworn in by President Alexander Van der Bellen on 3 March 2025 at the head of an ÖVP–SPÖ–NEOS coalition with Andreas Babler (SPÖ) as Vice-Chancellor and Beate Meinl-Reisinger (NEOS) as Foreign Minister, after the longest government formation of the Second Republic (Parliament). His government presented itself to the National Council on 7 March 2025.",
+    "category": "executive",
+    "source_url": [
+      "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/bundeskanzler-christian-stocker.html",
+      "https://www.parlament.gv.at/person/5439",
+      "https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0696"
+    ]
+  }
+]

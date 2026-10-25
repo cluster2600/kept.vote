@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Političari",
     "countryFilterLabel": "Filtriranje po državi",
-    "mapLabel": "Karta Europe: odaberite državu",
+    "mapLabel": "Karta: odaberite državu",
     "mapCovered": "Obuhvaćeno",
     "mapNotCovered": "Još nije obuhvaćeno",
     "allCountries": "Sve države",
@@ -56,6 +56,7 @@
     "mayor": "Gradonačelnik",
     "regional_executive": "Regionalna izvršna vlast",
     "party_leader": "Čelnik stranke",
+    "judge": "Sudac",
     "other": "Druga dužnost"
   },
   "notFound": {

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mohammad-mustafa-edu-baghdad",
+    "institution": "University of Baghdad",
+    "qualification": "Bachelor's degree",
+    "field": "Electrical engineering",
+    "years": "until 1976",
+    "detail": "Graduated in electrical engineering in 1976, according to WAFA. His family had taken refuge in Kuwait when he was a child, according to Wikipedia.",
+    "source_url": [
+      "https://english.wafa.ps/Pages/Details/142485",
+      "https://en.wikipedia.org/wiki/Mohammad_Mustafa_(politician)"
+    ]
+  },
+  {
+    "id": "mohammad-mustafa-edu-gwu-masters",
+    "institution": "George Washington University, Washington, D.C.",
+    "qualification": "Master's degree",
+    "field": "Management",
+    "years": "until 1985",
+    "detail": "Master's degree in management obtained in 1985, according to WAFA.",
+    "source_url": [
+      "https://english.wafa.ps/Pages/Details/142485"
+    ]
+  },
+  {
+    "id": "mohammad-mustafa-edu-gwu-phd",
+    "institution": "George Washington University, Washington, D.C.",
+    "qualification": "Doctorate (PhD)",
+    "field": "Business administration and economics",
+    "years": "until 1988",
+    "detail": "Doctorate in business administration and economics obtained in 1988, according to WAFA. He later taught at the university as a visiting professor.",
+    "source_url": [
+      "https://english.wafa.ps/Pages/Details/142485",
+      "https://en.wikipedia.org/wiki/Mohammad_Mustafa_(politician)"
+    ]
+  }
+]

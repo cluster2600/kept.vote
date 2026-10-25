@@ -25,7 +25,7 @@
     },
     "politiciansHeading": "Politikere",
     "countryFilterLabel": "Filtrér efter land",
-    "mapLabel": "Europakort: vælg et land",
+    "mapLabel": "Kort: vælg et land",
     "mapCovered": "Dækket",
     "mapNotCovered": "Endnu ikke dækket",
     "allCountries": "Alle lande",
@@ -54,6 +54,7 @@
     "mayor": "Borgmester",
     "regional_executive": "Regionalregering",
     "party_leader": "Partileder",
+    "judge": "Dommer",
     "other": "Andet hverv"
   },
   "notFound": {
