@@ -1,0 +1,14 @@
+{
+  "nodes": 53429,
+  "edges": 51323,
+  "files": {
+    "bodies.jsonl": "bd03008b646dbcb4ce6e190d983d2cfe7267e69c7f71eabe997f79fca512ce01",
+    "persons.jsonl": "8caf15f23b1810f4f60cb7b7ed4337e915acdd7c3d7c62537501e29cbfc906a2",
+    "interests.jsonl": "478f9233364b8f71df00fcefe5c6990c689fef31d7d2a2371c11ce9adc10e6af",
+    "federal_judges.json": "279e46db5f97f6e65bd4aefd69480db58132590c856c6f2f638fbf0a2ad577bf",
+    "judicial_public_roles.json": "20e4d4860bcf5eef10db0bc8ef91a69d34b622390160d58e8706e9b646a46bed",
+    "network_nodes.jsonl": "0bfb0ccf26ef279c6d75f9525611ca70eb2af637a479b91636822a8c41a32321",
+    "network_edges.jsonl": "cee4ac1b9eb74cd33ad02457b802003e4a2d9206150cece27c4f028c8160cb78"
+  },
+  "interpretation": "As-published relationships; named party declarations are not bank-audited payments. No legal-entity resolution."
+}

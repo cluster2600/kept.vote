@@ -1,0 +1,98 @@
+[
+  {
+    "id": "openparldata",
+    "url": "https://api.openparldata.ch",
+    "kind": "parliamentary_aggregator",
+    "collected": true,
+    "note": "Source bodies and individual parliament URLs retained; completeness applies only to fetched API endpoints, not all Swiss politicians."
+  },
+  {
+    "id": "federal-executive",
+    "url": "https://www.admin.ch/fr/membres-conseil-federal",
+    "kind": "official",
+    "collected": true
+  },
+  {
+    "id": "federal-votes",
+    "url": "https://www.parlament.ch/en/ratsbetrieb/abstimmungen",
+    "kind": "official",
+    "collected": false,
+    "note": "Next: individual roll calls; do not infer votes from party affiliation."
+  },
+  {
+    "id": "political-funding",
+    "url": "https://politikfinanzierung.efk.admin.ch/",
+    "kind": "official",
+    "collected": false,
+    "note": "Next: public campaign and party declarations; declarations do not establish illegality."
+  },
+  {
+    "id": "funding-methodology",
+    "url": "https://www.efk.admin.ch/fr/taches-du-cdf/",
+    "kind": "official",
+    "collected": false
+  },
+  {
+    "id": "federal-court",
+    "url": "https://www.bger.ch/",
+    "kind": "official",
+    "collected": false,
+    "note": "Case-specific public rulings; do not reverse-identify anonymized parties."
+  },
+  {
+    "id": "geneva-judiciary",
+    "url": "https://justice.ge.ch/",
+    "kind": "official",
+    "collected": true,
+    "note": "Selected case summaries, not a complete judicial archive."
+  },
+  {
+    "id": "neuchatel-judiciary",
+    "url": "https://www.ne.ch/autorites/PJNE/",
+    "kind": "official",
+    "collected": true,
+    "note": "Selected supervisory statement."
+  },
+  {
+    "id": "srf",
+    "url": "https://www.srf.ch/",
+    "kind": "public_service_media",
+    "collected": true,
+    "note": "Selected leads and procedural updates; preserve attribution."
+  },
+  {
+    "id": "swissinfo",
+    "url": "https://www.swissinfo.ch/",
+    "kind": "public_service_media",
+    "collected": true,
+    "note": "Selected historical report; primary judgment outstanding."
+  },
+  {
+    "id": "federal-judicial-rosters",
+    "url": "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+    "kind": "official",
+    "collected": true,
+    "note": "Four civilian court rosters and profiles; all exact URLs/hashes in judges_manifest.json."
+  },
+  {
+    "id": "sp-solothurn-tariffs",
+    "url": "https://sp-so.ch/wp-content/uploads/2022/10/finanzreglement_sp_so_20180706.pdf",
+    "kind": "party_authored_rule",
+    "collected": true,
+    "note": "Dated cantonal rule, not actual individual payments; current applicability unverified."
+  },
+  {
+    "id": "judicial-accountability-reviews",
+    "url": "https://www.bger.ch/",
+    "kind": "official_decisions_and_oversight",
+    "collected": true,
+    "note": "Four selected case reviews; exact sources in judicial_decision_reviews.json. No comprehensive ranking."
+  },
+  {
+    "id": "bfs-recidivism-methodology",
+    "url": "https://www.swissstats.bfs.admin.ch/data/webviewer/appId/ch.admin.bfs.swissstat/article/issue201919821800-06/package",
+    "kind": "official_statistics",
+    "collected": false,
+    "note": "Methodology lead; no judge-linked nationwide release/reconviction cohort obtained."
+  }
+]

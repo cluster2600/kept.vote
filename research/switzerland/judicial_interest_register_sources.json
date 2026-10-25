@@ -1,0 +1,398 @@
+{
+  "observed_on": "2026-10-22",
+  "purpose": "Primary-source starting points for wider judicial governance mapping; not national release/outcome data.",
+  "coverage_limit": "Four cantons have partial source coverage. Remaining cantons are unassessed, not assumed to lack registers. No affiliation establishes improper influence or misconduct.",
+  "registers": [
+    {
+      "jurisdiction": "AG",
+      "source_url": "https://www.ag.ch/de/ueber-uns/gerichte-kanton-aargau/interessenbindungen",
+      "archive": "sources/judicial-interest-register-ag-2026-10-22.html",
+      "scope": "Full-time and part-time judges; judicial bodies as listed in the two declarations.",
+      "extraction_status": "source_catalog_only_no_person_or_role_graph_import",
+      "links": [
+        {
+          "label": "Interessenbindungen hauptamtliche Richterinnen und Richter GKA (PDF, 4 Seiten , 223 KB)",
+          "url": "https://www.ag.ch/media/kanton-aargau/jb/dokumente/interessenbindungen/20260801-liste-interessenbindungen-hauptamtliche.pdf",
+          "archive": "sources/interest-register-ag-01-2026-10-22.pdf",
+          "archived_page_count": 4,
+          "document_as_of": "01.10.2026"
+        },
+        {
+          "label": "Interessenbindungen nebenamtliche Richterinnen und Richter GKA (PDF, 13 Seiten , 321 KB)",
+          "url": "https://www.ag.ch/media/kanton-aargau/jb/dokumente/interessenbindungen/20260801-liste-interessenbindungen-nebenamtliche.pdf",
+          "archive": "sources/interest-register-ag-02-2026-10-22.pdf",
+          "archived_page_count": 12,
+          "document_as_of": "15.10.2026"
+        }
+      ],
+      "limit": "Self-declared affiliations and public roles; no payment verification, release/outcome denominators, culpability finding or comprehensive court coverage."
+    },
+    {
+      "jurisdiction": "GR",
+      "source_url": "https://www.justiz-gr.ch/gerichte/regionalgerichte/allgemeines/interessenbindungen/",
+      "archive": "sources/judicial-interest-register-gr-2026-10-22.html",
+      "scope": "Eleven regional courts only; not all Graubünden judicial authorities.",
+      "extraction_status": "source_catalog_only_no_person_or_role_graph_import",
+      "links": [
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Albula",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Albula_Register_11062026-1.pdf",
+          "archive": "sources/interest-register-gr-01-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Bernina",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Bernina_Register_01022025.pdf",
+          "archive": "sources/interest-register-gr-02-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Engiadina Bassa/Val Müstair",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_EBVM_Register_01022025.pdf",
+          "archive": "sources/interest-register-gr-03-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Imboden",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Imboden_Register_07072025.pdf",
+          "archive": "sources/interest-register-gr-04-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "Register über die Interessenbindungen des Regionalgerichts Landquart",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Landquart_Register_01022025.pdf",
+          "archive": "sources/interest-register-gr-05-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Maloja",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Maloja_Register_11062026.pdf",
+          "archive": "sources/interest-register-gr-06-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Moesa",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Moesa_Register_01022025.pdf",
+          "archive": "sources/interest-register-gr-07-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Plessur",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Plessur_Register_01022025.pdf",
+          "archive": "sources/interest-register-gr-08-2026-10-22.pdf",
+          "archived_page_count": 1,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Prättigau/Davos",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Praettigau_Davos_Register_04042025.pdf",
+          "archive": "sources/interest-register-gr-09-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Surselva",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Surselva_Register_19082026.pdf",
+          "archive": "sources/interest-register-gr-10-2026-10-22.pdf",
+          "archived_page_count": 1,
+          "document_as_of": null
+        },
+        {
+          "label": "»Register über die Interessenbindungen des Regionalgerichts Viamala",
+          "url": "https://www.justiz-gr.ch/fileadmin/dateien/Regionalgerichte/Interessensbindungen_RG_Viamala_Register_11062026.pdf",
+          "archive": "sources/interest-register-gr-11-2026-10-22.pdf",
+          "archived_page_count": 2,
+          "document_as_of": null
+        }
+      ],
+      "limit": "Self-declared affiliations and public roles; no payment verification, release/outcome denominators, culpability finding or comprehensive court coverage."
+    },
+    {
+      "jurisdiction": "VS",
+      "source_url": "https://geo.vs.ch/de/web/tribunaux/liens-d-d-m",
+      "archive": "sources/judicial-interest-register-vs-2026-10-22.html",
+      "scope": "Linked individual interest declarations and separate political-party declaration; individual forms not downloaded in this pass.",
+      "extraction_status": "source_catalog_only_no_person_or_role_graph_import",
+      "links": [
+        {
+          "label": "Dokument",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/20260219_partis-politiques",
+          "archive": "sources/interest-register-vs-01-2026-10-22.pdf",
+          "archived_page_count": 4,
+          "document_as_of": null
+        },
+        {
+          "label": "Christophe Joris",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-christophe-joris"
+        },
+        {
+          "label": "Bertrand Dayer",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-bertrand-dayer"
+        },
+        {
+          "label": "Dr Thierry Schnyder",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2024-liens-interet-dr-thierry-schnyder"
+        },
+        {
+          "label": "Camille Rey-Mermet",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-camille-rey-mermet"
+        },
+        {
+          "label": "Béatrice Neyroud",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-beatrice-neyroud"
+        },
+        {
+          "label": "Candido Prada",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-candido-prada"
+        },
+        {
+          "label": "Florence Troillet",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-florence-troillet"
+        },
+        {
+          "label": "Christian Zuber",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-christian-zuber"
+        },
+        {
+          "label": "Michael Steiner",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-michael-steiner"
+        },
+        {
+          "label": "Frédéric Fellay",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-frederic-fellay"
+        },
+        {
+          "label": "Geneviève Berclaz Coquoz",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-genevieve-berclaz-coquoz"
+        },
+        {
+          "label": "Christophe Pralong",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-christophe-pralong"
+        },
+        {
+          "label": "Bénédicte Balet",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-benedicte-balet"
+        },
+        {
+          "label": "Nadja Schwery",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2025-liens-interet-dr-schwery-nadja-2"
+        },
+        {
+          "label": "Matthieu Sartoretti",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-matthieu-sartoretti"
+        },
+        {
+          "label": "Sophia Murmann",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-sophia-murmann"
+        },
+        {
+          "label": "Elsbeth Imoberdorf-Michel",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-elsbeth-imoberdorf"
+        },
+        {
+          "label": "Flurina Steiner",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-flurina-steiner"
+        },
+        {
+          "label": "Dr Philipp Näpfli",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-philipp-napfli"
+        },
+        {
+          "label": "Dr Rochus Jossen",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-rochus-jossen"
+        },
+        {
+          "label": "Dr Adrian Walpen",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-adrian-walpen"
+        },
+        {
+          "label": "Marie-Luise Williner",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2025-liens-interet-marie-luise-williner"
+        },
+        {
+          "label": "Stéphane Epiney",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2025-liens-interet-stephane-epiney"
+        },
+        {
+          "label": "Claude Métral",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-claude-metral"
+        },
+        {
+          "label": "Nicolas Pont",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2025-liens-interet-nicolas-pont"
+        },
+        {
+          "label": "Christina Gaist",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-christina-gaist"
+        },
+        {
+          "label": "Aude Roduit",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-aude-roduit"
+        },
+        {
+          "label": "Sophie Bartholdi Métrailler",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-sophie-bartholdi-metrailler"
+        },
+        {
+          "label": "François Fardel",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-francois-fardel"
+        },
+        {
+          "label": "Emmanuelle Felley",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-emmanuelle-felley"
+        },
+        {
+          "label": "Loïc Barras",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-loic-barras"
+        },
+        {
+          "label": "Christina Rouvinez",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-christina-rouvinez"
+        },
+        {
+          "label": "Marie Bidaud-Fellay",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-marie-bidaud-fellay"
+        },
+        {
+          "label": "Sylvie Carruzzo",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-sylvie-carruzzo"
+        },
+        {
+          "label": "Dr Valentin Rétornaz",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-valentin-retornaz"
+        },
+        {
+          "label": "Nadine Buccarello",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-nadine-buccarello"
+        },
+        {
+          "label": "Veronica Trani",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-veronica-trani"
+        },
+        {
+          "label": "Stéphanie Spahr",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2025-liens-interet-stephanie-spahr"
+        },
+        {
+          "label": "Dr Stéphane Abbet",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2025-liens-interet-stephane-abbet"
+        },
+        {
+          "label": "Mériem Moisan",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-meriem-moisan"
+        },
+        {
+          "label": "Laurence Vorpe Largey",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-laurence-vorpe-largey"
+        },
+        {
+          "label": "Agathe Tornay-Luisier",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-agathe-tornay-luisier"
+        },
+        {
+          "label": "Lionel Henriot",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-lionel-henriot-1"
+        },
+        {
+          "label": "Pierre Gapany",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-pierre-gapany"
+        },
+        {
+          "label": "Stéphane Udry",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-stephane-udry"
+        },
+        {
+          "label": "Florent Boissard",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-florent-boissard"
+        },
+        {
+          "label": "Diana Freitas Pereira",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2025-liens-interet-diana-freitas-pereira"
+        },
+        {
+          "label": "Angèle de Preux-Bersier",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-angele-de-preux-bersier"
+        },
+        {
+          "label": "Pierre-André Charvet",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-pierre-andre-charvet"
+        },
+        {
+          "label": "Anne-Catherine Cordonier Tavernier",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-anne-cordonier-tavernier"
+        },
+        {
+          "label": "Petra Zimmermann-Williner",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-petra-zimmermann-williner"
+        },
+        {
+          "label": "Julie Voide-Proske",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-julie-voide"
+        },
+        {
+          "label": "Alexandre Sudan",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-alexandre-sudan"
+        },
+        {
+          "label": "Dr Christian Roten",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-christian-roten"
+        },
+        {
+          "label": "Marc Anthamatten",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-marc-anthamatten"
+        },
+        {
+          "label": "Patrick Schriber",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-patrick-schriber"
+        },
+        {
+          "label": "Véronique Luisier",
+          "url": "https://geo.vs.ch/documents/d/tribunaux/2026-liens-interet-veronique-luisier"
+        }
+      ],
+      "limit": "Self-declared affiliations and public roles; no payment verification, release/outcome denominators, culpability finding or comprehensive court coverage."
+    },
+    {
+      "jurisdiction": "ZH",
+      "source_url": "https://www.zh.ch/de/gerichte-notariate/verwaltungsgericht/organisation-des-verwaltungsgerichts.html",
+      "archive": "sources/judicial-interest-register-zh-2026-10-22.html",
+      "scope": "Administrative Court members and substitutes only; not all Zurich judges.",
+      "extraction_status": "source_catalog_only_no_person_or_role_graph_import",
+      "links": [
+        {
+          "label": "Download Interessenbindungen PDF | 5 Seiten | Deutsch | 161 KB",
+          "url": "https://www.zh.ch/content/dam/zhweb/bilder-dokumente/organisation/gerichte/interessenbindungen_verwaltungsgericht.pdf",
+          "archive": "sources/interest-register-zh-01-2026-10-22.pdf",
+          "archived_page_count": 5,
+          "document_as_of": "2026-01-01"
+        }
+      ],
+      "limit": "Self-declared affiliations and public roles; no payment verification, release/outcome denominators, culpability finding or comprehensive court coverage."
+    }
+  ],
+  "unarchived_federal_lead": {
+    "url": "https://www.bvger.ch/bvger/documents/nebenbeschaeftigung/nebenbeschaeftigungen_richter-innen_2026-04-01.pdf",
+    "status": "Search index exposes text, but direct download returned HTTP 404 on 2026-10-22; not treated as an archived current declaration.",
+    "resolved_by": "federal_registers[0]: replacement linked by current official professions page; old April URL remains HTTP 404."
+  },
+  "federal_registers": [
+    {
+      "court": "Federal Administrative Court / BVGer",
+      "source_url": "https://www.bvger.ch/de/arbeiten-am-gericht/berufe",
+      "document_url": "https://www.bvger.ch/bvger/documents/arbeitgeber/2026-nebenbeschaeftigungen-der-richterinnen-und-richter.pdf",
+      "archive": "sources/bvger-outside-activities-as-of-2026-09-16.pdf",
+      "document_as_of": "2026-09-16",
+      "archived_page_count": 4,
+      "retrieved_at_utc": "2026-10-22T23:42:31.335704+00:00",
+      "extraction_status": "source_catalog_only_no_person_or_role_graph_import",
+      "scope": "Published outside activities and public offices of BVGer judges; not an assertion that unlisted judges have no interests. The three target profiles are Federal Supreme Court judges and this list does not establish their external roles."
+    }
+  ]
+}

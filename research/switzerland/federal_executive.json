@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Guy Parmelin",
+    "party": "SVP/UDC",
+    "canton": "VD",
+    "public_role": "Federal Councillor; President of the Confederation in 2026; EAER/DEFR",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  },
+  {
+    "name": "Ignazio Cassis",
+    "party": "FDP/PLR",
+    "canton": "TI",
+    "public_role": "Federal Councillor; FDFA/DFAE",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  },
+  {
+    "name": "Karin Keller-Sutter",
+    "party": "FDP/PLR",
+    "canton": "SG",
+    "public_role": "Federal Councillor; FDF/DFF",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  },
+  {
+    "name": "Albert Rösti",
+    "party": "SVP/UDC",
+    "canton": "BE",
+    "public_role": "Federal Councillor; DETEC",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  },
+  {
+    "name": "Elisabeth Baume-Schneider",
+    "party": "SP/PS",
+    "canton": "JU",
+    "public_role": "Federal Councillor; FDHA/DFI",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  },
+  {
+    "name": "Beat Jans",
+    "party": "SP/PS",
+    "canton": "BS",
+    "public_role": "Federal Councillor; FDJP/DFJP",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  },
+  {
+    "name": "Martin Pfister",
+    "party": "The Centre/Le Centre",
+    "canton": "ZG",
+    "public_role": "Federal Councillor; DDPS",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  },
+  {
+    "name": "Viktor Rossi",
+    "party": null,
+    "canton": null,
+    "public_role": "Federal Chancellor; head of Federal Council staff",
+    "as_of": "2026-10-22",
+    "source_urls": [
+      "https://www.admin.ch/fr/membres-conseil-federal"
+    ],
+    "judicial_review_status": "not_systematically_reviewed"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "judicial-role:hofmann-justitia40",
+    "judge_id": "judge:520388b00e0d5608dc92",
+    "organization": "Justitia 4.0",
+    "role": "Co-president of the steering committee",
+    "identity_status": "direct_primary_identification",
+    "temporal_status": "appointment_announced_2025-02-24; current_end_date_not_verified",
+    "appointment_announcement_date": "2025-02-24",
+    "source_urls": [
+      "https://www.justitia40.ch/de/news/yann-eric-hofmann-neuer-co-praesident-des-steuerungsausschusses"
+    ],
+    "observed_on": "2026-10-23"
+  },
+  {
+    "id": "judicial-role:hofmann-asm-committee",
+    "judge_id": "judge:520388b00e0d5608dc92",
+    "organization": "Association suisse des magistrats de l’ordre judiciaire (ASM / SVR)",
+    "role": "Committee member",
+    "identity_status": "direct_primary_identification",
+    "temporal_status": "listed_on_current_public_committee_page_at_observation",
+    "source_urls": [
+      "https://www.svr-asm.ch/fr/vorstand.htm"
+    ],
+    "observed_on": "2026-10-23"
+  },
+  {
+    "id": "judicial-role:hurni-ursula-wirz-candidate",
+    "judge_id": "judge:afc539997723670fe6ae",
+    "organization": "Ursula Wirz-Stiftung",
+    "organization_uid_as_published": "CHE-113.802.340",
+    "role": "Former foundation board member with joint signature by two",
+    "identity_status": "corroborated_name_and_origin_requires_direct_confirmation",
+    "identity_note": "The commercial-register entry names Christoph Hurni from Fräschels and gives the same municipality as his public parliamentary nomination. No source explicitly identifies that foundation member as the federal judge; retain candidate status. Do not confuse with other Christoph Hurni records.",
+    "temporal_status": "appointment_publication_2020-06-23; deletion_publication_2026-03-17; exact_tenure_dates_not_established",
+    "appointment_register_date": "2020-06-18",
+    "appointment_publication_date": "2020-06-23",
+    "deletion_register_date": "2026-03-12",
+    "deletion_publication_date": "2026-03-17",
+    "source_urls": [
+      "https://shab.ch/api/v1/publications/19391ad1-34c9-4a2a-820f-a0c34667497d/pdf",
+      "https://shab.ch/api/v1/publications/74f6e4c2-fc8b-45c3-9c02-98a4bbf290a6/pdf",
+      "https://www.parlament.ch/centers/kb/Documents/2020/Kommissionsbericht_GK-V_20.200_2020-03-04.pdf"
+    ],
+    "observed_on": "2026-10-23"
+  }
+]

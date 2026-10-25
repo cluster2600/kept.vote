@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sp-solothurn-2018-supreme",
+    "party_entity": "SP Kanton Solothurn",
+    "party_level": "cantonal",
+    "canton": "SO",
+    "court_role": "supreme",
+    "annual_tariff_chf": 6000,
+    "employment_fraction": 1.0,
+    "record_type": "party_rule_not_payment",
+    "source_document_date": "2018-07-06",
+    "source_section": "II Mandatssteuern, Art. 4, page 3; Art. 5 permits reduction/exemption requests",
+    "source_urls": [
+      "https://sp-so.ch/wp-content/uploads/2022/10/finanzreglement_sp_so_20180706.pdf"
+    ],
+    "checked_on": "2026-10-22",
+    "current_applicability_verified": false,
+    "individual_payments_verified": false
+  },
+  {
+    "id": "sp-solothurn-2018-administrative",
+    "party_entity": "SP Kanton Solothurn",
+    "party_level": "cantonal",
+    "canton": "SO",
+    "court_role": "administrative",
+    "annual_tariff_chf": 2000,
+    "employment_fraction": 1.0,
+    "record_type": "party_rule_not_payment",
+    "source_document_date": "2018-07-06",
+    "source_section": "II Mandatssteuern, Art. 4, page 3; Art. 5 permits reduction/exemption requests",
+    "source_urls": [
+      "https://sp-so.ch/wp-content/uploads/2022/10/finanzreglement_sp_so_20180706.pdf"
+    ],
+    "checked_on": "2026-10-22",
+    "current_applicability_verified": false,
+    "individual_payments_verified": false
+  },
+  {
+    "id": "sp-solothurn-2018-criminal",
+    "party_entity": "SP Kanton Solothurn",
+    "party_level": "cantonal",
+    "canton": "SO",
+    "court_role": "criminal",
+    "annual_tariff_chf": 2000,
+    "employment_fraction": 1.0,
+    "record_type": "party_rule_not_payment",
+    "source_document_date": "2018-07-06",
+    "source_section": "II Mandatssteuern, Art. 4, page 3; Art. 5 permits reduction/exemption requests",
+    "source_urls": [
+      "https://sp-so.ch/wp-content/uploads/2022/10/finanzreglement_sp_so_20180706.pdf"
+    ],
+    "checked_on": "2026-10-22",
+    "current_applicability_verified": false,
+    "individual_payments_verified": false
+  },
+  {
+    "id": "sp-solothurn-2018-patent",
+    "party_entity": "SP Kanton Solothurn",
+    "party_level": "cantonal",
+    "canton": "SO",
+    "court_role": "patent",
+    "annual_tariff_chf": 2000,
+    "employment_fraction": 1.0,
+    "record_type": "party_rule_not_payment",
+    "source_document_date": "2018-07-06",
+    "source_section": "II Mandatssteuern, Art. 4, page 3; Art. 5 permits reduction/exemption requests",
+    "source_urls": [
+      "https://sp-so.ch/wp-content/uploads/2022/10/finanzreglement_sp_so_20180706.pdf"
+    ],
+    "checked_on": "2026-10-22",
+    "current_applicability_verified": false,
+    "individual_payments_verified": false
+  }
+]
