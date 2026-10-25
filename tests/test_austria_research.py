@@ -25,9 +25,10 @@ def importer_mappers():
     # Exercise the real mappings without importing database.py or loading credentials.
     helpers = ast.parse((ROOT / 'import_common.py').read_text())
     profile = ast.parse((ROOT / 'import_profile.py').read_text())
-    namespace = {}
+    from profile_format import parse_confidence, pick
+    namespace = {'parse_confidence': parse_confidence, 'pick': pick}
     functions = [node for node in helpers.body if isinstance(node, ast.FunctionDef)
-                 and node.name in {'as_list', 'pick', 'parse_confidence'}]
+                 and node.name == 'as_list']
     exec(compile(ast.Module(body=functions, type_ignores=[]), 'import_common.py', 'exec'), namespace)
     namespace['_as_list'] = namespace['as_list']
     functions = [node for node in profile.body if isinstance(node, ast.FunctionDef)
