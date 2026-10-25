@@ -583,3 +583,37 @@ Validation: rendered declaration identity/sections checked, surname/given-name
 variants, table deduplication and nonempty row counts asserted; all source hashes
 checked. Temporary browser dispatch timeout resolved after a fresh state read.
 No graph/application change, messages or requests.
+
+## Resumed pass 14 (25 October 2026)
+
+**12:04:55–12:06:44 UTC**, about two minutes of source research/validation,
+excluding subsequent administration and scheduled idle intervals.
+
+Queries included `"Christoph Hurni" "Vorstand" Juristenverein`,
+`"Sonja Koch" "Kommission" Richterakademie`,
+`"Yann-Eric Hofmann" "comité" association`,
+`"Morges" "ordonnance de mise en liberté" "2020"`,
+`"Schweizerisches Institut für Judikative" "Hurni"`, and
+`"Gründung des Vereins" "Judikative" Stadelmann pdf`.
+
+- **Recovered the parliamentary Judicial Committee report of 9 September 2020**,
+  20.204, proposing Hurni's election. His CV's other-activities list (page 6)
+  directly records founding membership of SIfJ, chairmanship of Bern's judicial
+  training commission, and membership of Bern's lawyers' commission. Added three
+  structured historical records and archived the official PDF. Exact tenure and
+  payment are unknown; no current board seat inferred.
+- A 2020 founders' article on the publisher's journal site was accessible in part,
+  but a subsequent read redirected to login. No bypass attempted; uninspected
+  board-member details were not imported. The institute website timed out.
+- Secondary register aggregators suggest an SIfJ entry under CHE-364.658.238 and
+  a Christoph Michael Hurni treasurer entry; treat as leads for official SHAB
+  documents and identity corroboration. A reported 2025 deletion of a voluntary
+  commercial-register entry must not be confused with dissolution of the
+  association or termination of every member's role. No new direct board claim
+  imported from these snippets.
+- Spitex/health-care Hurni results are not joined to the judge. No original
+  release order or new individual historical payment recovered this pass.
+
+Validation: CV identity and page context, three unique role IDs/types, archived
+PDF and all manifest hashes/JSON checked; `git diff --check` passed. No graph or
+application changes; no messages, requests, merge or website publication.

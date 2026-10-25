@@ -199,3 +199,18 @@ These are publishing responsibilities, **not company/foundation board seats**.
 No appointment date, pay, ownership or misconduct is established. They are kept
 outside the existing governance-edge export until an editorial relation type is
 explicitly supported; no new graph behavior or misleading board edges added.
+
+## Historical Hurni professional roles from Parliament
+
+The Judicial Committee's **9 September 2020 report, page 6**, lists Hurni as
+founding member of the **Schweizerisches Institut für Judikative**, chair of the
+**Bern judicial training commission**, and member of the **Bern lawyers'
+commission**. These three directly identified historical observations are in
+`judicial_historical_professional_roles.json`; the public nomination report is
+archived with its source URL, date and hash.
+
+The report gives no exact appointment/end dates or individual remuneration for
+these activities. It does not establish current tenure. Founding membership is
+not a board seat. None resolves the separate provisional Ursula Wirz-Stiftung
+identity match; no relationship to unrelated health-care Christoph Hurni records
+is inferred. These historical records are not yet imported as graph edges.

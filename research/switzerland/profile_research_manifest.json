@@ -507,6 +507,14 @@
       "bytes": 5690,
       "retrieved_at_utc": "2026-10-25T11:52:24.592362+00:00",
       "source_status": "official EFK public rendered table; duplicate responsive/empty rows removed; party declaration not bank audit"
+    },
+    {
+      "file": "sources/hurni-parliament-nomination-2020-09-09.pdf",
+      "url": "https://www.parlament.ch/centers/kb/Documents/2020/Rapport_de_la_commission_CJ-V_20.204_2020-09-09_a.pdf",
+      "sha256": "2e9bf8ad308ab769a3896aaa2b3d5ad831f17a813802fc0f6f2f5fb4add4fe6d",
+      "bytes": 127470,
+      "retrieved_at_utc": "2026-10-25T12:06:43.877126+00:00",
+      "source_status": "publicly published parliamentary nomination report; historical CV claims"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
