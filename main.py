@@ -23,6 +23,7 @@ from fastapi import (
     File,
     Form,
     HTTPException,
+    Query,
     Response,
     UploadFile,
     status,
@@ -195,21 +196,34 @@ async def create_politician(
     response_model=list[PoliticianSummary],
     tags=["politicians"],
 )
-async def list_politicians(session: DBSession) -> list[PoliticianSummary]:
-    """List all politicians with aggregate promise/verification counts.
+async def list_politicians(
+    session: DBSession,
+    country: Annotated[
+        str | None,
+        Query(
+            pattern=r"^[A-Za-z]{2}$",
+            description="ISO 3166-1 alpha-2 country code, e.g. FR.",
+        ),
+    ] = None,
+) -> list[PoliticianSummary]:
+    """List politicians with aggregate promise/verification counts.
 
     Powers the public browse view. For each politician, counts reflect the
-    *latest* verification status of each of their promises.
+    *latest* verification status of each of their promises. ``country``
+    restricts the list to one country.
     """
-    politicians = list(
-        (await session.execute(select(Politician).order_by(Politician.name)))
-        .scalars()
-        .all()
-    )
+    query = select(Politician).order_by(Politician.name)
+    if country:
+        query = query.where(Politician.country_code == country.upper())
+    politicians = list((await session.execute(query)).scalars().all())
 
-    # Map every promise to its owning politician in one query.
+    # Map each listed politician's promises to them in one query.
     promise_rows = (
-        await session.execute(select(Promise.id, Promise.politician_id))
+        await session.execute(
+            select(Promise.id, Promise.politician_id).where(
+                Promise.politician_id.in_([p.id for p in politicians])
+            )
+        )
     ).all()
     promises_by_politician: dict[uuid.UUID, list[uuid.UUID]] = {}
     for promise_id, politician_id in promise_rows:
@@ -232,7 +246,12 @@ async def list_politicians(session: DBSession) -> list[PoliticianSummary]:
                 id=politician.id,
                 name=politician.name,
                 country=politician.country,
+                country_code=politician.country_code,
+                office=politician.office,
+                role=politician.role,
+                content_lang=politician.content_lang,
                 party=politician.party,
+                portrait=politician.portrait,
                 promise_count=len(owned),
                 kept_count=counts[VerificationStatus.FULFILLED],
                 broken_count=counts[VerificationStatus.BROKEN],

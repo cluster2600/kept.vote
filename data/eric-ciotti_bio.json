@@ -1,7 +1,19 @@
 {
   "name": "Éric Ciotti",
   "country": "France",
+  "country_code": "FR",
+  "office": "mayor",
+  "role": "Maire de Nice ; président de l'UDR",
+  "content_lang": "fr",
   "party": "Union des droites pour la République (UDR)",
   "birth_date": "1965-09-28",
-  "bio": "Éric Ciotti, né le 28 septembre 1965 à Nice (Alpes-Maritimes), est un homme politique français. Député de la première circonscription des Alpes-Maritimes depuis 2007 et ancien président du Conseil départemental des Alpes-Maritimes (2008–2017), il a été élu président des Républicains (LR) en décembre 2022 avant de fonder en 2024 l'Union des droites pour la République (UDR), parti allié au Rassemblement National. Élu maire de Nice en mars 2026 au second tour des élections municipales face au maire sortant Christian Estrosi, il est également président de la Métropole Nice Côte d'Azur depuis cette date."
+  "bio": "Éric Ciotti, né le 28 septembre 1965 à Nice (Alpes-Maritimes), est un homme politique français. Député de la première circonscription des Alpes-Maritimes depuis 2007 et ancien président du Conseil départemental des Alpes-Maritimes (2008–2017), il a été élu président des Républicains (LR) en décembre 2022 avant de fonder en 2024 l'Union des droites pour la République (UDR), parti allié au Rassemblement National. Élu maire de Nice en mars 2026 au second tour des élections municipales face au maire sortant Christian Estrosi, il est également président de la Métropole Nice Côte d'Azur depuis cette date.",
+  "portrait": {
+    "file": "eric-ciotti.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%C3%89ric_Ciotti%2C_EPP_Summit%2C_23_March%2C_Brussels_%2852765298047%29_%28cropped%29.jpg",
+    "author": "European People's Party",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "retrieved": "2026-10-22"
+  }
 }

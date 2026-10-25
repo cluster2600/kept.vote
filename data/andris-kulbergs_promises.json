@@ -1,0 +1,263 @@
+[
+  {
+    "id": "andris-kulbergs-promise-defence-5pct",
+    "title": "Allocate 5% of GDP to defence",
+    "description": "The declaration of the Kulbergs cabinet, signed on 28 May 2026, opens its security chapter with the commitment to direct 5% of GDP to defence, to grow the domestic defence industry together with allies, to expand the presence of NATO allies in Latvia and to seek additional EU funding for defence.",
+    "date_made": "2026-05-28",
+    "category": "Defence",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The 5% floor was already in law before Kulbergs took office: on 26 March 2026 the Saeima amended the National Defence Financing Law to require at least 5% of forecast GDP every year from 2027, and defence spending was projected at 4.9% of GDP for 2026. Kulbergs said in September 2026 that Latvia would spend 5% of GDP on defence the following year, but the 2027 budget had not been drafted by 23 October 2026, and the finance minister said he would rather adopt it at the end of January 2027. The commitment is on track in law, but no budget passed by this government has yet delivered it.",
+    "key_evidence": [
+      "Government declaration (May 2026): 'We will direct 5% of GDP to defence'",
+      "26 March 2026, before Kulbergs took office: Saeima sets defence funding at a minimum of 5% of forecast GDP from 2027; the Finance Ministry's earlier plans put 2027 at 4.81%, so additional funding is needed",
+      "9 September 2026: Kulbergs says Latvia will spend 5% of GDP on defence next year and asks for €7 billion from the next EU budget for the eastern border",
+      "22 October 2026: Finance Minister Māris Kučinskis says work on the 2027 budget is still under way and it would preferably be adopted at the end of January"
+    ],
+    "source_url": [
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://eng.lsm.lv/article/politics/politics/28.05.2026-latvias-new-coalition-pledges-to-work-together.a649088/",
+      "https://eng.lsm.lv/article/politics/saeima/26.03.2026-saeima-sets-latvias-defence-spending-at-minimum-5-of-gdp-from-2027.a640514/",
+      "https://eng.lsm.lv/article/society/defence/09.09.2026-kulbergs-latvia-needs-7-billion-euros-from-eu-for-eastern-border.a662464/",
+      "https://eng.lsm.lv/article/economy/economy/22.10.2026-no-new-taxes-no-new-spending-promises-latvian-finance-minister.a668736/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-rail-baltica",
+    "title": "Put Rail Baltica under the Prime Minister's direct control and cut its cost",
+    "description": "As chairman of the Saeima inquiry into Rail Baltica, Kulbergs argued that the Prime Minister, not the transport minister, must oversee the megaproject. His cabinet's declaration commits to developing 'under the Prime Minister's direct leadership' the model for taking the European standard-gauge railway forward, and to defending EU funding for it in the 2028–2034 EU budget.",
+    "date_made": "2026-05-28",
+    "category": "Transport / infrastructure",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "Kulbergs has taken the project into his own hands: on 1 October 2026 his government set a ceiling of €20 million per kilometre for the main line (against up to €32 million so far), a single-track embankment with the option of a second track and no more than four regional stations, and ordered the Transport Ministry to draw up a minimum project scenario by December. The Baltic prime ministers agreed in September that the first phase would be completed by 2034 instead of 2030. The cost of the first phase and the future of the main construction contract were still open in October 2026.",
+    "key_evidence": [
+      "LSM, 16 May 2026: Kulbergs holds that the Prime Minister must exercise strict oversight and control over Rail Baltica",
+      "Government declaration, item 29: model for the project's further progress to be drawn up under the Prime Minister's direct leadership",
+      "17 September 2026: Kulbergs says the Baltic states must 'speak as one' and present a joint plan on timetable and budget",
+      "1 October 2026: cabinet sets a €20 million per km ceiling; the Transport Ministry says the first phase could cost €7.5 billion; first phase to be completed by 2034"
+    ],
+    "source_url": [
+      "https://www.lsm.lv/raksts/zinas/latvija/16.05.2026-bezpartejisks-problemu-risinatajs-kas-ir-premjera-amatam-nominetais-andris-kulbergs.a647427/",
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://eng.lsm.lv/article/economy/transport/17.09.2026-latvian-pm-says-baltics-should-speak-as-one-on-rail-baltica-issue.a663530/",
+      "https://eng.lsm.lv/article/economy/transport/02.10.2026-latvian-government-desperately-tries-to-cut-rail-baltica-costs.a665765/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-airbaltic",
+    "title": "Decide airBaltic's future by August 2026, with no new state money without a viable plan",
+    "description": "The cabinet declaration commits the government to evaluate airBaltic's business plan and decide on the next scenarios for the majority state-owned airline by August 2026 (item 30). On 1 July 2026 Kulbergs said on TV3 that 'not a single cent' more would be invested until there was a clear vision of how airBaltic could fly without state injections, and that the state would not again put in hundreds of millions if the airline could not bring a plan and private investors.",
+    "date_made": "2026-05-28",
+    "category": "State-owned enterprises / transport",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "A decision was taken, but a month after the deadline and with some state involvement: on 14 September 2026 the government announced that airBaltic was restructuring its debts under the US Chapter 11 procedure, financed by private investors through a debtor-in-possession facility of up to €350 million that a New York court approved in final form on 20 October. The government did not inject new cash, but on 20 August it obtained a Saeima mandate to extend the existing €30 million state loan, capitalise interest on state-held bonds, convert state claims into shares and possibly buy up to €30 million of new bonds alongside private investors — Kulbergs said this was a mandate, not new money.",
+    "key_evidence": [
+      "Government declaration, item 30: evaluate the business plan and decide on further scenarios by August 2026",
+      "TV3, 1 July 2026: 'Not a single cent will be invested from now on until there is a clear vision of how airBaltic can fly without state injections'",
+      "20 August 2026: Saeima adopts the airBaltic financial stabilisation measures law 54–21–1 (loan extension, interest capitalisation, possible €30 million bond purchase)",
+      "9 September 2026: Kulbergs says the state is not currently making any investment",
+      "14 September 2026: Chapter 11 filing presented by the government as the restructuring route; 20 October: US court finally approves up to €350 million of private DIP financing"
+    ],
+    "source_url": [
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://tv3.lv/zinas/ekonomika/kulbergs-neviens-cents-vairs-netiks-ieguldits-airbaltic-kamer-tiek-raditi-minhauzena-plani/",
+      "https://www.lsm.lv/raksts/zinas/ekonomika/20.08.2026-saeima-piekrit-airbaltic-valsts-aizdevuma-atmaksas-pagarinasanai-un-papildu-obligaciju-iegadei.a659574/",
+      "https://eng.lsm.lv/article/economy/transport/09.09.2026-latvian-government-undecided-on-airbaltic-funding.a662441/",
+      "https://eng.lsm.lv/article/economy/transport/14.09.2026-airbaltic-claims-chapter-11-status-in-us-court.a663067/",
+      "https://www.lsm.lv/raksts/zinas/ekonomika/20.10.2026-asv-tiesa-apstiprina-airbaltic-finansesanas-planu.a668398/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-russia-trade-halt",
+    "title": "Stop trade with Russia and Belarus and lead the push for it in the EU",
+    "description": "Item 42 of the cabinet declaration: 'We will stop trade (exports and imports) with Russia and Belarus', take a leading role on the issue within the EU and coordinate with the other Baltic and regional states.",
+    "date_made": "2026-05-28",
+    "category": "Foreign policy / sanctions",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "Steps have been taken but trade has not stopped. The Saeima supported in second reading on 10 September 2026 amendments extending Latvia's national import ban from Russian and Belarusian agricultural products and feed to food products, with a final reading still required. Russian grain transit continues: on 13 October Kulbergs said a national ban was currently not possible because the EU has exclusive competence and Latvia risked claims of €200–800 million, and he is seeking an EU-wide ban together with Estonia and Lithuania.",
+    "key_evidence": [
+      "Government declaration, item 42",
+      "9 July 2026: Kulbergs cites progress at the Foreign Ministry on import-export issues",
+      "10 September 2026: Saeima supports in second reading a ban on food imports from Russia and Belarus, including via third countries",
+      "13–14 October 2026: Kulbergs says a ban on Russian grain transit is not currently possible; joint Baltic letter asks EU leaders for an EU ban"
+    ],
+    "source_url": [
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://eng.lsm.lv/article/politics/politics/09.07.2026-pm-kulbergs-rates-his-cabinet-7-out-of-10-after-first-month-in-office.a654500/",
+      "https://eng.lsm.lv/article/economy/transport/17.09.2026-saeima-moves-towards-full-russian-food-ban.a663601/",
+      "https://eng.lsm.lv/article/politics/politics/14.10.2026-pm-kulbergs-says-total-russian-grain-ban-is-not-possible.a667481/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-grain-transit-fees",
+    "title": "Raise rail infrastructure fees for Russian grain transit by 300%",
+    "description": "After the Saeima urgently amended the Railway Law on 17 September 2026 to allow a rapid review of infrastructure fees for grain consignments dispatched from Russia (in force until 31 December 2026), the Kulbergs government decided to increase the transit fees for Russian grain by 300%.",
+    "date_made": "2026-09",
+    "category": "Sanctions / transport",
+    "status": "broken",
+    "confidence_score": 0.65,
+    "reasoning": "On 13 October 2026, after a cabinet meeting, Kulbergs said it was currently not possible to impose the planned 300% increase or to ban the transit, because the EU has exclusive competence over tariffs and transit, contracts for 300,000 tonnes had already been concluded and ministers had been warned of possible claims of €200–800 million. He acknowledged that the government had not been fully aware of the facts when it decided the increase. The measure has been set aside in favour of seeking an EU-level ban; confidence is moderate because the legal basis remains in force until the end of 2026.",
+    "key_evidence": [
+      "17 September 2026: urgent Railway Law amendments allow a fast increase of infrastructure fees for grain shipped from Russia",
+      "13 October 2026: Kulbergs says the 300% increase and a ban are not currently possible",
+      "Kulbergs: the government was not fully aware of the facts when it decided the 300% increase"
+    ],
+    "source_url": [
+      "https://eng.lsm.lv/article/politics/politics/14.10.2026-pm-kulbergs-says-total-russian-grain-ban-is-not-possible.a667481/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-safe-elections",
+    "title": "Ensure safe and lawful Saeima elections under the Prime Minister's direct oversight",
+    "description": "Kulbergs named 'secure Saeima elections' among his first tasks when he was asked to form a government, and item 12 of the cabinet declaration commits to direct prime-ministerial oversight of the preparation of the October 2026 Saeima election.",
+    "date_made": "2026-05-16",
+    "category": "Elections / security",
+    "status": "kept",
+    "confidence_score": 0.75,
+    "reasoning": "The 15th Saeima election took place as scheduled on 3 October 2026, with all 1,059 polling stations counted and the official results and list of elected MPs confirmed by the Central Election Commission on 16 October. Turnout was a record low of 51.79%, and 118 of 444 postal votes were declared invalid for formal reasons, but no breach affecting the result has been reported in the sources consulted. The verdict concerns the conduct of the election, which the government was responsible for securing.",
+    "key_evidence": [
+      "16 May 2026: Kulbergs says 'the Saeima elections must be secure'",
+      "Government declaration, item 12: direct prime-ministerial oversight of election preparation",
+      "9 July 2026: the Ministry of Smart Administration and Regional Development monitors the development of electoral systems and deadlines",
+      "16 October 2026: CEC confirms the official results; 118 of 444 postal votes invalid"
+    ],
+    "source_url": [
+      "https://eng.lsm.lv/article/politics/politics/16.05.2026-united-lists-andris-kulbergs-asked-to-form-a-new-latvian-government.a647432/",
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://eng.lsm.lv/article/politics/politics/09.07.2026-pm-kulbergs-rates-his-cabinet-7-out-of-10-after-first-month-in-office.a654500/",
+      "https://eng.lsm.lv/article/politics/election/16.10.2026-election-results-confirmed-in-latvia.a667913/",
+      "https://www.cvk.lv/saeima-2026-rezultati",
+      "https://eng.lsm.lv/article/politics/election/08.10.2026-quarter-of-postal-votes-deemed-invalid-in-latvia.a666646/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-budget-review",
+    "title": "Review base spending in all ministries and set a path to a balanced budget by 2030",
+    "description": "Item 14 of the cabinet declaration: to move towards a balanced budget in line with EU economic governance and fiscal discipline rules in 2030, prepare by 30 June 2026 macroeconomic, revenue and budget-balance forecasts for 2027–2030 and then review base expenditure in all ministries. As candidate, Kulbergs said the budget 'must be reviewed as early as June'.",
+    "date_made": "2026-05-28",
+    "category": "Public finances",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Work has started but the review has not produced a budget. In October 2026 the Finance Ministry restricted new contracts and non-critical spending until the end of the year and set out fiscal-consolidation scenarios, noting that a zero-deficit budget by 2030 would require about €8.9 billion of consolidation in 2027–2030; a working group set up by the Prime Minister's order in mid-September was to propose budget and fiscal measures. The 2027 budget, which already lacks €469 million for commitments taken earlier, is left to the next government. Whether the 30 June forecasts were delivered on time was not reported in the sources consulted.",
+    "key_evidence": [
+      "16 May 2026: 'the budget ... must be reviewed as early as June'",
+      "6 October 2026: Finance Ministry report limits new contracts and postpones non-critical expenditure until the end of 2026; zero deficit by 2030 would need about €8.9 billion of consolidation",
+      "11 October 2026 (LTV De facto): €469 million extra needed in 2027 for commitments already made; working group created by the Prime Minister's order in mid-September",
+      "22 October 2026: Finance Minister Kučinskis promises no VAT or income tax rises and an austerity budget for 2027"
+    ],
+    "source_url": [
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://eng.lsm.lv/article/politics/politics/16.05.2026-united-lists-andris-kulbergs-asked-to-form-a-new-latvian-government.a647432/",
+      "https://eng.lsm.lv/article/economy/economy/06.10.2026-latvian-finance-ministry-proposes-austerity-measures.a666374/",
+      "https://www.lsm.lv/raksts/zinas/ekonomika/11.10.2026-valsts-budzets-2027-saistibas-ir-naudas-nav.a667077/",
+      "https://eng.lsm.lv/article/economy/economy/22.10.2026-no-new-taxes-no-new-spending-promises-latvian-finance-minister.a668736/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-procurement-transparency",
+    "title": "Review major state procurements and publish data on signed contracts",
+    "description": "Item 15 of the cabinet declaration: to reduce the risk of wasting public money, review priority state procurements and those of the largest state companies, focusing on cost overruns, contract amendments and restrictions of competition, and start publishing data on concluded contracts, amendments and changes in contract sums.",
+    "date_made": "2026-05-28",
+    "category": "Public procurement / anti-corruption",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "The review started: on 15 June 2026 Kulbergs imposed a 30-day moratorium on large ICT procurements, pointing out that €452 million was spent on ICT projects in 2024–2025 and that three companies handled 38% of them, and the finance minister listed the publication of procurement data among his three priority tasks. By the government's own account of 11 September, however, the plan to publish more information on all state procurements was delayed and the review of state IT procurements was still ongoing.",
+    "key_evidence": [
+      "Government declaration, item 15",
+      "15 June 2026: 30-day moratorium on large and expensive ICT procurements",
+      "9 July 2026: Kučinskis names the publication of procurement data among his three priorities",
+      "11 September 2026: government says publication of procurement information is delayed and the IT procurement review continues"
+    ],
+    "source_url": [
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://eng.lsm.lv/article/politics/politics/15.06.2026-kulbergs-puts-temporary-stop-to-ict-procurements-in-latvia.a651515/",
+      "https://eng.lsm.lv/article/politics/politics/09.07.2026-pm-kulbergs-rates-his-cabinet-7-out-of-10-after-first-month-in-office.a654500/",
+      "https://eng.lsm.lv/article/politics/politics/11.09.2026-latvian-government-says-its-done-quite-well-so-far.a662847/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-migration-limits",
+    "title": "Restrict new long-term visas and residence permits and cap the number of third-country nationals",
+    "description": "Items 5 and 6 of the cabinet declaration: tighten immigration control to stop the immigration system being used to legalise economic migrants, restrict the issue of new long-term visas and residence permits, set a permissible number of third-country nationals and ban dishonest inviters from inviting foreigners.",
+    "date_made": "2026-05-28",
+    "category": "Migration",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "On 3 June 2026 Kulbergs instructed the Interior Minister to prepare comprehensive migration policy guidelines by 1 September; the report, with more than 70 measures, was submitted on 31 August, but Kulbergs publicly rejected it as uncoordinated and ministries and employers objected to several proposals, and the coalition agreed on further work. Border measures were stepped up separately (Operation 'Vilkatis' in August). No quota or new restriction on residence permits had been adopted according to the sources consulted, so confidence is moderate.",
+    "key_evidence": [
+      "Government declaration, items 5–6",
+      "3 June 2026: Prime Minister's instruction to develop migration policy guidelines by 1 September",
+      "1 September 2026: Kulbergs says he expects 'a concrete, actionable offer from the minister'; ministries and employers object to parts of the plan",
+      "11 August 2026: Operation 'Vilkatis' (Werewolf) against illegal migration launched, coordinated by the State Chancellery's Crisis Management Centre"
+    ],
+    "source_url": [
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://eng.lsm.lv/article/politics/politics/01.09.2026-kulbergs-delivers-damning-verdict-on-dombravas-immigration-wishlist.a661311/",
+      "https://eng.lsm.lv/article/society/defence/11.08.2026-latvia-launches-operation-werewolf-to-curb-illegal-migration.a658311/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-base-pension",
+    "title": "Introduce a 'base pension', starting with seniors aged 85 and over",
+    "description": "Item 36 of the cabinet declaration: introduce a 'base pension' by raising the supplement for years of service before 1996 and extending it to service after 1996, granting it first to seniors aged 85+, and assess counting the whole childcare period up to a child's third birthday in women's length of service.",
+    "date_made": "2026-05-28",
+    "category": "Social policy / pensions",
+    "status": "no_action",
+    "confidence_score": 0.7,
+    "reasoning": "At the Saeima's Senior Day on 5 June 2026, Welfare Minister Reinis Uzulnieks named the base pension and higher service supplements as the most important unfinished task and said it had not been possible this year; Kulbergs made no promises to the seniors, citing the four working months left to his government. In October 2026 LTV's De facto listed base-pension plans among 21 commitments due to start in 2027 for which no money had been found, leaving the decision to the next government.",
+    "key_evidence": [
+      "Government declaration, item 36",
+      "5 June 2026: the pensioners' federation asks for a base pension from age 85 from next year; the minister says it was not achieved this year; Kulbergs gives no promises",
+      "11 October 2026: base-pension plans among unfunded commitments for 2027"
+    ],
+    "source_url": [
+      "https://www.delfi.lv/193/politics/120120069/fokusa-darbi-daziem-menesiem-delfi-publice-kulberga-vaditas-valdibas-deklaraciju-par-daramo",
+      "https://www.lsm.lv/raksts/zinas/latvija/05.06.2026-saeima-senioru-diena-prasa-lielaku-veribu-sudraba-ekonomikai-un-bazes-pensiju-no-85-gadu-vecuma.a650295/",
+      "https://www.lsm.lv/raksts/zinas/ekonomika/11.10.2026-valsts-budzets-2027-saistibas-ir-naudas-nav.a667077/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-no-divisive-issues",
+    "title": "Not reopen divisive issues such as leaving the Istanbul Convention during the term",
+    "description": "On 25 May 2026 Kulbergs told LTV that the incoming coalition had agreed not to raise issues that divide society, including the denunciation of the Istanbul Convention, despite the pre-election period. The coalition agreement signed on 28 May also commits the partners not to allow any retreat from standards already achieved on human rights, combating violence, gender equality and the legal protection of families.",
+    "date_made": "2026-05-25",
+    "category": "Human rights / coalition",
+    "status": "kept",
+    "confidence_score": 0.75,
+    "reasoning": "The law on leaving the Istanbul Convention, adopted on 30 October 2025 and returned by President Rinkēvičs, was not taken up again during the Kulbergs government: the Saeima majority had already set 1 November 2026 as the deadline for proposals, leaving it to the 15th Saeima, and the coalition did not move it forward. According to LSM, Kulbergs and other United List politicians said during and after the campaign that the question should be settled by a consultative referendum, so the issue may return in the next term.",
+    "key_evidence": [
+      "25 May 2026: 'we have a clear agreement that we do not raise divisive issues'",
+      "28 May 2026: coalition agreement commits to no retreat from human-rights and anti-violence standards",
+      "19 October 2026 (LSM): the returned law was left to the 15th Saeima; United List politicians, including Kulbergs, favour a consultative referendum"
+    ],
+    "source_url": [
+      "https://www.lsm.lv/raksts/zinas/latvija/25.05.2026-premjera-amata-kandidats-kulbergs-necilasim-sabiedribu-skelosus-jautajumus.a648704/",
+      "https://eng.lsm.lv/article/politics/politics/28.05.2026-latvias-new-coalition-pledges-to-work-together.a649088/",
+      "https://www.lsm.lv/raksts/zinas/latvija/19.10.2026-lsm-skaidro-ka-15-saeima-var-necilat-stambulas-konvenciju-un-kapec-nevajag-konsultativo-referendumu.a667518/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-promise-latgale-drone-factory",
+    "title": "Build a joint Latvian-Ukrainian drone factory in Latgale",
+    "description": "On 29 June 2026, visiting a military base in eastern Latvia, Kulbergs said Latvia and Ukraine would build a joint drone manufacturing facility in the Latgale region near the Russian and Belarusian borders, that his government would 'do everything necessary' to site it there and that construction should start in 2026. It follows the defence cooperation agreement ('Drone Deal') he signed with President Zelenskyy on 9 June.",
+    "date_made": "2026-06-29",
+    "category": "Defence industry / Ukraine",
+    "status": "no_action",
+    "confidence_score": 0.45,
+    "reasoning": "The framework exists: the 9 June agreement commits Latvia to devote at least 5% of its defence budget to the cooperation, which can include co-production and localising defence manufacturing in Latvia. But Defense News reported that the plant's location, cost sharing and drone types had not been disclosed, and the sources consulted report no site decision or start of construction by 23 October 2026. Confidence is low because a private Latvian-Ukrainian venture (LAT Defence) is setting up drone production separately and government steps may not have been publicised.",
+    "key_evidence": [
+      "9 June 2026: Kulbergs and Zelenskyy sign the Latvia–Ukraine comprehensive defence cooperation agreement in Tallinn",
+      "Re:Check (LSM): Latvia plans to devote no less than 5% of its defence budget to the agreement, possibly including co-production and localisation in Latvia",
+      "29 June 2026: factory in Latgale announced; location, cost sharing and products not disclosed (Defense News)"
+    ],
+    "source_url": [
+      "https://www.defensenews.com/global/europe/2026/06/30/latvia-and-ukraine-to-open-drone-factory-right-on-baltic-nations-border-with-russia/",
+      "https://www.lsm.lv/raksts/zinas/latvija/09.06.2026-latvija-ar-ukrainu-vienojas-par-sadarbibu-aizsardzibas-joma-parnems-ukrainas-pieredzi-cina-pret-droniem.a650806/",
+      "https://www.lsm.lv/raksts/zinas/latvija/15.06.2026-recheck-kadus-maldinajumus-izplata-par-ukrainas-un-latvijas-dronu-ligumu.a651390/",
+      "https://www.lsm.lv/raksts/zinas/ekonomika/09.07.2026-jauns-aizsardzibas-uznemums-lat-defence-razos-dronu-tehnologijas-un-apmacis-to-pilotus.a654466/"
+    ]
+  }
+]

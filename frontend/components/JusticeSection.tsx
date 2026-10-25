@@ -1,19 +1,22 @@
 import { justiceStatusMeta, type JusticeCase } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import { badgeLabel, type I18nProps } from "@/lib/i18n/props";
 
 /** Justice / legal record, presented neutrally. Each case shows a prominent
  *  status badge (convicted / acquitted / dismissed / ongoing / appeal-pending /
  *  …), the case title, period and court, a neutral description, key facts, and
  *  — verbatim — the presumption-of-innocence note. An allegation or an ongoing
  *  matter is never presented as a finding of guilt. */
-export default function JusticeSection({ items }: { items: JusticeCase[] }) {
+export default function JusticeSection({
+  items,
+  dict,
+  lang,
+}: { items: JusticeCase[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <div className="space-y-4">
       <p className="rounded-lg border border-slate-200 bg-slate-50 px-4 py-3 text-xs leading-relaxed text-slate-500">
-        Each entry documents a judicial matter and its current legal status.
-        Investigations and pending matters are not findings of wrongdoing; the
-        presumption of innocence applies until a final court decision.
+        {dict.justice.intro}
       </p>
       {items.map((item) => {
         const meta = justiceStatusMeta(item.status);
@@ -48,13 +51,13 @@ export default function JusticeSection({ items }: { items: JusticeCase[] }) {
                 className={`inline-flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium ${meta.badge}`}
               >
                 <span className={`h-2 w-2 rounded-full ${meta.dot}`} aria-hidden />
-                {meta.label}
+                {badgeLabel(meta, dict.legalStatus)}
               </span>
             </div>
 
             {item.outcome && (
               <p className="mt-2 text-xs leading-relaxed text-slate-500">
-                <span className="font-semibold text-slate-600">Outcome: </span>
+                <span className="font-semibold text-slate-600">{dict.justice.outcome} </span>
                 {item.outcome}
               </p>
             )}
@@ -68,7 +71,7 @@ export default function JusticeSection({ items }: { items: JusticeCase[] }) {
             {item.key_facts && item.key_facts.length > 0 && (
               <div className="mt-3">
                 <h4 className="text-xs font-semibold uppercase tracking-wide text-slate-500">
-                  Key facts
+                  {dict.justice.keyFacts}
                 </h4>
                 <ul className="mt-1.5 space-y-1.5">
                   {item.key_facts.map((fact, i) => (
@@ -94,7 +97,7 @@ export default function JusticeSection({ items }: { items: JusticeCase[] }) {
               </p>
             )}
 
-            <SourceLinks urls={item.source_urls} />
+            <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
           </article>
         );
       })}

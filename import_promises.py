@@ -42,6 +42,7 @@ from import_common import (
     as_list as _as_list,
     data_path,
     get_or_create_politician,
+    parse_confidence,
     parse_date as _parse_date,
     slug_of,
 )
@@ -53,6 +54,7 @@ JSON_PATH = os.getenv("PROMISES_JSON", data_path("promises"))
 STATUS_MAP: dict[str, VerificationStatus] = {
     "kept": VerificationStatus.FULFILLED,
     "fulfilled": VerificationStatus.FULFILLED,
+    "completed": VerificationStatus.FULFILLED,
     "in_progress": VerificationStatus.IN_PROGRESS,
     "compromise": VerificationStatus.COMPROMISE,
     "broken": VerificationStatus.BROKEN,
@@ -61,11 +63,9 @@ STATUS_MAP: dict[str, VerificationStatus] = {
 
 
 def _clamp_confidence(value: object) -> float:
-    """Clamp the dataset confidence into [0, 1]."""
-    try:
-        return max(0.0, min(1.0, float(value)))  # type: ignore[arg-type]
-    except (TypeError, ValueError):
-        return 0.0
+    """Parse the dataset confidence into [0, 1] (0.0 if absent/unreadable)."""
+    score = parse_confidence(value)
+    return 0.0 if score is None else score
 
 
 def _map_status(raw: object) -> VerificationStatus:

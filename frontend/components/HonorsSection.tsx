@@ -1,5 +1,6 @@
 import { type Honor } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import type { I18nProps } from "@/lib/i18n/props";
 
 /** Drop "n/a" placeholders so a "none verified" entry doesn't show stray n/a. */
 function clean(v: string | null): string | null {
@@ -10,7 +11,11 @@ function clean(v: string | null): string | null {
 /** Honours & distinctions. ``awarded_by`` (e.g. "Ex officio (French Republic)")
  *  and the detail are shown verbatim so office-attached or "not itemised"
  *  framing is preserved rather than implying a personally conferred award. */
-export default function HonorsSection({ items }: { items: Honor[] }) {
+export default function HonorsSection({
+  items,
+  dict,
+  lang,
+}: { items: Honor[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ul className="space-y-3">
@@ -28,7 +33,7 @@ export default function HonorsSection({ items }: { items: Honor[] }) {
               <div className="flex items-center gap-2">
                 {exOfficio && (
                   <span className="rounded-full bg-sky-50 px-2.5 py-0.5 text-xs font-medium text-sky-700 ring-1 ring-inset ring-sky-600/20">
-                    Ex officio
+                    {dict.honors.exOfficio}
                   </span>
                 )}
                 {year && (
@@ -46,7 +51,7 @@ export default function HonorsSection({ items }: { items: Honor[] }) {
                 {item.detail}
               </p>
             )}
-            <SourceLinks urls={item.source_urls} />
+            <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
           </li>
         );
       })}

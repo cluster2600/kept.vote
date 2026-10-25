@@ -1,0 +1,19 @@
+{
+  "name": "Donald Tusk",
+  "country": "Poland",
+  "country_code": "PL",
+  "office": "head_of_government",
+  "role": "Prime Minister of Poland (Prezes Rady Ministrów)",
+  "content_lang": "en",
+  "party": "Koalicja Obywatelska (KO; Platforma Obywatelska, PO, until its merger into KO in October 2025) — European People's Party (EPP)",
+  "birth_date": "1957-04-22",
+  "bio": "Donald Franciszek Tusk, born in Gdańsk in 1957, is a Polish politician who has been Prime Minister of Poland since 13 December 2023, an office he previously held from November 2007 to September 2014, making him the first Polish prime minister re-elected since 1989. A history graduate of the University of Gdańsk and a Solidarity-era student activist, he co-founded the Liberal Democratic Congress (KLD) in 1990 and Civic Platform (PO) in 2001, which he led in 2003–2014 and again from 2021; since October 2025 he has chaired the Civic Coalition (KO) party formed from the merger of PO, Nowoczesna and Inicjatywa Polska. Between his premierships he was President of the European Council (2014–2019) and President of the European People's Party (2019–2022). After the October 2023 election he formed a coalition government with Third Way (PSL and Polska 2050) and The Left, joined in 2026 by the Centrum group that split from Polska 2050. As of October 2026 his second premiership has been defined by efforts to undo the previous PiS government's judicial changes, the unblocking of EU funds, a large defence build-up including €43.7 billion in EU SAFE loans, a tougher migration policy, and repeated conflicts and vetoes in cohabitation with President Karol Nawrocki, in office since August 2025.",
+  "portrait": {
+    "file": "donald-tusk.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Donald_Tusk_2025_%282%29.jpg",
+    "author": "Gov.pl",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-22"
+  }
+}

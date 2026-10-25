@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "title": "kept.vote – politiske løfter under lup",
+    "description": "En partipolitisk uafhængig oversigt over politiske løfter: hvilke der er holdt, brudt eller stadig i gang – med kilder."
+  },
+  "header": {
+    "home": "kept.vote – forside",
+    "politicians": "Politikere",
+    "methodology": "Metode",
+    "language": "Sprog"
+  },
+  "footer": {
+    "methodologyTitle": "Metode",
+    "methodologyBody": "Hvert løfte vurderes ud fra primære kilder – love, officielle dokumenter og offentlige data – og får en status: {kept}, {broken}, {inProgress} eller {noAction}. En sikkerhedsgrad angiver, hvor stærk den tilgængelige dokumentation er. Hver vurdering henviser til sine kilder, så du selv kan efterprøve grundlaget.",
+    "tagline": "kept.vote – en partipolitisk uafhængig oversigt over politiske løfter. Prototype."
+  },
+  "home": {
+    "eyebrow": "Løftetjek",
+    "title": "Har de holdt ord?",
+    "intro": "kept.vote sammenholder, hvad politikere har lovet, med hvad de faktisk har gjort – holdt, brudt eller stadig i gang – og hver vurdering bygger på primære kilder.",
+    "stats": {
+      "politicians": "Politikere",
+      "promises": "Registrerede løfter",
+      "verified": "Verificeret"
+    },
+    "politiciansHeading": "Politikere",
+    "countryFilterLabel": "Filtrér efter land",
+    "mapLabel": "Kort: vælg et land",
+    "mapCovered": "Dækket",
+    "mapNotCovered": "Endnu ikke dækket",
+    "allCountries": "Alle lande",
+    "otherCountry": "Andet",
+    "politicianCount": {
+      "one": "{count} politiker",
+      "other": "{count} politikere"
+    },
+    "promiseCount": {
+      "one": "{count} løfte",
+      "other": "{count} løfter"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Endnu ingen verificerede løfter",
+    "viewDossier": "Se dossier",
+    "noneInCountry": "Der følges endnu ingen politikere fra dette land.",
+    "emptyState": "Endnu ingen politikere. Kør seed-scriptet for at indlæse demodata:",
+    "connectionErrorTitle": "Dataene kunne ikke indlæses.",
+    "connectionErrorBody": "Databasen svarede ikke. Prøv igen om et øjeblik."
+  },
+  "office": {
+    "head_of_state": "Statsoverhoved",
+    "head_of_government": "Regeringschef",
+    "minister": "Minister",
+    "legislator": "Parlamentsmedlem",
+    "mayor": "Borgmester",
+    "regional_executive": "Regionalregering",
+    "party_leader": "Partileder",
+    "judge": "Dommer",
+    "other": "Andet hverv"
+  },
+  "notFound": {
+    "title": "Ikke fundet",
+    "body": "Vi kunne ikke finde det, du ledte efter.",
+    "back": "Tilbage til politikere"
+  },
+  "politician": {
+    "back": "← Alle politikere",
+    "trackRecord": "Løfteregnskab",
+    "contentLanguage": "Profilen er skrevet på {language}",
+    "photoCredit": "Foto: {author}, {license}, via {source}",
+    "tabsLabel": "Profilafsnit",
+    "tabs": {
+      "promises": "Løfter",
+      "background": "Baggrund",
+      "finances": "Økonomi",
+      "justice": "Retssager",
+      "controversies": "Kontroverser",
+      "sources": "Kilder"
+    },
+    "background": {
+      "electoral": "Valghistorik",
+      "work": "Karriere",
+      "education": "Uddannelse",
+      "legislation": "Central lovgivning",
+      "honors": "Hædersbevisninger og udmærkelser"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Tallene gengives som oplyst – de fleste stammer fra de officielle erklæringer indgivet til Frankrigs {hatvp} (Den høje myndighed for gennemsigtighed i det offentlige liv). Formuleringer som »oplyst« eller »ca.« afspejler kilden og vises uændret.",
+      "switzerland": "Schweiz har ingen offentlig ordning for formueerklæringer for sine folkevalgte, så tal vises kun, hvor de er blevet offentliggjort. Hverv og interesser stammer fra parlamentets interesseregister og fra Lobbywatch. Formuleringer som »oplyst« eller »ca.« afspejler kilden og vises uændret.",
+      "default": "Tallene gengives som oplyst, fra officielle offentlige erklæringer, hvor landet offentliggør dem; hvor det ikke er tilfældet, forbliver dette afsnit tomt. Formuleringer som »oplyst« eller »ca.« afspejler kilden og vises uændret."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Nettoformue",
+      "assets": "Aktiver",
+      "income": "Indkomst",
+      "real_estate": "Fast ejendom"
+    },
+    "netWorthTimeline": "Nettoformuens udvikling",
+    "stocks": "Værdipapirer og aktiebeholdninger",
+    "realEstate": "Fast ejendom",
+    "companies": "Virksomheder og ejerskab",
+    "interests": "Interesseerklæring",
+    "asOf": "pr. {date}",
+    "declarationStatus": "Status for oplysningen"
+  },
+  "status": {
+    "fulfilled": "Holdt",
+    "broken": "Brudt",
+    "in_progress": "I gang",
+    "compromise": "Kompromis",
+    "no_action": "Ingen tiltag",
+    "unverified": "Ikke verificeret"
+  },
+  "legalStatus": {
+    "no_charges": "Ingen tiltale",
+    "ongoing": "Igangværende",
+    "concluded": "Afsluttet",
+    "in_court": "For retten",
+    "political": "Politisk",
+    "victim": "Offer",
+    "under_investigation": "Under efterforskning",
+    "awaiting_trial": "Afventer retssag",
+    "party_matter": "Partiintern sag",
+    "no_proceedings": "Ingen retssag",
+    "conviction": "Domfældelse",
+    "noted": "Noteret",
+    "unknown": "Ukendt",
+    "appeal_pending": "Anket",
+    "convicted": "Dømt",
+    "acquitted": "Frifundet",
+    "dismissed": "Henlagt",
+    "settled": "Forlig"
+  },
+  "assetStatus": {
+    "declared": "Oplyst",
+    "estimated": "Anslået",
+    "historical": "Historisk",
+    "divested": "Afhændet",
+    "none": "Intet oplyst"
+  },
+  "justice": {
+    "intro": "Hver post beskriver en retslig sag og dens aktuelle juridiske status. Efterforskninger og verserende sager betyder ikke, at der er påvist fejl eller ulovligheder; uskyldsformodningen gælder, indtil der foreligger en endelig dom.",
+    "outcome": "Udfald:",
+    "keyFacts": "Centrale fakta"
+  },
+  "polemics": {
+    "intro": "Hver post opsummerer en offentligt dokumenteret kontrovers og viser dens aktuelle juridiske eller politiske status. Beskrivelserne er faktuelle og neutrale; en beskyldning betyder ikke, at der er påvist fejl eller ulovligheder.",
+    "statusLine": "Juridisk/politisk status:",
+    "keyFacts": "Centrale fakta"
+  },
+  "legislation": {
+    "significance": "Betydning:"
+  },
+  "honors": {
+    "exOfficio": "I kraft af embedet"
+  },
+  "electoral": {
+    "versus": "mod {opponent}"
+  },
+  "dates": {
+    "present": "nu"
+  },
+  "sources": {
+    "title": "Kilder og referencer",
+    "summary": "Underbygget af {sources} fra {domains}",
+    "sourceCount": {
+      "one": "{count} kilde",
+      "other": "{count} kilder"
+    },
+    "domainCount": {
+      "one": "{count} domæne",
+      "other": "{count} domæner"
+    },
+    "methodologyLabel": "Metode.",
+    "methodologySources": {
+      "france": "Data er indsamlet fra officielle kilder – HATVP's formueerklæringer, INSEE, Légifrance og regeringens websteder – suppleret med troværdig journalistik.",
+      "switzerland": "Data er indsamlet fra officielle kilder – Forbundsforsamlingens interesseregister, parlament.ch samt føderale, kantonale og kommunale myndigheders websteder – suppleret med Lobbywatch og troværdig journalistik.",
+      "default": "Data er indsamlet fra officielle kilder – parlamentariske og offentlige dokumenter, lovtidender og offentlige erklæringer, hvor landet offentliggør dem – suppleret med troværdig journalistik."
+    },
+    "methodologyStatuses": "Statusserne afspejler efterprøvelige resultater pr. den angivne dato; beskyldninger betegnes som sådan, og deres juridiske status vises.",
+    "otherDomain": "andre",
+    "sections": {
+      "promises": "Løfter",
+      "work_history": "Karriere",
+      "finances": "Økonomi",
+      "stocks": "Aktier",
+      "real_estate": "Fast ejendom",
+      "companies": "Virksomheder",
+      "controversies": "Kontroverser",
+      "electoral_history": "Valg",
+      "interests": "Interesser",
+      "education": "Uddannelse",
+      "honors": "Hædersbevisninger",
+      "key_legislation": "Lovgivning",
+      "net_worth": "Nettoformue",
+      "justice": "Retssager"
+    },
+    "linkLabel": {
+      "one": "Kilde:",
+      "other": "Kilder:"
+    }
+  },
+  "promises": {
+    "all": "Alle",
+    "otherCategory": "Andet",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Ingen registrerede løfter",
+    "emptyBody": "Der følges endnu ingen valg- eller programløfter for {name}. Vedkommendes virke er dokumenteret under {background}, {legislation} og {controversies}.",
+    "contextLabel": "Kontekst.",
+    "campaignOnly": "{name} har ikke haft et udøvende embede. Der er tale om valgløfter, ikke gennemført politik – derfor registreres hvert løfte som »{noAction}« frem for holdt eller brudt.",
+    "promised": "Lovet den {date}",
+    "confidenceValue": "{value} sikkerhed",
+    "filterLabel": "Filtrér løfter efter status"
+  },
+  "promise": {
+    "breadcrumbFallback": "Løfte",
+    "verdict": "Vurdering",
+    "assessment": "Begrundelse",
+    "keyEvidence": "Vigtigste dokumentation",
+    "sourcesHeading": {
+      "one": "Kilde",
+      "other": "Kilder"
+    },
+    "primarySource": "Hovedkilde",
+    "additionalSource": "Supplerende kilde",
+    "lastReviewed": "Senest gennemgået den {date}",
+    "editoriallyReviewed": "Redaktionelt gennemgået",
+    "notVerified": "Dette løfte er endnu ikke verificeret."
+  },
+  "confidence": {
+    "label": "Sikkerhed"
+  }
+}

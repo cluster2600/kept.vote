@@ -1,6 +1,6 @@
 [
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-1",
     "entity": "NFCONSULTING (SAS)",
     "role": "director",
     "ownership_stake": "",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-2",
     "entity": "SCI DE LA RUE DES TROIS MARCHANDS",
     "role": "director",
     "ownership_stake": "",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-3",
     "entity": "SCI DE MALATRET",
     "role": "director",
     "ownership_stake": "",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-4",
     "entity": "CENTRE CAPITAL DEVELOPPEMENT (SA)",
     "role": "board_member",
     "ownership_stake": "",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-5",
     "entity": "SEM d'Aménagement pour le Développement Économique de l'Aéroport (Châteauroux-Déols)",
     "role": "board_member",
     "ownership_stake": "",
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-6",
     "entity": "Communauté de communes de La Châtre et Sainte-Sévère",
     "role": "director",
     "ownership_stake": "",
@@ -79,7 +79,7 @@
     ]
   },
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-7",
     "entity": "Centre français du commerce extérieur (CFCE) / Ubifrance",
     "role": "board_member",
     "ownership_stake": "",
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "id": "nicolas-forissier",
+    "id": "nicolas-forissier-company-8",
     "entity": "Bpifrance",
     "role": "advisor",
     "ownership_stake": "",

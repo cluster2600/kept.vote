@@ -1,0 +1,37 @@
+[
+  {
+    "id": "christian-stocker-edu-volksschule",
+    "institution": "Volksschule (primary school), Wiener Neustadt",
+    "qualification": "Primary education",
+    "field": "",
+    "years": "1966–1970",
+    "detail": "Primary school in his home town, as listed in his parliamentary biography.",
+    "source_url": [
+      "https://www.parlament.gv.at/person/5439"
+    ]
+  },
+  {
+    "id": "christian-stocker-edu-realgymnasium",
+    "institution": "Bundesrealgymnasium (Realgymnasium), Wiener Neustadt",
+    "qualification": "Matura (secondary school leaving examination)",
+    "field": "General secondary education",
+    "years": "1970–1979",
+    "detail": "Secondary school in Wiener Neustadt, completed with the Matura before he began university in 1979.",
+    "source_url": [
+      "https://www.parlament.gv.at/person/5439",
+      "https://de.wikipedia.org/wiki/Christian_Stocker"
+    ]
+  },
+  {
+    "id": "christian-stocker-edu-uni-wien-law",
+    "institution": "University of Vienna (Universität Wien)",
+    "qualification": "Mag. iur. (1986) and Dr. iur. (1988)",
+    "field": "Law",
+    "years": "1979–1988",
+    "detail": "Studied law from 1979, graduating with a master's degree (Magister) in 1986 and a doctorate in law in 1988.",
+    "source_url": [
+      "https://www.parlament.gv.at/person/5439",
+      "https://de.wikipedia.org/wiki/Christian_Stocker"
+    ]
+  }
+]

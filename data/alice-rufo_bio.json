@@ -1,7 +1,19 @@
 {
   "name": "Alice Rufo",
   "country": "France",
+  "country_code": "FR",
+  "office": "minister",
+  "role": "Ministre déléguée auprès de la ministre des Armées et des Anciens combattants",
+  "content_lang": "fr",
   "party": "Sans étiquette (haute fonctionnaire)",
   "birth_date": "1980-04-09",
-  "bio": "Alice Louise Émilie Rufo, née le 9 avril 1980 à Toulon (Var), est une haute fonctionnaire française spécialiste des questions de défense et de relations internationales. Fille du pédopsychiatre Marcel Rufo, elle est ancienne élève de l'École normale supérieure (rue d'Ulm), diplômée de Sciences Po Paris et de l'université Paris 1 Panthéon-Sorbonne, et ancienne élève de l'École nationale d'administration (promotion Émile Zola, 2010). Après des débuts au ministère des Affaires étrangères puis au SGDSN, elle a passé une décennie à la présidence de la République (2012-2022) au sein du pôle diplomatique, jusqu'au poste de conseillère diplomatique adjointe. Nommée directrice générale des relations internationales et de la stratégie (DGRIS) du ministère des Armées le 1er novembre 2022, elle est devenue le 12 octobre 2025 ministre déléguée auprès de la ministre des Armées et des Anciens combattants dans le gouvernement de Sébastien Lecornu, chargée notamment de l'Europe de la défense. Elle a conservé cette fonction à l'issue du remaniement du 26 février 2026. Elle n'a jamais exercé de mandat électif."
+  "bio": "Alice Louise Émilie Rufo, née le 9 avril 1980 à Toulon (Var), est une haute fonctionnaire française spécialiste des questions de défense et de relations internationales. Fille du pédopsychiatre Marcel Rufo, elle est ancienne élève de l'École normale supérieure (rue d'Ulm), diplômée de Sciences Po Paris et de l'université Paris 1 Panthéon-Sorbonne, et ancienne élève de l'École nationale d'administration (promotion Émile Zola, 2010). Après des débuts au ministère des Affaires étrangères puis au SGDSN, elle a passé une décennie à la présidence de la République (2012-2022) au sein du pôle diplomatique, jusqu'au poste de conseillère diplomatique adjointe. Nommée directrice générale des relations internationales et de la stratégie (DGRIS) du ministère des Armées le 1er novembre 2022, elle est devenue le 12 octobre 2025 ministre déléguée auprès de la ministre des Armées et des Anciens combattants dans le gouvernement de Sébastien Lecornu, chargée notamment de l'Europe de la défense. Elle a conservé cette fonction à l'issue du remaniement du 26 février 2026. Elle n'a jamais exercé de mandat électif.",
+  "portrait": {
+    "file": "alice-rufo.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ministre_d%C3%A9l%C3%A9gu%C3%A9e_aupr%C3%A8s_de_la_ministre_des_Arm%C3%A9es_et_des_Anciens_combattants_Alice_Louise_%C3%89milie_Rufo.jpg",
+    "author": "Lara Priolet / ECPAD / Défense",
+    "license": "Licence Ouverte 2.0",
+    "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "retrieved": "2026-10-22"
+  }
 }

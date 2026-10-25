@@ -1,0 +1,340 @@
+[
+  {
+    "id": "ahmed-al-sharaa-promise-national-dialogue",
+    "title": "Hold a National Dialogue Conference on the transition",
+    "description": "In his first address to the nation as president at the end of January 2025, al-Sharaa said he would announce 'in the coming days' a preparatory committee for a national dialogue conference, 'a direct platform for exchanges, discussions and hearing various points of view regarding our forthcoming political program'.",
+    "date_made": "2025-01",
+    "category": "Political transition",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "A seven-member preparatory committee was named on 12 February 2025 and the National Dialogue Conference was held at the presidential palace in Damascus on 25 February 2025. Its final statement called for a temporary constitution, a temporary legislature, the unity of Syria and confining weapons to the state, but its recommendations were not binding. The conference was criticised as rushed and unrepresentative: Britannica notes it lasted one day, and 35 Kurdish parties and the Kurdish-led administration, which was not invited, called the representation 'token'.",
+    "key_evidence": [
+      "End of January 2025 address: preparatory committee for a national dialogue conference to be announced",
+      "12 February 2025: preparatory committee of seven members announced",
+      "25 February 2025: conference held in Damascus; the Kurdish-led Autonomous Administration was not invited because armed groups were excluded (organisers, via AFP)",
+      "35 Kurdish parties: 'Conferences with token representation... are meaningless'"
+    ],
+    "source_url": [
+      "https://web.archive.org/web/20260117092231/https://www.meforum.org/mef-online/ahmad-al-sharaas-address-to-the-syrian-nation",
+      "https://english.ahram.org.eg/News/541054.aspx",
+      "https://www.britannica.com/biography/Ahmed-al-Sharaa",
+      "https://en.wikipedia.org/wiki/Constitutional_Declaration_of_the_Syrian_Arab_Republic"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-constitutional-declaration",
+    "title": "Issue a constitutional declaration as the legal reference for the transition",
+    "description": "After the 2012 constitution was declared cancelled on 29 January 2025, al-Sharaa said that once the dialogue steps were completed 'we will announce the constitutional declaration to serve as the legal reference for the transitional stage'.",
+    "date_made": "2025-01",
+    "category": "Political transition / constitution",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "He formed a drafting committee on 2 March 2025 and signed the Constitutional Declaration on 13 March 2025. It sets a five-year transition, gives executive power to the president (there is no prime minister), makes Islamic jurisprudence the principal source of legislation, requires the president to be Muslim, protects freedom of expression and belief, and creates a People's Assembly two-thirds selected by electoral bodies and one-third appointed by the president. The promise to issue the document was fulfilled; its content is disputed (see polemics).",
+    "key_evidence": [
+      "2 March 2025: drafting committee formed",
+      "13 March 2025: Constitutional Declaration signed, in force for five years",
+      "Abdulhamid al-Awak (drafting committee): Islamic law the main source of jurisprudence; executive power restricted to the president"
+    ],
+    "source_url": [
+      "https://web.archive.org/web/20260117092231/https://www.meforum.org/mef-online/ahmad-al-sharaas-address-to-the-syrian-nation",
+      "https://www.aljazeera.com/news/2025/3/13/syrias-al-sharaa-signs-five-year-temporary-constitution",
+      "https://www.refworld.org/legal/legislation/natlegbod/2025/150231",
+      "https://en.wikipedia.org/wiki/Constitutional_Declaration_of_the_Syrian_Arab_Republic"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-interim-legislature",
+    "title": "Form an interim legislative council to fill the gap left by the dissolved parliament",
+    "description": "At the Victory Conference of 29 January 2025, the Military Operations Command announced that al-Sharaa would form an interim legislative council until a new constitution was approved; in his first address he said he would name a preparatory committee 'to choose a mini legislative council that fills this gap in the transitional stage'.",
+    "date_made": "2025-01-29",
+    "category": "Political transition / legislature",
+    "status": "kept",
+    "confidence_score": 0.75,
+    "reasoning": "The People's Assembly provided for in the Constitutional Declaration was formed, but more slowly than announced. Al-Sharaa appointed an 11-member Higher Committee in June 2025; electoral colleges chose 119 members on 5 October 2025 after two postponements, with further seats filled in October 2025 and March and May 2026; he appointed the remaining 70 members by Decree No. 143 on 1 July 2026, and the Assembly first met on 12 July 2026, about 17 months after the pledge. As of July 2026 four seats in Sweida were vacant. The selection method itself is criticised (see polemics).",
+    "key_evidence": [
+      "June 2025: 11-member Higher Committee for the People's Assembly elections appointed by the president",
+      "5 October 2025: 119 of 140 elective seats filled by electoral colleges; Raqqa, Hasakah and Sweida postponed",
+      "1 July 2026: Decree No. 143 appoints 70 members; 12 July 2026: inaugural session",
+      "IPU: 206 members and 4 vacancies as of 18 July 2026, 22 of them women"
+    ],
+    "source_url": [
+      "https://www.bbc.com/news/articles/c8d9r0vg6v7o",
+      "https://web.archive.org/web/20260117092231/https://www.meforum.org/mef-online/ahmad-al-sharaas-address-to-the-syrian-nation",
+      "https://data.ipu.org/parliament/SY/SY-LC01/election/SY-LC01-E20251005/",
+      "https://sana.sy/en/syria/2328935/",
+      "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-inclusive-government",
+    "title": "Form a comprehensive transitional government reflecting Syria's diversity",
+    "description": "In his first address as president he pledged to 'form a comprehensive transitional government, reflecting Syria's diversity in its men, women and youth', working towards 'free and impartial elections'.",
+    "date_made": "2025-01",
+    "category": "Governance / inclusion",
+    "status": "compromise",
+    "confidence_score": 0.65,
+    "reasoning": "On 29 March 2025 he appointed a 23-member cabinet that included an Alawite (Yarub Badr, transport), a Druze (Amjad Badr, agriculture), a Christian woman (Hind Kabawat, social affairs, the only woman) and a Kurd, replacing a caretaker cabinet that critics said was made of his close associates. Key ministries, including foreign affairs (Asaad al-Shaibani) and defence (Murhaf Abu Qasra), stayed with members of the caretaker cabinet drawn from his former movement. The pledge was met in an altered, partial form.",
+    "key_evidence": [
+      "29 March 2025: 23 ministers sworn in; no prime minister",
+      "Four ministers from minority communities; one woman",
+      "Asaad al-Shaibani (foreign affairs) and Murhaf Abu Qasra (defence) kept their posts",
+      "9 May 2026: first reshuffle replaced the information and agriculture ministers, including Amjad Badr"
+    ],
+    "source_url": [
+      "https://web.archive.org/web/20260117092231/https://www.meforum.org/mef-online/ahmad-al-sharaas-address-to-the-syrian-nation",
+      "https://www.aljazeera.com/news/2025/3/30/syrian-president-unveils-transitional-government",
+      "https://english.enabbaladi.net/archives/2026/05/a-secretary-general-two-ministers-and-four-governors-who-are-syrias-new-appointees/",
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-constitution-elections",
+    "title": "A permanent constitution in two to three years and elections in about four years",
+    "description": "In an Al Arabiya interview in late December 2024 he said writing a new constitution could take two or three years and organising elections up to four years. At the Doha Forum in December 2025 he again spoke of a permanent constitution to be drafted ahead of elections expected in about four years.",
+    "date_made": "2024-12-29",
+    "category": "Political transition / elections",
+    "status": "no_action",
+    "confidence_score": 0.55,
+    "reasoning": "Neither deadline had passed by October 2026. The transitional institutions that are meant to lead to a permanent constitution exist: the People's Assembly, which Al Jazeera describes as tasked with drafting a new constitution, first met in July 2026, and a Supreme Constitutional Court was appointed the same month. However, no constitution-drafting body, census, electoral law or election date had been reported in the sources consulted. Al-Sharaa and officials say direct elections are not feasible because of lost civil records and the displacement of about half the population.",
+    "key_evidence": [
+      "December 2024 (Al Arabiya, reported by the BBC): elections could take up to four years",
+      "Constitutional Declaration (13 March 2025): five-year transition; People's Assembly term of 30 months, renewable",
+      "October 2025: al-Sharaa said popular elections were difficult due to lost documents and half the population being outside Syria (BBC)",
+      "12 July 2026: People's Assembly convenes; no drafting committee reported as of October 2026"
+    ],
+    "source_url": [
+      "https://www.bbc.com/news/articles/c8d9r0vg6v7o",
+      "https://sana.sy/en/presidency/2281990/",
+      "https://www.bbc.com/news/articles/czrpx1vvr45o",
+      "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow",
+      "https://en.wikipedia.org/wiki/Constitutional_Declaration_of_the_Syrian_Arab_Republic",
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-transitional-justice",
+    "title": "Pursue Assad-era perpetrators 'via true transitional justice'",
+    "description": "Among the priorities of his first address: 'pursuing the criminals who have been steeped in Syrian blood, and committed massacres and crimes against us, whether among those who have gone into hiding inside the country, or have fled outside it, via true transitional justice.' At the Victory Conference he named transitional justice as the way to keep civil peace and prevent revenge attacks.",
+    "date_made": "2025-01",
+    "category": "Justice / transitional justice",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "By Decree No. 20 of 17 May 2025 he created a National Commission for Transitional Justice, alongside a National Commission for the Missing; Human Rights Watch and other critics say its mandate covers only crimes of the former government, not those of other armed groups including HTS. Syrian courts have since tried Assad-era figures: in August 2026 Bashar al-Assad, who is in Russia, was sentenced to death in absentia for war crimes and crimes against humanity, and former grand mufti Ahmed Hassoun to life imprisonment, the tenth Assad-era figure sentenced according to the BBC. In September 2026 the People's Assembly abolished the Assad-era Counter-Terrorism Court and nullified the effects of its rulings.",
+    "key_evidence": [
+      "17 May 2025: Decree No. 20 establishing the National Commission for Transitional Justice",
+      "August 2026: Assad sentenced to death in absentia; Hassoun sentenced to life (BBC)",
+      "September 2026: parliament abolishes the 2012 Counter-Terrorism Court",
+      "Critics: commission's mandate limited to crimes of the Assad government"
+    ],
+    "source_url": [
+      "https://web.archive.org/web/20260117092231/https://www.meforum.org/mef-online/ahmad-al-sharaas-address-to-the-syrian-nation",
+      "https://www.bbc.com/news/articles/c8d9r0vg6v7o",
+      "https://www.bbc.com/news/articles/cd68ygy73v4o",
+      "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare",
+      "https://en.wikipedia.org/wiki/National_Commission_for_Transitional_Justice_(Syria)"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-coastal-accountability",
+    "title": "Punish those responsible for the coastal killings of Alawite civilians, 'even among those closest to us'",
+    "description": "After the March 2025 violence on the coast, he set up a national fact-finding committee on 9 March and told Reuters on 10 March: 'We won't accept that any blood be shed unjustly, or goes without punishment or accountability, even among those closest to us.'",
+    "date_made": "2025-03-10",
+    "category": "Justice / minority protection",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The national committee reported on 22 July 2025 that 1,426 people, mostly civilians, were killed and identified 298 suspects from factions among the government-side forces and 265 from pro-Assad groups, while saying commanders had not ordered the violations. The first public trial opened in Aleppo on 18 November 2025 with 14 defendants, seven of them from the new security forces. The military criminal court issued its first verdicts on 17 September 2026 and more on 15 October 2026, including 20-year sentences for members of government forces (one from the Defence Ministry's 82nd Division) for intentional homicide; Al Jazeera described this as the first time government-linked personnel were tried for such acts. Only a small share of the identified suspects had been tried by October 2026, and the UN Commission of Inquiry has called for accountability regardless of rank.",
+    "key_evidence": [
+      "22 July 2025: committee report, 1,426 killed (90 women), 238 security and army personnel killed by pro-Assad groups, 298 government-side suspects",
+      "18 November 2025: first trial opens in Aleppo (7 Assad loyalists, 7 members of government forces)",
+      "17 September 2026: first verdicts, including 20 years for a former member of government forces",
+      "15 October 2026: 82nd Division member sentenced to 20 years; two Assad loyalists sentenced to death"
+    ],
+    "source_url": [
+      "https://www.aljazeera.com/news/2025/3/10/syrias-al-sharaa-vows-to-punish-forces-responsible-for-mass-killings",
+      "https://english.enabbaladi.net/archives/2025/07/syrian-coastal-fact-finding-committee-presents-its-findings/",
+      "https://www.aljazeera.com/news/2025/11/18/syria-launches-first-trial-over-coastal-violence-that-killed-thousands",
+      "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence",
+      "https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-sweida-accountability",
+    "title": "Protect the Druze and hold to account those who abused them in Sweida",
+    "description": "In a televised address on 17 July 2025, after government forces withdrew from Sweida, he said the Druze are under the protection and responsibility of the state and pledged that those who abused Druze residents would be held accountable.",
+    "date_made": "2025-07-17",
+    "category": "Justice / minority protection",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "A national investigation committee submitted an 850-page report on 17 March 2026, counting 1,760 dead and 2,188 injured on all sides and describing the violations as individual rather than systematic; 23 security and military personnel were detained, and public trials began at the Military Criminal Court in Damascus on 1 July 2026. The UN Commission of Inquiry, reporting on 27 March 2026, found that government forces accompanied by tribal fighters executed Druze civilians in the first wave of violence and urged investigation of senior security officials; according to AP it saw no indication of Syrian investigations into its forces' violations. Steps have been taken, but no verdicts had been reported by October 2026 and the government does not control Sweida city.",
+    "key_evidence": [
+      "17 July 2025: pledge of accountability (AFP via Ahram Online)",
+      "17 March 2026: national committee report; 23 personnel detained",
+      "27 March 2026: UN Commission of Inquiry report; more than 1,700 killed and nearly 200,000 displaced",
+      "1 July 2026: public trials begin in Damascus"
+    ],
+    "source_url": [
+      "https://english.ahram.org.eg/News/549739.aspx",
+      "https://english.enabbaladi.net/archives/2026/03/national-committee/",
+      "https://news.un.org/en/story/2026/03/1167210",
+      "https://www.thenationalnews.com/news/mena/2026/07/04/syria-begins-public-trials-over-deadly-2025-violence-in-sweida/",
+      "https://sana.sy/en/syria/2327241/"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-sanctions-relief",
+    "title": "Obtain the lifting of the sanctions imposed on the Assad government",
+    "description": "From December 2024 al-Sharaa argued that sanctions imposed because of the Assad government should be lifted; in April 2025 he told The New York Times they should be lifted permanently because they were slowing recovery. Lifting them was a central aim of his diplomacy.",
+    "date_made": "2024-12",
+    "category": "Economy / foreign policy",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The EU lifted its economic sanctions on 20 May 2025; President Trump announced relief in May and signed an executive order ending the US sanctions programme on 30 June 2025, except for measures on Assad and associates; Congress repealed the Caesar Act in the 2026 defence budget signed on 18 December 2025; and the State Department removed Syria from the state sponsors of terrorism list on 24 August 2026. The UN Security Council lifted sanctions on al-Sharaa personally on 6 November 2025. Sanctions targeting Assad-era individuals remain.",
+    "key_evidence": [
+      "20 May 2025: EU lifts economic sanctions",
+      "30 June 2025: US executive order ending the Syria sanctions programme",
+      "18 December 2025: Caesar Act repealed (SANA)",
+      "24 August 2026: Syria removed from the US state sponsors of terrorism list, listed since 1979"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa",
+      "https://www.aljazeera.com/news/2025/5/20/eu-agrees-to-lift-all-economic-sanctions-on-syria-diplomats",
+      "https://www.aa.com.tr/en/middle-east/us-removes-syrian-president-from-specifically-designated-global-terrorist-sanction-list-/3738053",
+      "https://sana.sy/en/politics/2284409/",
+      "https://www.jpost.com/middle-east/article-906461"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-economy",
+    "title": "Rebuild the economy, stabilise the Syrian pound and restore basic services",
+    "description": "His first address set as a priority 'a strong economy' providing 'dignified job opportunities' and restoring 'the basic lost services'. Presenting the transitional government on 29 March 2025 he said it would reform the energy sector for reliable electricity, support farmers, revive industry, attract investment and strengthen the Syrian pound.",
+    "date_made": "2025-03-29",
+    "category": "Economy",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "A redenominated Syrian pound was launched on 29 December 2025 and circulated from January 2026; investment and energy agreements followed, and on 18 October 2026 Syria and the World Bank agreed to set up a recovery and reconstruction fund. Al-Sharaa himself put reconstruction costs at $600–900 billion. Living costs remain a source of protest: fuel price rises of about 25–40 percent on 13 September 2026 triggered demonstrations in several governorates, and the government introduced subsidised diesel after a meeting with al-Sharaa on 17 September.",
+    "key_evidence": [
+      "29 December 2025: new banknotes unveiled; al-Sharaa said removing zeros 'does not itself improve the economy'",
+      "September 2025 (CBS): reconstruction estimated at $600–900 billion",
+      "13–17 September 2026: fuel price protests; partial reversal for diesel",
+      "18 October 2026: World Bank recovery and reconstruction fund agreed"
+    ],
+    "source_url": [
+      "https://web.archive.org/web/20260117092231/https://www.meforum.org/mef-online/ahmad-al-sharaas-address-to-the-syrian-nation",
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa",
+      "https://sana.sy/en/economic/2286359/",
+      "https://sana.sy/en/politics/2272265/",
+      "https://www.thenationalnews.com/news/mena/2026/09/18/syrian-government-cuts-diesel-prices-after-widespread-protests-over-fuel-costs/",
+      "https://www.timesofisrael.com/liveblog_entry/syria-world-bank-agree-to-set-up-fund-for-recovery-and-reconstruction/",
+      "https://en.wikipedia.org/wiki/2026_in_Syria"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-state-monopoly-arms",
+    "title": "Dissolve the armed factions and impose one authority over all Syrian territory",
+    "description": "At the Victory Conference it was announced that all factions that fought Assad would be dissolved and integrated into state institutions; in his first address he set the priority of 'imposing its sovereignty under one authority and on one land'.",
+    "date_made": "2025-01-29",
+    "category": "Security / state-building",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "HTS and most opposition factions announced their dissolution in January 2025, and the Kurdish-led SDF was integrated into the state and dissolved in August 2026. Parts of the south remain outside government control: the Druze factions linked to Sheikh Hikmat al-Hijri hold Sweida city, which the national investigation committee said it could not enter, and clashes with government forces were reported in late August 2026; Israeli forces hold a zone in the south-west (see polemics).",
+    "key_evidence": [
+      "29 January 2025: dissolution of factions announced at the Victory Conference",
+      "25 August 2026: SDF announces its dissolution after integration",
+      "March 2026: national committee unable to enter Sweida city"
+    ],
+    "source_url": [
+      "https://www.bbc.com/news/articles/c8d9r0vg6v7o",
+      "https://web.archive.org/web/20260117092231/https://www.meforum.org/mef-online/ahmad-al-sharaas-address-to-the-syrian-nation",
+      "https://sana.sy/en/presidency/2338898/",
+      "https://english.enabbaladi.net/archives/2026/03/national-committee/",
+      "https://en.wikipedia.org/wiki/2026_in_Syria"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-sdf-integration",
+    "title": "Integrate the Kurdish-led SDF and the north-east into the state (10 March 2025 agreement)",
+    "description": "On 10 March 2025 al-Sharaa and SDF commander Mazloum Abdi signed an agreement to merge 'all civil and military institutions in northeastern Syria' into the state, including border crossings, the airport and oil and gas fields, with a ceasefire and a recognition of Kurdish citizenship and constitutional rights; implementation was due by the end of 2025.",
+    "date_made": "2025-03-10",
+    "category": "Security / Kurdish question",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "The year-end deadline passed with little progress. In January 2026 government forces took the Kurdish districts of Aleppo and then launched an offensive into Raqqa, Deir ez-Zor and Hasakah; the SDF accepted a 14-point deal on 18 January under which its members join the army as individuals rather than units, and a comprehensive integration agreement on 30 January. Abdi declared the integration complete on 20 August 2026, announced the SDF's dissolution on 25 August, and was appointed adviser to the presidency by Decree No. 164 on 27 August. The integration was achieved, but late, after armed conflict and on terms that differed from the negotiated framework; the women's units (YPJ) were not integrated into the army.",
+    "key_evidence": [
+      "10 March 2025: agreement signed in Damascus",
+      "January 2026: government offensive; 14-point agreement (BBC); 30 January comprehensive agreement",
+      "20–25 August 2026: integration declared complete; SDF dissolved",
+      "27 August 2026: Abdi appointed presidential adviser (SANA)"
+    ],
+    "source_url": [
+      "https://www.aljazeera.com/news/2025/3/10/syria-merges-kurdish-led-syrian-democratic-forces-into-state-institutions",
+      "https://www.bbc.com/news/articles/c9311l0d40qo",
+      "https://www.aljazeera.com/news/2026/1/30/kurdish-led-sdf-agrees-integration-with-syrian-government-forces",
+      "https://sana.sy/en/presidency/2338898/",
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-kurdish-rights",
+    "title": "Guarantee Kurdish rights in law and the constitution",
+    "description": "In a Shams TV interview on 14 January 2026 he said Kurdish rights would be guaranteed by the constitution and that the Kurdish community should be protected through integration into the state rather than through armed groups.",
+    "date_made": "2026-01-14",
+    "category": "Minority rights",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "On 16 January 2026 he issued a decree recognising Kurdish as a national language that schools may teach, restoring citizenship to stateless Kurds and making Nowruz a national holiday, which Al Jazeera called the first formal recognition of Kurdish national rights since 1946. In August 2026 the education ministry allowed Kurdish-language instruction, but students in Qamishli and Hasakah protested that it provides only three classes a week. A constitutional guarantee awaits the permanent constitution, which had not been drafted by October 2026.",
+    "key_evidence": [
+      "14 January 2026: 'Kurdish rights guaranteed by constitution' (SANA)",
+      "16 January 2026: decree on Kurdish language, citizenship and Nowruz",
+      "August–September 2026: Kurdish instruction decision and student protests over its scope"
+    ],
+    "source_url": [
+      "https://sana.sy/en/syria/2290518/",
+      "https://www.aljazeera.com/news/2026/1/17/syria-decree-grants-kurds-new-rights-formally-recognising-kurdish-language",
+      "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-refugee-return",
+    "title": "Bring Syrian refugees home",
+    "description": "During the December 2024 offensive he told CNN that his aim was to 'build Syria' and bring Syrian refugees back home from Lebanon and Europe; as president he has tied returns to reconstruction, saying in Berlin in March 2026 that Syrians could be encouraged to return through work opportunities while those who wish to stay should be able to.",
+    "date_made": "2024-12-06",
+    "category": "Refugees / reconstruction",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "According to UNHCR figures cited by the UN Regional Information Centre, about 1.8 million refugees returned to Syria from neighbouring countries between December 2024 and 31 August 2026, and more than two million internally displaced people went home; almost 3.9 million Syrians remained refugees abroad, down from a peak of more than 6.7 million. Returns from Europe remain small (assisted returns from Germany in the low thousands). The trend matches the pledge, but most refugees have not returned and UN agencies stress persistent humanitarian needs.",
+    "key_evidence": [
+      "UNHCR via UNRIC: ~1.8 million refugee returns, December 2024 – 31 August 2026",
+      "UNHCR: about 220,000 registered refugees returned from Jordan by 24 August 2026",
+      "30 March 2026: 'circular migration' programme discussed with Germany"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/thousands-flee-as-syrian-rebels-advance-on-crossroads-city-of-homs/",
+      "https://unric.org/en/syrian-refugees-return-home-humanitarian-crisis/",
+      "https://sana.sy/en/syria/2339175/",
+      "https://www.thenationalnews.com/news/europe/2026/03/30/al-shara-meets-german-president-in-berlin/"
+    ]
+  },
+  {
+    "id": "ahmed-al-sharaa-promise-counter-terrorism",
+    "title": "Prevent the Islamic State and other armed groups from operating from Syria",
+    "description": "Meeting a US delegation in Damascus on 20 December 2024, al-Sharaa committed, according to Assistant Secretary of State Barbara Leaf, that terrorist groups would not be allowed to pose a threat inside Syria or abroad; he has repeated that Syria will not be a launchpad for attacks on its neighbours.",
+    "date_made": "2024-12-20",
+    "category": "Security / foreign policy",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "Syria signed a political cooperation declaration with the US-led coalition against the Islamic State on 10 November 2025, took over the al-Hol camp and IS detention sites from the SDF in early 2026 and has announced operations against IS cells; the US cited counter-terrorism commitments when lifting the terrorism designations. IS attacks on Syrian forces continued in 2026, and the UN reported five foiled IS plots against al-Sharaa and two ministers within a year. In April 2025, after US demands, Syria arrested two Palestinian Islamic Jihad leaders.",
+    "key_evidence": [
+      "20 December 2024: commitment reported by Barbara Leaf (BBC)",
+      "10 November 2025: Syria joins the anti-IS coalition (political, no military component at first)",
+      "24 August 2026: State Department cites commitments 'to fully distance Syria from acts of international terrorism'"
+    ],
+    "source_url": [
+      "https://www.bbc.com/news/articles/c07gv3j818ko",
+      "https://www.aljazeera.com/news/2025/11/11/syria-signs-up-to-us-led-coalition-against-isil",
+      "https://www.jpost.com/middle-east/article-906461",
+      "https://en.wikipedia.org/wiki/2026_in_Syria",
+      "https://en.wikipedia.org/wiki/Presidency_of_Ahmed_al-Sharaa",
+      "https://en.wikipedia.org/wiki/Ahmed_al-Sharaa"
+    ]
+  }
+]

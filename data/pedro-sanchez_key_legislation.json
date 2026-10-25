@@ -1,0 +1,151 @@
+[
+  {
+    "id": "pedro-sanchez-ingreso-minimo-vital",
+    "law_name": "Minimum Vital Income (Ingreso Mínimo Vital): Real Decreto-ley 20/2020 and Ley 19/2021",
+    "year": 2020,
+    "area": "Social security / poverty",
+    "description": "Created a national, non-contributory minimum income benefit for low-income households, first by Real Decreto-ley 20/2020 of 29 May 2020 (BOE 1 June 2020) during the COVID-19 pandemic and then by Ley 19/2021 of 20 December 2021 after parliamentary processing as a bill.",
+    "significance": "Spain's first nationwide guaranteed minimum income scheme, a long-standing PSOE and Unidas Podemos commitment; its take-up and processing delays have been criticised by the AIReF and NGOs.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5493",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21007"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-eutanasia",
+    "law_name": "Ley Orgánica 3/2021 regulating euthanasia",
+    "year": 2021,
+    "area": "Health / civil rights",
+    "description": "Organic law of 24 March 2021 (BOE 25 March 2021) recognising a right to request medical assistance to die for adults with a serious and incurable illness or a serious, chronic and incapacitating condition, subject to a procedure of requests and review by regional guarantee commissions.",
+    "significance": "Made Spain one of the few countries to legalise both euthanasia and assisted suicide; challenged by PP and Vox before the Constitutional Court, which upheld it in 2023.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4628"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-cambio-climatico",
+    "law_name": "Ley 7/2021 on climate change and energy transition",
+    "year": 2021,
+    "area": "Climate / energy",
+    "description": "Law of 20 May 2021 (BOE 21 May 2021) setting binding targets for emissions reductions, renewable electricity and energy efficiency for 2030, a goal of climate neutrality by 2050, and limits on new fossil-fuel exploration licences.",
+    "significance": "Spain's first framework climate law, anchoring the government's energy-transition policy.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8447"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-reforma-laboral-2021",
+    "law_name": "Labour reform: Real Decreto-ley 32/2021",
+    "year": 2021,
+    "area": "Labour",
+    "description": "Royal decree-law of 28 December 2021 (BOE 30 December 2021), agreed with trade unions and employers, restricting temporary contracts, promoting open-ended 'fijo discontinuo' contracts, restoring the priority of sectoral collective agreements on pay and creating the RED mechanism for temporary layoffs. It was validated by Congress on 3 February 2022 by 175 votes to 174.",
+    "significance": "Partly reversed the 2012 PP labour reform; a sharp fall in the share of temporary contracts followed. The validation vote passed by a single vote after a PP deputy's mistaken vote.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788",
+      "https://en.wikipedia.org/wiki/Pedro_S%C3%A1nchez"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-libertad-sexual",
+    "law_name": "Ley Orgánica 10/2022 on comprehensive guarantee of sexual freedom ('solo sí es sí') and its 2023 amendment",
+    "year": 2022,
+    "area": "Justice / gender equality",
+    "description": "Organic law of 6 September 2022 (BOE 7 September 2022) placing explicit consent at the centre of sexual-offence law and merging sexual abuse and sexual assault into a single offence. Because the new penalty ranges led courts to reduce hundreds of existing sentences, the PSOE passed an amendment, Ley Orgánica 4/2023 of 27 April 2023, raising penalties where violence or intimidation is used, against the vote of its coalition partner Unidas Podemos.",
+    "significance": "A flagship equality law whose unintended effect on sentences created the deepest rift of the first coalition government.",
+    "source_url": [
+      "https://www.boe.es/eli/es/lo/2022/09/06/10",
+      "https://www.boe.es/eli/es/lo/2023/04/27/4"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-memoria-democratica",
+    "law_name": "Ley 20/2022 on Democratic Memory",
+    "year": 2022,
+    "area": "Historical memory / human rights",
+    "description": "Law of 19 October 2022 (BOE 20 October 2022) making the State responsible for searching for and exhuming victims of the Civil War and the Franco dictatorship, creating a state DNA bank and register of victims, declaring Francoist courts' convictions null and void, and dissolving foundations that glorify the dictatorship. It followed the 2019 exhumation of Franco's remains from the Valley of the Fallen.",
+    "significance": "Expanded the 2007 Historical Memory Law; opposed by PP and Vox, who pledged to repeal it.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17099"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-reforma-sedicion-malversacion",
+    "law_name": "Ley Orgánica 14/2022: repeal of sedition and reform of embezzlement",
+    "year": 2022,
+    "area": "Criminal law / Catalonia",
+    "description": "Organic law of 22 December 2022 (BOE 23 December 2022) abolishing the crime of sedition (replaced by an aggravated public-disorder offence) and introducing lower penalties for forms of embezzlement without personal enrichment.",
+    "significance": "Presented by the government as aligning Spanish law with European standards and de-escalating the Catalan conflict, after the 2021 pardons of the jailed independence leaders; criticised by the opposition as a concession to ERC.",
+    "source_url": [
+      "https://www.boe.es/eli/es/lo/2022/12/22/14"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-trans",
+    "law_name": "Ley 4/2023 on the real and effective equality of trans people and LGTBI rights",
+    "year": 2023,
+    "area": "Civil rights / equality",
+    "description": "Law of 28 February 2023 (BOE 1 March 2023) allowing legal gender recognition by self-determination from age 16, banning conversion therapies and setting out anti-discrimination measures for LGTBI people.",
+    "significance": "One of the most debated laws of the first coalition, which also exposed divisions within the PSOE and the feminist movement.",
+    "source_url": [
+      "https://www.boe.es/eli/es/l/2023/02/28/4"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-reforma-pensiones-2023",
+    "law_name": "Pension reform: Real Decreto-ley 2/2023",
+    "year": 2023,
+    "area": "Pensions / social security",
+    "description": "Royal decree-law of 16 March 2023 (BOE 17 March 2023), agreed with the trade unions, indexing pensions to inflation, gradually raising maximum contribution bases, adding a solidarity contribution on high salaries, and measures to reduce the gender pension gap.",
+    "significance": "The second leg of the pension reform committed to the EU under the Recovery and Resilience Plan; it relied on increased contributions rather than benefit cuts.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-vivienda",
+    "law_name": "Ley 12/2023 on the right to housing",
+    "year": 2023,
+    "area": "Housing",
+    "description": "Law of 24 May 2023 (BOE 25 May 2023), the first state housing law, allowing regions to declare 'stressed' residential markets where rent caps apply to large landlords, limiting annual rent updates, and setting a target of 20% of new developments for protected housing.",
+    "significance": "Its application depends on regional governments, several of which (PP-led) refused to apply it; housing became the central political issue of the 2023–2026 term, and the defeat of further housing decree-laws in October 2026 triggered the snap election.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12203",
+      "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-amnistia",
+    "law_name": "Ley Orgánica 1/2024 on amnesty for institutional, political and social normalisation in Catalonia",
+    "year": 2024,
+    "area": "Justice / Catalonia",
+    "description": "Organic law of 10 June 2024 (BOE 11 June 2024) granting amnesty for acts linked to the Catalan independence process between 2011 and 2023, including the 2017 referendum. It was part of the agreements with ERC and Junts that secured Sánchez's investiture in November 2023.",
+    "significance": "The most contested measure of his premiership: it prompted mass protests and was challenged before the Constitutional Court, which upheld it in its essentials in June 2025, and before the Court of Justice of the EU, which largely upheld it in July 2026 according to press reports.",
+    "source_url": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-11776",
+      "https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2025_061/NOTA%20INFORMATIVA%20N%C2%BA%2061-2025.pdf",
+      "https://www.infolibre.es/politica/justicia-europea-respalda-mayor-parte-ley-amnistia_1_2226069.html"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-paridad",
+    "law_name": "Ley Orgánica 2/2024 on parity representation and balanced presence of women and men",
+    "year": 2024,
+    "area": "Gender equality",
+    "description": "Organic law of 1 August 2024 (BOE 2 August 2024) requiring balanced representation (at least 40% of each sex) on electoral lists, in the Council of Ministers, on the boards of large listed companies and in professional bodies.",
+    "significance": "Extended parity requirements from electoral lists to government and corporate boards, in line with the EU women-on-boards directive.",
+    "source_url": [
+      "https://www.boe.es/eli/es/lo/2024/08/01/2"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-ley-ela",
+    "law_name": "Ley 3/2024 to improve the quality of life of people with ALS (Ley ELA)",
+    "year": 2024,
+    "area": "Health / disability",
+    "description": "Law of 30 October 2024 (BOE 31 October 2024) creating a fast-track procedure for recognising dependency and disability and providing reinforced care for people with amyotrophic lateral sclerosis and other highly complex irreversible illnesses.",
+    "significance": "Adopted with the support of all parliamentary groups after sustained pressure from patient associations; implementation depends on funding agreed with the regions.",
+    "source_url": [
+      "https://www.boe.es/eli/es/l/2024/10/30/3"
+    ]
+  }
+]

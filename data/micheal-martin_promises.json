@@ -1,0 +1,217 @@
+[
+  {
+    "id": "micheal-martin-promise-rotation-2022",
+    "title": "Hand the office of Taoiseach to Leo Varadkar in December 2022 (2020 coalition rotation)",
+    "description": "Under the June 2020 deal between Fianna Fáil, Fine Gael and the Green Party, Martin would serve as Taoiseach until December 2022, when the office would rotate to Fine Gael leader Leo Varadkar for the rest of the Dáil term.",
+    "date_made": "2020-06",
+    "category": "Government formation",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "Martin resigned as Taoiseach on 17 December 2022, Varadkar was elected in his place, and Martin became Tánaiste, Minister for Foreign Affairs and Minister for Defence the same day, as the Oireachtas record of his offices shows. The rotation took place on the date agreed.",
+    "key_evidence": [
+      "TheJournal, 27 June 2020: under the deal Martin 'will serve as Taoiseach until December 2022 when the role will rotate back to' Varadkar",
+      "Oireachtas members database: Martin's office of Taoiseach ends on 17 December 2022; his offices of Minister for Foreign Affairs and Minister for Defence begin the same day"
+    ],
+    "source_url": [
+      "https://www.thejournal.ie/fianna-fail-leader-micheal-martin-has-been-elected-taoiseach-5133786-Jun2020/",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-climate-law-2020",
+    "title": "Put a 51% cut in emissions by 2030 and net zero by 2050 into law (2020 programme for government)",
+    "description": "The 2020 programme for government committed to an average 7% a year cut in greenhouse-gas emissions from 2021 to 2030, about 51% over the decade, and to net zero by 2050, with a new climate law, promised within the first 100 days, to set binding five-year carbon budgets.",
+    "date_made": "2020-06",
+    "category": "Climate",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The Climate Action and Low Carbon Development (Amendment) Act 2021 commits the State to a climate-neutral economy by the end of 2050 and requires the first two carbon budgets to reduce 2030 emissions by 51% compared with 2018. The law was enacted in 2021 (Act No. 32 of 2021), about a year into the government's term rather than within 100 days. Whether the 2030 target itself is met is outside this pledge, which was to legislate for it.",
+    "key_evidence": [
+      "Irish Times and TheJournal, June 2020: the programme sets an average 7% annual cut 2021–2030 and net zero by 2050, with a climate bill promised within 100 days",
+      "Act No. 32 of 2021, section 9: the first two carbon budgets must provide for 2030 emissions 51% below 2018",
+      "The Act's long title: transition to a 'climate neutral economy by no later than the end of the year 2050'"
+    ],
+    "source_url": [
+      "https://www.irishtimes.com/news/politics/programme-for-government-binding-targets-under-green-new-deal-1.4279576",
+      "https://www.thejournal.ie/fine-gael-greens-fianna-fail-vote-ballots-government-programme-5134211-Jun2020/",
+      "https://www.oireachtas.ie/en/bills/bill/2021/39/",
+      "https://www.irishstatutebook.ie/eli/2021/act/32/section/9/enacted/en/html"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-no-sinn-fein-coalition",
+    "title": "No coalition with Sinn Féin (2024 general election)",
+    "description": "At the start of the November 2024 campaign Martin ruled out Fianna Fáil entering government with Sinn Féin, citing differences on the economy, enterprise and free trade, including Sinn Féin's opposition to ratifying the EU–Canada trade agreement (CETA).",
+    "date_made": "2024-11",
+    "category": "Government formation",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "After the election Fianna Fáil formed a government with Fine Gael and the Regional Independent Group; on 23 January 2025 the Dáil nominated Martin as Taoiseach by 95 votes to 76, with Sinn Féin in opposition. As of October 2026 Sinn Féin remains the main opposition party.",
+    "key_evidence": [
+      "Irish Examiner, November 2024: 'Fianna Fáil has ruled out a future coalition with Sinn Féin'",
+      "Dáil division of 23 January 2025 nominating Martin as Taoiseach: 95 to 76"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41512997.html",
+      "https://api.oireachtas.ie/v1/divisions?chamber=dail&date_start=2025-01-23&date_end=2025-01-23&limit=20",
+      "https://www.irishtimes.com/politics/2026/10/21/triple-lock-bill-introduced-in-dail-amid-opposition-anger-over-curtailed-debate/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-300000-homes",
+    "title": "Deliver more than 300,000 new homes by the end of 2030",
+    "description": "The 2025 programme for government ('Securing Ireland's Future') called for a successor to the Housing for All plan aiming to deliver more than 300,000 new homes by the end of 2030, including a new starter-homes scheme.",
+    "date_made": "2025-01",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The national housing plan published in November 2025 set a target of 303,000 homes by the end of 2030, an average of 50,500 a year. The CSO counted 36,284 new dwelling completions in 2025, the highest since its series began in 2011 but below that average, and 7,856 in the first quarter of 2026 (up 32.9%) and 8,823 in the second (down 3.6%). Concrete steps have been taken and output is rising, but as of October 2026 delivery is below the rate the target requires.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: programme aims for 'more than 300,000 new homes by the end of 2030'",
+      "Housing plan 'Delivering Homes, Building Communities' (November 2025): 303,000 homes by end-2030, 12,000 social homes a year, 90,000 starter homes",
+      "CSO: 36,284 completions in 2025; 7,856 in Q1 2026 and 8,823 in Q2 2026"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.irishexaminer.com/news/politics/arid-41741160.html",
+      "https://www.cso.ie/en/releasesandpublications/ep/p-ndc/newdwellingcompletionsq42025/",
+      "https://www.cso.ie/en/releasesandpublications/ep/p-ndc/newdwellingcompletionsq12026/",
+      "https://www.cso.ie/en/releasesandpublications/ep/p-ndc/newdwellingcompletionsq22026/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-hospitality-vat",
+    "title": "Cut the VAT rate for hospitality to 9% in the next budget",
+    "description": "The 2025 programme for government committed to cutting the VAT rate for the hospitality sector from 13.5% to 9% in the next budget.",
+    "date_made": "2025-01",
+    "category": "Tax / business",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "Budget 2026, presented on 7 October 2025, reduced the VAT rate on food and catering services and hairdressing to 9% from 1 July 2026, at an estimated cost of €232 million in 2026 and €681 million in 2027; hotel accommodation was not included. The Irish Times noted that the Government had 'tied itself in to the move by promising it in its programme for government', and that trade unions criticised the measure as poorly targeted.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: 'a commitment to cut the Vat rate for hospitality to 9% in the next budget'",
+      "Irish Times, 7 October 2025: VAT on restaurants and food-serving businesses cut to 9% from 1 July 2026"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.irishtimes.com/your-money/2025/10/07/budget-ireland-2026-income-tax-cuts-lose-out/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-tax-indexation",
+    "title": "Keep indexing income tax bands and credits while the economy stays strong",
+    "description": "The 2025 programme for government pledged to continue indexing tax bands and credits for individuals 'if the economy remains strong', postponing tax cuts in a downturn to protect public services.",
+    "date_made": "2025-01",
+    "category": "Tax",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "Budget 2026 made no change to income tax bands or credits apart from widening the 2% USC band to €28,700; the Irish Times wrote that indexation had been 'crowded out and discarded' by VAT cuts, although the Minister for Finance forecast growth of 3.3% for 2025 and 2.3% for 2026. Budget 2027 (6 October 2026) widened the standard-rate band by €2,500 to €46,500 and raised the personal, PAYE and earned-income credits by €125. Indexation therefore happened in one of the two budgets so far.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: indexation to continue 'if the economy remains strong'",
+      "BreakingNews.ie, Budget 2026: 'No changes to the broader personal taxation except for a rise in the USC 2 per cent rate band to €28,700'",
+      "Irish Times, Budget 2027: 40% rate entry point raised from €44,000 to €46,500; credits up €125"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.breakingnews.ie/budget2026/topline-takeaways-from-budget-2026-1816161.html",
+      "https://www.irishtimes.com/your-money/2025/10/07/budget-ireland-2026-income-tax-cuts-lose-out/",
+      "https://www.irishtimes.com/your-money/2026/10/06/budget-ireland-2027-main-points/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-childcare-200",
+    "title": "Reduce the cost of childcare to €200 per child",
+    "description": "Among the key measures of the 2025 programme for government, as summarised by the Irish Examiner: 'reducing the cost of childcare to €200 per child'.",
+    "date_made": "2025-01",
+    "category": "Childcare / families",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Budget 2027 announced that maximum childcare fees for children up to senior infants will fall from €735 to €550 a month from September 2027, with a higher National Childcare Scheme subsidy worth up to €1,000 a year for a full-time place. These are concrete steps towards lower costs, but as of October 2026 the €200 level has not been reached and the programme runs to 2030.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: 'Reducing the cost of childcare to €200 per child'",
+      "Irish Times, Budget 2027: maximum fees to fall from €735 to €550 from September 2027"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.irishtimes.com/your-money/2026/10/06/budget-ireland-2027-main-points/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-carers-means-test",
+    "title": "Phase out the means test for Carer's Allowance",
+    "description": "The 2025 programme for government committed to a phased ending of the means test for the Carer's Allowance.",
+    "date_made": "2025-01",
+    "category": "Social protection",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Budget 2027 raised the Carer's Allowance income disregard by €150 a week for a single person and €300 for a couple from July 2027, which widens eligibility; the means test itself remains in place as of October 2026. The commitment was for a phased abolition over the term, so this counts as a step rather than delivery.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: 'A phased ending of the means test for the carer's allowance'",
+      "Irish Times, Budget 2027: carer's allowance income disregard up €150 (single) and €300 (couple) from July 2027"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.irishtimes.com/your-money/2026/10/06/budget-ireland-2027-main-points/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-student-fees",
+    "title": "Further reduce the third-level student contribution fee",
+    "description": "The 2025 programme for government was reported to commit to further reducing the third-level student contribution fee over the coalition's term.",
+    "date_made": "2025-01",
+    "category": "Higher education",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Budget 2026 cut the fee permanently by €500, from €3,000 to €2,500; BreakingNews.ie noted that many students would experience this as a real-terms increase because temporary one-off reductions had brought the fee to €2,000 in previous years. Budget 2027 added a permanent €150 cut from January 2027. The fee has fallen in statutory terms but not below the level students paid in recent years.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: commitments 'to further reduce the third-level student contribution fee'",
+      "BreakingNews.ie, Budget 2026: fees down €500 permanently to €2,500",
+      "Irish Times, Budget 2027: 'Across-the-board €150 permanent cut to student fees from January'"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.breakingnews.ie/budget2026/topline-takeaways-from-budget-2026-1816161.html",
+      "https://www.irishtimes.com/your-money/2026/10/06/budget-ireland-2027-main-points/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-triple-lock",
+    "title": "Reform the 'triple lock' on overseas deployment of the Defence Forces",
+    "description": "The 2025 programme for government committed to reforming the triple-lock legislation, which requires UN, Government and Dáil approval before more than 12 Irish troops are deployed overseas, 'in keeping with the existing policy of active military neutrality'.",
+    "date_made": "2025-01",
+    "category": "Defence / neutrality",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "The Defence (Amendment) Bill 2026, which removes the requirement for UN approval, passed second stage in the Dáil by 79 votes to 71 on 21 October 2026, with committee stage expected the following month and Seanad stages still to come. Martin says the change keeps 'alive the Irish tradition of peacekeeping' and does not affect neutrality; the opposition parties oppose it and call for a referendum. It is not yet law.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: 'Reform of the triple lock legislation in keeping with the existing policy of active military neutrality'",
+      "Irish Times and TheJournal, 21 October 2026: Bill passed second stage 79–71"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.irishtimes.com/politics/2026/10/21/triple-lock-bill-introduced-in-dail-amid-opposition-anger-over-curtailed-debate/",
+      "https://www.thejournal.ie/dail-triple-lock-neutrality-7200380-Oct2026/"
+    ]
+  },
+  {
+    "id": "micheal-martin-promise-occupied-territories",
+    "title": "Enact the Occupied Territories Bill",
+    "description": "The Irish Examiner reported that the 2025 programme for government contained a commitment to enact the Occupied Territories Bill, legislation first proposed by Senator Frances Black in 2018 to ban trade with Israeli settlements.",
+    "date_made": "2025-01",
+    "category": "Foreign policy / trade",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "The Government replaced the Black bill with its own, which became the Israeli Settlements in the Occupied Palestinian Territory (Prohibition of Importation of Goods) Act 2026 (No. 35 of 2026) after passing the Seanad in July 2026. It bans imports of goods from certain settlements but not services, which the original bill and campaigners sought; the Government cited the Attorney General's advice that a services ban would not be possible. A law was passed, in a narrower form.",
+    "key_evidence": [
+      "Irish Examiner, 15 January 2025: the document 'has a commitment to enact the Occupied Territories Bill'",
+      "Oireachtas: Act No. 35 of 2026, prohibiting the importation of goods originating in certain Israeli settlements",
+      "BreakingNews.ie, July 2026: opposition criticism of the decision to omit services"
+    ],
+    "source_url": [
+      "https://www.irishexaminer.com/news/politics/arid-41554486.html",
+      "https://www.oireachtas.ie/en/bills/bill/2026/57/",
+      "https://www.breakingnews.ie/ireland/bill-passes-banning-trade-of-goods-with-illegal-israeli-settlements-1927532.html"
+    ]
+  }
+]

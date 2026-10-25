@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pedro-sanchez-stock-investment-fund",
+    "holding": "Investment fund (one fund; manager not named)",
+    "type": "investment_fund",
+    "value": "81,449.20 EUR",
+    "as_of": "2023-08-09",
+    "detail": "Declared to the Congress on 9 August 2023 under deposits and financial accounts; the BOE of 30 March 2024 lists the same amount under listed shares, public debt and bonds. It did not appear in his 2019 Congress declarations.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf",
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-stock-listed-shares",
+    "holding": "Listed shares (issuer not named in the 2023 declaration)",
+    "type": "listed_shares",
+    "value": "5,104 EUR",
+    "as_of": "2023-06-22",
+    "detail": "Declared to the Congress as 'acciones cotizadas en Bolsa' valued at 22 June 2023; the BOE of 30 March 2024 lists 5,104 EUR under shares in unlisted entities. His July 2016 Congress declaration named the holding as Red Eléctrica Española shares worth 6,470.40 EUR (valued at 13 July 2016); later declarations give 5,856 EUR (May 2019) and 5,792 EUR (October 2019) without naming the issuer.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf",
+      "https://www.congreso.es/docbienes/leg12/000309/000309_000_e_0001049_20160718.pdf",
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf"
+    ]
+  }
+]

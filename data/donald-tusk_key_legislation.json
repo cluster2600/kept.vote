@@ -1,0 +1,136 @@
+[
+  {
+    "id": "donald-tusk-leg-lisbon-ratification",
+    "law_name": "Act of 1 April 2008 on the ratification of the Treaty of Lisbon (ustawa o ratyfikacji Traktatu z Lizbony)",
+    "year": 2008,
+    "area": "European Union affairs",
+    "description": "Act authorising the President to ratify the Treaty of Lisbon, passed by the Sejm and Senate at the initiative of Tusk's first government (Dz.U. 2008 nr 62 poz. 388). President Lech Kaczyński signed the act in April 2008 but completed ratification only in October 2009, after the second Irish referendum.",
+    "significance": "Early marker of the pro-EU orientation of Tusk's first government, which had made restoring relations with Brussels a priority after the PiS government of 2005–2007.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2008/388",
+      "https://eli.gov.pl/eli/DU/2008/388/ogl"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-prosecution-separation-2009",
+    "law_name": "Act of 9 October 2009 amending the Act on the Public Prosecutor's Office (separation of the Prosecutor General from the Minister of Justice)",
+    "year": 2009,
+    "area": "Justice / rule of law",
+    "description": "Separated the office of Prosecutor General from that of the Minister of Justice from 31 March 2010, giving the Prosecutor General a fixed six-year term and creating the National Prosecutor's Council. The PiS government re-merged the two offices in 2016.",
+    "significance": "The model Tusk's coalition pledged to restore after 2023; as of October 2026 a new separation bill had been drafted but not enacted.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2009/1375",
+      "https://eli.gov.pl/eli/DU/2009/1375/ogl"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-childcare-under-3",
+    "law_name": "Act of 4 February 2011 on the care of children under the age of three (ustawa żłobkowa)",
+    "year": 2011,
+    "area": "Family policy / childcare",
+    "description": "Created a new legal framework for nurseries (żłobki), children's clubs, day carers and nannies, easing the opening of childcare places and enabling state co-funding of new nursery places.",
+    "significance": "Foundation of Poland's subsequent expansion of early childcare places; the framework remains in force with amendments.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2011/235",
+      "https://eli.gov.pl/eli/DU/2011/235/ogl"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-retirement-age-67",
+    "law_name": "Act of 11 May 2012 amending the Act on pensions from the Social Insurance Fund (retirement age raised to 67)",
+    "year": 2012,
+    "area": "Pensions / public finance",
+    "description": "Gradually raised and equalised the statutory retirement age at 67 for both sexes (reached for men in 2020 and for women in 2040), from 65 for men and 60 for women, starting in 2013.",
+    "significance": "One of the most contested reforms of Tusk's first premiership, opposed by trade unions and PiS; it was reversed by the PiS government's Act of 16 November 2016, which restored 60/65 from 1 October 2017.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2012/637",
+      "https://api.sejm.gov.pl/eli/acts/DU/2017/38"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-ofe-reform-2013",
+    "law_name": "Act of 6 December 2013 amending certain acts in connection with the rules for paying pensions from funds accumulated in open pension funds (OFE reform)",
+    "year": 2013,
+    "area": "Pensions / public finance",
+    "description": "Required the private open pension funds (OFE) to redeem 51.5% of members' accounting units on 3 February 2014, transferring the corresponding Treasury bonds and other state-guaranteed assets to the state social insurer ZUS; made further contributions to OFE voluntary; and gradually moved members' savings to ZUS in the ten years before retirement.",
+    "significance": "Reduced reported public debt and the deficit at a time of fiscal pressure; critics described it as a partial nationalisation of pension savings.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2013/1717",
+      "https://eli.gov.pl/eli/DU/2013/1717/ogl"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-aktywny-rodzic",
+    "law_name": "Act of 15 May 2024 on supporting parents in professional activity and in raising a child — 'Aktywny rodzic' (Active Parent)",
+    "year": 2024,
+    "area": "Family policy / labour market",
+    "description": "Introduced from 1 October 2024 a 1,500 PLN monthly benefit for working parents of children aged 12–35 months ('babciowe'), plus alternative benefits for parents using nurseries or staying at home with the child.",
+    "significance": "Implementation, in modified form, of one of the headline '100 konkretów' pledges of Tusk's 2023 campaign.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2024/858",
+      "https://eli.gov.pl/eli/DU/2024/858/ogl"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-renta-wdowia",
+    "law_name": "Act of 26 July 2024 amending the Act on pensions from the Social Insurance Fund ('renta wdowia', widow's/widower's pension)",
+    "year": 2024,
+    "area": "Pensions / social policy",
+    "description": "Allows a surviving spouse of retirement age to combine their own pension with part of the survivor's pension (or vice versa): from 1 July 2025 the second benefit is paid at 15%, rising to 25% from 1 January 2027, with a cap of three times the minimum pension.",
+    "significance": "A major new pension benefit for widowed retirees adopted by the coalition in its first year; the first payments were made from July 2025, with the second step (25%) due in January 2027.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2024/1243",
+      "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDMXJZQ/i09765-o1.pdf"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-civil-protection",
+    "law_name": "Act of 5 December 2024 on civil protection and civil defence (ustawa o ochronie ludności i obronie cywilnej)",
+    "year": 2024,
+    "area": "Security / civil protection",
+    "description": "New framework for civil protection in peacetime and civil defence in wartime, in force from 1 January 2025: shelter and evacuation planning, obligations for new public and multi-family buildings, training for officials and coordination by the interior ministry, with annual public funding set at not less than 0.3% of GDP.",
+    "significance": "Adopted after the September 2024 floods and amid the war in Ukraine; inspired by Nordic civil-defence models.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2024/1907",
+      "https://tvn24.pl/tvn24-news-in-english/poland-s-president-signs-civil-defense-bill-into-law-st8228044"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-nuclear-financing",
+    "law_name": "Act of 20 February 2025 amending the Act on nuclear power investments (state financing of the first nuclear power plant)",
+    "year": 2025,
+    "area": "Energy",
+    "description": "Authorises a state capital injection of up to about 60.2 billion PLN in 2025–2030 into Polskie Elektrownie Jądrowe, the state company building Poland's first nuclear plant (three Westinghouse AP1000 reactors at Choczewo, Pomerania), about 30% of the cost, with the rest to be debt-financed. Signed by President Duda in March 2025, subject to EU state-aid approval.",
+    "significance": "Central element of the government's energy policy and of the long-delayed Polish nuclear programme, adopted with cross-party support.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2025/393",
+      "https://notesfrompoland.com/2025/03/26/poland-approves-financing-for-first-nuclear-plant-but-awaits-eu-approval/"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-asylum-suspension",
+    "law_name": "Act of 21 February 2025 amending the Act on granting protection to foreigners (temporary suspension of the right to apply for asylum)",
+    "year": 2025,
+    "area": "Migration / border security",
+    "description": "Allows the government, with Sejm approval for extensions, to suspend the right to lodge asylum applications at the border for up to 60 days at a time in response to the 'instrumentalisation' of migration by a hostile state, with exceptions for minors, pregnant women, people needing special care and those at real risk of harm. Signed on 26 March 2025; the suspension at the Belarus border took effect on 27 March 2025 and has since been repeatedly extended.",
+    "significance": "Implements the migration strategy Tusk announced in October 2024; criticised by UNHCR and Poland's Commissioner for Human Rights as contrary to international and EU law.",
+    "source_url": [
+      "https://api.sejm.gov.pl/eli/acts/DU/2025/389",
+      "https://notesfrompoland.com/2025/03/27/poland-suspends-right-to-asylum-at-belarus-border/",
+      "https://notesfrompoland.com/2025/02/21/polish-parliament-approves-bill-allowing-suspension-of-asylum-rights/"
+    ]
+  },
+  {
+    "id": "donald-tusk-leg-safe-loans",
+    "law_name": "EU SAFE defence loans (€43.7 billion): enabling bill vetoed, implemented via the Armed Forces Support Fund",
+    "year": 2026,
+    "area": "Defence / public finance",
+    "description": "Parliament passed in February 2026 a bill allowing the state development bank BGK to receive and spend Poland's allocation under the EU's SAFE defence-loan instrument. President Nawrocki vetoed it on 12 March 2026, citing long-term debt and sovereignty concerns; the next day the government adopted a resolution to channel the funds instead through the existing Armed Forces Support Fund. The European Commission approved Poland's €43.7 billion allocation, the largest under SAFE, in April 2026, and the first contracts were signed in May 2026.",
+    "significance": "The largest single financing source of the government's defence build-up and a defining clash of its cohabitation with President Nawrocki; part of the funds originally intended for non-military security could not be allocated under the fallback route.",
+    "source_url": [
+      "https://notesfrompoland.com/2026/03/13/polish-government-launches-plan-b-to-sidestep-presidential-veto-of-eu-defence-loans-bill/",
+      "https://notesfrompoland.com/2026/04/24/poland-receives-agreement-from-eu-for-e44-billion-in-safe-defence-loans/",
+      "https://notesfrompoland.com/2026/05/29/poland-signs-first-defence-contracts-under-eus-safe-programme/"
+    ]
+  }
+]

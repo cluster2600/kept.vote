@@ -1,0 +1,33 @@
+[
+  {
+    "id": "pedro-sanchez-re-vivienda-1992",
+    "property": "Home (vivienda) with parking space",
+    "location": "Madrid (province as declared)",
+    "transaction_type": "Purchase (compraventa), 100% full ownership",
+    "date": "1992-11-29",
+    "value": "Not itemised (BOE aggregate for all real estate: 180,794.88 EUR)",
+    "detail": "Declared in every Congress declaration of assets from 2016 to 2023: a home and a parking space in Madrid bought on 29 November 1992, held in full ownership. Separately, his declarations of economic interests state that between 2015 and 2019 he rented out a home that was not his main residence, without specifying which property, and rental income is declared in later years (12,845 EUR in 2022). The Congress form gives no values; the BOE gives one aggregate figure for all his real estate.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf",
+      "https://www.congreso.es/docbienes/leg12/000309/000309_000_e_0001049_20160718.pdf",
+      "https://www.congreso.es/docacteco/leg14/000198/000198_001_e_0088025_20210212.pdf",
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-re-vivienda-2008",
+    "property": "Home (vivienda) with parking space, 50% share",
+    "location": "Madrid (province as declared)",
+    "transaction_type": "Purchase (compraventa), 50% full ownership",
+    "date": "2008-07-29",
+    "value": "Not itemised (BOE aggregate for all real estate: 180,794.88 EUR)",
+    "detail": "Declared in every Congress declaration of assets from 2016 to 2023: a 50% share of a home and of a parking space in Madrid bought on 29 July 2008. The same declarations list a mortgage loan granted in 2008 for 159,300 EUR (61,786.31 EUR outstanding in August 2023). The declarations state that he is married under a separate-property regime (separación de bienes) and cover only his own assets.",
+    "status": "declared",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf",
+      "https://www.congreso.es/docbienes/leg12/000309/000309_000_e_0001049_20160718.pdf",
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf"
+    ]
+  }
+]

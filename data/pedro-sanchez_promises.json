@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pedro-sanchez-promise-amnistia",
+    "title": "Pass an amnesty law for those prosecuted over the Catalan independence process",
+    "description": "In his investiture speech of 15 November 2023 Sánchez announced: \"vamos a conceder una amnistía a las personas encausadas por el procés catalán\". The PSOE–Junts investiture agreement of 9 November 2023 committed to \"la Ley de Amnistía, para procurar la plena normalidad política, institucional y social\".",
+    "date_made": "2023-11-09",
+    "category": "Justice / territorial politics",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The amnesty law was passed and published as Ley Orgánica 1/2024 and has been upheld in its essentials by the Constitutional Court (June 2025) and, according to reporting, largely by the Court of Justice of the EU (July 2026). Its non-application by the Supreme Court to Carles Puigdemont's embezzlement charge is a judicial interpretation, not a failure to legislate, so the commitment as made is fulfilled.",
+    "key_evidence": [
+      "30 May 2024: Congress overrode the Senate's veto by 177 votes to 172.",
+      "11 June 2024: Ley Orgánica 1/2024 of 10 June published in the BOE (BOE-A-2024-11776).",
+      "1–2 July 2024: the Supreme Court refused to apply the amnesty to Puigdemont's embezzlement charge and kept the national arrest warrant in place.",
+      "26 June 2025: the Constitutional Court (STC 137/2025, 6 votes to 4) upheld the law, striking down only limited parts of article 1.",
+      "16 July 2026: the Court of Justice of the EU largely upheld the law, according to Spanish press reports."
+    ],
+    "source_url": [
+      "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2023/prsp15112023.aspx",
+      "https://www.eldiario.es/politica/documento-lee-acuerdo-firmado-psoe-junts-investidura-pedro-sanchez_1_10670272.html",
+      "https://www.boe.es/eli/es/lo/2024/06/10/1",
+      "https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2025_061/NOTA%20INFORMATIVA%20N%C2%BA%2061-2025.pdf",
+      "https://www.infolibre.es/politica/justicia-europea-respalda-mayor-parte-ley-amnistia_1_2226069.html"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-jornada-37-5",
+    "title": "Cut the statutory working week from 40 to 37.5 hours without loss of pay",
+    "description": "The PSOE–Sumar coalition agreement 'España avanza' (24 October 2023) states: \"Reduciremos la jornada laboral máxima legal sin reducción salarial para establecerla en 37 horas y media semanales\", with an intermediate step to 38.5 hours in 2024 and completion in 2025. Sánchez repeated the commitment in his investiture speech.",
+    "date_made": "2023-10-24",
+    "category": "Labour",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "Neither the 2024 intermediate step nor the 2025 target was met. The government's bill was thrown out by Congress in September 2025 when the PP, Vox, Junts and UPN amendments to the whole passed, and no new bill was adopted before the Cortes were dissolved in October 2026, so the statutory maximum remains 40 hours.",
+    "key_evidence": [
+      "The 38.5-hour intermediate step planned for 2024 was never legislated.",
+      "10 September 2025: Congress approved the amendments to the whole against the bill by 178 votes to 170 (PP, Vox, Junts, UPN in favour), returning it to the government.",
+      "April 2026: a separate resolution introduced a 35-hour week only for central-government civil servants (BOE-A-2026-8287), which does not change the statutory working week.",
+      "6 October 2026: dissolution of the Cortes (Real Decreto 806/2026) ends the legislature without a new statutory reduction."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2023/prsp15112023.aspx",
+      "https://www.idealista.com/news/finanzas/economia/2025/09/11/859545-el-congreso-tumba-la-reduccion-de-jornada-laboral-al-prosperar-el-veto-de-pp-vox-y",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8287",
+      "https://www.boe.es/eli/es/rd/2026/10/05/806"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-smi-60",
+    "title": "Keep raising the minimum wage and guarantee in law that it tracks 60% of the average wage",
+    "description": "The coalition agreement states: \"El SMI seguirá creciendo a lo largo de la legislatura… garantizándose en el Estatuto de los Trabajadores que aumentará acompasado al 60% del salario medio\". In his investiture speech Sánchez pledged to \"garantizar por ley que el salario mínimo interprofesional siga aumentando cada año\".",
+    "date_made": "2023-10-24",
+    "category": "Labour / incomes",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "The minimum wage rose every year of the term, from 1,080 to 1,221 euros a month (14 payments), about 13% in total. However, no amendment to the Workers' Statute enshrining the 60%-of-average-wage rule or a mandatory annual increase was found in the BOE; the 2026 decree merely states that the 60% objective 'is maintained'. The increases were delivered, the legal guarantee was not.",
+    "key_evidence": [
+      "Real Decreto 145/2024: SMI of 1,134 euros a month for 2024.",
+      "Real Decreto 87/2025: SMI of 1,184 euros a month for 2025.",
+      "Real Decreto 126/2026: SMI of 1,221 euros a month for 2026 (+3.1%); its preamble says the objective of reaching 60% of the average wage 'se mantiene'.",
+      "No reform of the Estatuto de los Trabajadores fixing the 60% link was located before the October 2026 dissolution."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.boe.es/eli/es/rd/2024/02/06/145",
+      "https://www.boe.es/eli/es/rd/2025/02/11/87",
+      "https://www.boe.es/eli/es/rd/2026/02/18/126",
+      "https://civio.es/el-boe-nuestro-de-cada-dia/2026/02/19/salario-minimo-2026/"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-subsidio-desempleo",
+    "title": "Simplify and improve unemployment assistance subsidies",
+    "description": "The coalition agreement commits: \"Simplificaremos y mejoraremos el nivel asistencial por desempleo, facilitando el acceso, la compatibilidad con el trabajo…\".",
+    "date_made": "2023-10-24",
+    "category": "Social protection / labour",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "After a first decree-law was rejected by Congress in January 2024, the government adopted a second version, Real Decreto-ley 2/2024, which Congress validated in June 2024. It widened access, raised the amounts and allowed the subsidy to be combined with a job, as promised.",
+    "key_evidence": [
+      "10 January 2024: Congress rejected (derogated) Real Decreto-ley 7/2023 on unemployment subsidies.",
+      "22 May 2024: Real Decreto-ley 2/2024 of 21 May published (BOE-A-2024-10235).",
+      "20 June 2024: Congress validated Real Decreto-ley 2/2024.",
+      "The reform raised the subsidy to 95%/90%/80% of the IPREM index, abolished the one-month waiting period and created an 'employment support supplement' allowing it to be combined with work for up to 180 days."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-664",
+      "https://www.boe.es/eli/es/rdl/2024/05/21/2",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12945"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-permisos-20-semanas",
+    "title": "Extend birth leave to 20 weeks and pay at least 4 weeks of parental care leave from August 2024",
+    "description": "The coalition agreement states: \"Extenderemos el permiso de paternidad y maternidad hasta las 20 semanas… con el objetivo de remunerar al menos 4 semanas por hijo/a del… permiso parental de cuidados, a partir de agosto de 2024\".",
+    "date_made": "2023-10-24",
+    "category": "Family / labour",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "Leave was extended, but to 19 weeks rather than 20, and only from mid-2025, about a year after the August 2024 date in the agreement. Of those 19 weeks, two are childcare weeks that can be used until the child turns eight and are paid at 100%, against the four paid weeks of parental care leave promised; the separate eight-week parental leave remains unpaid. The commitment was therefore carried out in a reduced form.",
+    "key_evidence": [
+      "30 July 2025: Real Decreto-ley 9/2025 of 29 July (BOE-A-2025-15741) extended birth and childcare leave to 19 weeks per parent (32 for single-parent families), including 2 weeks usable until the child turns 8.",
+      "September 2025: Congress validated Real Decreto-ley 9/2025 (BOE-A-2025-17999).",
+      "The eight-week parental leave remains unpaid ('no tendrá carácter retribuido' in the public-sector provision), short of the at least four paid weeks promised from August 2024."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.boe.es/eli/es/rdl/2025/07/29/9",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17999"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-vivienda-publica",
+    "title": "Build up a public stock of affordable rental housing, starting with 183,000 public homes",
+    "description": "In his investiture speech (15 November 2023) Sánchez announced: \"vamos a acometer la habilitación de 183.000 viviendas públicas para alquiler asequible\". The coalition agreement commits to increase the public affordable-rental stock \"para elevar su peso hasta el 20% del parque total\" over the medium to long term.",
+    "date_made": "2023-11-15",
+    "category": "Housing",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "Concrete steps were taken: a state public housing company, CASA 47, is operating, state land has been transferred to it and it has tendered works for the first 4,000 homes in Madrid's Campamento district. But no verified count of homes delivered against the 183,000 figure was found, and the government's main housing decree-laws were repealed by Congress in 2026, the last defeat (2 October 2026) triggering the snap election. Confidence is moderate because delivery data are not consolidated in official sources.",
+    "key_evidence": [
+      "CASA 47 Entidad Pública Empresarial operates as the state housing company; in October 2026 it tendered infrastructure works for about 4,000 homes at Campamento (Madrid).",
+      "2 October 2026: Congress repealed Real Decreto-ley 26/2026 on the social function of housing (BOE-A-2026-20526) and Real Decreto-ley 27/2026 on rental stability.",
+      "6 October 2026: the government re-issued measures as Real Decreto-ley 28/2026 and 29/2026, the latter transferring state properties to CASA 47; both still required parliamentary validation by the Diputación Permanente as of October 2026.",
+      "No official figure confirming delivery of the 183,000 public rental homes was located."
+    ],
+    "source_url": [
+      "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2023/prsp15112023.aspx",
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20526",
+      "https://www.boe.es/eli/es/rdl/2026/10/06/29",
+      "https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html",
+      "https://www.casa47.es/"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-palestina",
+    "title": "Recognise the State of Palestine",
+    "description": "The coalition agreement states: \"Apostaremos por el reconocimiento del Estado palestino\"; in his investiture speech Sánchez said his government would work to recognise the Palestinian State.",
+    "date_made": "2023-10-24",
+    "category": "Foreign policy",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "The Council of Ministers formally recognised the State of Palestine on 28 May 2024, in coordination with Ireland and Norway. The official record settles the verdict.",
+    "key_evidence": [
+      "28 May 2024: the Council of Ministers approved the 'Declaración de reconocimiento por España del Estado de Palestina'.",
+      "The recognition was coordinated with Ireland and Norway, which recognised Palestine on the same day.",
+      "September 2025: Real Decreto-ley 10/2025 on measures concerning Gaza cites the recognition; Congress validated it in October 2025."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2024/20240528-referencia-rueda-de-prensa-ministros.aspx",
+      "https://www.boe.es/eli/es/rdl/2025/09/23/10"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-ley-mordaza",
+    "title": "Reform the public-security law ('ley mordaza') to restore rights of assembly and expression",
+    "description": "The coalition agreement states: \"Reformaremos, y derogaremos, aquellos aspectos de la normativa vigente que limita los derechos de reunión y libertad de expresión (la «ley mordaza» y el Código Penal)\". Repealing the 2015 Ley Orgánica de Protección de la Seguridad Ciudadana has been a PSOE pledge since 2015.",
+    "date_made": "2023-10-24",
+    "category": "Civil liberties",
+    "status": "broken",
+    "confidence_score": 0.8,
+    "reasoning": "A reform bill agreed with EH Bildu was admitted for debate in October 2024, but negotiations among the government's partners stalled over rubber bullets, border 'hot returns' and the offence of disobedience, and the bill was never adopted. With the dissolution of the Cortes in October 2026 the bill lapses, so the commitment cannot be fulfilled within the term.",
+    "key_evidence": [
+      "3 October 2024: PSOE, Sumar and EH Bildu announced an agreement to reform the law.",
+      "29 October 2024: Congress admitted the reform for debate (toma en consideración).",
+      "February 2025: the partners set an internal goal of 1 July 2025 for approval, which was missed.",
+      "The BOE consolidated text of Ley Orgánica 4/2015 shows no amendment adopted during the 2023–2026 term.",
+      "6 October 2026: dissolution of the Cortes; pending bills lapse."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442",
+      "https://www.eldiario.es/politica/socios-esperan-activar-negociaciones-derogacion-ley-mordaza-nuevo-periodo-sesiones_1_12033582.html",
+      "https://maldita.es/malditahemeroteca/20241003/sanchez-2015-derogar-ley-mordaza",
+      "https://www.boe.es/eli/es/rd/2026/10/05/806"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-gravamenes-banca-energeticas",
+    "title": "Keep the temporary levies on banks and energy companies beyond their expiry",
+    "description": "The coalition agreement states: \"Revisaremos los gravámenes sobre la banca y las empresas energéticas con el objetivo de readaptarlos y mantenerlos una vez que expire su periodo de aplicación actual\".",
+    "date_made": "2023-10-24",
+    "category": "Taxation",
+    "status": "compromise",
+    "confidence_score": 0.85,
+    "reasoning": "The bank levy was converted into a permanent tax on banks' net interest and commission income by Ley 7/2024. The energy levy, however, ended when Congress repealed the decree-law that would have extended it into 2025, so only half of the commitment was achieved.",
+    "key_evidence": [
+      "21 December 2024: Ley 7/2024 of 20 December (BOE-A-2024-26694) created the Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras.",
+      "Real Decreto-ley 10/2024, extending the energy levy for 2025, was repealed by Congress on 22 January 2025 (BOE-A-2025-1137)."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.boe.es/eli/es/l/2024/12/20/7",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26916",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1137"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-tributacion-minima-15",
+    "title": "Ensure a 15% minimum effective tax rate on large companies",
+    "description": "The coalition agreement says the government \"asegurará que se alcanza el 15% efectivo de tributación sobre el resultado contable de las grandes empresas… en los términos acordados a nivel global y en la UE\". The commitment was repeated in the investiture speech.",
+    "date_made": "2023-10-24",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.65,
+    "reasoning": "Ley 7/2024 transposed the EU global minimum tax directive (2022/2523), introducing a complementary tax guaranteeing a 15% minimum effective rate for multinational and large domestic groups with turnover of at least 750 million euros, which matches the pledge 'in the terms agreed globally and in the EU'. Confidence is moderate because the agreement's wording (15% of accounting profit) is broader than the Pillar Two mechanism actually adopted.",
+    "key_evidence": [
+      "21 December 2024: Ley 7/2024 (BOE-A-2024-26694) created the Impuesto Complementario to guarantee a global minimum level of taxation of 15%.",
+      "It applies to groups with consolidated turnover of at least 750 million euros in two of the four previous years, transposing Directive (EU) 2022/2523."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2023/prsp15112023.aspx",
+      "https://www.boe.es/eli/es/l/2024/12/20/7"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-promise-renovacion-cgpj",
+    "title": "Unblock the renewal of the General Council of the Judiciary (CGPJ)",
+    "description": "The coalition agreement states: \"Garantizaremos el cumplimiento de la Constitución en lo referente a la renovación de órganos constitucionales, especialmente el Consejo General del Poder Judicial\", whose mandate had expired in December 2018.",
+    "date_made": "2023-10-24",
+    "category": "Institutions / justice",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "After more than five years of deadlock, the PSOE and the PP reached an agreement in June 2024 (with European Commission mediation), the new council was elected and constituted in July 2024, and an accompanying reform of the Judiciary Act was published in August 2024.",
+    "key_evidence": [
+      "25 June 2024: PSOE–PP agreement to renew the CGPJ.",
+      "July 2024: Congress and Senate elected the members; the new council was constituted on 25 July 2024.",
+      "5 August 2024: Ley Orgánica 3/2024 of 2 August, reforming the Ley Orgánica del Poder Judicial (including CGPJ appointment rules), published in the BOE (BOE-A-2024-16127).",
+      "3 September 2024: Isabel Perelló elected president of the CGPJ and the Supreme Court."
+    ],
+    "source_url": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2023/1024/11/acuerdo-gobierno-coalicion-2023-def-pdf.pdf",
+      "https://www.boe.es/eli/es/lo/2024/08/02/3",
+      "https://es.wikipedia.org/wiki/Bloqueo_del_Consejo_General_del_Poder_Judicial"
+    ]
+  }
+]

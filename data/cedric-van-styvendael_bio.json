@@ -1,7 +1,19 @@
 {
   "name": "Cédric Van Styvendael",
   "country": "France",
+  "country_code": "FR",
+  "office": "mayor",
+  "role": "Maire de Villeurbanne",
+  "content_lang": "fr",
   "party": "Parti socialiste (PS)",
   "birth_date": "1973-10-15",
-  "bio": "Cédric Van Styvendael est un homme politique français, maire socialiste de Villeurbanne (Rhône) depuis juillet 2020 et vice-président de la Métropole de Lyon chargé de la culture sur le mandat 2020-2026. Issu du secteur de l'habitat social, il a dirigé l'organisme HLM Est Métropole Habitat et présidé la fédération européenne du logement social Housing Europe. Il a été réélu maire au second tour le 22 mars 2026 avec 42,59 % des voix, à la tête d'une liste de gauche rassemblée."
+  "bio": "Cédric Van Styvendael est un homme politique français, maire socialiste de Villeurbanne (Rhône) depuis juillet 2020 et vice-président de la Métropole de Lyon chargé de la culture sur le mandat 2020-2026. Issu du secteur de l'habitat social, il a dirigé l'organisme HLM Est Métropole Habitat et présidé la fédération européenne du logement social Housing Europe. Il a été réélu maire au second tour le 22 mars 2026 avec 42,59 % des voix, à la tête d'une liste de gauche rassemblée.",
+  "portrait": {
+    "file": "cedric-van-styvendael.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_de_C%C3%A9dric_Van_Styvendael_1.jpg",
+    "author": "Gilles Michallet, photographe de la Ville de Villeurbanne",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-22"
+  }
 }

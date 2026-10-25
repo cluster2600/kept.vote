@@ -1,0 +1,45 @@
+[
+  {
+    "id": "peter-magyar-el-2024-ep",
+    "election": "2024 European Parliament election in Hungary",
+    "date": "2024-06-09",
+    "role_sought": "Member of the European Parliament, head of the Tisza national list",
+    "result": "Elected; Tisza second with 7 of Hungary's 21 seats",
+    "vote_share": "Tisza list: 1,352,699 votes (29.60%)",
+    "opponent": "Fidesz–KDNP (44.82%, 11 seats)",
+    "detail": "First election contested by Tisza under Magyar, two months after he joined the party; it became the largest opposition force. He took up his seat in the EPP group.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/2024_European_Parliament_election_in_Hungary",
+      "https://parltrack.eu/mep/256868"
+    ]
+  },
+  {
+    "id": "peter-magyar-el-2026-national-assembly",
+    "election": "2026 Hungarian parliamentary election",
+    "date": "2026-04-12",
+    "role_sought": "Member of the National Assembly for Budapest's 3rd constituency; head of the Tisza national list and candidate for prime minister",
+    "result": "Elected; Tisza won 141 of 199 seats (two-thirds majority)",
+    "vote_share": "Budapest 3rd constituency: 43,112 votes (63.67%); Tisza national list: 3,385,890 votes (53.18%)",
+    "opponent": "Attila Steiner (Fidesz–KDNP), 20,248 votes (29.90%); nationally Fidesz–KDNP led by Viktor Orbán (38.61%, 52 seats)",
+    "detail": "Turnout was about 79% (78.99% according to the final results), the highest since 1990, and Viktor Orbán conceded defeat on election night. The figures for Budapest 3 are the National Election Office's results at 100% processing.",
+    "source_url": [
+      "https://infostart.hu/belfold/2026/04/18/valasztas-2026-egyeni-korzetek-a-teljes-feldolgozottsagnal",
+      "https://vtr.valasztas.hu/ogy2026/egyeni-valasztokeruletek/01/03",
+      "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election"
+    ]
+  },
+  {
+    "id": "peter-magyar-el-2026-pm-vote",
+    "election": "Election of the Prime Minister by the National Assembly",
+    "date": "2026-05-09",
+    "role_sought": "Prime Minister of Hungary",
+    "result": "Elected",
+    "vote_share": "140 votes in favour, 54 against, 1 abstention (100 required)",
+    "opponent": "",
+    "detail": "Elected at the inaugural sitting of the new parliament and sworn in the same day, ending Viktor Orbán's 16 years in office.",
+    "source_url": [
+      "https://www.euronews.com/my-europe/2026/05/09/peter-magyar-sworn-in-as-hungarys-new-prime-minister-after-landslide-april-election-victor",
+      "https://en.wikipedia.org/wiki/Magyar_Government"
+    ]
+  }
+]

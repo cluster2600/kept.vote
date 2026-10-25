@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "kept.vote – sledování politických slibů",
+    "description": "Nestranické sledování politických slibů: které byly splněny, které porušeny a které se stále plní – vždy s uvedením zdrojů."
+  },
+  "header": {
+    "home": "kept.vote – úvodní stránka",
+    "politicians": "Politici",
+    "methodology": "Metodika",
+    "language": "Jazyk"
+  },
+  "footer": {
+    "methodologyTitle": "Metodika",
+    "methodologyBody": "Každý slib posuzujeme podle primárních zdrojů – zákonů, úředních záznamů a vládních dat – a přiřazujeme mu jeden ze stavů: {kept}, {broken}, {inProgress} nebo {noAction}. Míra jistoty vyjadřuje sílu dostupných důkazů. Každé hodnocení odkazuje na své zdroje, takže si je můžete sami ověřit.",
+    "tagline": "kept.vote – nestranický projekt sledující plnění politických slibů. Prototyp."
+  },
+  "home": {
+    "eyebrow": "Sledování slibů",
+    "title": "Dodrželi slovo?",
+    "intro": "kept.vote porovnává, co politici slíbili, s tím, co skutečně udělali – zda slib splnili, porušili, nebo jeho plnění stále probíhá. Každé hodnocení se opírá o primární zdroje.",
+    "stats": {
+      "politicians": "Politici",
+      "promises": "Sledované sliby",
+      "verified": "Ověřeno"
+    },
+    "politiciansHeading": "Politici",
+    "countryFilterLabel": "Filtrování podle země",
+    "mapLabel": "Mapa: vyberte zemi",
+    "mapCovered": "Zahrnuto",
+    "mapNotCovered": "Zatím nezahrnuto",
+    "allCountries": "Všechny země",
+    "otherCountry": "Ostatní",
+    "politicianCount": {
+      "one": "{count} politik",
+      "few": "{count} politici",
+      "many": "{count} politika",
+      "other": "{count} politiků"
+    },
+    "promiseCount": {
+      "one": "{count} slib",
+      "few": "{count} sliby",
+      "many": "{count} slibu",
+      "other": "{count} slibů"
+    },
+    "profileBadge": "Profil",
+    "noVerifiedYet": "Zatím žádné ověřené sliby",
+    "viewDossier": "Zobrazit profil",
+    "noneInCountry": "Pro tuto zemi zatím nesledujeme žádné politiky.",
+    "emptyState": "Zatím zde nejsou žádní politici. Demonstrační data načtete spuštěním skriptu seed:",
+    "connectionErrorTitle": "Data se nepodařilo načíst.",
+    "connectionErrorBody": "Databáze neodpověděla. Zkuste to prosím za chvíli znovu."
+  },
+  "office": {
+    "head_of_state": "Hlava státu",
+    "head_of_government": "Předseda vlády",
+    "minister": "Ministr",
+    "legislator": "Zákonodárce",
+    "mayor": "Starosta",
+    "regional_executive": "Regionální exekutiva",
+    "party_leader": "Předseda strany",
+    "judge": "Soudce",
+    "other": "Jiná funkce"
+  },
+  "notFound": {
+    "title": "Nenalezeno",
+    "body": "Hledanou stránku se nepodařilo najít.",
+    "back": "Zpět na seznam politiků"
+  },
+  "politician": {
+    "back": "← Všichni politici",
+    "trackRecord": "Bilance slibů",
+    "contentLanguage": "Jazyk profilu: {language}",
+    "photoCredit": "Foto: {author}, {license}, zdroj: {source}",
+    "tabsLabel": "Části profilu",
+    "tabs": {
+      "promises": "Sliby",
+      "background": "Životopis",
+      "finances": "Finance",
+      "justice": "Soudní řízení",
+      "controversies": "Kontroverze",
+      "sources": "Zdroje"
+    },
+    "background": {
+      "electoral": "Volební historie",
+      "work": "Profesní dráha",
+      "education": "Vzdělání",
+      "legislation": "Klíčové zákony",
+      "honors": "Vyznamenání a ocenění"
+    }
+  },
+  "finances": {
+    "disclaimer": {
+      "france": "Údaje uvádíme tak, jak byly přiznány – většina pochází z oficiálních prohlášení podaných francouzskému úřadu {hatvp} (Vysokému úřadu pro transparentnost veřejného života). Formulace jako „přiznáno“ nebo „cca“ odpovídají zdroji a jsou ponechány beze změny.",
+      "switzerland": "Švýcarsko nemá pro své veřejné funkcionáře systém veřejných majetkových přiznání, proto údaje uvádíme jen tam, kde byly zveřejněny. Mandáty a zájmy pocházejí z parlamentního rejstříku zájmů a z projektu Lobbywatch. Formulace jako „přiznáno“ nebo „cca“ odpovídají zdroji a jsou ponechány beze změny.",
+      "default": "Údaje uvádíme tak, jak byly přiznány v oficiálních veřejných prohlášeních, pokud je daná země zveřejňuje; jinak tato sekce zůstává prázdná. Formulace jako „přiznáno“ nebo „cca“ odpovídají zdroji a jsou ponechány beze změny."
+    },
+    "hatvpFull": "Haute Autorité pour la transparence de la vie publique",
+    "types": {
+      "net_worth": "Čisté jmění",
+      "assets": "Majetek",
+      "income": "Příjmy",
+      "real_estate": "Nemovitosti"
+    },
+    "netWorthTimeline": "Vývoj čistého jmění",
+    "stocks": "Cenné papíry / akcie",
+    "realEstate": "Nemovitosti",
+    "companies": "Společnosti a podíly",
+    "interests": "Prohlášení o zájmech",
+    "asOf": "stav k {date}",
+    "declarationStatus": "Stav přiznání"
+  },
+  "status": {
+    "fulfilled": "Splněno",
+    "broken": "Porušeno",
+    "in_progress": "Probíhá",
+    "compromise": "Kompromis",
+    "no_action": "Neřešeno",
+    "unverified": "Neověřeno"
+  },
+  "legalStatus": {
+    "no_charges": "Bez obvinění",
+    "ongoing": "Probíhá",
+    "concluded": "Uzavřeno",
+    "in_court": "Před soudem",
+    "political": "Politická záležitost",
+    "victim": "Oběť",
+    "under_investigation": "Probíhá vyšetřování",
+    "awaiting_trial": "Čeká na soud",
+    "party_matter": "Stranická záležitost",
+    "no_proceedings": "Bez řízení",
+    "conviction": "Odsouzení",
+    "noted": "Zaznamenáno",
+    "unknown": "Neznámý stav",
+    "appeal_pending": "Probíhá odvolání",
+    "convicted": "Odsuzující rozsudek",
+    "acquitted": "Zproštění obžaloby",
+    "dismissed": "Řízení zastaveno",
+    "settled": "Urovnáno smírem"
+  },
+  "assetStatus": {
+    "declared": "Přiznáno",
+    "estimated": "Odhadnuto",
+    "historical": "Historický údaj",
+    "divested": "Odprodáno",
+    "none": "Nulové přiznání"
+  },
+  "justice": {
+    "intro": "Každý záznam dokumentuje soudní věc a její aktuální právní stav. Probíhající vyšetřování a dosud nerozhodnuté věci neznamenají zjištění viny; až do pravomocného rozhodnutí soudu platí presumpce neviny.",
+    "outcome": "Výsledek:",
+    "keyFacts": "Klíčová fakta"
+  },
+  "polemics": {
+    "intro": "Každý záznam shrnuje veřejně zdokumentovanou kontroverzi a uvádí její aktuální právní nebo politický stav. Popisy jsou věcné a neutrální; nařčení neznamená zjištění viny.",
+    "statusLine": "Právní/politický stav:",
+    "keyFacts": "Klíčová fakta"
+  },
+  "legislation": {
+    "significance": "Význam:"
+  },
+  "honors": {
+    "exOfficio": "Z titulu funkce"
+  },
+  "electoral": {
+    "versus": "vs. {opponent}"
+  },
+  "dates": {
+    "present": "dosud"
+  },
+  "sources": {
+    "title": "Zdroje a odkazy",
+    "summary": "Celkem {sources} ({domains})",
+    "sourceCount": {
+      "one": "{count} zdroj",
+      "few": "{count} zdroje",
+      "many": "{count} zdroje",
+      "other": "{count} zdrojů"
+    },
+    "domainCount": {
+      "one": "{count} doména",
+      "few": "{count} domény",
+      "many": "{count} domény",
+      "other": "{count} domén"
+    },
+    "methodologyLabel": "Metodika.",
+    "methodologySources": {
+      "france": "Data jsou sestavena z oficiálních zdrojů – majetkových přiznání podaných úřadu HATVP, údajů ústavu INSEE, databáze Légifrance a vládních webů – a také z důvěryhodného zpravodajství.",
+      "switzerland": "Data jsou sestavena z oficiálních zdrojů – rejstříku zájmů Spolkového shromáždění, webu parlament.ch a webů spolkových, kantonálních a obecních úřadů – a také z projektu Lobbywatch a důvěryhodného zpravodajství.",
+      "default": "Data jsou sestavena z oficiálních zdrojů – parlamentních a vládních záznamů, úředních věstníků a veřejných prohlášení, pokud je daná země zveřejňuje – a také z důvěryhodného zpravodajství."
+    },
+    "methodologyStatuses": "Stavy odrážejí ověřitelné výsledky k uvedenému datu; nařčení jsou jako taková označena a je uveden jejich právní stav.",
+    "otherDomain": "ostatní",
+    "sections": {
+      "promises": "Sliby",
+      "work_history": "Profesní dráha",
+      "finances": "Finance",
+      "stocks": "Akcie",
+      "real_estate": "Nemovitosti",
+      "companies": "Společnosti",
+      "controversies": "Kontroverze",
+      "electoral_history": "Volby",
+      "interests": "Zájmy",
+      "education": "Vzdělání",
+      "honors": "Vyznamenání",
+      "key_legislation": "Legislativa",
+      "net_worth": "Čisté jmění",
+      "justice": "Soudní řízení"
+    },
+    "linkLabel": {
+      "one": "Zdroj:",
+      "few": "Zdroje:",
+      "many": "Zdroje:",
+      "other": "Zdroje:"
+    }
+  },
+  "promises": {
+    "all": "Všechny",
+    "otherCategory": "Ostatní",
+    "filteredCount": "{visible} / {total}",
+    "emptyTitle": "Žádné sledované sliby",
+    "emptyBody": "{name} zatím nemá žádné sledované volební ani programové sliby. Působení této osoby je zdokumentováno v sekcích {background}, {legislation} a {controversies}.",
+    "contextLabel": "Kontext.",
+    "campaignOnly": "{name} nemá za sebou žádné působení ve výkonné moci. Jde o předvolební sliby, nikoli o přijatou politiku – proto je každý z nich veden jako „{noAction}“, a ne jako splněný či porušený.",
+    "promised": "Slíbeno {date}",
+    "confidenceValue": "Jistota: {value}",
+    "filterLabel": "Filtrování slibů podle stavu"
+  },
+  "promise": {
+    "breadcrumbFallback": "Slib",
+    "verdict": "Verdikt",
+    "assessment": "Hodnocení",
+    "keyEvidence": "Klíčové důkazy",
+    "sourcesHeading": {
+      "one": "Zdroj",
+      "few": "Zdroje",
+      "many": "Zdroje",
+      "other": "Zdroje"
+    },
+    "primarySource": "Hlavní zdroj",
+    "additionalSource": "Další zdroj",
+    "lastReviewed": "Naposledy ověřeno {date}",
+    "editoriallyReviewed": "Redakčně ověřeno",
+    "notVerified": "Tento slib zatím nebyl ověřen."
+  },
+  "confidence": {
+    "label": "Jistota"
+  }
+}

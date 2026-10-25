@@ -1,0 +1,120 @@
+[
+  {
+    "id": "merz-company-mayer-brown",
+    "entity": "Mayer Brown LLP (international law firm), Düsseldorf office",
+    "role": "Partner (2005–2014), then Senior Counsel (until 31 December 2021)",
+    "ownership_stake": null,
+    "period": "2005–2021",
+    "status": "historical",
+    "detail": "Declared in the Bundestag register for the 20th term as paid activity alongside the mandate, ending on 31 December 2021, and as his occupation before joining the Bundestag. The register entry gives no income amount. Since then he has declared only a self-employed law practice in Düsseldorf/Arnsberg, dormant since 25 March 2025.",
+    "source_url": [
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648",
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080"
+    ]
+  },
+  {
+    "id": "merz-company-wepa",
+    "entity": "WEPA Industrieholding SE (hygiene paper manufacturer), Arnsberg",
+    "role": "Chairman of the supervisory board",
+    "ownership_stake": null,
+    "period": "2009–2021",
+    "status": "historical",
+    "detail": "Declared in the Bundestag register (20th term) as member and chairman of the supervisory board until December 2021; the regional newspaper Westfalenpost reported in December 2021 that he was stepping down as chairman.",
+    "source_url": [
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648",
+      "https://www.wp.de/staedte/arnsberg/wepa-friedrich-merz-legt-vorsitz-im-aufsichtsrat-nieder-id234097947.html"
+    ]
+  },
+  {
+    "id": "merz-company-hsbc-trinkaus",
+    "entity": "HSBC Trinkaus & Burkhardt GmbH (bank), Düsseldorf",
+    "role": "Chairman of the advisory board (Beirat); earlier member of the supervisory board",
+    "ownership_stake": null,
+    "period": "2010–2021",
+    "status": "historical",
+    "detail": "Declared in the Bundestag register (20th term) as chairman of the advisory board until December 2021. Handelsblatt reported in April 2019 that he was leaving the bank's supervisory board.",
+    "source_url": [
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648",
+      "https://www.handelsblatt.com/finanzen/banken-versicherungen/cdu-politiker-friedrich-merz-verlaesst-hsbc-aufsichtsrat/24215670.html"
+    ]
+  },
+  {
+    "id": "merz-company-moeller-foerster",
+    "entity": "Möller & Förster GmbH & Co. KG, Hamburg",
+    "role": "Member of the advisory board (Beirat)",
+    "ownership_stake": null,
+    "period": "until 2021",
+    "status": "historical",
+    "detail": "Declared in the Bundestag register (20th term) as an advisory board function ending in December 2021.",
+    "source_url": [
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648"
+    ]
+  },
+  {
+    "id": "merz-company-bosch",
+    "entity": "Robert Bosch GmbH, Stuttgart",
+    "role": "Member of the Robert Bosch International Advisory Committee",
+    "ownership_stake": null,
+    "period": "2011–2021",
+    "status": "historical",
+    "detail": "Declared in the Bundestag register (20th term) as ending in December 2021; membership since 2011 is reported in his Wikipedia biography.",
+    "source_url": [
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648",
+      "https://en.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-company-blackrock",
+    "entity": "BlackRock Asset Management Deutschland AG",
+    "role": "Chairman of the supervisory board",
+    "ownership_stake": null,
+    "period": "2016–2020",
+    "status": "historical",
+    "detail": "Held while he was not a member of parliament, so not covered by the Bundestag register; reported when he was hired in January 2016 and when BlackRock named a successor in 2020. The role became a subject of debate over possible conflicts of interest during his CDU leadership bids.",
+    "source_url": [
+      "https://www.wsj.com/articles/blackrock-hires-former-merkel-deputy-for-its-german-operations-1453054735",
+      "https://www.handelsblatt.com/finanzen/banken-versicherungen/vermoegensverwalter-blackrock-findet-nachfolger-fuer-friedrich-merz/25881544.html"
+    ]
+  },
+  {
+    "id": "merz-company-stadler-rail",
+    "entity": "Stadler Rail AG (Switzerland)",
+    "role": "Member of the board of directors (Verwaltungsrat)",
+    "ownership_stake": null,
+    "period": "2006–2020",
+    "status": "historical",
+    "detail": "He gave up the mandate in 2020, shortly after his departure from BlackRock (WirtschaftsWoche).",
+    "source_url": [
+      "https://www.wiwo.de/politik/deutschland/nach-blackrock-rueckzug-friedrich-merz-verlaesst-stadler-aufsichtsrat/25563856.html",
+      "https://www.spiegel.de/fotostrecke/von-axa-bis-stadler-rail-friedrich-merz-nebeneinkuenfte-fotostrecke-23104.html"
+    ]
+  },
+  {
+    "id": "merz-company-cologne-bonn-airport",
+    "entity": "Flughafen Köln/Bonn GmbH (Cologne Bonn Airport)",
+    "role": "Chairman of the supervisory board",
+    "ownership_stake": null,
+    "period": "2017–2020",
+    "status": "historical",
+    "detail": "Elected chairman of the airport company's supervisory board in December 2017 (WDR); he stepped down in December 2020.",
+    "source_url": [
+      "https://web.archive.org/web/20181029152202/https://www1.wdr.de/nachrichten/rheinland/koeln-flughafen-aufsichtsrat-wahl-merz-100.html",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-company-board-mandates-2000s",
+    "entity": "Deutsche Börse AG, AXA Konzern AG, IVG Immobilien AG, Interseroh, Borussia Dortmund GmbH & Co. KGaA, BASF Antwerpen N.V., DBV-Winterthur Holding",
+    "role": "Member of supervisory or administrative boards",
+    "ownership_stake": null,
+    "period": "c. 2005–2015",
+    "status": "historical",
+    "detail": "Board seats held during and after his first period in the Bundestag, reported as follows: Deutsche Börse (until May 2015), AXA Konzern (until June 2014), IVG Immobilien (until May 2010), Interseroh (until 2009), Borussia Dortmund (until June 2014), BASF Antwerpen (until June 2014; BASF confirmed earlier mandates to Correctiv in 2025) and DBV-Winterthur. Die Welt reported in the 2000s that he held 18 side activities, and Der Spiegel compiled his declared side income from AXA to Stadler Rail.",
+    "source_url": [
+      "https://www.spiegel.de/fotostrecke/von-axa-bis-stadler-rail-friedrich-merz-nebeneinkuenfte-fotostrecke-23104.html",
+      "https://www.welt.de/print-welt/article158726/Merz-und-seine-18-Nebentaetigkeiten.html",
+      "https://correctiv.org/aktuelles/wirtschaft/2025/01/28/bester-mann-der-grosskonzerne-das-lobby-netzwerk-von-friedrich-merz/",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  }
+]

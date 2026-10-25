@@ -1,0 +1,127 @@
+[
+  {
+    "id": "giorgia-meloni-budget-2023",
+    "law_name": "2023 Budget Law (Legge 29 dicembre 2022, n. 197)",
+    "year": 2022,
+    "area": "Public finance / taxation / pensions",
+    "description": "The Meloni government's first budget, worth about 35 billion euros and largely devoted to extending energy-price relief. It raised the threshold of the 15% flat-rate regime for the self-employed from 65,000 to 85,000 euros, introduced a one-year incremental flat tax, created 'Quota 103' early retirement (62 years of age and 41 of contributions), confirmed and increased the cut in employees' social contributions, and scheduled the end of the citizens' income for people deemed able to work.",
+    "significance": "Set the fiscal line of the government: partial implementation of the coalition's flat-tax and pension pledges within tight budget limits.",
+    "source_url": [
+      "https://www.gazzettaufficiale.it/eli/id/2022/12/29/22G00211/sg",
+      "https://www.ilpost.it/2022/11/21/legge-bilancio-meloni-2023/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-decreto-lavoro-2023",
+    "law_name": "Labour Decree (Decreto-legge 4 maggio 2023, n. 48, converted by Legge 3 luglio 2023, n. 85)",
+    "year": 2023,
+    "area": "Welfare / labour",
+    "description": "Replaced the citizens' income (reddito di cittadinanza) with two new benefits: the Supporto per la formazione e il lavoro (350 euros a month for up to 12 months for 'employable' people aged 18–59 in training, from 1 September 2023) and the Assegno di inclusione (for households with minors, disabled members or people over 60, from 1 January 2024). It also increased the temporary cut in employees' social contributions from July to December 2023 and loosened the rules for renewing fixed-term contracts beyond 12 months.",
+    "significance": "Delivered the coalition's pledge to replace the citizens' income; according to Il Post about a third of the then recipients were expected to lose the benefit, and trade unions criticised the decree as harsh on the most disadvantaged.",
+    "source_url": [
+      "https://www.ilpost.it/2023/05/08/reddito-cittadinanza-riforma-assegno-inclusione/",
+      "https://www.ilpost.it/2023/05/02/riduzione-cuneo-fiscale-governo-meloni/",
+      "https://www.ilpost.it/2024/01/01/fine-reddito-di-cittadinanza/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-italy-albania-protocol",
+    "law_name": "Italy–Albania Protocol on migration (signed 6 November 2023; ratified February 2024) and Decree-Law 37/2025",
+    "year": 2024,
+    "area": "Migration / asylum",
+    "description": "Bilateral protocol signed by Meloni and Albanian Prime Minister Edi Rama for Italian-run centres in Shëngjin and Gjadër, Albania, to hold migrants rescued at sea from 'safe' countries for accelerated border asylum procedures. The centres opened in October 2024, but Italian courts repeatedly declined to validate detentions; a March 2025 decree-law turned part of Gjadër into a repatriation centre (CPR). In June 2026 the Shëngjin centre was still unused and about seventy people were held in the Gjadër CPR.",
+    "significance": "Flagship migration policy of the government and a model debated at EU level; its use for its original purpose depends on the EU Pact on Migration and Asylum applicable from June 2026 and on pending EU court rulings.",
+    "source_url": [
+      "https://www.ilpost.it/2023/11/07/accordo-migranti-italia-albania/",
+      "https://www.ilpost.it/2025/03/28/governo-decreto-centri-albania/",
+      "https://www.ilpost.it/2026/06/11/centri-migranti-albania-nuove-regole-europee/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-autonomia-differenziata",
+    "law_name": "Differentiated regional autonomy law (Legge 26 giugno 2024, n. 86, 'legge Calderoli')",
+    "year": 2024,
+    "area": "Regional government / constitution",
+    "description": "Framework law, promoted by the Lega's minister Roberto Calderoli and approved definitively on 19 June 2024, setting the procedure by which ordinary-statute regions can obtain more powers under Article 116(3) of the Constitution, conditional on defining essential levels of services (LEP). In judgment no. 192 of November–December 2024 the Constitutional Court declared several provisions unconstitutional, ruling that autonomy can concern specific functions rather than whole subject areas; the Court later declared the abrogative referendum on the law inadmissible (January 2025). In November 2025 the government signed preliminary agreements with Veneto, Lombardy, Piedmont and Liguria on a few limited matters.",
+    "significance": "A coalition commitment demanded by the Lega; partly struck down and only in its first implementing steps as of October 2026.",
+    "source_url": [
+      "https://www.ilpost.it/2024/06/19/autonomia-differenziata-approvata/",
+      "https://www.ilpost.it/2024/11/14/corte-costituzionale-illegittimita-autonomia-differenziata/",
+      "https://www.ilpost.it/2025/01/20/corte-costituzionale-decisione-referendum-autonomia-differenziata/",
+      "https://www.ilpost.it/2025/11/20/autonomia-veneto-storia-tensioni-zaia/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-ddl-nordio-abuso-ufficio",
+    "law_name": "Nordio law abolishing the offence of abuse of office (Legge 9 agosto 2024, n. 114)",
+    "year": 2024,
+    "area": "Justice / criminal law",
+    "description": "Government bill by Justice Minister Carlo Nordio, approved definitively by the Chamber on 10 July 2024, which repealed the offence of abuse of office (abuso d'ufficio), narrowed the offence of influence peddling, restricted the publication of wiretaps and limited prosecutors' appeals against some acquittals.",
+    "significance": "Supported by many mayors of all parties; criticised by the opposition and anti-corruption advocates. The Constitutional Court upheld the repeal of abuse of office in May 2025.",
+    "source_url": [
+      "https://www.ilpost.it/2024/07/10/ddl-nordio-abuso-ufficio-approvato/",
+      "https://www.ilpost.it/2025/05/09/abolizione-abuso-ufficio-legittima/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-gpa-reato-universale",
+    "law_name": "Law making surrogacy a 'universal offence' (Legge 4 novembre 2024, n. 169)",
+    "year": 2024,
+    "area": "Family / criminal law",
+    "description": "Extended the existing Italian ban on surrogacy (gestazione per altri) to Italian citizens who resort to it abroad, even in countries where it is legal. The bill, an FdI initiative supported by Meloni, received final Senate approval on 16 October 2024.",
+    "significance": "A signature measure of the government's social-conservative agenda; legal experts questioned its enforceability.",
+    "source_url": [
+      "https://www.ilpost.it/2024/10/16/gestazione-per-altri-reato-universale-cosa-significa/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-premierato",
+    "law_name": "Constitutional bill on the direct election of the Prime Minister ('premierato')",
+    "year": 2024,
+    "area": "Constitution / institutions",
+    "description": "Government constitutional bill presented in November 2023 providing for the direct popular election of the President of the Council for a five-year term and, in its original version, a 55% seat bonus for the winning coalition. The Senate approved it at first reading on 18 June 2024; it then stalled in the Chamber and, as of October 2026, had been set aside in favour of a new electoral law.",
+    "significance": "Presented by Meloni as a central institutional reform, it replaced the coalition's 2022 pledge of direct election of the head of state; as of October 2026 it is not expected to be completed in this legislature.",
+    "source_url": [
+      "https://www.ilpost.it/2024/06/18/senato-approvato-ddl-premierato/",
+      "https://pagellapolitica.it/articoli/contenuto-riforma-costituzione-premierato-elezione-diretta-presidente-consiglio",
+      "https://www.ilpost.it/2026/10/08/approvata-riforma-elettorale-camera/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-separazione-carriere",
+    "law_name": "Constitutional law on the separation of careers of judges and prosecutors ('riforma Nordio'), rejected by referendum",
+    "year": 2025,
+    "area": "Justice / constitution",
+    "description": "Constitutional reform separating the careers of judges and prosecutors, splitting the Superior Council of the Magistracy (CSM) into two bodies and creating a High Disciplinary Court. Parliament gave final approval on 30 October 2025 (Senate: 112 in favour, 59 against, 9 abstentions), short of the two-thirds majority, so a confirmatory referendum was held on 22–23 March 2026: 53.24% voted No (turnout 55.69% including voters abroad; 58.9% in Italy) and the reform did not enter into force.",
+    "significance": "The government's main institutional reform of the legislature; its rejection was widely read as a political setback for Meloni, who said she respected the vote and would carry on.",
+    "source_url": [
+      "https://www.ilpost.it/2025/10/30/separazione-carriere-senato-voto/",
+      "https://elezioni.interno.gov.it/risultati/20260322/referendum/scrutini/incomplesso/01",
+      "https://www.ansa.it/sito/notizie/politica/2026/03/23/referendum-netta-vittoria-del-no-bloccata-la-riforma-della-giustizia_bf120edc-fbc0-4d82-88a6-581ab82f4317.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-nucleare-delega",
+    "law_name": "Enabling law on sustainable nuclear energy (legge delega sul nucleare sostenibile)",
+    "year": 2026,
+    "area": "Energy",
+    "description": "Government bill by Environment and Energy Security Minister Gilberto Pichetto Fratin, presented in early 2025, approved by the Chamber in June 2026 and definitively by the Senate on 23 September 2026. It empowers the government to adopt, within twelve months, legislative decrees on the whole nuclear life cycle, including new-generation plants and small modular reactors, safety, radioactive waste and fusion research.",
+    "significance": "Reopens the legal path to nuclear power about forty years after the 1987 referendum; Meloni hailed it as a 'promise kept', though no plant is expected for years.",
+    "source_url": [
+      "https://www.rainews.it/articoli/2026/09/nucleare-il-senato-da-il-via-libera-definitivo-alla-normativa-sulle-centrali-atomiche-meloni-promessa-mantenuta-725e96c3-e021-4247-a6b5-c611fa3849e6.html",
+      "https://www.ilpost.it/2026/06/05/governo-parlamento-legge-delega-nucleare/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-stabilicum",
+    "law_name": "Electoral law 'Stabilicum' (approved 8 October 2026)",
+    "year": 2026,
+    "area": "Electoral system",
+    "description": "New electoral law for the Chamber and Senate, approved definitively by the Chamber on 8 October 2026 by secret ballot (227 in favour, 164 against). It is largely proportional, with a 3% threshold for parties and 10% for coalitions; a list or coalition reaching 42% receives a bonus of 70 deputies and 35 senators (capped at 220 of 400 and 113 of 200 seats). Coalitions must file the name of their prime-ministerial candidate, and voters may cast up to three preference votes, the list leader being elected first.",
+    "significance": "Will govern the 2027 general election; opponents, who call it the 'Melonellum', announced challenges, and commentators described the candidate-naming rule as a diluted substitute for the shelved premierato reform.",
+    "source_url": [
+      "https://www.ilpost.it/2026/10/08/approvata-riforma-elettorale-camera/",
+      "https://www.ansa.it/sito/notizie/politica/2026/10/08/legge-elettorale-dal-premio-alle-preferenze-come-funziona-la-riforma_cb7f408a-5993-4ad9-b5ee-66c83b7a13a7.html"
+    ]
+  }
+]

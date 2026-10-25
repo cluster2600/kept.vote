@@ -1,0 +1,210 @@
+[
+  {
+    "id": "janez-jansa-jus-jbtz-1988",
+    "case": "JBTZ trial: betrayal of military secrets before a Yugoslav military court (1988)",
+    "period": "1988",
+    "type": "criminal trial before a military court of the Yugoslav People's Army (Janša as defendant)",
+    "description": "On 31 May 1988 Janša, a writer critical of the Yugoslav People's Army (JNA), was arrested on suspicion of possessing a classified military document found during a search of the company where he worked. He was tried with JNA sergeant Ivan Borštner, Mladina journalist David Tasić and Mladina editor Franci Zavrl (the 'JBTZ' trial) on charges of betraying military secrets. The trial was held before a military court, behind closed doors and in Serbo-Croatian rather than Slovene, and according to the government's official biography without the right to representation by a civilian lawyer. It triggered mass protests and the founding of the Committee for the Defence of Human Rights, and is regarded as a catalyst of the 'Slovenian Spring' that led to democratisation (Wikipedia).",
+    "status": "convicted",
+    "outcome": "Sentenced to 18 months in prison. According to Wikipedia he served about six months, first at Dob and then, after public protests, at the open prison at Ig.",
+    "court": "Military court of the Yugoslav People's Army in Ljubljana",
+    "presumption_note": "The conviction was handed down in 1988 by a military court of the former Yugoslavia after a closed trial; Slovenia's official government biography describes his arrest as being 'because of his political views'. The sources used for this profile do not record a later annulment.",
+    "key_facts": [
+      "Arrested on 31 May 1988",
+      "Co-defendants: Ivan Borštner, David Tasić, Franci Zavrl",
+      "Closed military trial conducted in Serbo-Croatian",
+      "Sentence: 18 months in prison, about six months served"
+    ],
+    "source_url": [
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/JBTZ_trial",
+      "https://en.wikipedia.org/wiki/Janez_Jan%C5%A1a"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-patria",
+    "case": "Patria case: corruption charges over the purchase of Finnish armoured vehicles (2008–2015)",
+    "period": "2008–2015",
+    "type": "criminal prosecution (Janša as defendant); conviction annulled, prosecution then time-barred",
+    "description": "The case concerned the 2006 contract, concluded during Janša's first government, to buy armoured vehicles from the Finnish company Patria; the affair broke shortly before the 2008 parliamentary election, which the SDS lost (N1). On 5 June 2013 the Ljubljana District Court found that Janša and two co-defendants, Tone Krkovič and Ivan Črnkovič, had sought about €2 million in commission from Patria to help it win the contract; it sentenced Janša to two years in prison and each of the three to a fine of €37,000 (Wikipedia). The Higher Court upheld the verdict in April 2014 and Janša began serving his sentence at Dob prison on 20 June 2014. While in prison he was re-elected to parliament in July 2014; the National Assembly declared that his mandate had ended with the final judgment, but the Constitutional Court stayed that decision and annulled it on 11 June 2015, finding a violation of his right to perform an elected office. He was released on 12 December 2014 pending constitutional review. On 23 April 2015 the Constitutional Court unanimously annulled the convictions of all three defendants and returned the case to the first-instance court, to be heard by a different judge. The case then became time-barred before any retrial (RTV SLO). Janša has always denied the accusations and called the proceedings politically motivated.",
+    "status": "dismissed",
+    "outcome": "Convictions annulled by the Constitutional Court on 23 April 2015; the prosecution then became time-barred, so there is no final judgment on the charges. Janša spent 176 days in prison in the case (RTV SLO).",
+    "court": "Ljubljana District Court; Higher Court in Ljubljana; Constitutional Court of the Republic of Slovenia",
+    "presumption_note": "The conviction was annulled by the Constitutional Court and the case ended without a retrial; Janša has no conviction in the Patria case and is presumed innocent. He has denied all the accusations.",
+    "key_facts": [
+      "5 June 2013: first-instance conviction, two years in prison and a €37,000 fine",
+      "20 June 2014: began serving the sentence at Dob; released on 12 December 2014",
+      "23 April 2015: Constitutional Court unanimously annulled the convictions",
+      "11 June 2015: Constitutional Court annulled the National Assembly's decision ending his mandate",
+      "Prosecution time-barred before a retrial"
+    ],
+    "source_url": [
+      "https://www.rtvslo.si/news-in-english/constitutional-court-overturned-the-convictions-in-the-patria-case/363556",
+      "https://www.rtvslo.si/news-in-english/constitutional-court-conclusively-restored-parliamentary-seat-to-jansa/367315",
+      "https://www.rtvslo.si/slovenija/okrozno-sodisce-v-zadevi-patria-jansi-dosodilo-se-skoraj-40-000-evrov-odskodnine/756930",
+      "https://n1info.si/novice/slovenija/patria-sodisce-zavrnilo-jansevo-zahtevo-po-odskodnini/",
+      "https://en.wikipedia.org/wiki/Janez_Jan%C5%A1a"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-patria-damages",
+    "case": "Damages claims against the state, a former prosecutor and four judges over the Patria case",
+    "period": "2017–2025",
+    "type": "civil proceedings (Janša as plaintiff)",
+    "description": "Janša claimed about €900,000 in damages over the Patria case, citing 176 days of unjustified deprivation of liberty: €100,000 for the unjustified conviction and imprisonment and €800,000 for harm to his honour and reputation. He sued the state and, individually, former prosecutor Branka Zobec Hrastar and judges Barbara Klanjšek, Milan Štrukelj, Vesna Žalik and Branko Masleša, accusing them of unlawful conduct. In January 2023 the Kranj District Court rejected the claim against the five individuals in a partial judgment and ordered him to pay their costs, which the Higher Court raised to just over €30,000 in November 2024; Janša paid them. In January 2025 the state paid him almost €44,000 (€26,400 in principal plus interest) under Article 30 of the Constitution (right to rehabilitation and compensation), which the State Attorney's Office did not contest, while it disputes liability under Article 26 for unlawful conduct of state bodies. On 8 September 2025 RTV SLO reported that the Kranj District Court had awarded him a further €39,215.98 plus interest from 29 September 2017.",
+    "status": "ongoing",
+    "outcome": "Claim against the former prosecutor and judges rejected (January 2023; costs confirmed on appeal); about €44,000 paid by the state in January 2025; a further €39,215.98 awarded at first instance in September 2025, not final when reported.",
+    "court": "Kranj District Court; Higher Court",
+    "presumption_note": "Janša is the plaintiff in these civil proceedings. The September 2025 award was not final when reported, and no later decision was found for this profile as of October 2026.",
+    "key_facts": [
+      "Claim of about €900,000 over 176 days of deprivation of liberty",
+      "January 2023: claim against the former prosecutor and four judges rejected",
+      "January 2025: the state paid about €44,000 including interest",
+      "September 2025: a further €39,215.98 awarded at first instance (not final)"
+    ],
+    "source_url": [
+      "https://www.rtvslo.si/slovenija/okrozno-sodisce-v-zadevi-patria-jansi-dosodilo-se-skoraj-40-000-evrov-odskodnine/756930",
+      "https://www.rtvslo.si/crna-kronika/na-kranjskem-sodiscu-nadaljevanje-obravnave-odskodninske-tozbe-janse-proti-drzavi/746214",
+      "https://n1info.si/novice/slovenija/patria-sodisce-zavrnilo-jansevo-zahtevo-po-odskodnini/"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-kpk-report-lawsuit",
+    "case": "Administrative lawsuit against the anti-corruption commission's 2013 report on his assets",
+    "period": "2013–2015",
+    "type": "administrative dispute (Janša as plaintiff)",
+    "description": "Janša sued over the Commission for the Prevention of Corruption's report of 8 January 2013, which found that he had breached anti-corruption law and that his assets had grown by at least €210,000 more than his official income explained, arguing that it violated his human rights. The Administrative Court dismissed the lawsuit; on 11 June 2014 the Supreme Court upheld his appeal, finding that the lower court had not addressed whether the KPK had the power to adopt and publish such a report in that form, and sent the case back. In February 2015 the Supreme Court annulled the report because it had not been sent to Janša for comment beforehand, breaching one of his constitutional rights (24ur). The KPK repeated the review; in June 2015 it again found an unexplained increase of €210,000, which Janša called unlawful.",
+    "status": "other",
+    "outcome": "Report annulled by the Supreme Court in February 2015 on procedural grounds; the KPK repeated its review in June 2015 and reached the same figure, which Janša disputes.",
+    "court": "Administrative Court of the Republic of Slovenia; Supreme Court of the Republic of Slovenia",
+    "presumption_note": "These were administrative proceedings, not a criminal case, and the KPK's findings are not a criminal finding. The original report was annulled on procedural grounds; Janša disputes the repeated review's conclusions.",
+    "key_facts": [
+      "8 January 2013: KPK report published",
+      "11 June 2014: Supreme Court set aside the Administrative Court's dismissal",
+      "February 2015: Supreme Court annulled the report (no prior opportunity to comment)",
+      "June 2015: repeated KPK review again found €210,000 unexplained"
+    ],
+    "source_url": [
+      "https://www.rtvslo.si/slovenija/janseva-pritozba-zoper-porocilo-kpk-ja-spet-na-sodiscu/339181",
+      "https://www.delo.si/novice/crna-kronika/vrhovno-sodisce-ugodilo-jansi-v-zadevi-kpk",
+      "https://www.24ur.com/novice/slovenija/financna-preiskava-o-izvoru-jansevega-premozenja-koncana.html",
+      "https://www.rtvslo.si/slovenija/stefanec-jansa-je-imel-moznost-odgovora-ni-je-izkoristil-jansa-osnutek-je-spet-protipraven/368412"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-asset-forfeiture",
+    "case": "Lawsuit for forfeiture of assets of illegal origin",
+    "period": "2013–2018",
+    "type": "civil forfeiture proceedings (Janša as defendant)",
+    "description": "The Specialised State Prosecutor's Office opened a financial investigation into Janša's assets in September 2013, based on a written initiative, data from the Austrian anti-money-laundering office and the KPK's findings; it also covered persons close to him and was completed in March 2015. In 2017 the prosecutor sued at the Ljubljana District Court for the forfeiture of assets it considered to be of illegal origin, valued at €395,388, including several properties and a car; the lawsuit was filed against Janša only. Janša said the deadline for filing had expired on 14 April 2015. In December 2017 the District Court stayed the proceedings and referred the Forfeiture of Assets of Illegal Origin Act to the Constitutional Court, finding it unconstitutional in several respects, the lawsuit late by more than two years, and the legal basis for the financial investigation lapsed after the annulment of the Patria judgments; the Higher Court confirmed the stay in May 2018. In July 2018 the Constitutional Court annulled the provision applying the act to offences committed before it took effect on 29 November 2011; in September 2018 the prosecution withdrew nine such lawsuits, and 24ur reported that, given the dates of the alleged acts, the withdrawal of the lawsuit against Janša could be expected.",
+    "status": "other",
+    "outcome": "Proceedings stayed since December 2017 (stay final in May 2018). After the Constitutional Court's July 2018 ruling the prosecution withdrew lawsuits concerning conduct before November 2011; no court has ruled that any of Janša's assets were of illegal origin.",
+    "court": "Ljubljana District Court; Higher Court in Ljubljana",
+    "presumption_note": "Civil forfeiture proceedings are not a criminal charge, and no court found any of Janša's assets to be of illegal origin. He contested the lawsuit as late and unfounded.",
+    "key_facts": [
+      "September 2013: financial investigation opened; completed March 2015",
+      "2017: lawsuit seeking forfeiture of assets valued at €395,388",
+      "December 2017: proceedings stayed and the law referred to the Constitutional Court; stay confirmed in May 2018",
+      "July 2018: Constitutional Court barred retroactive application to pre-November 2011 conduct; withdrawals of such lawsuits followed"
+    ],
+    "source_url": [
+      "https://www.24ur.com/novice/slovenija/financna-preiskava-o-izvoru-jansevega-premozenja-koncana.html",
+      "https://www.rtvslo.si/crna-kronika/visje-sodisce-ugodilo-prekinitvi-sojenja-za-odvzem-premozenja-janezu-jansi/455313",
+      "https://www.24ur.com/novice/slovenija/kangler-zagozen-najbrz-tudi-jansa-umikajo-tozbe-v-postopkih-za-odvzem-premozenja.html"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-insult-journalists-criminal",
+    "case": "Criminal insult (razžalitev) of RTV Slovenija journalists Eugenija Carl and Mojca Šetinc Pašek over a 2016 tweet",
+    "period": "2016–2024",
+    "type": "private criminal prosecution (Janša as defendant)",
+    "description": "On 21 March 2016 Janša, then leader of the largest opposition party, tweeted that a brothel's Facebook page was offering 'cheap services of used-up prostitutes Evgenija C. and Mojca P. Š.', 'one for 30 euros, the other for 35', with the hashtag 'Zvodnik Milan' (Milan the pimp). The two RTV Slovenija journalists brought a private prosecution. At a first trial in 2018 he was convicted, but the Celje Higher Court annulled that verdict for procedural errors. At the retrial, on 25 February 2022, a panel of the Celje District Court convicted the sitting Prime Minister of two counts of insult; the court found that his aim was not merely to criticise the journalists' work but to denigrate them 'in the most despicable way' and humiliate them professionally and personally. Janša said he had meant 'media prostitution', not sexual prostitution. On 24 May 2022 the Celje Higher Court rejected his appeal, describing the tweet as a crude and sexist statement, and the judgment became final. On 3 January 2024 RTV SLO reported that the Supreme Court had rejected his request for the protection of legality, in which he argued that he had not been properly notified of the appeal hearing and that the limitation date had been miscalculated.",
+    "status": "convicted",
+    "outcome": "Final conviction (24 May 2022): three months' suspended prison sentence with a one-year probation period, plus costs; the Supreme Court rejected his extraordinary legal remedy (reported January 2024).",
+    "court": "Celje District Court; Celje Higher Court; Supreme Court of the Republic of Slovenia",
+    "presumption_note": "This is a final conviction for insult, an offence prosecuted privately by the injured parties. Janša argued that the tweet referred to 'media prostitution' and criticised the journalists' work, and he contested the procedure up to the Supreme Court.",
+    "key_facts": [
+      "Tweet posted on 21 March 2016",
+      "First conviction (2018) annulled on procedural grounds",
+      "25 February 2022: convicted at the retrial, three months suspended, one-year probation",
+      "24 May 2022: Celje Higher Court rejected his appeal; judgment final",
+      "Supreme Court rejected his request for the protection of legality (reported 3 January 2024)"
+    ],
+    "source_url": [
+      "https://www.rtvslo.si/crna-kronika/jansa-obsojen-na-3-mesece-pogojne-zaporne-kazni-zaradi-zalitev-novinark/613712",
+      "https://www.rtvslo.si/slovenija/jansev-tvit-o-odsluzenih-prostitutkah-sodisce-oznacilo-kot-objektivno-zaljiv/617483",
+      "https://siol.net/novice/slovenija/visje-sodisce-jansa-je-kriv-580111",
+      "https://www.rtvslo.si/crna-kronika/vrhovno-sodisce-zavrnilo-jansevo-zahtevo-za-varstvo-zakonitosti-v-primeru-razzalitve-novinark/693473",
+      "https://www.rtvslo.si/crna-kronika/obravnava-na-vnovicnem-sojenju-jansi-znova-prestavljena/611791"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-insult-journalists-civil",
+    "case": "Damages suits by journalists Eugenija Carl and Mojca Šetinc Pašek over the 2016 tweet",
+    "period": "2016–2024",
+    "type": "civil proceedings (Janša as defendant)",
+    "description": "Both journalists sued Janša for damages (Šetinc Pašek on 1 July 2016). Because he did not answer the lawsuits in time, the Velenje Local Court issued default judgments ordering him to pay each of them €6,000, finding the tweet insulting in itself; in 2017 it rejected his requests to reopen the proceedings, in which he said he had not received the lawsuits. The Celje Higher Court upheld the awards (December 2018 for Šetinc Pašek, May 2020 for Carl). In Šetinc Pašek's case the Supreme Court granted Janša's request for revision and dismissed her claim, finding that his followers would have understood the tweet as referring to her work (24ur, 6 May 2020). On 21 March 2024 the Constitutional Court, by six votes to three, annulled that Supreme Court judgment, holding that 'such vulgar expression' cannot enjoy a high level of protection, especially from an influential politician; in May 2024 the Supreme Court, deciding again, rejected Janša's revision as unfounded. In Carl's case the Constitutional Court, also by six votes to three, rejected Janša's constitutional complaint on 5 April 2024.",
+    "status": "other",
+    "outcome": "Final: Janša is liable to pay each journalist €6,000 in damages plus costs.",
+    "court": "Velenje Local Court; Celje Higher Court; Supreme Court; Constitutional Court of the Republic of Slovenia",
+    "presumption_note": "This is civil liability for damages, not a criminal conviction (see the separate criminal record). Janša argued that the tweet was protected political expression and that the lawsuits had not been properly served.",
+    "key_facts": [
+      "Default judgments of the Velenje Local Court: €6,000 to each journalist",
+      "2020: Supreme Court dismissed Šetinc Pašek's claim on free-expression grounds",
+      "21 March 2024: Constitutional Court (6–3) annulled that ruling; May 2024: Supreme Court rejected Janša's revision",
+      "5 April 2024: Constitutional Court (6–3) rejected Janša's complaint in Carl's case"
+    ],
+    "source_url": [
+      "https://www.24ur.com/novice/slovenija/zaljivi-tvit-bo-janso-stal-se-dodatnih-6000-evrov.html",
+      "https://www.24ur.com/novice/slovenija/vrhovno-sodisce-zavrnilo-sodbo-v-tozbi-novinarke-ki-jo-je-razzalil-janez-jansa.html",
+      "https://www.rtvslo.si/slovenija/jansev-tvit-o-odsluzenih-prostitutkah-sodisce-oznacilo-kot-objektivno-zaljiv/617483",
+      "https://siol.net/novice/slovenija/ustavno-sodisce-pritrdilo-setnic-paskovi-629764",
+      "https://n1info.si/novice/slovenija/jansa-izgubil-na-ustavnem-sodisci-zmaga-za-vse-novinarke/",
+      "https://n1info.si/novice/slovenija/setinc-pasek-ob-koncu-sodne-sage-zmaga-za-zenske-demokracijo-in-novinarstvo/"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-trenta",
+    "case": "Trenta case: aiding abuse of position in a 2005 property transaction",
+    "period": "2013–2026",
+    "type": "criminal trial (Janša as defendant)",
+    "description": "After the Commission for the Prevention of Corruption reported a suspected criminal offence to the police in early 2013, the Specialised State Prosecutor's Office charged Branko Kastelic, then director of the construction company Imos, with abuse of position, and Janša and Klemen Gantar, then head of the company Eurogradnje, with aiding it. The prosecution alleged that in 2005, while Prime Minister, Janša bought a flat in Ljubljana from Imos for about €236,000, paying €91,000 with his smaller flat and the rest with €131,000 from the sale of a plot in the Trenta valley in Triglav National Park, which he had bought in 1992; Eurogradnje bought the plot using an advance from Imos and later sold it on to Imos. Prosecutors said the deal was fictitious, the plot was overpaid by more than €100,000 and could not be built on, and they sought two years in prison for Janša. The defence said he had done nothing unlawful and that the case was aimed at discrediting him. After a judicial investigation of more than five years and the Supreme Court's transfer of the case from Ljubljana to Celje, the trial began on 3 September 2024. On 18 April 2025 the Celje District Court acquitted all three defendants, finding it unproven that the advance was a pretext or that the plot was worth only about €20,000. The prosecution appealed in December 2025, and on 28 May 2026 the Koper Higher Court upheld the acquittal.",
+    "status": "acquitted",
+    "outcome": "Acquitted on 18 April 2025; acquittal upheld by the Koper Higher Court on 28 May 2026, making it final.",
+    "court": "Celje District Court; Koper Higher Court",
+    "presumption_note": "Janša was finally acquitted; the prosecution's allegations were not proven in court.",
+    "key_facts": [
+      "Early 2013: KPK reported a suspected offence; judicial investigation from 2014",
+      "3 September 2024: trial opened in Celje",
+      "18 April 2025: all three defendants acquitted",
+      "28 May 2026: Koper Higher Court upheld the acquittal; case closed"
+    ],
+    "source_url": [
+      "https://www.rtvslo.si/crna-kronika/visje-sodisce-potrdilo-oprostilno-sodbo-za-janso-v-zadevi-trenta/783552",
+      "https://www.rtvslo.si/slovenija/jansa-podpornikom-po-oprostilni-sodbi-to-se-ne-bi-zgodilo-ce-ne-bi-bilo-vas/743165",
+      "https://n1info.si/novice/slovenija/33-letna-saga-zadeve-trenta-kako-jansa-kupil-in-prodal-parcelo-v-trenti/"
+    ]
+  },
+  {
+    "id": "janez-jansa-jus-sds-loan-misdemeanour",
+    "case": "Misdemeanour proceedings over SDS loans from Dijana Đuđić and the company Nova obzorja",
+    "period": "2017–2019",
+    "type": "misdemeanour proceedings under the Political Parties Act (SDS as offender, Janša as its responsible person)",
+    "description": "In December 2017 the SDS borrowed €450,000 at 2% interest from Dijana Đuđić, a citizen of Bosnia and Herzegovina, split into three instalments; the law limits loans to a party from a natural person to ten times the average gross monthly wage a year. The SDS repaid the first instalment after the Court of Audit warned it, and in March 2018 the Court of Audit filed two charging motions, over this loan and over a €60,000 loan from Nova obzorja, a company part-owned by the SDS (the law allows parties to borrow only from banks, savings institutions and natural persons). On 18 February 2019 the Ljubljana Local Court, in a summary procedure, found breaches in both cases: according to 24ur it fined the SDS €16,000 and Janša, as the party's responsible person, €2,000 in the Nova obzorja case, and the SDS €4,200 in the Đuđić case. The decision was not final because an objection was lodged. Janša commented: 'Welcome to Slovenia. Here you take out a loan and repay it, and you are punished.' The Specialised State Prosecutor's Office also examined the loan in pre-trial proceedings in 2018 without disclosing whom it was investigating.",
+    "status": "other",
+    "outcome": "Non-final decision of 18 February 2019 (a €2,000 fine for Janša as responsible person in the Nova obzorja case), challenged by an objection; the final outcome was not established for this profile.",
+    "court": "Ljubljana Local Court (Okrajno sodišče v Ljubljani)",
+    "presumption_note": "The February 2019 decision was not final and concerns a misdemeanour (prekršek) under the Political Parties Act, not a criminal offence; the SDS and Janša contested it, and no criminal charge over the loans has been reported.",
+    "key_facts": [
+      "December 2017: €450,000 loan agreed; first instalment repaid after the Court of Audit's warning",
+      "March 2018: Court of Audit filed two charging motions",
+      "18 February 2019: non-final fines, including €2,000 for Janša as responsible person; objection lodged"
+    ],
+    "source_url": [
+      "https://www.24ur.com/novice/slovenija/sodisce-sds-je-s-kreditom-dijane-dzudzic-krsila-zakon-o-financiranju-strank.html",
+      "https://www.24ur.com/novice/slovenija/jansa-o-kazni-za-posojilo-sds-dobrodosli-v-sloveniji.html",
+      "https://www.24ur.com/novice/slovenija/bo-sds-zaradi-spornega-posojila-od-dijane-dzudzic-ob-zajeten-del-proracunskega-denarja.html",
+      "https://www.rtvslo.si/slovenija/poleg-racunskega-sodisca-se-s-posojilom-sds-a-ukvarja-tudi-specializirano-tozilstvo/443274"
+    ]
+  }
+]

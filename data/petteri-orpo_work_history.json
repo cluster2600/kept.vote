@@ -1,0 +1,205 @@
+[
+  {
+    "id": "petteri-orpo-wh-tyy",
+    "role": "Secretary general (pääsihteeri)",
+    "organization": "Student Union of the University of Turku (Turun yliopiston ylioppilaskunta)",
+    "start_date": "1994",
+    "end_date": "1996",
+    "description": "Listed in his Eduskunta biography.",
+    "category": "civil_society",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-syl",
+    "role": "Secretary general (pääsihteeri)",
+    "organization": "National Union of University Students in Finland (Suomen ylioppilaskuntien liitto, SYL)",
+    "start_date": "1997",
+    "end_date": "1998",
+    "description": "Listed in his Eduskunta biography.",
+    "category": "civil_society",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-district-director",
+    "role": "Executive director (toiminnanjohtaja)",
+    "organization": "Varsinais-Suomen Kokoomus (Kokoomus district organisation for Finland Proper)",
+    "start_date": "1998",
+    "end_date": "2001",
+    "description": "Listed in his Eduskunta biography.",
+    "category": "party",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-interior-adviser",
+    "role": "Special adviser (erityisavustaja)",
+    "organization": "Ministry of the Interior (sisäasiainministeriö)",
+    "start_date": "2002",
+    "end_date": "2003",
+    "description": "Political special adviser at the Ministry of the Interior, according to his Eduskunta biography.",
+    "category": "public_service",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-deputy-party-secretary",
+    "role": "Deputy party secretary (apulaispuoluesihteeri)",
+    "organization": "Kansallinen Kokoomus (National Coalition Party)",
+    "start_date": "2003",
+    "end_date": "2005",
+    "description": "Listed in his Eduskunta biography.",
+    "category": "party",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-adult-education",
+    "role": "Director of business services (yrityspalvelujohtaja)",
+    "organization": "Turku Adult Education Centre (Turun Aikuiskoulutuskeskus)",
+    "start_date": "2005",
+    "end_date": "2007",
+    "description": "His last position before entering Parliament, according to his Eduskunta biography.",
+    "category": "education",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-mp",
+    "role": "Member of Parliament (kansanedustaja) for Varsinais-Suomi (Finland Proper)",
+    "organization": "Eduskunta (Parliament of Finland)",
+    "start_date": "2007-03-21",
+    "end_date": null,
+    "description": "Elected in 2007 and re-elected in 2011, 2015, 2019 and 2023. Committee and other posts listed by Parliament include the Economic Affairs Committee (member 2007–2011), the Environment Committee (2007–2009), the Foreign Affairs Committee (member 2011–2014 and 2019–2021) and the Parliamentary Supervisory Council of the Bank of Finland (2012–2014 and 2019–2023). His mandate continues while he is Prime Minister.",
+    "category": "legislature",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-group-leader",
+    "role": "Chair of the Kokoomus parliamentary group (previously third and second vice-chair)",
+    "organization": "Kansallisen kokoomuksen eduskuntaryhmä (Kokoomus parliamentary group)",
+    "start_date": "2007-04-19",
+    "end_date": "2014-06-22",
+    "description": "Third vice-chair from 19 April 2007 to 20 June 2011, second vice-chair from 21 June 2011 to 12 November 2012 and chair from 13 November 2012 to 22 June 2014, according to Parliament's records.",
+    "category": "legislature",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-agriculture-minister",
+    "role": "Minister of Agriculture and Forestry (maa- ja metsätalousministeri)",
+    "organization": "Government of Finland (Stubb government)",
+    "start_date": "2014-06-24",
+    "end_date": "2015-05-28",
+    "description": "Minister in Alexander Stubb's government.",
+    "category": "government",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-interior-minister",
+    "role": "Minister of the Interior (sisäministeri)",
+    "organization": "Government of Finland (Sipilä government)",
+    "start_date": "2015-05-29",
+    "end_date": "2016-06-21",
+    "description": "Interior minister during the 2015 increase in asylum seekers; his ministry proposed the 2016 amendment of the Aliens Act abolishing residence permits on humanitarian-protection grounds (see key legislation).",
+    "category": "government",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://www.finlex.fi/fi/hallituksen-esitykset/2016/2"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-finance-minister",
+    "role": "Minister of Finance (valtiovarainministeri); Deputy Prime Minister from 2017",
+    "organization": "Government of Finland (Sipilä government)",
+    "start_date": "2016-06-22",
+    "end_date": "2019-06-05",
+    "description": "Took over the finance portfolio from Alexander Stubb after defeating him for the Kokoomus chairmanship. Parliament's records give his term as finance minister as 22 June 2016 to 5 June 2019; according to Wikipedia he was also Deputy Prime Minister from 28 June 2017 to 6 June 2019.",
+    "category": "government",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-party-chair",
+    "role": "Chairman (puheenjohtaja)",
+    "organization": "Kansallinen Kokoomus (National Coalition Party)",
+    "start_date": "2016-06-11",
+    "end_date": null,
+    "description": "Elected at the June 2016 party congress, defeating the incumbent Alexander Stubb and Elina Lepomäki; re-elected for successive two-year terms, most recently unopposed at the Jyväskylä congress on 6 June 2026. His 2026 declaration of interests lists the chairmanship, for which he declared €24,000 from Kokoomus for 2025.",
+    "category": "party",
+    "source_url": [
+      "https://yle.fi/a/3-9197506",
+      "https://www.helsinkitimes.fi/finland/finland-news/politics/28907-orpo-wins-new-term-as-national-coalition-leader.html",
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-defence-committee",
+    "role": "Chair of the Defence Committee (puolustusvaliokunnan puheenjohtaja)",
+    "organization": "Eduskunta (Parliament of Finland)",
+    "start_date": "2022-04-26",
+    "end_date": "2022-09-08",
+    "description": "Took the chair after the death of Ilkka Kanerva, during Parliament's handling of Finland's NATO membership application; according to Wikipedia, Kokoomus wanted its leader centrally involved in the NATO process. Succeeded by Antti Häkkänen in September 2022.",
+    "category": "legislature",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-speaker",
+    "role": "Speaker of Parliament (eduskunnan puhemies)",
+    "organization": "Eduskunta (Parliament of Finland)",
+    "start_date": "2023-04-12",
+    "end_date": "2023-06-19",
+    "description": "Elected Speaker when the new Parliament convened after the April 2023 election, on a temporary basis until a government was formed; succeeded by Jussi Halla-aho.",
+    "category": "legislature",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://en.wikipedia.org/wiki/Petteri_Orpo"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-prime-minister",
+    "role": "Prime Minister (pääministeri)",
+    "organization": "Government of Finland (Orpo government, the 77th government)",
+    "start_date": "2023-06-20",
+    "end_date": null,
+    "description": "Heads a coalition of Kokoomus, the Finns Party, the Swedish People's Party (SPP/RKP) and the Christian Democrats, with 109 of 200 seats at formation; Finns Party leader Riikka Purra is Deputy Prime Minister and Minister of Finance. As of October 2026 the government's term runs until the spring 2027 parliamentary election.",
+    "category": "government",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://yle.fi/a/74-20037253",
+      "https://en.wikipedia.org/wiki/Orpo_Cabinet"
+    ]
+  },
+  {
+    "id": "petteri-orpo-wh-turku-council",
+    "role": "Member of Turku City Council (Turun kaupunginvaltuusto)",
+    "organization": "City of Turku",
+    "start_date": "2017",
+    "end_date": null,
+    "description": "Listed in his 2026 declaration of interests; official results show him elected in the municipal elections of 2017, 2021 and 2025. Whether he also sat on the council before 2017 was not checked. He declared €1,140 in council fees for 2025.",
+    "category": "local_government",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://tulospalvelu.vaalit.fi/KV-2025/fi/val853.html",
+      "https://tulospalvelu.vaalit.fi/KV-2017/fi/val853.html"
+    ]
+  }
+]

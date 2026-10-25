@@ -1,0 +1,15 @@
+[
+  {
+    "id": "petteri-orpo-co-arduum",
+    "entity": "Arduum Oy",
+    "role": "Shareholder (25%)",
+    "ownership_stake": "25%",
+    "period": "declared 2026 (also listed in the Government's 2023 declaration, per the search index)",
+    "status": "declared",
+    "detail": "Declared as a company owning rental flats ('vuokra-asuntoja omistava yritys, muutamia vuokra-asuntoja') under the practice of a profession or business, and as a significant holding acquired for business or investment. He declared no significant debts or guarantees taken on for business or investment and no income from business activity for 2025. Ministers also file declarations that the Government submits to Parliament (latest VN 1/2026 vp, a PDF the harvest can fingerprint but not read). Source: his entry in the Eduskunta (Parliament) register of MPs, read through Parliament's open-data interface: the declaration of interests (sidonnaisuusilmoitus) dated 2026 and the declaration of income from activities outside the MP's mandate for 2025. Finnish MPs and ministers declare interests under the Constitution and Parliament's rules; there is no general declaration of total assets or net worth.",
+    "source_url": [
+      "https://avoindata.eduskunta.fi/api/v1/tables/MemberOfParliament/rows?columnName=personId&columnValue=947",
+      "https://www.eduskunta.fi/pdf/VN+1/2026"
+    ]
+  }
+]

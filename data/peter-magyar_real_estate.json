@@ -1,0 +1,66 @@
+[
+  {
+    "id": "peter-magyar-re-bp12-216",
+    "property": "Residential property in a condominium building (lakóház, társasház), 216 m²",
+    "location": "Budapest, District XII",
+    "transaction_type": "Purchase; sole ownership after division of marital property",
+    "date": "2019",
+    "value": "not declared",
+    "detail": "Owner. Acquired by purchase in 2019; became his on the dissolution of the marital property community in 2023. According to Telex, the two flats and the garage in the same building were bought together with his then-wife in 2019 for 200 million HUF. Listed unchanged in his declarations of July 2025, January 2026 and May 2026.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-re-bp12-49",
+    "property": "Residential property in a condominium building (lakóház, társasház), 49 m²",
+    "location": "Budapest, District XII",
+    "transaction_type": "Purchase; sole ownership after division of marital property",
+    "date": "2019",
+    "value": "not declared",
+    "detail": "Acquired by purchase in 2019, with the 2023 dissolution of the marital property community recorded as the further title. Listed in all his declarations since July 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-re-bp12-garage",
+    "property": "Garage in a condominium building, 25 m²",
+    "location": "Budapest, District XII",
+    "transaction_type": "Purchase; sole ownership after division of marital property",
+    "date": "2019",
+    "value": "not declared",
+    "detail": "Owner. Acquired by purchase in 2019; became his in the 2023 division of marital property.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-re-balatonhenye-plot",
+    "property": "Undeveloped plot ('kivett beépítetlen terület'), 7,926 m²",
+    "location": "Balatonhenye (Veszprém county)",
+    "transaction_type": "Purchase; sole ownership after division of marital property",
+    "date": "2014",
+    "value": "not declared",
+    "detail": "Owner. Bought in 2014; allotted to him when the marital property was divided in 2023, while the house in the same village went to his former wife according to Telex.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  }
+]

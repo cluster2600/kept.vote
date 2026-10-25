@@ -1,0 +1,267 @@
+[
+  {
+    "id": "giorgia-meloni-presidenzialismo",
+    "title": "Direct election of the President of the Republic (presidenzialismo)",
+    "description": "The centre-right framework programme 'Per l'Italia' (11 August 2022), on which Meloni's FdI–Lega–Forza Italia–Noi Moderati coalition ran, opens its institutional chapter with the 'Elezione diretta del Presidente della Repubblica', a long-standing FdI flagship.",
+    "date_made": "2022-08-11",
+    "category": "Institutions",
+    "status": "broken",
+    "confidence_score": 0.8,
+    "reasoning": "The government never tabled a bill for the direct election of the head of state; in November 2023 it chose instead the 'premierato', the direct election of the Prime Minister, which the Senate approved at first reading on 18 June 2024 before it stalled in the Chamber. By October 2026 the premierato had been set aside, and the new electoral law only obliges coalitions to name a prime-ministerial candidate, which Il Post describes as a 'very watered-down' substitute. A constitutional amendment needing two readings in each chamber can no longer be completed before the 2027 election.",
+    "key_evidence": [
+      "Coalition programme 'Per l'Italia' (11 Aug 2022): 'Elezione diretta del Presidente della Repubblica'",
+      "Premierato constitutional bill presented in November 2023, approved by the Senate at first reading on 18 June 2024",
+      "Il Post, 8 Oct 2026: the premierato was shelved, likely for fear of a confirmatory referendum; the electoral law's PM-candidate rule is 'una forma molto annacquata di elezione diretta'",
+      "No bill on direct election of the President of the Republic was presented in the legislature"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://cdn.pagellapolitica.it/wp-content/uploads/2022/08/PER_L_ITALIA_Accordo_quadro_di_programma_per_un_Governo_di_centrodestra.pdf",
+      "https://www.ilpost.it/2024/06/18/senato-approvato-ddl-premierato/",
+      "https://www.ilpost.it/2026/10/08/approvata-riforma-elettorale-camera/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-separazione-carriere",
+    "title": "Separate the careers of judges and prosecutors and reform the CSM",
+    "description": "The 2022 coalition programme's justice chapter commits to the 'separazione delle carriere e riforma del CSM', i.e. distinct careers for judges and public prosecutors and a reform of the Superior Council of the Magistracy.",
+    "date_made": "2022-08-11",
+    "category": "Justice",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "The government carried a constitutional reform through Parliament (final Senate vote on 30 October 2025: 112 in favour, 59 against, 9 abstentions) separating the two careers, splitting the CSM in two and creating a High Disciplinary Court. Because it lacked a two-thirds majority it went to a confirmatory referendum, and on 22–23 March 2026 voters rejected it (53.24% No, according to the Interior Ministry), so it never entered into force. Meloni said she respected the popular verdict; a new constitutional procedure could not be completed within the current term.",
+    "key_evidence": [
+      "Final parliamentary approval on 30 October 2025, below the two-thirds threshold",
+      "Referendum of 22–23 March 2026: No 53.24%, Yes 46.76%; turnout 55.69% including Italians abroad (58.9% in Italy)",
+      "Meloni (ANSA, 23 Mar 2026): 'Rispetto la sovranità popolare ma vado avanti'"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2025/10/30/separazione-carriere-senato-voto/",
+      "https://elezioni.interno.gov.it/risultati/20260322/referendum/scrutini/incomplesso/01",
+      "https://www.ansa.it/sito/notizie/politica/2026/03/23/referendum-netta-vittoria-del-no-bloccata-la-riforma-della-giustizia_bf120edc-fbc0-4d82-88a6-581ab82f4317.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-autonomia-differenziata",
+    "title": "Implement differentiated autonomy for the regions (Article 116(3) of the Constitution)",
+    "description": "The coalition programme commits to 'attuare il percorso già avviato per il riconoscimento delle Autonomie ai sensi dell'art. 116 comma 3 della Costituzione', a key demand of the Lega and of Veneto and Lombardy.",
+    "date_made": "2022-08-11",
+    "category": "Institutions",
+    "status": "in_progress",
+    "confidence_score": 0.65,
+    "reasoning": "The framework law (Law 86/2024, 'legge Calderoli') was adopted in June 2024, but in November 2024 the Constitutional Court declared parts of it unconstitutional, limiting transfers to specific functions and making them conditional on defining essential levels of services. In November 2025 the government signed preliminary agreements (pre-intese) with Veneto, Lombardy, Piedmont and Liguria on limited matters such as civil protection and complementary pensions. No final State–region agreement approved by Parliament was found in the sources consulted, and 2026 developments could not be fully verified.",
+    "key_evidence": [
+      "Law 26 June 2024 n. 86 approved definitively on 19 June 2024",
+      "Constitutional Court judgment no. 192/2024 (announced 14 Nov 2024) struck down several provisions",
+      "Constitutional Court declared the abrogative referendum on the law inadmissible (January 2025)",
+      "Pre-agreements signed in November 2025 with four northern regions on a few non-LEP matters"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2024/06/19/autonomia-differenziata-approvata/",
+      "https://www.ilpost.it/2024/11/14/corte-costituzionale-illegittimita-autonomia-differenziata/",
+      "https://www.ilpost.it/2025/11/20/autonomia-veneto-storia-tensioni-zaia/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-flat-tax",
+    "title": "Extend the flat tax for the self-employed (partite IVA) to €100,000 of turnover",
+    "description": "The coalition programme pledges the 'estensione della flat tax per le partite IVA fino a 100.000 euro di fatturato', together with a flat tax on income increases, as part of a broader tax reform.",
+    "date_made": "2022-08-11",
+    "category": "Economy & taxes",
+    "status": "compromise",
+    "confidence_score": 0.85,
+    "reasoning": "The 2023 budget law raised the ceiling of the 15% flat-rate regime for the self-employed from €65,000 to €85,000, short of the promised €100,000, and introduced an incremental flat tax for 2023 only. Personal income tax (IRPEF) was simplified to three brackets (23% up to €28,000, 33% from €28,000 to €50,000 as of 2026, 43% above), which is a cut but not a flat tax. Overall tax pressure rose to 42.8% of GDP in 2025, according to Il Post.",
+    "key_evidence": [
+      "Law 197/2022 (2023 budget): flat-rate regime threshold raised from €65,000 to €85,000",
+      "Incremental flat tax for self-employed with incomes up to €40,000 introduced for 2023",
+      "IRPEF reduced to three brackets, the 23% bracket extended to €28,000 and made structural by the 2025 budget",
+      "Tax pressure at 42.8% in 2025, the highest in ten years (Il Post)"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2022/11/21/legge-bilancio-meloni-2023/",
+      "https://www.gazzettaufficiale.it/eli/id/2022/12/29/22G00211/sg",
+      "https://pagellapolitica.it/articoli/governo-italiano-piu-longevo-fact-checking",
+      "https://www.ilpost.it/2025/12/31/meloni-promesse-mancate-accise-ponte-tasse-pensioni/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-reddito-cittadinanza",
+    "title": "Replace the citizens' income with more effective social-inclusion measures",
+    "description": "The programme pledges the 'sostituzione dell'attuale reddito di cittadinanza con misure più efficaci di inclusione sociale'; Meloni had called the benefit 'culturally wrong' (culturalmente sbagliato).",
+    "date_made": "2022-08-11",
+    "category": "Welfare & labour",
+    "status": "kept",
+    "confidence_score": 0.95,
+    "reasoning": "The 2023 budget phased out the reddito di cittadinanza for people deemed able to work, and Decree-Law 48/2023 replaced it with the Supporto per la formazione e il lavoro (from 1 September 2023) and the Assegno di inclusione (from 1 January 2024); the old benefit ceased to exist on 1 January 2024. Whether the new instruments are 'more effective' is contested, since about a third of recipients were expected to lose support, but the replacement was carried out as promised.",
+    "key_evidence": [
+      "Decree-Law 4 May 2023 n. 48 (converted by Law 85/2023) created the SFL and the ADI",
+      "SFL: €350 a month for up to 12 months for 'employable' people aged 18–59 with ISEE below €6,000",
+      "ADI: for households with minors, disabled members or people over 60 and ISEE below €9,360, from 1 January 2024",
+      "Reddito di cittadinanza ended on 31 December 2023"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2023/05/08/reddito-cittadinanza-riforma-assegno-inclusione/",
+      "https://www.ilpost.it/2024/01/01/fine-reddito-di-cittadinanza/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-cuneo-fiscale",
+    "title": "Cut the tax wedge on labour (cuneo fiscale) for businesses and workers",
+    "description": "The programme pledges a 'taglio del cuneo fiscale in favore di imprese e lavoratori', i.e. lowering the gap between labour costs and take-home pay.",
+    "date_made": "2022-08-11",
+    "category": "Economy & taxes",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The government enlarged the temporary cut in employees' social contributions inherited from the Draghi government (to 7 points for incomes up to €25,000 and 6 points up to €35,000 in 2023–2024, about 14 million workers) and, with the 2025 budget, made the relief permanent by turning it into a tax-based mechanism. The relief has gone mainly to employees rather than employers, and Pagella Politica, citing ISTAT, notes that fiscal drag absorbed much of the gain from the tax changes.",
+    "key_evidence": [
+      "Labour decree of May 2023 raised the contribution cut from July to December 2023",
+      "Cut of 6–7 points confirmed for 2024, worth about €100 a month for 14 million employees (Il Post)",
+      "2025 budget made the cut structural, reshaped as a tax benefit",
+      "Average net gain from tax changes about €40 a year in 2026 according to ISTAT, cited by Pagella Politica"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2023/05/02/riduzione-cuneo-fiscale-governo-meloni/",
+      "https://www.ilpost.it/2024/10/15/legge-di-bilancio-2025-approvata-governo/",
+      "https://www.ilpost.it/2025/06/06/taglio-cuneo-rivisto-busta-paga-stipendio-basso/",
+      "https://pagellapolitica.it/articoli/governo-italiano-piu-longevo-fact-checking"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-flessibilita-pensioni",
+    "title": "Flexible retirement exit ('flessibilità in uscita') beyond the Fornero rules",
+    "description": "The programme pledges 'flessibilità in uscita dal mondo del lavoro e accesso alla pensione, favorendo il ricambio generazionale'; coalition partner Lega campaigned on abolishing the 2011 Fornero pension law.",
+    "date_made": "2022-08-11",
+    "category": "Pensions",
+    "status": "broken",
+    "confidence_score": 0.6,
+    "reasoning": "The first budget introduced 'Quota 103' (retirement at 62 with 41 years of contributions) for 2023, but subsequent budgets made early-exit channels such as Quota 103, APE sociale and Opzione donna more restrictive, and by the end of 2025 Il Post found the Fornero law intact and early-retirement parameters generally tightened. The 2026 budget financed other measures partly by cutting early-retirement funds, while the scheduled rise in the retirement age from 2027 was maintained. The direction of policy has been the opposite of greater exit flexibility, though the temporary Quota schemes did offer limited flexibility.",
+    "key_evidence": [
+      "Quota 103 (62 years of age + 41 of contributions) introduced by the 2023 budget",
+      "2024 budget drafts tightened Quota 103, APE sociale and Opzione donna requirements",
+      "Il Post (31 Dec 2025): no abolition of the Fornero law and a general tightening of early-retirement parameters; retirement age set to rise from 2027",
+      "Final 2026 budget cut funds for early retirement of 'precocious' workers and arduous jobs"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2022/11/27/pensioni-quota-103/",
+      "https://www.ilpost.it/2023/10/26/legge-di-bilancio-pensioni-salvini-giorgetti/",
+      "https://www.ilpost.it/2025/12/21/manovra-legge-di-bilancio-commissione-senato-approvata/",
+      "https://www.ilpost.it/2025/12/31/meloni-promesse-mancate-accise-ponte-tasse-pensioni/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-blocco-sbarchi",
+    "title": "Stop irregular sea landings ('blocco degli sbarchi') in agreement with North African authorities",
+    "description": "The programme's migration chapter pledges the 'blocco degli sbarchi per fermare, in accordo con le autorità del nord Africa, la tratta degli esseri umani'; FdI had long advocated a naval blockade.",
+    "date_made": "2022-08-11",
+    "category": "Migration",
+    "status": "compromise",
+    "confidence_score": 0.65,
+    "reasoning": "Official Interior Ministry data show sea arrivals rising from 105,131 in 2022 to 157,651 in 2023, the highest since 2016, then falling to 66,617 in 2024 and 66,316 in 2025, roughly the 2021 level. In 2026 they dropped further, to 25,517 between 1 January and 19 October against 56,309 in the same period of 2025. Landings have been reduced but not stopped, and no naval blockade has been enacted: a power to temporarily bar entry into territorial waters was dropped from the February 2026 security package and was still under discussion in June 2026.",
+    "key_evidence": [
+      "Sea arrivals: 105,131 (2022), 157,651 (2023), 66,617 (2024), 66,316 (2025)",
+      "1 Jan–19 Oct 2026: 25,517 arrivals vs 56,309 in the same period of 2025",
+      "Il Post (5 Feb 2026): the 'naval blockade' clause, often cited by FdI and Lega, was left out of the security package",
+      "Il Post (3 Jun 2026): a temporary ban on crossing territorial waters was being considered for a new decree"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.interno.gov.it/sites/default/files/2026-10/cruscotto_statistico_giornaliero_19-10-2026.pdf",
+      "https://www.ilpost.it/2026/02/05/governo-approvato-pacchetto-sicurezza-decreto-legge-disegno-di-legge/",
+      "https://www.ilpost.it/2026/06/03/decreto-sicurezza-blocco-navale-patto-europeo-quirinale-mattarella/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-hotspot-extra-ue",
+    "title": "Create EU-run hotspots outside Europe to examine asylum applications",
+    "description": "The programme pledges the 'creazione di hot-spot nei territori extra-europei, gestiti dall'Unione Europea, per valutare le richieste d'asilo'.",
+    "date_made": "2022-08-11",
+    "category": "Migration",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "Instead of EU-run hotspots, Italy signed a bilateral protocol with Albania in November 2023 for Italian-run centres at Shëngjin and Gjadër, which opened in October 2024. Italian courts repeatedly declined to validate detentions, the EU Court of Justice in August 2025 required effective judicial review of 'safe country' designations, and in 2025 part of Gjadër was turned into a repatriation centre; in June 2026 about seventy people were held there and Shëngjin was unused. The EU has moved towards the model (the European Parliament approved 'return hubs' in third countries in March 2026), but no EU-managed processing hotspot exists.",
+    "key_evidence": [
+      "Italy–Albania protocol signed November 2023; centres operational from October 2024",
+      "CJEU Grand Chamber ruling of 1 August 2025 on safe countries of origin",
+      "March 2025 decree allowed Gjadër to operate as a repatriation centre (CPR)",
+      "Il Post (11 Jun 2026): around 70 detainees in Gjadër's CPR section; Shëngjin still unused",
+      "European Parliament approved return hubs in third countries (March 2026)"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2023/11/07/accordo-migranti-italia-albania/",
+      "https://en.ilsole24ore.com/art/protocol-italy-albania-eu-court-country-is-safe-if-whole-population-protected-AHn1sL0B",
+      "https://www.ilpost.it/2026/06/11/centri-migranti-albania-nuove-regole-europee/",
+      "https://www.ilpost.it/2026/03/27/parlamento-europeo-approvato-creazione-hub-rimpatrio-migranti/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-ponte-stretto",
+    "title": "Build the bridge over the Strait of Messina",
+    "description": "The programme's infrastructure chapter pledges high-speed rail links to Sicily 'realizzando il ponte sullo Stretto'.",
+    "date_made": "2022-08-11",
+    "category": "Infrastructure",
+    "status": "in_progress",
+    "confidence_score": 0.7,
+    "reasoning": "The cabinet revived the project by decree in March 2023, and on 6 August 2025 the interministerial committee CIPESS approved the final design (about €13.5 billion). At the end of October 2025 the Court of Auditors refused to register that approval, so it could not take effect; the government reworked the procedure and funding schedule in a decree in March 2026, and Infrastructure Minister Matteo Salvini said work should start in 2026. As of the latest sources consulted construction had not begun; whether a new CIPESS approval was obtained in autumn 2026 could not be confirmed.",
+    "key_evidence": [
+      "Cabinet decree relaunching the bridge project, approved in March 2023",
+      "CIPESS approval of the final project on 6 August 2025",
+      "Court of Auditors refused registration (29–30 October 2025)",
+      "March 2026 decree rescheduled funding; no construction started by early 2026 (Il Sole 24 Ore)"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ansa.it/english/news/2023/03/17/cabinet-approves-messina-bridge-decree_e1542990-326f-4848-8478-74c045ec86c1.html",
+      "https://www.ilpost.it/2025/12/31/meloni-promesse-mancate-accise-ponte-tasse-pensioni/",
+      "https://en.ilsole24ore.com/art/strait-bridge-slips-28-billion-euro-salvini-on-starting-work-no-more-deadlines-AIZTTusB",
+      "https://www.ansa.it/english/news/politics/2026/02/06/work-on-messina-strait-bridge-should-start-this-year-salvini_8fb6ae3e-00ea-46e2-86a3-7e285bf1bcea.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-nucleare",
+    "title": "Consider a return to 'clean and safe' nuclear power",
+    "description": "The programme's energy chapter pledges diversified supply 'valutando anche il ricorso al nucleare pulito e sicuro'.",
+    "date_made": "2022-08-11",
+    "category": "Energy",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "The government presented an enabling bill on sustainable nuclear energy in early 2025; the Chamber approved it in June 2026 and the Senate gave final approval on 23 September 2026, with Meloni calling it a 'promise kept'. The law gives the government twelve months to adopt implementing decrees on new plants (including small modular reactors), safety and radioactive waste, so the legal framework is under way but no plant has yet been planned or built.",
+    "key_evidence": [
+      "Enabling bill (Pichetto Fratin) approved by the Council of Ministers in early 2025",
+      "Chamber approval in June 2026; final Senate approval on 23 September 2026",
+      "Implementing legislative decrees due within 12 months"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.ilpost.it/2026/06/05/governo-parlamento-legge-delega-nucleare/",
+      "https://www.rainews.it/articoli/2026/09/nucleare-il-senato-da-il-via-libera-definitivo-alla-normativa-sulle-centrali-atomiche-meloni-promessa-mantenuta-725e96c3-e021-4247-a6b5-c611fa3849e6.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-spesa-difesa",
+    "title": "Honour NATO commitments, including raising defence spending",
+    "description": "The programme's foreign-policy chapter pledges 'rispetto degli impegni assunti nell'Alleanza atlantica, anche in merito all'adeguamento degli stanziamenti per la difesa', i.e. moving towards NATO's 2% of GDP guideline.",
+    "date_made": "2022-08-11",
+    "category": "Defence & foreign policy",
+    "status": "kept",
+    "confidence_score": 0.75,
+    "reasoning": "NATO figures put Italy's defence spending at about 1.5% of GDP in 2022–2024 and estimate it at 2.01% in 2025 (about €45.3 billion, a 35% real increase in one year), meeting the 2% guideline for the first time. At the June 2025 Hague summit Italy joined the allies' commitment to spend 5% of GDP on defence and security by 2035. The target is met on NATO's own estimates, although the way it was reached was questioned, including by the United States over the plan to count the Strait of Messina bridge as defence-related spending.",
+    "key_evidence": [
+      "NATO: Italy 1.50% (2022), 1.47% (2023), 1.50% (2024), 2.01% estimated (2025)",
+      "The Hague Summit Declaration (June 2025): 5% of GDP by 2035",
+      "US objected in September 2025 to counting the Messina bridge as NATO spending"
+    ],
+    "source_url": [
+      "https://pagellapolitica.it/articoli/programma-centrodestra-elezioni-2022",
+      "https://www.nato.int/content/dam/nato/webready/documents/finance/def-exp-2025-en.pdf",
+      "https://www.nato.int/cps/en/natohq/official_texts_236705.htm",
+      "https://www.portseurope.com/us-warns-against-counting-messina-bridge-as-nato-spending/"
+    ]
+  }
+]

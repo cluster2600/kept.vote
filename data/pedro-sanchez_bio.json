@@ -1,0 +1,19 @@
+{
+  "name": "Pedro Sánchez Pérez-Castejón",
+  "country": "Spain",
+  "country_code": "ES",
+  "office": "head_of_government",
+  "role": "President of the Government of Spain (Presidente del Gobierno)",
+  "content_lang": "en",
+  "party": "Partido Socialista Obrero Español (PSOE) — Progressive Alliance of Socialists and Democrats (S&D)",
+  "birth_date": "1972-02-29",
+  "bio": "Pedro Sánchez Pérez-Castejón (born in Madrid in 1972) is a Spanish economist and Socialist politician who has been President of the Government of Spain since 2 June 2018, when he became the first candidate to take office through a successful motion of no confidence, against Mariano Rajoy. Secretary-General of the PSOE in 2014–2016 and again since 2017, and President of the Socialist International since 2022, he won both 2019 general elections, formed a coalition with Unidas Podemos in January 2020 and, after finishing second to the PP in July 2023, was re-invested on 16 November 2023 at the head of a PSOE–Sumar coalition with the support of Catalan, Basque, Galician and Canarian parties, in exchange notably for an amnesty law for the Catalan independence process. His governments' record includes the 2021 labour reform, the minimum vital income, the euthanasia and democratic-memory laws and successive minimum-wage increases; his third term was marked by a fragile parliamentary majority, the break with Junts in October 2025 and judicial proceedings involving his wife, his brother and former senior PSOE officials, in none of which he is himself a defendant. After Congress rejected his housing decree-laws on 2 October 2026, he dissolved the Cortes on 5 October 2026 and called a snap general election for 29 November 2026, in which he is the PSOE candidate (situation as of October 2026).",
+  "portrait": {
+    "file": "pedro-sanchez.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_2026_Portrait_%283x4_cropped%29.jpg",
+    "author": "Pool Moncloa/ Carlos Spottorno de las Morenas",
+    "license": "Attribution",
+    "license_url": null,
+    "retrieved": "2026-10-22"
+  }
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "pedro-sanchez-fin-salary-2025",
+    "year": 2025,
+    "type": "salary",
+    "label": "Annual gross salary as President of the Government (2025)",
+    "amount": "95,943.96 EUR",
+    "detail": "Remuneration of the Presidente del Gobierno published by the Portal de Transparencia (Presidencia del Gobierno). Earlier years on the same portal: 87,814.80 EUR (2022), 90,449.28 EUR (2023), 93,145.20 EUR (2024). The 2026 figure had not been published as of October 2026.",
+    "source_url": [
+      "https://transparencia.gob.es/servicios-buscador/buscar.htm?categoria=retribuciones&ente=EA0008567&lang=es"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-fin-income-2022",
+    "year": 2022,
+    "type": "income",
+    "label": "Income declared for 2022 (Congress declaration of 9 August 2023)",
+    "amount": "143,020.37 EUR (sum of declared items)",
+    "detail": "Declaration of assets and income (Declaración de bienes y rentas) filed with the Congress of Deputies on taking his seat in the XV Legislature, reporting income received in 2022: President of the Government 87,814.80 EUR; author's royalties (derechos de autor) 42,000.00 EUR; rental of property 12,845.00 EUR; dividends and other 360.57 EUR. Income tax (IRPF) paid declared: 43,782.67 EUR. The total is the sum of the declared items, not a figure stated on the form.",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-fin-income-2018",
+    "year": 2018,
+    "type": "income",
+    "label": "Income declared for 2018 (Congress declaration of 17 May 2019)",
+    "amount": "96,392.50 EUR (sum of declared items)",
+    "detail": "Reported in his declaration on taking his seat in the XIII Legislature: PSOE salary January–May 2018 30,261.23 EUR; President of the Government June–December 2018 35,299.48 EUR; author's royalties 16,666.66 EUR; rental of property 13,871.11 EUR; dividends 294.02 EUR. Income tax paid declared: 34,709.77 EUR.",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg13/000301/000301_000_e_0000988_20190517.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-fin-bank-deposits-2023",
+    "year": 2023,
+    "type": "bank_account",
+    "label": "Bank deposits (two current accounts)",
+    "amount": "19,208.79 EUR (Congress, August 2023); 20,194.10 EUR (BOE, March 2024)",
+    "detail": "The Congress declaration of 9 August 2023 lists two current accounts totalling 19,208.79 EUR. The BOE publication of 30 March 2024 (asset declaration of senior officials who took or left office in 2023) lists 20,194.10 EUR of deposits. Earlier BOE figures: 21,434.92 EUR (2018) and 73,159.87 EUR (2021 publication).",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf",
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-fin-pension-plan-2023",
+    "year": 2023,
+    "type": "pension_plan",
+    "label": "Pension plan",
+    "amount": "105,378.10 EUR",
+    "detail": "One pension plan declared to the Congress on 9 August 2023; the BOE of 30 March 2024 lists the same amount under 'Seguros de vida y planes de pensiones'. Earlier: 104,091.73 EUR (Congress, 2019) and 85,865 EUR (BOE, 2021 publication).",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf",
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-fin-other-assets-2024",
+    "year": 2024,
+    "type": "other_assets",
+    "label": "Other assets and rights of economic content (BOE category)",
+    "amount": "55,205.57 EUR",
+    "detail": "Listed under 'Demás bienes y derechos de contenido económico' in the BOE publication of 30 March 2024; the BOE does not itemise this category. The Congress declaration of August 2023 lists, under other assets, donations to the PSOE and others of 4,418.40 EUR. BOE figures for this category in earlier publications: 135,093.83 EUR (2018) and 27,609.21 EUR (2021).",
+    "source_url": [
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf",
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf"
+    ]
+  },
+  {
+    "id": "pedro-sanchez-fin-mortgage-2023",
+    "year": 2023,
+    "type": "debt",
+    "label": "Mortgage loan (taken out in 2008)",
+    "amount": "61,786.31 EUR outstanding (Congress, August 2023); total liabilities 123,572.63 EUR (BOE, March 2024)",
+    "detail": "The Congress declaration lists a mortgage loan granted in 2008 for 159,300 EUR with 61,786.31 EUR outstanding. The BOE of 30 March 2024 lists total liabilities ('Pasivo') of 123,572.63 EUR, exactly twice the Congress figure; the declarations do not explain the difference (the 2008 property is 50% owned, so the BOE figure may reflect the whole loan, but no document states this). Earlier BOE liabilities: 192,026.83 EUR (2018) and 161,329.35 EUR (2021).",
+    "source_url": [
+      "https://www.congreso.es/docbienes/leg15/000177/000177_000_e_0000756_20230809.pdf",
+      "https://www.boe.es/boe/dias/2024/03/30/pdfs/BOE-A-2024-6410.pdf"
+    ]
+  }
+]
