@@ -184,3 +184,18 @@ role edges:
   26 November 2025** directly identifies Hofmann as steering co-president and
   federal judge. It corroborates the role at that document date, not indefinite
   tenure. Both PDFs are retained with hashes in the source manifest.
+
+## Professional editorial roles (25 October 2026)
+
+`judicial_editorial_roles.json` records two additional directly identified roles
+from the publisher's live, browser-rendered pages: **Koch edits the Criminal
+Procedure Code commentary**; **Hurni co-edits the Code of Obligations commentary
+with Mirjam Eggen**, edits chapter 12 PILA and is listed as interim editor for
+CPC, PILA and the Lugano Convention. The pages explicitly identify their federal
+judicial profession and link Koch's court biography / Hurni's professional site.
+Visible-text snapshots, exact URLs, observation times and hashes are retained.
+
+These are publishing responsibilities, **not company/foundation board seats**.
+No appointment date, pay, ownership or misconduct is established. They are kept
+outside the existing governance-edge export until an editorial relation type is
+explicitly supported; no new graph behavior or misleading board edges added.

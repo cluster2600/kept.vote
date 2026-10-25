@@ -451,6 +451,22 @@
       "bytes": 106310,
       "retrieved_at_utc": "2026-10-25T10:50:25.310279+00:00",
       "source_status": "official publisher"
+    },
+    {
+      "file": "sources/onlinekommentar-sonja-koch-rendered-2026-10-25.txt",
+      "url": "https://onlinekommentar.ch/de/herausgeber/sonja-koch",
+      "sha256": "f8cf5ff88d8ee24e90a282367b48bdcbd68e1ae032c066fae79f067034ff84cd",
+      "bytes": 478,
+      "retrieved_at_utc": "2026-10-25T11:06:36.763424+00:00",
+      "source_status": "primary publisher; rendered visible-text snapshot through browser; not server HTML"
+    },
+    {
+      "file": "sources/onlinekommentar-christoph-hurni-rendered-2026-10-25.txt",
+      "url": "https://onlinekommentar.ch/de/herausgeber/christoph-hurni",
+      "sha256": "7ae9b08c05105faf82f8ae66f34117d7509a237411810d8c2551fccdc869f6ee",
+      "bytes": 630,
+      "retrieved_at_utc": "2026-10-25T11:06:36.763424+00:00",
+      "source_status": "primary publisher; rendered visible-text snapshot through browser; not server HTML"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",

@@ -408,3 +408,45 @@ Validation: local/remote PR branch had no divergence before work; both PDFs
 opened and relevant text checked; all research JSON and source hashes checked;
 `git diff --check` passed. Existing unrelated .serena directory preserved. No
 application/graph change, merge, publication, messages or requests.
+
+## Resumed pass 10 (25 October 2026)
+
+Source work began with the **11:04:47 UTC** trigger; initial source/validation
+checkpoint **11:06:36 UTC** (about two minutes pass wall time), followed by GitHub
+state verification and administration. Scheduled intervals excluded.
+
+Queries included `site.bger.ch "Nebenbeschäftigungen" "Hurni"`,
+`"Hurni" "bewilligten Nebenbeschäftigungen"`,
+`"Hofmann" "Mandatsbeiträge" Fribourg`,
+`"Morges" "ZMG" "Juli 2020" Verfügung`,
+`site.bger.ch "Nebenbeschäftigungen" filetype:pdf`,
+`"Christoph Hurni" "Herausgeber" Onlinekommentar` and
+`"Yann-Eric Hofmann" "Le Centre" contributions`.
+
+Verified findings:
+- Onlinekommentar's current publisher pages directly identify **Sonja Koch** as
+  editor of the Criminal Procedure Code commentary and **Christoph Hurni** as
+  editor/co-editor for specified commentaries. Each explicitly identifies the
+  federal judicial profession and links a professional biography/site.
+- Server HTML and web open yielded only a JavaScript shell. The public rendered
+  pages were read in the in-app browser; visible-text snapshots, retrieval times,
+  hashes and exact URLs retained. No hidden data or unpublished API was used.
+- Added `judicial_editorial_roles.json`, explicitly distinguishing editorial
+  responsibility from entity-board seats. Dates of appointment, pay and ownership
+  remain unknown. No governance graph edges fabricated for publishing roles.
+- No additional original release order, historical individual payment or confirmed
+  corporate/foundation board seat recovered. The 2021 approved-side-activities
+  list remains a primary-document lead, not six invented Hurni roles.
+
+**Material GitHub state correction:** live `gh pr view 10` shows PR #10 was
+**MERGED at 2026-10-25 10:46:14 UTC**, before the resumed request. This agent did
+not merge it. Consequently its frozen head is a6944c5; post-merge d25b40c and
+subsequent research-branch commits are not part of that merged PR. Prior resumed
+wording calling it a draft was stale. The automation prompt was corrected; keep
+new findings on the authorised research branch, without new PR, merge or live
+publication. Historical PR descriptions should not imply these later commits
+were included in the merge.
+
+Validation: live publisher identity/role checked, two JSON records with distinct
+editorial type, all manifest hashes and JSON checked; `git diff --check` passed.
+Unrelated .serena directory preserved. No messages or document requests sent.
