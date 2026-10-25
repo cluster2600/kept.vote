@@ -27,11 +27,11 @@ def importer_mappers():
     profile = ast.parse((ROOT / 'import_profile.py').read_text())
     namespace = {}
     functions = [node for node in helpers.body if isinstance(node, ast.FunctionDef)
-                 and node.name == 'as_list']
+                 and node.name in {'as_list', 'pick', 'parse_confidence'}]
     exec(compile(ast.Module(body=functions, type_ignores=[]), 'import_common.py', 'exec'), namespace)
     namespace['_as_list'] = namespace['as_list']
     functions = [node for node in profile.body if isinstance(node, ast.FunctionDef)
-                 and (node.name.endswith('_fields') or node.name == '_clamp')]
+                 and (node.name.endswith('_fields') or node.name in {'_clamp', '_years'})]
     exec(compile(ast.Module(body=functions, type_ignores=[]), 'import_profile.py', 'exec'), namespace)
     return namespace
 
