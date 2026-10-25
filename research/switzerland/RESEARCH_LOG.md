@@ -687,3 +687,33 @@ Queries: `"Morges" "mise en liberté" "2020" site:bundesanwaltschaft.ch`,
 
 Validation: existing focused Swiss tests and git diff whitespace check run.
 No messages, document requests, merge or website publication.
+
+## Resumed pass 17 (25 October 2026)
+
+**12:49:55–12:50:59 UTC**, source searching and corpus cross-checking; scheduled gaps excluded.
+
+Queries: `site.bger.ch "Nebenbeschäftigungen" "2021" Hurni`,
+`site.bger.ch "Hofmann" "Nebenbeschäftigungen"`,
+`site.bger.ch "Koch" "Interessenbindungen"`,
+`site.christophhurni.ch "Stiftung"`,
+`Bundesgericht Liste Nebenbeschäftigungen Bundesrichter 2026 Hurni Koch Hofmann`,
+`"Yann-Eric Hofmann" comité fondation`,
+`"Sonja Koch" Bundesrichterin Vorstand`.
+
+- Tried to trace the historical Supreme Court outside-activities list from the
+  2021 CH Media/Watson reporting to an original public document. Web reader
+  timed out; ordinary curl retrieved the article HTML, but parsing its anchor
+  links found no PDF or Supreme Court-hosted original. No inferred six-role
+  list, remuneration or foundation identity upgrade imported from reporting.
+  Lead: https://www.watson.ch/schweiz/justiz/605850995-die-nebenjobs-der-bundesrichter-bis-zu-10-000-franken-duerfen-sie-behalten
+- Official Hofmann biography search result repeats Fribourg e-Justice steering
+  chairmanship 2021–2023, already recorded in judicial_profiles.json. Avoided
+  counting this as a newly discovered role. No historical payment recovered.
+- Results for other courts' registers and namesakes were not joined to these
+  three judges. Ursula Wirz-Stiftung identity remains provisional.
+- No separate original release/enforcement order recovered this pass. No new
+  verified factual record or source snapshot added; search snippets carry no
+  claimed byte hash.
+
+Validation: cross-checked existing profile before adding duplicate observation;
+`git diff --check` passed. No application changes, requests, messages or publication.
