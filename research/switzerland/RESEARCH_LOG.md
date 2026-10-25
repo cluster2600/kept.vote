@@ -771,3 +771,35 @@ hashes, role or payment observations claimed.
 
 Validation: log-only diff checked for whitespace. No application changes,
 messages, document requests, merge or website publication.
+
+## Resumed-window closeout (25 October 2026)
+
+Deadline 13:49 UTC reached. Final validation/administration ended
+2026-10-25T13:50:39.335207+00:00; no further source searching started. Automation
+`swiss-judicial-records-research` confirmed PAUSED by the app tool.
+
+Timing correction/accounting: the twelve recorded source-pass intervals
+(passes 9–20) total **17 minutes 21 seconds of logged pass wall time**, including
+source reading, checking and some logging. This is not three active research
+hours and not a measurement of pure research time. Additional GitHub/automation
+administration and this closeout are outside that sum; scheduled gaps excluded.
+Pass 19's approximately 11-second endpoint was estimated from its query work,
+not a separately sampled end clock. The run therefore falls short of the user's
+requested hours of active investigation.
+
+Verified additions in post-merge PR #13 include Hofmann's dated professional
+governance chronology, Koch/Hurni editorial roles, Hurni's parliamentary-CV
+professional roles and historical SIfJ board/treasurer role with original SHAB
+appointment/departure notices. Foundation current roster, Bern exact-date
+search snapshots and EFK historical-table rechecks preserve coverage limits.
+
+Still unresolved: original MPC/Bern July 2020 orders, Zurich September 2021
+release/enforcement record, Basel December 2022 leave order; additional
+historical individual party payments and independently audited transfers;
+Ursula Wirz-Stiftung judge identity corroboration. No judge ranking, nationality
+inference, individual vote, fault or belief about rape established.
+
+Final validation: **17 focused Swiss tests pass**, research JSON parses,
+**68 profile-manifest hashes match**, git diff whitespace check passes. PR #13
+confirmed OPEN/draft on research/swiss-public-records. No graph/application
+changes or website publication. Unrelated untracked .serena/ preserved.
