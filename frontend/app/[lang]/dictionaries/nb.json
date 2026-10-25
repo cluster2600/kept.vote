@@ -54,6 +54,7 @@
     "mayor": "Borgermester",
     "regional_executive": "Regionregjering",
     "party_leader": "Partileder",
+    "judge": "Dommer",
     "other": "Annet verv"
   },
   "notFound": {

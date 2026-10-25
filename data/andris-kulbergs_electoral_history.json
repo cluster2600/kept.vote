@@ -1,0 +1,65 @@
+[
+  {
+    "id": "andris-kulbergs-el-2022-saeima",
+    "election": "2022 Saeima election (14th Saeima)",
+    "date": "2022-10-01",
+    "role_sought": "Member of the Saeima, United List list (non-party candidate)",
+    "result": "Elected",
+    "vote_share": "United List: 100,631 votes (11.14%), 15 of 100 seats",
+    "opponent": "",
+    "detail": "First election. He stood on the list of the United List (Apvienotais saraksts – Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija) for the association 'Apvienotais Latvijas saraksts' without being a party member. New Unity came first with 19.19% and 26 seats; turnout was 59.41% (CEC). The United List stayed in opposition until May 2026.",
+    "source_url": [
+      "https://www.cvk.lv/saeimas-rezultati",
+      "https://www.lsm.lv/velesanas2022/partiju-saraksts/apvienotais-saraksts-latvijas-zala-partija-latvijas-regionu-apvieniba-liepajas-partija/813-andris-kulbergs",
+      "https://www.lsm.lv/raksts/zinas/latvija/16.05.2026-bezpartejisks-problemu-risinatajs-kas-ir-premjera-amatam-nominetais-andris-kulbergs.a647427/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-el-2024-european-parliament",
+    "election": "2024 European Parliament election in Latvia",
+    "date": "2024-06-08",
+    "role_sought": "Member of the European Parliament, United List list",
+    "result": "Not elected",
+    "vote_share": "United List: 42,551 votes (8.18%), 1 of 9 Latvian seats",
+    "opponent": "",
+    "detail": "The United List's single seat went to Reinis Pozņaks, who sits with the European Conservatives and Reformists group. New Unity (25.09%) and the National Alliance (22.07%) won two seats each; turnout was 33.82% (CEC).",
+    "source_url": [
+      "https://www.cvk.lv/ep-rezultati",
+      "https://www.lsm.lv/eiroparlamenta-velesanas-2024/partiju-saraksts/apvienotais-saraksts-latvijas-zala-partija-latvijas-regionu-apvieniba-liepajas-partija/125-andris-kulbergs",
+      "https://www.apollo.lv/8472295/kas-ir-jaunais-ministru-prezidents-ieskats-andra-kulberga-biografija",
+      "https://www.europarl.europa.eu/meps/en/256907"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-el-2026-investiture",
+    "election": "Saeima vote of confidence in the Cabinet formed by Andris Kulbergs",
+    "date": "2026-05-28",
+    "role_sought": "Prime Minister (Ministru prezidents)",
+    "result": "Approved",
+    "vote_share": "66 for, 25 against",
+    "opponent": "",
+    "detail": "Held at an extraordinary sitting exactly two weeks after Evika Siliņa's resignation, on the coalition agreement and cabinet declaration signed that morning by the United List, the National Alliance, New Unity and the Union of Greens and Farmers. Latvia First announced it would vote against because its offer to back a minority government without New Unity had been rejected.",
+    "source_url": [
+      "https://eng.lsm.lv/article/politics/politics/28.05.2026-new-latvian-government-approved-by-parliament.a649104/",
+      "https://www.lsm.lv/raksts/zinas/latvija/28.05.2026-saeima-ar-66-balsim-apstiprina-andra-kulberga-veidoto-valdibu.a649004/",
+      "https://www.lsm.lv/raksts/zinas/latvija/28.05.2026-tiesraide-saeima-lemj-par-andra-kulberga-valdibas-apstiprinasanu.a649140/"
+    ]
+  },
+  {
+    "id": "andris-kulbergs-el-2026-saeima",
+    "election": "2026 Saeima election (15th Saeima)",
+    "date": "2026-10-03",
+    "role_sought": "Member of the Saeima (Riga constituency) and the United List's candidate for Prime Minister",
+    "result": "Elected; his list came first",
+    "vote_share": "United List: 283,892 votes (35.288%), 41 of 100 seats",
+    "opponent": "Latvia First (Ainārs Šlesers): 13.08%, 17 seats; Sovereign Power/Union of New Latvians: 11.71%, 15 seats",
+    "detail": "Final results confirmed by the Central Election Commission on 16 October 2026: National Alliance 10 seats, Progressives 10, New Unity 7; the Union of Greens and Farmers (4.40%) fell below the 5% threshold. The 41 seats are the most won by a single list in the history of Latvian parliaments. Turnout was 51.79%, the lowest ever for a Saeima election. Kulbergs was elected in Riga and, according to LTV, received 58,489 'for' marks, the most of any candidate and almost twice as many as the runner-up. The new Saeima convenes on 3 November 2026.",
+    "source_url": [
+      "https://www.cvk.lv/saeima-2026-rezultati",
+      "https://eng.lsm.lv/article/politics/election/16.10.2026-election-results-confirmed-in-latvia.a667913/",
+      "https://eng.lsm.lv/article/politics/election/05.10.2026-many-voters-said-yes-to-united-list-no-to-its-candidates.a666120/",
+      "https://www.osw.waw.pl/en/publikacje/analyses/2026-10-06/latvian-parliamentary-election-historic-victory-united-list",
+      "https://www.lsm.lv/raksts/zinas/latvija/04.10.2026-kulbergs-zemo-velesanu-aktivitati-saista-ar-kildam-valdiba-un-sola-mazak-kompromisu.a666096/"
+    ]
+  }
+]

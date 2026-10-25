@@ -141,6 +141,28 @@
         "parlament.ch": { "what": "Federal Assembly" }
       }
     },
+    "CY": {
+      "name": "Cyprus",
+      "domains": {
+        "gov.cy": {
+          "what": "Government portal: Presidency (gov.cy/presidency), Press and Information Office, ministries, Audit Office (gov.cy/audit), Interior Ministry elections site (gov.cy/moi-elections, results at results.elections.moi.gov.cy), Special Parliamentary Committee on 'Pothen Esches' (asset declarations of the President, ministers and MPs), Official Gazette (mof.gov.cy/gpo), Supreme Court (supremecourt.gov.cy), Law Office (law.gov.cy). Also matched by the gov.xx pattern",
+          "access": "2026-10-23: gov.cy pages answer HTTP 403 but render; declaration PDFs under gov.cy/media answer 403 (error); the results site builds its tables with scripts; mof.gov.cy, supremecourt.gov.cy and law.gov.cy are robots-disallowed; anticorruption.gov.cy is unreachable"
+        },
+        "parliament.cy": {
+          "what": "House of Representatives: members, bills, plenary agenda, committee reports. Also matched by the parliament.* pattern",
+          "access": "2026-10-23: pages render; older PDFs (/images/media/redirectfile/), including the 2023 asset declarations, are robots-disallowed"
+        },
+        "cylaw.org": { "what": "CyLaw, run by the Cyprus Bar Association (a statutory body, not a state authority): case law and legislation; the readable source for judgments, since the courts' own site is robots-disallowed" }
+      },
+      "watch": [
+        { "url": "https://www.gov.cy/presidency/about/government-gr/", "what": "Composition of the government: reshuffles" },
+        { "url": "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/proedros-tis-dimokratias/nikos-christodoylidis/", "what": "Asset declarations of the President" },
+        { "url": "https://www.gov.cy/eidiki_koinovouleftiki_epitropi_pothen_esches/ypochrea-prosopa/ypoyrgoi/", "what": "Asset declarations of ministers" },
+        { "url": "https://www.gov.cy/audit/news/", "what": "Audit Office: newly published audit reports" },
+        { "url": "https://www.gov.cy/moi-elections/documents/mitroo-politikon-kommaton/", "what": "Register of political parties" },
+        { "url": "https://www.gov.cy/moi-elections/documents/apotelesmata-eklogon/", "what": "Election results index" }
+      ]
+    },
     "CZ": {
       "name": "Czechia",
       "domains": {
@@ -200,6 +222,65 @@
         { "url": "https://www.ft.dk/da/partier/om-politiske-partier/gruppestoette-og-regnskaber", "what": "Parliamentary group support and annual accounts" },
         { "url": "https://www.dst.dk/valg/index.htm", "what": "Official election and referendum results" },
         { "url": "https://www.valg.im.dk/nyhedsarkiv", "what": "Election administration news" }
+      ]
+    },
+    "EE": {
+      "name": "Estonia",
+      "domains": {
+        "valitsus.ee": {
+          "what": "Government: Prime Minister and ministers, cabinet decisions, press releases, coalition agreements",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigikogu.ee": {
+          "what": "Riigikogu (parliament): members, bills, votes, verbatim records, open-data API; its Anti-Corruption Select Committee oversees declarations of interests",
+          "access": "2026-10-23: www.riigikogu.ee answers with a Cloudflare bot check (blocked); stenogrammid.riigikogu.ee renders only its search form; api.riigikogu.ee answered 429 or the Swagger UI only"
+        },
+        "president.ee": {
+          "what": "President: appointment and dismissal of the government and ministers, promulgation or refusal of laws",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigiteataja.ee": {
+          "what": "Riigi Teataja (State Gazette): laws, regulations, consolidated legislation",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigikohus.ee": {
+          "what": "Supreme Court, including constitutional review",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "valimised.ee": {
+          "what": "State Electoral Office and National Electoral Committee; official results on per-election subdomains",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "erjk.ee": { "what": "Political Parties Financing Surveillance Committee: parties' quarterly revenue and expense reports, campaign reports, precepts" },
+        "emta.ee": {
+          "what": "Tax and Customs Board: register of declarations of interests for officials, including ministers and MPs (filings up to 30 June 2026)",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "eesti.ee": {
+          "what": "State portal: register of declarations of interests since 1 July 2026",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "riigikontroll.ee": { "what": "National Audit Office: audit reports, annual report on the state accounts, work plan" },
+        "prokuratuur.ee": {
+          "what": "Prosecutor's Office",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "oiguskantsler.ee": {
+          "what": "Chancellor of Justice: constitutional review and ombudsman",
+          "access": "2026-10-23: every page answers with a Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "stat.ee": {
+          "what": "Statistics Estonia: official statistics and election statistics",
+          "access": "2026-10-23: answers with a '403 Forbidden' page (title only)"
+        }
+      },
+      "watch": [
+        { "url": "https://www.erjk.ee/et/komisjoni-too", "what": "Party financing committee meeting agendas: prohibited donations, campaign debts, precepts" },
+        { "url": "https://www.erjk.ee/en/financing-reports/revenues-political-parties", "what": "Parties' quarterly revenue reports" },
+        { "url": "https://www.erjk.ee/en/financing-reports/election-campaigns", "what": "Election-campaign financing reports" },
+        { "url": "https://www.erjk.ee/et/ulevaated", "what": "Overviews of party and campaign financing" },
+        { "url": "https://www.riigikontroll.ee/audits", "what": "National Audit Office: audit reports published" },
+        { "url": "https://www.riigikontroll.ee/tooplaan", "what": "National Audit Office work plan" }
       ]
     },
     "ES": {
@@ -483,6 +564,108 @@
         { "url": "https://www.bdl.gov.lb/basiccirculars.php", "what": "Banque du Liban basic circulars" }
       ]
     },
+    "LT": {
+      "name": "Lithuania",
+      "domains": {
+        "lrv.lt": {
+          "what": "Government: Prime Minister and official CV, cabinet composition, sittings and resolutions, press releases; ministries on subdomains",
+          "access": "2026-10-23: pages answer HTTP 403 but render in full"
+        },
+        "lrs.lt": {
+          "what": "Seimas: members, sittings, votes, committees; e-seimas.lrs.lt legal-acts portal",
+          "access": "2026-10-23: www.lrs.lt renders; e-seimas act pages render but its search pages don't (status error)"
+        },
+        "lrp.lt": {
+          "what": "President: decrees appointing the Prime Minister and ministers, laws signed or returned",
+          "access": "2026-10-23: Cloudflare 'Just a moment...' bot check (status blocked)"
+        },
+        "e-tar.lt": {
+          "what": "Register of Legal Acts: official publication of laws, decrees and resolutions",
+          "access": "2026-10-23: answers 403 with an empty page (blocked); acts readable via e-seimas.lrs.lt"
+        },
+        "lrkt.lt": {
+          "what": "Constitutional Court: rulings and accepted petitions",
+          "access": "2026-10-23: Cloudflare bot check (status blocked)"
+        },
+        "lat.lt": { "what": "Supreme Court: cassation rulings, news" },
+        "apeliacinis.lt": { "what": "Court of Appeal" },
+        "teismai.lt": { "what": "Courts portal; LITEKO court-decision search (liteko.teismai.lt)" },
+        "prokuraturos.lt": { "what": "Prosecutor's Office: investigations and indictments" },
+        "stt.lt": { "what": "Special Investigation Service (anti-corruption)" },
+        "vrk.lt": {
+          "what": "Central Electoral Commission: results, candidates, party and campaign financing",
+          "access": "2026-10-23: www.vrk.lt and rezultatai.vrk.lt answer with a Cloudflare bot check (status blocked)"
+        },
+        "vtek.lt": {
+          "what": "Chief Official Ethics Commission: conflict-of-interest decisions; register of declarations of private interests (pinreg.vtek.lt)",
+          "access": "2026-10-23: www.vtek.lt rendered once then timed out; pinreg.vtek.lt answers with a bot check (blocked)"
+        },
+        "vmi.lt": {
+          "what": "State Tax Inspectorate: public extracts of state politicians' annual asset and income declarations",
+          "access": "2026-10-23: pages render, but the declaration viewer builds its data with scripts and shows no figures"
+        },
+        "vkontrole.lt": {
+          "what": "National Audit Office",
+          "access": "2026-10-23: Cloudflare bot check (status blocked)"
+        },
+        "registrucentras.lt": { "what": "Centre of Registers: real property and legal entities (including political parties)" }
+      },
+      "watch": [
+        { "url": "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/", "what": "Official CV of the serving Prime Minister: changes when the head of government changes" },
+        { "url": "https://lrv.lt/lt/apie-vyriausybe/xxi-vyriausybe/", "what": "Composition of the government: ministers appointed or dismissed" },
+        { "url": "https://lrv.lt/lt/posedziai/", "what": "Government sittings and adopted resolutions" },
+        { "url": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1", "what": "Members of the Seimas: mandates gained or lost" },
+        { "url": "https://www.lrs.lt/sip/portal.show?p_r=35369&p_k=1", "what": "Seimas plenary sittings: agendas, votes and acts adopted" },
+        { "url": "https://www.lat.lt/naujienos/2", "what": "Supreme Court news: cassation rulings" }
+      ]
+    },
+    "LV": {
+      "name": "Latvia",
+      "domains": {
+        "gov.lv": {
+          "what": "Public administration: Cabinet of Ministers and State Chancellery (mk.gov.lv, vk.gov.lv: government composition, cabinet decisions, government declaration and action plan), Constitutional Court (satv.tiesa.gov.lv), Supreme Court (at.gov.lv), Corruption Prevention and Combating Bureau KNAB (knab.gov.lv: party finance reports, donations database, campaign checks), State Revenue Service VID (vid.gov.lv: public part of public officials' declarations), State Audit Office (lrvk.gov.lv), Central Statistical Bureau (stat.gov.lv), state portal (latvija.gov.lv)",
+          "access": "2026-10-23: mk, vk, satv.tiesa, knab, vid, lrvk and latvija.gov.lv gave no answer, robots.txt included (status unreachable); LSM reported that at least 165 state and municipal websites were taken offline on 21 October 2026 as a precaution against PHP vulnerabilities, so retry; at.gov.lv answers with a 'Request Rejected' firewall page (blocked); stat.gov.lv renders"
+        },
+        "saeima.lv": {
+          "what": "Saeima (parliament): members, bills, votes, verbatim reports, committees and parliamentary inquiry committees; titania.saeima.lv holds the legislative documents",
+          "access": "2026-10-23: www.saeima.lv gave no answer, robots.txt included (unreachable); titania.saeima.lv is disallowed by its robots.txt"
+        },
+        "president.lv": {
+          "what": "President: consultations and nomination of the candidate for Prime Minister, promulgation or return of laws, decrees",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "likumi.lv": {
+          "what": "Official legal-acts portal of the publisher Latvijas Vēstnesis: laws, Cabinet regulations and orders in consolidated versions",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "vestnesis.lv": {
+          "what": "Latvijas Vēstnesis, the official gazette: official publication of laws, presidential decrees and Cabinet acts",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "lvportals.lv": {
+          "what": "LV portāls, the official publisher's legal-information portal: reports and explanations of Saeima and Cabinet decisions",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "cvk.lv": { "what": "Central Election Commission: official results of Saeima, European Parliament and municipal elections, candidate lists, turnout, voters' initiatives and referendums" },
+        "prokuratura.lv": {
+          "what": "Prosecutor's Office: prosecutions and prosecutor's protests, Prosecutor General's statements",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        },
+        "tiesas.lv": {
+          "what": "Courts portal (Court Administration): court calendar and published judgments of district and regional courts",
+          "access": "2026-10-23: no answer, robots.txt included (unreachable)"
+        }
+      },
+      "watch": [
+        { "url": "https://www.cvk.lv/saeima-2026-rezultati", "what": "15th Saeima election (3 October 2026): official results" },
+        { "url": "https://www.cvk.lv/rezultati", "what": "Central Election Commission: overview of official election results" },
+        { "url": "https://www.cvk.lv/kandidatu-saraksti", "what": "Registered lists of candidates for the current election" },
+        { "url": "https://www.cvk.lv/veletaju-iniciativas", "what": "Voters' initiatives: signature collections for referendums and draft laws" },
+        { "url": "https://www.cvk.lv/saeimas-rezultati", "what": "14th Saeima election (2022): official results" },
+        { "url": "https://www.cvk.lv/ep-rezultati", "what": "European Parliament election 2024: official results" },
+        { "url": "https://www.cvk.lv/pasvaldibu-rezultati", "what": "Municipal elections 2025: official results" }
+      ]
+    },
     "NL": {
       "name": "Netherlands",
       "domains": {
@@ -603,6 +786,51 @@
         { "url": "https://www.cne.pt/content/eleicoes-referendos-resultados-oficiais", "what": "Official results maps of elections and referendums" },
         { "url": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/IniciativasLegislativas.aspx", "what": "Legislative initiatives in the Assembly of the Republic" },
         { "url": "https://www.ministeriopublico.pt/comunicados", "what": "Prosecution service communiqués" }
+      ]
+    },
+    "SI": {
+      "name": "Slovenia",
+      "domains": {
+        "gov.si": { "what": "Government (vlada.gov.si and gov.si): Prime Minister's office, ministries, Government Communication Office, government sessions and decisions, e-Demokracija consultations (also matched by the generic gov.xx pattern; listed so its pages can be watched)" },
+        "dz-rs.si": { "what": "National Assembly (Državni zbor): sessions, bills, votes, deputies, legislative service opinions" },
+        "ds-rs.si": { "what": "National Council (Državni svet): suspensive vetoes and opinions on laws" },
+        "predsednik.si": {
+          "what": "President of the Republic: proposals of the Prime Minister candidate, decrees, appointments, promulgation of laws",
+          "access": "2026-10-23: no answer to robots.txt, so the harvest does not fetch the site (status unreachable); check by hand"
+        },
+        "uradni-list.si": { "what": "Official Gazette (Uradni list RS): archive of issues up to 28 February 2026 (later issues are published on PISRS)" },
+        "pisrs.si": {
+          "what": "Legal information system (PISRS): consolidated legislation and, since 1 March 2026, the Official Gazette",
+          "access": "2026-10-23: pages build their text with scripts, the harvest gets the title only (status error); gazette PDFs under pisrs.si/api/uradni-list/objava/ answer 200 and are fingerprinted only"
+        },
+        "us-rs.si": {
+          "what": "Constitutional Court: decisions on laws, referendums, constitutional complaints and constitutional indictments",
+          "access": "2026-10-23: every page answers with a Cloudflare bot check (status blocked, 403); check by hand"
+        },
+        "sodisce.si": { "what": "Courts of Slovenia: Supreme Court, Administrative Court, higher, district and local courts" },
+        "dt-rs.si": { "what": "State Prosecutor's Office, including the Specialised State Prosecutor's Office (corruption, organised crime, asset forfeiture)" },
+        "dvk-rs.si": {
+          "what": "State Election Commission: official results of National Assembly, European Parliament, presidential and local elections and of referendums",
+          "access": "2026-10-23: the results applications under dvk-rs.si/arhivi/ checked for 2021 and 2026 build their figures with scripts (menus only); the summary pages under /volitve-in-referendumi/ and older static archives (1992–2014) render"
+        },
+        "kpk-rs.si": { "what": "Commission for the Prevention of Corruption (KPK): oversight of officials' asset declarations, incompatibility of functions, lobbying, final misdemeanour decisions" },
+        "erar.si": {
+          "what": "KPK's Erar application: public data on changes in the asset declarations of the Prime Minister, ministers, deputies and other officials (Article 46 ZIntPK, since 5 March 2025), gifts, lobbying contacts, public-sector transactions",
+          "access": "2026-10-23: pages build their content with scripts; the harvest gets the title only (status error) or a page asking to prove one is not a robot; check by hand"
+        },
+        "rs-rs.si": {
+          "what": "Court of Audit (Računsko sodišče): audits of political parties' annual reports and election-campaign financing, and of public spending",
+          "access": "2026-10-23: the audit search page (/revizije-in-revidiranje/arhiv-revizij/) rendered once and then returned no content (status error); the home page, which lists the latest audit reports, renders"
+        }
+      },
+      "watch": [
+        { "url": "https://www.gov.si/drzavni-organi/vlada/seje-vlade/", "what": "Press releases on government sessions and decisions (appointments, bills, decrees)" },
+        { "url": "https://www.dz-rs.si/wps/portal/Home/seje/sejeDZ/poDatumu", "what": "National Assembly sessions by date (regular and extraordinary sessions, agendas)" },
+        { "url": "https://www.dvk-rs.si/volitve-in-referendumi/referendumi/", "what": "State Election Commission: referendums called and their results" },
+        { "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-drzavni-zbor/", "what": "National Assembly election 2026: official results summary" },
+        { "url": "https://www.dvk-rs.si/volitve-in-referendumi/lokalne-volitve/", "what": "Local elections (November 2026)" },
+        { "url": "https://www.kpk-rs.si/sl/novice/sporocila-za-javnost", "what": "KPK press releases, including final misdemeanour decisions and findings on officials" },
+        { "url": "https://www.rs-rs.si/", "what": "Court of Audit: latest audit reports, including audits of political parties and election-campaign organisers" }
       ]
     },
     "SK": {

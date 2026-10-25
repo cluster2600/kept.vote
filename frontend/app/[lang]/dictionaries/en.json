@@ -54,6 +54,7 @@
     "mayor": "Mayor",
     "regional_executive": "Regional executive",
     "party_leader": "Party leader",
+    "judge": "Judge",
     "other": "Other office"
   },
   "notFound": {

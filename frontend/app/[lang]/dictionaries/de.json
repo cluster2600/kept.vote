@@ -54,6 +54,7 @@
     "mayor": "Bürgermeisteramt",
     "regional_executive": "Regionalregierung",
     "party_leader": "Parteivorsitz",
+    "judge": "Richteramt",
     "other": "Sonstiges Amt"
   },
   "notFound": {

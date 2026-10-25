@@ -54,6 +54,7 @@
     "mayor": "Burgemeester",
     "regional_executive": "Regionaal bestuurder",
     "party_leader": "Partijleider",
+    "judge": "Rechter",
     "other": "Ander ambt"
   },
   "notFound": {

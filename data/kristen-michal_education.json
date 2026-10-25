@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kristen-michal-edu-school",
+    "institution": "Tallinn 17th Secondary School (Tallinna 17. Keskkool)",
+    "qualification": "Secondary school leaving certificate",
+    "field": "General secondary education",
+    "years": "until 1993",
+    "detail": "Graduated in 1993, according to Estonian Wikipedia; his campaign page says he grew up and went to kindergarten and school in Tallinn's Õismäe district.",
+    "source_url": [
+      "https://et.wikipedia.org/wiki/Kristen_Michal",
+      "https://reform.ee/riigikogu-valimised-2023/haabersti-pohja-tallinn-ja-kristiine/kandidaat/kristen-michal/"
+    ]
+  },
+  {
+    "id": "kristen-michal-edu-tlu",
+    "institution": "Tallinn Pedagogical University (now Tallinn University)",
+    "qualification": "Studies without a reported degree",
+    "field": "Public administration (haldusjuhtimine)",
+    "years": "1994–1999",
+    "detail": "Estonian Wikipedia also lists studies at the private college 'I Studium' in 1993–1994.",
+    "source_url": [
+      "https://et.wikipedia.org/wiki/Kristen_Michal"
+    ]
+  },
+  {
+    "id": "kristen-michal-edu-nord",
+    "institution": "Akadeemia Nord (University Nord), Tallinn",
+    "qualification": "Bachelor's degree",
+    "field": "Law",
+    "years": "graduated 2009",
+    "detail": "His campaign page describes him as a lawyer by training (erialalt jurist).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Kristen_Michal",
+      "https://et.wikipedia.org/wiki/Kristen_Michal",
+      "https://reform.ee/riigikogu-valimised-2023/haabersti-pohja-tallinn-ja-kristiine/kandidaat/kristen-michal/"
+    ]
+  },
+  {
+    "id": "kristen-michal-edu-tlu-law",
+    "institution": "Tallinn University Law Academy (Tallinna Ülikooli Õigusakadeemia)",
+    "qualification": "Master's studies, no degree reported",
+    "field": "Law",
+    "years": "2010–2014 (Estonian Wikipedia); 'since 2009' (English Wikipedia)",
+    "detail": "The two Wikipedia editions give different start dates.",
+    "source_url": [
+      "https://et.wikipedia.org/wiki/Kristen_Michal",
+      "https://en.wikipedia.org/wiki/Kristen_Michal"
+    ]
+  },
+  {
+    "id": "kristen-michal-edu-defence-courses",
+    "institution": "Estonian Defence Forces; Higher National Defence Courses (Kõrgemad Riigikaitse Kursused)",
+    "qualification": "Reserve officer training",
+    "field": "National defence",
+    "years": "before 2023",
+    "detail": "According to his 2023 campaign page he completed the Defence Forces' reserve officer courses and the Higher National Defence Courses and is a reserve officer.",
+    "source_url": [
+      "https://reform.ee/riigikogu-valimised-2023/haabersti-pohja-tallinn-ja-kristiine/kandidaat/kristen-michal/",
+      "https://et.wikipedia.org/wiki/Kristen_Michal"
+    ]
+  }
+]

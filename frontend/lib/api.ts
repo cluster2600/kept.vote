@@ -19,6 +19,7 @@ export type Office =
   | "mayor"
   | "regional_executive"
   | "party_leader"
+  | "judge"
   | "other";
 
 /** A politician's photo (free-licensed, from Wikimedia Commons), served from

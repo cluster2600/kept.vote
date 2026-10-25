@@ -1,0 +1,25 @@
+[
+  {
+    "id": "christoph-hurni-pol-2023-rape-sentencing-duration",
+    "title": "2023 judgment accepting the 'relatively short duration' of a rape as a sentencing factor (7B_15/2021, 7B_16/2021), disavowed by the Court in 2024",
+    "period": "September 2023 – October 2024",
+    "category": "judicial ruling",
+    "description": "On 19 September 2023 a three-judge panel of the Federal Supreme Court's Second Criminal Law Division, made up of Sonja Koch (presiding), Christoph Hurni and Yann-Eric Hofmann, decided the joined appeals 7B_15/2021 and 7B_16/2021 against a judgment of the Court of Appeal of the canton of Basel-Stadt of 30 July 2021 in a rape case. In section 6.3 the judgment states: «So ist bundesrechtskonform, dass die Vorinstanz die (im Vergleich relativ kurze) Dauer der Vergewaltigung berücksichtigt» ('It is therefore consistent with federal law that the lower court takes into account the comparatively short duration of the rape'). The same judgment partly upheld the Basel-Stadt public prosecutor's appeal: it held that the lower court had violated federal law by weighing two other aspects of the offence in the offender's favour, quashed the cantonal judgment and sent the case back for resentencing. It dismissed the convicted man's own appeal and did not acquit him. The case had already prompted demonstrations in several Swiss cities after the cantonal appeal court reduced the sentence in July 2021, according to SRF. When the federal judgment was published on 22 November 2023, SVP National Councillor Barbara Steinemann told SRF that in such a serious case the duration of the rape should play no role, while agreeing with the Court that the victim's conduct must not reduce the sentence. On 18 September 2024, in the separate case 6B_612/2024, a five-judge panel of the First Criminal Law Division rejected an appeal by another convicted man who relied on the 2023 judgment. It called the 2023 passage «une formule isolée et inadéquate» ('an isolated and inappropriate formulation'), noting that the question of duration had not been developed in that judgment, and held that the 'relatively short' duration of a rape can in no case mitigate the offender's culpability, whereas a prolonged assault may aggravate it. That judgment, published on 15 October 2024, did not annul the 2023 judgment. Reporting on it, SRF quoted legal historian Michele Luminati as saying that the five-judge composition and the Court's wording showed it was aware of the case's sensitivity, and Agota Lavoyer, who advises victims of sexual violence, as calling it an important judgment and a very important signal for victims; Le Temps wrote that it should put an end to the controversy. Both are collegial judgments. The 2023 judgment does not identify who wrote the passage or how each member of the panel voted, and no personal view, intent or fault is attributed here to any individual judge.",
+    "status": "resolved",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "19 September 2023, 7B_15/2021 and 7B_16/2021 (Second Criminal Law Division): panel of Sonja Koch (presiding), Christoph Hurni and Yann-Eric Hofmann",
+      "Section 6.3: «So ist bundesrechtskonform, dass die Vorinstanz die (im Vergleich relativ kurze) Dauer der Vergewaltigung berücksichtigt» ('It is therefore consistent with federal law that the lower court takes into account the comparatively short duration of the rape')",
+      "Outcome: the prosecution's appeal was partly upheld on other sentencing grounds, the Basel-Stadt appeal judgment of 30 July 2021 was quashed and the case sent back for resentencing; the convicted man's appeal was dismissed; no acquittal",
+      "18 September 2024, 6B_612/2024 (First Criminal Law Division, five judges, published 15 October 2024): the 2023 wording is 'isolated and inappropriate'; a short duration can never favour a rape offender in sentencing, a prolonged assault may aggravate culpability",
+      "The 2023 judgment does not identify the author of the passage or each judge's vote; no personal view, intent or fault is attributed to any member of the panel"
+    ],
+    "source_url": [
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom=",
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F18-09-2024-6B_612-2024&lang=de&type=show_document&zoom=",
+      "https://www.srf.ch/news/schweiz/entscheid-des-bundesgerichts-brisantes-urteil-zu-basler-vergewaltigungsfall",
+      "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-kurze-dauer-einer-vergewaltigung-doch-kein-milderungsgrund",
+      "https://www.letemps.ch/suisse/le-tribunal-federal-souligne-que-la-duree-d-un-viol-ne-peut-pas-devenir-une-circonstance-attenuante"
+    ]
+  }
+]

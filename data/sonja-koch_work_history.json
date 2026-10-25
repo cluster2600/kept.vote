@@ -1,0 +1,101 @@
+[
+  {
+    "id": "sonja-koch-wh-lawyer-aarau",
+    "role": "Lawyer (Anwältin)",
+    "organization": "Private practice in Aarau, canton of Aargau",
+    "start_date": "2004",
+    "end_date": "2005",
+    "description": "Practised as a lawyer in Aarau in 2004–2005, according to her Federal Supreme Court biography.",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ]
+  },
+  {
+    "id": "sonja-koch-wh-clerk-lenzburg",
+    "role": "Court clerk (Gerichtsschreiberin)",
+    "organization": "District Court of Lenzburg (Bezirksgericht Lenzburg), canton of Aargau",
+    "start_date": "2005",
+    "end_date": "2008",
+    "description": "Court clerk at the Lenzburg District Court from 2005 to 2008, according to her Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ]
+  },
+  {
+    "id": "sonja-koch-wh-clerk-bger",
+    "role": "Court clerk (Gerichtsschreiberin)",
+    "organization": "Federal Supreme Court of Switzerland (Bundesgericht)",
+    "start_date": "2009",
+    "end_date": "2012",
+    "description": "Court clerk at the Federal Supreme Court from 2009 to 2012, according to her Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ]
+  },
+  {
+    "id": "sonja-koch-wh-foj",
+    "role": "Scientific officer (wissenschaftliche Mitarbeiterin)",
+    "organization": "Federal Office of Justice (Bundesamt für Justiz)",
+    "start_date": "2012",
+    "end_date": "2014",
+    "description": "Scientific officer at the Federal Office of Justice from 2012 to 2014, according to her Federal Supreme Court biography.",
+    "category": "public_service",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ]
+  },
+  {
+    "id": "sonja-koch-wh-regional-court",
+    "role": "Presiding judge (Gerichtspräsidentin)",
+    "organization": "Regional Court of Bernese Jura-Seeland (Regionalgericht Berner Jura-Seeland), canton of Bern",
+    "start_date": "2014",
+    "end_date": "2019",
+    "description": "Presiding judge (Gerichtspräsidentin) at the Regional Court of Bernese Jura-Seeland from 2014 to 2019, according to her Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ]
+  },
+  {
+    "id": "sonja-koch-wh-obergericht-be",
+    "role": "Part-time judge (nebenamtliche Richterin)",
+    "organization": "High Court of the Canton of Bern (Obergericht des Kantons Bern)",
+    "start_date": "2017",
+    "end_date": "2019",
+    "description": "Part-time judge of the Bern High Court from 2017 to 2019, alongside her regional court post, according to her Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ]
+  },
+  {
+    "id": "sonja-koch-wh-deputy-federal-judge",
+    "role": "Deputy (part-time) federal judge (nebenamtliche Richterin)",
+    "organization": "Federal Supreme Court of Switzerland (Bundesgericht)",
+    "start_date": "2018",
+    "end_date": "2019",
+    "description": "Deputy judge of the Federal Supreme Court from 2018 to 2019, according to her Federal Supreme Court biography.",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html"
+    ]
+  },
+  {
+    "id": "sonja-koch-wh-federal-judge",
+    "role": "Federal Judge (Bundesrichterin / juge fédérale)",
+    "organization": "Federal Supreme Court of Switzerland (Bundesgericht / Tribunal fédéral)",
+    "start_date": "2019",
+    "end_date": null,
+    "description": "Elected a federal judge by the United Federal Assembly on 25 September 2019, according to her Federal Supreme Court biography. As of October 2026 the Court's roster lists her as a judge of the Second Criminal Law Division (juge fédérale à la deuxième Cour de droit pénal). On 19 September 2023 she presided over the panel of that division in cases 7B_15/2021 and 7B_16/2021 (see polemics).",
+    "category": "judiciary",
+    "source_url": [
+      "https://www.bger.ch/cms/render/live/fr/sites/tfl/home/federal/federal-richter/federal-richter-bundesrichter/koch-sonja.html",
+      "https://www.bger.ch/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm?lang=3",
+      "https://www.bger.ch/fr/home/federal/federal-gericht/abteilungen/zweite-strafrechtliche-abteilung.html",
+      "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-09-2023-7B_15-2021&lang=de&type=show_document&zoom="
+    ]
+  }
+]
