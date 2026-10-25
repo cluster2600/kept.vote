@@ -548,3 +548,38 @@ No documents or messages requested from third parties.
 Validation: exact date filters and listed references checked against saved
 states; all manifest hashes checked; `git diff --check` passed. No graph or
 application change. Financial and entity-board gaps remain unchanged.
+
+## Resumed pass 13 (25 October 2026)
+
+**11:49:59–11:52:24 UTC**, about two and a half minutes of source research and
+validation; subsequent GitHub administration and scheduled waiting excluded.
+
+Queries included `site.fr.ch "Le Centre" "comptes" "2022" parti`,
+`site.fr.ch "PDC" "comptes annuels" 2021`,
+`"Hofmann" "Yann-Eric" "contributions" parti`,
+`"Christoph Hurni" "2022" "Mandatsbeitrag"` and targeted Centre-Fribourg/
+GLP-Bern/SVP financial-rule searches.
+
+- Re-read **official EFK national Die Mitte declarations for 2023 and 2024** in
+  the browser, explicitly checking Hofmann/Hoffmann and Yann/Yann-Eric/Yann Eric
+  variants. The tables contain no matching row. Archived deduplicated, nonempty
+  four-cell rendered table rows (75 and 73 including headers), with URL, timestamp
+  and hash, plus a narrow recheck record. Responsive/empty duplicate rows were
+  removed; no amount inferred. An unrelated Yannick entry is not a Yann match.
+- This corroborates the existing **unknown** historical observations, not zero
+  payment/nonpayment. Cantonal contributions remain outside these national
+  tables. EFK's published warning that parties are responsible for the reported
+  information remains applicable; no independent bank audit established.
+- Search located the Centre national financial regulation indexed under
+  `https://le-centre.ch/wp-content/uploads/2024/07/Reglement_financier.pdf`.
+  Direct curl and web open both returned **403**. Its indexed article 6 is a lead
+  about voluntary judicial contributions, not a newly archived/verified current
+  rule or an individual's payment. No bypass or invented PDF snapshot.
+- Other results concerned Vaud party accounts, state accounts or namesakes; none
+  establishes a target's historical payment. No new original release order or
+  confirmed company/foundation board membership recovered in this pass.
+
+Validation: rendered declaration identity/sections checked, surname/given-name
+variants, table deduplication and nonempty row counts asserted; all source hashes
+checked. Temporary browser dispatch timeout resolved after a fresh state read.
+No graph/application change, messages or requests.

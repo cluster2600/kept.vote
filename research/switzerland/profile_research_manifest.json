@@ -491,6 +491,22 @@
       "bytes": 7133,
       "retrieved_at_utc": "2026-10-25T11:37:05.304215+00:00",
       "source_status": "official decision-search UI; accessibility-text snapshot; search results, not original release orders"
+    },
+    {
+      "file": "sources/efk-centre-2023-table-recheck-2026-10-25.json",
+      "url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/432/forms/9-59-23",
+      "sha256": "e27c5d0c3e87b854bb8122a6a39bea08153183bfd672d01798a551deef87e524",
+      "bytes": 5873,
+      "retrieved_at_utc": "2026-10-25T11:52:24.592362+00:00",
+      "source_status": "official EFK public rendered table; duplicate responsive/empty rows removed; party declaration not bank audit"
+    },
+    {
+      "file": "sources/efk-centre-2024-table-recheck-2026-10-25.json",
+      "url": "https://politikfinanzierung.efk.admin.ch/app/de/party-financings/497/forms/17-59-61",
+      "sha256": "32482db0b341866ed7e084aa97241b277aaff0a058a3b7930519bab573d83cc7",
+      "bytes": 5690,
+      "retrieved_at_utc": "2026-10-25T11:52:24.592362+00:00",
+      "source_status": "official EFK public rendered table; duplicate responsive/empty rows removed; party declaration not bank audit"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
