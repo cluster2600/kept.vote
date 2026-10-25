@@ -1,0 +1,344 @@
+[
+  {
+    "id": "mahmoud-abbas-promise-2006-legislative-elections",
+    "title": "Hold the postponed Legislative Council elections in January 2006",
+    "description": "After postponing the legislative elections originally scheduled for 17 July 2005, Abbas announced in August 2005 that they would be held on 25 January 2006, and on 15 January 2006 said that despite unrest in Gaza he would not change the date unless Israel prevented Palestinians in East Jerusalem from voting.",
+    "date_made": "2005-08-20",
+    "category": "Elections / democracy",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The elections took place on the announced date, 25 January 2006, and produced a decisive victory for Hamas over Abbas's Fatah. The commitment was fulfilled as stated; these were the last Legislative Council elections held as of October 2026.",
+    "key_evidence": [
+      "9 August 2005: Abbas announces the July 2005 legislative elections will take place in January 2006; 20 August: date set for 25 January",
+      "15 January 2006: Abbas says he will not change the date",
+      "25 January 2006: elections held; Hamas wins a majority (Wikipedia; Britannica)"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mahmoud_Abbas",
+      "https://www.britannica.com/biography/Mahmoud-Abbas"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-2005-anti-corruption-rule-of-law",
+    "title": "Eliminate corruption and abuse of office, and strengthen the rule of law and judicial independence",
+    "description": "His programme for the January 2005 presidential election pledged to continue the 'comprehensive reform' launched under Arafat 'to eliminate any manifestations of corruption and abuse of office and influence', to entrench 'transparency, integrity and accountability' and to adopt laws strengthening administrative and financial oversight; it also promised to 'strengthen the rule of law, protect the independence of the judiciary and prevent interference in its affairs', to hold abuses by PA bodies to account and to build a state of institutions with separation of powers.",
+    "date_made": "2005-01",
+    "category": "Governance / anti-corruption",
+    "status": "compromise",
+    "confidence_score": 0.5,
+    "reasoning": "Institutions were created and are active: the Palestinian Anti-Corruption Commission publishes annual reports and a 2025–2030 strategy and handles officials' financial disclosure declarations (no public register of them was found), and in November 2025 Abbas fired his finance minister over payments made outside the new welfare system. But corruption allegations against the leadership have persisted (see polemics), The National describes his administration as 'widely regarded as corrupt and ineffective', the Legislative Council has not sat since 2007 and was dissolved in 2018, he governs by decree, and Amnesty International said the military trial over Nizar Banat's death left senior officers unquestioned. Judged against the programme's own terms, the record is partial; low confidence because the evidence is largely qualitative.",
+    "key_evidence": [
+      "January 2005: election programme pledges on corruption, oversight, rule of law and judicial independence",
+      "Anti-Corruption Commission operating, with annual reports up to 2025 and a 2025–2030 strategy (pacc.ps)",
+      "December 2018: Legislative Council dissolved; rule by decree-law since 2007",
+      "November 2025: finance minister fired over unauthorised payments",
+      "2026: EU funding tied to reform benchmarks including anti-corruption"
+    ],
+    "source_url": [
+      "https://www.president.ps/Main/electoral",
+      "https://www.pacc.ps/",
+      "https://www.pacc.ps/AboutUs/Eqrar",
+      "https://www.thenationalnews.com/news/2026/10/08/highly-anticipated-palestinian-elections-likely-to-be-postponed-sources-say/",
+      "https://www.arabnews.com/node/1424661",
+      "https://www.amnesty.org/en/latest/news/2022/06/palestine-authorities-have-failed-to-ensure-accountability-for-the-killing-of-nizar-banat/",
+      "https://themedialine.org/headlines/europe-increases-aid-to-palestinian-authority-linking-funds-to-anti-corruption-reforms/"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-unity-deals-elections-2014-2018",
+    "title": "Hold general elections under the Fatah–Hamas reconciliation agreements of 2014 and 2017",
+    "description": "The April 2014 Fatah–Hamas agreement, reached under Abbas's leadership of Fatah, provided for a unity government and general elections within six months; the October 2017 Cairo reconciliation deal provided for general elections by the end of 2018. In December 2018 Abbas also announced that legislative elections would be held within six months of the dissolution of the Legislative Council.",
+    "date_made": "2014-04-23",
+    "category": "Elections / national reconciliation",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "The unity government was formed on 2 June 2014 and lasted until 2016, but none of the elections promised under the 2014 and 2017 agreements, or within six months of the December 2018 dissolution of the Legislative Council, took place; no national election has been held since 2006.",
+    "key_evidence": [
+      "April 2014: agreement on a unity government (formed 2 June 2014) and elections within six months; elections 'delayed indefinitely'",
+      "October 2017: Cairo deal on general elections by the end of 2018; not held",
+      "22 December 2018: Abbas announces dissolution of the Legislative Council and elections within six months; not held"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Next_Palestinian_presidential_election",
+      "https://en.wikipedia.org/wiki/Next_Palestinian_legislative_election",
+      "https://www.arabnews.com/node/1424661",
+      "https://en.wikipedia.org/wiki/Mahmoud_Abbas"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-2021-elections",
+    "title": "Hold legislative elections on 22 May 2021 and a presidential election on 31 July 2021",
+    "description": "By decree of 15 January 2021 Abbas called the first legislative and presidential elections since 2005–2006, to be followed by Palestinian National Council elections. Fatah, Hamas and other factions agreed on the arrangements, including an electoral court, and 93% of eligible voters in the West Bank and Gaza registered, according to the Central Elections Commission.",
+    "date_made": "2021-01-15",
+    "category": "Elections / democracy",
+    "status": "broken",
+    "confidence_score": 0.95,
+    "reasoning": "On 29 April 2021 Abbas postponed the elections indefinitely without setting a new date, citing Israel's refusal to allow Palestinians in East Jerusalem to vote. Hamas called it a 'coup', the EU called it 'deeply disappointing', and the leaders of two breakaway Fatah lists said he feared defeat; analysts quoted by Al Jazeera say he avoids elections for fear of losing to Hamas. Neither vote was held.",
+    "key_evidence": [
+      "15 January 2021: decree calling legislative (22 May) and presidential (31 July) elections",
+      "2 March 2021: 2.6 million of 2.8 million eligible voters registered (CEC)",
+      "29 April 2021: indefinite postponement, citing East Jerusalem",
+      "June 2021 PCPSR poll: 69% wanted elections soon even without Israeli approval in East Jerusalem"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Next_Palestinian_presidential_election",
+      "https://en.wikipedia.org/wiki/Next_Palestinian_legislative_election",
+      "https://www.aljazeera.com/news/2024/11/30/explainer-why-has-palestinian-authoritys-mahmoud-abbas-nominated-his-successor",
+      "https://www.britannica.com/biography/Mahmoud-Abbas"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-elections-within-year-after-war",
+    "title": "Hold presidential and general elections within a year of the end of the Gaza war",
+    "description": "In a letter to French President Emmanuel Macron and Saudi Crown Prince Mohammed bin Salman in June 2025, Abbas confirmed his intention to hold presidential and general elections 'within a year' under international auspices; in his video address to the UN General Assembly on 25 September 2025 he pledged elections within a year of the war's end. France made such commitments a basis of its recognition of the State of Palestine.",
+    "date_made": "2025-06-09",
+    "category": "Elections / democracy",
+    "status": "broken",
+    "confidence_score": 0.7,
+    "reasoning": "A ceasefire took effect in Gaza in October 2025. A year later no national election had been held: on 10 October 2026 Abbas cancelled the legislative elections set for 28 November 2026 and moved them, together with the presidential election, to 11 September 2027, citing Israeli measures in the West Bank, the incomplete Israeli withdrawal from Gaza and Israeli restrictions on election staff and observers. France said the decision deprived Palestinians of elections 'as President Abbas had committed to', and Israel's foreign minister called the reasons given a 'ridiculous lie'. The verdict rests on reading the October 2025 ceasefire as the end of the war; the PA argues that the conditions for a vote were not met.",
+    "key_evidence": [
+      "June 2025: letter to Macron and Mohammed bin Salman promising presidential and general elections within a year",
+      "25 September 2025: UN address pledges elections within a year of the war's end",
+      "October 2025: Gaza ceasefire under the US 20-point plan",
+      "10 October 2026: decree postponing legislative and presidential elections to 11 September 2027",
+      "France Diplomatie: 'regrets' the postponement and calls for elections 'without delay'"
+    ],
+    "source_url": [
+      "https://www.arabnews.com/node/2604005/middle-east",
+      "https://themedialine.org/headlines/abbas-condemns-israel-and-hamas-in-un-address-israel-pushes-back",
+      "https://en.wikipedia.org/wiki/Gaza_peace_plan",
+      "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/annonce-du-report-des-elections-legislatives-et-presidentielles-palestiniennes",
+      "https://www.jpost.com/middle-east/article-911222"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-2026-national-elections",
+    "title": "Make 2026 'the year of Palestinian democracy': Legislative Council elections on 28 November 2026 and a presidential election in early 2027",
+    "description": "Abbas branded 2026 'the year of Palestinian democracy'. After decreeing direct elections to the PLO's Palestinian National Council for 1 November 2026, he announced in June 2026 a presidential election for early 2027 and on 9 July 2026 set the first Legislative Council elections in 20 years for 28 November 2026 in the West Bank, East Jerusalem and Gaza. He repeated the pledge of elections at Fatah's eighth conference in May 2026.",
+    "date_made": "2026-07-09",
+    "category": "Elections / democracy",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "Candidate registration for the legislative elections opened on 26 September 2026, but on 10 October 2026 Abbas issued a decree cancelling the November vote and setting legislative and presidential elections together for 11 September 2027. The PLO Executive Committee cited Israeli restrictions, including on election materials and observers in Gaza; sources from several factions told The National the delay was linked to a national dialogue in Egypt, and Reuters reported that Fatah and Hamas leaders had agreed in Cairo to postpone. Whether the PNC elections of 1 November 2026 will go ahead could not be confirmed.",
+    "key_evidence": [
+      "February 2026: decree calling PNC elections for 1 November 2026",
+      "June 2026: presidential election announced for early 2027",
+      "9 July 2026: decree setting legislative elections for 28 November 2026",
+      "10 October 2026: decree postponing legislative and presidential elections to 11 September 2027",
+      "August 2026 PCPSR poll: 44% did not expect the elections to take place as scheduled; 79% wanted Abbas to resign"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/palestinian-authoritys-abbas-calls-first-ever-direct-plo-parliament-elections/",
+      "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28",
+      "https://www.thenationalnews.com/news/mena/2026/10/10/palestinian-president-mahmoud-abbas-postpones-elections-to-september-2027/",
+      "https://www.thenationalnews.com/news/2026/10/08/highly-anticipated-palestinian-elections-likely-to-be-postponed-sources-say/",
+      "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027",
+      "https://en.wikipedia.org/wiki/Next_Palestinian_legislative_election",
+      "https://www.jpost.com/middle-east/article-911222"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-2026-local-elections",
+    "title": "Hold local elections in April 2026, including in the Gaza Strip",
+    "description": "Presenting the draft interim constitution on 5 February 2026, Abbas announced local elections for April 2026 as part of the 'year of democracy'; the PA said including Gaza was meant to show that the Strip is an inseparable part of a future Palestinian state.",
+    "date_made": "2026-02-05",
+    "category": "Elections / local government",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "Elections for 403 local authorities were held on 25 April 2026, the first since 2006 to include part of the Gaza Strip, where only Deir al-Balah voted. Turnout was 53.5% overall (56% in the West Bank, 23% in Gaza, according to the Central Elections Commission chairman), and lists loyal to Abbas won most seats. Hamas did not formally take part, and many Fatah candidates in the West Bank ran unopposed after candidates were required to accept the PLO programme.",
+    "key_evidence": [
+      "25 April 2026: local elections in the West Bank and in Deir al-Balah (Gaza)",
+      "Fatah-backed list won 6 of 15 Deir al-Balah seats; Hamas-aligned list 2 (Reuters, via Wikipedia)",
+      "Candidates had to sign acceptance of the PLO 'national programme'"
+    ],
+    "source_url": [
+      "https://english.wafa.ps/Pages/Details/167137",
+      "https://en.wikipedia.org/wiki/2026_Palestinian_local_elections",
+      "https://www.timesofisrael.com/palestinian-authoritys-abbas-calls-first-ever-direct-plo-parliament-elections/"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-interim-constitution",
+    "title": "Adopt an interim constitution for the transition from the Palestinian Authority to a state",
+    "description": "On 18 August 2025 Abbas created by decree a committee to draft an interim constitution 'to lay the foundations for a democratic governance system based on the rule of law, separation of powers, protection of public rights and freedoms, and peaceful transfer of power' (WAFA), ahead of general elections.",
+    "date_made": "2025-08-18",
+    "category": "Constitution / institutions",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "The committee delivered a draft on 5 February 2026, which Abbas sent to the PLO Executive Committee and published for 60 days of public comment; the Supreme Constitutional Court's president reviewed it with the committee in March 2026. A final text and the referendum it requires had not been announced as of October 2026, and analysts quoted by The Times of Israel expected Abbas not to rush a referendum that Israel opposes.",
+    "key_evidence": [
+      "18 August 2025: drafting committee of 17 members appointed",
+      "5 February 2026: draft delivered (two-term limit for the president, hybrid system)",
+      "9 February 2026: publication ordered for 60 days of comment",
+      "No referendum date set as of October 2026"
+    ],
+    "source_url": [
+      "https://www.aa.com.tr/en/middle-east/palestinian-president-forms-committee-to-draft-interim-constitution-ahead-of-elections/3662993",
+      "https://english.wafa.ps/Pages/Details/167137",
+      "https://www.thenationalnews.com/news/mena/2026/02/11/interim-palestinian-constitution-could-bolster-bid-for-statehood-experts-say/",
+      "https://www.timesofisrael.com/abbas-receives-draft-constitution-that-aims-to-transition-pa-to-full-fledged-state/"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-end-prisoner-martyr-payments",
+    "title": "End payments to prisoners and families of 'martyrs' based on sentence or status, replacing them with needs-based welfare",
+    "description": "By decree of 10 February 2025 Abbas repealed the laws under which the PA paid stipends to Palestinians imprisoned by Israel according to the length of their sentence, and to families of those killed or wounded in the conflict, including in attacks on Israelis, and moved social assistance to the needs-based programme of the National Economic Empowerment Institution (Tamkeen). In September 2025 he told a UN conference that the PA was 'establishing a unified social welfare system after the abolition of all previous payments to the families of prisoners and martyrs'.",
+    "date_made": "2025-02-10",
+    "category": "Social welfare / relations with donors",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "The new system is in place and contested both ways. Families of prisoners protested the loss of stipends, and an audit commissioned by the PA from Alvarez & Marsal, whose summary was released in July 2026, found eligibility based solely on poverty criteria, while noting a batch of payments under the old mechanism in November 2025 (for which Abbas fired his finance minister) and that more documentation was needed to verify that the old channels are closed. The US State Department told Congress in 2026 that payments continued under other names and dismissed the audit, and Israel says 'pay for slay' remains PA policy; days after the decree Abbas also said prisoners and martyrs 'must receive everything they received in the past'. Concrete steps have been taken, but completion is not independently established; low confidence for that reason.",
+    "key_evidence": [
+      "10 February 2025: decree repealing the payment system (Axios)",
+      "November 2025: Finance Minister Omar Bitar fired over payments under the old system",
+      "December 2025 and May–June 2026: protests by prisoners' families over lost stipends",
+      "May 2026: State Department report to Congress says payments continue through other mechanisms",
+      "July 2026: Alvarez & Marsal audit summary finds needs-based eligibility; State Department says it 'cannot serve as any proof'"
+    ],
+    "source_url": [
+      "https://www.axios.com/2025/02/10/palestinian-president-revokes-prisoner-payments-dubbed-pay-for-slay",
+      "https://www.timesofisrael.com/palestinians-protest-pa-prisoner-payment-reform-in-sign-of-implementation-after-snag/",
+      "https://www.timesofisrael.com/external-audit-finds-pa-no-longer-rewarding-security-prisoners-diplomats/",
+      "https://www.timesofisrael.com/us-claims-pas-prisoner-payments-reform-a-con-dismissing-audit-that-suggests-otherwise/",
+      "https://www.state.gov/wp-content/uploads/2026/05/Report-Palestinian-Authoritys-Practice-of-Paying-Salaries-to-Terrorists-and-Families-Accessib.pdf"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-pa-reform-programme",
+    "title": "Reform the Palestinian Authority (governance, public finances, anti-corruption)",
+    "description": "In his June 2025 letter to Macron and the Saudi crown prince, Abbas reaffirmed his commitment to reform the PA; he pledged reforms again in his September 2025 UN address and at Fatah's eighth conference in May 2026. The EU tied a three-year package of about €1.6 billion, announced in April 2025, to a reform agenda with benchmarks that the EU says include the eradication of corruption and a smaller public sector; the Trump plan and UN Security Council Resolution 2803 make the PA's return to Gaza conditional on completing its reform programme.",
+    "date_made": "2025-06-09",
+    "category": "Governance / anti-corruption",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "Several measures have been taken: the prisoner-payment decree, the firing of the finance minister over illicit payments, the draft interim constitution, new election laws and the April 2026 local elections. But the EU programme runs to December 2026, the European official quoted by The Times of Israel said EU money remained linked to reform benchmarks, national elections were postponed, and critics (Mustafa Barghouti; Israel's foreign minister) say reforms have not been implemented and power remains concentrated in the presidency. In an August 2026 poll by the Palestinian Center for Policy and Survey Research (cited by Wikipedia), 9% named fighting corruption as the top priority.",
+    "key_evidence": [
+      "April 2025: EU €1.6 billion package linked to PA reforms",
+      "June 2025: letter reaffirming commitment to reform the PA",
+      "November 2025: finance minister fired over payments outside the new welfare system",
+      "October 2026: elections postponed; France conditions support on 'commitments made with respect to recognition'"
+    ],
+    "source_url": [
+      "https://www.arabnews.com/node/2604005/middle-east",
+      "https://themedialine.org/headlines/europe-increases-aid-to-palestinian-authority-linking-funds-to-anti-corruption-reforms/",
+      "https://themedialine.org/headlines/abbas-condemns-israel-and-hamas-in-un-address-israel-pushes-back",
+      "https://www.timesofisrael.com/palestinians-protest-pa-prisoner-payment-reform-in-sign-of-implementation-after-snag/",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+      "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027",
+      "https://en.wikipedia.org/wiki/Next_Palestinian_legislative_election",
+      "https://www.jpost.com/middle-east/article-911222"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-gaza-governance",
+    "title": "Have the Palestinian Authority take full responsibility for governing Gaza after the war, with no role for Hamas",
+    "description": "In his September 2025 UN address Abbas said the PA was prepared to take 'full responsibility' for Gaza once the war ended and that Hamas would have no role in governance; his nine-point plan proposed handing Gaza's administration to a transitional body of Palestinian technocrats supported by Arab and international partners. In June 2025 he wrote that Hamas 'will no longer rule Gaza'.",
+    "date_made": "2025-09-25",
+    "category": "Gaza / governance",
+    "status": "compromise",
+    "confidence_score": 0.6,
+    "reasoning": "A technocratic National Committee for the Administration of Gaza, led by former PA minister Ali Shaath, was announced in January 2026 under the US-led plan, as Abbas had proposed, but it is supervised by the Board of Peace chaired by Donald Trump, includes no PA or Hamas members and, as of early 2026, was based in Egypt; UN Security Council Resolution 2803 defers the PA's role until it completes its reforms. The PA has not taken over Gaza's administration, and Israeli forces controlled just over half of the Strip in early 2026 according to the House of Commons Library.",
+    "key_evidence": [
+      "25 September 2025: UN address on PA responsibility for Gaza and a technocratic transitional body",
+      "17 November 2025: UN Security Council Resolution 2803 endorses the Board of Peace",
+      "14 January 2026: phase two of the US plan and creation of the NCAG, without PA members",
+      "PA says it remains committed to its reforms (House of Commons Library)"
+    ],
+    "source_url": [
+      "https://www.arabnews.com/node/2604005/middle-east",
+      "https://themedialine.org/headlines/abbas-condemns-israel-and-hamas-in-un-address-israel-pushes-back",
+      "https://en.wikipedia.org/wiki/Gaza_peace_plan",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+      "https://www.thenationalnews.com/news/mena/2026/02/11/interim-palestinian-constitution-could-bolster-bid-for-statehood-experts-say/"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-single-authority-weapons",
+    "title": "'Only one authority and one legitimate weapon': bring all arms, including Hamas's, under the Palestinian Authority",
+    "description": "His programme for the January 2005 presidential election promised that 'there will be only one authority and one legitimate weapon'. Twenty years later, in his June 2025 letter to Macron and the Saudi crown prince, he wrote that Hamas 'must hand over its weapons and military capabilities to the Palestinian Security Forces', and at the UN in September 2025 he said Hamas and other factions would have to hand their weapons to the PA and pledged a unified Palestinian security force.",
+    "date_made": "2005-01",
+    "category": "Security / Gaza",
+    "status": "broken",
+    "confidence_score": 0.7,
+    "reasoning": "The commitment has not been met. Hamas took control of Gaza by force in 2007 and, according to the House of Commons Library, still retained its weapons there in early 2026. On 30 July 2026 the US-led Board of Peace announced a roadmap under which Hamas agreed to a staged disarmament, with a Palestinian National Committee, not the PA security forces, as 'the sole entity to hold, store or control weapons in Gaza'; Hamas said it would implement nothing unless Israeli forces withdrew as agreed. No handover of weapons to the PA has taken place in the sources found.",
+    "key_evidence": [
+      "January 2005: election programme promises 'one authority and one legitimate weapon'",
+      "June 2007: Hamas takes control of the Gaza Strip",
+      "June 2025: letter demanding Hamas hand its weapons to the PA security forces",
+      "25 September 2025: UN address repeats the demand",
+      "January 2026: Hamas retains its weapons in Gaza (House of Commons Library)",
+      "30 July 2026: Board of Peace roadmap: staged disarmament, weapons held by the Palestinian National Committee; Hamas conditions implementation on Israeli withdrawal (Al Jazeera)"
+    ],
+    "source_url": [
+      "https://www.president.ps/Main/electoral",
+      "https://www.arabnews.com/node/2604005/middle-east",
+      "https://themedialine.org/headlines/abbas-condemns-israel-and-hamas-in-un-address-israel-pushes-back",
+      "https://www.bbc.com/news/articles/c4g20pj6epvo",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/",
+      "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know",
+      "https://www.britannica.com/biography/Mahmoud-Abbas"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-halt-security-coordination",
+    "title": "Halt security coordination with Israel",
+    "description": "Abbas has repeatedly announced the suspension of security coordination with Israel in protest at Israeli actions, notably in January 2023 after a deadly Israeli raid in Jenin, when his spokesman said the arrangements were no longer in effect, and again in July 2023, when the leadership decided to 'continue with halting the security coordination' and declared the Aqaba and Sharm el-Sheikh understandings no longer binding.",
+    "date_made": "2023-01",
+    "category": "Security / relations with Israel",
+    "status": "broken",
+    "confidence_score": 0.6,
+    "reasoning": "A week after the January 2023 announcement Abbas acknowledged to CIA director William Burns that parts of the coordination apparatus remained in place and could be fully restored, and The Times of Israel notes that previous suspensions were short-lived because the PA, Israel and the US see coordination as serving their interests. In December 2024–January 2025 PA forces conducted their own operation against armed groups in Jenin. No source shows a lasting, complete halt.",
+    "key_evidence": [
+      "January 2023: total freeze announced after a Jenin raid; Abbas later tells CIA director parts remain in place",
+      "3 July 2023: suspension maintained and other contacts cut after a large Israeli operation in Jenin",
+      "December 2024–January 2025: PA security operation against the 'Jenin Brigades'"
+    ],
+    "source_url": [
+      "https://www.timesofisrael.com/pa-freezes-all-ties-with-israel-over-jenin-raid-as-us-urges-closer-cooperation/",
+      "https://www.aa.com.tr/en/middle-east/palestine-decides-to-suspend-all-forms-of-coordination-with-israel/2936237",
+      "https://www.aljazeera.com/news/2025/1/5/palestinian-authority-suppresses-criticism-of-jenin-operation-in-west-bank"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-un-membership-recognition",
+    "title": "Obtain full UN membership and wider international recognition for the State of Palestine",
+    "description": "In September 2011 Abbas asked the UN Security Council to admit Palestine as a member state, arguing that US-mediated negotiations had put too little pressure on Israel; the bid was renewed in 2024. He has repeatedly called on states that have not done so to recognise the State of Palestine.",
+    "date_made": "2011-09-23",
+    "category": "Foreign policy / statehood",
+    "status": "in_progress",
+    "confidence_score": 0.85,
+    "reasoning": "Full membership has not been obtained: the 2011 application stalled, and on 18 April 2024 the United States vetoed a Security Council draft recommending admission (12 in favour, 2 abstentions). Intermediate steps were achieved: non-member observer state status in November 2012, additional rights in the General Assembly under Resolution ES-10/23 of 10 May 2024, and recognition by 157 of 193 UN member states by September 2025, including France, the United Kingdom, Canada and Australia, according to Wikipedia's count.",
+    "key_evidence": [
+      "September 2011: membership application to the Security Council",
+      "29 November 2012: Resolution 67/19 (138–9–41) grants non-member observer state status",
+      "18 April 2024: US veto of the membership recommendation",
+      "10 May 2024: General Assembly Resolution ES-10/23 grants additional rights",
+      "September 2025: recognition by France, the UK, Canada, Australia and other states; 157 UN members in total (Wikipedia)"
+    ],
+    "source_url": [
+      "https://www.britannica.com/biography/Mahmoud-Abbas",
+      "https://news.un.org/en/story/2012/11/427052",
+      "https://en.wikipedia.org/wiki/International_recognition_of_Palestine"
+    ]
+  },
+  {
+    "id": "mahmoud-abbas-promise-join-icc",
+    "title": "Take Palestine into the International Criminal Court",
+    "description": "Long held in reserve as a diplomatic 'last resort', the threat of joining the ICC to pursue Israel for alleged war crimes was carried out when Abbas signed the application in December 2014, one day after the UN Security Council voted down a resolution demanding an end to the Israeli occupation and Palestinian statehood by 2017.",
+    "date_made": "2014-12",
+    "category": "Foreign policy / international justice",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The State of Palestine was admitted to the International Criminal Court in April 2015. Israel and the United States opposed the move; in 2025 and 2026 the US cited the PA's actions at the ICC among the grounds for visa sanctions on PA and PLO officials.",
+    "key_evidence": [
+      "December 2014: Abbas signs the application to join the ICC",
+      "April 2015: Palestine admitted to the ICC (Britannica)",
+      "September 2026: US State Department cites ICC actions in extending visa sanctions"
+    ],
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Mahmoud_Abbas",
+      "https://www.britannica.com/biography/Mahmoud-Abbas",
+      "https://www.outlookindia.com/international/palestinian-president-abbas-calls-us-visa-denial-unlawful-as-he-addresses-un-by-video"
+    ]
+  }
+]

@@ -7,5 +7,13 @@
   "content_lang": "en",
   "party": "Swiss People's Party (SVP/UDC)",
   "birth_date": "1959-11-09",
-  "bio": "Guy Parmelin is a Swiss politician from the canton of Vaud and a member of the Swiss People's Party (SVP/UDC). A master winegrower and farmer by profession, he served in the Grand Council of Vaud and the National Council before being elected to the Federal Council in 2015. He currently heads the Federal Department of Economic Affairs, Education and Research (EAER/DEFR) and serves as President of the Swiss Confederation for 2026."
+  "bio": "Guy Parmelin is a Swiss politician from the canton of Vaud and a member of the Swiss People's Party (SVP/UDC). A master winegrower and farmer by profession, he served in the Grand Council of Vaud and the National Council before being elected to the Federal Council in 2015. He currently heads the Federal Department of Economic Affairs, Education and Research (EAER/DEFR) and serves as President of the Swiss Confederation for 2026.",
+  "portrait": {
+    "file": "guy-parmelin.webp",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Guy_Parmelin_%282026%29_%28cropped%29.jpg",
+    "author": "Schweizerische Bundeskanzlei",
+    "license": "Attribution",
+    "license_url": null,
+    "retrieved": "2026-10-22"
+  }
 }

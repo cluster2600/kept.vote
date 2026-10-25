@@ -1,0 +1,215 @@
+[
+  {
+    "id": "kristen-michal-promise-defence-3pct",
+    "title": "Keep defence spending at no less than 3% of GDP",
+    "description": "Michal's 2023 Riigikogu campaign page called for 'more for national defence, 3% of GDP'. The coalition agreement he negotiated as prime minister-designate in July 2024 promised defence spending of at least 3% of GDP plus the costs of hosting allies.",
+    "date_made": "2024-07",
+    "category": "Defence",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "The 2025 budget bill approved in September 2024 planned defence spending of at least 3.3% of GDP a year, rising to 3.6% in 2027. In January 2025 Estonia pledged to go to 5% of GDP (Kyiv Independent, citing the Financial Times), and in June 2025 Euronews reported spending above 4.5% with a pledge of 5.4% for 2026; Pevkur cited raising defence spending to 5% of GDP when he resigned in September 2026. The floor has been exceeded; final 2026 figures were not yet available on the research date.",
+    "key_evidence": [
+      "Reform 2023 campaign page: 'rohkem riigikaitsesse, 3% SKPst'",
+      "July 2024 coalition agreement: at least 3% of GDP plus the costs of hosting allies (Postimees)",
+      "2025 budget bill (September 2024): at least 3.3% of GDP each year, 3.6% in 2027",
+      "January 2025: pledge to raise spending from 3.7% to 5% of GDP (Kyiv Independent/FT)",
+      "June 2025: Estonia pledged 5.4% of GDP for 2026 (Euronews)"
+    ],
+    "source_url": [
+      "https://reform.ee/riigikogu-valimised-2023/haabersti-pohja-tallinn-ja-kristiine/kandidaat/kristen-michal/",
+      "https://news.postimees.ee/8062618/the-government-of-the-reform-party-estonia-200-and-the-social-democrats-concluded-a-new-coalition-agreement",
+      "https://news.postimees.ee/8103160/estonian-government-approves-2025-state-budget-bill",
+      "https://kyivindependent.com/lithuania-estonia-pledge-5-defense-spending-following-trumps-call-ft-reports/",
+      "https://www.euronews.com/my-europe/2025/06/27/everyone-including-spain-should-reach-5-defence-spending-estonias-prime-minister-tells-eur",
+      "https://estonianworld.com/security/estonias-defence-minister-resigns-over-a-failed-e70-million-shell-deal-for-ukraine/"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-defence-tax",
+    "title": "Temporary national defence tax: VAT +2 points from 2025, income tax +2 points and 2% on company profits from 2026",
+    "description": "Presenting the coalition agreement on 19 July 2024, Michal said a three-part national defence tax was inevitable: VAT up 2 percentage points from 2025, income tax up 2 points from 2026 and a 2% tax on corporate profits from 2026, to bring about €3 billion more into defence. In September 2024 his cabinet set it as a fixed-term 'broad security tax' until the end of 2028 (a 2% security tax on personal income and corporate profits from 2026).",
+    "date_made": "2024-07-19",
+    "category": "Taxation / defence financing",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "Only the VAT part was delivered: the standard rate is 24% (raised in mid-2025). In March 2025, after expelling the Social Democrats, Michal announced that the corporate profit tax would be dropped and personal income would not be taxed 'from the first euro'; according to 2026 tax guidance citing the Ministry of Finance, the 2% security tax never took effect and the planned rise of the income tax rate to 24% was cancelled, leaving it at 22%. The Riigikogu's 2026 budget expects tax revenue to fall by €780 million. Defence spending nevertheless rose (see the defence-spending promise), so the pledge survives only in a reduced form.",
+    "key_evidence": [
+      "19 July 2024: Michal announces VAT +2 points (2025), income tax +2 points and a 2% corporate profit tax (2026), about €3 billion for defence",
+      "September 2024: cabinet approves a fixed-term security tax for 2025–2028",
+      "10 March 2025: corporate profit tax abandoned, personal taxation to 'remain as it is now'",
+      "2026: income tax rate 22%, security tax not in force, standard VAT 24% (Repinski, palgakulu.ee)",
+      "2026 budget: tax revenue down €780 million, tax burden from 36.6% to 35.2% of GDP (Via Baltica, citing ERR)"
+    ],
+    "source_url": [
+      "https://news.postimees.ee/8062618/the-government-of-the-reform-party-estonia-200-and-the-social-democrats-concluded-a-new-coalition-agreement",
+      "https://news.postimees.ee/8097876/corporate-profit-tax-to-take-effect-in-estonia-from-2026",
+      "https://news.postimees.ee/8207646/reform-party-and-estonia-200-kicked-sde-out-from-the-government",
+      "https://repinski.ee/en/articles/estonia-tax-accounting-2026",
+      "https://www.palgakulu.ee/en/tulumaks/",
+      "https://viabaltica.fi/estonia-parliament-approves-2026-state-budget/"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-tax-hump",
+    "title": "Abolish the 'tax hump' with a flat €700 monthly basic exemption for everyone",
+    "description": "Michal's 2023 campaign page promised to 'flatten' the tax hump, the sliding basic exemption that took 'every third euro' of income between €1,200 and €2,100 a month, through a uniform €700 basic exemption. Presenting the July 2024 coalition agreement, he said the abolition would be postponed by one year (to 2026) to fit the budget; the May 2025 Reform–Estonia 200 agreement again promised it.",
+    "date_made": "2023",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.85,
+    "reasoning": "From 1 January 2026 the basic exemption is €700 a month (€8,400 a year) for everyone and no longer falls as income rises, according to payroll and accounting guidance that cites the Tax and Customs Board (whose own site could not be read for this research). The change came one year later than the 2025 date in the 2023 coalition agreement, a delay Michal announced himself in July 2024.",
+    "key_evidence": [
+      "2023 campaign page: abolish the tax hump with a €700 exemption for everyone",
+      "July 2024: Michal postpones the abolition by one year to fit the budget",
+      "Ministry of Finance proposed postponing the flat threshold to 2026 to keep the deficit within 3% (Via Baltica, citing ERR)",
+      "2026: flat €700 monthly basic exemption in force (palgakulu.ee; Repinski)"
+    ],
+    "source_url": [
+      "https://reform.ee/riigikogu-valimised-2023/haabersti-pohja-tallinn-ja-kristiine/kandidaat/kristen-michal/",
+      "https://news.postimees.ee/8062618/the-government-of-the-reform-party-estonia-200-and-the-social-democrats-concluded-a-new-coalition-agreement",
+      "https://viabaltica.fi/estonia-flat-tax-free-income-threshold-to-be-postponed/",
+      "https://news.postimees.ee/8256148/editorial-a-visionless-coalition-agreement",
+      "https://www.palgakulu.ee/en/tulumaks/",
+      "https://repinski.ee/en/articles/estonia-tax-accounting-2026"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-deficit",
+    "title": "Hold the budget deficit to 3% of GDP in 2025 and 2026, and reduce it in 2027",
+    "description": "The Reform–Social Democratic–Estonia 200 coalition agreement published in July 2024 pledged to cut the budget deficit to 3% of GDP in 2025 and 2026 and to reduce it further in 2027, through tax rises, cuts in public administration and subsidies, and privatisation.",
+    "date_made": "2024-07-19",
+    "category": "Public finances",
+    "status": "compromise",
+    "confidence_score": 0.6,
+    "reasoning": "The 2025 budget bill set the nominal deficit at 3% of GDP, and Statistics Estonia data cited by the National Audit Office put the 2025 general government deficit at 2% of GDP. The 2026 budget approved by the Riigikogu, however, plans a deficit of 4.5% of GDP after tax cuts, and the National Audit Office notes that even larger deficits are planned for the following years. The 2025 target was met, but the government's own 2026 plan exceeds the pledge.",
+    "key_evidence": [
+      "July 2024 coalition agreement: deficit at 3% of GDP in 2025 and 2026, lower in 2027 (Via Baltica, citing ERR)",
+      "2025 budget bill: nominal deficit 3% of GDP",
+      "2025 outcome: general government deficit 2% of GDP (Statistics Estonia, cited by the National Audit Office, 28 August 2026)",
+      "2026 budget: deficit 4.5% of GDP, debt 25.9% of GDP (Via Baltica, citing ERR)"
+    ],
+    "source_url": [
+      "https://viabaltica.fi/estonia-incoming-coalition-agrees-on-tax-hikes-budget-cuts/",
+      "https://news.postimees.ee/8103160/estonian-government-approves-2025-state-budget-bill",
+      "https://www.riigikontroll.ee/uudised/jatkuv-segadus-kaitseministeeriumi-vastutusalas-kasvatab-riigi-vara-kuritarvitamise-riski",
+      "https://viabaltica.fi/estonia-parliament-approves-2026-state-budget/"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-voting-rights",
+    "title": "Take away the local voting rights of Russian and Belarusian citizens before the 2025 municipal elections",
+    "description": "On a Postimees webcast in late 2024 Michal said the government would try to strip Russian and Belarusian citizens of the right to vote in local elections already before the 2025 municipal polls, by an urgent constitutional amendment if possible: 'the important thing is that it gets done'. In March 2025 he said the October 2025 elections should be the last in which non-citizens could vote.",
+    "date_made": "2024-11",
+    "category": "Constitution / elections",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "On 26 March 2025 the Riigikogu adopted, as a matter of urgency, a constitutional amendment by 93 votes to 7, revoking the local-election vote of all third-country nationals and, from the elections after 2025, of stateless residents. President Alar Karis promulgated it while warning of 'very serious consequences'. The October 2025 municipal elections were the first held without non-EU citizens voting. The measure went further than the pledge, covering all non-EU citizens.",
+    "key_evidence": [
+      "Michal (Postimees webcast): Russian and Belarusian citizens should not vote already in the next elections",
+      "26 March 2025: amendment adopted 93–7; stateless residents keep the vote only for 2025",
+      "President Karis promulgated the amendment",
+      "19 October 2025 municipal elections held without non-EU citizen voters"
+    ],
+    "source_url": [
+      "https://news.postimees.ee/8123926/estonian-prime-minister-russian-citizens-should-not-vote-already-in-next-elections",
+      "https://news.postimees.ee/8207646/reform-party-and-estonia-200-kicked-sde-out-from-the-government",
+      "https://estonianworld.com/security/third-country-nationals-lose-the-right-to-vote-in-estonian-local-elections/",
+      "https://www.baltictimes.com/estonian_president_promulgates_constitutional_amendment/",
+      "https://en.wikipedia.org/wiki/2025_Estonian_municipal_elections"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-cancel-profit-tax",
+    "title": "Drop the legislated corporate profit tax and keep personal income taxation 'as it is now'",
+    "description": "Announcing the expulsion of the Social Democrats from the government on 10 March 2025, Michal said several already legislated taxes would be cancelled, notably the taxation of corporate profits, and that personal income would not be taxed 'from the first euro': 'We will return to a simple income tax system, meaning that the taxation of individuals will remain as it is now.'",
+    "date_made": "2025-03-10",
+    "category": "Taxation",
+    "status": "kept",
+    "confidence_score": 0.75,
+    "reasoning": "According to 2026 tax guidance by a Tallinn accounting firm, citing the Ministry of Finance, the 2% security tax on personal income and company profits did not take effect and the planned rise of the personal and corporate income tax rate to 24% was cancelled, so the rate remains 22% in 2026; a payroll reference site gives the same rate. The 2026 budget passed by the Riigikogu foresees €780 million less tax revenue. Euronews reported in February 2026 that the rate had risen to 24%, which conflicts with these sources; the Tax and Customs Board's own pages could not be read for this research.",
+    "key_evidence": [
+      "10 March 2025: Michal announces the end of the corporate profit tax and of taxing individuals 'from the first euro'",
+      "2026: income tax rate 22%; security tax and 24% rate cancelled (Repinski, citing the Ministry of Finance)",
+      "2026 budget: tax burden falls from 36.6% to 35.2% of GDP"
+    ],
+    "source_url": [
+      "https://news.postimees.ee/8207646/reform-party-and-estonia-200-kicked-sde-out-from-the-government",
+      "https://repinski.ee/en/articles/estonia-tax-accounting-2026",
+      "https://www.palgakulu.ee/en/tulumaks/",
+      "https://viabaltica.fi/estonia-parliament-approves-2026-state-budget/"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-rail-baltica-2030",
+    "title": "Complete Rail Baltica by 2030",
+    "description": "After a meeting of the Baltic prime ministers in Riga in December 2025, Michal stressed that the Rail Baltica line from Tallinn to the Polish border 'must be completed by 2030'. In April 2026 the three prime ministers reaffirmed the 2030 deadline in Tallinn, where Michal said Estonia intended to finish its section by then.",
+    "date_made": "2025-12",
+    "category": "Transport / infrastructure",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "On 22 September 2026 the prime ministers of Estonia, Latvia and Lithuania approved a joint statement replacing the 2030 deadline with operation during the EU's 2028–2034 budget period, citing strained public finances and rising defence spending. Michal had argued the week before that finishing Estonia's section by 2030 was technically possible but would cost Estonian taxpayers more than slowing some sections to draw more EU money.",
+    "key_evidence": [
+      "December 2025: Michal says the railway must be completed by 2030 (Via Baltica, citing BNS)",
+      "April 2026: Baltic prime ministers reaffirm the 2030 deadline",
+      "22 September 2026: joint statement drops 2030; opening expected in 2028–2034"
+    ],
+    "source_url": [
+      "https://viabaltica.fi/baltic-pms-pledge-rail-baltica-to-be-built-on-time/",
+      "https://estonianworld.com/business/rail-baltica-delayed-again-as-baltic-states-seek-e10-billion-from-the-eu/"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-climate-law",
+    "title": "Pass a climate law before the March 2027 Riigikogu election",
+    "description": "In May 2026 Michal said he expected the Riigikogu to start debating the government's climate bill before the summer and to approve it in autumn 2026. The draft set emission cuts of 9% by 2030, 29% by 2035 and 51% by 2040 compared with 2022, and climate neutrality by 2050, without sector-by-sector targets.",
+    "date_made": "2026-05",
+    "category": "Climate / energy",
+    "status": "in_progress",
+    "confidence_score": 0.5,
+    "reasoning": "The coalition committed in May 2026 to pass the law before the elections, although several MPs from the coalition and the opposition had estimated there was not enough time. No report of the bill's final adoption was found as of 23 October 2026, and the Riigikogu's website could not be read for this research, so the stage of the bill is uncertain; the deadline (the March 2027 election) has not passed.",
+    "key_evidence": [
+      "May 2026: Michal expects approval in autumn 2026; Energy Minister Sutt expects Social Democratic support",
+      "Draft targets: -9% (2030), -29% (2035), -51% (2040) vs 2022; climate neutrality 2050",
+      "No adoption found as of 23 October 2026"
+    ],
+    "source_url": [
+      "https://viabaltica.fi/estonia-coalition-to-pass-climate-law-before-elections/"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-ukraine-aid",
+    "title": "Support Ukraine with military aid worth 0.25% of GDP every year",
+    "description": "The 2025 budget bill approved by Michal's government in September 2024 committed Estonia to continue supporting Ukraine with an amount equal to 0.25% of GDP, over €100 million a year, as far as possible through products of the Estonian defence industry.",
+    "date_made": "2024-09",
+    "category": "Foreign policy / Ukraine",
+    "status": "kept",
+    "confidence_score": 0.6,
+    "reasoning": "In a June 2026 interview Michal said Estonia had 'taken on an annual commitment to support Ukraine with 0.25 percent' and that the previous year's contribution had been 0.33% of GDP. This rests on the government's own figures; no independent tally was consulted for this research.",
+    "key_evidence": [
+      "2025 budget bill: 0.25% of GDP a year for Ukraine (over €100 million)",
+      "June 2026: Michal says the 2025 contribution reached 0.33% of GDP (Postimees interview)"
+    ],
+    "source_url": [
+      "https://news.postimees.ee/8103160/estonian-government-approves-2025-state-budget-bill",
+      "https://news.postimees.ee/8491539/interview-kristen-michal-on-political-rumors-our-greetings-to-the-postimees-editor"
+    ]
+  },
+  {
+    "id": "kristen-michal-promise-car-tax-families",
+    "title": "Make the car tax lighter for families with children",
+    "description": "The Reform–Estonia 200 coalition agreement of May 2025 promised to make the motor vehicle tax (introduced in 2025 under Kaja Kallas's government) 'more affordable' and to tie it to the number of under-age children in the household.",
+    "date_made": "2025-05",
+    "category": "Taxation / family policy",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "On 12 November 2025 the Riigikogu passed amendments to the Motor Vehicle Tax Act and the Traffic Act that reduce the tax by up to €100 per child under 18 for each taxation period, shorten the taxation period when a vehicle is deregistered and tax 8- and 9-seat minibuses at the lower N-category rate. The car tax itself was kept, as the agreement provided.",
+    "key_evidence": [
+      "May 2025 coalition agreement: car tax tied to the number of children (Postimees editorial)",
+      "12 November 2025: Riigikogu passes the reduction of up to €100 per child per taxation period"
+    ],
+    "source_url": [
+      "https://news.postimees.ee/8256148/editorial-a-visionless-coalition-agreement",
+      "https://www.baltictimes.com/riigikogu_reduces_car_tax_for_families_with_children/"
+    ]
+  }
+]

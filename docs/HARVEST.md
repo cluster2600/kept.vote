@@ -42,6 +42,7 @@ python harvest.py run                   # harvest the next 20 due pages now
 python harvest.py report [--slug S]     # sources with problems, per profile
 python harvest.py changes [--days 14]   # official pages whose content changed
 python harvest.py allow DOMAIN --reason "why this source is needed"
+python harvest.py portrait SLUG [...]   # portrait from Wikimedia Commons (--all, --page, --dry-run)
 ```
 
 - **After adding or editing a profile**, run `sync`. New URLs are harvested
@@ -117,6 +118,13 @@ generic patterns (`gov.xx`, `parliament.*`…). For each country:
 - **PDFs** (declarations, gazettes) are not rendered: the Worker fetches the
   file and fingerprints it (engine `direct`), so a replaced PDF still shows up
   in `changes`.
+- **Portraits** (`POST /image`): image files can't be rendered, so the Worker
+  fetches them directly under the same allowlist and robots.txt rules, following
+  at most 3 redirects and checking each one, JPEG, PNG or WebP only, up to 5 MB.
+  Nothing is stored. The license and author come from the Commons file page,
+  read through Kitesurf; see `portrait` in docs/PROFILE_FORMAT.md.
+- **Render timeout.** A Kitesurf render that takes longer than 60 s is recorded
+  as `timeout`, so a slow site can't hold requests and cron slots open.
 - **Kitesurf only.** There is no fallback to another browser or fetcher.
 
 ## Authentication

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "andrej-plenkovic-fin-2023-savings",
+    "year": 2023,
+    "type": "savings",
+    "label": "Savings declared in the declaration filed in early 2023",
+    "amount": "250,000 EUR",
+    "detail": "Index.hr reported that the new declaration raised his declared savings from 170,000 EUR to 250,000 EUR, the increase coming from an inheritance, and listed 461.90 EUR of inheritance and gift tax paid; tportal later described the 250,000 EUR as acquired from employment income and inheritance. Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "source_url": [
+      "https://www.index.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-stednja-mu-povecana-za-80000-eura/2437239.aspx",
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-fin-2024-salary",
+    "year": 2024,
+    "type": "income",
+    "label": "Monthly salary as Prime Minister (declaration filed in January 2024)",
+    "amount": "3,262.83 EUR net (4,646.46 EUR gross) per month",
+    "detail": "Up from 3,195.56 EUR net declared a year earlier, as reported by tportal, Dnevnik Nova TV and Nacional. Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://www.nacional.hr/objavljena-nova-plenkoviceva-imovinska-kartica-ima-nekoliko-nekretnina-i-veliku-ustedevinu/",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-fin-2024-savings",
+    "year": 2024,
+    "type": "savings",
+    "label": "Savings (declaration filed in January 2024)",
+    "amount": "220,000 EUR",
+    "detail": "30,000 EUR less than in the previous declaration; Dnevnik Nova TV reports that he invested 30,000 EUR in Croatian retail government bonds (see stocks_portfolio). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://www.nacional.hr/objavljena-nova-plenkoviceva-imovinska-kartica-ima-nekoliko-nekretnina-i-veliku-ustedevinu/",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-fin-2024-car",
+    "year": 2024,
+    "type": "movable_property",
+    "label": "Car: Volkswagen Passat (2011)",
+    "amount": "10,000 EUR",
+    "detail": "Declared as bought from employment income; unchanged from the previous declaration (tportal, Nacional). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://www.nacional.hr/objavljena-nova-plenkoviceva-imovinska-kartica-ima-nekoliko-nekretnina-i-veliku-ustedevinu/",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-fin-2026-salary",
+    "year": 2026,
+    "type": "income",
+    "label": "Monthly salary as Prime Minister (declaration published in early 2026)",
+    "amount": "about 5,738 EUR per month",
+    "detail": "Dnevnik Nova TV reports a monthly salary of 5,738 EUR, about 50 EUR more than in the previous year's declaration; the report does not say whether the figure is net or gross. Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "source_url": [
+      "https://dnevnik.hr/vijesti/hrvatska/ovo-je-nova-plenkoviceva-imovinska-kartica-poznato-za-koliko-su-mu-skocile-placa-i-stednja-ali-i-vrijednost-stana---960905.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-fin-2026-savings",
+    "year": 2026,
+    "type": "savings",
+    "label": "Savings (declaration published in early 2026)",
+    "amount": "250,000 EUR",
+    "detail": "20,000 EUR more than in the previous year's declaration, according to Dnevnik Nova TV. Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "source_url": [
+      "https://dnevnik.hr/vijesti/hrvatska/ovo-je-nova-plenkoviceva-imovinska-kartica-poznato-za-koliko-su-mu-skocile-placa-i-stednja-ali-i-vrijednost-stana---960905.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  }
+]

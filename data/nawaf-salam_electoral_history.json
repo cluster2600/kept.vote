@@ -1,0 +1,95 @@
+[
+  {
+    "id": "nawaf-salam-el-2017-icj",
+    "election": "2017 election of members of the International Court of Justice (UN General Assembly and Security Council)",
+    "date": "2017-11-09",
+    "role_sought": "Judge of the International Court of Justice (term 2018–2027)",
+    "result": "Elected",
+    "vote_share": "Absolute majority in both the General Assembly (97 votes required) and the Security Council (8 votes required), reached after five rounds of simultaneous voting",
+    "opponent": "",
+    "detail": "The only new judge elected that day, alongside the re-elected Ronny Abraham (France), Abdulqawi Ahmed Yusuf (Somalia) and Antônio Augusto Cançado Trindade (Brazil).",
+    "source_url": [
+      "https://news.un.org/en/story/2017/11/570322"
+    ]
+  },
+  {
+    "id": "nawaf-salam-el-2022-pm-consultations",
+    "election": "2022 binding parliamentary consultations for the designation of the Prime Minister",
+    "date": "2022-06-23",
+    "role_sought": "Prime Minister-designate",
+    "result": "Not designated",
+    "vote_share": "25 MPs named Salam; 46 named no one",
+    "opponent": "Najib Mikati (54 MPs)",
+    "detail": "After the May 2022 parliamentary election, caretaker Prime Minister Najib Mikati was designated; Salam's votes included 10 of the 13 'Forces of Change' MPs who emerged from the 2019 protest movement.",
+    "source_url": [
+      "https://lbcgroup.tv/news/lebanon-news/652347/najib-mikati-named-pm-designate/en",
+      "https://today.lorientlejour.com/article/1303544/premier-designate-selection-who-will-be-tasked-with-forming-lebanons-next-cabinet.html"
+    ]
+  },
+  {
+    "id": "nawaf-salam-el-2024-icj-president",
+    "election": "2024 election of the President of the International Court of Justice (by the judges)",
+    "date": "2024-02-06",
+    "role_sought": "President of the International Court of Justice (three-year term)",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "Elected by his fellow judges; vote counts are not published. He resigned from the Court on 14 January 2025, before the end of his term as President.",
+    "source_url": [
+      "https://icj-cij.org/node/203536"
+    ]
+  },
+  {
+    "id": "nawaf-salam-el-2025-pm-consultations",
+    "election": "2025 binding parliamentary consultations for the designation of the Prime Minister",
+    "date": "2025-01-13",
+    "role_sought": "Prime Minister-designate",
+    "result": "Designated",
+    "vote_share": "84 of 128 MPs (presidency count); 9 for Najib Mikati; 35 named no one",
+    "opponent": "Najib Mikati (caretaker Prime Minister)",
+    "detail": "Nominated by MPs of the Lebanese Forces, the Free Patriotic Movement, the Progressive Socialist Party, the 'Forces of Change' MPs and others; Hezbollah and Amal named no one, and Hezbollah said it was being excluded. Salam accepted the nomination on 14 January 2025 and resigned from the ICJ the same day.",
+    "source_url": [
+      "https://www.naharnet.com/stories/en/310356-nawaf-salam-named-pm-with-sweeping-84-votes-as-hezbollah-decries-exclusion",
+      "https://today.lorientlejour.com/article/1443357/nawaf-salam-accepts-nomination-as-lebanons-prime-minister-commits-to-rebuilding-and-reforms.html"
+    ]
+  },
+  {
+    "id": "nawaf-salam-el-2025-confidence",
+    "election": "Vote of confidence in the Salam government (Chamber of Deputies)",
+    "date": "2025-02-26",
+    "role_sought": "Parliamentary confidence for the government",
+    "result": "Won",
+    "vote_share": "95 of 128 MPs in favour, 12 against, 4 abstentions",
+    "opponent": "",
+    "detail": "Hezbollah's and Amal's blocs, the Lebanese Forces and the Kataeb voted in favour; the Free Patriotic Movement's 'Strong Lebanon' bloc voted against.",
+    "source_url": [
+      "https://naharnet.com/stories/en/311270-govt-wins-confidence-vote-with-support-of-95-mps-including-hezbollah"
+    ]
+  },
+  {
+    "id": "nawaf-salam-el-2025-confidence-renewed",
+    "election": "Confidence vote requested by the Free Patriotic Movement (Chamber of Deputies)",
+    "date": "2025-07",
+    "role_sought": "Parliamentary confidence for the government",
+    "result": "Won",
+    "vote_share": "69 in favour, 9 against (FPM), 4 abstentions",
+    "opponent": "",
+    "detail": "Vote proposed by FPM leader Gebran Bassil at a session devoted mainly to Hezbollah's weapons and Israeli strikes.",
+    "source_url": [
+      "https://www.naharnet.com/stories/en/314186-parliament-renews-confidence-in-salam-s-goverment"
+    ]
+  },
+  {
+    "id": "nawaf-salam-el-2026-confidence-renewed",
+    "election": "Confidence vote after a general policy debate (Chamber of Deputies)",
+    "date": "2026-09-16",
+    "role_sought": "Parliamentary confidence for the government",
+    "result": "Won",
+    "vote_share": "68 in favour, 12 against, 2 abstentions",
+    "opponent": "",
+    "detail": "Held after two days of debate; Hezbollah MPs walked out before the vote, the Free Patriotic Movement voted against and Amal voted in favour. The date is that of the Wednesday session reported by Naharnet on 17 September 2026.",
+    "source_url": [
+      "https://www.naharnet.com/stories/en/322533-parliament-renews-confidence-in-salam-s-government-with-68-votes"
+    ]
+  }
+]

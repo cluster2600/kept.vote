@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kyriakos-mitsotakis-leg-executive-state-2019",
+    "law_name": "Law 4622/2019 'Executive State: organisation, operation and transparency of the Government' (Επιτελικό Κράτος)",
+    "year": 2019,
+    "area": "Public administration / intelligence",
+    "description": "The first bill of his first government, passed in August 2019. It created the Presidency of the Government as an office under the Prime Minister, merging six secretariats, placed the National Intelligence Service (EYP) under it, introduced non-political (service) secretaries-general in ministries and transferred the public-administration inspection bodies to a new independent National Transparency Authority.",
+    "significance": "Placing EYP under the Prime Minister made him politically accountable for the service in the 2022 wiretapping scandal; the European Parliament asked Greece in 2024 to reverse that change.",
+    "source_url": [
+      "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82",
+      "https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C_%CE%9A%CF%81%CE%AC%CF%84%CE%BF%CF%82_(%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1)",
+      "https://www.euronews.com/my-europe/2022/08/09/greek-pm-did-not-know-about-opposition-politician-wiretap",
+      "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1775100"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-leg-postal-vote-2024",
+    "law_name": "Law 5083/2024 on postal voting",
+    "year": 2024,
+    "area": "Elections",
+    "description": "Introduced postal voting in Greece for the first time, for European Parliament elections and national referendums; it was first used in the European election of June 2024, notably by Greeks abroad registered on the electoral rolls. It does not apply when such votes coincide with parliamentary elections, which remain governed by Law 4648/2019 (International IDEA).",
+    "significance": "Allowed members of the Greek diaspora on the electoral rolls to vote without travelling to a polling station (Neos Kosmos); parliamentary elections are not covered.",
+    "source_url": [
+      "https://www.idea.int/node/155273",
+      "https://neoskosmos.com/en/2023/12/01/news/greece/postal-vote/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-leg-civil-marriage-equality-2024",
+    "law_name": "Law 5089/2024 on equality in civil marriage (ισότητα στον πολιτικό γάμο)",
+    "year": 2024,
+    "area": "Civil rights / family law",
+    "description": "Passed on 15 February 2024 by 176 votes to 76 and published in the Government Gazette (A' 27) on 16 February 2024. It amends the Civil Code so that civil marriage can be contracted by two people of the same sex and allows same-sex married couples to adopt.",
+    "significance": "Made Greece the first Orthodox-majority country to legalise same-sex marriage; Mitsotakis championed it against opposition from the Church and part of ND.",
+    "source_url": [
+      "https://www.lawspot.gr/nomika-nea/o-n-5089-2024-gia-tin-isotita-ston-politiko-gamo/",
+      "https://www.aljazeera.com/news/2024/2/16/greece-first-orthodox-christian-country-to-legalise-same-sex-marriage"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-leg-non-state-universities-2024",
+    "law_name": "Law on the recognition of non-state, non-profit branches of foreign universities (March 2024)",
+    "year": 2024,
+    "area": "Education",
+    "description": "Passed on 8 March 2024 by 159 votes to 129, it allows non-state, non-profit affiliates of reputable foreign universities to operate in Greece and award recognised degrees, relying on a 2020 judgment of the Court of Justice of the EU on the freedom of establishment of foreign universities.",
+    "significance": "Ended the state monopoly on recognised university degrees without amending Article 16 of the Constitution, which the law 'essentially bypasses' according to To Vima; in 2026 the ND majority proposed revising Article 16 itself.",
+    "source_url": [
+      "https://www.tovima.com/politics/greece-landmark-bill-allowing-non-state-unis-passed-by-parliament-majority/"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-leg-asylum-suspension-2025",
+    "law_name": "Legislative amendment suspending asylum applications for sea arrivals from North Africa (July 2025)",
+    "year": 2025,
+    "area": "Migration",
+    "description": "Announced by Mitsotakis in parliament on 9 July 2025 and adopted by 177 votes to 74 on 11 July, it suspended for an initial three months the examination of asylum applications by people arriving by sea from North Africa, after a rise in arrivals from Libya on Crete and Gavdos.",
+    "significance": "Criticised by the UNHCR and the Council of Europe Commissioner for Human Rights as potentially incompatible with international refugee law.",
+    "source_url": [
+      "https://www.aljazeera.com/news/2025/7/9/greece-to-halt-migrant-asylum-processing-from-north-africa",
+      "https://www.euronews.com/2025/07/11/greek-parliament-passes-suspension-of-asylum-claims-for-african-migrants-despite-criticism"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-leg-income-tax-reform-2026",
+    "law_name": "Income tax reform in force from 1 January 2026",
+    "year": 2025,
+    "area": "Taxation",
+    "description": "Announced at the September 2025 Thessaloniki International Fair: most income-tax rates cut by two percentage points, rates reduced by number of children, zero tax for workers up to 25 earning up to €20,000 and a 9% rate for those aged 25–30, a new 25% band for rental income between €12,000 and €24,000, and lower property tax (ENFIA) in small settlements.",
+    "significance": "In force since 1 January 2026; Euronews describes the measures as aimed at families and young workers.",
+    "source_url": [
+      "https://www.euronews.com/2026/01/06/greece-introduces-2026-tax-cuts-aimed-at-families-and-young-workers"
+    ]
+  },
+  {
+    "id": "kyriakos-mitsotakis-leg-constitutional-revision-2026",
+    "law_name": "Proposal for the revision of the Constitution (2026)",
+    "year": 2026,
+    "area": "Constitution",
+    "description": "Proposal by the ND majority to revise 33 articles, including Article 16 (allowing public or private university-level institutions under state supervision), Article 86 (investigations of ministers by an appeals prosecutor instead of parliamentary preliminary committees), a single six-year presidential term (Article 30) and the abolition of dissolution of parliament over a 'national issue'. It passed two votes of the current parliament in July and September 2026 with 158–161 votes, short of 180.",
+    "significance": "Under Article 110 the parliament elected in 2027 must adopt the revisions by at least 180 votes; Mitsotakis has said ND's campaign will be built partly on the proposals.",
+    "source_url": [
+      "https://en.parapolitika.gr/politics/260067/greeces-12-key-constitutional-reforms-heading-to-parliament-vote/",
+      "https://en.parapolitika.gr/politics/261124/greeces-constitutional-revision-consensus-falls-short-as-parliament-votes/",
+      "https://en.parapolitika.gr/politics/291011/greece-constitutional-revision-falls-short-of-180-votes-what-happens-next/"
+    ]
+  }
+]

@@ -26,6 +26,7 @@ OFFICES = {
     "mayor",
     "regional_executive",
     "party_leader",
+    "judge",
     "other",
 }
 
