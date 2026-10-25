@@ -475,3 +475,38 @@ remains a lead only.
 Validation: current origin/main fetched, post-merge diff reviewed; **17 focused
 tests passed**; draft #13 confirmed OPEN with correct head 1931b8e before this
 log-only commit. No application changes or third-party messages.
+
+## Resumed pass 11 (25 October 2026)
+
+**11:19:54–11:21:00 UTC**, about one minute of source research/validation before
+subsequent administration; no scheduled intervals counted.
+
+Queries included `"Yann-Eric Hofmann" "conseil de fondation"`,
+`"Sonja Koch" "Vorstand" Bundesrichterin`,
+`"Christoph Hurni" "Stiftungsrat" Bundesrichter`,
+`"Morges" "13.07.2020" Zwangsmassnahmengericht`,
+`site.justice.be.ch Zwangsmassnahmengericht Entscheide Publikation`,
+`site.baselland.ch Strafvollzug bedingte Entlassung zuständig Sicherheitsdirektion`,
+`site.bs.ch Strafvollzug Ausgänge Bewilligung SMV`, and
+`site.fr.ch financement partis comptes 2020 2021 contributions élus`.
+
+- Followed Fribourg's official finance transparency page to its publications
+  index. Archived the index with hash/receipt. It states that the displayed
+  elected-person income disclosures are removed/destroyed one year after
+  publication; it is not a permanent historical payment ledger. Those income
+  declarations are also not party-payment receipts. No Hofmann amount is
+  established here; did not download unrelated people's income disclosures or
+  attempt to recover intentionally removed disclosures.
+- Official Basel-Landschaft search output describes the enforcement unit's
+  general power to decide conditional release, but direct curl returned **403**.
+  No bypass attempted or snapshot invented. General current competence does not
+  establish which authority signed this person's September 2021 document.
+- Bern's official published-decision search remains a potential route; no exact
+  Morges original order located from the fresh date-language query.
+- Corporate/association namesakes (including German Sonja Koch board records)
+  were not joined to the judge. No target original order, historical named
+  contribution or verified company/foundation seat added.
+
+Validation: official index content/retention statement, archived hash and all
+research JSON/source hashes checked; no application or graph changes. Four
+original-order drafts remain unsent. No merge, publication, messages or requests.

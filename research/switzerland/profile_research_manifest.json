@@ -467,6 +467,14 @@
       "bytes": 630,
       "retrieved_at_utc": "2026-10-25T11:06:36.763424+00:00",
       "source_status": "primary publisher; rendered visible-text snapshot through browser; not server HTML"
+    },
+    {
+      "file": "sources/fribourg-finance-publications-2026-10-25.html",
+      "url": "https://www.fr.ch/etat-et-droit/votations-elections-et-droits-politiques/financement-de-la-politique/publications-des-informations-sur-le-financement-de-la-politique",
+      "sha256": "1fff2717330d10694dd0c0dc03b4f8ff0c694c65e54c342154b8905f55e80550",
+      "bytes": 110373,
+      "retrieved_at_utc": "2026-10-25T11:21:21.768523+00:00",
+      "source_status": "official publisher; finance-publication index and retention policy, no individual target payment established"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
