@@ -717,3 +717,31 @@ Queries: `site.bger.ch "Nebenbeschäftigungen" "2021" Hurni`,
 
 Validation: cross-checked existing profile before adding duplicate observation;
 `git diff --check` passed. No application changes, requests, messages or publication.
+
+## Resumed pass 18 (25 October 2026)
+
+**13:04:56–13:05:49 UTC**, bounded source research and archival; scheduled waiting excluded.
+
+Queries: `"Morges" "13 juillet 2020" tribunal mesures contrainte ordonnance`,
+`"Nasenweg" "Verfügung" "2022" SMV`, `"Hofmann" "Mandatsbeiträge" 2022`,
+`"Hurni" "Ursula Wirz" Bundesrichter`,
+`"Ursula Wirz-Stiftung" Jahresbericht Hurni`,
+`"Yann-Eric Hofmann" "cotisation" parti`,
+`"Sonja Koch" "Mandatsabgaben" SVP`, `"Christoph Hurni" "Mandatsabgaben"`.
+
+- Archived the foundation's own current organisation page:
+  https://www.ursulawirzstiftung.ch/organisation
+  It lists six board members (Schäublin, Engler, Kauter, Borer Blindenbacher,
+  Arn, Bolli), without Hurni. This is consistent with the already archived
+  register departure, but cannot identify the former member as the judge or
+  establish exact historical tenure. No current/historical judge seat upgraded.
+- Downloads page returned a firewall CAPTCHA through the web reader; did not
+  bypass it. No historical annual report recovered from it.
+- Release-order search again surfaced SK.2022.35's later quotation, not the
+  original Bern order. F-3601/2021 is an unrelated immigration proceeding
+  mentioning a Morges train control on the same date; excluded.
+- No new historical individual party payment verified.
+
+Validation: source HTML visibly contains foundation roster; manifest SHA256
+checked and JSON parsed; git diff whitespace check passed. No graph or
+application changes, messages, requests, merge or website publication.

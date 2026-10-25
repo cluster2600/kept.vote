@@ -531,6 +531,14 @@
       "bytes": 197825,
       "retrieved_at_utc": "2026-10-25T12:22:02.163893+00:00",
       "source_status": "official SHAB PDF retrieved through legacy publication link"
+    },
+    {
+      "file": "sources/ursula-wirz-organisation-2026-10-25.html",
+      "url": "https://www.ursulawirzstiftung.ch/organisation",
+      "sha256": "7c1bce6e3b29b46e70a85c2259ac478bc1f57a543be054fbe8dac89aaaa0b2b2",
+      "bytes": 15290,
+      "retrieved_at_utc": "2026-10-25T13:05:49.304969+00:00",
+      "source_status": "foundation own public organisation page; current roster only, not historical judge identity corroboration"
     }
   ],
   "timing": "Initial live research began 2026-10-22T22:06:50Z. Timestamps measure wall time, not continuous research hours.",
