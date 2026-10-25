@@ -1,5 +1,7 @@
 import { type ElectoralHistoryItem } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import { fmt } from "@/lib/i18n/format";
+import type { I18nProps } from "@/lib/i18n/props";
 
 /** Treat "n/a"-style placeholders as empty so context entries don't show "n/a". */
 function clean(v: string | null): string | null {
@@ -10,9 +12,9 @@ function clean(v: string | null): string | null {
 /** Electoral results list — result + vote share emphasised. */
 export default function ElectoralHistory({
   items,
-}: {
-  items: ElectoralHistoryItem[];
-}) {
+  dict,
+  lang,
+}: { items: ElectoralHistoryItem[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ul className="space-y-3">
@@ -24,14 +26,14 @@ export default function ElectoralHistory({
         return (
           <li
             key={item.id}
-            className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm"
+            className="rounded-xl border border-slate-200 bg-white p-5 shadow-xs"
           >
             <div className="flex flex-wrap items-start justify-between gap-3">
               <div className="min-w-0">
                 <h3 className="font-semibold text-slate-900">{item.election}</h3>
                 <p className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-500">
                   {role && (
-                    <span className="rounded bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
+                    <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
                       {role}
                     </span>
                   )}
@@ -48,14 +50,16 @@ export default function ElectoralHistory({
               )}
             </div>
             {opponent && (
-              <p className="mt-2 text-xs text-slate-500">vs. {opponent}</p>
+              <p className="mt-2 text-xs text-slate-500">
+                {fmt(dict.electoral.versus, { opponent })}
+              </p>
             )}
             {item.detail && (
               <p className="mt-2 text-sm leading-relaxed text-slate-600">
                 {item.detail}
               </p>
             )}
-            <SourceLinks urls={item.source_urls} />
+            <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
           </li>
         );
       })}

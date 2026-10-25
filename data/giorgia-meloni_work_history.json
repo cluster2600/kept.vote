@@ -1,0 +1,112 @@
+[
+  {
+    "id": "giorgia-meloni-azione-studentesca",
+    "role": "National leader (responsabile nazionale), Azione Studentesca",
+    "organization": "Azione Studentesca (student movement of Alleanza Nazionale)",
+    "start_date": "1996",
+    "end_date": null,
+    "description": "Joined the Fronte della Gioventù, the youth organisation of the Movimento Sociale Italiano (MSI), in 1992 at the age of 15. In 1996 she became national leader of Azione Studentesca, the student movement of Alleanza Nazionale (AN), representing it at the student associations' forum of the Ministry of Education. End date not documented in the sources consulted.",
+    "category": "party",
+    "source_url": ["https://it.wikipedia.org/wiki/Giorgia_Meloni", "https://en.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-provincia-roma",
+    "role": "Provincial councillor",
+    "organization": "Province of Rome (Provincia di Roma), Alleanza Nazionale",
+    "start_date": "1998",
+    "end_date": "2002",
+    "description": "Elected councillor of the Province of Rome for Alleanza Nazionale in 1998 after winning AN's primary for Rome's XI municipio; served until 2002. In 1998 she also launched Atreju, the annual political festival of the right-wing youth movements.",
+    "category": "elected_local",
+    "source_url": ["https://www.comune.roma.it/web-resources/cms/documents/Meloni_2016_cvp.pdf", "https://it.wikipedia.org/wiki/Giorgia_Meloni", "https://www.ilpost.it/2023/12/16/atreju-meloni/"]
+  },
+  {
+    "id": "giorgia-meloni-azione-giovani",
+    "role": "President, Azione Giovani",
+    "organization": "Azione Giovani (youth organisation of Alleanza Nazionale)",
+    "start_date": "2004",
+    "end_date": "2009",
+    "description": "National executive of Azione Giovani from 2000 and coordinator of its regency committee from February 2001; elected president at the 2004 Viterbo congress, the first woman to lead a right-wing youth organisation in Italy. She kept the post as minister until AN's youth wing merged into the Popolo della Libertà's Giovane Italia in 2009.",
+    "category": "party",
+    "source_url": ["https://it.wikipedia.org/wiki/Giorgia_Meloni", "https://en.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-journalist",
+    "role": "Journalist",
+    "organization": "Secolo d'Italia (AN daily) and freelance",
+    "start_date": "2004",
+    "end_date": "2006",
+    "description": "Worked at the party daily Secolo d'Italia between 2004 and 2006; she has been registered as a professional journalist (giornalista professionista) since 2006, the profession listed in her Chamber of Deputies record.",
+    "category": "private_sector",
+    "source_url": ["https://storia.camera.it/deputato/giorgia-meloni-19770115", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-deputy",
+    "role": "Member of the Chamber of Deputies (deputata)",
+    "organization": "Camera dei deputati",
+    "start_date": "2006-04-28",
+    "end_date": null,
+    "description": "Deputy without interruption since the XV legislature: Lazio 1 (AN, 2006), Lazio 2 (PdL, 2008), Lombardia 3 (FdI, 2013, when she became leader of the FdI group), the Latina single-member constituency (2018) and the L'Aquila single-member constituency (2022, XIX legislature).",
+    "category": "legislature",
+    "source_url": ["https://storia.camera.it/deputato/giorgia-meloni-19770115", "https://www.camera.it/leg19/29?tipoAttivita=&tipoVisAtt=&tipoPersona=&shadow_deputato=302103&idLegislatura=19"]
+  },
+  {
+    "id": "giorgia-meloni-vice-president-chamber",
+    "role": "Vice-President of the Chamber of Deputies",
+    "organization": "Camera dei deputati (Ufficio di Presidenza, XV legislature)",
+    "start_date": "2006-05-04",
+    "end_date": "2008-04-28",
+    "description": "One of the four vice-presidents of the Chamber under President Fausto Bertinotti, elected for Alleanza Nazionale at the age of 29.",
+    "category": "legislature",
+    "source_url": ["https://storia.camera.it/organi/ufficio-presidenza-15-1"]
+  },
+  {
+    "id": "giorgia-meloni-minister-youth",
+    "role": "Minister for Youth (Ministro per la gioventù, without portfolio)",
+    "organization": "Government of Italy (fourth Berlusconi government)",
+    "start_date": "2008-05-08",
+    "end_date": "2011-11-16",
+    "description": "Appointed at 31, the youngest minister in the history of the Italian Republic, and served until the Berlusconi government resigned and was replaced by the Monti government in November 2011.",
+    "category": "government",
+    "source_url": ["https://storia.camera.it/deputato/giorgia-meloni-19770115", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-giovane-italia",
+    "role": "President, Giovane Italia",
+    "organization": "Giovane Italia (youth organisation of the Popolo della Libertà)",
+    "start_date": "2009",
+    "end_date": "2012-06-15",
+    "description": "Led the unified youth section of the Popolo della Libertà (PdL) after the merger of Forza Italia and AN, resigning on 15 June 2012.",
+    "category": "party",
+    "source_url": ["https://it.wikipedia.org/wiki/Giorgia_Meloni", "https://en.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-fdi-president",
+    "role": "Co-founder (2012) and President of Fratelli d'Italia",
+    "organization": "Fratelli d'Italia (FdI)",
+    "start_date": "2014-03-08",
+    "end_date": null,
+    "description": "Left the PdL at the end of 2012 after Silvio Berlusconi decided not to hold primaries, and co-founded Fratelli d'Italia with Ignazio La Russa and Guido Crosetto in December 2012. President of the party since 8 March 2014; she led it from 1.96% (2013) to 4.35% (2018) and about 26% (2022) in general elections.",
+    "category": "party",
+    "source_url": ["https://library.fes.de/pdf-files/bueros/rom/19659.pdf", "https://it.wikipedia.org/wiki/Giorgia_Meloni"]
+  },
+  {
+    "id": "giorgia-meloni-ecr-party-president",
+    "role": "President of the European Conservatives and Reformists Party",
+    "organization": "European Conservatives and Reformists Party (ECR Party)",
+    "start_date": "2020-09-29",
+    "end_date": "2025-01-13",
+    "description": "Elected president of the European party of the ECR family in September 2020; succeeded in January 2025 by former Polish prime minister Mateusz Morawiecki.",
+    "category": "party",
+    "source_url": ["https://www.corriere.it/politica/20_settembre_29/giorgia-meloni-erc-party-2dfa49f8-01c0-11eb-af0b-6e1669518b1a.shtml", "https://www.euractiv.com/section/politics/news/former-polish-leader-morawiecki-elected-ecr-party-leader/", "https://www.ecrparty.eu/about/"]
+  },
+  {
+    "id": "giorgia-meloni-prime-minister",
+    "role": "President of the Council of Ministers (Prime Minister)",
+    "organization": "Government of Italy (Meloni government)",
+    "start_date": "2022-10-22",
+    "end_date": null,
+    "description": "Received the mandate from President Sergio Mattarella on 21 October 2022 and was sworn in on 22 October 2022 at the head of a coalition of FdI, Lega, Forza Italia and Noi Moderati, the first government in Italy's history led by a woman. On 31 August 2026 it became the longest-serving government of the Italian Republic, overtaking the second Berlusconi government. In office as of October 2026, with the next general election due in 2027.",
+    "category": "government",
+    "source_url": ["https://www.governo.it/it/i-governi-dal-1943-ad-oggi/governo-meloni/20727", "https://pagellapolitica.it/articoli/governo-italiano-piu-longevo-fact-checking"]
+  }
+]

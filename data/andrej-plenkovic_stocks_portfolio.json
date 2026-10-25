@@ -1,0 +1,44 @@
+[
+  {
+    "id": "andrej-plenkovic-st-retail-bonds",
+    "holding": "Croatian retail government bonds (narodne obveznice)",
+    "type": "government bonds",
+    "value": "30,000 EUR",
+    "as_of": "2024-01",
+    "detail": "First listed in the declaration filed in January 2024 (tportal, Dnevnik Nova TV). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-st-treasury-bills",
+    "holding": "Croatian treasury bills (trezorski zapisi)",
+    "type": "government bills",
+    "value": "5,000 EUR",
+    "as_of": "2024-01",
+    "detail": "Listed in the declaration filed in January 2024 (tportal, Dnevnik Nova TV). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  },
+  {
+    "id": "andrej-plenkovic-st-ht-shares",
+    "holding": "69 shares of Hrvatski Telekom (HT)",
+    "type": "listed shares",
+    "value": "13.27 EUR per share (about 915.63 EUR in total)",
+    "as_of": "2024-01",
+    "detail": "Listed in the declaration filed in January 2024 (tportal, Dnevnik Nova TV). Croatian officials file asset declarations (imovinske kartice) with the Commission for the Resolution of Conflicts of Interest, which publishes them in its register of officials on sukobinteresa.hr; the register's individual pages are excluded by the site's robots.txt and could not be read by the harvest, so the figures are taken from established media that reported the published declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://www.tportal.hr/vijesti/clanak/plenkovic-predao-novu-imovinsku-karticu-evo-sto-se-promijenilo-u-godinu-dana-foto-20240226",
+      "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-objavio-novu-imovinsku-karticu---830653.html",
+      "https://www.sukobinteresa.hr/hr/registar-duznosnika"
+    ]
+  }
+]

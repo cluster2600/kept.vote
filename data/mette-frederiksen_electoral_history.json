@@ -1,0 +1,119 @@
+[
+  {
+    "id": "mette-frederiksen-el-2001",
+    "election": "2001 Folketing election",
+    "date": "2001-11-20",
+    "role_sought": "Member of the Folketing, Social Democrats, Københavns Amtskreds",
+    "result": "Elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First election to parliament, at 24. Nationally the Social Democrats lost first place to Venstre, and Anders Fogh Rasmussen became prime minister.",
+    "source_url": [
+      "https://www.ft.dk/medlemmer/mf/m/mette-frederiksen",
+      "https://en.wikipedia.org/wiki/Mette_Frederiksen"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-el-2005",
+    "election": "2005 Folketing election",
+    "date": "2005-02-08",
+    "role_sought": "Member of the Folketing, Social Democrats, Københavns Amtskreds",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "The Social Democrats remained in opposition; she became vice-chair of the party's parliamentary group.",
+    "source_url": [
+      "https://www.ft.dk/medlemmer/mf/m/mette-frederiksen"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-el-2007",
+    "election": "2007 Folketing election",
+    "date": "2007-11-13",
+    "role_sought": "Member of the Folketing, Social Democrats, Københavns Omegns Storkreds",
+    "result": "Re-elected",
+    "vote_share": "",
+    "opponent": "",
+    "detail": "First election after the 2007 constituency reform. Wikipedia gives 27,077 personal votes, the seventh-highest total in the country; Statistics Denmark's online results archive starts with the 2011 election, so this figure was not checked against it.",
+    "source_url": [
+      "https://www.ft.dk/medlemmer/mf/m/mette-frederiksen",
+      "https://en.wikipedia.org/wiki/Mette_Frederiksen"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-el-2011",
+    "election": "2011 Folketing election",
+    "date": "2011-09-15",
+    "role_sought": "Member of the Folketing, Social Democrats, Københavns Omegns Storkreds",
+    "result": "Re-elected",
+    "vote_share": "21,847 personal votes (36,783 including party votes credited to her); Social Democrats nationally 879,615 votes (24.8%), 44 seats",
+    "opponent": "",
+    "detail": "The red bloc won a majority and Helle Thorning-Schmidt formed a Social Democrat-led government, in which Frederiksen became Minister for Employment.",
+    "source_url": [
+      "https://www.dst.dk/valg/Valg1204271/valgopg/valgopgStor11.htm",
+      "https://www.dst.dk/valg/Valg1204271/valgopg/valgopgHL.htm"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-el-2015",
+    "election": "2015 Folketing election",
+    "date": "2015-06-18",
+    "role_sought": "Member of the Folketing, Social Democrats, Københavns Omegns Storkreds",
+    "result": "Re-elected",
+    "vote_share": "24,486 personal votes (42,676 including party votes credited to her); Social Democrats nationally 924,940 votes (26.3%), 47 seats",
+    "opponent": "",
+    "detail": "The Social Democrats became the largest party but the blue bloc won a majority; Thorning-Schmidt resigned as party leader and Frederiksen succeeded her on 28 June 2015.",
+    "source_url": [
+      "https://www.dst.dk/valg/Valg1487635/valgopg/valgopgStor11.htm",
+      "https://www.dst.dk/valg/Valg1487635/valgopg/valgopgHL.htm",
+      "https://www.ft.dk/medlemmer/mf/m/mette-frederiksen"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-el-2019",
+    "election": "2019 Folketing election",
+    "date": "2019-06-05",
+    "role_sought": "Member of the Folketing and prime-ministerial candidate, Social Democrats, Nordjyllands Storkreds",
+    "result": "Re-elected; became Prime Minister",
+    "vote_share": "43,489 personal votes (55,935 including party votes credited to her); Social Democrats nationally 914,882 votes (25.9%), 48 seats",
+    "opponent": "Lars Løkke Rasmussen (Venstre), outgoing Prime Minister",
+    "detail": "The red bloc won a majority; after three weeks of talks she formed a Social Democratic minority government on 27 June 2019.",
+    "source_url": [
+      "https://www.dst.dk/valg/Valg1684447/valgopg/valgopgStor19.htm",
+      "https://www.dst.dk/valg/Valg1684447/valgopg/valgopgHL.htm",
+      "https://www.politico.eu/article/mette-frederiksen-social-democrats-form-government-in-denmark/"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-el-2022",
+    "election": "2022 Folketing election",
+    "date": "2022-11-01",
+    "role_sought": "Member of the Folketing and prime-ministerial candidate, Social Democrats, Nordjyllands Storkreds",
+    "result": "Re-elected; re-appointed Prime Minister",
+    "vote_share": "60,837 personal votes; Social Democrats nationally 971,995 votes (27.5%), 50 seats",
+    "opponent": "",
+    "detail": "Snap election called on 5 October 2022 after the Social Liberals demanded one following the Mink Commission report. The red bloc kept a one-seat majority, but she resigned as promised to seek a government across the centre and formed the SVM coalition with Venstre and the Moderates on 15 December 2022.",
+    "source_url": [
+      "https://www.dst.dk/valg/Valg1968094/valgopg/valgopgStor19.htm",
+      "https://www.dst.dk/valg/Valg1968094/valgopg/valgopgHL.htm",
+      "https://www.dr.dk/nyheder/politik/mette-frederiksen-udskriver-folketingsvalg-afholdes-1-november",
+      "https://en.wikipedia.org/wiki/Mette_Frederiksen"
+    ]
+  },
+  {
+    "id": "mette-frederiksen-el-2026",
+    "election": "2026 Folketing election",
+    "date": "2026-03-24",
+    "role_sought": "Member of the Folketing and prime-ministerial candidate, Social Democrats, Nordjyllands Storkreds",
+    "result": "Re-elected; re-appointed Prime Minister on 3 June 2026",
+    "vote_share": "41,721 personal votes; Social Democrats nationally 779,252 votes (21.8%), 38 seats (in Nordjyllands Storkreds 27.8%)",
+    "opponent": "Troels Lund Poulsen (Venstre), blue-bloc candidate for prime minister",
+    "detail": "Snap election called on 26 February 2026. The Social Democrats stayed the largest party but had their weakest result since 1903; neither bloc won a majority, and the Moderates held the balance. Turnout was 83.99%. The king first tasked Frederiksen with leading negotiations (25 March), then Troels Lund Poulsen (8 May), whose talks failed, and again Frederiksen (23 May); she announced a four-party government on 1 June 2026.",
+    "source_url": [
+      "https://www.dst.dk/valg/Valg2546527/valgopg/valgopgStor19.htm",
+      "https://www.dst.dk/valg/Valg2546527/valgopg/valgopgHL.htm",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10847/",
+      "https://en.wikipedia.org/wiki/2026_Danish_general_election"
+    ]
+  }
+]

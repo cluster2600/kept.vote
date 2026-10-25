@@ -1,0 +1,215 @@
+[
+  {
+    "id": "micheal-martin-el-1985-local",
+    "election": "1985 Cork Corporation (city council) election",
+    "date": "1985-06-20",
+    "role_sought": "Councillor, Cork South-Central local electoral area, Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "788 first-preference votes; elected on the final count with 1,167",
+    "opponent": "",
+    "detail": "First election to public office.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1985_Cork_City_Council_election",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-1987",
+    "election": "1987 general election",
+    "date": "1987-02-17",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil",
+    "result": "Not elected",
+    "vote_share": "3,619 first-preference votes (6.4%); eliminated on count 6 of 10",
+    "opponent": "",
+    "detail": "One of four Fianna Fáil candidates in the constituency; he polled the fewest first preferences of the four.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-1989",
+    "election": "1989 general election",
+    "date": "1989-06-15",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "6,564 first-preference votes (12.2%); elected on count 7 of 7",
+    "opponent": "",
+    "detail": "First election to the Dáil, at the snap election called by Charles Haughey.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-1991-local",
+    "election": "1991 Cork Corporation (city council) election",
+    "date": "1991-06-27",
+    "role_sought": "Councillor, Cork South-Central local electoral area, Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "1,746 first-preference votes (24.2%); elected on the first count",
+    "opponent": "",
+    "detail": "Re-elected while a sitting TD (the dual mandate was then allowed).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/1991_Cork_City_Council_election"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-1992",
+    "election": "1992 general election",
+    "date": "1992-11-25",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "7,939 first-preference votes (14.8%); elected on count 11 of 15",
+    "opponent": "",
+    "detail": "",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-1997",
+    "election": "1997 general election",
+    "date": "1997-06-06",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "9,652 first-preference votes (17.5%); elected on the first count",
+    "opponent": "",
+    "detail": "Fianna Fáil returned to government and he entered the cabinet.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2002",
+    "election": "2002 general election",
+    "date": "2002-05-17",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "14,742 first-preference votes (26.7%); elected on the first count",
+    "opponent": "",
+    "detail": "His highest share of the vote in the constituency.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2007",
+    "election": "2007 general election",
+    "date": "2007-05-24",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "11,226 first-preference votes (19.0%); elected on the first count",
+    "opponent": "",
+    "detail": "",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2011-leadership",
+    "election": "2011 Fianna Fáil leadership election (parliamentary party)",
+    "date": "2011-01-26",
+    "role_sought": "Leader of Fianna Fáil",
+    "result": "Elected",
+    "vote_share": "33 first-preference votes; 50 votes after transfers",
+    "opponent": "Éamon Ó Cuív, Brian Lenihan, Mary Hanafin",
+    "detail": "Proposed by Dara Calleary and seconded by Áine Brady; Hanafin and Lenihan were eliminated and their votes transferred.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2011",
+    "election": "2011 general election",
+    "date": "2011-02-25",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil; party leader",
+    "result": "Elected",
+    "vote_share": "10,715 first-preference votes (16.7%); elected on the first count",
+    "opponent": "",
+    "detail": "Nationally Fianna Fáil lost 57 seats and fell to 20, with about 17.4% of the vote, its worst result; Martin became Leader of the Opposition.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2016",
+    "election": "2016 general election",
+    "date": "2016-02-26",
+    "role_sought": "TD for Cork South-Central (4 seats), Fianna Fáil; party leader",
+    "result": "Elected",
+    "vote_share": "11,346 first-preference votes (20.4%); elected on the first count",
+    "opponent": "",
+    "detail": "Fianna Fáil recovered to 44 seats; he was nominated for Taoiseach in the new Dáil but no nominee obtained a majority, and Fianna Fáil then facilitated a Fine Gael minority government.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://en.wikipedia.org/wiki/Miche%C3%A1l_Martin",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2020",
+    "election": "2020 general election",
+    "date": "2020-02-08",
+    "role_sought": "TD for Cork South-Central (4 seats), Fianna Fáil; party leader",
+    "result": "Elected",
+    "vote_share": "11,023 first-preference votes (19.3%); elected on count 6 of 8 (quota 11,429)",
+    "opponent": "",
+    "detail": "Nationally Fianna Fáil won 38 seats with 22.2% of first preferences, one more than Sinn Féin (37) and three more than Fine Gael (35).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://en.wikipedia.org/wiki/2020_Irish_general_election",
+      "https://api.oireachtas.ie/v1/members?member_id=https://data.oireachtas.ie/ie/oireachtas/member/id/Miche%C3%A1l-Martin.D.1989-06-29"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2020-taoiseach",
+    "election": "Dáil nomination of the Taoiseach, 33rd Dáil",
+    "date": "2020-06-27",
+    "role_sought": "Taoiseach",
+    "result": "Elected (nominated by the Dáil and appointed by the President)",
+    "vote_share": "93 votes to 63",
+    "opponent": "",
+    "detail": "Motion 'That Dáil Éireann nominate Deputy Micheál Martin for appointment by the President to be Taoiseach', carried with the votes of Fianna Fáil, Fine Gael and the Green Party.",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/divisions?chamber=dail&date_start=2020-06-27&date_end=2020-06-27&limit=20",
+      "https://www.thejournal.ie/fianna-fail-leader-micheal-martin-has-been-elected-taoiseach-5133786-Jun2020/"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2024",
+    "election": "2024 general election",
+    "date": "2024-11-29",
+    "role_sought": "TD for Cork South-Central (5 seats), Fianna Fáil; party leader",
+    "result": "Elected",
+    "vote_share": "14,526 first-preference votes (23.2%); elected on the first count (quota 10,451)",
+    "opponent": "",
+    "detail": "He topped the poll. Nationally Fianna Fáil won 48 of 174 seats with 21.9% of first preferences, the largest party, ahead of Sinn Féin (39) and Fine Gael (38). The official results are published by the Houses of the Oireachtas as a PDF that the harvest does not render; the figures are taken from Wikipedia's tables.",
+    "source_url": [
+      "https://data.oireachtas.ie/ie/oireachtas/electoralProcess/electionResults/dail/2025/2025-04-02_34th-dail-general-election-results_en.pdf",
+      "https://www.oireachtas.ie/en/elections/",
+      "https://en.wikipedia.org/wiki/Cork_South-Central_(D%C3%A1il_constituency)",
+      "https://en.wikipedia.org/wiki/2024_Irish_general_election"
+    ]
+  },
+  {
+    "id": "micheal-martin-el-2025-taoiseach",
+    "election": "Dáil nomination of the Taoiseach, 34th Dáil",
+    "date": "2025-01-23",
+    "role_sought": "Taoiseach",
+    "result": "Elected (nominated by the Dáil and appointed by the President)",
+    "vote_share": "95 votes to 76",
+    "opponent": "",
+    "detail": "The nomination, scheduled for 22 January, was delayed by a day when the sitting was suspended several times over the speaking rights of independent TDs supporting the government (see polemics).",
+    "source_url": [
+      "https://api.oireachtas.ie/v1/divisions?chamber=dail&date_start=2025-01-23&date_end=2025-01-23&limit=20",
+      "https://www.irishexaminer.com/news/politics/arid-41559088.html"
+    ]
+  }
+]

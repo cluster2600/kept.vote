@@ -1,7 +1,19 @@
 {
   "name": "Catherine Vautrin",
   "country": "France",
+  "country_code": "FR",
+  "office": "minister",
+  "role": "Minister of the Armed Forces and Veterans",
+  "content_lang": "en",
   "party": "Renaissance",
   "birth_date": "1960-07-26",
-  "bio": "Catherine Vautrin, born 26 July 1960 in Reims, is a French politician who has served as Minister of the Armed Forces and Veterans since October 2025, a position she retained in Prime Minister Sébastien Lecornu's government following the 26 February 2026 reshuffle. A former RPR, UMP and Les Républicains figure who later aligned with the presidential majority, she previously held the combined Labour, Health, Solidarity and Families portfolio (2024-2025) and the Partnership with Territories and Decentralisation portfolio (2024). She was a member of the National Assembly for Marne's 2nd constituency, a vice-president of the Assemblée nationale, and president of Grand Reims from 2014 to 2024."
+  "bio": "Catherine Vautrin, born 26 July 1960 in Reims, is a French politician who has served as Minister of the Armed Forces and Veterans since October 2025, a position she retained in Prime Minister Sébastien Lecornu's government following the 26 February 2026 reshuffle. A former RPR, UMP and Les Républicains figure who later aligned with the presidential majority, she previously held the combined Labour, Health, Solidarity and Families portfolio (2024-2025) and the Partnership with Territories and Decentralisation portfolio (2024). She was a member of the National Assembly for Marne's 2nd constituency, a vice-president of the Assemblée nationale, and president of Grand Reims from 2014 to 2024.",
+  "portrait": {
+    "file": "catherine-vautrin.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_officiel_de_Catherine_Vautrin_-_%C2%A9ECPAD.jpg",
+    "author": "Lara PRIOLET/ECPAD/DEFENSE",
+    "license": "Licence Ouverte 2.0",
+    "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "retrieved": "2026-10-22"
+  }
 }

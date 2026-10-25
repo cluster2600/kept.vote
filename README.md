@@ -5,8 +5,10 @@ to track politician promises (EU / CH / NO).
 
 Austrian accountability research: [Jörg Haider profile, sources and twelve commitments under review](docs/research/austria/README.md).
 
-> Deployed via Vercel (frontend) + Render (API) + Neon (Postgres). See
-> [`DEPLOY.md`](./DEPLOY.md).
+> **Production** runs on Cloudflare: a Worker (the Next.js site, built with
+> vinext) reading a D1 database, on <https://kept.vote>. The site's data is the
+> read API below, rendered ahead of time from `data/*.json` by `build_d1.py`.
+> See [`DEPLOY.md`](./DEPLOY.md).
 
 A production-ready FastAPI backend that stores politicians, their promises,
 uploaded documents, and implemented policies — then uses **Claude** to analyze
@@ -19,7 +21,7 @@ reasoning.
 - **Document processing** — upload PDF or Word files; text is extracted and stored.
 - **AI verification** — Claude judges promise fulfilment and returns structured
   output (`status`, `confidence_score`, `reasoning`, `key_evidence`).
-- **PostgreSQL** with async SQLAlchemy 2.0 and connection pooling.
+- **PostgreSQL** with async SQLAlchemy 2.1 and connection pooling.
 - **UUID primary keys**, indexes for common queries, and cascade deletes.
 - **Async/await** end-to-end (async DB driver + async Anthropic client).
 - **Auto-created tables** on startup, **health checks**, and **statistics**.
@@ -27,13 +29,12 @@ reasoning.
 
 ## Tech stack
 
-FastAPI · SQLAlchemy 2.0 (async) · asyncpg · Pydantic v2 · Anthropic SDK ·
-PyPDF2 · python-docx
+FastAPI · SQLAlchemy 2.1 (async) · asyncpg · Pydantic v2 · Anthropic SDK 1.x ·
+pypdf · python-docx — Python 3.10+ (the Docker image uses 3.14).
 
-> **Note on the Anthropic SDK version:** the original spec pinned
-> `anthropic==0.15.1`. That release predates the `claude-opus-4-8` model and
-> adaptive thinking, so `requirements.txt` uses a current SDK
-> (`anthropic==0.69.0`). The model is configurable via `CLAUDE_MODEL`.
+> **Note on the Anthropic SDK version:** `requirements.txt` pins a current 1.x
+> SDK (`anthropic==1.15.0`), which requires Python ≥ 3.10. The model is
+> configurable via `CLAUDE_MODEL` and thinking depth via `CLAUDE_VERIFY_EFFORT`.
 
 ## Project layout
 
@@ -46,9 +47,17 @@ promise-verification-api/
 ├── document_processor.py  # PDF/Word text extraction
 ├── config.py              # Env-driven settings
 ├── seed.py                # Reproducible demo data (Emmanuel Macron)
+├── data/                  # Politician profiles (JSON), one file per section
+├── import_promises.py     # Load a profile's promises + verdicts into the DB
+├── import_profile.py      # Load a profile's other sections into the DB
+├── validate_profile.py    # Check profiles against docs/PROFILE_FORMAT.md
+├── build_d1.py            # Render the site's data into SQL for Cloudflare D1
+├── d1/                    # D1 schema (+ generated seed in d1/build/)
+├── harvest.py             # Source checks and research pages (Kitesurf)
+├── harvest/               # kept-vote-kitesurf Worker (docs/HARVEST.md)
 ├── requirements.txt
 ├── Dockerfile
-├── docker-compose.yml     # Postgres + API + frontend
+├── docker-compose.yml     # Postgres + API (local tooling)
 ├── .env.example
 ├── frontend/              # Next.js + Tailwind public website (kept.vote)
 │   ├── app/               # App Router pages (home, politician, promise)
@@ -68,50 +77,44 @@ development). See [`.env.example`](./.env.example):
 | `DATABASE_URL`      | PostgreSQL connection string                  | local docker-compose   |
 | `ANTHROPIC_API_KEY` | Claude API key (required for `/api/verify`)   | _none_                 |
 | `ENVIRONMENT`       | `development` or `production`                 | `development`          |
-| `CLAUDE_MODEL`      | Claude model id                               | `claude-opus-4-8`      |
+| `CLAUDE_MODEL`      | Claude model id                               | `claude-opus-5-5`      |
+| `CLAUDE_MAX_TOKENS` | Output cap (thinking + JSON verdict)          | `16000`                |
+| `CLAUDE_VERIFY_EFFORT` | `low` / `medium` / `high` / `xhigh` / `max` | `medium`            |
 | `UPLOAD_DIR`        | Directory for stored uploads                  | `./uploads`            |
 
 No credentials are hardcoded.
 
-## Run the full stack locally (recommended)
+## Run the website locally
 
-This brings up Postgres, the API, **and** the kept.vote website together, then
-loads the Emmanuel Macron demo data.
+The site reads its data from a local D1 database seeded from `data/`:
+
+```bash
+pip install -r requirements.txt   # API deps + aiosqlite, used by build_d1.py
+python build_d1.py                # renders data/*.json → d1/build/seed.sql
+
+cd frontend
+npm install
+npm run db:local                  # loads the seed into the local D1
+npm run dev                       # http://localhost:3001
+```
+
+## Run the API locally
+
+The FastAPI app is the data and tooling layer: importers, document upload, AI
+verification. `build_d1.py` runs it in-process; to run it as a server with
+Postgres:
 
 ```bash
 cp .env.example .env          # optional: set ANTHROPIC_API_KEY for AI /api/verify
-docker compose up --build     # starts db + api (:8000) + frontend (:3000)
-
-# in another terminal, once the API is healthy, seed the demo data:
+docker compose up --build     # starts db + api (:8000)
 docker compose exec api python seed.py
 ```
 
-Then open:
-
-- **Website:** <http://localhost:3000> — the kept.vote public site
-- **API docs:** <http://localhost:8000/docs> — Swagger UI
+API docs: <http://localhost:8000/docs> (Swagger UI).
 
 > The seed loads Emmanuel Macron with six real, sourced promises (4 kept,
 > 1 broken, 1 in progress). It's idempotent — re-running is a no-op; use
 > `docker compose exec api python seed.py --reset` to wipe and reload.
-
-> **Note:** the `key_evidence` column was added in this iteration. If you have an
-> older database volume, recreate it once: `docker compose down -v` before
-> `up`. The API auto-creates tables on startup.
-
-### Backend in Docker, frontend with hot reload
-
-Handy while iterating on the UI:
-
-```bash
-docker compose up --build db api          # backend only
-docker compose exec api python seed.py    # seed demo data
-
-cd frontend
-cp .env.local.example .env.local          # API_BASE_URL=http://localhost:8000
-npm install
-npm run dev                               # http://localhost:3000
-```
 
 ### API only, without Docker
 
@@ -128,8 +131,9 @@ driver.
 
 ## Front-end (kept.vote website)
 
-A Next.js (App Router) + Tailwind app in [`frontend/`](./frontend), deployable
-to Vercel. It's the public, trustworthy face of the data:
+A Next.js (App Router) + Tailwind app in [`frontend/`](./frontend), built with
+[vinext](https://github.com/cloudflare/vinext) and deployed as a Cloudflare
+Worker. It's the public, trustworthy face of the data:
 
 - **Home** — hero, live stats, and a politician list with a colour-coded track
   record (kept / in progress / broken).
@@ -138,15 +142,24 @@ to Vercel. It's the public, trustworthy face of the data:
 - **Promise** — the fact-check view: verdict, confidence meter, written
   assessment, bulleted key evidence, and a link to the primary source.
 
-Pages are server-rendered (React Server Components) and read the backend base URL
-from `API_BASE_URL` (falls back to `http://localhost:8000`). For Vercel, set
-`API_BASE_URL` to your deployed backend.
+Pages are server-rendered (React Server Components) in 26 languages and read
+their data from D1 through [`frontend/lib/data.ts`](./frontend/lib/data.ts), which
+returns the same JSON the read API serves.
+
+## Politician profiles
+
+Profiles live in [`data/`](./data) as one JSON file per section. To add a
+politician, follow [`docs/PROFILE_FORMAT.md`](./docs/PROFILE_FORMAT.md): it
+covers the fields, sourcing and editorial rules, and the
+`python validate_profile.py --strict <slug>` check every new profile must pass.
+Sources are read and re-checked through Cloudflare Kitesurf with
+[`harvest.py`](./harvest.py); see [`docs/HARVEST.md`](./docs/HARVEST.md).
 
 ## API endpoints
 
 | Method | Path                                | Description                                      |
 | ------ | ----------------------------------- | ------------------------------------------------ |
-| GET    | `/api/politicians`                  | List politicians with promise/verdict counts     |
+| GET    | `/api/politicians`                  | List politicians with promise/verdict counts (`?country=FR` filters by ISO code) |
 | POST   | `/api/politicians`                  | Create a politician                              |
 | GET    | `/api/politicians/{id}`             | Get a politician                                 |
 | DELETE | `/api/politicians/{id}`             | Delete a politician (cascades)                   |

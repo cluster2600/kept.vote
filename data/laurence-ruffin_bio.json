@@ -1,7 +1,19 @@
 {
   "name": "Laurence Ruffin",
   "country": "France",
+  "country_code": "FR",
+  "office": "mayor",
+  "role": "Maire de Grenoble",
+  "content_lang": "fr",
   "party": "Sans étiquette, proche des Écologistes (EELV) ; tête de liste de l'union de la gauche écologiste et citoyenne (Oui Grenoble)",
   "birth_date": "1978-02-21",
-  "bio": "Laurence Ruffin, née à Amiens en 1978, est une dirigeante d'entreprise coopérative et militante de l'économie sociale et solidaire, élue première femme maire de Grenoble en mars 2026. Ancienne PDG de la SCOP grenobloise Alma (éditeur de logiciels) et ex-vice-présidente de la Confédération générale des SCOP et des SCIC, elle s'est engagée pour la première fois en politique à la tête de la liste d'union de la gauche écologiste et citoyenne « Oui Grenoble », non encartée mais proche des Écologistes. Elle succède à l'écologiste Éric Piolle, qui ne se représentait pas et l'avait soutenue, dans la continuité de la majorité de gauche écologiste de la ville. Elle est par ailleurs la sœur cadette du député François Ruffin (fait largement rapporté par la presse et confirmé sur son propre site de campagne) et fut, au lycée à Amiens, une camarade de classe d'Emmanuel Macron."
+  "bio": "Laurence Ruffin, née à Amiens en 1978, est une dirigeante d'entreprise coopérative et militante de l'économie sociale et solidaire, élue première femme maire de Grenoble en mars 2026. Ancienne PDG de la SCOP grenobloise Alma (éditeur de logiciels) et ex-vice-présidente de la Confédération générale des SCOP et des SCIC, elle s'est engagée pour la première fois en politique à la tête de la liste d'union de la gauche écologiste et citoyenne « Oui Grenoble », non encartée mais proche des Écologistes. Elle succède à l'écologiste Éric Piolle, qui ne se représentait pas et l'avait soutenue, dans la continuité de la majorité de gauche écologiste de la ville. Elle est par ailleurs la sœur cadette du député François Ruffin (fait largement rapporté par la presse et confirmé sur son propre site de campagne) et fut, au lycée à Amiens, une camarade de classe d'Emmanuel Macron.",
+  "portrait": {
+    "file": "laurence-ruffin.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Laurence_Ruffin.jpg",
+    "author": "Jean-Paul Corlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-22"
+  }
 }

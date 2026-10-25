@@ -1,4 +1,5 @@
 import { STATUS_META } from "@/lib/api";
+import type { StatusLabels } from "@/components/StatusBadge";
 
 interface TrackRecordProps {
   kept: number;
@@ -6,6 +7,7 @@ interface TrackRecordProps {
   inProgress: number;
   compromise: number;
   noAction: number;
+  labels: StatusLabels;
   showLegend?: boolean;
 }
 
@@ -16,6 +18,7 @@ export default function TrackRecord({
   inProgress,
   compromise,
   noAction,
+  labels,
   showLegend = false,
 }: TrackRecordProps) {
   const total = kept + broken + inProgress + compromise + noAction;
@@ -40,7 +43,7 @@ export default function TrackRecord({
                 key={s.key}
                 className={`h-full ${s.meta.bar}`}
                 style={{ width: `${(s.count / total) * 100}%` }}
-                title={`${s.meta.label}: ${s.count}`}
+                title={`${labels[s.key]}: ${s.count}`}
               />
             ) : null,
           )
@@ -53,7 +56,7 @@ export default function TrackRecord({
             .map((s) => (
               <span key={s.key} className="inline-flex items-center gap-1.5">
                 <span className={`h-2 w-2 rounded-full ${s.meta.dot}`} />
-                {s.count} {s.meta.label}
+                {s.count} {labels[s.key]}
               </span>
             ))}
         </div>

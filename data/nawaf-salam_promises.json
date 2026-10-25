@@ -1,0 +1,252 @@
+[
+  {
+    "id": "nawaf-salam-promise-arms-monopoly",
+    "title": "Establish the state's monopoly on weapons and on decisions of war and peace",
+    "description": "The ministerial statement approved by the cabinet on 17 February 2025 and read by Salam to parliament on 25 February said that 'the state will be the sole owner of weapons and the one that makes decisions regarding peace and war', called for a national defence strategy and, for the first time in two decades, made no reference to a right of 'resistance', the language previously used to cover Hezbollah's arsenal. Salam had pledged on 14 January 2025 to apply all provisions of UN Security Council Resolution 1701 and the November 2024 ceasefire agreement and to extend state authority over all Lebanese territory.",
+    "date_made": "2025-02-17",
+    "category": "Security / state sovereignty",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The government took concrete and unprecedented steps: on 5 August 2025 it tasked the army with a plan to confine weapons to state forces by the end of 2025, welcomed the army's plan on 5 September 2025, and in January 2026 the army said it had completed the first phase south of the Litani River; on 2 March 2026, after Hezbollah fired on Israel, the cabinet banned all of Hezbollah's military and security activities. Hezbollah has nonetheless refused to hand over its weapons north of the Litani, drew Lebanon into the 2026 war against the government's stated policy, and in October 2026 security forces seized a truck carrying 780 kg of explosives that the authorities linked to suspected Hezbollah members. The monopoly has therefore not been achieved as of October 2026.",
+    "key_evidence": [
+      "17 February 2025: ministerial statement approved; it states the state alone holds weapons and decides on war and peace (L'Orient Today)",
+      "5 August 2025: cabinet tasks the army with a plan to restrict arms to the state before the end of 2025; Amal and Hezbollah ministers walk out (Naharnet/AFP)",
+      "5 September 2025: cabinet 'welcomes' the army's plan and asks for monthly reports; all five Shiite ministers walk out (Naharnet)",
+      "January 2026: the army says it has completed the first phase covering the area between the Litani River and the border; 16 February 2026: four months, extendable, announced for the second phase between the Litani and the Awali (Al Jazeera)",
+      "2 March 2026: cabinet bans Hezbollah's military and security activity and orders the group to hand over its weapons (Naharnet/AFP)",
+      "12 October 2026: Salam vows a thorough investigation to track down suspected Hezbollah members after security forces seize a truck carrying 780 kg of explosives at the Dahr al-Baidar checkpoint (Times of Israel/AP)"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1449239/parliament-meets-for-vote-of-confidence-in-salam-government-live.html",
+      "https://naharnet.com/stories/en/314553-shiite-ministers-walk-out-as-cabinet-tasks-army-with-drafting-plan-to-restrict-arms-before-aug-31",
+      "https://naharnet.com/stories/en/315100-govt-welcomes-army-s-weapons-monopoly-plan-asks-for-monthly-reports",
+      "https://www.aljazeera.com/news/2026/2/17/lebanon-says-four-months-needed-for-second-phase-of-hezbollah-disarmament",
+      "https://naharnet.com/stories/en/318707-cabinet-bans-hezbollah-military-activities-demands-group-to-hand-over-arms",
+      "https://www.timesofisrael.com/lebanon-vows-probe-after-security-forces-seize-truck-packed-with-explosives/"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-israeli-withdrawal",
+    "title": "Secure Israel's withdrawal from all Lebanese territory",
+    "description": "The ministerial statement committed the government to 'take the necessary measures to liberate Lebanese territory from Israeli occupation' (the government's term) and to deploy the army in the border areas; Salam told parliament the land would be liberated 'through [the state's] forces only'. When the government took office, Israeli forces remained at five positions inside southern Lebanon after the November 2024 ceasefire.",
+    "date_made": "2025-02-17",
+    "category": "Foreign policy / Israel",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "The government pursued the aim diplomatically, entering direct negotiations with Israel in April 2026 (described by Al Jazeera as the first since 1983) and signing a US-brokered framework agreement on 26 June 2026 that ties a phased Israeli withdrawal, starting with 'pilot zones', to Hezbollah's disarmament. But after the war that began on 2 March 2026, Israeli forces hold a larger area of southern Lebanon than when the government took office, and as of late September 2026 Israel had withdrawn from only one of three pilot zones, with Salam asking Washington for a clear timetable. Steps have been taken, but the result is further from the promise than in February 2025, hence the low confidence.",
+    "key_evidence": [
+      "February 2025: Israel keeps five positions in southern Lebanon after the ceasefire deadline (HRW World Report 2026)",
+      "2 March 2026 onwards: after Hezbollah's attack, Israeli forces occupy parts of southern Lebanon (Times of Israel/AP)",
+      "14 April 2026: first direct Israel–Lebanon talks in Washington, in the presence of US Secretary of State Rubio (Al Jazeera)",
+      "26 June 2026: framework agreement signed in Washington; Israeli withdrawal is conditional on benchmarks rather than a timetable (Al Jazeera, Times of Israel)",
+      "28 September 2026: Salam asks Rubio for a clear timeline; Israel has withdrawn from one of three pilot zones (L'Orient Today)"
+    ],
+    "source_url": [
+      "https://naharnet.com/stories/en/311270-govt-wins-confidence-vote-with-support-of-95-mps-including-hezbollah",
+      "https://www.hrw.org/world-report/2026/country-chapters/lebanon",
+      "https://www.timesofisrael.com/lebanon-vows-probe-after-security-forces-seize-truck-packed-with-explosives/",
+      "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war",
+      "https://www.timesofisrael.com/annex-in-israel-lebanon-deal-assures-idf-freedom-of-action-in-security-zone-source/",
+      "https://today.lorientlejour.com/article/1548926/salam-calls-for-establishing-clear-timeline-to-implement-framework-agreement-after-meeting-rubio.html"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-imf-programme",
+    "title": "Negotiate a new programme with the International Monetary Fund",
+    "description": "The ministerial statement said Lebanon would negotiate a new agreement with the IMF to address its 2020 default and public debt (the April 2022 staff-level agreement reached under the Mikati government had lapsed). Salam reiterated after the March 2025 central bank appointment that government policy was 'negotiating on a new program with the International Monetary Fund, restructuring banks' and protecting depositors.",
+    "date_made": "2025-02-17",
+    "category": "Economy / IMF",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "Talks with the IMF have run since 2025 and several prerequisite laws were passed (banking secrecy in April 2025, bank resolution in July 2025, amended in September 2026), but as of late September 2026 Finance Minister Yassine Jaber said a full programme still depended on parliament passing the 'financial gap' law; the IMF also listed a 2027 budget and a medium-term fiscal framework among its conditions. No new staff-level agreement had been announced by 22 October 2026.",
+    "key_evidence": [
+      "February 2025: ministerial statement plans a new IMF agreement (The National)",
+      "27 March 2025: Salam restates the policy of negotiating a new IMF programme (Naharnet)",
+      "24 April 2025: parliament adopts a banking secrecy reform demanded by the IMF; 31 July 2025: bank resolution law adopted (L'Orient Today)",
+      "28 September 2026: Jaber meets IMF chief Kristalina Georgieva; a full programme depends on the financial gap law (Asharq Al-Awsat/Reuters)",
+      "1 October 2026: IMF to assess changes to the bank resolution law after President Aoun appealed an article (The National)"
+    ],
+    "source_url": [
+      "https://www.thenationalnews.com/news/mena/2025/02/19/lebanon-scraps-armed-resistance-from-ministerial-statement-for-first-time-in-two-decades/",
+      "https://www.naharnet.com/stories/en/311881-salam-calls-on-souaid-to-abide-by-government-s-financial-policy",
+      "https://today.lorientlejour.com/article/1471758/minute-of-silence-in-memory-of-ziad-rahbani-in-parliament-.html",
+      "https://english.aawsat.com/arab-world/5323708-lebanon-hopes-new-staff-level-agreement-imf",
+      "https://www.thenationalnews.com/business/economy/2026/10/01/imf-lebanon-bank-resolution-law/"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-depositors",
+    "title": "Protect depositors' rights and reject writing off their deposits",
+    "description": "On accepting his nomination on 14 January 2025 Salam promised justice for 'the Lebanese depositors whose funds are trapped in the banks' since the 2019 crash; the ministerial statement promised 'a plan … to preserve the rights of depositors'.",
+    "date_made": "2025-01-14",
+    "category": "Economy / banking crisis",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "On 26 December 2025 the cabinet approved, by 13 votes to 9, a draft 'financial gap' law sharing the crisis losses (estimated by the government at about $70 billion) between the state, the central bank, commercial banks and depositors: deposits up to $100,000 would be repaid over four years and larger balances partly in bonds backed by central-bank assets. Salam called it 'not ideal' but 'realistic and fair'. Banks, depositor groups and political parties opposed it, and the bill had not been passed by parliament as of October 2026, so depositors have not yet recovered their funds under it.",
+    "key_evidence": [
+      "14 January 2025: Salam pledges justice for depositors (L'Orient Today)",
+      "26 December 2025: cabinet approves the financial gap bill 13–9 and sends it to parliament (Asharq Al-Awsat/Reuters)",
+      "Al Jazeera (30 December 2025): depositors' advocates say the draft favours banks; the IMF pressed for shareholders to bear losses before depositors",
+      "28 September 2026: the bill is still pending in parliament (Asharq Al-Awsat/Reuters)"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1443357/nawaf-salam-accepts-nomination-as-lebanons-prime-minister-commits-to-rebuilding-and-reforms.html",
+      "https://today.lorientlejour.com/article/1449239/parliament-meets-for-vote-of-confidence-in-salam-government-live.html",
+      "https://english.aawsat.com/business/5223467-lebanese-cabinet-approves-draft-law-financial-crisis-losses",
+      "https://www.aljazeera.com/news/2025/12/30/what-is-lebanons-gap-law-that-attempts-to-end-the-financial-crisis",
+      "https://english.aawsat.com/arab-world/5323708-lebanon-hopes-new-staff-level-agreement-imf"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-bank-restructuring",
+    "title": "Restructure the banking sector (banking secrecy and bank resolution laws)",
+    "description": "The ministerial statement said economic revival 'could only be achieved through restructuring the banking sector', and Salam named bank restructuring as government policy alongside the IMF programme. The IMF had for years required a reform of banking secrecy and a bank resolution law.",
+    "date_made": "2025-02-17",
+    "category": "Economy / banking",
+    "status": "in_progress",
+    "confidence_score": 0.75,
+    "reasoning": "The legislative steps were taken: parliament adopted a banking secrecy reform in April 2025, and a bank resolution law on 31 July 2025; after the IMF judged the latter insufficient, the cabinet approved amendments on 30 April 2026 and parliament adopted them as Law No. 71 of 10 September 2026. On 20 October 2026 the Constitutional Council, on an appeal by President Aoun, annulled Article 3 of that law and struck out phrases on travel bans and immunity for bank staff, leaving a dispute over the central bank's powers unresolved. The restructuring of the banks themselves has not yet taken place.",
+    "key_evidence": [
+      "April 2025: parliament adopts a banking secrecy reform (Asharq Al-Awsat)",
+      "31 July 2025: parliament adopts the bank resolution law (L'Orient Today)",
+      "30 April 2026: cabinet approves IMF-aligned amendments despite central bank reservations (L'Orient Today)",
+      "10 September 2026: Law No. 71 amending the bank resolution law",
+      "20 October 2026: Constitutional Council annuls Article 3 of Law No. 71 on President Aoun's appeal (L'Orient Today)"
+    ],
+    "source_url": [
+      "https://www.thenationalnews.com/news/mena/2025/02/19/lebanon-scraps-armed-resistance-from-ministerial-statement-for-first-time-in-two-decades/",
+      "https://english.aawsat.com/business/5223467-lebanese-cabinet-approves-draft-law-financial-crisis-losses",
+      "https://today.lorientlejour.com/article/1471758/minute-of-silence-in-memory-of-ziad-rahbani-in-parliament-.html",
+      "https://today.lorientlejour.com/article/1505534/banking-resolution-government-falls-in-line-with-imf-despite-bdl-reservations.html",
+      "https://today.lorientlejour.com/article/1551549/banking-reform-constitutional-council-ruling-leaves-power-struggle-unresolved.html"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-judicial-independence",
+    "title": "Strengthen the independence of the judiciary",
+    "description": "The ministerial statement said it would be 'necessary to strengthen the independence of justice, to immunize it against interference and pressure'; on accepting his nomination Salam had also promised 'judicial independence'.",
+    "date_made": "2025-02-17",
+    "category": "Justice / rule of law",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "The cabinet sent a judicial independence bill to parliament, which adopted a law on 31 July 2025; President Aoun asked parliament on 5 September 2025 to reconsider it, and an amended version was adopted on 18 December 2025. Human Rights Watch judged that the law brought 'positive reforms', such as more judicial self-governance and more judges elected by their peers, but 'fell short of guaranteeing judicial independence', notably by limiting the Higher Judicial Council's ability to overcome government obstruction of appointments. In August 2025 the government made the first judicial appointments since 2017.",
+    "key_evidence": [
+      "31 July 2025: parliament adopts the law on judicial independence (HRW)",
+      "5 September 2025: President Aoun returns the law to parliament citing 'procedural, substantive, and material errors' (HRW)",
+      "18 December 2025: amended law adopted; the top prosecutor's power to halt proceedings removed, other limits kept (HRW World Report 2026)",
+      "August 2025: first judicial appointments since 2017, based on Higher Judicial Council nominations"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1449239/parliament-meets-for-vote-of-confidence-in-salam-government-live.html",
+      "https://today.lorientlejour.com/article/1443357/nawaf-salam-accepts-nomination-as-lebanons-prime-minister-commits-to-rebuilding-and-reforms.html",
+      "https://today.lorientlejour.com/article/1458490/government-approves-bill-on-independence-of-judiciary.html",
+      "https://www.hrw.org/news/2025/08/15/lebanon-judicial-reforms-positive-but-fall-short",
+      "https://www.hrw.org/world-report/2026/country-chapters/lebanon"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-port-investigation",
+    "title": "Let the Beirut port explosion investigation proceed unhindered",
+    "description": "Salam promised justice for the victims of the 4 August 2020 Beirut port explosion, which killed more than 200 people, and the ministerial statement said that 'the work of investigators must not be hindered, particularly in the case of the port explosions'. The investigation by Judge Tarek Bitar had been blocked since 2021–2023 by lawsuits and by a 2023 order of the then Cassation prosecutor.",
+    "date_made": "2025-02-17",
+    "category": "Justice / accountability",
+    "status": "in_progress",
+    "confidence_score": 0.8,
+    "reasoning": "Judge Bitar resumed work in January 2025, and in March 2025 the Cassation public prosecutor reversed his predecessor's order barring cooperation with him; former prime minister Hassan Diab and senior security officials appeared for questioning for the first time. Bitar completed his investigation and referred the file to the prosecution on 30 March 2026, and the prosecution submitted a 270-page memorandum in September 2026; his indictment decision was still pending as of October 2026, and some officials, including MPs Ali Hassan Khalil and Ghazi Zaiter, still refused to be questioned.",
+    "key_evidence": [
+      "16 January 2025: Bitar resumes the investigation and summons ten officials (HRW)",
+      "March 2025: prosecutor Jamal Hajjar annuls the 2023 order barring cooperation with Bitar (HRW, Arab News)",
+      "30 March 2026: Bitar completes the investigation and refers the file, concerning about 70 defendants, to the prosecution (Arab News)",
+      "September 2026: the prosecution's 270-page memorandum is submitted; indictment pending (Arab News)"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1449239/parliament-meets-for-vote-of-confidence-in-salam-government-live.html",
+      "https://www.hrw.org/world-report/2026/country-chapters/lebanon",
+      "https://www.arabnews.com/middle-east/can-lebanons-former-president-michel-aoun-be-prosecuted-over-beirut-port-blast-3001906",
+      "https://www.aljazeera.com/features/2026/8/4/six-years-after-beirut-blast-families-fight-for-truth"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-municipal-elections",
+    "title": "Hold the municipal elections on schedule",
+    "description": "In the ministerial statement read to parliament, Salam said: 'The government intends to organize municipal and legislative elections on the set dates.' Municipal elections had last been held in 2016.",
+    "date_made": "2025-02-25",
+    "category": "Elections",
+    "status": "kept",
+    "confidence_score": 0.9,
+    "reasoning": "The municipal and mukhtar elections were held in four rounds in May 2025, ending with South Lebanon and Nabatieh on 24 May despite continued Israeli strikes; they were the first municipal elections since 2016. The Interior Ministry put turnout in the final round at 37%, against 48% in 2016.",
+    "key_evidence": [
+      "25 February 2025: commitment read in parliament (L'Orient Today)",
+      "4–24 May 2025: four rounds of municipal elections, the first since 2016 (Al Jazeera)",
+      "Established parties, including Hezbollah and Amal, won most councils; Amal–Hezbollah lists were unopposed in many southern municipalities"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1449239/parliament-meets-for-vote-of-confidence-in-salam-government-live.html",
+      "https://www.aljazeera.com/features/2025/5/26/hezbollah-holds-firm-in-lebanons-municipal-elections",
+      "https://www.thenationalnews.com/news/mena/2025/05/26/business-as-usual-as-lebanons-traditional-parties-dominate-municipal-elections/"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-parliamentary-elections",
+    "title": "Hold the parliamentary elections on schedule (May 2026)",
+    "description": "The same commitment covered the parliamentary election due in May 2026. In February 2026 Salam said the government stood 'ready to hold elections on schedule' and that 'the only authority constitutionally empowered to postpone the electoral deadline is Parliament', while the government and the Speaker disagreed over how expatriates would vote.",
+    "date_made": "2025-02-25",
+    "category": "Elections",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "The election did not take place. On 9 March 2026, a week after the war began, parliament voted by 76 to 41, with four abstentions, to extend its own term by two years, to 31 May 2028, citing the Israeli bombardment and mass displacement. The decision belonged to parliament rather than the government, and Christian parties and other MPs who had sought a shorter delay appealed to the Constitutional Council; the extended parliament remained in office as of October 2026.",
+    "key_evidence": [
+      "February 2026: Salam says the government is ready to hold elections on schedule (L'Orient Today)",
+      "9 March 2026: parliament extends its mandate by two years, 76–41 with four abstentions (L'Orient Today, Carnegie)",
+      "11 March 2026: the Lebanese Forces, the Free Patriotic Movement and other MPs appeal to the Constitutional Council (L'Orient Today)"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1495866/salam-send-expatriate-voting-issue-back-to-parliament-only-authority-empowered-to-postpone-elections.html",
+      "https://today.lorientlejour.com/article/1498203/parliament-extends-its-mandate-by-two-years.html",
+      "https://carnegieendowment.org/middle-east/diwan/2026/03/lebanons-parliament-extends-its-term-under-fire",
+      "https://today.lorientlejour.com/article/1498612/postponement-of-parliamentary-elections-christian-parties-appeal-to-constitutional-council.html"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-reconstruction",
+    "title": "Rebuild the villages and homes destroyed in the 2023–2024 war",
+    "description": "On 14 January 2025 Salam said a priority of his government would be 'rebuilding the villages and homes destroyed in southern Lebanon, the Bekaa and Beirut, to allow residents to return to their homes'. The World Bank's damage assessment put direct damage from the October 2023–December 2024 hostilities at $7.2 billion and reconstruction and recovery needs at $11 billion.",
+    "date_made": "2025-01-14",
+    "category": "Reconstruction",
+    "status": "in_progress",
+    "confidence_score": 0.55,
+    "reasoning": "The World Bank approved a $250 million first phase of the Lebanon Emergency Assistance Project (LEAP) in June 2025 for urgent repairs of public infrastructure and rubble removal, implemented by the Council for Development and Reconstruction under the strategic guidance of the Prime Minister's office, and the loan was signed in August 2025. Large-scale rebuilding of homes had not begun when the 2026 war caused new destruction and displacement; in September 2026 Salam asked the United States to support relief and reconstruction under the framework agreement. Confidence is moderate because overall reconstruction spending is not documented.",
+    "key_evidence": [
+      "14 January 2025: reconstruction named a priority (L'Orient Today)",
+      "24 June 2025: World Bank approves $250 million for reconstruction of critical infrastructure (World Bank)",
+      "August 2025: Finance Minister signs the loan, subject to parliamentary approval (L'Orient Today)",
+      "28 September 2026: Salam says the US–Israel–Lebanon framework includes support for relief, recovery and reconstruction (L'Orient Today)"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1443357/nawaf-salam-accepts-nomination-as-lebanons-prime-minister-commits-to-rebuilding-and-reforms.html",
+      "https://www.worldbank.org/en/news/press-release/2025/06/25/lebanon-new-us-250-million-project-to-kickstart-the-recovery-and-reconstruction-in-conflict-affected-areas",
+      "https://today.lorientlejour.com/article/1475030/finance-minister-signs-250-million-world-bank-reconstruction-loan.html",
+      "https://today.lorientlejour.com/article/1548926/salam-calls-for-establishing-clear-timeline-to-implement-framework-agreement-after-meeting-rubio.html"
+    ]
+  },
+  {
+    "id": "nawaf-salam-promise-syria-refugees",
+    "title": "Agree with Syria on the border and the return of Syrian refugees",
+    "description": "The ministerial statement promised 'serious discussions with Syria, particularly regarding the border between the two countries and the issue of displaced Syrians', and new agreements on border security and the refugee question.",
+    "date_made": "2025-02-17",
+    "category": "Foreign policy / Syria",
+    "status": "in_progress",
+    "confidence_score": 0.6,
+    "reasoning": "In July 2025 the government issued a return plan, co-led with the UN, based on fee waivers and cash grants; by September 2025 more than 238,000 Syrians known to UNHCR had their registration inactivated because of a verified or presumed return. A full border demarcation agreement with Syria had not been documented as of October 2026, so the promise is only partly met.",
+    "key_evidence": [
+      "February 2025: ministerial statement commits to talks with Syria on the border and refugees (L'Orient Today, The National)",
+      "July 2025: government return plan co-led with the UN (HRW)",
+      "September 2025: more than 238,000 Syrians' UNHCR registrations inactivated after return (HRW)"
+    ],
+    "source_url": [
+      "https://today.lorientlejour.com/article/1449239/parliament-meets-for-vote-of-confidence-in-salam-government-live.html",
+      "https://www.thenationalnews.com/news/mena/2025/02/19/lebanon-scraps-armed-resistance-from-ministerial-statement-for-first-time-in-two-decades/",
+      "https://www.hrw.org/world-report/2026/country-chapters/lebanon"
+    ]
+  }
+]

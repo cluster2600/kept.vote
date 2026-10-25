@@ -1,0 +1,232 @@
+[
+  {
+    "id": "merz-polemic-afd-votes-2025",
+    "title": "Bundestag majority with AfD votes on migration (January 2025)",
+    "period": "2025-01",
+    "category": "political",
+    "description": "After the Aschaffenburg knife attack of 22 January 2025, Merz, then opposition leader and chancellor candidate, brought a five-point migration motion and the draft 'Zustrombegrenzungsgesetz' to the Bundestag, saying they would be tabled regardless of who supported them. On 29 January 2025 the motion passed 348 to 344 with votes from the CDU/CSU, FDP and AfD, the first time a Bundestag majority depended on AfD votes; on 31 January the bill failed by 338 to 349. Former chancellor Angela Merkel publicly said it was wrong no longer to feel bound by Merz's own November 2024 proposal to avoid any majority with the AfD, and large demonstrations against a shift to the right followed, including around 250,000 people in Munich on 8 February 2025.",
+    "status": "political",
+    "confidence_score": 0.95,
+    "key_facts": [
+      "24 January 2025: Merz announces the Union will table its migration motions \"unabhängig davon, wer zustimmt\" (regardless of who agrees) (tagesschau).",
+      "29 January 2025: CDU/CSU motion adopted 348–344 (10 abstentions); AfD 75 yes, FDP 80 yes, CDU/CSU 187 yes.",
+      "31 January 2025: Zustrombegrenzungsgesetz rejected 338–349 (5 abstentions).",
+      "30 January 2025: Angela Merkel issues a statement criticising the vote.",
+      "The coalition agreement signed in May 2025 excludes any cooperation with anti-constitutional, anti-democratic and right-wing extremist parties at all political levels (lines 4507–4508).",
+      "8 February 2025: around 250,000 people demonstrate in Munich against a shift to the right (BR)."
+    ],
+    "source_url": [
+      "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=940",
+      "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=946",
+      "https://www.buero-bundeskanzlerin-ad.de/erklaerungen/erklaerung-von-bundeskanzlerin-a-d-dr-angela-merkel-zur-abstimmung-im-/",
+      "https://www.tagesschau.de/inland/innenpolitik/aschaffenburg-messerattacke-debatte-102.html",
+      "https://www.br.de/nachrichten/bayern/muenchen-rund-250000-demonstrieren-gegen-rechtsruck,UcCWtSn",
+      "https://www.koalitionsvertrag2025.de/sites/www.koalitionsvertrag2025.de/files/koav_2025.pdf"
+    ]
+  },
+  {
+    "id": "merz-polemic-debt-brake-reversal",
+    "title": "Debt-brake reversal weeks after the 2025 election",
+    "period": "2025-03",
+    "category": "political",
+    "description": "Merz had campaigned on a programme pledging to keep the constitutional debt brake. In March 2025, before the new Bundestag convened, the CDU/CSU and SPD used the outgoing parliament to loosen the debt brake for defence and to create a €500 billion infrastructure and climate fund, which the Greens supported in exchange for climate funding. Opponents accused Merz of breaking a central campaign promise and criticised recalling the old Bundestag; several urgent applications to the Federal Constitutional Court against the special session were rejected. Fact-checkers noted that breaking campaign promises is a political, not a criminal, matter.",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "CDU/CSU programme 2025: \"Wir halten an der Schuldenbremse des Grundgesetzes fest.\"",
+      "18 March 2025: 512 members of the outgoing Bundestag vote for the constitutional amendment.",
+      "17 March 2025: the Federal Constitutional Court rejects further urgent applications against the special session of the outgoing Bundestag.",
+      "Correctiv (20 March 2025) on claims that the reversal amounted to voter deception."
+    ],
+    "source_url": [
+      "https://www.bundestag.de/dokumente/textarchiv/2025/kw12-de-sondersitzung-1056916",
+      "https://correctiv.org/faktencheck/2025/03/20/merz-und-schuldenbremse-falsche-wahlversprechen-sind-keine-waehlertaeuschung-nach-strafgesetz/",
+      "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+      "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2025/bvg25-027.html"
+    ]
+  },
+  {
+    "id": "merz-polemic-stadtbild",
+    "title": "'Stadtbild' remark on migration (October 2025)",
+    "period": "2025-10",
+    "category": "political",
+    "description": "At a press appearance in Potsdam on 14 October 2025, asked about the AfD's poll ratings, Merz spoke of falling asylum numbers and added that \"we of course still have this problem in the cityscape (Stadtbild)\", which was why the interior minister was enabling deportations on a large scale. Opposition politicians, some academics and civil-society groups criticised the remark as disrespectful or racist, while some politicians, among them Saxony's minister-president Michael Kretschmer, defended him; demonstrations took place in several cities and a petition gathered more than 100,000 signatures within a day, according to the Protestant press agency epd. Merz later said he had meant migrants without permanent residence status who do not work and do not abide by the rules. Several criminal complaints were filed against him (see justice section).",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "14 October 2025: remark made in Potsdam alongside Brandenburg's minister-president Dietmar Woidke.",
+      "Criticism from Greens leader Felix Banaszak and Left group leader Sören Pellmann (DW) and from Diakonie and the Turkish Community in Germany (epd).",
+      "October 2025: the Berlin public prosecutor's office confirmed receipt of a complaint alleging incitement and said it was being examined."
+    ],
+    "source_url": [
+      "https://www.dw.com/de/stadtbild-kommentar-bundeskanzler-merz-in-der-kritik/a-74401228",
+      "https://www.evangelisch.de/inhalte/248785/22-10-2025/kritik-merz-aeusserung-haelt-petition-und-strafanzeige",
+      "https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/bundeskanzler-merz-stadtbild-aeusserung-strafanzeige-volksverhetzung-2025-10-28"
+    ]
+  },
+  {
+    "id": "merz-polemic-sozialtourismus",
+    "title": "'Social tourism' remark about Ukrainian refugees (September 2022)",
+    "period": "2022-09",
+    "category": "political",
+    "description": "As CDU leader and opposition leader, Merz said in a television interview in late September 2022 that Germany was experiencing \"Sozialtourismus\" (welfare tourism) by Ukrainian refugees travelling back and forth between Germany and Ukraine. The term, chosen 'non-word of the year' in 2013, drew broad criticism. On 27 September 2022 he apologised (\"if I have hurt anyone, I regret that very much\"), while maintaining that there were growing problems with housing and caring for refugees.",
+    "status": "resolved",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "September 2022: remark made in a television interview (tagesschau).",
+      "27 September 2022: Merz apologises for the term (dpa via Süddeutsche Zeitung)."
+    ],
+    "source_url": [
+      "https://www.tagesschau.de/inland/merz-ukraine-fluechtlinge-deutschland-101.html",
+      "https://www.sueddeutsche.de/politik/konflikte-merz-bedauert-sozialtourismus-vorwurf-gegen-ukrainer-dpa.urn-newsml-dpa-com-20090101-220927-99-909220"
+    ]
+  },
+  {
+    "id": "merz-polemic-paschas",
+    "title": "'Little pashas' remark after New Year's Eve riots (January 2023)",
+    "period": "2023-01",
+    "category": "political",
+    "description": "Discussing the 2022/23 New Year's Eve riots in Berlin on the talk show 'Markus Lanz' in January 2023, Merz said primary-school teachers faced fathers who objected when female teachers reprimanded \"ihre Söhne – die kleinen Paschas\" (their sons, the little pashas). Critics accused him of stigmatising children from migrant families and of populism; Merz defended the remark, saying a debate about what was going wrong was necessary.",
+    "status": "political",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "January 2023: remark on ZDF's 'Markus Lanz' (Der Spiegel, 11 January 2023).",
+      "Merz defended the statement in subsequent interviews."
+    ],
+    "source_url": [
+      "https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik-a-c0844cf6-8ca8-4f14-b3d6-8746942978c4",
+      "https://www.faz.net/aktuell/politik/cdu-vorsitzender-merz-verteidigt-aussage-zu-kleinen-paschas-18599416.html"
+    ]
+  },
+  {
+    "id": "merz-polemic-dentist-remark",
+    "title": "Remark that rejected asylum seekers get their teeth redone (September 2023)",
+    "period": "2023-09",
+    "category": "political",
+    "description": "In September 2023 Merz said that rejected asylum seekers obliged to leave Germany \"sit at the doctor's and get their teeth redone, while German citizens next to them don't get appointments\". The president of the Federal Chamber of Dentists said he had not heard of appointments being blocked by the treatment of refugees, and the remark drew strong criticism. A Left Party MP filed a criminal complaint alleging incitement to hatred (see justice section).",
+    "status": "political",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Late September 2023: remark made in a television interview, widely reported on 28 September 2023.",
+      "The Federal Chamber of Dentists contradicted the claim (FAZ, 28 September 2023).",
+      "Left Party MP Daphne Weber filed a complaint for Volksverhetzung (LTO)."
+    ],
+    "source_url": [
+      "https://www.faz.net/aktuell/politik/inland/heftige-kritik-an-merz-asylbewerber-wuerden-deutschen-arzttermine-wegnehmen-19205962.html",
+      "https://www.faz.net/aktuell/politik/inland/zahnaerztepraesident-zu-friedrich-merz-niemand-muss-auf-einen-termin-warten-19206574.html",
+      "https://www.lto.de/recht/meinung/m/fischer-merz-aussage-zahnaerzte-fluechtlinge"
+    ]
+  },
+  {
+    "id": "merz-polemic-drecksarbeit",
+    "title": "'Dirty work' remark on Israel's strikes against Iran (June 2025)",
+    "period": "2025-06",
+    "category": "political",
+    "description": "At the G7 summit in Canada on 17 June 2025, Merz took up an interviewer's wording and told ZDF that Israel's strikes on Iranian nuclear facilities were \"die Drecksarbeit, die Israel macht für uns alle\" (the dirty work Israel is doing for all of us), expressing respect for the Israeli leadership's courage. The SPD, Greens and Left criticised the wording, with some international-law experts warning against endorsing a contested pre-emptive strike; Israel's ambassador and Chancellery chief Thorsten Frei defended him.",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "17 June 2025: ZDF interview at the G7 summit in Kananaskis.",
+      "Criticism from coalition partner SPD and from the opposition (tagesschau, 18 June 2025)."
+    ],
+    "source_url": [
+      "https://www.tagesschau.de/inland/innenpolitik/merz-drecksarbeit-debatte-100.html"
+    ]
+  },
+  {
+    "id": "merz-polemic-israel-arms-exports",
+    "title": "Partial halt of arms exports to Israel (August–November 2025)",
+    "period": "2025-08 to 2025-11",
+    "category": "foreign policy",
+    "description": "On 8 August 2025 Merz announced that, until further notice, the government would not authorise exports of military equipment that could be used in the Gaza Strip. The decision was criticised by the Central Council of Jews in Germany, parts of the CDU and especially the CSU, while others in the CDU, SPD, Greens and Left welcomed it. In November 2025, citing the ceasefire between Israel and Hamas and improved humanitarian access, the government lifted the restrictions and returned to case-by-case review.",
+    "status": "resolved",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "8 August 2025: chancellor's statement on Gaza announcing the export restriction.",
+      "Mixed reactions across parties and from the Central Council of Jews (ZDF).",
+      "November 2025: restrictions lifted (Deutschlandfunk)."
+    ],
+    "source_url": [
+      "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zur-entwicklung-in-gaza--2377366",
+      "https://www.zdfheute.de/politik/deutschland/israel-gaza-waffenlieferungsstopp-merz-reaktionen-100.html",
+      "https://www.deutschlandfunk.de/bundesregierung-hebt-beschraenkungen-fuer-ruestungsexporte-nach-israel-auf-100.html"
+    ]
+  },
+  {
+    "id": "merz-polemic-business-ties",
+    "title": "Corporate mandates, BlackRock chairmanship and the WestLB fee",
+    "period": "2005–2021",
+    "category": "lobbying / conflict of interest",
+    "description": "Merz held numerous supervisory and advisory board seats alongside and after his first parliamentary career, including the chairmanship of BlackRock's German supervisory board (2016–2020), and his many side jobs as an MP in the 2000s were a recurring subject of debate. Mandated by the state bank-rescue fund SoFFin to manage the attempted sale of WestLB (2010–2011), he was criticised in the media for a reported fee of €5,000 a day; a consultants' association quoted by manager magazin called the rate not unusual but at the upper end. When he ran for the CDU leadership in 2018, possible conflicts of interest linked to BlackRock were discussed, and his statement that he earned around €1 million gross a year yet counted himself among the upper middle class drew wide criticism. According to his Bundestag disclosures he had given up his remaining corporate roles by December 2021; Correctiv reported in January 2025 on his network of corporate contacts.",
+    "status": "political",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "BlackRock Asset Management Deutschland: chairman of the supervisory board 2016–2020; a successor was named in 2020 (Handelsblatt).",
+      "WestLB sale mandate (2010–2011) and reported daily fee of €5,000 (manager magazin).",
+      "November 2018: 'millionaire' and 'upper middle class' debate (Der Spiegel).",
+      "Bundestag register (20th term): board roles at HSBC Trinkaus & Burkhardt, WEPA, Möller & Förster and Bosch's international advisory committee ended in December 2021."
+    ],
+    "source_url": [
+      "https://www.manager-magazin.de/politik/deutschland/ex-cdu-star-friedrich-merz-und-der-karriereknick-a-970377.html",
+      "https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-warum-er-nicht-zur-mittelschicht-gehoert-a-1238635.html",
+      "https://www.handelsblatt.com/finanzen/banken-versicherungen/vermoegensverwalter-blackrock-findet-nachfolger-fuer-friedrich-merz/25881544.html",
+      "https://correctiv.org/aktuelles/wirtschaft/2025/01/28/bester-mann-der-grosskonzerne-das-lobby-netzwerk-von-friedrich-merz/",
+      "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/M/merz_friedrich-861648"
+    ]
+  },
+  {
+    "id": "merz-polemic-insult-complaints",
+    "title": "Numerous criminal complaints against people who insulted him",
+    "period": "2021–2026",
+    "category": "political",
+    "description": "According to Die Welt (May 2026), Merz has filed numerous criminal complaints for insult since 2021, including over terms such as \"Pinocchio\"; the Berliner Zeitung, citing Welt, reported that two cases led to house searches and that a spokesman said damages and fines received were donated to social causes in the Hochsauerlandkreis. Hesse's CDU interior minister Roman Poseck criticised the growing number of such complaints by leading politicians, saying that \"whoever does politics must be able to take it\". The debate followed Merz's statement that no chancellor before him had had to endure such attacks.",
+    "status": "political",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "Complaints filed since Merz's time as opposition leader, some prompted by reports to the Hesse portal 'Hessen gegen Hetze'.",
+      "Two cases reportedly led to house searches (Berliner Zeitung citing Welt).",
+      "Criticism from Hesse interior minister Roman Poseck (CDU) in May 2026."
+    ],
+    "source_url": [
+      "https://www.welt.de/politik/deutschland/article69fd963930e98e4ac324e2f1/hessen-nicht-so-weinerlich-sein-innenminister-rechnet-mit-anzeigeflut-von-spitzenpolitikern-ab.html",
+      "https://www.berliner-zeitung.de/article/friedrich-merz-soll-hunderte-strafanzeigen-wegen-beleidigung-gestellt-haben-hausdurchsuchungen-10009120"
+    ]
+  },
+  {
+    "id": "merz-polemic-violence-remark-2026",
+    "title": "Remark linking immigrant groups to violence against women (March 2026)",
+    "period": "2026-03",
+    "category": "political",
+    "description": "During a Bundestag session in March 2026, asked about violence against women amid a national debate on sexual and digital violence, Merz spoke of an \"explosion of violence\" in society, said its causes had to be discussed and added that \"a significant portion of this violence comes from immigrant groups\". According to DW, the comment sparked a backlash in Germany, as his October 2025 'Stadtbild' remark had.",
+    "status": "political",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "March 2026: remark made in the Bundestag (DW, 31 March 2026).",
+      "DW notes that Merz has repeatedly linked violence and crime with immigration."
+    ],
+    "source_url": [
+      "https://www.dw.com/en/germany-conservatives-link-immigration-with-crime/a-76610076"
+    ]
+  },
+  {
+    "id": "merz-polemic-reshuffle-2026",
+    "title": "Handling of the July 2026 cabinet reshuffle",
+    "period": "2026-07 to 2026-09",
+    "category": "governance",
+    "description": "After Jens Spahn resigned as CDU/CSU parliamentary leader on 18 July 2026, Merz reorganised the cabinet: Thorsten Frei moved to lead the parliamentary group, Nina Warken became head of the Chancellery and Carsten Linnemann health minister. Transport Minister Patrick Schnieder learned he was to be replaced, the intended successor withdrew, and Schnieder then asked to be dismissed himself to end what he called an \"undignified situation\" (SWR); according to the Tagesspiegel, health state secretary Tino Sorge's removal was announced to party bodies and the press before he was told. The ministers appointed on 29 July were sworn in before the Bundestag only on 8 September, which constitutional lawyers quoted by LTO called incompatible with the Basic Law. The episode triggered open criticism of Merz within the CDU.",
+    "status": "political",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "29 July 2026: President Steinmeier appoints Warken, Bilger and Linnemann as ministers (tagesschau).",
+      "26–27 July 2026: Schnieder asks to be dismissed (SWR).",
+      "Swearing-in delayed until after the summer recess; criticised as unconstitutional by legal scholars (LTO, 29 July 2026)."
+    ],
+    "source_url": [
+      "https://www.tagesschau.de/inland/innenpolitik/kabinett-umbildung-ernennung-minister-100.html",
+      "https://www.swr.de/swraktuell/rheinland-pfalz/schnieder-will-entlassen-werden-bundesverkehrsminister-kommt-merz-zuvor-100.html",
+      "https://www.tagesspiegel.de/politik/arger-und-frust-in-der-cdu-spitze-der-kanzler-hat-ein-glaubwurdigkeitsdefizit-15884553.html",
+      "https://www.lto.de/recht/nachrichten/n/spaetere-vereidigung-ernennung-minister-bundestag-verfassungswidrig-thiele",
+      "https://www.politico.eu/article/friedrich-merz-fresh-start-quickly-falls-apart/"
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "peter-magyar-sec-accorde-abacus",
+    "holding": "Accorde Abacus Abszolút Hozamú Alap",
+    "type": "investment fund",
+    "value": "10,000,000 HUF (nominal)",
+    "as_of": "2026-05-08",
+    "detail": "Absolute-return fund; same nominal amount in the July 2025, December 2025 and May 2026 declarations.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-sec-otp-premium",
+    "holding": "OTP Prémium Befektetési Jegy",
+    "type": "investment fund units",
+    "value": "15,000,000 HUF (nominal)",
+    "as_of": "2026-05-08",
+    "detail": "Same nominal amount in all three declarations since July 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-sec-otp-optima",
+    "holding": "OTP Optima Tőkegarantált Befektetési Jegy",
+    "type": "capital-guaranteed fund units",
+    "value": "10,000,000 HUF (nominal)",
+    "as_of": "2026-05-08",
+    "detail": "Same nominal amount in all three declarations since July 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-sec-otp-euro-bond",
+    "holding": "OTP EURO Rövid Kötvényalap",
+    "type": "bond fund (EUR)",
+    "value": "35,000 EUR (12,429,900 HUF at the 8 May 2026 rate)",
+    "as_of": "2026-05-08",
+    "detail": "Declared at 13,965,700 HUF in July 2025 and 13,489,000 HUF at 31 December 2025, the forint value changing with the exchange rate.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-sec-hold-2000",
+    "holding": "Hold 2000 Nyíltvégű Vegyes Értékpapíralap",
+    "type": "mixed securities fund (EUR)",
+    "value": "35,000 EUR (12,429,900 HUF at the 8 May 2026 rate)",
+    "as_of": "2026-05-08",
+    "detail": "Declared at 13,965,700 HUF in July 2025 and 13,489,000 HUF at 31 December 2025.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  },
+  {
+    "id": "peter-magyar-sec-4ig-share",
+    "holding": "4iG Nyrt. — one share",
+    "type": "listed shares",
+    "value": "20 HUF (nominal)",
+    "as_of": "2026-05-08",
+    "detail": "A single share declared in July 2025 and May 2026 but not in the declaration of 31 December 2025. According to Telex (July 2025) he had recently sold the rest of his 4iG shares.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat",
+      "https://telex.hu/belfold/2026/06/08/magyar-peter-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-sec-llm-zrt",
+    "holding": "LLM Zrt. (LLM Tanácsadó és Befektetési Zrt.) — 100% of shares",
+    "type": "unlisted company shares",
+    "value": "not declared",
+    "as_of": "2026-05-08",
+    "detail": "Declared as a 100% shareholding conferring decisive influence in the European Parliament declaration of 23 July 2024 and in all Hungarian declarations. See companies.",
+    "status": "declared",
+    "source_url": [
+      "https://www.europarl.europa.eu/erpl-app-public/mep-documents/DPI/10/9efc19a6-b636-481b-9935-65d43576f696_1721726400278.pdf",
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf"
+    ]
+  }
+]

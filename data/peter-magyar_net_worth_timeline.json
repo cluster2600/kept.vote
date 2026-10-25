@@ -1,0 +1,39 @@
+[
+  {
+    "id": "peter-magyar-nw-2025-07",
+    "year": 2025,
+    "declared_net_worth": "No total declared; declared financial assets about 76.5 million HUF (securities about 62.9 million, bank about 10.6 million, cash 3 million), no debts, plus four properties without declared values",
+    "note": "Sum of the itemised financial assets in the NVI-published opening declaration as MEP signed 10 July 2025 (euro holdings converted at the rates written in the declaration). Telex reported the savings as 86 million HUF, a figure that does not match the itemised securities in the published document.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/692807c60a2abc0002e987b8/Dr.MagyarP%C3%A9ter_2025_nyit%C3%B3vagyonnyilatkozat.pdf",
+      "https://www.valasztas.hu/vagyonnyilatkozatok_2024-2029",
+      "https://telex.hu/belfold/2025/07/10/tisza-part-magyar-peter-ep-kepviselok-vagyonnyilatkozat"
+    ]
+  },
+  {
+    "id": "peter-magyar-nw-2025-12",
+    "year": 2025,
+    "declared_net_worth": "No total declared; declared financial assets about 96.7 million HUF (securities about 62.0 million, bank about 31.7 million, cash 3 million) less 9.2 million HUF of debts, i.e. about 87.5 million HUF net, plus four properties without declared values",
+    "note": "Situation at 31 December 2025 per the NVI-published annual declaration signed 30 January 2026; totals computed from the itemised entries.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/697dd9a0d4efde0002f5c4d8/Dr.MagyarP%C3%A9ter_2025%C3%A9vivagyonnyilatkozat.pdf",
+      "https://www.valasztas.hu/vagyonnyilatkozatok_2024-2029",
+      "https://444.hu/2026/02/01/magyar-peter-bo-tizmilliot-tudott-felretenni-a-tisza-partot-pedig-ingyen-vezeti-a-vagyonnyilatkozata-szerint"
+    ]
+  },
+  {
+    "id": "peter-magyar-nw-2026-05",
+    "year": 2026,
+    "declared_net_worth": "No total declared; declared financial assets about 87.7 million HUF (securities about 59.9 million, bank about 22.9 million, cash 5 million), no debts, plus four properties without declared values",
+    "note": "Values at 8–9 May 2026 per the NVI-published closing MEP declaration and the opening MP declaration on parlament.hu; Telex reported the total as 88 million HUF of savings. Totals computed from the itemised entries using the forint values written in the declaration.",
+    "status": "declared",
+    "source_url": [
+      "https://portal-data.valasztas.hu/files/6a27cf0d2402770002cb1d69/MagyarP%C3%A9ter_2026_z%C3%A1r%C3%B3vagyonnyilatkozat.pdf",
+      "https://www.parlament.hu/vagynyil//2026/0837m076_j0260509k.pdf",
+      "https://telex.hu/belfold/2026/06/08/magyar-peter-vagyonnyilatkozat",
+      "https://index.hu/belfold/2026/06/08/magyar-peter-miniszterelnok-kormanyfo-tisza-part-vagyonnyilatkozat-megtakaritas/"
+    ]
+  }
+]

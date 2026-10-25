@@ -1,0 +1,78 @@
+[
+  {
+    "id": "andrej-babis-fin-2025-agrofert-dividend",
+    "year": 2025,
+    "type": "dividend",
+    "label": "Dividend from AGROFERT, a.s.",
+    "amount": "CZK 4.25 billion net (about CZK 5 billion gross, according to Babiš)",
+    "detail": "Paid in 2025, before he transferred the Agrofert shares to the RSVP Trust in February 2026; Babiš said Agrofert paid about CZK 750 million in tax on it. Declaration for 2025 filed in the Central Register of Declarations (Centrální registr oznámení) on 30 June 2026; its contents are available on request, and the figures here are as reported by ČTK/iDNES.cz on 1 July 2026.",
+    "source_url": [
+      "https://cro.gov.cz/verejnost/funkcionari/form/e03d2a9c-044f-42c8-93ff-30d2fc439e54",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-loni-dostal-od-agrofertu-dividendu-425-miliardy-korun-pise-idnes-375138",
+      "https://cnn.iprima.cz/agrofert-poslal-babisovi-ctyri-miliardy-korun-odhalilo-priznani-duchod-bere-ve-dvou-statech-516057"
+    ]
+  },
+  {
+    "id": "andrej-babis-fin-2025-agrofert-other",
+    "year": 2025,
+    "type": "income",
+    "label": "Other income from Agrofert",
+    "amount": "over CZK 10 million",
+    "detail": "Further income from Agrofert listed alongside the dividend. Declaration for 2025 filed in the Central Register of Declarations (Centrální registr oznámení) on 30 June 2026; its contents are available on request, and the figures here are as reported by ČTK/iDNES.cz on 1 July 2026.",
+    "source_url": [
+      "https://cro.gov.cz/verejnost/funkcionari/form/e03d2a9c-044f-42c8-93ff-30d2fc439e54",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-loni-dostal-od-agrofertu-dividendu-425-miliardy-korun-pise-idnes-375138"
+    ]
+  },
+  {
+    "id": "andrej-babis-fin-2025-imoba",
+    "year": 2025,
+    "type": "income",
+    "label": "Income from Imoba, a.s. (owner of the Čapí hnízdo complex)",
+    "amount": "about CZK 1 million",
+    "detail": "Imoba belongs to the SynBiol group. Declaration for 2025 filed in the Central Register of Declarations (Centrální registr oznámení) on 30 June 2026; its contents are available on request, and the figures here are as reported by ČTK/iDNES.cz on 1 July 2026.",
+    "source_url": [
+      "https://cro.gov.cz/verejnost/funkcionari/form/e03d2a9c-044f-42c8-93ff-30d2fc439e54",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-loni-dostal-od-agrofertu-dividendu-425-miliardy-korun-pise-idnes-375138",
+      "https://cnn.iprima.cz/agrofert-poslal-babisovi-ctyri-miliardy-korun-odhalilo-priznani-duchod-bere-ve-dvou-statech-516057"
+    ]
+  },
+  {
+    "id": "andrej-babis-fin-2025-vontobel",
+    "year": 2025,
+    "type": "investment_income",
+    "label": "Income through the Swiss private bank Vontobel",
+    "amount": "about CZK 18 million",
+    "detail": "Reported as income from private investments held through Vontobel. Declaration for 2025 filed in the Central Register of Declarations (Centrální registr oznámení) on 30 June 2026; its contents are available on request, and the figures here are as reported by ČTK/iDNES.cz on 1 July 2026.",
+    "source_url": [
+      "https://cro.gov.cz/verejnost/funkcionari/form/e03d2a9c-044f-42c8-93ff-30d2fc439e54",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-loni-dostal-od-agrofertu-dividendu-425-miliardy-korun-pise-idnes-375138",
+      "https://cnn.iprima.cz/agrofert-poslal-babisovi-ctyri-miliardy-korun-odhalilo-priznani-duchod-bere-ve-dvou-statech-516057"
+    ]
+  },
+  {
+    "id": "andrej-babis-fin-2025-pensions",
+    "year": 2025,
+    "type": "pension",
+    "label": "Old-age pensions from Czechia and Slovakia",
+    "amount": "just under CZK 50,000 (Czech) and over CZK 67,000 (Slovak); reporting does not state the period covered",
+    "detail": "Babiš receives pensions from both states. Declaration for 2025 filed in the Central Register of Declarations (Centrální registr oznámení) on 30 June 2026; its contents are available on request, and the figures here are as reported by ČTK/iDNES.cz on 1 July 2026.",
+    "source_url": [
+      "https://cro.gov.cz/verejnost/funkcionari/form/e03d2a9c-044f-42c8-93ff-30d2fc439e54",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-loni-dostal-od-agrofertu-dividendu-425-miliardy-korun-pise-idnes-375138",
+      "https://cnn.iprima.cz/agrofert-poslal-babisovi-ctyri-miliardy-korun-odhalilo-priznani-duchod-bere-ve-dvou-statech-516057"
+    ]
+  },
+  {
+    "id": "andrej-babis-fin-2025-receivables",
+    "year": 2025,
+    "type": "receivable",
+    "label": "Receivables (two claims)",
+    "amount": "about CZK 1.6 billion and about CZK 4.3 billion",
+    "detail": "Two claims owed to him, reported in the same declaration as in previous years. Declaration for 2025 filed in the Central Register of Declarations (Centrální registr oznámení) on 30 June 2026; its contents are available on request, and the figures here are as reported by ČTK/iDNES.cz on 1 July 2026.",
+    "source_url": [
+      "https://cro.gov.cz/verejnost/funkcionari/form/e03d2a9c-044f-42c8-93ff-30d2fc439e54",
+      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-loni-dostal-od-agrofertu-dividendu-425-miliardy-korun-pise-idnes-375138"
+    ]
+  }
+]

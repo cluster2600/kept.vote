@@ -1,0 +1,41 @@
+[
+  {
+    "id": "rob-jetten-int-all4small",
+    "item": "Ambassador, All4Small foundation",
+    "type": "outside activity (unpaid)",
+    "period": "2019–2022",
+    "value": "",
+    "detail": "Listed among his outside activities in his official government CV; All4Small supports care and research for newborns. Ended when he became a minister.",
+    "status": "historical",
+    "source_url": [
+      "https://www.government.nl/government/members-of-cabinet/rob-jetten",
+      "https://www.parlement.com/biografie/raa-rob-jetten"
+    ]
+  },
+  {
+    "id": "rob-jetten-int-ihc",
+    "item": "Member of the committee of recommendation (patrons board), Indisch Herinneringscentrum",
+    "type": "outside activity (honorary)",
+    "period": "2019–2022",
+    "value": "",
+    "detail": "Listed in his official government CV; the centre preserves the memory of events in the Netherlands East Indies during and after the Second World War.",
+    "status": "historical",
+    "source_url": [
+      "https://www.government.nl/government/members-of-cabinet/rob-jetten",
+      "https://www.parlement.com/biografie/raa-rob-jetten"
+    ]
+  },
+  {
+    "id": "rob-jetten-int-iso",
+    "item": "Member of the Advisory Council, Dutch National Student Association (ISO)",
+    "type": "outside activity",
+    "period": "2011/2012–2016",
+    "value": "",
+    "detail": "The government CV gives 2011–2016; parlement.com gives July 2012 – April 2016.",
+    "status": "historical",
+    "source_url": [
+      "https://www.government.nl/government/members-of-cabinet/rob-jetten",
+      "https://www.parlement.com/biografie/raa-rob-jetten"
+    ]
+  }
+]

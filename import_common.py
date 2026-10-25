@@ -7,8 +7,10 @@ any politician's datasets:
   read as ``data/<prefix>_<section>.json``.
 * ``POLITICIAN_SLUG`` — stable slug stored as ``Politician.external_id`` (default
   ``emmanuel-macron``); imports target/create the politician by this slug.
-* ``BIO_JSON``        — optional path to a bio object ``{name, country, party,
-  birth_date, bio}`` used to create the politician if absent.
+* ``BIO_JSON``        — optional path to a bio object ``{name, country,
+  country_code, office, role, content_lang, party, birth_date, bio}``. It
+  creates the politician if absent and refreshes the stored bio fields on every
+  run, so editing the bio file and re-importing updates the row.
 * ``DATA_DIR``        — dataset directory (default ``data``).
 """
 
@@ -21,6 +23,7 @@ import os
 from sqlalchemy import select
 
 from database import Politician
+from profile_format import OFFICES, parse_confidence, pick  # noqa: F401 - re-exported
 
 DATA_DIR = os.getenv("DATA_DIR", "data")
 DATA_PREFIX = os.getenv("DATA_PREFIX", "macron")
@@ -37,6 +40,10 @@ DEFAULT_SLUG = "emmanuel-macron"
 DEFAULT_BIO = {
     "name": "Emmanuel Macron",
     "country": "France",
+    "country_code": "FR",
+    "office": "head_of_state",
+    "role": "President of the French Republic",
+    "content_lang": "en",
     "party": "Renaissance",
     "birth_date": "1977-12-21",
     "bio": (
@@ -108,6 +115,15 @@ async def get_or_create_politician(session) -> Politician:
         )
     ).scalars().first()
     if p is not None:
+        if BIO_JSON:
+            _apply_bio(p, load_bio())
+        else:
+            # Default (Macron) bio: only fill the columns added after the row
+            # was created, never overwrite what's stored.
+            for field in ("country_code", "office", "role", "content_lang"):
+                if getattr(p, field) is None:
+                    setattr(p, field, DEFAULT_BIO[field])
+        await session.flush()
         return p
 
     # Slug not found — we may have to create the politician. Guard rail: only the
@@ -131,17 +147,34 @@ async def get_or_create_politician(session) -> Politician:
         ).scalars().first()
         if p is not None:
             p.external_id = POLITICIAN_SLUG
+            if BIO_JSON:
+                _apply_bio(p, bio)
             await session.flush()
             return p
 
-    p = Politician(
-        external_id=POLITICIAN_SLUG,
-        name=name or POLITICIAN_SLUG,
-        country=bio.get("country"),
-        party=bio.get("party"),
-        birth_date=parse_date(bio.get("birth_date")),
-        bio=bio.get("bio"),
-    )
+    p = Politician(external_id=POLITICIAN_SLUG, name=name or POLITICIAN_SLUG)
+    _apply_bio(p, bio)
     session.add(p)
     await session.flush()
     return p
+
+
+def _apply_bio(p: Politician, bio: dict) -> None:
+    """Copy a bio object's fields onto the politician row."""
+    office = bio.get("office")
+    if office is not None and office not in OFFICES:
+        raise SystemExit(
+            f"Unknown office '{office}' in bio; expected one of {sorted(OFFICES)}."
+        )
+    country_code = bio.get("country_code")
+    if bio.get("name"):
+        p.name = bio["name"]
+    p.country = bio.get("country")
+    p.country_code = country_code.upper() if country_code else None
+    p.office = office
+    p.role = bio.get("role")
+    p.content_lang = bio.get("content_lang")
+    p.party = bio.get("party")
+    p.birth_date = parse_date(bio.get("birth_date"))
+    p.bio = bio.get("bio")
+    p.portrait = bio.get("portrait")

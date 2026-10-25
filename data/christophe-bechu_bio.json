@@ -1,7 +1,19 @@
 {
   "name": "Christophe Béchu",
   "country": "France",
+  "country_code": "FR",
+  "office": "mayor",
+  "role": "Maire d'Angers",
+  "content_lang": "fr",
   "party": "Horizons",
   "birth_date": "1974-06-11",
-  "bio": "Christophe Béchu, né le 11 juin 1974 à Angers, est un homme politique français, maire d'Angers depuis 2014 et président d'Angers Loire Métropole. Figure nationale du bloc central, il a été ministre de la Transition écologique et de la Cohésion des territoires dans les gouvernements d'Élisabeth Borne et de Gabriel Attal (2022-2024), après avoir été ministre délégué chargé des Collectivités territoriales. Ancien président du conseil général de Maine-et-Loire (2004-2014), sénateur (2011-2017) et secrétaire général du parti Horizons, il a été réélu maire d'Angers pour un troisième mandat en mars 2026."
+  "bio": "Christophe Béchu, né le 11 juin 1974 à Angers, est un homme politique français, maire d'Angers depuis 2014 et président d'Angers Loire Métropole. Figure nationale du bloc central, il a été ministre de la Transition écologique et de la Cohésion des territoires dans les gouvernements d'Élisabeth Borne et de Gabriel Attal (2022-2024), après avoir été ministre délégué chargé des Collectivités territoriales. Ancien président du conseil général de Maine-et-Loire (2004-2014), sénateur (2011-2017) et secrétaire général du parti Horizons, il a été réélu maire d'Angers pour un troisième mandat en mars 2026.",
+  "portrait": {
+    "file": "christophe-bechu.webp",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Christophe_B%C3%89CHU.jpg",
+    "author": "AminataDkt",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved": "2026-10-22"
+  }
 }

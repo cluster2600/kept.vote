@@ -1,0 +1,192 @@
+[
+  {
+    "id": "luis-montenegro-pol-espinho-house",
+    "title": "Espinho house: value not stated in his asset declarations, and a complaint over tax benefits (2023–2024)",
+    "period": "May 2023 – December 2024",
+    "category": "asset declarations",
+    "description": "On 5 May 2023 the weekly Expresso reported, as relayed by CNN Portugal, that Montenegro, then PSD leader, had not stated in the income and asset declarations filed with the Constitutional Court up to 2022 the value of the six-storey house (829.6 m² gross floor area) he built near Praia Azul in Espinho, nor where the money to pay for it came from. According to Expresso, the €332,000 construction estimate submitted to the municipality in 2016 implied about €500 per m², which architects it consulted called very low, on top of the €100,000 paid for the derelict building previously on the plot; the law requires officials to declare asset increases above 50 times the minimum wage. Montenegro called the report 'insidious' and full of legal and factual errors, said the house was the first property listed in his declaration with its land-registry description, that the form had no field for the tax value, and that all his assets matched his declared income. In December 2023 the Porto prosecution service opened an inquiry, prompted by an anonymous complaint, into the reduced VAT rate and property-tax exemption granted for the works as an urban rehabilitation; it was closed in December 2024 (see justice).",
+    "status": "no_charges",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Expresso report of 5 May 2023: house value and source of funds not stated in declarations filed up to 2022",
+      "Montenegro and the PSD: all assets 'duly declared' and compatible with declared income; the form has no field for the property's tax value",
+      "The house was first declared in March 2017, as under construction (Observador)",
+      "Prosecution inquiry into the tax benefits opened in late 2023, with no one made a formal suspect, and closed on 2 December 2024"
+    ],
+    "source_url": [
+      "https://cnnportugal.iol.pt/governo/politica/montenegro-nao-declarou-valor-de-casa-de-luxo-em-espinho-ao-tribunal-constitucional/20230505/6454bccbd34ef47b87538255",
+      "https://www.rtp.pt/noticias/economia/moradia-em-espinho-patrimonio-esta-devidamente-declarado-garante-montenegro_n1484275",
+      "https://www.dn.pt/politica/ministerio-publico-abre-inquerito-a-negocio-da-casa-de-montenegro-17578908.html/",
+      "https://www.rtp.pt/noticias/politica/ministerio-publico-arquiva-processo-sobre-beneficios-fiscais-a-casa-de-montenegro_v1618905"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-spinumviva-fall-of-government",
+    "title": "Spinumviva, the family company, and the fall of his first government (2025)",
+    "period": "February – May 2025",
+    "category": "conflict of interest",
+    "description": "On 15 February 2025 CNN Portugal, following Correio da Manhã, reported that Montenegro's wife and sons owned a company, Spinumviva, with real-estate business among its activities, which Correio da Manhã said could benefit from the government's revision of the land-use law; Montenegro called the idea of a conflict of interest 'absurd' (ECO). He had founded the company in 2021 with 62.5% and transferred his stake to his wife in 2022, on becoming PSD leader; lawyers quoted by CNN Portugal said a sale between spouses married under community property could be null, and that under the law it made no difference whether the stake was his or his wife's. The company, whose registered office is the family home, invoiced €718,000 from 2021 to 2023 (CNN Portugal). On 28 February Expresso reported, and the casino and hotel group Solverde confirmed, that Solverde paid Spinumviva €4,500 a month for compliance and data-protection services (€2,500 for legal services until May 2022); according to ECO, Montenegro had led negotiations with the previous government between 2018 and 2022 to extend Solverde's casino concessions in Espinho and the Algarve. The company then published its client list; Solverde ended its contract on 5 March. Montenegro said he had never decided anything in a conflict of interest as Prime Minister. A Chega censure motion was rejected on 21 February 2025; after the PS announced a parliamentary inquiry, Montenegro tabled a motion of confidence, which parliament rejected on 11 March 2025 with the votes of PS, Chega, PCP, BE, Livre and PAN, bringing down the government. In the snap election of 18 May 2025 the AD rose from 80 to 91 seats. The prosecution service's preventive inquiry was closed in December 2025 with no indication of a crime (see justice).",
+    "status": "political",
+    "confidence_score": 0.9,
+    "key_facts": [
+      "Spinumviva founded in 2021; Montenegro's 62.5% stake transferred to his wife in 2022",
+      "Solverde paid €4,500 a month, at least 30% of Spinumviva's turnover according to Expresso (via RTP); contract ended 5 March 2025",
+      "21 February 2025: Chega censure motion rejected (only Chega in favour; PCP abstained)",
+      "11 March 2025: motion of confidence rejected; second time in Portuguese democracy that a government fell this way (ECO)",
+      "18 May 2025: AD wins 91 seats; Montenegro reappointed"
+    ],
+    "source_url": [
+      "https://cnnportugal.iol.pt/montenegro/luis-montenegro/mulher-e-filhos-de-luis-montenegro-tem-uma-empresa-imobiliaria/20250215/67b0a925d34ef72ee4424edf",
+      "https://cnnportugal.iol.pt/spinumviva/luis-montenegro/montenegro-vendeu-participacao-na-spinumviva-a-mulher-numa-operacao-nula-e-inutil/20250220/67b79c5fd34e3f0bae9abd23",
+      "https://eco.sapo.pt/2025/02/15/montenegro-nega-conflito-de-interesse-por-familia-deter-imobiliaria/",
+      "https://www.rtp.pt/noticias/politica/solverde-paga-avenca-de-4500-euros-a-empresa-familiar-de-montenegro_n1637520",
+      "https://cnnportugal.iol.pt/montenegro/montenegro-reage-as-noticias-enquanto-primeiro-ministro-nunca-decidi-nada-em-conflito-de-interesses-nunca-aconteceu-e-nunca-acontecera/20250228/67c1a544d34e3f0bae9b1232",
+      "https://www.rtp.pt/noticias/politica/mocao-de-censura-iniciativa-do-chega-foi-chumbada-no-parlamento_n1636060",
+      "https://eco.sapo.pt/2025/03/11/parlamento-chumba-mocao-de-confianca-e-dita-queda-do-governo/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-lisbon-flats",
+    "title": "Purchase of two flats in Lisbon and questions about the funding (2025)",
+    "period": "March – December 2025",
+    "category": "assets",
+    "description": "On 1 March 2025 Jornal de Negócios, citing Correio da Manhã, reported that Montenegro's family had bought two one-bedroom flats in the same building in Estrela, Lisbon, between the end of 2023 and the end of 2024 for a total of €715,000, with no bank loan mentioned in the deeds: one in December 2023, bought by his children for more than €300,000, and one on 29 November 2024, bought by Montenegro and his wife for more than €400,000. Correio da Manhã said the declarations filed with the Entidade para a Transparência did not show the origin of more than €226,000 used in his purchase; Montenegro told the paper that 'the origin of my assets was work' and that there were no hidden data or means. Observador, which consulted his declarations, reported that an amendment filed in December 2024 recorded the purchase of a Lisbon flat for more than €300,000, financed partly with his own funds and partly with a €100,000 mortgage; the two accounts differ on price and financing. New complaints about the two purchases were added to the prosecution service's preventive inquiry, which was closed in December 2025 with no indication of a crime.",
+    "status": "no_charges",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "Two flats in the same building, bought December 2023 and November 2024 (Correio da Manhã via Jornal de Negócios)",
+      "Reported total: €715,000",
+      "December 2024 declaration amendment: Lisbon flat for more than €300,000, €100,000 mortgage (Observador)",
+      "The purchases became part of the DCIAP preventive inquiry, closed on 16 December 2025"
+    ],
+    "source_url": [
+      "https://www.jornaldenegocios.pt/economia/politica/detalhe/familia-de-montenegro-paga-a-pronto-715-mil-euros-na-compra-de-duas-casas-em-lisboa",
+      "https://observador.pt/especiais/os-investimentos-na-bolsa-as-empresas-e-o-jaguar/",
+      "https://dciap.ministeriopublico.pt/destaque/averiguacao-preventiva-spinumviva-arquivamento"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-declarations-access",
+    "title": "Opposition to public access to parts of his declarations, and the Spinumviva client list (2025–2026)",
+    "period": "2025 – present",
+    "category": "transparency",
+    "description": "In 2025 the Entidade para a Transparência (EpT), the Constitutional Court body that receives politicians' single declarations of income, assets and interests, confirmed to RTP that Montenegro had filed requests opposing public consultation of his declarations; RTP found that all the declarations he had filed (as Prime Minister of the previous government, PSD president, Councillor of State and MP) were locked on the EpT's public platform. The Prime Minister's office said it had only partially challenged elements already public (the client list) that were the subject of an appeal to the Constitutional Court. The Court refused to hear that appeal, against an EpT decision of 4 April 2025, because it was filed after the 15-day deadline, and on 12 March 2026 its plenary unanimously rejected his claim that the decision was null; the result is that the Spinumviva client list must appear in his register of interests. On 26 March 2026 Montenegro published the list of 13 clients, saying it had been given to the EpT in April 2025 and that he had received 38 EpT notifications asking him to repeat that information; the EpT replied that publication does not replace the declaratory obligations. Two further appeals, of 12 August 2025 and 20 May 2026, concerning public access to the services Spinumviva provided to its clients and to bank-account balances, were pending as of August 2026, keeping those elements closed to the public (see justice).",
+    "status": "ongoing",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "EpT: the opposition requests have suspensive effect until the Constitutional Court rules",
+      "12 March 2026: Constitutional Court plenary rejects his complaint; client list must be in the register of interests",
+      "26 March 2026: client list of 13 companies published by the Prime Minister's office",
+      "EpT: the sanctions for failing to declare do not apply to the Prime Minister; non-compliance can be reported to the prosecution service",
+      "Appeals of 12 August 2025 and 20 May 2026 still undecided (Constitutional Court, via Correio da Manhã, August 2026)"
+    ],
+    "source_url": [
+      "https://www.rtp.pt/noticias/economia/montenegro-opoe-se-a-consulta-publica-de-declaracao-unica-de-rendimentos_n1666027",
+      "https://www.rtp.pt/noticias/pais/spinumviva-tribunal-constitucional-recusa-em-definitivo-analisar-recurso-de-montenegro_n1725973",
+      "https://eco.sapo.pt/2026/03/13/spinumviva-constitucional-decide-que-lista-de-clientes-de-montenegro-tem-de-ser-publica/",
+      "https://www.rtp.pt/noticias/lusa/montenegro-diz-que-divulgacao-dos-clientes-da-spinumviva-segue-termos-definidos-pela-entidade-para-a-transparencia_n1733920",
+      "https://observador.pt/2026/06/04/luis-montenegro-avancou-com-dois-recursos-junto-do-tribunal-constitucional-sobre-dados-da-spinumviva/",
+      "https://cnnportugal.iol.pt/spinumviva/luis-montenegro/spinumviva-recurso-de-montenegro-parado-ha-um-ano/20260826/6a8e85ced34e511da0b35589"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-hernani-dias",
+    "title": "Resignation of Secretary of State Hernâni Dias over property companies and the new land law (2025)",
+    "period": "January – March 2025",
+    "category": "conflict of interest (government member)",
+    "description": "On 28 January 2025 Hernâni Dias, Secretary of State for Local Administration and Spatial Planning in Montenegro's first government, resigned, and Montenegro accepted, after RTP reported that he had set up two real-estate companies that could benefit from the government's new land-use law (Lei dos Solos), prepared under his ministry. Observador noted that he was also under investigation by the European Public Prosecutor's Office over his time as mayor of Bragança. Dias told parliament there had been no exploitation of the law and no purchase of land, and that the Entidade para a Transparência had cleared the first company. On 31 March 2025 Observador reported that he had not been made a formal suspect (arguido) but remained a suspect in two inquiries; he headed the PSD list in Bragança in the May 2025 election. Montenegro is not a party to these proceedings.",
+    "status": "political",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "Resignation on 28 January 2025, accepted by Montenegro",
+      "The land-use decree was published about two months after the first company was created",
+      "Investigation by the European Public Prosecutor's Office concerns his time as mayor of Bragança",
+      "Head of the PSD list in Bragança in May 2025 (CNN Portugal)"
+    ],
+    "source_url": [
+      "https://observador.pt/2025/01/28/hernani-dias-apresenta-demissao-montenegro-ja-aceitou/",
+      "https://www.rtp.pt/noticias/politica/lei-dos-solos-ex-secretario-de-estado-garante-que-cumpriu-a-lei_n1632031",
+      "https://observador.pt/2025/03/31/hernani-dias-nao-foi-constituido-arguido-mas-continua-a-ser-suspeito-em-dois-inqueritos/",
+      "https://cnnportugal.iol.pt/legislativas/cabecas-de-lista/e-cabeca-de-lista-do-psd-o-secretario-de-estado-que-se-demitiu-devido-a-lei-dos-solos-criacao-de-empresas/20250326/67e45713d34ef72ee443f66f"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-wildfires-2025",
+    "title": "Government response to the August 2025 wildfires",
+    "period": "August – November 2025",
+    "category": "crisis management",
+    "description": "During the wildfires of August 2025, Montenegro said on 18 August, at the civil protection headquarters, that the government kept 'total confidence' in the firefighting system after '24 days of meteorological severity without precedent' and appealed for trust in the authorities (CNN Portugal). The government faced criticism over its response and its perceived absence, which Montenegro moved to counter (Observador); on 21 August the Council of Ministers approved 45 measures and a forest protection plan for 2025–2050, Montenegro saying the country was 'distraught' and that he was sensitive to the frustration of the affected populations (ECO). A report by the OECD presented to parliament in November 2025 found that the 2024 and 2025 fires revealed 'coordination failures' between the forces on the ground that delayed response times and increased the spread of fires.",
+    "status": "political",
+    "confidence_score": 0.7,
+    "key_facts": [
+      "18 August 2025: Montenegro expresses 'total confidence' in the firefighting system",
+      "21 August 2025: 45 response measures and a 2025–2050 forest protection plan approved",
+      "19 November 2025: OECD report on coordination failures in the 2024 and 2025 fires (Lusa via Renascença)"
+    ],
+    "source_url": [
+      "https://cnnportugal.iol.pt/incendios/primeiro-ministro/estamos-todos-muito-esgotados-sao-dias-e-dias-de-sofrimento-com-os-incendios-montenegro-fala-em-24-dias-como-nao-ha-registo/20250818/68a31ae6d34e3f0baea1bb04",
+      "https://observador.pt/especiais/montenegro-corre-para-corrigir-percecoes-negativas-e-prepara-respostas-rapidas-para-os-afetados/",
+      "https://eco.sapo.pt/2025/08/21/governo-aprova-plano-de-protecao-para-a-floresta-ate-2050-e-quer-pacto-para-protecao-do-territorio/",
+      "https://rr.pt/noticia/pais/2025/11/19/ocde-aponta-o-dedo-incendios-de-2024-e-2025-revelaram-falhas-de-coordenacao/448456/"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-storms-2026-interior-minister",
+    "title": "Response to storms Kristin, Leonardo and Marta and the Interior Minister's resignation (2026)",
+    "period": "January – February 2026",
+    "category": "crisis management",
+    "description": "The storms Kristin, Leonardo and Marta caused 15 deaths from 28 January 2026, as well as hundreds of injured and displaced people, according to CNN Portugal. Interior Minister Maria Lúcia Amaral was criticised for her absence from the field, for saying she was working 'in a context of invisibility', and for saying publicly that she did not know what had failed and that what was happening was 'a learning experience'. On 10 February 2026 President Marcelo Rebelo de Sousa announced that he had accepted her resignation, proposed by the Prime Minister, who took over the ministry temporarily; it was the first resignation from the XXV Government. Luís Neves, until then national director of the Judicial Police, was sworn in as Interior Minister on 23 February 2026.",
+    "status": "political",
+    "confidence_score": 0.85,
+    "key_facts": [
+      "15 deaths from the storms since 28 January 2026 (CNN Portugal, 10 February 2026)",
+      "Resignation of Maria Lúcia Amaral announced by the Presidency on 10 February 2026",
+      "Montenegro acting Interior Minister until 23 February 2026"
+    ],
+    "source_url": [
+      "https://cnnportugal.iol.pt/geral/ministra-da-administracao-interna-demite-se/20260210/698b9e98d34e92a34498b301",
+      "https://cnnportugal.iol.pt/governo/ministerio-da-administracao-interna/luis-neves-toma-posse-como-ministro-da-administracao-interna/20260223/699c24d7d34e28842c80f5d6"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-luis-neves",
+    "title": "Prosecution inquiries concerning Interior Minister Luís Neves, and Chega's censure motion (2026)",
+    "period": "July 2026 – present",
+    "category": "judicial",
+    "description": "From July 2026 a series of reports concerned Luís Neves, whom Montenegro appointed Interior Minister in February 2026 after he had led the Judicial Police (PJ). A trailer seized by the PJ in a drug-trafficking operation was found at the premises of Construbarcelos, the contractor that renovated Neves's family house in Odemira and that had public contracts with the PJ while he was its national director; the PJ reported indications of smuggling ('descaminho') and abuse of power, and a judicial source told Observador that only Neves, as national director, could authorise the trailer's movement. In September 2026 Prosecutor General Amadeu Guerra said three inquiries were open, on the trailer, on the Odemira house and on Neves's use of a car seized by the PJ, alongside a Court of Auditors case and an administrative investigation; Neves said he welcomed all investigations. Chega tabled a censure motion against the government for keeping him in office; it was rejected on 8 September 2026 with 60 votes in favour (Chega), 104 against and 62 abstentions (PS, PCP, BE and JPP). Neves remained minister. Montenegro is not a party to these inquiries, and no charge against Neves had been reported in the sources consulted as of October 2026.",
+    "status": "judicial",
+    "confidence_score": 0.8,
+    "key_facts": [
+      "Three prosecution inquiries, two classified as urgent (RTP)",
+      "Chega also set up a parliamentary inquiry into Neves's tenure at the PJ",
+      "8 September 2026: censure motion rejected; PSD, CDS-PP, IL, Livre and PAN voted against",
+      "Neves is presumed innocent; he has not been charged"
+    ],
+    "source_url": [
+      "https://observador.pt/2026/07/21/pj-aponta-crimes-de-descaminho-e-abuso-de-poder-no-atrelado-de-droga-ligado-ao-ministro-luis-neves-e-a-empresa-do-amigo/",
+      "https://www.rtp.pt/noticias/pais/ministerio-publico-tem-tres-inqueritos-abertos-sobre-as-polemicas-de-luis-neves_n1763229",
+      "https://www.rtp.pt/noticias/politica/chega-deu-entrada-de-uma-mocao-de-censura-anuncia-andre-ventura_n1762988",
+      "https://cnnportugal.iol.pt/mocao-de-censura/governo/sem-surpresa-chega-fica-sozinho-e-mocao-de-censura-ao-governo-e-chumbada/20260908/6aa03fa4d34ed0733ba840c2"
+    ]
+  },
+  {
+    "id": "luis-montenegro-pol-lajes-iran",
+    "title": "Use of Lajes Air Base by US forces during the 2026 strikes on Iran",
+    "period": "March 2026 – present",
+    "category": "foreign policy",
+    "description": "After the joint US–Israeli strikes on Iran began on 28 February 2026, the movement of US military aircraft through Lajes Air Base in the Azores increased, raising questions about whether the government had authorised it. Foreign Minister Paulo Rangel said there had been no involvement from Lajes in triggering the conflict and distinguished between movements before and after the attack (Observador). The PS called the affair a 'humiliation on a planetary scale' and demanded Rangel's hearing in parliament (DN); former foreign ministers disagreed over whether the 1995 Portugal–US agreement allowed use of the base for unilateral operations (RTP). After a complaint filed in April 2026 by members of the Bloco de Esquerda, the Prosecutor General's Office confirmed on 2 October 2026 that an inquiry had been opened into the legality of the base's use by the United States. Montenegro is not a party to that inquiry.",
+    "status": "ongoing",
+    "confidence_score": 0.75,
+    "key_facts": [
+      "28 February 2026: US–Israeli strikes on Iran; increased US traffic at Lajes",
+      "The government says the US use of the base complied with the 1995 agreement",
+      "2 October 2026: prosecution inquiry confirmed, following a Bloco de Esquerda complaint"
+    ],
+    "source_url": [
+      "https://observador.pt/especiais/explicador-entre-os-eua-e-o-irao-o-que-colocou-a-base-das-lajes-no-centro-das-atencoes/",
+      "https://www.dn.pt/pol%C3%ADtica/utilizao-da-base-das-lajes-ps-pede-audio-de-rangel-para-debater-humilhao-escala-planetria",
+      "https://www.rtp.pt/noticias/pais/antigos-mne-discordam-sobre-uso-da-base-das-lajes-pelos-eua-em-operacoes-unilaterais_n1721784",
+      "https://www.dn.pt/sociedade/ministrio-pblico-abre-inqurito-sobre-utilizao-da-base-das-lajes-pelos-eua"
+    ]
+  }
+]

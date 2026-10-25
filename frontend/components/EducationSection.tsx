@@ -1,19 +1,20 @@
 import { type EducationItem } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import type { I18nProps } from "@/lib/i18n/props";
 
 /** Concise education list (detailed breakout; may overlap work-history). */
 export default function EducationSection({
   items,
-}: {
-  items: EducationItem[];
-}) {
+  dict,
+  lang,
+}: { items: EducationItem[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ul className="space-y-3">
       {items.map((item) => (
         <li
           key={item.id}
-          className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm"
+          className="rounded-xl border border-slate-200 bg-white p-4 shadow-xs"
         >
           <div className="flex flex-wrap items-baseline justify-between gap-x-3">
             <h3 className="font-semibold text-slate-900">{item.institution}</h3>
@@ -31,7 +32,7 @@ export default function EducationSection({
               {item.detail}
             </p>
           )}
-          <SourceLinks urls={item.source_urls} />
+          <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
         </li>
       ))}
     </ul>

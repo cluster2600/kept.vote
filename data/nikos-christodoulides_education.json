@@ -1,0 +1,60 @@
+[
+  {
+    "id": "nikos-christodoulides-edu-lyceum",
+    "institution": "Lyceum A' Ethnarch Makarios III, Paphos",
+    "qualification": "Secondary school leaving certificate",
+    "field": "General secondary education",
+    "years": "until 1991",
+    "detail": "Graduated in 1991; he then did his two-year national service in the Cypriot National Guard.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-edu-queens-college",
+    "institution": "Queens College, City University of New York (CUNY)",
+    "qualification": "Bachelor of Arts",
+    "field": "Political science, economics, Byzantine and modern Greek studies",
+    "years": "until 1997",
+    "detail": "Degree listed in his official biography; Wikipedia gives 1997 as the graduation year.",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/",
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-edu-nyu",
+    "institution": "New York University",
+    "qualification": "Master's degree",
+    "field": "Political science",
+    "years": "late 1990s",
+    "detail": "Listed in his official biography.",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-edu-malta",
+    "institution": "University of Malta, Mediterranean Academy of Diplomatic Studies",
+    "qualification": "Master's degree",
+    "field": "Diplomatic studies",
+    "years": "",
+    "detail": "Reported by the Cyprus Mail and Wikipedia; not listed in the current presidency biography.",
+    "source_url": [
+      "https://cyprus-mail.com/2023/02/12/christodoulides-promises-to-stand-by-election-promises/",
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+    ]
+  },
+  {
+    "id": "nikos-christodoulides-edu-athens-phd",
+    "institution": "National and Kapodistrian University of Athens, Department of Political Science and Public Administration",
+    "qualification": "Doctorate (PhD)",
+    "field": "Political science and public administration",
+    "years": "until 2003",
+    "detail": "Doctorate listed in his official biography; Wikipedia, citing his foreign ministry CV, gives 2003.",
+    "source_url": [
+      "https://www.gov.cy/presidency/en/about/the-president-of-the-republic/",
+      "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
+    ]
+  }
+]

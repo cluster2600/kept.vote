@@ -1,0 +1,70 @@
+[
+  {
+    "id": "rumen-radev-edu-haskovo",
+    "institution": "Mathematics High School, Haskovo",
+    "qualification": "Secondary school leaving diploma, with a gold medal",
+    "field": "Mathematics-oriented secondary education",
+    "years": "until 1982",
+    "detail": "The government biography states that he graduated from the Haskovo mathematics high school with a gold medal; Wikipedia dates his graduation to 1982.",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel",
+      "https://en.wikipedia.org/wiki/Rumen_Radev"
+    ]
+  },
+  {
+    "id": "rumen-radev-edu-air-force-school",
+    "institution": "Georgi Benkovski Higher Air Force School, Dolna Mitropoliya",
+    "qualification": "Graduate, top of his class",
+    "field": "Military aviation (fighter pilot)",
+    "years": "until 1987",
+    "detail": "Graduated as the top of his year from the air force school in Dolna Mitropoliya.",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel",
+      "https://en.wikipedia.org/wiki/Rumen_Radev"
+    ]
+  },
+  {
+    "id": "rumen-radev-edu-squadron-officer-school",
+    "institution": "United States Air Force Squadron Officer School, Maxwell Air Force Base (Alabama, United States)",
+    "qualification": "Squadron officer course",
+    "field": "Military leadership",
+    "years": "1992",
+    "detail": "Completed the 'Maxwell' squadron officer course in the United States in 1992.",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel"
+    ]
+  },
+  {
+    "id": "rumen-radev-edu-rakovski-academy",
+    "institution": "G. S. Rakovski Military Academy, Sofia",
+    "qualification": "Command and staff course, graduated top of his class",
+    "field": "Command and staff studies",
+    "years": "1994–1996",
+    "detail": "Attended the command and staff programme of the Rakovski Military Academy from 1994 to 1996.",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel"
+    ]
+  },
+  {
+    "id": "rumen-radev-edu-doctorate",
+    "institution": "Doctorate in military sciences (awarding institution not named in the government biography)",
+    "qualification": "Doctor of military sciences",
+    "field": "Tactical training of flight crews and simulation of air combat",
+    "years": "2000",
+    "detail": "Earned a doctorate in military sciences in 2000 on improving the tactical training of aircrews and simulating air combat.",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel"
+    ]
+  },
+  {
+    "id": "rumen-radev-edu-air-war-college",
+    "institution": "United States Air War College, Maxwell Air Force Base (Alabama, United States)",
+    "qualification": "Master's degree in Strategic Studies, with distinction",
+    "field": "Strategic studies",
+    "years": "2003",
+    "detail": "Graduated with distinction in 2003; the government biography states that his name is inscribed on the college's Hall of Fame.",
+    "source_url": [
+      "https://www.gov.bg/bg/pravitelstvo/ministar-predsedatel"
+    ]
+  }
+]

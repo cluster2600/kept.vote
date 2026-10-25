@@ -1,0 +1,90 @@
+[
+  {
+    "id": "giorgia-meloni-income-2021",
+    "year": 2021,
+    "type": "income",
+    "label": "Total declared income (reddito complessivo), tax year 2021",
+    "amount": "160,706 EUR",
+    "detail": "From the 730/2022 tax return published under Italian transparency rules (Law 441/1982; Legislative Decree 33/2013, art. 14). Components: parliamentary allowance 98,471 EUR; author's income from the economic use of intellectual works 55,000 EUR gross (41,250 EUR after the 25% flat deduction); 19,000 EUR of occasional self-employment income; 1,985 EUR attributed to the main home. Taxable income 151,915 EUR; net tax 50,857 EUR.",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_Redditi2022.pdf",
+      "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7e8797a1-d4c3-40be-847b-935fd7c29f2b",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-income-2022",
+    "year": 2022,
+    "type": "income",
+    "label": "Total declared income (reddito complessivo), tax year 2022",
+    "amount": "293,531 EUR",
+    "detail": "From the Redditi PF 2023 return. Components: parliamentary allowance 98,471 EUR; author's royalties 257,434 EUR gross (193,075 EUR net of the 25% flat deduction); 1,985 EUR attributed to the main home. Taxable income 284,798 EUR; net tax 108,878 EUR. The returns do not name the works; press reports link the royalties to her books.",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_redditi_2023.pdf",
+      "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c1f4dc12-0ad9-4f0a-b338-7bb524716138",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-income-2023",
+    "year": 2023,
+    "type": "income",
+    "label": "Total declared income (reddito complessivo), tax year 2023",
+    "amount": "459,460 EUR",
+    "detail": "From the Redditi PF 2024 return. Components: parliamentary allowance 98,471 EUR; author's royalties 478,672 EUR gross (359,004 EUR net of the 25% flat deduction); 1,985 EUR attributed to the main home. Taxable income 451,196 EUR; net tax 180,983 EUR. Press coverage in October 2024 described it as 'almost half a million' euros.",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_Redditi2024.pdf",
+      "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/27317665-b7a4-4ea6-a4e8-f34570ff4f18",
+      "https://www.lapresse.it/politica/2024/10/15/redditi-dei-politici-online-le-cifre-quasi-mezzo-milione-per-meloni/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-income-2024",
+    "year": 2024,
+    "type": "income",
+    "label": "Total declared income (reddito complessivo), tax year 2024",
+    "amount": "180,031 EUR",
+    "detail": "From the Redditi PF 2025 return, signed 28 October 2025. Components: parliamentary allowance 98,471 EUR; author's royalties 35,260 EUR gross (26,445 EUR net); 55,000 EUR declared as compensation for 'obblighi di fare, non fare o permettere' (the form does not specify the source); 115 EUR attributed to the main home. Taxable income 178,371 EUR; net tax 63,066 EUR. Some press reports gave slightly different totals (e.g. 180,081 EUR); the figure here is the one on the official return.",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_redditi_2025.pdf",
+      "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/af368826-3669-452b-b980-3bc34aad83c6",
+      "https://www.open.online/2025/11/04/giorgia-meloni-dichiarazione-redditi-2025/"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-parliamentary-allowance",
+    "year": 2024,
+    "type": "salary",
+    "label": "Parliamentary allowance (indennità parlamentare), Chamber of Deputies",
+    "amount": "98,471 EUR per year (2021–2024)",
+    "detail": "The same taxable allowance from the Chamber of Deputies appears in each published return for tax years 2021 to 2024.",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_redditi_2025.pdf",
+      "https://www.camera.it/deputati/elenco/19-302103"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-no-pm-salary",
+    "year": 2023,
+    "type": "salary",
+    "label": "No remuneration as President of the Council of Ministers",
+    "amount": "0 EUR",
+    "detail": "A declaration published on the Presidency of the Council's transparency page (dated 20 January 2023) states that she receives no compensation from the Presidency, under the rule against cumulating a ministerial salary with the parliamentary allowance (Decree-Law 54/2013, art. 3).",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni__Compensi.pdf",
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/Pres_Meloni.html"
+    ]
+  },
+  {
+    "id": "giorgia-meloni-campaign-2022",
+    "year": 2022,
+    "type": "campaign_finance",
+    "label": "Declared contributions for the 25 September 2022 election campaign",
+    "amount": "9 contributions of between 1,000 and 20,000 EUR (total not legible in the published copy)",
+    "detail": "Electoral declaration filed with the Chamber of Deputies (Law 441/1982 and Law 515/1993), with receipts from her electoral agent (mandatario elettorale) and contribution statements under Law 659/1981; the published copy does not state an overall spending total.",
+    "source_url": [
+      "https://presidenza.governo.it/AmministrazioneTrasparente/Organizzazione/OrganiIndirizzoPolitico/GovernoMeloni/PresMeloni/PresMeloni_SpeseElettorali_2022.pdf",
+      "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7e8797a1-d4c3-40be-847b-935fd7c29f2b"
+    ]
+  }
+]

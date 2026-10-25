@@ -1,0 +1,52 @@
+[
+  {
+    "id": "donald-tusk-nw-2023-appointment",
+    "year": 2023,
+    "declared_net_worth": "No consolidated figure published. On appointment (13 Dec 2023): 112,000 PLN and 285,000 EUR in cash; life-insurance policies of 300,000 PLN (ERGO Hestia) and 2 x 70,000 PLN (Allianz); no real estate; no shares; no liabilities over 10,000 PLN.",
+    "note": "From the declaration filed on appointment as Prime Minister (signed in Warsaw on 13 December 2023), published by the Chancellery of the Prime Minister (KPRM). Polish asset declarations (oświadczenia o stanie majątkowym) list assets item by item and do not state a consolidated net worth; this summary only restates the declared components.",
+    "status": "declared",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/65f370e9-8bf3-4fad-b0b4-165104885261"
+    ]
+  },
+  {
+    "id": "donald-tusk-nw-2023",
+    "year": 2023,
+    "declared_net_worth": "No consolidated figure published. As of 31 Dec 2023: 120,000 PLN and 295,000 EUR in cash; life-insurance policies of 300,000 PLN (ERGO Hestia) and 2 x 70,000 PLN (Allianz); no real estate; no shares; no liabilities over 10,000 PLN.",
+    "note": "From the periodic declaration as of 31 December 2023 (signed in Warsaw on 28 March 2024), published by KPRM. Polish asset declarations (oświadczenia o stanie majątkowym) list assets item by item and do not state a consolidated net worth; this summary only restates the declared components.",
+    "status": "declared",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/68c1e70d-de8f-40f7-a906-2dd52f826d03",
+      "https://www.polsatnews.pl/wiadomosc/2024-04-27/oswiadczenie-majatkowe-donalda-tuska-premier-ma-dwie-zagraniczne-emerytury/"
+    ]
+  },
+  {
+    "id": "donald-tusk-nw-2024",
+    "year": 2024,
+    "declared_net_worth": "No consolidated figure published. As of 31 Dec 2024 (as reported): about 220,000 PLN and 290,000 EUR in cash; life-insurance policies of 300,000 PLN (ERGO Hestia) and 2 x 70,000 PLN (Allianz); no real estate; no car; no liabilities over 10,000 PLN.",
+    "note": "From the periodic declaration as of 31 December 2024, published on the Sejm website in June 2025; figures as reported by TVN24, Dziennik.pl and Interia (the original was not on the KPRM page at the research date). Polish asset declarations (oświadczenia o stanie majątkowym) list assets item by item and do not state a consolidated net worth; this summary only restates the declared components.",
+    "status": "declared",
+    "source_url": [
+      "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp?id=400&type=A",
+      "https://tvn24.pl/biznes/z-kraju/oswiadczenie-majatkowe-donalda-tuska-za-2024-rok-st8493595",
+      "https://gospodarka.dziennik.pl/news/artykuly/9814285,oswiadczenie-majatkowe-donalda-tuska-tyle-zarabia-donald-tusk-premier-opublikowal-nowe-oswiadczenie-majatkowe.html",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657"
+    ]
+  },
+  {
+    "id": "donald-tusk-nw-2025",
+    "year": 2025,
+    "declared_net_worth": "No consolidated figure published. As of 31 Dec 2025: 49,568.36 PLN and 282,642 EUR in cash; two Allianz life and endowment policies totalling 140,000 PLN (the ERGO Hestia policy is no longer listed); no real estate; no shares; no liabilities over 10,000 PLN.",
+    "note": "From the periodic declaration as of 31 December 2025 (signed in Warsaw on 26 March 2026), published by KPRM and on the Sejm website. Polish asset declarations (oświadczenia o stanie majątkowym) list assets item by item and do not state a consolidated net worth; this summary only restates the declared components.",
+    "status": "declared",
+    "source_url": [
+      "https://www.gov.pl/web/premier/prezes-rady-ministrow---donald-tusk",
+      "https://www.gov.pl/attachment/14365f5f-fe75-4b1e-9241-a81bf6b62262",
+      "https://orka.sejm.gov.pl/osw10.nsf/0/70297BA961F71A2FC1258DE10038317D/%24File/OSW103_400.pdf",
+      "https://wydarzenia.interia.pl/kraj/news-nowe-oswiadczenie-majatkowe-tuska-z-konta-premiera-zniknely,nId,23491657",
+      "https://www.rp.pl/polityka/art44553781-oswiadczenie-majatkowe-donalda-tuska-premier-zarobil-ponad-800-tys-zl"
+    ]
+  }
+]

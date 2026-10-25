@@ -1,0 +1,19 @@
+{
+  "name": "Kyriakos Mitsotakis",
+  "country": "Greece",
+  "country_code": "GR",
+  "office": "head_of_government",
+  "role": "Prime Minister of the Hellenic Republic (Πρωθυπουργός της Ελληνικής Δημοκρατίας)",
+  "content_lang": "en",
+  "party": "Νέα Δημοκρατία / New Democracy (ND) — European People's Party (EPP)",
+  "birth_date": "1968-03-04",
+  "bio": "Kyriakos Mitsotakis (Κυριάκος Μητσοτάκης), born in Athens on 4 March 1968, has been Prime Minister of Greece since 8 July 2019, apart from a caretaker interlude between the May and June 2023 elections, and has led New Democracy (ND) since January 2016. The son of former Prime Minister Konstantinos Mitsotakis and a graduate of Harvard and Stanford, he worked in banking, consulting and venture capital before being elected MP for Athens B in 2004, and was Minister of Administrative Reform and e-Governance from 2013 to 2015. He won the July 2019 election with 39.85% of the vote and 158 of 300 seats and, after the May 2023 vote produced no majority, was re-elected in June 2023 with 40.56% and again 158 seats. His governments have overseen Greece's return to investment grade (completed when Moody's upgraded the country in March 2025), tax cuts and successive minimum-wage rises, the legalisation of same-sex civil marriage in 2024 and a harder line on migration, while facing the 2022 wiretapping scandal, the Tempi rail disaster of February 2023 and the EU-funded farm-subsidy fraud investigated by the European Public Prosecutor's Office, which led to ministerial resignations in 2025 and April 2026. As of October 2026 he heads a single-party ND government ahead of the parliamentary election due in 2027; a constitutional revision backed by his majority, including changes to Article 86 on ministerial criminal liability and Article 16 on universities, now awaits the next parliament.",
+  "portrait": {
+    "file": "kyriakos-mitsotakis.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kyriakos_Mitsotakis_2026.jpg",
+    "author": "Yorgos Karahalis",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "retrieved": "2026-10-22"
+  }
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "id": "mindaugas-sinkevicius-wh-lijot",
+    "role": "Vice-president",
+    "organization": "Lithuanian Youth Council (Lietuvos jaunimo organizacijų taryba, LiJOT)",
+    "start_date": "2007",
+    "end_date": "2009",
+    "description": "While a student he was active in youth organisations, including the Lithuanian Social Democratic Youth Union, and served as vice-president of the national youth council umbrella body (VLE).",
+    "category": "civil_society",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-jonava-council",
+    "role": "Member of the Jonava District Municipal Council (LSDP)",
+    "organization": "Jonava District Municipality (Jonavos rajono savivaldybė)",
+    "start_date": "2007",
+    "end_date": "2026-07",
+    "description": "Elected to the council in 2007; a member in 2007–2016 and again from 2019, with an interruption from September 2024 to March 2025 when his mandate was revoked in the expenses case (VLE, LRT). He left municipal office on becoming Prime Minister in July 2026.",
+    "category": "local_government",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://www.lrt.lt/naujienos/lietuvoje/2/2985085/vrk-panaikino-jonavos-mero-mindaugo-sinkeviciaus-igaliojimus"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-deputy-mayor",
+    "role": "Deputy Mayor of Jonava District",
+    "organization": "Jonava District Municipality",
+    "start_date": "2008",
+    "end_date": "2009",
+    "description": "Deputy mayor of Jonava District. The Universal Lithuanian Encyclopaedia (VLE) gives 2008–2009; the Government's official CV gives 2008–2011.",
+    "category": "local_government",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-projektu-centras",
+    "role": "Project manager",
+    "organization": "Projektų centras (private company)",
+    "start_date": "2009",
+    "end_date": "2011",
+    "description": "Worked at the company before becoming mayor (VLE).",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-mayor-1",
+    "role": "Mayor of Jonava District (Jonavos rajono savivaldybės meras)",
+    "organization": "Jonava District Municipality",
+    "start_date": "2011-04",
+    "end_date": "2016-12",
+    "description": "Elected mayor by the municipal council in April 2011, aged 26, then re-elected in Lithuania's first direct mayoral election in 2015; he left the post on joining the government in December 2016.",
+    "category": "local_government",
+    "source_url": [
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://en.wikipedia.org/wiki/Mindaugas_Sinkevi%C4%8Dius"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-economy-minister",
+    "role": "Minister of the Economy (ūkio ministras)",
+    "organization": "Government of Lithuania (17th government, Prime Minister Saulius Skvernelis)",
+    "start_date": "2016-12-13",
+    "end_date": "2017-11-27",
+    "description": "LSDP nominee in the coalition government of the Lithuanian Farmers and Greens Union and the Social Democrats, which received its powers on 13 December 2016. He was succeeded by Virginijus Sinkevičius on 27 November 2017 (Government of Lithuania list of former governments).",
+    "category": "government",
+    "source_url": [
+      "https://lrv.lt/lt/apie-vyriausybe/ankstesnes-vyriausybes/",
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-jonavos-vandenys",
+    "role": "Director",
+    "organization": "UAB 'Jonavos vandenys' (municipal water utility of Jonava)",
+    "start_date": "2017",
+    "end_date": "2019",
+    "description": "Headed the municipally owned water company after leaving the government (official CV, VLE).",
+    "category": "public_service",
+    "source_url": [
+      "https://lrv.lt/lt/apie-vyriausybe/gyvenimo-aprasymas/",
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-mayor-2",
+    "role": "Mayor of Jonava District",
+    "organization": "Jonava District Municipality",
+    "start_date": "2019",
+    "end_date": "2026-07",
+    "description": "Elected in 2019 and re-elected in 2023. His mandate was revoked by the Central Electoral Commission in September 2024 after the Court of Appeal upheld his conviction in the expenses case; after the Supreme Court discontinued the case on 5 March 2025 he returned to the post. He gave up the mandate on his appointment as Prime Minister, and the Central Electoral Commission terminated his powers in early July 2026 (LRT, VLE).",
+    "category": "local_government",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://www.lrt.lt/naujienos/lietuvoje/2/2985085/vrk-panaikino-jonavos-mero-mindaugo-sinkeviciaus-igaliojimus",
+      "https://www.lrt.lt/en/news-in-english/19/2371751/lithuanian-town-picks-interim-mayor-following-corruption-scandal"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-lsa",
+    "role": "President",
+    "organization": "Association of Local Authorities in Lithuania (Lietuvos savivaldybių asociacija, LSA)",
+    "start_date": "2019",
+    "end_date": "2023-11",
+    "description": "President of the association of Lithuania's 60 municipalities from 2019; the Universal Lithuanian Encyclopaedia (VLE) dates the end of his presidency to November 2023, when charges were brought in the expenses case, and in autumn 2024, after his conviction on appeal, the association's board decided to hold a congress to elect a new president (LRT).",
+    "category": "local_government",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://www.lrt.lt/en/news-in-english/19/2371751/lithuanian-town-picks-interim-mayor-following-corruption-scandal"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-fegda",
+    "role": "Commercial director (as reported)",
+    "organization": "Fegda (infrastructure construction company, Vilnius)",
+    "start_date": "2024-11",
+    "end_date": "2025-03",
+    "description": "Worked at the company for about three and a half months, by his own account, after losing the mayoralty and before returning to it; the job became a subject of controversy (see polemics). The dates and job title are as given by Lithuanian Wikipedia, citing LRT.",
+    "category": "private_sector",
+    "source_url": [
+      "https://www.lrt.lt/naujienos/lietuvoje/2/2962424/m-sinkevicius-toliau-neigia-rysius-su-fegda-manau-kad-istorija-buvo-sukurta",
+      "https://www.lrt.lt/naujienos/verslas/4/3005274/ziniasklaida-m-sinkeviciaus-menesio-alga-fegdoje-sieke-4-8-tukst-euru-i-rankas",
+      "https://lt.wikipedia.org/wiki/Mindaugas_Sinkevi%C4%8Dius"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-lsdp",
+    "role": "Party member (from 2004), deputy chair (from 2015), acting chair (from 31 July 2025), chair (from 1 May 2026)",
+    "organization": "Lithuanian Social Democratic Party (Lietuvos socialdemokratų partija, LSDP)",
+    "start_date": "2004",
+    "end_date": null,
+    "description": "Chair of the party's Jonava branch from 2013 and deputy chair of the party from 2015. His membership was suspended from November 2023 to March 2025 during the expenses case. He took over as acting chair when Gintautas Paluckas resigned in July 2025 and was elected chair on 1 May 2026 (VLE).",
+    "category": "party",
+    "source_url": [
+      "https://www.vle.lt/straipsnis/mindaugas-sinkevicius/",
+      "https://www.lrt.lt/naujienos/lietuvoje/2/2975075/sinkeviciaus-akistata-su-konservatoriais-klausimas-del-2-milijardu-ir-baltarusisku-trasu"
+    ]
+  },
+  {
+    "id": "mindaugas-sinkevicius-wh-prime-minister",
+    "role": "Prime Minister (Ministras Pirmininkas)",
+    "organization": "Government of the Republic of Lithuania (21st government)",
+    "start_date": "2026-07-14",
+    "end_date": null,
+    "description": "Nominated by President Gitanas Nausėda after Inga Ruginienė's resignation in June 2026 and the LSDP's switch of coalition partner from Dawn of Nemunas to the Union of Democrats 'For Lithuania'; the Seimas approved his appointment on 30 June 2026 (80 for, 2 against, 28 abstentions). The presidential decree approving the cabinet was signed on 7 July (LRT) and the government took office on 14 July 2026, when the Seimas approved its programme (72–29, four abstentions). Ministers: Ieva Andriulaitytė (environment), Edvinas Grikšas (economy and innovation), Lukas Savickas (energy), Taurimas Valys (finance), Robertas Kaunas (defence), Lukas Alsys (culture), Inga Ruginienė (social security and labour), Juras Taminskas (transport), Linas Kukuraitis (health), Raminta Popovienė (education, science and sport), Rita Tamašunienė (justice), Kęstutis Budrys (foreign affairs), Martynas Katelynas (interior) and Kęstutis Mažeika (agriculture).",
+    "category": "government",
+    "source_url": [
+      "https://lrv.lt/lt/apie-vyriausybe/ministras-pirmininkas/",
+      "https://lrv.lt/lt/naujienos/prisiekusi-xxi-oji-vyriausybe-pradeda-darba-n7TQ",
+      "https://www.lrt.lt/en/news-in-english/19/2976107/seimas-votes-to-appoint-sinkevicius-as-new-pm",
+      "https://www.lrt.lt/en/news-in-english/19/2990220/seimas-approves-sinkevicius-government-program-new-cabinet-sworn-in"
+    ]
+  }
+]

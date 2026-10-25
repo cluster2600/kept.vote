@@ -1,0 +1,50 @@
+[
+  {
+    "id": "merz-edu-petrinum",
+    "institution": "Gymnasium Petrinum, Brilon",
+    "qualification": "Secondary schooling (did not graduate there)",
+    "field": "General secondary education",
+    "years": "1966–1971",
+    "detail": "Attended the Brilon grammar school before changing schools; he completed his Abitur elsewhere.",
+    "source_url": [
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-edu-ruethen",
+    "institution": "Städtisches Gymnasium (Friedrich-Spee-Gymnasium), Rüthen",
+    "qualification": "Abitur",
+    "field": "General secondary education",
+    "years": "until 1975",
+    "detail": "Obtained the Abitur (university entrance qualification) in 1975, followed by military service in 1975–1976.",
+    "source_url": [
+      "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/lebenslauf-2342648",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-edu-law-bonn-marburg",
+    "institution": "University of Bonn and University of Marburg",
+    "qualification": "First state law examination (Erstes juristisches Staatsexamen), 1982",
+    "field": "Law and political science",
+    "years": "1976–1981",
+    "detail": "Studied law and political science in Bonn and Marburg, partly as a scholarship holder of the Konrad Adenauer Foundation; passed the first state examination in Düsseldorf in 1982. He has been a member of the Catholic student fraternity KDStV Bavaria Bonn since 1977.",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/lebenslauf-2342648",
+      "https://de.wikipedia.org/wiki/Friedrich_Merz"
+    ]
+  },
+  {
+    "id": "merz-edu-referendariat",
+    "institution": "Legal clerkship (Referendariat), Saarland (Saarbrücken)",
+    "qualification": "Second state law examination (Zweites juristisches Staatsexamen), 1985",
+    "field": "Law (practical legal training)",
+    "years": "1982–1985",
+    "detail": "Completed the practical legal training (Referendariat) in Saarbrücken, which qualifies for judicial office; he then served as a probationary judge at the Saarbrücken local court.",
+    "source_url": [
+      "https://www.bundestag.de/abgeordnete/biografien/M/merz_friedrich-1046080",
+      "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/lebenslauf-2342648"
+    ]
+  }
+]

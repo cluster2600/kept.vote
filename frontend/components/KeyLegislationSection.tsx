@@ -1,19 +1,20 @@
 import { type KeyLegislationItem } from "@/lib/api";
 import SourceLinks from "@/components/SourceLinks";
+import type { I18nProps } from "@/lib/i18n/props";
 
 /** Landmark laws — area tag + year, description, and significance. */
 export default function KeyLegislationSection({
   items,
-}: {
-  items: KeyLegislationItem[];
-}) {
+  dict,
+  lang,
+}: { items: KeyLegislationItem[] } & I18nProps) {
   if (items.length === 0) return null;
   return (
     <ul className="space-y-3">
       {items.map((item) => (
         <li
           key={item.id}
-          className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm"
+          className="rounded-xl border border-slate-200 bg-white p-5 shadow-xs"
         >
           <div className="flex flex-wrap items-start justify-between gap-3">
             <h3 className="min-w-0 font-semibold text-slate-900">
@@ -21,7 +22,7 @@ export default function KeyLegislationSection({
             </h3>
             <p className="flex shrink-0 items-center gap-2 text-xs text-slate-500">
               {item.area && (
-                <span className="rounded bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
+                <span className="rounded-sm bg-slate-100 px-1.5 py-0.5 font-medium text-slate-600">
                   {item.area}
                 </span>
               )}
@@ -35,11 +36,13 @@ export default function KeyLegislationSection({
           )}
           {item.significance && (
             <p className="mt-2 text-sm leading-relaxed text-slate-600">
-              <span className="font-medium text-slate-700">Significance: </span>
+              <span className="font-medium text-slate-700">
+                {dict.legislation.significance}{" "}
+              </span>
               {item.significance}
             </p>
           )}
-          <SourceLinks urls={item.source_urls} />
+          <SourceLinks urls={item.source_urls} dict={dict} lang={lang} />
         </li>
       ))}
     </ul>

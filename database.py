@@ -31,7 +31,8 @@ from sqlalchemy import (
     func,
     text,
 )
-from sqlalchemy.dialects.postgresql import JSONB, UUID
+from sqlalchemy import JSON, Uuid
+from sqlalchemy.dialects import postgresql
 from sqlalchemy.ext.asyncio import (
     AsyncSession,
     async_sessionmaker,
@@ -47,6 +48,12 @@ from sqlalchemy.orm import (
 from config import get_settings
 
 settings = get_settings()
+
+# Column types. Production runs on Postgres; scripts/build_d1.py runs the same
+# models on SQLite to render the site's data for Cloudflare D1. with_variant
+# leaves the Postgres DDL unchanged.
+JSONType = postgresql.JSONB().with_variant(JSON(), "sqlite")
+UUIDType = postgresql.UUID(as_uuid=True).with_variant(Uuid(), "sqlite")
 
 # ---------------------------------------------------------------------------
 # Engine & session factory
@@ -116,7 +123,7 @@ class HumanReviewStatus(str, enum.Enum):
 def _uuid_pk() -> Mapped[uuid.UUID]:
     """A UUID primary-key column with a server-friendly Python default."""
     return mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         primary_key=True,
         default=uuid.uuid4,
     )
@@ -155,9 +162,19 @@ class Politician(Base):
     external_id: Mapped[str | None] = mapped_column(String(255), nullable=True, index=True)
     name: Mapped[str] = mapped_column(String(255), nullable=False, index=True)
     country: Mapped[str | None] = mapped_column(String(120), index=True)
+    # ISO 3166-1 alpha-2 (e.g. "FR"), so the frontend can localize the name.
+    country_code: Mapped[str | None] = mapped_column(String(2), index=True)
+    # Kind of office (see import_common.OFFICES) plus the exact title.
+    office: Mapped[str | None] = mapped_column(String(40), index=True)
+    role: Mapped[str | None] = mapped_column(Text)
+    # BCP 47 tag of the language the profile's text is written in.
+    content_lang: Mapped[str | None] = mapped_column(String(16))
     party: Mapped[str | None] = mapped_column(String(255), index=True)
     birth_date: Mapped[datetime.date | None] = mapped_column()
     bio: Mapped[str | None] = mapped_column(Text)
+    # Portrait file (frontend/public/portraits/) and its credit; see
+    # docs/PROFILE_FORMAT.md.
+    portrait: Mapped[dict | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     promises: Mapped[list["Promise"]] = relationship(
@@ -249,7 +266,7 @@ class Promise(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -290,7 +307,7 @@ class Document(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -313,7 +330,7 @@ class Policy(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -347,14 +364,14 @@ class Verification(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     promise_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("promises.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
     )
     # Nullable: verification can conclude "no_action" with no linked policy.
     policy_id: Mapped[uuid.UUID | None] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("policies.id", ondelete="SET NULL"),
         nullable=True,
         index=True,
@@ -367,9 +384,9 @@ class Verification(Base):
     confidence_score: Mapped[float] = mapped_column(Float, nullable=False)
     reasoning: Mapped[str | None] = mapped_column(Text)
     # Bullet-point evidence supporting the verdict (list of short strings).
-    key_evidence: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    key_evidence: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     # All source URLs backing the verdict (first is treated as primary).
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     # Raw, unparsed Claude output retained for auditability.
     claude_analysis: Mapped[str | None] = mapped_column(Text)
     human_review_status: Mapped[HumanReviewStatus] = mapped_column(
@@ -399,7 +416,7 @@ class WorkHistory(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -411,7 +428,7 @@ class WorkHistory(Base):
     end_date: Mapped[str | None] = mapped_column(String(32))
     description: Mapped[str | None] = mapped_column(Text)
     category: Mapped[str | None] = mapped_column(String(120), index=True)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="work_history")
@@ -429,7 +446,7 @@ class FinanceEntry(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -440,7 +457,7 @@ class FinanceEntry(Base):
     label: Mapped[str | None] = mapped_column(String(512))
     amount: Mapped[str | None] = mapped_column(String(255))
     detail: Mapped[str | None] = mapped_column(Text)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="finances")
@@ -459,7 +476,7 @@ class Polemic(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -473,8 +490,8 @@ class Polemic(Base):
     description: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str | None] = mapped_column(String(64), index=True)
     confidence_score: Mapped[float | None] = mapped_column(Float)
-    key_facts: Mapped[list | None] = mapped_column(JSONB, nullable=True)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    key_facts: Mapped[list | None] = mapped_column(JSONType, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="polemics")
@@ -492,7 +509,7 @@ class StockHolding(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -504,7 +521,7 @@ class StockHolding(Base):
     as_of: Mapped[str | None] = mapped_column(String(64))
     detail: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str | None] = mapped_column(String(64), index=True)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="stocks")
@@ -522,7 +539,7 @@ class RealEstate(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -535,7 +552,7 @@ class RealEstate(Base):
     value: Mapped[str | None] = mapped_column(String(255))
     detail: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str | None] = mapped_column(String(64), index=True)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="real_estate")
@@ -548,7 +565,7 @@ class Company(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -562,7 +579,7 @@ class Company(Base):
     # (e.g. "subject of judicial investigation ...; disposition unverified").
     status: Mapped[str | None] = mapped_column(Text, index=True)
     detail: Mapped[str | None] = mapped_column(Text)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="companies")
@@ -575,7 +592,7 @@ class ElectoralHistory(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -588,7 +605,7 @@ class ElectoralHistory(Base):
     vote_share: Mapped[str | None] = mapped_column(String(64))
     opponent: Mapped[str | None] = mapped_column(String(255))
     detail: Mapped[str | None] = mapped_column(Text)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="electoral_history")
@@ -602,7 +619,7 @@ class Interest(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -614,7 +631,7 @@ class Interest(Base):
     value: Mapped[str | None] = mapped_column(String(255))
     detail: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str | None] = mapped_column(String(64), index=True)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="interests")
@@ -627,7 +644,7 @@ class Education(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -638,7 +655,7 @@ class Education(Base):
     field: Mapped[str | None] = mapped_column(String(255))
     years: Mapped[str | None] = mapped_column(String(64))
     detail: Mapped[str | None] = mapped_column(Text)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="education")
@@ -651,7 +668,7 @@ class Honor(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -661,7 +678,7 @@ class Honor(Base):
     awarded_by: Mapped[str | None] = mapped_column(String(255))
     year: Mapped[str | None] = mapped_column(String(64))
     detail: Mapped[str | None] = mapped_column(Text)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="honors")
@@ -674,7 +691,7 @@ class KeyLegislation(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -685,7 +702,7 @@ class KeyLegislation(Base):
     area: Mapped[str | None] = mapped_column(String(120), index=True)
     description: Mapped[str | None] = mapped_column(Text)
     significance: Mapped[str | None] = mapped_column(Text)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="key_legislation")
@@ -698,7 +715,7 @@ class NetWorthTimeline(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -708,7 +725,7 @@ class NetWorthTimeline(Base):
     declared_net_worth: Mapped[str | None] = mapped_column(String(255))
     note: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str | None] = mapped_column(String(64), index=True)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="net_worth_timeline")
@@ -734,7 +751,7 @@ class JusticeCase(Base):
 
     id: Mapped[uuid.UUID] = _uuid_pk()
     politician_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True),
+        UUIDType,
         ForeignKey("politicians.id", ondelete="CASCADE"),
         nullable=False,
         index=True,
@@ -748,8 +765,8 @@ class JusticeCase(Base):
     outcome: Mapped[str | None] = mapped_column(Text)
     court: Mapped[str | None] = mapped_column(Text)
     presumption_note: Mapped[str | None] = mapped_column(Text)
-    key_facts: Mapped[list | None] = mapped_column(JSONB, nullable=True)
-    source_urls: Mapped[list | None] = mapped_column(JSONB, nullable=True)
+    key_facts: Mapped[list | None] = mapped_column(JSONType, nullable=True)
+    source_urls: Mapped[list | None] = mapped_column(JSONType, nullable=True)
     created_at: Mapped[datetime.datetime] = _created_at()
 
     politician: Mapped["Politician"] = relationship(back_populates="justice_cases")
@@ -766,14 +783,27 @@ async def init_db() -> None:
     """
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
+        if conn.dialect.name != "postgresql":
+            return  # fresh SQLite build database: nothing to migrate
         # `create_all` does not ALTER existing tables. The politicians table
-        # predates the external_id slug column, so add it idempotently here.
-        await conn.execute(
-            text(
-                "ALTER TABLE politicians "
-                "ADD COLUMN IF NOT EXISTS external_id VARCHAR(255)"
+        # predates these columns, so add them (and their indexes) idempotently.
+        for column in (
+            "external_id VARCHAR(255)",
+            "country_code VARCHAR(2)",
+            "office VARCHAR(40)",
+            "role TEXT",
+            "content_lang VARCHAR(16)",
+        ):
+            await conn.execute(
+                text(f"ALTER TABLE politicians ADD COLUMN IF NOT EXISTS {column}")
             )
-        )
+        for column in ("country_code", "office"):
+            await conn.execute(
+                text(
+                    f"CREATE INDEX IF NOT EXISTS ix_politicians_{column} "
+                    f"ON politicians ({column})"
+                )
+            )
         # Different source datasets pack variable-length text into short fields
         # (e.g. a multi-term "period"). Widen every VARCHAR column in our content
         # tables to TEXT — a lossless, metadata-only cast in Postgres — so no

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "janez-jansa-edu-gimnazija-sticna",
+    "institution": "Classical gymnasium in Stična (klasična gimnazija Stična)",
+    "qualification": "Secondary school leaving certificate",
+    "field": "Classical secondary education",
+    "detail": "His official biography states that he attended the classical gymnasium in Stična.",
+    "source_url": [
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/"
+    ]
+  },
+  {
+    "id": "janez-jansa-edu-fspn",
+    "institution": "University of Ljubljana, Faculty of Sociology, Political Science and Journalism (FSPN, now the Faculty of Social Sciences)",
+    "qualification": "University degree",
+    "field": "Defence studies (obramboslovje)",
+    "years": "graduated 1982",
+    "detail": "His official biography states that he graduated from the faculty with a degree in defence studies; Wikipedia gives 1982 as the year of graduation and states that he was then employed at the Defence Secretariat of the Socialist Republic of Slovenia.",
+    "source_url": [
+      "https://www.gov.si/en/state-authorities/prime-minister/janez-jansa/",
+      "https://en.wikipedia.org/wiki/Janez_Jan%C5%A1a"
+    ]
+  }
+]
