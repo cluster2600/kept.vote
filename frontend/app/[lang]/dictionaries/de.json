@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Konfidenz"
+  },
+  "translation": {
+    "machineNotice": "Maschinelle Übersetzung ({language})",
+    "machineDetail": "Dieses Profil wurde in {language} verfasst und automatisch übersetzt. Zitate werden in der Originalsprache wiedergegeben. Die Übersetzungen sind ungeprüfte maschinelle Ausgaben — maßgeblich ist der Wortlaut der angegebenen Quellen.",
+    "showOriginal": "Originaltext anzeigen ({language})",
+    "listNotice": "Die Profiltexte auf dieser Website sind maschinell übersetzt und ungeprüft. Öffnen Sie ein Profil, um Originalsprache und Quellen zu sehen."
+  },
+  "feasibility": {
+    "heading": "War es umsetzbar?",
+    "basisAssessed": "Bewertet von {source}",
+    "basisAssessedGeneric": "Auf Grundlage einer externen Bewertung",
+    "basisAnalysis": "Analyse von kept.vote, keine externe Bewertung",
+    "sourcesLabel": "Quellen der Bewertung",
+    "labels": {
+      "feasible": "Umsetzbar",
+      "demanding": "Umsetzbar, aber anspruchsvoll",
+      "underfunded": "Unterfinanziert",
+      "outside_competence": "Außerhalb ihrer Zuständigkeit",
+      "legally_blocked": "Rechtlich blockiert",
+      "arithmetically_impossible": "Rechnerisch unmöglich",
+      "unassessed": "Nicht bewertet"
+    }
   }
 }

@@ -143,6 +143,15 @@ async def main() -> None:
             promise.category = entry.get("category")
             # Keep the single source_url populated with the primary source.
             promise.source_url = sources[0] if sources else None
+            # Feasibility: whether the pledge was deliverable when made. Absent
+            # fields clear the columns, so removing it from the data removes it
+            # from the site rather than leaving a stale verdict behind.
+            promise.feasibility = entry.get("feasibility")
+            promise.feasibility_basis = entry.get("feasibility_basis")
+            promise.feasibility_note = entry.get("feasibility_note")
+            promise.feasibility_source_urls = _as_list(
+                entry.get("feasibility_source_url")
+            )
             await session.flush()
 
             # Replace any existing verification(s) for this promise.

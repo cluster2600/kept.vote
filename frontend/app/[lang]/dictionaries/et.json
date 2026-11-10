@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Kindlusaste"
+  },
+  "translation": {
+    "machineNotice": "Masintõlge ({language})",
+    "machineDetail": "See profiil on kirjutatud keeles {language} ja tõlgitud automaatselt. Tsitaadid on esitatud algkeeles. Tõlked on kontrollimata masinväljund — määrav on viidatud allikate sõnastus.",
+    "showOriginal": "Näita algteksti ({language})",
+    "listNotice": "Selle saidi profiilitekstid on masintõlgitud ja kontrollimata. Ava profiil, et näha selle algkeelt ja allikaid."
+  },
+  "feasibility": {
+    "heading": "Kas see oli teostatav?",
+    "basisAssessed": "Hindas {source}",
+    "basisAssessedGeneric": "Põhineb välisel hinnangul",
+    "basisAnalysis": "kept.vote analüüs, mitte väline hinnang",
+    "sourcesLabel": "Hinnangu allikad",
+    "labels": {
+      "feasible": "Teostatav",
+      "demanding": "Teostatav, kuid nõudlik",
+      "underfunded": "Alarahastatud",
+      "outside_competence": "Väljaspool nende pädevust",
+      "legally_blocked": "Õiguslikult takistatud",
+      "arithmetically_impossible": "Arvude järgi võimatu",
+      "unassessed": "Hindamata"
+    }
   }
 }

@@ -94,9 +94,31 @@ export interface PromiseRecord {
   category: string | null;
   source_url: string | null;
   original_text: string | null;
+  /** Was the pledge deliverable when made? See FeasibilityKey. */
+  feasibility: FeasibilityKey | null;
+  /** "assessed" (an outside body costed or ruled on it) or "analysis". */
+  feasibility_basis: FeasibilityBasis | null;
+  feasibility_note: string | null;
+  feasibility_source_urls: string[] | null;
   created_at: string;
   updated_at: string;
 }
+
+/**
+ * Whether a promise was deliverable when it was made — separate from whether
+ * it was kept (`VerificationStatus`) and from how strong the evidence for that
+ * is (`confidence_score`). Mirrors FEASIBILITY in validate_profile.py.
+ */
+export type FeasibilityKey =
+  | "feasible"
+  | "demanding"
+  | "underfunded"
+  | "outside_competence"
+  | "legally_blocked"
+  | "arithmetically_impossible"
+  | "unassessed";
+
+export type FeasibilityBasis = "assessed" | "analysis";
 
 export interface PromiseWithVerification extends PromiseRecord {
   verification: Verification | null;
@@ -337,6 +359,49 @@ export const STATUS_META: Record<VerificationStatus, StatusStyle> = {
     badge: "bg-slate-100 text-slate-600 ring-1 ring-inset ring-slate-500/20",
     dot: "bg-slate-400",
     bar: "bg-slate-400",
+  },
+};
+
+/**
+ * Feasibility badge styling. Deliberately cooler than STATUS_META: feasibility
+ * is a judgement about the pledge, not a finding about what the politician did,
+ * and it should not read as a second verdict competing with the status badge.
+ */
+export const FEASIBILITY_META: Record<FeasibilityKey, StatusStyle> = {
+  feasible: {
+    badge: "bg-slate-50 text-slate-600 ring-1 ring-inset ring-slate-400/20",
+    dot: "bg-slate-400",
+    bar: "bg-slate-400",
+  },
+  demanding: {
+    badge: "bg-slate-50 text-slate-600 ring-1 ring-inset ring-slate-400/20",
+    dot: "bg-slate-400",
+    bar: "bg-slate-400",
+  },
+  underfunded: {
+    badge: "bg-amber-50 text-amber-800 ring-1 ring-inset ring-amber-600/20",
+    dot: "bg-amber-500",
+    bar: "bg-amber-500",
+  },
+  outside_competence: {
+    badge: "bg-violet-50 text-violet-700 ring-1 ring-inset ring-violet-600/20",
+    dot: "bg-violet-500",
+    bar: "bg-violet-500",
+  },
+  legally_blocked: {
+    badge: "bg-violet-50 text-violet-700 ring-1 ring-inset ring-violet-600/20",
+    dot: "bg-violet-500",
+    bar: "bg-violet-500",
+  },
+  arithmetically_impossible: {
+    badge: "bg-rose-50 text-rose-700 ring-1 ring-inset ring-rose-600/20",
+    dot: "bg-rose-500",
+    bar: "bg-rose-500",
+  },
+  unassessed: {
+    badge: "bg-slate-50 text-slate-500 ring-1 ring-inset ring-slate-400/20",
+    dot: "bg-slate-300",
+    bar: "bg-slate-300",
   },
 };
 

@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Confidence"
+  },
+  "translation": {
+    "machineNotice": "Machine-translated from {language}",
+    "machineDetail": "This profile was written in {language} and translated automatically. Quoted material is shown in its original language. Translations are unreviewed machine output — check the cited sources for the wording that counts.",
+    "showOriginal": "Show the original {language} text",
+    "listNotice": "Profile text on this site is machine-translated and unreviewed. Open a profile to see its original language and sources."
+  },
+  "feasibility": {
+    "heading": "Was it deliverable?",
+    "basisAssessed": "Assessed by {source}",
+    "basisAssessedGeneric": "Based on an external assessment",
+    "basisAnalysis": "kept.vote analysis, not an outside assessment",
+    "sourcesLabel": "Assessment sources",
+    "labels": {
+      "feasible": "Deliverable",
+      "demanding": "Deliverable, but demanding",
+      "underfunded": "Underfunded",
+      "outside_competence": "Outside their powers",
+      "legally_blocked": "Legally blocked",
+      "arithmetically_impossible": "Impossible on the numbers",
+      "unassessed": "Not assessed"
+    }
   }
 }

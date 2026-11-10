@@ -249,5 +249,27 @@
   },
   "confidence": {
     "label": "Kunfidenza"
+  },
+  "translation": {
+    "machineNotice": "Traduzzjoni awtomatika ({language})",
+    "machineDetail": "Dan il-profil inkiteb bil-{language} u ġie tradott awtomatikament. Il-kwotazzjonijiet jidhru fil-lingwa oriġinali tagħhom. It-traduzzjonijiet huma output tal-magna mhux ivverifikat — dak li jgħodd huwa l-kliem tas-sorsi ċċitati.",
+    "showOriginal": "Uri t-test oriġinali ({language})",
+    "listNotice": "It-testi tal-profili fuq dan is-sit huma tradotti awtomatikament u mhux ivverifikati. Iftaħ profil biex tara l-lingwa oriġinali tiegħu u s-sorsi."
+  },
+  "feasibility": {
+    "heading": "Kien possibbli li jitwettaq?",
+    "basisAssessed": "Evalwat minn {source}",
+    "basisAssessedGeneric": "Ibbażat fuq evalwazzjoni esterna",
+    "basisAnalysis": "Analiżi ta' kept.vote, mhux evalwazzjoni esterna",
+    "sourcesLabel": "Sorsi tal-evalwazzjoni",
+    "labels": {
+      "feasible": "Possibbli li jitwettaq",
+      "demanding": "Possibbli, imma eżiġenti",
+      "underfunded": "Mhux iffinanzjat biżżejjed",
+      "outside_competence": "Barra mis-setgħat tagħhom",
+      "legally_blocked": "Imblukkat legalment",
+      "arithmetically_impossible": "Impossibbli skont iċ-ċifri",
+      "unassessed": "Mhux evalwat"
+    }
   }
 }

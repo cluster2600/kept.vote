@@ -243,5 +243,27 @@
   },
   "confidence": {
     "label": "Patikimumas"
+  },
+  "translation": {
+    "machineNotice": "Mašininis vertimas ({language})",
+    "machineDetail": "Šis profilis parašytas {language} kalba ir išverstas automatiškai. Citatos pateikiamos originalo kalba. Vertimai yra nepatikrinta mašininio vertimo išvestis — sprendžiamoji yra nurodytų šaltinių formuluotė.",
+    "showOriginal": "Rodyti originalų tekstą ({language})",
+    "listNotice": "Šios svetainės profilių tekstai išversti mašininiu būdu ir nepatikrinti. Atverkite profilį, kad pamatytumėte jo originalo kalbą ir šaltinius."
+  },
+  "feasibility": {
+    "heading": "Ar tai buvo įgyvendinama?",
+    "basisAssessed": "Įvertino {source}",
+    "basisAssessedGeneric": "Remiantis išoriniu vertinimu",
+    "basisAnalysis": "kept.vote analizė, o ne išorinis vertinimas",
+    "sourcesLabel": "Vertinimo šaltiniai",
+    "labels": {
+      "feasible": "Įgyvendinama",
+      "demanding": "Įgyvendinama, bet reiklu",
+      "underfunded": "Nepakankamai finansuojama",
+      "outside_competence": "Ne jų kompetencijos srityje",
+      "legally_blocked": "Teisiškai užblokuota",
+      "arithmetically_impossible": "Pagal skaičius neįmanoma",
+      "unassessed": "Neįvertinta"
+    }
   }
 }

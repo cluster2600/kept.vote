@@ -249,5 +249,27 @@
   },
   "confidence": {
     "label": "Muinín"
+  },
+  "translation": {
+    "machineNotice": "Aistriúchán uathoibríoch ({language})",
+    "machineDetail": "Scríobhadh an phróifíl seo i {language} agus aistríodh go huathoibríoch í. Taispeántar sleachta sa bhunteanga. Is aschur meaisín neamhsheiceáilte na haistriúcháin — is é foclaíocht na bhfoinsí a luaitear atá cinntitheach.",
+    "showOriginal": "Taispeáin an buntéacs ({language})",
+    "listNotice": "Tá téacs na bpróifílí ar an suíomh seo aistrithe go huathoibríoch agus gan seiceáil. Oscail próifíl chun a bunteanga agus a foinsí a fheiceáil."
+  },
+  "feasibility": {
+    "heading": "An raibh sé indéanta?",
+    "basisAssessed": "Measúnaithe ag {source}",
+    "basisAssessedGeneric": "Bunaithe ar mheasúnú seachtrach",
+    "basisAnalysis": "Anailís kept.vote, ní measúnú seachtrach",
+    "sourcesLabel": "Foinsí an mheasúnaithe",
+    "labels": {
+      "feasible": "Indéanta",
+      "demanding": "Indéanta, ach dúshlánach",
+      "underfunded": "Tearc-mhaoinithe",
+      "outside_competence": "Lasmuigh de na cumhachtaí atá acu",
+      "legally_blocked": "Bactha go dlíthiúil",
+      "arithmetically_impossible": "Dodhéanta de réir na bhfigiúirí",
+      "unassessed": "Gan mheasúnú"
+    }
   }
 }

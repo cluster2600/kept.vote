@@ -32,68 +32,98 @@ import {
   type WorkHistoryItem,
 } from "./api";
 
-type DocRow = { path: string; seq: number; body: string };
+type DocRow = { path: string; seq: number; lang: string; body: string };
 
 // Readers always see one complete data version: a deploy loads the new rows,
 // then switches meta.version in a single statement.
 const CURRENT_VERSION = "(SELECT value FROM meta WHERE key = 'version')";
 
-/** Join chunked rows back into one JSON body per path. */
-function assemble(rows: DocRow[]): Map<string, string> {
-  const docs = new Map<string, string>();
+/** The untranslated original, in the profile's own content_lang. */
+const SOURCE_LANG = "src";
+
+/**
+ * Join chunked rows back into one JSON body per path, preferring the active
+ * locale over the source.
+ *
+ * A locale only has rows for documents whose text actually differs once
+ * translated (see build_d1.py), and a build can publish a subset of locales,
+ * so every path falls back to `src`. Picking the winner per path — rather than
+ * per query — means a page never mixes the two for one document.
+ */
+function assemble(rows: DocRow[], lang: string): Map<string, string> {
+  const byLang = new Map<string, Map<string, string>>();
   for (const row of rows) {
+    let docs = byLang.get(row.lang);
+    if (!docs) byLang.set(row.lang, (docs = new Map()));
     docs.set(row.path, (docs.get(row.path) ?? "") + row.body);
   }
-  return docs;
+  const translated = byLang.get(lang);
+  const source = byLang.get(SOURCE_LANG) ?? new Map<string, string>();
+  if (!translated) return source;
+  const merged = new Map(source);
+  for (const [path, body] of translated) merged.set(path, body);
+  return merged;
 }
 
 /** Every document of one politician, in a single query per request. */
-const politicianDocs = cache(async (slug: string) => {
+const politicianDocs = cache(async (slug: string, lang: string) => {
   const { results } = await env.DB.prepare(
-    `SELECT path, seq, body FROM docs
+    `SELECT path, seq, lang, body FROM docs
      WHERE version = ${CURRENT_VERSION} AND politician = ?
+       AND lang IN (?, '${SOURCE_LANG}')
      ORDER BY path, seq`,
   )
-    .bind(slug)
+    .bind(slug, lang)
     .all<DocRow>();
-  return assemble(results);
+  return assemble(results, lang);
 });
 
 /** One document that isn't scoped to a politician page. */
-const singleDoc = cache(async (path: string) => {
+const singleDoc = cache(async (path: string, lang: string) => {
   const { results } = await env.DB.prepare(
-    `SELECT path, seq, body FROM docs
+    `SELECT path, seq, lang, body FROM docs
      WHERE version = ${CURRENT_VERSION} AND path = ?
+       AND lang IN (?, '${SOURCE_LANG}')
      ORDER BY seq`,
   )
-    .bind(path)
+    .bind(path, lang)
     .all<DocRow>();
-  return assemble(results).get(path);
+  return assemble(results, lang).get(path);
 });
 
-async function getDoc<T>(path: string, politician?: string): Promise<T> {
+async function getDoc<T>(
+  path: string,
+  lang: string,
+  politician?: string,
+): Promise<T> {
   const body = politician
-    ? (await politicianDocs(politician)).get(path)
-    : await singleDoc(path);
+    ? (await politicianDocs(politician, lang)).get(path)
+    : await singleDoc(path, lang);
   if (body === undefined) throw new NotFoundError(path);
   return JSON.parse(body) as T;
 }
 
-/** A politician page's documents all come from one query. */
+/**
+ * A politician page's documents all come from one query.
+ *
+ * Every reader takes the active UI locale: profile text is machine-translated
+ * per locale at build time, and the locale decides which body is served.
+ */
 const forPolitician =
   <T>(suffix: string) =>
-  (id: string) =>
-    getDoc<T>(`/api/politicians/${id}${suffix}`, id);
+  (id: string, lang: string) =>
+    getDoc<T>(`/api/politicians/${id}${suffix}`, lang, id);
 
 // ---- Endpoints (same paths and shapes as the FastAPI read API) -----------
-export const getStatus = () => getDoc<SystemStatus>("/api/status");
+export const getStatus = (lang: string) =>
+  getDoc<SystemStatus>("/api/status", lang);
 
-export const listPoliticians = () =>
-  getDoc<PoliticianSummary[]>("/api/politicians");
+export const listPoliticians = (lang: string) =>
+  getDoc<PoliticianSummary[]>("/api/politicians", lang);
 
 // A single read: the promise page needs only the name for its breadcrumb.
-export const getPolitician = (id: string) =>
-  getDoc<Politician>(`/api/politicians/${id}`);
+export const getPolitician = (id: string, lang: string) =>
+  getDoc<Politician>(`/api/politicians/${id}`, lang);
 export const listPoliticianPromises =
   forPolitician<PromiseWithVerification[]>("/promises");
 export const listWorkHistory = forPolitician<WorkHistoryItem[]>("/work-history");
@@ -115,8 +145,26 @@ export const listJustice = forPolitician<JusticeCase[]>("/justice");
 
 // Promise pages read just their own two documents rather than the whole
 // politician (Macron's documents alone are over 1 MB).
-export const getPromise = (id: string) =>
-  getDoc<PromiseRecord>(`/api/promises/${id}`);
+export const getPromise = (id: string, lang: string) =>
+  getDoc<PromiseRecord>(`/api/promises/${id}`, lang);
 
-export const getPromiseVerification = (id: string) =>
-  getDoc<Verification | null>(`/api/promises/${id}/verification`);
+export const getPromiseVerification = (id: string, lang: string) =>
+  getDoc<Verification | null>(`/api/promises/${id}/verification`, lang);
+
+/**
+ * Whether a locale has translated profile text in the current data version.
+ *
+ * Pages use this to show the "machine-translated" notice only when the reader
+ * is actually looking at machine output — a locale with no published
+ * translations falls back to the source text, which needs no disclaimer.
+ */
+export const hasTranslations = cache(async (lang: string) => {
+  if (lang === SOURCE_LANG) return false;
+  const row = await env.DB.prepare(
+    `SELECT 1 AS present FROM docs
+     WHERE version = ${CURRENT_VERSION} AND lang = ? LIMIT 1`,
+  )
+    .bind(lang)
+    .first<{ present: number }>();
+  return row !== null;
+});

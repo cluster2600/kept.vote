@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Säkerhet"
+  },
+  "translation": {
+    "machineNotice": "Maskinöversättning ({language})",
+    "machineDetail": "Den här profilen skrevs på {language} och har översatts automatiskt. Citat visas på originalspråket. Översättningarna är ogranskad maskinell utdata — det är ordalydelsen i de angivna källorna som gäller.",
+    "showOriginal": "Visa originaltexten ({language})",
+    "listNotice": "Profiltexterna på den här webbplatsen är maskinöversatta och ogranskade. Öppna en profil för att se originalspråk och källor."
+  },
+  "feasibility": {
+    "heading": "Var det genomförbart?",
+    "basisAssessed": "Bedömt av {source}",
+    "basisAssessedGeneric": "Baserat på en extern bedömning",
+    "basisAnalysis": "Analys från kept.vote, inte en extern bedömning",
+    "sourcesLabel": "Källor för bedömningen",
+    "labels": {
+      "feasible": "Genomförbart",
+      "demanding": "Genomförbart, men krävande",
+      "underfunded": "Underfinansierat",
+      "outside_competence": "Utanför deras befogenheter",
+      "legally_blocked": "Rättsligt blockerat",
+      "arithmetically_impossible": "Omöjligt enligt siffrorna",
+      "unassessed": "Inte bedömt"
+    }
   }
 }

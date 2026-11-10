@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Varmuusaste"
+  },
+  "translation": {
+    "machineNotice": "Konekäännös ({language})",
+    "machineDetail": "Tämä profiili on kirjoitettu kielellä {language} ja käännetty automaattisesti. Lainaukset näytetään alkuperäisellä kielellä. Käännökset ovat tarkistamatonta koneellista tulostetta — ratkaisevaa on mainittujen lähteiden sanamuoto.",
+    "showOriginal": "Näytä alkuperäinen teksti ({language})",
+    "listNotice": "Tämän sivuston profiilitekstit on konekäännetty eikä niitä ole tarkistettu. Avaa profiili nähdäksesi sen alkuperäisen kielen ja lähteet."
+  },
+  "feasibility": {
+    "heading": "Oliko se toteutettavissa?",
+    "basisAssessed": "Arvioija: {source}",
+    "basisAssessedGeneric": "Perustuu ulkopuoliseen arvioon",
+    "basisAnalysis": "kept.voten analyysi, ei ulkopuolinen arvio",
+    "sourcesLabel": "Arvion lähteet",
+    "labels": {
+      "feasible": "Toteutettavissa",
+      "demanding": "Toteutettavissa, mutta vaativa",
+      "underfunded": "Alirahoitettu",
+      "outside_competence": "Toimivallan ulkopuolella",
+      "legally_blocked": "Oikeudellisesti estetty",
+      "arithmetically_impossible": "Lukujen valossa mahdoton",
+      "unassessed": "Ei arvioitu"
+    }
   }
 }

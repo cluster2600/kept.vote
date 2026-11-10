@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Sikkerhet"
+  },
+  "translation": {
+    "machineNotice": "Maskinoversettelse ({language})",
+    "machineDetail": "Denne profilen er skrevet på {language} og oversatt automatisk. Sitater vises på originalspråket. Oversettelsene er ukontrollert maskinelt resultat — det er ordlyden i de oppgitte kildene som gjelder.",
+    "showOriginal": "Vis den originale teksten ({language})",
+    "listNotice": "Profiltekstene på dette nettstedet er maskinoversatt og ikke kontrollert. Åpne en profil for å se originalspråk og kilder."
+  },
+  "feasibility": {
+    "heading": "Var det gjennomførbart?",
+    "basisAssessed": "Vurdert av {source}",
+    "basisAssessedGeneric": "Basert på en ekstern vurdering",
+    "basisAnalysis": "Analyse fra kept.vote, ikke en ekstern vurdering",
+    "sourcesLabel": "Kilder for vurderingen",
+    "labels": {
+      "feasible": "Gjennomførbart",
+      "demanding": "Gjennomførbart, men krevende",
+      "underfunded": "Underfinansiert",
+      "outside_competence": "Utenfor deres myndighet",
+      "legally_blocked": "Juridisk blokkert",
+      "arithmetically_impossible": "Umulig ut fra tallene",
+      "unassessed": "Ikke vurdert"
+    }
   }
 }

@@ -8,6 +8,7 @@ import {
 } from "@/lib/api";
 import {
   getStatus,
+  hasTranslations,
   listPoliticians,
 } from "@/lib/data";
 import EuropeMap, { type MapEntry } from "@/components/EuropeMap";
@@ -74,10 +75,14 @@ export default async function HomePage({ params, searchParams }: Props) {
   let error: string | null = null;
 
   try {
-    [politicians, stats] = await Promise.all([listPoliticians(), getStatus()]);
+    [politicians, stats] = await Promise.all([listPoliticians(lang), getStatus(lang)]);
   } catch (e) {
     error = e instanceof Error ? e.message : "Unknown error";
   }
+
+  // Profile text is machine-translated per locale at build time; say so when
+  // that is what the reader is seeing.
+  const machineTranslated = await hasTranslations(lang);
 
   const groups = groupByCountry(politicians, lang, dict);
   const requested = (await searchParams).country;
@@ -100,6 +105,14 @@ export default async function HomePage({ params, searchParams }: Props) {
         <p className="mt-4 max-w-2xl text-lg leading-relaxed text-slate-600">
           {t.intro}
         </p>
+
+        {/* The listing shows profile text (roles, track records) too, so it
+            carries the same disclosure as a profile page. */}
+        {machineTranslated && (
+          <p className="mt-4 max-w-2xl rounded-md bg-sky-50 px-3 py-2 text-xs leading-relaxed text-sky-800 ring-1 ring-inset ring-sky-600/20">
+            {dict.translation.listNotice}
+          </p>
+        )}
 
         {stats && (
           <dl className="mt-8 flex flex-wrap gap-x-10 gap-y-4">

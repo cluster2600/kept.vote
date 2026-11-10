@@ -25,6 +25,7 @@ import {
 import {
   getPolitician,
   getSources,
+  hasTranslations,
   listCompanies,
   listEducation,
   listElectoralHistory,
@@ -66,7 +67,7 @@ export default async function PoliticianPage({ params }: Props) {
   // page": a 404 here is a genuine not-found → render the 404 page.
   let politician: Politician;
   try {
-    politician = await getPolitician(id);
+    politician = await getPolitician(id, lang);
   } catch (e) {
     if (e instanceof NotFoundError) notFound();
     throw e;
@@ -99,34 +100,44 @@ export default async function PoliticianPage({ params }: Props) {
     netWorth,
     justice,
   ] = await Promise.all([
-    safe(listPoliticianPromises(id), [] as PromiseWithVerification[]),
-    safe(listWorkHistory(id), [] as WorkHistoryItem[]),
-    safe(listFinances(id), [] as FinanceEntry[]),
-    safe(listPolemics(id), [] as Polemic[]),
-    safe(listStocks(id), [] as StockHolding[]),
-    safe(listRealEstate(id), [] as RealEstate[]),
-    safe(listCompanies(id), [] as Company[]),
-    safe(getSources(id), emptySources),
-    safe(listElectoralHistory(id), [] as ElectoralHistoryItem[]),
-    safe(listInterests(id), [] as Interest[]),
-    safe(listEducation(id), [] as EducationItem[]),
-    safe(listHonors(id), [] as Honor[]),
-    safe(listKeyLegislation(id), [] as KeyLegislationItem[]),
-    safe(listNetWorth(id), [] as NetWorthPoint[]),
-    safe(listJustice(id), [] as JusticeCase[]),
+    safe(listPoliticianPromises(id, lang), [] as PromiseWithVerification[]),
+    safe(listWorkHistory(id, lang), [] as WorkHistoryItem[]),
+    safe(listFinances(id, lang), [] as FinanceEntry[]),
+    safe(listPolemics(id, lang), [] as Polemic[]),
+    safe(listStocks(id, lang), [] as StockHolding[]),
+    safe(listRealEstate(id, lang), [] as RealEstate[]),
+    safe(listCompanies(id, lang), [] as Company[]),
+    safe(getSources(id, lang), emptySources),
+    safe(listElectoralHistory(id, lang), [] as ElectoralHistoryItem[]),
+    safe(listInterests(id, lang), [] as Interest[]),
+    safe(listEducation(id, lang), [] as EducationItem[]),
+    safe(listHonors(id, lang), [] as Honor[]),
+    safe(listKeyLegislation(id, lang), [] as KeyLegislationItem[]),
+    safe(listNetWorth(id, lang), [] as NetWorthPoint[]),
+    safe(listJustice(id, lang), [] as JusticeCase[]),
   ]);
 
   const counts = tally(promises);
   const code = countryCodeOf(politician);
   const country = (code && countryName(code, lang)) || politician.country;
   const officeLabel = politician.office ? dict.office[politician.office] : null;
-  // Profile text stays in the language it was written in; say which one when
-  // it differs from the UI language.
+  // Profile text is written in one language (`content_lang`) and may be
+  // machine-translated into the UI locale at build time. Say which: a reader
+  // has to know whether the words in front of them are the sourced original
+  // or unreviewed machine output.
   const contentLang = politician.content_lang ?? null;
-  const contentLangName =
-    contentLang && contentLang.split("-")[0] !== lang
-      ? languageName(contentLang, lang)
-      : null;
+  const differentLanguage = !!contentLang && contentLang.split("-")[0] !== lang;
+  const contentLangName = differentLanguage
+    ? languageName(contentLang, lang)
+    : null;
+  // The source language when the text on screen is machine-translated, else
+  // null. One value carries both facts, so a guard on it narrows the name too.
+  const translatedFrom =
+    contentLangName && (await hasTranslations(lang)) ? contentLangName : null;
+  const machineTranslated = translatedFrom !== null;
+  // Translated body text is in the UI locale; untranslated text keeps the
+  // language it was written in, so screen readers and hyphenation get it right.
+  const textLang = machineTranslated ? lang : (contentLang ?? undefined);
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
@@ -160,7 +171,7 @@ export default async function PoliticianPage({ params }: Props) {
                   </span>
                 )}
                 {politician.role && (
-                  <span lang={contentLang ?? undefined}>{politician.role}</span>
+                  <span lang={textLang}>{politician.role}</span>
                 )}
               </p>
             )}
@@ -199,14 +210,32 @@ export default async function PoliticianPage({ params }: Props) {
           </p>
         )}
         {contentLangName && (
-          <p className="mt-3 inline-flex items-center rounded-full bg-sky-50 px-2.5 py-1 text-xs font-medium text-sky-700 ring-1 ring-inset ring-sky-600/20">
-            {fmt(dict.politician.contentLanguage, { language: contentLangName })}
+          <p
+            className="mt-3 inline-flex items-center rounded-full bg-sky-50 px-2.5 py-1 text-xs font-medium text-sky-700 ring-1 ring-inset ring-sky-600/20"
+            title={
+              translatedFrom
+                ? fmt(dict.translation.machineDetail, {
+                    language: translatedFrom,
+                  })
+                : undefined
+            }
+          >
+            {translatedFrom
+              ? fmt(dict.translation.machineNotice, { language: translatedFrom })
+              : fmt(dict.politician.contentLanguage, {
+                  language: contentLangName,
+                })}
+          </p>
+        )}
+        {translatedFrom && (
+          <p className="mt-2 text-xs leading-relaxed text-slate-500">
+            {fmt(dict.translation.machineDetail, { language: translatedFrom })}
           </p>
         )}
         {politician.bio && (
           <p
             className="mt-3 text-sm leading-relaxed text-slate-600"
-            lang={contentLang ?? undefined}
+            lang={textLang}
           >
             {politician.bio}
           </p>

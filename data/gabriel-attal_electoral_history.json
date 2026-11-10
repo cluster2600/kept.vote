@@ -1,0 +1,41 @@
+[
+  {
+    "id": "attal-election-2024-legislative",
+    "election": "2024 French legislative election",
+    "date": "2024-07-07",
+    "role_sought": "Deputy for Hauts-de-Seine's 10th constituency",
+    "result": "Elected",
+    "vote_share": "58.2%",
+    "opponent": "Cécile Soubelet (New Popular Front)",
+    "detail": "Nationally, Ensemble took 20.0% in the first round and 168 seats, behind the New Popular Front (182) and ahead of the National Rally (143).",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-election-2017-legislative",
+    "election": "2017 French legislative election",
+    "date": "2017-06-18",
+    "role_sought": "Deputy for Hauts-de-Seine's 10th constituency",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "First election to the National Assembly, for La République En Marche.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-election-2014-municipal",
+    "election": "2014 French municipal election, Vanves",
+    "date": "2014-03-23",
+    "role_sought": "Municipal councillor",
+    "result": "Elected",
+    "vote_share": null,
+    "opponent": null,
+    "detail": "Fifth on the Socialist list; one of four Socialist councillors elected.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  }
+]

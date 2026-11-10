@@ -98,6 +98,39 @@ npm run db:local                  # loads the seed into the local D1
 npm run dev                       # http://localhost:3001
 ```
 
+## Translated profile text
+
+The UI has always been translated (26 locales, in
+`frontend/app/[lang]/dictionaries`). Profile text is written in one language —
+`content_lang`, English for new profiles — and [`translate.py`](./translate.py)
+adds a **labelled machine translation** layer over it:
+
+```bash
+python translate.py --report            # strings, characters and token cost
+python translate.py --lang de           # fill in German profile text
+python translate.py --lang de --ui      # fill in German UI dictionary keys
+python build_d1.py --lang de            # publish German alongside the source
+```
+
+- Only the text fields in `translate.py`'s `TRANSLATABLE` map are translated.
+  Names, parties, dates, amounts, URLs, ids and the controlled `status`
+  vocabularies are never sent to the model and cannot change.
+- **Quoted material stays in its original language.** Quotes are evidence;
+  the model is instructed to leave anything in quotation marks verbatim.
+- Translations are unreviewed machine output, and every page that shows them
+  says so. A reader is always pointed back to the cited sources.
+- Translations live in `translations/<lang>.json`, keyed by a hash of the
+  source string, and are committed. A string is translated once: editing one
+  promise re-translates that promise, not the corpus. Builds need no API key.
+- Locales are **opt-in per build** (`--lang`, or `--lang all`). A locale with
+  no published translation falls back to the source text, so publishing a
+  subset is safe. Each locale roughly doubles `d1/build/seed.sql`; see
+  [`docs/TRANSLATION.md`](./docs/TRANSLATION.md) for the storage budget.
+
+An already-deployed D1 database needs
+[`d1/migrations/0001_docs_lang.sql`](./d1/migrations/0001_docs_lang.sql) once
+before its first seed with translations.
+
 ## Run the API locally
 
 The FastAPI app is the data and tooling layer: importers, document upload, AI

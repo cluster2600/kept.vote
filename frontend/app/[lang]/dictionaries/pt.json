@@ -237,5 +237,27 @@
   },
   "confidence": {
     "label": "Confiança"
+  },
+  "translation": {
+    "machineNotice": "Tradução automática ({language})",
+    "machineDetail": "Este perfil foi redigido em {language} e traduzido automaticamente. As citações são apresentadas na língua original. As traduções são resultados automáticos não revistos — a redação que conta é a das fontes citadas.",
+    "showOriginal": "Mostrar o texto original ({language})",
+    "listNotice": "Os textos dos perfis deste sítio são traduzidos automaticamente e não foram revistos. Abra um perfil para ver a sua língua original e as fontes."
+  },
+  "feasibility": {
+    "heading": "Era realizável?",
+    "basisAssessed": "Avaliado por {source}",
+    "basisAssessedGeneric": "Com base numa avaliação externa",
+    "basisAnalysis": "Análise do kept.vote, não uma avaliação externa",
+    "sourcesLabel": "Fontes da avaliação",
+    "labels": {
+      "feasible": "Realizável",
+      "demanding": "Realizável, mas exigente",
+      "underfunded": "Subfinanciado",
+      "outside_competence": "Fora das suas competências",
+      "legally_blocked": "Juridicamente bloqueado",
+      "arithmetically_impossible": "Impossível face aos números",
+      "unassessed": "Não avaliado"
+    }
   }
 }

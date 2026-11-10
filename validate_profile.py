@@ -55,7 +55,9 @@ BIO_FIELDS = {
 SECTIONS: dict[str, tuple[set[str], set[str]]] = {
     "promises": (
         {"title", "description", "date_made", "category", "status",
-         "confidence_score", "reasoning", "key_evidence"},
+         "confidence_score", "reasoning", "key_evidence",
+         "feasibility", "feasibility_basis", "feasibility_note",
+         "feasibility_source_url"},
         {"title", "date_made", "status", "confidence_score", "reasoning"},
     ),
     "polemics": (
@@ -116,11 +118,32 @@ SECTIONS: dict[str, tuple[set[str], set[str]]] = {
 
 PROMISE_STATUSES = {"kept", "in_progress", "compromise", "broken", "no_action"}
 
+# Was the pledge deliverable when it was made? Separate from `status` (what
+# happened) and `confidence_score` (how strong the evidence for that is).
+FEASIBILITY = {
+    "feasible",                  # within the powers and resources available
+    "demanding",                 # possible, but needs conditions not assured
+    "underfunded",               # the stated or costed funding falls short
+    "outside_competence",        # needs powers the officeholder does not hold
+    "legally_blocked",           # needs a legal or constitutional change not available
+    "arithmetically_impossible", # cannot hold on the numbers
+    "unassessed",                # not assessed
+}
+
+# Where a feasibility verdict comes from. `assessed` means an external body
+# costed or ruled on it and `feasibility_source_url` cites that assessment;
+# `analysis` means it follows from the site's own reading of majority
+# arithmetic, competence or published budget figures. The UI shows which,
+# because the two carry very different weight.
+FEASIBILITY_BASIS = {"assessed", "analysis"}
+
 # Controlled vocabularies (the keys the frontend renders as badges). Older data
 # uses free text here; new profiles must use these values.
 _ASSET_STATUSES = {"declared", "estimated", "historical", "divested", "none"}
 ENUMS: dict[tuple[str, str], set[str]] = {
     ("promises", "status"): PROMISE_STATUSES,
+    ("promises", "feasibility"): FEASIBILITY,
+    ("promises", "feasibility_basis"): FEASIBILITY_BASIS,
     ("polemics", "status"): {"no_charges", "ongoing", "resolved", "judicial", "political"},
     ("justice", "status"): {
         "ongoing", "appeal_pending", "convicted", "acquitted", "dismissed",
@@ -269,6 +292,46 @@ def check_section(slug: str, section: str, report: Report) -> None:
             date = record.get("date_made")
             if date and not _PARTIAL_DATE.match(str(date)):
                 report.legacy(f"{where}: date_made '{date}' is not YYYY[-MM[-DD]]")
+            _check_feasibility(record, where, report)
+
+
+def _check_feasibility(record: dict, where: str, report: Report) -> None:
+    """Check a promise's feasibility fields hang together.
+
+    A verdict on whether a pledge was ever deliverable is a strong claim about
+    a named person, so it may not stand bare: it needs a stated reason, and an
+    ``assessed`` verdict needs the assessment it rests on.
+    """
+    verdict = record.get("feasibility")
+    basis = record.get("feasibility_basis")
+    note = record.get("feasibility_note")
+    cited = _sources(record.get("feasibility_source_url"))
+
+    if not verdict or verdict == "unassessed":
+        # Nothing claimed — but don't leave the supporting fields dangling.
+        for field in ("feasibility_basis", "feasibility_note", "feasibility_source_url"):
+            if record.get(field) not in (None, "", []):
+                report.legacy(
+                    f"{where}: '{field}' set without a feasibility verdict"
+                )
+        return
+
+    if not basis:
+        report.legacy(f"{where}: feasibility '{verdict}' without feasibility_basis")
+    if not note or not str(note).strip():
+        report.legacy(f"{where}: feasibility '{verdict}' without feasibility_note")
+    if basis == "assessed" and not cited:
+        report.legacy(
+            f"{where}: feasibility_basis 'assessed' without feasibility_source_url"
+        )
+    # `analysis` rests on facts too — majority arithmetic, a treaty article, a
+    # budget line — so it should show its working, in its own field or the
+    # record's sources.
+    if basis == "analysis" and not cited and not _sources(record.get("source_url")):
+        report.legacy(f"{where}: feasibility analysis cites nothing")
+    for url in cited:
+        if not url.startswith(("https://", "http://")):
+            report.error(f"{where}: feasibility source is not a URL: {url[:80]}")
 
 
 def validate(slug: str, strict: bool) -> Report:

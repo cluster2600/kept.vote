@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Betrouwbaarheid"
+  },
+  "translation": {
+    "machineNotice": "Machinevertaling ({language})",
+    "machineDetail": "Dit profiel is in het {language} geschreven en automatisch vertaald. Citaten worden in de oorspronkelijke taal weergegeven. De vertalingen zijn niet-gecontroleerde machineoutput — de geciteerde bronnen geven de tekst die telt.",
+    "showOriginal": "Originele tekst weergeven ({language})",
+    "listNotice": "De profielteksten op deze site zijn machinaal vertaald en niet gecontroleerd. Open een profiel om de oorspronkelijke taal en de bronnen te zien."
+  },
+  "feasibility": {
+    "heading": "Was het haalbaar?",
+    "basisAssessed": "Beoordeeld door {source}",
+    "basisAssessedGeneric": "Op basis van een externe beoordeling",
+    "basisAnalysis": "Analyse van kept.vote, geen externe beoordeling",
+    "sourcesLabel": "Bronnen van de beoordeling",
+    "labels": {
+      "feasible": "Haalbaar",
+      "demanding": "Haalbaar, maar veeleisend",
+      "underfunded": "Onderbegroot",
+      "outside_competence": "Buiten hun bevoegdheid",
+      "legally_blocked": "Juridisch geblokkeerd",
+      "arithmetically_impossible": "Rekenkundig onmogelijk",
+      "unassessed": "Niet beoordeeld"
+    }
   }
 }

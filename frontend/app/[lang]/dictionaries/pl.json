@@ -243,5 +243,27 @@
   },
   "confidence": {
     "label": "Pewność"
+  },
+  "translation": {
+    "machineNotice": "Tłumaczenie maszynowe ({language})",
+    "machineDetail": "Ten profil napisano w języku {language} i przetłumaczono automatycznie. Cytaty podano w języku oryginału. Tłumaczenia są niesprawdzonym wynikiem maszynowym — wiążące jest brzmienie przytoczonych źródeł.",
+    "showOriginal": "Pokaż tekst oryginalny ({language})",
+    "listNotice": "Teksty profili w tym serwisie są tłumaczone maszynowo i niesprawdzone. Otwórz profil, aby zobaczyć język oryginału i źródła."
+  },
+  "feasibility": {
+    "heading": "Czy było to wykonalne?",
+    "basisAssessed": "Ocenione przez {source}",
+    "basisAssessedGeneric": "Na podstawie oceny zewnętrznej",
+    "basisAnalysis": "Analiza kept.vote, a nie ocena zewnętrzna",
+    "sourcesLabel": "Źródła oceny",
+    "labels": {
+      "feasible": "Wykonalne",
+      "demanding": "Wykonalne, ale wymagające",
+      "underfunded": "Niedofinansowane",
+      "outside_competence": "Poza ich kompetencjami",
+      "legally_blocked": "Zablokowane prawnie",
+      "arithmetically_impossible": "Niemożliwe według liczb",
+      "unassessed": "Nieocenione"
+    }
   }
 }
