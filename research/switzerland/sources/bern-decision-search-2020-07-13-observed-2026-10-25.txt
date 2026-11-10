@@ -1,0 +1,228 @@
+Browser tab: 5, Title: "Entscheide der Zivil- und Strafgerichtsbarkeit", URL: "https://www.zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de".
+0 AXWebArea Entscheide der Zivil- und Strafgerichtsbarkeit, URL: zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de
+	1 AXWebArea about:blank
+	2 AXWebArea about:blank
+	3 container wrapper
+		4 container div_header
+			5 container header-nav-meta
+				6 link Description: Kontakt, Value: justice.be.ch/de/start/ueber-uns/kontakt.html, ID: a_contact_de
+				7 container
+					8 link Description: DE , Help: changer la langue, ID: a_de1, Value: javascript:location.href=location.protocol%20+%20'//'%20+%20location.host%20+%20location.pathname+'?locale=de%27
+					9 text |
+					10 link Description: FR, Help: Sprache ändern, ID: a_fr1, Value: javascript:location.href=location.protocol%20+%20'//'%20+%20location.host%20+%20location.pathname+'?locale=fr%27
+			11 container div-header-main-logohomelink
+				12 link Description: Kanton Bern, Help: Startseite, Value: justice.be.ch/justice/de/index.html, ID: a_logo_de
+				13 heading Entscheide der Zivil- und Strafgerichtsbarkeit, Value: 2
+					14 text Entscheide der Zivil- und Strafgerichtsbarkeit
+			20 container headerPublBVEConfig
+				21 container
+					22 container 
+						23 container 
+							24 text 
+				25 container
+					26 container 
+						27 container 
+							28 text 
+		29 container
+			30 container x-widget-6
+				31 container
+					32 container Volltext  
+						33 container
+							34 container Volltext
+								35 text field (settable)
+							36 container 
+								37 container
+									38 container 
+										39 container 
+											40 text 
+							41 container 
+								42 container
+									43 container 
+										44 container 
+											45 text 
+					46 container Normen Artikel Absatz lit. Ziff. i 
+						47 container
+							48 container Normen
+								49 text field (settable)
+							50 container Artikel
+								51 text field (settable)
+							52 container Absatz
+								53 text field (settable)
+							54 container lit.
+								55 text field (settable)
+							56 container Ziff.
+								57 text field (settable)
+							58 container i
+								59 container
+									60 container i
+										61 container i
+											62 text i
+							63 container 
+								64 container
+									65 container 
+										66 container 
+											67 text 
+					68 container
+						69 container
+					70 container mit Thesaurus suchen
+						71 text mit Thesaurus suchen
+					72 container Suche in Leitentscheiden
+						73 text Suche in Leitentscheiden
+					74 container Alle Quellen
+						75 container
+							76 outline
+								77 text field (settable)
+							78 container
+								79 image
+								80 container Alle Quellen
+									81 text Alle Quellen
+			82 container x-widget-8
+				83 container x-widget-7
+					84 container zusätzliche Suchkriterien 
+						85 container zusätzliche Suchkriterien 
+							86 container
+								87 container zusätzliche Suchkriterien 
+									88 container zusätzliche Suchkriterien 
+										89 container
+											90 text zusätzliche Suchkriterien 
+				91 container
+					92 container 13.07.2020
+						93 text field (settable) 13.07.2020
+					94 container 13.07.2020
+						95 text field (settable) 13.07.2020
+					96 container Gericht
+						97 text field (settable)
+					98 container Dossiernummer
+						99 text field (settable)
+					100 container Publikationsdatum von (z.B. 01.08.20nn)
+						101 text field (settable)
+					102 container bis (z.B. 31.08.20nn)
+						103 text field (settable)
+			104 container x-widget-10
+				105 container
+					106 container
+						107 container 
+							108 container 
+								109 text 
+					110 container
+						111 container 
+							112 container 
+								113 text 
+					114 container
+						115 container 
+							116 container 
+								117 text 
+					118 container
+						119 container 
+							120 container 
+								121 text 
+					176 text (1 bis 2 von 2)
+					123 text Sortieren:
+					124 pop up button (collapsed, settable) Value: Relevanz, ID: x-auto-0, Secondary Actions: Expand
+						125 menu
+							126 (disabled) Relevanz
+							127 (disabled) Dossiernummer
+							128 (disabled) Betreff
+							129 (disabled) Entscheiddatum
+							130 (disabled) Rechtsgebiet
+							131 (disabled) Publikationsdatum
+							132 (disabled) Verfahrenstyp
+					133 container
+						134 container 
+							135 container 
+								177 text 
+					137 pop up button (collapsed, settable) Value: Publikationsdatum, Secondary Actions: Expand
+						138 menu
+							139 (disabled) Relevanz
+							140 (disabled) Dossiernummer
+							141 (disabled) Betreff
+							142 (disabled) Entscheiddatum
+							143 (disabled) Rechtsgebiet
+							144 (disabled) Publikationsdatum
+							145 (disabled) Verfahrenstyp
+							146 (disabled) -
+					147 container
+						148 container 
+							149 container 
+								178 text 
+					151 container
+						152 container i
+							153 container i
+								179 text i
+					155 container
+						156 container 
+							157 container 
+								158 text 
+					159 text Anzahl:
+					160 pop up button (collapsed, settable) Value: 20, ID: x-auto-1, Secondary Actions: Expand
+						161 menu
+							162 (disabled) 10
+							163 (disabled) 20
+							164 (disabled) 50
+							165 (disabled) 100
+					166 container
+						167 text Publikationsdatum [Quelle] Betreff / Beschreibung Gericht Vorschau des gesuchten Textes
+					168 container
+						169 text Entscheiddatum
+					170 container
+						171 text Dossiernummer
+					172 text Relevanz
+					173 container
+						180 table
+							181 row
+								182 cell
+									183 container
+										184 text 15.10.2020
+										185 text [OG]
+										186 text Fürsorgerische Unterbringung, Fremdgefährdung
+										187 text Kindes- und Erwachsenenschutzgericht des Obergerichts des Kantons Bern
+										188 text 13.07.2020
+										189 text KES 2020 538
+										190 text 100% Eine fürsorgerische Unterbringung darf nicht alleine wegen einer Fremdgefährdung angeordnet werden. Dies schliesst jedoch nicht aus, die Fremdgefährdung als Element für die Beurteilung des Schwächezustands und des sich daraus ergebenden Behandlungs- und Betreuungsbedarfs zu berücksichtigen, soweit daraus eine Selbstgefährdung resultiert (Erforderlichkeit der Unterbringung). Zusätzlich kann die Fremdgefährdung bei der Prüfung der Verhältnismässigkeit im engeren Sinne mitberücksichtigt werden (E. 18.5).
+								191 cell
+									192 text Fürsorgerische Unterbringung, Fremdgefährdung
+								193 cell
+									194 text Fürsorgerische Unterbringung durch KESB
+								195 cell
+									196 text Beschwerde FU
+								197 cell
+									198 text 100
+								199 cell
+									200 text KES 2020 538
+								201 cell
+									202 text 2020-07-13
+								203 cell
+									204 text 
+							205 row
+								206 cell
+									207 container
+										208 text 11.08.2020
+										209 text [OG]
+										210 text Nichtanhandnahme; Drohung
+										211 text Beschwerdekammer in Strafsachen des Obergerichts des Kantons Bern
+										212 text 13.07.2020
+										213 text BK 2020 177
+										214 text 100% -
+								215 cell
+									216 text Nichtanhandnahme; Drohung
+								217 cell
+									218 text Einstellung/Nichtanhandnahme
+								219 cell
+									220 text Beschwerde 393-a
+								221 cell
+									222 text 100
+								223 cell
+									224 text BK 2020 177
+								225 cell
+									226 text 2020-07-13
+								227 cell
+									228 text 
+						174 text field (settable)
+		175 text Die Verantwortung für Inhalt und Publikation der Entscheide liegt ausschliesslich beim jeweils zuständigen Gericht. Erstinstanzliche Entscheide haben nicht den Charakter eines Leitentscheids. Das Dokument im Originalformat (PDF) ist die massgebende Fassung.
+		15 container
+			16 link Description: ©  2026 - Justiz Kanton Bern, Help: Startseite, Value: justice.be.ch/justice/de/index.html, ID: a_footer_copy_de
+			17 link Description: Rechtliche Hinweise, Help: Rechtliches, Value: justice.be.ch/justice/de/tools/rechtliches.html, ID: a_footer_legal_de
+			18 link Description: Impressum, Value: justice.be.ch/justice/de/tools/impressum.html, ID: a_footer_impressum_de
+	19 AXWebArea zsg-entscheide.apps.be.ch/tribunapublikation/?locale=de
+
+The focused UI element is 95 text field (settable) 13.07.2020

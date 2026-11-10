@@ -1,0 +1,34 @@
+[
+  {
+    "id": "editorial-role:sonja-koch-onlinekommentar",
+    "judge_id": "judge:b9da2d6b3677e4afed87",
+    "name": "Sonja Koch",
+    "publisher": "Onlinekommentar",
+    "role": "Editor of the commentary on the Swiss Criminal Procedure Code",
+    "role_type": "professional_editorial_role_not_entity_board_seat",
+    "identity_status": "publisher_explicitly_identifies_federal_judge_and_links_professional_biography",
+    "source_url": "https://onlinekommentar.ch/de/herausgeber/sonja-koch",
+    "source_snapshot": "sources/onlinekommentar-sonja-koch-rendered-2026-10-25.txt",
+    "observed_at_utc": "2026-10-25T11:06:36.763424+00:00",
+    "tenure_start": null,
+    "tenure_end": null,
+    "payment_amount": null,
+    "limit": "Current publisher listing at observation; no appointment date, payment, ownership, legal-entity board membership or misconduct established."
+  },
+  {
+    "id": "editorial-role:christoph-hurni-onlinekommentar",
+    "judge_id": "judge:afc539997723670fe6ae",
+    "name": "Christoph Hurni",
+    "publisher": "Onlinekommentar",
+    "role": "Co-editor of the Code of Obligations commentary with Mirjam Eggen; editor for chapter 12 PILA (articles 176–194); interim editor for CPC, PILA and Lugano Convention",
+    "role_type": "professional_editorial_role_not_entity_board_seat",
+    "identity_status": "publisher_explicitly_identifies_federal_judge_and_links_professional_biography",
+    "source_url": "https://onlinekommentar.ch/de/herausgeber/christoph-hurni",
+    "source_snapshot": "sources/onlinekommentar-christoph-hurni-rendered-2026-10-25.txt",
+    "observed_at_utc": "2026-10-25T11:06:36.763424+00:00",
+    "tenure_start": null,
+    "tenure_end": null,
+    "payment_amount": null,
+    "limit": "Current publisher listing at observation; no appointment date, payment, ownership, legal-entity board membership or misconduct established."
+  }
+]
