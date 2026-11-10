@@ -11,12 +11,20 @@ import {
   getPolitician,
   getPromise,
   getPromiseVerification,
+  hasTranslations,
 } from "@/lib/data";
 import StatusBadge from "@/components/StatusBadge";
 import ConfidenceMeter from "@/components/ConfidenceMeter";
+import FeasibilityNote from "@/components/FeasibilityNote";
 import { getDictionary } from "../../dictionaries";
 import { isLocale, localePath } from "@/lib/i18n/config";
-import { fmt, formatDate, formatPercent, plural } from "@/lib/i18n/format";
+import {
+  fmt,
+  formatDate,
+  formatPercent,
+  languageName,
+  plural,
+} from "@/lib/i18n/format";
 import { alternatesFor } from "@/lib/i18n/metadata";
 
 export const dynamic = "force-dynamic";
@@ -37,8 +45,8 @@ export default async function PromisePage({ params }: Props) {
   let verification: Verification | null;
   try {
     [promise, verification] = await Promise.all([
-      getPromise(id),
-      getPromiseVerification(id),
+      getPromise(id, lang),
+      getPromiseVerification(id, lang),
     ]);
   } catch (e) {
     if (e instanceof NotFoundError) notFound();
@@ -48,7 +56,7 @@ export default async function PromisePage({ params }: Props) {
   // Best-effort: load the politician for the breadcrumb.
   let politician: Politician | null = null;
   try {
-    politician = await getPolitician(promise.politician_id);
+    politician = await getPolitician(promise.politician_id, lang);
   } catch {
     politician = null;
   }
@@ -64,6 +72,20 @@ export default async function PromisePage({ params }: Props) {
       : promise.source_url
         ? [promise.source_url]
         : [];
+
+  // A verdict is the most consequential text on the site, so flag it when the
+  // reader is seeing a machine translation rather than the sourced original.
+  // content_lang lives on the politician; without it, assume no translation.
+  const contentLang = politician?.content_lang ?? null;
+  const contentLangName =
+    contentLang && contentLang.split("-")[0] !== lang
+      ? languageName(contentLang, lang)
+      : null;
+  // The source language when the text on screen is machine-translated, else
+  // null. One value carries both facts, so a guard on it narrows the name too.
+  const translatedFrom =
+    contentLangName && (await hasTranslations(lang)) ? contentLangName : null;
+  const textLang = translatedFrom ? lang : (contentLang ?? undefined);
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
@@ -96,11 +118,24 @@ export default async function PromisePage({ params }: Props) {
             )}
             {dateMade && <span>{fmt(dict.promises.promised, { date: dateMade })}</span>}
           </div>
-          <h1 className="mt-3 text-2xl font-bold tracking-tight text-slate-900">
+          <h1
+            className="mt-3 text-2xl font-bold tracking-tight text-slate-900"
+            lang={textLang}
+          >
             {promise.title}
           </h1>
+          {translatedFrom && (
+            <p className="mt-3 rounded-md bg-sky-50 px-3 py-2 text-xs leading-relaxed text-sky-800 ring-1 ring-inset ring-sky-600/20">
+              {fmt(dict.translation.machineDetail, {
+                language: translatedFrom,
+              })}
+            </p>
+          )}
           {promise.description && (
-            <p className="mt-3 text-[15px] leading-relaxed text-slate-600">
+            <p
+              className="mt-3 text-[15px] leading-relaxed text-slate-600"
+              lang={textLang}
+            >
               {promise.description}
             </p>
           )}
@@ -216,6 +251,18 @@ export default async function PromisePage({ params }: Props) {
           </div>
         )}
       </article>
+
+      {/* Was the pledge deliverable when it was made? Sits outside the verdict
+          card: it judges the promise, not the politician's follow-through. */}
+      <FeasibilityNote
+        feasibility={promise.feasibility}
+        basis={promise.feasibility_basis}
+        note={promise.feasibility_note}
+        sourceUrls={promise.feasibility_source_urls}
+        labels={dict.feasibility.labels}
+        strings={dict.feasibility}
+        lang={textLang}
+      />
 
       {/* Original quote */}
       {promise.original_text && (

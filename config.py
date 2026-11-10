@@ -107,6 +107,13 @@ class Settings:
 
         parts = urlsplit(dsn)
         scheme = parts.scheme
+        # Only Postgres DSNs need rewriting. Everything else — notably the
+        # `sqlite+aiosqlite:////abs/path.db` URL build_d1.py uses — is returned
+        # untouched: those have an empty netloc, and urlunsplit() collapses the
+        # leading `//` of their path for any scheme outside `uses_netloc`,
+        # turning the absolute path into a (invalid) host name.
+        if scheme.split("+", 1)[0] not in ("postgres", "postgresql"):
+            return dsn, False
         if scheme in ("postgres", "postgresql"):
             scheme = "postgresql+asyncpg"
 

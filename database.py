@@ -280,6 +280,17 @@ class Promise(Base):
     category: Mapped[str | None] = mapped_column(String(120), index=True)
     source_url: Mapped[str | None] = mapped_column(String(1024))
     original_text: Mapped[str | None] = mapped_column(Text)
+    # Was the pledge deliverable when it was made? A property of the promise
+    # itself, not of any later verdict on it, so it lives here rather than on
+    # Verification. See FEASIBILITY in validate_profile.py for the values, and
+    # docs/PROFILE_FORMAT.md for the editorial rules.
+    feasibility: Mapped[str | None] = mapped_column(String(32), index=True)
+    # "assessed" (an outside body costed or ruled on it, cited in
+    # feasibility_source_urls) or "analysis" (follows from majority arithmetic,
+    # competence or published figures). Shown in the UI: the two differ in weight.
+    feasibility_basis: Mapped[str | None] = mapped_column(String(16))
+    feasibility_note: Mapped[str | None] = mapped_column(Text)
+    feasibility_source_urls: Mapped[list[str] | None] = mapped_column(JSONType)
     created_at: Mapped[datetime.datetime] = _created_at()
     updated_at: Mapped[datetime.datetime] = _updated_at()
 

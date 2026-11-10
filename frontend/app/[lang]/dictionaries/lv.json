@@ -237,5 +237,27 @@
   },
   "confidence": {
     "label": "Ticamība"
+  },
+  "translation": {
+    "machineNotice": "Mašīntulkojums ({language})",
+    "machineDetail": "Šis profils ir sagatavots valodā {language} un tulkots automātiski. Citāti ir sniegti oriģinālvalodā. Tulkojumi ir nepārbaudīts mašīntulkojums — noteicošais ir norādīto avotu formulējums.",
+    "showOriginal": "Rādīt oriģinālo tekstu ({language})",
+    "listNotice": "Šīs vietnes profilu teksti ir mašīntulkoti un nav pārbaudīti. Atveriet profilu, lai redzētu tā oriģinālvalodu un avotus."
+  },
+  "feasibility": {
+    "heading": "Vai tas bija izpildāms?",
+    "basisAssessed": "Novērtēja {source}",
+    "basisAssessedGeneric": "Pamatojoties uz ārēju novērtējumu",
+    "basisAnalysis": "kept.vote analīze, nevis ārējs novērtējums",
+    "sourcesLabel": "Novērtējuma avoti",
+    "labels": {
+      "feasible": "Izpildāms",
+      "demanding": "Izpildāms, bet prasīgs",
+      "underfunded": "Nepietiekami finansēts",
+      "outside_competence": "Ārpus viņu pilnvarām",
+      "legally_blocked": "Juridiski bloķēts",
+      "arithmetically_impossible": "Pēc skaitļiem neiespējams",
+      "unassessed": "Nav novērtēts"
+    }
   }
 }

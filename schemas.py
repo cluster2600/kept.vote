@@ -109,6 +109,13 @@ class PromiseBase(BaseModel):
     category: str | None = Field(default=None, max_length=120)
     source_url: str | None = Field(default=None, max_length=1024)
     original_text: str | None = None
+    # Whether the pledge was deliverable when made — distinct from the verdict
+    # on what happened (Verification.status) and from how strong the evidence
+    # for that verdict is (confidence_score).
+    feasibility: str | None = Field(default=None, max_length=32)
+    feasibility_basis: str | None = Field(default=None, max_length=16)
+    feasibility_note: str | None = None
+    feasibility_source_urls: list[str] | None = None
 
 
 class PromiseCreate(PromiseBase):

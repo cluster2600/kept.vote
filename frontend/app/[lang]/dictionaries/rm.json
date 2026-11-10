@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Fidanza"
+  },
+  "translation": {
+    "machineNotice": "Translaziun automatica ({language})",
+    "machineDetail": "Quest profil è vegnì scrit en {language} e translatà automaticamain. Las citaziuns vegnan mussadas en la lingua originala. Las translaziuns èn in resultat automatic betg verifitgà — decisiva è la formulaziun da las funtaunas inditgadas.",
+    "showOriginal": "Mussar il text original ({language})",
+    "listNotice": "Ils texts dals profils sin questa pagina èn translatads automaticamain e betg verifitgads. Avra in profil per vesair sia lingua originala e sias funtaunas."
+  },
+  "feasibility": {
+    "heading": "Era quai realisabel?",
+    "basisAssessed": "Giuditgà da {source}",
+    "basisAssessedGeneric": "Sin basa d'ina valitaziun externa",
+    "basisAnalysis": "Analisa da kept.vote, betg ina valitaziun externa",
+    "sourcesLabel": "Funtaunas da la valitaziun",
+    "labels": {
+      "feasible": "Realisabel",
+      "demanding": "Realisabel, ma pretensius",
+      "underfunded": "Finanzià memia pauc",
+      "outside_competence": "Ordaifer lur cumpetenzas",
+      "legally_blocked": "Blocà giuridicamain",
+      "arithmetically_impossible": "Impussibel tenor las cifras",
+      "unassessed": "Betg valità"
+    }
   }
 }

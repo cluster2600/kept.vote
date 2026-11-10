@@ -1,0 +1,146 @@
+[
+  {
+    "id": "attal-work-renaissance-sg",
+    "role": "General Secretary of Renaissance",
+    "organization": "Renaissance",
+    "start_date": "2024-12-08",
+    "end_date": null,
+    "description": "Leads the presidential party, succeeding Stéphane Séjourné.",
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-group-president",
+    "role": "President of the Renaissance group in the National Assembly",
+    "organization": "National Assembly",
+    "start_date": "2024-09-05",
+    "end_date": null,
+    "description": "Elected unopposed as group leader on 13 July 2024 with the support of 84 of 98 members.",
+    "category": "legislature",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-prime-minister",
+    "role": "Prime Minister of France",
+    "organization": "Government of France",
+    "start_date": "2024-01-09",
+    "end_date": "2024-09-05",
+    "description": "Youngest Prime Minister of the Fifth Republic. Offered his resignation on 8 July 2024 after the dissolution and July legislative elections, stayed on as caretaker, and handed over to Michel Barnier on 5 September 2024.",
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-education-minister",
+    "role": "Minister of National Education and Youth",
+    "organization": "Government of France",
+    "start_date": "2023-07-20",
+    "end_date": "2024-01-09",
+    "description": "Launched the \"choc des savoirs\" education package.",
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-public-accounts",
+    "role": "Minister of Public Action and Accounts",
+    "organization": "Government of France",
+    "start_date": "2022-05-20",
+    "end_date": "2023-07-20",
+    "description": null,
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-spokesperson",
+    "role": "Government Spokesperson",
+    "organization": "Government of France",
+    "start_date": "2020-07-06",
+    "end_date": "2022-05-20",
+    "description": null,
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-sos-education",
+    "role": "Secretary of State to the Minister of National Education and Youth",
+    "organization": "Government of France",
+    "start_date": "2018-10-16",
+    "end_date": "2020-07-06",
+    "description": null,
+    "category": "executive",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-lrem-spokesperson",
+    "role": "Spokesperson of La République En Marche!",
+    "organization": "La République En Marche!",
+    "start_date": "2018-01-04",
+    "end_date": "2018-10-16",
+    "description": null,
+    "category": "party",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-deputy-2017",
+    "role": "Deputy for Hauts-de-Seine's 10th constituency",
+    "organization": "National Assembly",
+    "start_date": "2017-06-21",
+    "end_date": "2018-11-16",
+    "description": "Seat vacated on entering government.",
+    "category": "legislature",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-deputy-2024",
+    "role": "Deputy for Hauts-de-Seine's 10th constituency",
+    "organization": "National Assembly",
+    "start_date": "2024-07-08",
+    "end_date": null,
+    "description": "Re-elected in the July 2024 legislative elections.",
+    "category": "legislature",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-vanves",
+    "role": "Municipal councillor",
+    "organization": "Commune of Vanves",
+    "start_date": "2014-03-30",
+    "end_date": null,
+    "description": null,
+    "category": "local",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-work-health-adviser",
+    "role": "Adviser to the Minister of Health",
+    "organization": "Ministry of Health",
+    "start_date": "2012",
+    "end_date": "2017",
+    "description": "About five years in the minister's office, after an internship during the 2012 presidential campaign.",
+    "category": "civil_service",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  }
+]

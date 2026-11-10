@@ -1,0 +1,35 @@
+[
+  {
+    "id": "attal-edu-ecole-alsacienne",
+    "institution": "École alsacienne, Paris",
+    "qualification": "Baccalauréat",
+    "field": null,
+    "years": "2007",
+    "detail": "Awarded with mention très bien.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-edu-assas",
+    "institution": "Paris-Panthéon-Assas University",
+    "qualification": null,
+    "field": "Law",
+    "years": "2008-2011",
+    "detail": null,
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  },
+  {
+    "id": "attal-edu-sciences-po",
+    "institution": "Sciences Po",
+    "qualification": "Master of Public Affairs",
+    "field": "Public affairs",
+    "years": "2012",
+    "detail": null,
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Gabriel_Attal"
+    ]
+  }
+]

@@ -237,5 +237,27 @@
   },
   "confidence": {
     "label": "Încredere"
+  },
+  "translation": {
+    "machineNotice": "Traducere automată ({language})",
+    "machineDetail": "Acest profil a fost redactat în {language} și tradus automat. Citatele sunt redate în limba originală. Traducerile sunt rezultate automate neverificate — formularea care contează este cea a surselor citate.",
+    "showOriginal": "Afișează textul original ({language})",
+    "listNotice": "Textele profilurilor de pe acest site sunt traduse automat și neverificate. Deschideți un profil pentru a vedea limba originală și sursele."
+  },
+  "feasibility": {
+    "heading": "Era realizabil?",
+    "basisAssessed": "Evaluat de {source}",
+    "basisAssessedGeneric": "Pe baza unei evaluări externe",
+    "basisAnalysis": "Analiză kept.vote, nu o evaluare externă",
+    "sourcesLabel": "Surse ale evaluării",
+    "labels": {
+      "feasible": "Realizabil",
+      "demanding": "Realizabil, dar dificil",
+      "underfunded": "Subfinanțat",
+      "outside_competence": "În afara competențelor lor",
+      "legally_blocked": "Blocat juridic",
+      "arithmetically_impossible": "Imposibil după cifre",
+      "unassessed": "Neevaluat"
+    }
   }
 }

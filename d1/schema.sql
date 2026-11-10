@@ -14,11 +14,18 @@ CREATE TABLE IF NOT EXISTS docs (
   seq INTEGER NOT NULL,
   -- Politician slug for politician-scoped documents (one query per page).
   politician TEXT,
+  -- UI locale this body is written for, or 'src' for the untranslated
+  -- original (the profile's own content_lang). A locale only has rows where
+  -- translate.py has actually translated something; readers fall back to
+  -- 'src', so publishing a locale is a per-build choice (build_d1.py --lang).
+  lang TEXT NOT NULL DEFAULT 'src',
   body TEXT NOT NULL,
-  PRIMARY KEY (version, path, seq)
+  PRIMARY KEY (version, path, seq, lang)
 );
 
-CREATE INDEX IF NOT EXISTS docs_by_politician ON docs (version, politician);
+-- A politician page reads every document it needs in one query, for the
+-- active locale and the 'src' fallback together.
+CREATE INDEX IF NOT EXISTS docs_by_politician ON docs (version, politician, lang);
 
 CREATE TABLE IF NOT EXISTS meta (
   key TEXT PRIMARY KEY,

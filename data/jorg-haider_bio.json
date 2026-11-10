@@ -10,5 +10,13 @@
     "https://www.vfgh.gv.at/timeline/2001__Kaerntner_Ortstafeln.de.html",
     "https://ktnv1.orf.at/stories/355274",
     "https://www.demokratiezentrum.org/ressourcen/lexikon/haider-joerg/"
-  ]
+  ],
+  "portrait": {
+    "file": "jorg-haider.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:JoergHaider_Sep07_%28cropped%29.JPG",
+    "author": "Die Freiheitlichen in Kärnten - BZÖ",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrieved": "2026-10-30"
+  }
 }

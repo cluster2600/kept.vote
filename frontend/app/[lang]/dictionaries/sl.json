@@ -243,5 +243,27 @@
   },
   "confidence": {
     "label": "Zanesljivost"
+  },
+  "translation": {
+    "machineNotice": "Strojni prevod ({language})",
+    "machineDetail": "Ta profil je bil napisan v jeziku {language} in samodejno preveden. Citati so prikazani v izvirnem jeziku. Prevodi so nepregledan strojni izpis — odločilno je besedilo navedenih virov.",
+    "showOriginal": "Prikaži izvirno besedilo ({language})",
+    "listNotice": "Besedila profilov na tem spletišču so strojno prevedena in nepregledana. Odprite profil, da vidite njegov izvirni jezik in vire."
+  },
+  "feasibility": {
+    "heading": "Ali je bilo izvedljivo?",
+    "basisAssessed": "Ocenil {source}",
+    "basisAssessedGeneric": "Na podlagi zunanje ocene",
+    "basisAnalysis": "Analiza kept.vote, ne zunanja ocena",
+    "sourcesLabel": "Viri ocene",
+    "labels": {
+      "feasible": "Izvedljivo",
+      "demanding": "Izvedljivo, vendar zahtevno",
+      "underfunded": "Premalo financirano",
+      "outside_competence": "Zunaj njihovih pristojnosti",
+      "legally_blocked": "Pravno blokirano",
+      "arithmetically_impossible": "Po številkah nemogoče",
+      "unassessed": "Neocenjeno"
+    }
   }
 }

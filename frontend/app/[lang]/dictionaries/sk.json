@@ -243,5 +243,27 @@
   },
   "confidence": {
     "label": "Istota"
+  },
+  "translation": {
+    "machineNotice": "Strojový preklad ({language})",
+    "machineDetail": "Tento profil bol napísaný v jazyku {language} a preložený automaticky. Citácie sa uvádzajú v pôvodnom jazyku. Preklady sú neskontrolovaný strojový výstup — rozhodujúca je formulácia uvedených zdrojov.",
+    "showOriginal": "Zobraziť pôvodný text ({language})",
+    "listNotice": "Texty profilov na tejto stránke sú strojovo preložené a neskontrolované. Otvorte profil, aby ste videli jeho pôvodný jazyk a zdroje."
+  },
+  "feasibility": {
+    "heading": "Bolo to uskutočniteľné?",
+    "basisAssessed": "Vyhodnotené: {source}",
+    "basisAssessedGeneric": "Na základe externého posúdenia",
+    "basisAnalysis": "Analýza kept.vote, nie externé posúdenie",
+    "sourcesLabel": "Zdroje posúdenia",
+    "labels": {
+      "feasible": "Uskutočniteľné",
+      "demanding": "Uskutočniteľné, ale náročné",
+      "underfunded": "Nedostatočne financované",
+      "outside_competence": "Mimo ich pôsobnosti",
+      "legally_blocked": "Právne zablokované",
+      "arithmetically_impossible": "Podľa čísel nemožné",
+      "unassessed": "Neposúdené"
+    }
   }
 }

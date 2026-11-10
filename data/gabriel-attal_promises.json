@@ -1,0 +1,193 @@
+[
+  {
+    "id": "attal-promise-desmicardisation",
+    "title": "Begin reforming the wage system to \"désmicardiser la France\" in the next budget bill",
+    "description": "In his general policy declaration of 30 January 2024 Attal said employers had almost no incentive to raise a worker paid the minimum wage, and committed: \"il faut désmicardiser la France\" and \"Dès le prochain projet de loi de finances, en nous appuyant sur les propositions des parlementaires, des partenaires sociaux et sur un certain nombre de travaux d'experts, nous commencerons à réformer le système.\"",
+    "date_made": "2024-01-30",
+    "category": "Wages and employment",
+    "status": "compromise",
+    "confidence_score": 0.7,
+    "reasoning": "The reform was begun, but by his successors and in a form its own authors judged weaker than designed. The underlying study had been commissioned from economists Antoine Bozio and Étienne Wasmer by Élisabeth Borne's government at the end of 2023, and was delivered on 3 October 2024, after Attal had left office. It proposed, at constant budget, raising employer contributions between 1 and 1.2 times the minimum wage and lowering them between 1.2 and 1.9, with exemptions ending at 2.5 SMIC. The government wrote a version into article 6 of the 2025 social security financing bill that phased the change over two years, ended exemptions at 3 SMIC rather than 2.5, and was expected to raise about €5bn in extra contributions in 2025 instead of being budget-neutral. Bozio said the result would be \"des destructions d'emplois\" in 2025 and \"moins d'effets positifs attendus sur la dynamique salariale\". As of October 2026 the minimum-wage compression the pledge targeted has not been undone.",
+    "key_evidence": [
+      "30 January 2024: \"il faut désmicardiser la France\"; reform to begin in the next budget bill (Journal officiel, Assemblée nationale)",
+      "The Bozio-Wasmer study was commissioned by Élisabeth Borne's government in late 2023 and delivered on 3 October 2024",
+      "Report, at constant budget: raise employer contributions from 1 to 1.2 SMIC, lower them from 1.2 to 1.9 SMIC, exemptions ending at 2.5 SMIC; central scenario close to 10,000 jobs created",
+      "Article 6 of the 2025 social security financing bill phased the change over two years, ended exemptions at 3 SMIC and was expected to raise about €5bn in 2025",
+      "Antoine Bozio: \"Pour 2025, vous aurez des destructions d'emplois\""
+    ],
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.publicsenat.fr/actualites/economie/pour-2025-vous-aurez-des-destructions-demplois-estime-leconomiste-antoine-bozio-a-propos-de-la-reforme-des-allegements-de-cotisations-sociales"
+    ],
+    "feasibility": "demanding",
+    "feasibility_basis": "analysis",
+    "feasibility_note": "Deliverable in principle but dependent on conditions Attal did not control. Recasting employer contribution reliefs requires primary legislation in a budget bill, and his coalition held only a relative majority in the National Assembly — which is why he declined a confidence vote on 16 January 2024. The economists' own central scenario was budget-neutral, meaning the redesign necessarily raised labour costs for some employers in order to lower them for others, so the measure needed political capital the government's parliamentary position did not supply.",
+    "feasibility_source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.publicsenat.fr/actualites/economie/pour-2025-vous-aurez-des-destructions-demplois-estime-leconomiste-antoine-bozio-a-propos-de-la-reforme-des-allegements-de-cotisations-sociales"
+    ]
+  },
+  {
+    "id": "attal-promise-rsa-15-hours",
+    "title": "Extend the 15-hour activity requirement for RSA recipients to every department by 1 January 2025",
+    "description": "Attal announced that the trial conditioning the revenu de solidarité active on fifteen hours of integration activity, then running in eighteen departments, would be extended nationwide: \"Je vous annonce que nous généraliserons ce dispositif à tous les départements de France d'ici au 1er janvier 2025.\"",
+    "date_made": "2024-01-30",
+    "category": "Welfare and employment",
+    "status": "kept",
+    "confidence_score": 0.8,
+    "reasoning": "The generalisation took effect on the date promised. The reform of the RSA applied across all departments from 1 January 2025, with recipients signing a contrat d'engagement providing for fifteen to twenty hours of activity a week. One qualification matters for how the pledge is read: France Travail and the ministries state the hours are an element of the engagement contract rather than a strict precondition for payment, and the final evaluation of the trial recorded debate among caseworkers and recipients about the target. The commitment as worded — nationwide extension by 1 January 2025 — was met.",
+    "key_evidence": [
+      "30 January 2024: nationwide extension promised by 1 January 2025, from a trial in 18 departments",
+      "1 January 2025: the RSA reform entered into force in all departments",
+      "Recipients sign a contrat d'engagement covering 15 to 20 hours of weekly activity",
+      "France Travail and the ministries: the hours are part of the engagement contract, not a condition for granting the allowance"
+    ],
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.ici.fr/infos/economie-social/reforme-du-rsa-en-quoi-consistent-les-15-heures-hebdomadaires-d-activites-5702348"
+    ],
+    "feasibility": "feasible",
+    "feasibility_basis": "analysis",
+    "feasibility_note": "Within the powers and resources available when promised. The legal framework already existed in the loi pour le plein emploi of December 2023, and the step was the administrative extension of a trial already running in eighteen departments rather than a new reform needing fresh legislation. No parliamentary majority was required, which is consistent with its being the one pledge in this set delivered on its stated date.",
+    "feasibility_source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.ici.fr/infos/economie-social/reforme-du-rsa-en-quoi-consistent-les-15-heures-hebdomadaires-d-activites-5702348"
+    ]
+  },
+  {
+    "id": "attal-promise-ame-reform",
+    "title": "Reform the state medical aid scheme (AME) before summer 2024 by regulation",
+    "description": "Attal committed to carrying out his predecessor's undertaking to reform the aide médicale de l'État: \"Je tiendrai l'engagement de ma prédécesseure de réformer l'aide médicale de l'État\", adding \"Nous le ferons avant l'été par voie réglementaire avec une base qui est connue : le rapport de Claude Evin et Patrick Stefanini.\"",
+    "date_made": "2024-01-30",
+    "category": "Health and immigration",
+    "status": "broken",
+    "confidence_score": 0.9,
+    "reasoning": "No reforming decree was issued before summer 2024 or during the remainder of his premiership. The government itself recorded the reason: in an answer published in the Journal officiel on 3 July 2025 it stated that the dissolution of the National Assembly and the successive changes of government had not allowed the reform to be completed. The file was reopened by Interior Minister Bruno Retailleau in September 2024 under a different government. The same answer indicated the scheme's principles were not to be called into question nor restricted to urgent care, so the Evin-Stefanini basis Attal cited was not implemented as announced.",
+    "key_evidence": [
+      "30 January 2024: reform promised \"avant l'été par voie réglementaire\", on the basis of the Evin-Stefanini report",
+      "No reforming decree was published in 2024",
+      "Ministerial answer published 3 July 2025: the dissolution and changes of government prevented the reform from being completed",
+      "September 2024: the file was reopened by Interior Minister Bruno Retailleau under a successor government"
+    ],
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.franceinfo.fr/politique/gabriel-attal/declaration-de-politique-generale-gabriel-attal-annonce-une-reforme-de-l-aide-medicale-d-etat-avant-l-ete-par-voie-reglementaire_6335461.html",
+      "https://www.senat.fr/questions/base/2025/qSEQ250102741.html"
+    ],
+    "feasibility": "feasible",
+    "feasibility_basis": "analysis",
+    "feasibility_note": "This was the most clearly deliverable pledge in the set, which is what makes the outcome notable. Attal specified the regulatory route — \"par voie réglementaire\" — which needs no parliamentary majority and no new statute, and he named an existing report as the basis. The obstacle was not legal or budgetary capacity: the government's own later account attributes the failure to the dissolution it called in June 2024 and the ministerial turnover that followed.",
+    "feasibility_source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.senat.fr/questions/base/2025/qSEQ250102741.html"
+    ]
+  },
+  {
+    "id": "attal-promise-groupes-de-niveau",
+    "title": "Start ability grouping (groupes de niveau) in lower-secondary schools from the 2024 school year",
+    "description": "Presenting the \"choc des savoirs\" package he had launched as education minister, Attal said repeating a year would become the teaching team's decision and that \"les groupes de niveaux commenceront à se mettre en place, dès cette année, dans nos collèges\".",
+    "date_made": "2024-01-30",
+    "category": "Education",
+    "status": "compromise",
+    "confidence_score": 0.8,
+    "reasoning": "The measure started as announced but was applied by a minority of schools and has since been undone. A SNES-FSU survey reported by the specialist outlet Café pédagogique found only about one collège in five (19%) fully applying the grouping. The requirement was then removed: a decree published on 12 March 2026 ended the obligation to organise French and mathematics teaching in ability or needs-based groups, with effect from the 2026 school year. Teaching unions describe the obligation as abandoned, while the SE-Unsa notes the text still permits schools to group pupils across the whole timetable, so the practice is no longer required but remains possible.",
+    "key_evidence": [
+      "30 January 2024: grouping to begin in collèges \"dès cette année\"",
+      "SNES-FSU survey: only 19% of collèges fully applied the groupes de niveau",
+      "Decree published 12 March 2026 ended the obligation, from the 2026 school year",
+      "SE-Unsa: the decree still allows schools to apply grouping across the full timetable"
+    ],
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.cafepedagogique.net/2025/11/18/lechec-du-choc-des-savoirs-1-college-sur-5-applique-la-reforme-des-groupes-de-niveau/",
+      "https://www.cafepedagogique.net/2026/03/16/fin-des-groupes-de-niveau-la-mesure-du-choc-des-savoirs-officiellement-abandonnee/"
+    ],
+    "feasibility": "demanding",
+    "feasibility_basis": "analysis",
+    "feasibility_note": "Starting the measure was within the ministry's regulatory powers, but sustaining it was not assured. Grouping pupils by level in French and mathematics required schools to redeploy teaching hours within existing staffing, and take-up depended on head teachers and teaching teams rather than on a ministerial decision. The 19% full-application rate reported before the obligation was repealed indicates the implementation capacity the design assumed was not there.",
+    "feasibility_source_url": [
+      "https://www.cafepedagogique.net/2025/11/18/lechec-du-choc-des-savoirs-1-college-sur-5-applique-la-reforme-des-groupes-de-niveau/",
+      "https://www.cafepedagogique.net/2026/03/16/fin-des-groupes-de-niveau-la-mesure-du-choc-des-savoirs-officiellement-abandonnee/"
+    ]
+  },
+  {
+    "id": "attal-promise-school-uniform",
+    "title": "Generalise a school uniform nationwide from the 2026 school year if the trial proved conclusive",
+    "description": "Attal said the government supported the trial of a uniform in schools as a \"symbole d'égalité républicaine\" and, echoing the President, committed: \"si cette expérimentation est concluante, nous généraliserons l'uniforme en France à la rentrée 2026\".",
+    "date_made": "2024-01-30",
+    "category": "Education",
+    "status": "broken",
+    "confidence_score": 0.8,
+    "reasoning": "The trial ran for two years from 2024 across about a hundred schools and some collèges and lycées, and no nationwide generalisation followed at the 2026 school year. A first official evaluation published in May 2026 reported mixed results, and the decision on generalisation was deferred pending a second assessment. In practice the scheme was wound down rather than extended: the trial ended in the five schools taking part in Reims because the state withdrew its funding, take-up among lycée pupils remained limited and several establishments abandoned it mid-course. The pledge was conditional on a conclusive trial; that condition was not met and the promised generalisation did not take place.",
+    "key_evidence": [
+      "30 January 2024: generalisation promised at the 2026 school year if the trial proved conclusive",
+      "First official evaluation, May 2026: mixed results; decision deferred to a second assessment",
+      "No generalisation at the start of the 2026 school year",
+      "Reims: the trial ended in the five participating schools after the state withdrew funding"
+    ],
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://france3-regions.franceinfo.fr/grand-est/marne/reims/uniforme-a-l-ecole-pourquoi-l-experimentation-n-ira-pas-plus-loin-apres-deux-ans-d-essai-3290268.html"
+    ],
+    "feasibility": "demanding",
+    "feasibility_basis": "analysis",
+    "feasibility_note": "The pledge rested on two things the government had not secured. Its own wording made generalisation conditional on an evaluation whose result was unknown when the promise was made, and Attal had said the state would meet the cost in place of local authorities, which requires recurring budget provision. When the trial ended, the state funding was withdrawn rather than extended, and the schools concerned stopped.",
+    "feasibility_source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://france3-regions.franceinfo.fr/grand-est/marne/reims/uniforme-a-l-ecole-pourquoi-l-experimentation-n-ira-pas-plus-loin-apres-deux-ans-d-essai-3290268.html"
+    ]
+  },
+  {
+    "id": "attal-promise-snu-generalisation",
+    "title": "Launch work towards generalising the universal national service (SNU) at the 2026 school year",
+    "description": "Presenting the SNU as the means of \"permettre à tous les jeunes de France de faire nation\", Attal announced: \"Je lance les travaux en vue de sa généralisation à la rentrée scolaire 2026.\"",
+    "date_made": "2024-01-30",
+    "category": "Youth and civic policy",
+    "status": "broken",
+    "confidence_score": 0.85,
+    "reasoning": "Generalisation at the 2026 school year did not happen and was abandoned for lack of funding. Appearing before the Senate, Sports and Youth Minister Gil Avérous said the generalisation planned for 2026 was not financeable, because the 2025 appropriations would not allow going beyond what had been done in 2024. The SNU budget fell from €160m to €128m in the 2025 budget bill, and the finance committees of both chambers voted to remove the scheme from the state budget, though the minister said it would not be abolished. As of October 2026 the scheme remains in place on a voluntary basis without the general cohort the pledge envisaged.",
+    "key_evidence": [
+      "30 January 2024: work launched towards generalisation at the 2026 school year",
+      "Sports and Youth Minister Gil Avérous, before the Senate: the 2026 generalisation was not financeable on 2025 appropriations",
+      "SNU budget cut from €160m to €128m in the 2025 budget bill",
+      "The finance committees of both chambers voted to remove the SNU from the state budget"
+    ],
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.publicsenat.fr/actualites/parlementaire/le-ministre-confirme-que-le-snu-ne-sera-pas-generalise-en-2026-haro-des-senateurs-sur-un-dispositif-tres-couteux"
+    ],
+    "feasibility": "underfunded",
+    "feasibility_basis": "assessed",
+    "feasibility_note": "The Cour des comptes put the annual cost of a generalised SNU at between €3.5bn and €5bn. The scheme's budget at the time of the pledge was €160m, falling to €128m in the following budget bill — between roughly a fortieth and a thirtieth of the assessed cost of the generalisation announced. The responsible minister subsequently told the Senate the generalisation was not financeable on those appropriations.",
+    "feasibility_source_url": [
+      "https://www.publicsenat.fr/actualites/parlementaire/le-ministre-confirme-que-le-snu-ne-sera-pas-generalise-en-2026-haro-des-senateurs-sur-un-dispositif-tres-couteux"
+    ]
+  },
+  {
+    "id": "attal-promise-flamanville-epr",
+    "title": "Bring the Flamanville EPR reactor into operation during 2024",
+    "description": "Setting out his energy policy, Attal said he fully accepted leading a pro-nuclear government and that investment in the reactor fleet would continue: \"le réacteur pressurisé européen (EPR) de Flamanville sera opérationnel cette année\".",
+    "date_made": "2024-01-30",
+    "category": "Energy",
+    "status": "compromise",
+    "confidence_score": 0.75,
+    "reasoning": "The reactor reached the grid inside 2024 but was not operating at full output until a year later. Flamanville 3 was connected to the national grid on 20 December 2024, eleven days before the end of the year in which Attal said it would be operational. Full power was initially targeted for summer 2025, then deferred after maintenance on primary-circuit valves, and was reached in December 2025, with commercial operation reported from April 2026. Whether the pledge counts as met depends on what \"opérationnel\" is taken to mean: first electricity to the grid happened within 2024, a reactor running at rated output did not.",
+    "key_evidence": [
+      "30 January 2024: the Flamanville EPR \"sera opérationnel cette année\"",
+      "20 December 2024: the EPR was connected to the national electricity grid",
+      "Full power initially targeted for summer 2025, then deferred after primary-circuit valve maintenance",
+      "Full power reached in December 2025; commercial operation reported from April 2026"
+    ],
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.sfen.org/rgn/3-flamanville-des-premiers-electrons-a-la-pleine-puissance/"
+    ],
+    "feasibility": "demanding",
+    "feasibility_basis": "analysis",
+    "feasibility_note": "The date was not the government's to set. Commissioning the reactor depended on EDF's industrial schedule and on clearances from the nuclear safety regulator, and the project had already slipped by more than a decade against its original target. Announcing a calendar year for an operation of this kind committed the government to a milestone controlled by the operator and the regulator, and the subsequent deferral of full power came from valve maintenance rather than from any policy decision.",
+    "feasibility_source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.sfen.org/rgn/3-flamanville-des-premiers-electrons-a-la-pleine-puissance/"
+    ]
+  }
+]

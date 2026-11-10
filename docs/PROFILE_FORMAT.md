@@ -98,7 +98,10 @@ parliamentary registers of interests) where those are public.
 - `content_lang`: the language every text field is written in. **New profiles
   are written in English** (`en`), keeping native names and official titles in
   the original language where useful (e.g. "Federal Chancellor
-  (Bundeskanzler)"). The UI is translated, profile text is not.
+  (Bundeskanzler)"). Write the profile once, in one language: the other
+  locales are machine-translated from it at build time and labelled as such
+  (see [`TRANSLATION.md`](./TRANSLATION.md)). Never hand-translate a profile
+  into a second file.
 - `party`: native name with abbreviation, then the European Parliament group.
 - `birth_date`: `YYYY-MM-DD`.
 - `portrait` (optional): added by `python harvest.py portrait <slug>`, never
@@ -135,7 +138,7 @@ must not add more.
 
 | Section | Fields (required in bold) |
 | --- | --- |
-| promises | **title**, description, **date_made**, category, **status**, **confidence_score**, **reasoning**, key_evidence[] |
+| promises | **title**, description, **date_made**, category, **status**, **confidence_score**, **reasoning**, key_evidence[], feasibility, feasibility_basis, feasibility_note, feasibility_source_url[] |
 | polemics | **title**, period, category, **description**, **status**, confidence_score, key_facts[] |
 | justice | **case**, period, type, **description**, **status**, outcome, **court**, **presumption_note**, key_facts[] |
 | work_history | **role**, **organization**, **start_date**, end_date, description, category |
@@ -182,6 +185,40 @@ most significant ones, across policy areas.
   interpretation; below 0.5: say why in `reasoning`).
 - `source_url` must include the source of the promise itself and the evidence
   for the verdict.
+
+### Feasibility — was it ever deliverable?
+
+A separate question from whether it was kept. `status` is the outcome,
+`confidence_score` is how strong the evidence for that outcome is, and
+`feasibility` is whether the pledge could have been delivered **at the time it
+was made**, by the person who made it, with the powers and money available.
+
+- `feasibility`: `feasible` (within the powers and resources available),
+  `demanding` (possible, but needs conditions not assured — a majority,
+  a negotiation, growth), `underfunded` (the stated or costed funding falls
+  short), `outside_competence` (needs powers the officeholder does not hold:
+  another level of government, the ECB, EU exclusive competence),
+  `legally_blocked` (needs a legal or constitutional change not available to
+  them), `arithmetically_impossible` (cannot hold on the numbers),
+  `unassessed`.
+- `feasibility_basis`: `assessed` when an outside body costed it or ruled on
+  it — a court, an audit office (Cour des comptes, NAO), a budget office, an
+  official impact assessment, a published independent costing — with that
+  assessment in `feasibility_source_url`. `analysis` when the verdict follows
+  from kept.vote's own reading of published facts: seat arithmetic, a treaty
+  article, a budget line.
+- `feasibility_note`: two to four neutral sentences naming the constraint, in
+  the same register as `reasoning`. State the arithmetic or the rule; do not
+  speculate about motive. "A pledge the costings showed to be unfunded" is a
+  finding; "a pledge he never intended to keep" is not.
+- `feasibility_source_url`: required for `assessed`. For `analysis`, cite the
+  published facts the reasoning rests on (here or in the record's
+  `source_url`); an analysis that cites nothing is rejected by the validator.
+
+Both bases are shown on the page, and `analysis` is labelled there as
+kept.vote's own reading rather than an outside assessment. Mark a promise
+`unassessed` rather than guessing: an empty field is honest, a speculative
+verdict about a named person is not.
 
 ## Editorial rules
 

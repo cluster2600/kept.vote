@@ -231,5 +231,27 @@
   },
   "confidence": {
     "label": "Megbízhatóság"
+  },
+  "translation": {
+    "machineNotice": "Gépi fordítás ({language})",
+    "machineDetail": "Ez a profil {language} nyelven készült, és gépi fordítás útján jelenik meg. Az idézetek az eredeti nyelven szerepelnek. A fordítások ellenőrizetlen gépi kimenetek — a hivatkozott források szövege a meghatározó.",
+    "showOriginal": "Eredeti szöveg megjelenítése ({language})",
+    "listNotice": "Az oldalon szereplő profilszövegek gépi fordítások, és nincsenek ellenőrizve. Nyisson meg egy profilt az eredeti nyelv és a források megtekintéséhez."
+  },
+  "feasibility": {
+    "heading": "Megvalósítható volt?",
+    "basisAssessed": "Értékelte: {source}",
+    "basisAssessedGeneric": "Külső értékelés alapján",
+    "basisAnalysis": "A kept.vote elemzése, nem külső értékelés",
+    "sourcesLabel": "Az értékelés forrásai",
+    "labels": {
+      "feasible": "Megvalósítható",
+      "demanding": "Megvalósítható, de igényes",
+      "underfunded": "Alulfinanszírozott",
+      "outside_competence": "Hatáskörén kívül",
+      "legally_blocked": "Jogilag blokkolt",
+      "arithmetically_impossible": "A számok szerint lehetetlen",
+      "unassessed": "Nem értékelt"
+    }
   }
 }

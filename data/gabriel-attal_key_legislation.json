@@ -1,0 +1,39 @@
+[
+  {
+    "id": "attal-legislation-choc-des-savoirs",
+    "law_name": "\"Choc des savoirs\" education package",
+    "year": "2024",
+    "area": "Education",
+    "description": "Package launched by Attal as education minister and carried into his premiership, giving teaching teams the decision on repeating a year and introducing ability grouping in French and mathematics in collèges. Fully applied by about 19% of collèges; the obligation was repealed by a decree published on 12 March 2026, with effect from the 2026 school year.",
+    "significance": "His signature education reform, and the one his successors undid.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.cafepedagogique.net/2025/11/18/lechec-du-choc-des-savoirs-1-college-sur-5-applique-la-reforme-des-groupes-de-niveau/",
+      "https://www.cafepedagogique.net/2026/03/16/fin-des-groupes-de-niveau-la-mesure-du-choc-des-savoirs-officiellement-abandonnee/"
+    ]
+  },
+  {
+    "id": "attal-legislation-rsa-15-hours",
+    "law_name": "Nationwide extension of the 15-hour activity requirement for RSA recipients",
+    "year": "2025",
+    "area": "Welfare and employment",
+    "description": "Extension to all departments, from 1 January 2025, of a requirement trialled in eighteen departments, under which recipients of the revenu de solidarité active sign an engagement contract providing for fifteen to twenty hours of weekly activity.",
+    "significance": "The main welfare-to-work measure announced in his policy declaration to take effect as promised.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://www.ici.fr/infos/economie-social/reforme-du-rsa-en-quoi-consistent-les-15-heures-hebdomadaires-d-activites-5702348"
+    ]
+  },
+  {
+    "id": "attal-legislation-uniform-trial",
+    "law_name": "School uniform trial",
+    "year": "2024",
+    "area": "Education",
+    "description": "Trial of a single school outfit in around a hundred schools and some collèges and lycées, state-funded in place of local authorities, intended to lead to nationwide generalisation at the 2026 school year if conclusive. A first official evaluation in May 2026 found mixed results; no generalisation followed and state funding was withdrawn at the end of the trial.",
+    "significance": "Presented as a symbol of republican equality; discontinued without generalisation.",
+    "source_url": [
+      "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024.pdf",
+      "https://france3-regions.franceinfo.fr/grand-est/marne/reims/uniforme-a-l-ecole-pourquoi-l-experimentation-n-ira-pas-plus-loin-apres-deux-ans-d-essai-3290268.html"
+    ]
+  }
+]
