@@ -20,9 +20,11 @@ import {
   parseRobots,
   robotsAllows,
   robotsStatusFor,
+  runMetrics,
   titleOf,
   urlProblem,
   type HarvestStatus,
+  type PreviousSnapshot,
   type RobotsGroup,
   type RobotsPolicy,
 } from "./policy.ts";
@@ -314,6 +316,7 @@ async function dueTargets(env: Env, limit: number): Promise<string[]> {
 async function runBatch(env: Env, trigger: string) {
   const startedAt = new Date().toISOString();
   const urls = await dueTargets(env, BATCH_SIZE);
+  const previous = await previousSnapshots(env, urls);
   const robotsCache: RobotsCache = new Map();
   const snapshots: Snapshot[] = [];
   for (let i = 0; i < urls.length; i += PARALLEL) {
@@ -331,7 +334,20 @@ async function runBatch(env: Env, trigger: string) {
     env.DB.prepare(`DELETE FROM auth_challenges WHERE expires_at < ?`).bind(startedAt),
   );
   await env.DB.batch(statements);
+  // Workers Logs line read by the "Kitesurf Catalogue" dashboard (cost and new finds).
+  console.log(JSON.stringify(runMetrics("kept-vote-kitesurf", urls.length, snapshots, previous)));
   return { trigger, checked: snapshots.length, reachable, problems: snapshots.length - reachable, browserMs };
+}
+
+/** Status and content hash of each URL before this run, to tell new finds and changes apart. */
+async function previousSnapshots(env: Env, urls: string[]): Promise<Map<string, PreviousSnapshot>> {
+  if (!urls.length) return new Map();
+  const { results } = await env.DB.prepare(
+    `SELECT url, status, content_hash FROM snapshots WHERE url IN (${urls.map(() => "?").join(", ")})`,
+  )
+    .bind(...urls)
+    .all<PreviousSnapshot & { url: string }>();
+  return new Map(results.map((r) => [r.url, { status: r.status, content_hash: r.content_hash }]));
 }
 
 // ---- Auth -------------------------------------------------------------------

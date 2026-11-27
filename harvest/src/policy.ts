@@ -173,3 +173,58 @@ export function excerptOf(markdown: string): string {
 export function normalizeForHash(markdown: string): string {
   return stripFrontmatter(markdown).toLowerCase().replace(/\s+/g, " ").trim();
 }
+
+// ---- Run metrics (Workers Logs -> "Kitesurf Catalogue" Cloudflare dashboard) ----
+
+/** Browser Run list price beyond the Workers Paid allowance (10 browser-hours/month). */
+export const BROWSER_USD_PER_HOUR = 0.09;
+
+export interface PreviousSnapshot {
+  status: string;
+  content_hash: string | null;
+}
+
+export interface CurrentSnapshot {
+  url: string;
+  status: string;
+  content_hash: string | null;
+  browser_ms: number;
+}
+
+/**
+ * One structured line per run. newFinds = reachable now but not at the previous check
+ * (or never checked); changed = reachable pages whose content hash moved.
+ * estUsd is marginal cost: it ignores the free allowance.
+ */
+export function runMetrics(
+  worker: string,
+  dueCount: number,
+  snapshots: CurrentSnapshot[],
+  previous: Map<string, PreviousSnapshot>,
+) {
+  let reachable = 0;
+  let newFinds = 0;
+  let changed = 0;
+  let browserMs = 0;
+  for (const s of snapshots) {
+    browserMs += s.browser_ms;
+    if (s.status !== "reachable") continue;
+    reachable++;
+    const before = previous.get(s.url);
+    if (before?.status !== "reachable") newFinds++;
+    else if (s.content_hash && before.content_hash && s.content_hash !== before.content_hash) changed++;
+  }
+  return {
+    event: "kitesurf_run",
+    worker,
+    status: snapshots.length === reachable ? "ok" : reachable ? "partial" : snapshots.length ? "failed" : "ok",
+    sources: dueCount,
+    observed: snapshots.length,
+    reachable,
+    newFinds,
+    changed,
+    errorCount: snapshots.length - reachable,
+    browserMs,
+    estUsd: (browserMs / 3_600_000) * BROWSER_USD_PER_HOUR,
+  };
+}
