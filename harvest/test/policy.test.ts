@@ -9,6 +9,7 @@ import {
   parseRobots,
   robotsAllows,
   robotsStatusFor,
+  runMetrics,
   titleOf,
   urlProblem,
 } from "../src/policy.ts";
@@ -115,4 +116,32 @@ test("tokens: valid until expiry, bound to the key, not forgeable", async () => 
   const [exp, sig] = token.split(".");
   assert.equal(await verifyToken("key-1", `${Number(exp) + 60}.${sig}`, now), false);
   assert.equal(await verifyToken("key-1", "garbage", now), false);
+});
+
+test("runMetrics separates new finds, content changes and failures", () => {
+  const previous = new Map([
+    ["https://a.example/", { status: "reachable", content_hash: "h1" }],
+    ["https://b.example/", { status: "reachable", content_hash: "h2" }],
+    ["https://c.example/", { status: "blocked", content_hash: null }],
+  ]);
+  const m = runMetrics("kept-vote-kitesurf", 5, [
+    { url: "https://a.example/", status: "reachable", content_hash: "h1", browser_ms: 1_800_000 }, // unchanged
+    { url: "https://b.example/", status: "reachable", content_hash: "h9", browser_ms: 0 }, // changed
+    { url: "https://c.example/", status: "reachable", content_hash: "h3", browser_ms: 1_800_000 }, // newly reachable
+    { url: "https://d.example/", status: "reachable", content_hash: "h4", browser_ms: 0 }, // first harvest
+    { url: "https://e.example/", status: "timeout", content_hash: null, browser_ms: 0 },
+  ], previous);
+  assert.equal(m.event, "kitesurf_run");
+  assert.equal(m.status, "partial");
+  assert.deepEqual(
+    [m.sources, m.observed, m.reachable, m.newFinds, m.changed, m.errorCount, m.browserMs],
+    [5, 5, 4, 2, 1, 1, 3_600_000],
+  );
+  assert.equal(m.estUsd, 0.09);
+});
+
+test("runMetrics reports an empty batch as ok with zero cost", () => {
+  const m = runMetrics("kept-vote-kitesurf", 0, [], new Map());
+  assert.equal(m.status, "ok");
+  assert.equal(m.estUsd, 0);
 });
